@@ -1,0 +1,119 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "The morning was the queen's entrance into the garden. Kemp was not on the plot. You kept the king out of the scene, and you did not put a fool in to keep the peace. Sixteen days stand before the yard. Nick took two paces toward where the shadow would be. Phillips was in the house for his own roll. This pass was not his, and Verona was not in anyone's mouth.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set Nick in the shadow, and kept the king and the fool out.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked not to be furniture, and sat the pass out on the stair.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took two paces, and went quieter.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave him the two paces, and played the hedge.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Wrote no fool and no margin, and left Kemp off the plot.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "In the house for his roll. This pass was the garden. He was not told anything of the other play.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "In the door. They did not speak, and they were to have it back.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not sent for. The plot was left to answer him.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "sixteen days",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The garden, and no fool",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Gave the entrance to Nick and the hedge to Pope",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "William Shakespeare",
+    "Nick Sorrell",
+    "Thomas Pope",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the garden",
+    "sixteen days",
+    "no fool",
+    "the shadow"
+  ],
+  "quotes": [
+    {
+      "speaker": "abel_garnish",
+      "text": "Kemp is not on the plot, and I have not sent for him."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The king is not in this garden, Dick."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not putting a fool in this king to keep the peace."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "narrative": "A black-letter bill by the window. Title, house, and hour. No author's name. No sum. No face. The lower line only. The bill is not folded. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the title and did not cross."
+    },
+    {
+      "type": "Project",
+      "name": "The Wise Man",
+      "role": "mentioned",
+      "context": "Shown on bill in Wise Man, title only"
+    }
+  ]
+}

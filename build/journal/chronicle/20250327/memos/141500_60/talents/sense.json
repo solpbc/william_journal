@@ -1,0 +1,42 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "In the afternoon, after seven hours with nobody to talk to, you said the name twice, to hear it. You gave him no words beyond the name.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the name twice and stopped.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said Gaunt twice",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the name",
+    "twice",
+    "no speech"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Gaunt."
+    }
+  ]
+}

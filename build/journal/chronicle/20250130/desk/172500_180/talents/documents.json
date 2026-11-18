@@ -1,0 +1,56 @@
+{
+  "overview": "You marked Thursday the twentieth of February, and Shrove Tuesday the fourth of March. You did not mark a third afternoon. The want of four was said at the table. The almanac shows the two days you were willing to name.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Marked the two dates."
+    },
+    {
+      "name": "John Heminges",
+      "role": "visible",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Stood at the table while the marks went in. His face is not on the page."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the twentieth",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Shrove Tuesday",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the almanac",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the almanac",
+      "asset_type": "other",
+      "disposition": "Marked the twentieth and Shrove Tuesday"
+    },
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Marked the twentieth and Shrove Tuesday"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-30",
+      "meaning": "The twentieth"
+    }
+  ],
+  "summary": "Marked the twentieth and Shrove Tuesday"
+}

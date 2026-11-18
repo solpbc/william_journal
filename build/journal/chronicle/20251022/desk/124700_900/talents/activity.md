@@ -1,0 +1,1 @@
+You sat with the leaf and did not write. You looked at the window and at the knot. Before you went to wash, you shut the tables. The afternoon's work was still unwritten, and the fair copy was still tied.

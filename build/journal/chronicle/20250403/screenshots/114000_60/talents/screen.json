@@ -1,0 +1,23 @@
+{
+  "narrative": "Market day at the High Cross: butter-women, a glove stall, two small figures running ahead",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "In Two small figures"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "context": "Ran ahead, one of the two small figures."
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "context": "Ran ahead, the other."
+    }
+  ]
+}

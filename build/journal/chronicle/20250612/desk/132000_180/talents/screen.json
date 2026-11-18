@@ -1,0 +1,17 @@
+{
+  "narrative": "A black-letter bill on the table. Title, house, and hour. No author's name. No sum. No face. The lower line. The bill is not in a pocket. The hat is on the peg. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the title and kept the house."
+    },
+    {
+      "type": "Project",
+      "name": "Hercules",
+      "role": "mentioned",
+      "context": "Shown on bill in Hercules, the first part"
+    }
+  ]
+}

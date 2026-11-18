@@ -1,0 +1,114 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "The loaf was still a finger and a half short of the notch, and still a penny. Alse did not put it on a pan. You paid threepence and did not open the coffer. Verbeke had seen a large moon and asked for no meaning. You sent no letter, and you did not begin another play. Mistress Ansell told you not to improve your wife's sentence. It had silenced the table once. Gib stayed on the chronicle.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid threepence, sent no letter, began no play, and left the sentence alone.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the finger and a half and the penny, took the threepence, and stopped a better answer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the loaf by the notch, not on a pan, and left Gib where he was.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Mentioned the large moon and asked for no meaning.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Lay on the chronicle.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Still a finger and a half",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "threepence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Still a finger and a half",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the chronicle",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Still a finger and a half",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Paid threepence for the short loaf",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "William Shakespeare",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the short loaf",
+    "threepence",
+    "the large moon",
+    "the sentence left alone"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A finger and a half, still. A penny, still."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not opening the coffer to find it."
+    },
+    {
+      "speaker": "gillis_verbeke",
+      "text": "The moon was large when I came to the loom."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "do not improve your wife's sentence."
+    }
+  ]
+}

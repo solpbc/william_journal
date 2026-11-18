@@ -1,0 +1,43 @@
+{
+  "overview": "On the tables you wrote three phrases and nothing else. No name, no number, and no title. You shut the tables and turned back.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the phrases and shut the tables."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the tables",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "brazen tombs",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "cormorant Time",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "heirs of eternity",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-02-09",
+      "meaning": "Brazen tombs"
+    }
+  ],
+  "summary": "Wrote three phrases and shut the tables"
+}

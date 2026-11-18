@@ -1,0 +1,90 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You crossed the market with the three ahead and the cloth shut. Nobody made a race of the street. Anne kept the walk pointed toward home. You did not stop.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Crossed the market toward home",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Crossed the market toward home",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Crossed the market toward home",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Crossed the market toward home",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Crossed the market toward home",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the pie",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Crossed the market toward home",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Ate dinner at the Sadlers'",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Susanna Shakespeare",
+    "Hamnet Shakespeare",
+    "Judith Shakespeare",
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the market",
+    "the shut cloth",
+    "the walk home"
+  ],
+  "quotes": [
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "The cloth is shut."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "We are going home, and the street is the way, not a show."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+In the afternoon your mother pressed dried lavender and a flitch of salt bacon into the bags and told you to put the dry things above the wet. She said you were thin. Anne took the off-side strap and knotted it twice against the ring, and told you not to improve the knot in the morning.

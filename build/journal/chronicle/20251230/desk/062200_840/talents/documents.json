@@ -1,0 +1,38 @@
+{
+  "overview": "You set a clean sheet beside the almanac and wrote the place and her name. You left the day as xxx. You had not yet written the nights, and the coffer stayed shut.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the sheet, set the pen down, and got up without it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "a clean sheet",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the date left open",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "her name",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-30",
+      "meaning": "Set a clean sheet for the letter to Anne"
+    }
+  ],
+  "summary": "Wrote Anne's letter on the sheet"
+}

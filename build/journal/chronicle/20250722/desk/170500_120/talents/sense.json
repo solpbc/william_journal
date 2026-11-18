@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You looked at the slip after the telling. It had five condemned, and the charge of high treason, levying war, not riot. It had no day. You did not supply a title, and you did not carry the slip home.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the charge and left the paper where it was.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Guildhall trial",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Five, and no day",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read the charge of levying war",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "five condemned",
+    "no day",
+    "no title"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 480.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "14:11:00", "text": "Go. The middle is not going to widen because you are fond of a doorway.", "timing": {"end": 190.0, "start": 60.0}}
+{"sentence_id": 2, "speaker": "joan_shakespeare", "start": "14:13:10", "text": "Beans when you are back. I have said beans. I am still saying them.", "timing": {"end": 320.0, "start": 190.0}}
+{"sentence_id": 3, "speaker": "hamnet_shakespeare", "start": "14:15:20", "text": "The arch first. Then beans. He said the middle, and a middle has an arch in it.", "timing": {"end": 400.0, "start": 320.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "14:16:40", "text": "The middle. Come, the three of you. The knife is in the belt, and the book is in her hand.", "timing": {"end": 410.0, "start": 400.0}}

@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20251123",
+    "end": "20251129"
+  },
+  "generated_at": "2025-11-29T22:00:00Z",
+  "days": [
+    {
+      "day": "20251123",
+      "state": "memory",
+      "memory_id": "m-20251123-0"
+    },
+    {
+      "day": "20251124",
+      "state": "memory",
+      "memory_id": "m-20251124-1"
+    },
+    {
+      "day": "20251125",
+      "state": "memory",
+      "memory_id": "m-20251125-2"
+    },
+    {
+      "day": "20251126",
+      "state": "memory",
+      "memory_id": "m-20251126-3"
+    },
+    {
+      "day": "20251127",
+      "state": "memory",
+      "memory_id": "m-20251127-4"
+    },
+    {
+      "day": "20251128",
+      "state": "memory",
+      "memory_id": "m-20251128-5"
+    },
+    {
+      "day": "20251129",
+      "state": "memory",
+      "memory_id": "m-20251129-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20251123-0",
+      "key": "mem_20251123_0",
+      "day": "20251123",
+      "text": "Two candles, and a bank of wild thyme left standing. The loaf is two fingers and a penny. The sixpence is the firing.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251123/talents/morning_briefing",
+        "briefing_day": "20251123",
+        "refs": [
+          "sol://facets/household/activities/20251123#meeting_082000_480",
+          "sol://facets/household/activities/20251123#meeting_094000_480",
+          "sol://facets/writing/activities/20251123#note_150000_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20251124-1",
+      "key": "mem_20251124_1",
+      "day": "20251124",
+      "text": "The brief is granted, and the gathering is still ahead. One pound back, one pound still owed, two pounds to the town rather than to the man. Six lines waiting on the fourth.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251124/talents/morning_briefing",
+        "briefing_day": "20251124",
+        "refs": [
+          "sol://facets/household/activities/20251124#meeting_082000_360",
+          "sol://facets/company/activities/20251124#frame_140500_120",
+          "sol://facets/company/activities/20251124#meeting_162000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20251125-2",
+      "key": "mem_20251125_2",
+      "day": "20251125",
+      "text": "John takes the day by the item. Gaunt in the cut book. Three leaves under it. Nick left in peace, and not told about Arthur.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251125/talents/morning_briefing",
+        "briefing_day": "20251125",
+        "refs": [
+          "sol://facets/company/activities/20251125#call_073000_240",
+          "sol://facets/company/activities/20251125#memo_073600_60",
+          "sol://facets/company/activities/20251125#meeting_091000_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20251126-3",
+      "key": "mem_20251126_3",
+      "day": "20251126",
+      "text": "Three nights named. The thumb goes. Two hours and a half. New hose, of the stock. The court money is not in the house. Clerkenwell is the sixteenth.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251126/talents/morning_briefing",
+        "briefing_day": "20251126",
+        "refs": [
+          "sol://facets/household/activities/20251126#meeting_084000_180",
+          "sol://facets/writing/activities/20251126#note_111000_360",
+          "sol://facets/company/activities/20251126#meeting_170500_840"
+        ]
+      }
+    },
+    {
+      "id": "m-20251127-4",
+      "key": "mem_20251127_4",
+      "day": "20251127",
+      "text": "The joke is struck out. Six, and a lion. The sixth, and not before. Men first, then asses.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251127/talents/morning_briefing",
+        "briefing_day": "20251127",
+        "refs": [
+          "sol://facets/company/activities/20251127#meeting_091000_720",
+          "sol://facets/company/activities/20251127#frame_140500_120",
+          "sol://facets/writing/activities/20251127#note_165500_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20251128-5",
+      "key": "mem_20251128_5",
+      "day": "20251128",
+      "text": "Term ends. Citizens and their wives first. A penny at the Rose. One line on the tables.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251128/talents/morning_briefing",
+        "briefing_day": "20251128",
+        "refs": [
+          "sol://facets/company/activities/20251128#frame_073000_120",
+          "sol://facets/company/activities/20251128#memo_073400_120",
+          "sol://facets/company/activities/20251128#frame_140500_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20251129-6",
+      "key": "mem_20251129_6",
+      "day": "20251129",
+      "text": "Titus, in the gown you had. Two-and-thirty shillings, said once. Five mornings at nine. Michaelmas still the last count. Both locks shut.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251129/talents/morning_briefing",
+        "briefing_day": "20251129",
+        "refs": [
+          "sol://facets/household/activities/20251129#meeting_083000_240",
+          "sol://facets/company/activities/20251129#frame_140500_120",
+          "sol://facets/company/activities/20251129#meeting_165000_720"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20251123-0",
+      "key": "said_20251123_0",
+      "day": "20251123",
+      "quote": "I have two lines I do not trust, and bread will not mend them.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20251123#meeting_152000_300"
+      }
+    },
+    {
+      "id": "s-20251124-1",
+      "key": "said_20251124_1",
+      "day": "20251124",
+      "quote": "I did not walk to Carter Lane to be told a hope.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20251124#meeting_180500_720"
+      }
+    },
+    {
+      "id": "s-20251124-2",
+      "key": "said_20251124_2",
+      "day": "20251124",
+      "quote": "I'll give two to the town, Richard, and lend nothing to the man, and we'll still be friends at Lady Day.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20251124#meeting_192000_720"
+      }
+    },
+    {
+      "id": "s-20251126-3",
+      "key": "said_20251126_3",
+      "day": "20251126",
+      "quote": "It is three pages and a speech, and it is not made ready by being wanted.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251126#memo_194000_120"
+      }
+    },
+    {
+      "id": "s-20251127-4",
+      "key": "said_20251127_4",
+      "day": "20251127",
+      "quote": "I am crossing it while thou art in the room, so I do not love it later.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251127#meeting_180500_840"
+      }
+    },
+    {
+      "id": "s-20251127-5",
+      "key": "said_20251127_5",
+      "day": "20251127",
+      "quote": "A fair copy of a bad joke is how a bad joke gets believed.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251127#meeting_180500_840"
+      }
+    },
+    {
+      "id": "s-20251129-6",
+      "key": "said_20251129_6",
+      "day": "20251129",
+      "quote": "I am going home to write one line and turn two locks. That is the whole of my counting.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251129#meeting_165000_720"
+      }
+    }
+  ]
+}

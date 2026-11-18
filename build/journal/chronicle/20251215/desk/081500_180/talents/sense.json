@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "In the morning the letter was still unsealed. You did not add the withheld things, and you did not write a postscript. You put the open sheet into your book for Thursday.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Put the open letter away without adding to it.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Read the close of the Christmas letter",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the unsealed letter",
+    "nothing added",
+    "Thursday still ahead"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,124 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You came home to find the three already there, and the race they had run was only an argument. Susanna had carried the cloth, and the corner was still a corner. Joan put it aside until after the water. You gave them the river again as the middle of the afternoon, and not the whole of it. Anne sent you for your father's knife, and told you to bring it back. The book was going. The cloth was staying.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Came home to the corner of pie",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Came home to the corner of pie",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Came home to the corner of pie",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Came home to the corner of pie",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Came home to the corner of pie",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Came home to the corner of pie",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the pie",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Came home to the corner of pie",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the paring-knife",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Came home to the corner of pie",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Golding's Ovid",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Came home to the corner of pie",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came in from the lane",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Joan Shakespeare",
+    "Hamnet Shakespeare",
+    "Judith Shakespeare",
+    "Susanna Shakespeare",
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cloth",
+    "a race that was an argument",
+    "the knife",
+    "the middle of the afternoon"
+  ],
+  "quotes": [
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "The cloth is here. I carried it."
+    },
+    {
+      "speaker": "joan_shakespeare",
+      "text": "It has survived."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Toward the middle of the afternoon. Not the whole of it."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "The knife is thy father's."
+    }
+  ]
+}

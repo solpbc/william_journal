@@ -1,0 +1,69 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "A tapster and a waterman got as far as the stair. Mistress Ansell would not have the manner of the news in the kitchen. Verbeke had heard a name in the lane and would not repeat it. You said there were three mouths and they would not match, and that you would not pay a penny to go. You were never going. You did not look at a bill. The Shrew was named as the company's afternoon, and you stayed in.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the versions over the bread, and said he was never going.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped the manner at the mat, and would not add her neighbour's account.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported a name he would not repeat, and went back to the loom.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stayed in on the day of the hanging",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the shut kitchen",
+    "three mouths",
+    "a penny not paid",
+    "The Shrew not his"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not pay a penny to go and stand where it was done."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The manner stays outside."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I was never going."
+    }
+  ]
+}

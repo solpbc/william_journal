@@ -1,0 +1,51 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You were at the wall while the boys beat it with willow wands. Master Thwaite had his book. The picture is the boys, the wands, the wall, and the book.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "attendee in Wands at the wall",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Held the book at the wall.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the parish bounds",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Wands at the wall",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood at the wall while the boys beat it with willow wands",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "willow wands",
+    "the wall",
+    "Master Thwaite's book"
+  ],
+  "quotes": []
+}

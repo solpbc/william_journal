@@ -1,0 +1,1 @@
+You were not dressed for the afternoon. You told the house that Titus goes on without you, and that you go at five. Alse set dinner as if you were staying. Mistress Ansell kept the pot ordinary, and kept noon as hers. You had pages to read, and they were not the play the house was giving.

@@ -1,0 +1,1 @@
+Gilbert called from the Bell. He had run from the shop. The fire was last week, and the accounts did not agree: half the High Street, Henley Street, forty houses, and then Hobbins's twenty at the north end. There was a letter in Anne's hand, and Hobbins would give it to nobody else. You said you were coming. The call stopped before the commendation was finished.

@@ -1,0 +1,17 @@
+{
+  "narrative": "The tables, open in the tiring-house. One sentence under the morning. The three words from Tuesday are still on the leaf, not crossed. The three words sit beside the new sentence, uncrossed. The pen is already put away.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the sentence where the rehearsal had been, and did not spend the three words."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on tables in Use it"
+    }
+  ]
+}

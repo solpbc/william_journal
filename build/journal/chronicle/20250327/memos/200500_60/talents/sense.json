@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "On the dark miles past Oxford you said that sixty-odd miles were behind you, and that you had forgotten what you meant to say to Anne. You were glad of it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the miles, and let the prepared words go.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sixty-and-odd",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Forgot the speech for Anne",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the miles",
+    "what to say to her",
+    "forgetting it"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I've forgot what I meant to say to her. Good."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "In the parlour after the cry, you had the horses and the flour, and Richard had the gallery. The lawyers went quiet. He had that from the stage. Kemp said you were more fearful a fortnight ago, with the cold. Sincler asked how a man stands so as to look dead. You told him to think of the reckoning. The Rose has the second Tamburlaine. You did not go, and you did not see the yard from under the stage.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Owned the horses and the flour, and told Sincler to think of the reckoning.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said you were more fearful a fortnight ago, and sent you to wash.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the quiet gallery from the stage, and would not have the cry repeated for comfort.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Sincler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked how to stand so as to look dead, and took the answer straight.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the old Hamlet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Think of the reckoning",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "2 Tamburlaine",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Think of the reckoning",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Told Sincler to think of the reckoning",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Will Kemp",
+    "William Shakespeare",
+    "Richard Burbage",
+    "John Sincler"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the ghost",
+    "the quiet gallery",
+    "the fortnight's cold",
+    "Sincler's question",
+    "the other house"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "The gallery of lawyers went quiet"
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "You were more fearful a fortnight ago, with the cold"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Think of the reckoning, John"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I heard the horses cough;"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Alone, you repeated the sum and the season, and you said neither the money nor the roof goes into the book. You kept Field and the tiring-house out of it. You stopped.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Repeated the limit, and stopped.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Did not enter the six hundred",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "six hundred",
+    "not in the book",
+    "the oath kept"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Neither of them goes in the book."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The printer did not hear it."
+    }
+  ]
+}

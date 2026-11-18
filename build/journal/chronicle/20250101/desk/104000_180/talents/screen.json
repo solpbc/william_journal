@@ -1,0 +1,17 @@
+{
+  "narrative": "A foul sheet with the fifth act begun at the head, north light on the page, the pen moving. The next line started and left, a clean space under it, the pen set down.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the oath and did not fill the space under it."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on draft in Four hands to an oath"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+You wrote the bar-counts in the margin of the feast leaf, where Garnish will find them. Sixteen bars for the welcome and the voice under the mask, then the viol down, then the fourteen lines over it. You did not copy a speech onto the margin.

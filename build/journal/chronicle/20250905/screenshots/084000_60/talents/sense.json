@@ -1,0 +1,43 @@
+{
+  "density": "idle",
+  "content_type": "media",
+  "activity_summary": "You looked at the two sheets on the post. One was newer. The morning light was on the paper. You did not take them down, and you did not turn toward the river.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Looked at the post. His face is not in it.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the post by the Bull",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Both sheets",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Saw the two sheets and walked on",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two sheets",
+    "the post",
+    "the morning light"
+  ],
+  "quotes": []
+}

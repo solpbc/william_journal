@@ -1,0 +1,97 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Gilbert had brought the parcel from the house. You paid Hobbins sixpence for it and twopence for the letter, eightpence in all. He has six horses. The ruts are iron, and he walked the last mile in. He would not turn the inward bags out until the horses had drunk. Nothing from Stratford was put in your hand. You did not ask for a letter inward. Gilbert goes on to St Bride's after the horses drink.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid eightpence and left with nothing inward.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the parcel and the letter, priced them, and watered the horses before any sorting.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gilbert Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had brought the parcel from the house, looked at the horses' feet, and went on to St Bride's.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named on the direction. Not present.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the parcel",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Eightpence, and the horses first",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "8d",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Eightpence, and the horses first",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Paid the carrier eightpence",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Hobbins",
+    "William Shakespeare",
+    "Gilbert Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "eightpence",
+    "the parcel",
+    "iron ruts",
+    "the bags unopened"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_hobbins",
+      "text": "Twopence the letter, sixpence the parcel, and nothing at all for what you shout after me down the yard."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Sixpence the parcel. Twopence the letter. There. Eightpence."
+    },
+    {
+      "speaker": "thomas_hobbins",
+      "text": "The ruts are iron from here to the hill."
+    },
+    {
+      "speaker": "thomas_hobbins",
+      "text": "I can carry the letter. I cannot make her read what you meant instead."
+    }
+  ]
+}

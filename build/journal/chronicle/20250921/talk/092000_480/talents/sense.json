@@ -1,0 +1,76 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Master Thwaite reached fourteenthly, and you lost the head he was on. You told him you had come because it was Sunday. Mistress Ansell told you to sit, and that Sir John was not your text. Sir John stayed in his pew and did not turn, and he did not speak. You brought no sentence home.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Lost the head of the sermon, and said he had come because it was Sunday.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told him to sit, and kept Sir John off his text.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said fourteenthly, and would not write the sermon out.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat in his pew. He did not turn, and he did not speak.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Lost Master Thwaite at fourteenthly",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Master Josias Thwaite"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "fourteenthly",
+    "Sir John's pew",
+    "nothing brought home"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "And fourteenthly."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have lost the head he is on."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Sir John is in his pew. He is not your text, and he is not looking."
+    }
+  ]
+}

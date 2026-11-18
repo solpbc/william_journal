@@ -1,0 +1,1 @@
+You tried the waking twice in his cadence, once as a piece that makes the room wait and once slower, and both times it was still yours. The third time you stopped. No. His. It's his. The queen stays unwritten on top of the leaf. Not tonight.

@@ -1,0 +1,17 @@
+{
+  "narrative": "The chair upside down on the trestles, a new peg pale in the old dark wood.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Out of the frame, on the way home."
+    },
+    {
+      "type": "Tool",
+      "name": "the property chair",
+      "role": "mentioned",
+      "context": "In photo: The chair upside down"
+    }
+  ]
+}

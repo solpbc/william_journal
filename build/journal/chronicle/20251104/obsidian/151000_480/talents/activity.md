@@ -1,0 +1,1 @@
+At home, while Richard III played without you, you wrote a few words toward the vault and struck them out. Her face, the drug, the five words, the Friar, and the dagger are not on the leaf. You stayed seated. You did not cross for the Rose.

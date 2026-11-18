@@ -1,0 +1,1 @@
+At Beaconsfield you wrote the sentence about the horse. Earlier, on the ridge, a strap had wanted mending and the bay had its own views about the hill. That mend was already done. You did not open a new place for it. You wrote the one sentence and rode on.

@@ -1,0 +1,78 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At supper you said you had left the Keys at eleven and were not in The Shrew. Mistress Ansell would not rule that play off one sentence, and she did not reopen her January verdict on the comedy. The latch stuck and sprang, and she left it on the door. The letter still waits for the carrier of the 27th. Your board was threepence.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the afternoon was the company's, kept Thursday's verdict as she had given it, and named no new errand.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Carried the pot, withheld a ruling on The Shrew, and left the latch where it was.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked about dinner and the ladies, and did not take a house candle.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he had seen the afternoon bill and had not stayed.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Supped at home",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "The Shrew without him",
+    "the January verdict",
+    "the latch",
+    "the unsent letter"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The Shrew was their bill at two. I was not in it."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I will not rule it off a single sentence."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It waits for the carrier on the twenty-seventh."
+    }
+  ]
+}

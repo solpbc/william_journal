@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:15:00", "text": "Tell him I've a king coming. Tell him it's long. Nothing is agreed.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:15:14", "text": "Not the timber. Not the curse. Not the letter home. Sleep.", "timing": {"end": 24.0, "start": 14.0}}

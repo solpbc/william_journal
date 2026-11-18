@@ -1,0 +1,38 @@
+{
+  "overview": "The light left the desk and you still had not folded the leaf. You did not light a candle for it. The question stood, and the blank stood.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the morning's leaf again in the afternoon"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the failing light",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the leaf still open",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no candle yet",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-30",
+      "meaning": "Sat on while the light left the desk"
+    }
+  ],
+  "summary": "Read the morning's leaf again in the afternoon"
+}

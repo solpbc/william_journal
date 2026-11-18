@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "15:40:00", "text": "Three things on one board. A king, two houses, and Easter. Sit still.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "15:40:16", "text": "Enough.", "timing": {"end": 26.0, "start": 16.0}}

@@ -1,0 +1,17 @@
+{
+  "narrative": "A rolled part in his hand at the side of the stage, the dowel worn smooth. The writing on it is his cue and nobody else's name. His face is not over it. The yard is not in the picture.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Held the roll at the start of the play."
+    },
+    {
+      "type": "Project",
+      "name": "The Taming of the Shrew",
+      "role": "mentioned",
+      "context": "Shown on part in An old man's roll"
+    }
+  ]
+}

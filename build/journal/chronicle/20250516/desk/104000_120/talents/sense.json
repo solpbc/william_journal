@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Before you left the Theatre you wrote that a king who listens frights more than one who shouts, and that you are to use it. The three words from Tuesday were still on the tables. The new sentence did not replace them, and it did not become the speech.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the sentence where the rehearsal had been, and did not spend the three words.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Use it",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote that a listening king frights more than a shouting one",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a king who listens",
+    "the three words still there"
+  ],
+  "quotes": []
+}

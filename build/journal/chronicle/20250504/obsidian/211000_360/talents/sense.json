@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You dated a night page the fourth of May 1595 and did not reopen the England speech. The tables already say that not all of them may sing, York short, Gaunt long, the king without an end. You left the foot of the page empty.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the date, kept the old line, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not all of them may sing",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Did not write the England speech",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the uncles' breath",
+    "an empty foot",
+    "no England speech"
+  ],
+  "quotes": []
+}

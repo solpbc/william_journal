@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "05:15:00", "text": "Not the straight end of the road. The long way, the same as I came.", "timing": {"end": 10.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "05:15:10", "text": "The horse knows the turn. I will not look at what the straight road is for.", "timing": {"end": 20.0, "start": 10.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "05:15:20", "text": "No name for it. No story for it. Ride.", "timing": {"end": 28.0, "start": 20.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "05:15:28", "text": "Enough.", "timing": {"end": 38.0, "start": 28.0}}

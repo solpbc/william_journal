@@ -1,0 +1,1 @@
+You came off for the last time with the paint still on. Burbage told you to stay out of the door. Nick had nothing left to say and did not practice a line. You said the paint and the stitch were the only news in the room. Burbage said John and George were by the outer door. You said you had no story yet. Nothing was said of any death.

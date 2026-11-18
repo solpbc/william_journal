@@ -1,0 +1,1 @@
+You left before the children woke. Anne stood in the door, as she does, and did not ask her question. You did not pack the bags again. You said the bay had had eleven days' grass and was no sweeter, and that her knot would be retied as she had tied it. You said the tables would take nothing today.

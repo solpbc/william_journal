@@ -1,0 +1,1 @@
+In the afternoon, while the Shrew went on without you, you left the messenger's half-line empty and wrote the women's sentence under it. A twelvemonth and a day. The words he would have said are still not there. Foul paper, not a finished act.

@@ -1,0 +1,59 @@
+{
+  "overview": "You wrote the coffer as nine pounds more, and you did not write a total. You gave each child a short paragraph of the same length. You signed, and you had not sealed the sheet.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote Anne's letter on the sheet"
+    },
+    {
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Susanna Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote Anne's letter on the sheet"
+    },
+    {
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Judith Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote Anne's letter on the sheet"
+    },
+    {
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Hamnet Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote Anne's letter on the sheet"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "nine pounds more",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "three children",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the signature",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-30",
+      "meaning": "Wrote nine pounds more, and a paragraph for each child"
+    }
+  ],
+  "summary": "Wrote Anne's letter on the sheet"
+}

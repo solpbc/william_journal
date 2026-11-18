@@ -1,0 +1,53 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You stayed on the Verona heading and added no speech. Sunday to Thursday is only a guess at the blank, and you do not trust it in March. The torch in the vault is still only an image, which is what you wrote. The chronicle is not here. The king is not open.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote on the same page and stopped before anyone spoke.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Brooke's Romeus and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The same opening",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Added the torch in the vault to the Verona page",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the same heading",
+    "the days still blank",
+    "a torch in a vault",
+    "no chronicle"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "No speech. No scene."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "NOT YET."
+    }
+  ]
+}

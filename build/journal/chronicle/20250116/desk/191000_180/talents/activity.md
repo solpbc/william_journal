@@ -1,0 +1,1 @@
+You wrote the sixpence and the twopence on the tables. Under them the older line is still there, Edith's eight shillings owing till Lady Day. You did not write a sum for the coffer. You did not rule a column for what you expect and a column for what you have had. You did not enter a week's share.

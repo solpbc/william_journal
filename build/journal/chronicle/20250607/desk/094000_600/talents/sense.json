@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You looked through the king again. The joins are still \"here a messenger\" and \"here York, angry.\" The line is still in the margin, with no words beside it. The pen stayed capped. The parliament sheet stayed the blank one.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the marks, capped the pen, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Still the marks",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Left the joins as marks and capped the pen",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the two joins",
+    "the margin-line",
+    "the blank sheet"
+  ],
+  "quotes": []
+}

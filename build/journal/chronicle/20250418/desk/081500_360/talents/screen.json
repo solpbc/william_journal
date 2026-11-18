@@ -1,0 +1,17 @@
+{
+  "narrative": "The chronicle is open at the King's last days. One question is written in the margin in his hand. Yesterday's sheets are not on the desk. The pen is set down.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the question, and stopped."
+    },
+    {
+      "type": "Project",
+      "name": "the chronicle",
+      "role": "mentioned",
+      "context": "Shown on book in The thing done"
+    }
+  ]
+}

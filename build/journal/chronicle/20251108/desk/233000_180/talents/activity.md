@@ -1,0 +1,1 @@
+At half past eleven the sheet shows the vault line and, under it, the dagger given its sheath and the families not fetched. The space below is blank. The candle is still burning. You did not dip the pen again.

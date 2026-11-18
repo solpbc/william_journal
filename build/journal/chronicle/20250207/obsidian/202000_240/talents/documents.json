@@ -1,0 +1,49 @@
+{
+  "overview": "You read the leaf over and changed nothing. You laid it in the folder with the two older leaves. There are three leaves now, and no name on any of them. They are for private friends, passed by hand or not at all. You did not read it into the room. There is no play for you today, and no rehearsal tomorrow till nine. You meant to be in bed by ten.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Filed the leaf and did not speak it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the fair copy",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the folder",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "private friends",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "tomorrow's hour",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the sonnet folder",
+      "asset_type": "other",
+      "disposition": "Laid the third leaf in the folder"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-02-07",
+      "meaning": "Three leaves in the folder"
+    }
+  ],
+  "summary": "Laid the third leaf in the folder"
+}

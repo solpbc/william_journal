@@ -1,0 +1,1 @@
+At the lodging you thought of God locked into nine clauses like a tenant into a lease, and of a weaver who could not keep a sentence together and would be the happier man. You wrote none of it. The walk that put the thought in your head is not a place you stayed.

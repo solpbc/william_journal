@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "By the fire the morning's leaf was open. The bellows-mender's line and the queen's question were both there. The blank under the question was still blank. You had not added a punishment since morning.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Held the leaf open and did not write on it.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Held the morning's leaf open by the fire",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the open leaf",
+    "the blank",
+    "the fire"
+  ],
+  "quotes": []
+}

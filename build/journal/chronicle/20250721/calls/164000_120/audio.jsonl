@@ -1,0 +1,14 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "gilbert_shakespeare", "start": "16:40:00", "text": "Brother? Gilbert. From the Bell, and I've run here from the shop.", "timing": {"end": 8.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:40:08", "text": "I am hardly out of the Duke's gown. Say it.", "timing": {"end": 16.0, "start": 8.0}}
+{"sentence_id": 3, "speaker": "gilbert_shakespeare", "start": "16:40:16", "text": "There's been fire again. Last week.", "timing": {"end": 24.0, "start": 16.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "16:40:24", "text": "Where.", "timing": {"end": 28.0, "start": 24.0}}
+{"sentence_id": 5, "speaker": "gilbert_shakespeare", "start": "16:40:28", "text": "The ostler says half the High Street. A drover says Henley Street. Somebody says forty houses.", "timing": {"end": 42.0, "start": 28.0}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "16:40:42", "text": "Forty is not twenty, and the High Street is not Henley Street. What does Hobbins say.", "timing": {"end": 54.0, "start": 42.0}}
+{"sentence_id": 7, "speaker": "gilbert_shakespeare", "start": "16:40:54", "text": "Twenty, and the north end. He's had three cups and four days in the saddle, and he'll tell me nothing more till he's eaten.", "timing": {"end": 68.0, "start": 54.0}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "16:41:08", "text": "Is there a letter.", "timing": {"end": 74.0, "start": 68.0}}
+{"sentence_id": 9, "speaker": "gilbert_shakespeare", "start": "16:41:14", "text": "There's one in Anne's hand, for you, and he'll give it to nobody else. I've not seen it but to look at the seal.", "timing": {"end": 88.0, "start": 74.0}}
+{"sentence_id": 10, "speaker": "william_shakespeare", "start": "16:41:28", "text": "Are they\u2014", "timing": {"end": 92.0, "start": 88.0}}
+{"sentence_id": 11, "speaker": "gilbert_shakespeare", "start": "16:41:32", "text": "I tell you I don't know. Come and read it.", "timing": {"end": 100.0, "start": 92.0}}
+{"sentence_id": 12, "speaker": "william_shakespeare", "start": "16:41:40", "text": "I am coming.", "timing": {"end": 106.0, "start": 100.0}}
+{"sentence_id": 13, "speaker": "gilbert_shakespeare", "start": "16:41:46", "text": "Run, then. God keep\u2014 go on.", "timing": {"end": 116.0, "start": 106.0}}

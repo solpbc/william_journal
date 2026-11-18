@@ -1,0 +1,112 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Nick asked for a clearer lead in the orchard. He had gone in a breath early, twice, where Romeo's last word and his own first come too close. Burbage said it had gone, and the yard had wept. You backed the boy. A fraction of doubt spreads like a crack through a pane, and the orchard is all pane. The lead is changed by two words. He comes in on the second of them, and not on the breath before it. The words are not said into the room. Larkham marked the book and both rolls, with his small sign, before a rival memory of the old cue could be carried off. Burbage tried it and said it was better. Phillips called Nick to the lute and told him to keep Saturday's note. The rest of the morning was the king Shoreditch already has. The three leaves stayed in the chest.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Backed the boy, kept the two words on the roll, and kept the chest shut.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the clearer lead, and went to the lute without singing the cue.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Doubted the need, tried the cue, and said it was better.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Marked the book and both rolls, and refused a third copy.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called Nick to the lute, and held him to Saturday's note.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two words, not named",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two words, not named",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Changed the lead by two words",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Nick Sorrell",
+    "Richard Burbage",
+    "William Shakespeare",
+    "Humphrey Larkham",
+    "Augustine Phillips"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the orchard cue",
+    "two words",
+    "the book and both rolls",
+    "the lute",
+    "the chest unopened"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have seen a fraction of doubt spread through a scene like a crack through a pane, and the orchard is all pane."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Two words, and not a speech. They are for the roll, Nick, not for a yard that will walk off with them in its mouth."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "It is better. The boy has a step in it, and I have an end."
+    },
+    {
+      "speaker": "humphrey_larkham",
+      "text": "Two words, then. They go into the book and into both rolls before any man leaves with the old cue in his mouth."
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "And you will keep the note you kept on Saturday."
+    }
+  ]
+}

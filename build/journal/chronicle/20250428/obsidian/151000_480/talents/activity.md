@@ -1,0 +1,1 @@
+You came home before the play and found York and Gaunt still as fine as the nephew. You did not correct them. You left the differences for tomorrow. Sunday's dinner stands, the chronicle stays, and the comedy waits on Saturday. Gib had not moved.

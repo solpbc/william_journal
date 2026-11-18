@@ -1,0 +1,68 @@
+{
+  "overview": "Rehearsal kept the book as it stood. You are Gaunt. You brought no new line. Burbage is the king, and the part was not mended for a morning. The lovers are read tomorrow at Holywell. They are not played today. The afternoon is at two.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Brought nothing new to the book."
+    },
+    {
+      "name": "John Heminges",
+      "role": "visible",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Kept the book as it was."
+    },
+    {
+      "name": "Richard Burbage",
+      "role": "visible",
+      "formal_term": "Richard Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Kept the king, and is in the picture only as the man the cues belong to."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Gaunt",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no new line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Holywell tomorrow",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "two of the clock",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Gaunt",
+      "asset_type": "other",
+      "disposition": "Took Gaunt as written"
+    },
+    {
+      "name": "the lovers' play",
+      "asset_type": "other",
+      "disposition": "Took Gaunt as written"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-18",
+      "meaning": "Gaunt, as the book stands"
+    }
+  ],
+  "summary": "Took Gaunt as written"
+}

@@ -1,0 +1,1 @@
+Alse left Gib on the Chaucer. Verbeke took his cap for the loom and said again that he would not knock. Mistress Ansell held six to three places. You went toward the stair and left the letter where it was.

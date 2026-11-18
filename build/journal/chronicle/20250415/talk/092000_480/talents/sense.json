@@ -1,0 +1,101 @@
+{
+  "density": "low_change",
+  "content_type": "meeting",
+  "activity_summary": "You placed George two paces inside the pillars for the Worthies, and Heminges let you go at ten minutes to eleven so you could reach Paul's. You asked him to keep Sam out of the east wind. George asked you not to bring another Latin tag back from the churchyard. You said you would bring only English, and none of it for his roll.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Placed George, asked that Sam be kept out of the wind, and left at 10:50.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set Tom's entrance and released you ten minutes early.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the crush in the arras if Pompey does not clear.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked where he stands, and asked for no more Latin.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned. He was behind the tire-house door, out of the wind.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned. He had his cloak round Sam.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The Worthies, and ten minutes early",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Placed George for the Worthies and went on to Paul's",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Pope",
+    "John Heminges",
+    "George Bryan",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Worthies",
+    "ten minutes to eleven",
+    "Sam out of the wind"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "It wants ten minutes of eleven, Will."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Only English today, George, and none of it for your roll."
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "Bring us no more Latin tags from the churchyard, Will."
+    }
+  ]
+}

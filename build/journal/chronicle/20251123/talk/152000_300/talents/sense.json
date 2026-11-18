@@ -1,0 +1,93 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Mistress Ansell came up because two candles were lit at three. You told her the porch was gone from the window. She said the sixpence is the firing, and she refused a third candle. Alse had shut the street door against the fog. You left Gib on the Chaucer. You sent the loaf back downstairs. You said you had two lines you do not trust. She told you to come down when you were hungry, and she did not climb the stair again.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the fog, left the cat, and refused the loaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted two candles, refused a third, and went down.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Shut the street door, and offered the loaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Stayed on the Chaucer. He was not moved.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the sixpence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two candles, and no third",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Chaucer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two candles, and no third",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Kept two candles at the board",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two candles",
+    "the sixpence",
+    "no third",
+    "the door shut"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Your sixpence is the firing."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The porch is gone."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "I shut the street door."
+    }
+  ]
+}

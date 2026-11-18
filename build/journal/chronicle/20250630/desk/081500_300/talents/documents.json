@@ -1,0 +1,44 @@
+{
+  "overview": "Before you walked up to Holywell, the almanac already said no play. The afternoon line is struck. You did not write what the bill had been called. The forty leaves are beside the book, ready to go.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the two words and did not name the bill."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the almanac",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a struck afternoon",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "forty leaves unnamed on that line",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Wrote across the struck line and took the forty leaves"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-30",
+      "meaning": "Forty leaves, and No play"
+    }
+  ],
+  "summary": "Wrote across the struck line and took the forty leaves"
+}

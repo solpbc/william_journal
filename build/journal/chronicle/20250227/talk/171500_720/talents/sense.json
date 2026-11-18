@@ -1,0 +1,75 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the Bell you paid Hobbins twopence and gave him the Sunday letter. Gilbert was in the yard about the horses and left before the sheet was opened. He did not read it. The hand is Anne's or Susanna's at dictation, and you left that open. The groats had come nine days late and been spent inside the hour. Judith sings at the wash a ballad she could not read. Hamnet bought a whistle and lent the odd penny. The cough is gone. Anne will believe the horse when she hears it. You laughed without sound. Hobbins asked if it was good news. You said it was just news, and rarer. A sentence in a different ink you read quickly and put away, and you did not read it out.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave Hobbins the Sunday sheet, left the hand undecided, and put the lower sentence away unread to the yard.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the twopence and the sheet, asked if it was good news, and did not turn the answer into a smile.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gilbert Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Looked at the horses, left before the letter was opened, and did not hear the house's news.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Called Anne's letter just news",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Gilbert Shakespeare",
+    "Thomas Hobbins",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twopence",
+    "the Sunday sheet",
+    "the cough gone",
+    "the horse",
+    "just news",
+    "Gilbert gone before the sheet"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_hobbins",
+      "text": "Good news, master?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Just news. It's rarer."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The cough is gone."
+    },
+    {
+      "speaker": "thomas_hobbins",
+      "text": "Twopence the letter, Master Shakespeare"
+    }
+  ]
+}

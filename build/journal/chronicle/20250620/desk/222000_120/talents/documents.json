@@ -1,0 +1,39 @@
+{
+  "overview": "You wrote one line on your tables. The gardener is right and is not thanked. You did not add a second sentence.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the line and did not extend it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the tables",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the gardener",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Wrote that the gardener is right"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-20",
+      "meaning": "Not thanked"
+    }
+  ],
+  "summary": "Wrote that the gardener is right"
+}

@@ -1,0 +1,1 @@
+On the bridge at first light you counted fourteen arches and did not describe the water. You said the tables were on the saddle and that nothing would go on the leaf. You named thirty-two miles to the Bear. You did not write the door, the question, or a line.

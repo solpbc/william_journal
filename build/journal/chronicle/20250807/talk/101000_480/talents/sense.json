@@ -1,0 +1,77 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "The children took you north past the Rother Market. Susanna kept the count at twenty houses and barns, and nobody hurt, and she kept Saturday's order. Hamnet left the nail in his pocket. Judith had the chimney and the weeds. You brought no better count.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Followed, and brought no better count.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Led north, and kept the nail pocketed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had the chimney and the weeds before you arrived.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the count at twenty, and at nobody hurt.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Went north past the Rother Market with the children",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Hamnet Shakespeare",
+    "Judith Shakespeare",
+    "Susanna Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the way north",
+    "the count of twenty",
+    "the nail left pocketed"
+  ],
+  "quotes": [
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "Twenty houses and barns. Nobody was hurt"
+    },
+    {
+      "speaker": "hamnet_shakespeare",
+      "text": "The nail stays in the pocket"
+    },
+    {
+      "speaker": "judith_shakespeare",
+      "text": "The chimney is still standing"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+You looked again at the three lines already in the almanac, turned to the next leaf, and turned back. The next leaf had the month on it and no mark of yours. You did not add a line. You did not take up a pen.

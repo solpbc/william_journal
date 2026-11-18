@@ -1,0 +1,121 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Burbage gave the line quieter than you expected and sat on the bare boards. Cowley was afraid of his six lines and held the roll as if it might go off. Burbage said he would play a strong man at being weak, better than his cousin does winning, and Phillips bowed. Nick asked if he means it all, even the parts he is putting on, and you said that is the part. Garnish put nothing in the margin.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the line, and told Nick that is the part.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat, played the king strong at being weak, and held still for the pin.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Bowed, and took the cousin's part without a speech.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the roll, afraid of his six lines.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked whether Burbage means the parts he is putting on.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Pinned the king's sleeve at the elbow.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the margin empty.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the dice and the apples, and stayed in the door without speaking.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "six lines",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A strong man at being weak",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Burbage sit and told Nick that is the part",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Burbage",
+    "William Shakespeare",
+    "Richard Cowley",
+    "Augustine Phillips",
+    "Edith Kettlewood",
+    "Nick Sorrell",
+    "Abel Garnish"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the sit",
+    "six lines",
+    "a strong man at being weak",
+    "the clove"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "He's a weak king. I'll not play him weak."
+    },
+    {
+      "speaker": "nick_sorrell",
+      "text": "He means it all, doesn't he? Even the parts he's putting on."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "That is the part."
+    }
+  ]
+}

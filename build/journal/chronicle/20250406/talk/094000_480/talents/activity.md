@@ -1,0 +1,1 @@
+You sat in the family pew at Holy Trinity and counted the row: your mother, Anne, three children, Joan, and two brothers. Your father was the gap. The sermon was on patience. Anne said she had asked her question yesterday and would not ask it under a hymn. You told her you had not brought a fourth answer. No one filled the gap. The vicar was not named.

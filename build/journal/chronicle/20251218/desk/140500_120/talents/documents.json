@@ -1,0 +1,51 @@
+{
+  "overview": "You read the Rose's bill, the first part of Hercules at two, and you did not go. Your own afternoon was in this yard.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the bill and did not cross."
+    },
+    {
+      "name": "Philip Henslowe",
+      "role": "mentioned",
+      "formal_term": "Philip Henslowe",
+      "appointment_tier": "not_applicable",
+      "context": "Not in the yard. The bill was his afternoon, and that was all."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the Rose bill",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Hercules",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "not this yard",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "1 Hercules",
+      "asset_type": "other",
+      "disposition": "Read the first part of Hercules"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-18",
+      "meaning": "Hercules, not this yard"
+    }
+  ],
+  "summary": "Read the first part of Hercules"
+}

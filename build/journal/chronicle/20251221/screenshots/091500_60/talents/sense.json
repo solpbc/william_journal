@@ -1,0 +1,36 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "After service the dole-table stood by the south porch. Wheaten loaves were heaped on it, with grey frieze and a dish of pence. The givers were out of the frame.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Stood at the porch with the table in front of you.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Looked at the dole-table by the south porch",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the dole-table",
+    "loaves",
+    "grey frieze",
+    "the south porch"
+  ],
+  "quotes": []
+}

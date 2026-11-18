@@ -1,0 +1,1 @@
+With cold rain on the casement and a woollen clout of aquavitae at the jaw, you copied three leaves fair. They are the scene struck from the king in July, the crown handed across and the glass called for. You folded them once and laid them in the coffer under the account book. Garnish's three stay locked in the chest at the Theatre. These are yours. You did not say why.

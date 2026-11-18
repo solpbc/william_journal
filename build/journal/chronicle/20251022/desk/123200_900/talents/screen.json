@@ -1,0 +1,23 @@
+{
+  "narrative": "The tables opened on the board after dinner. The same four lines. A crumb is not on the leaf. The bundle is still apart. No face. The stylus is in his hand and does not touch. Grease is on a finger and not on the leaf. No face. He looks at the place where the rubbed word was. He does not write it back. The knot is unchanged. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Opened the tables on the same four lines"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Opened the tables on the same four lines"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "context": "Shown on tables in Opened the tables on the same four lines"
+    }
+  ]
+}

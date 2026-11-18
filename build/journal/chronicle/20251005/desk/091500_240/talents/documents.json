@@ -1,0 +1,63 @@
+{
+  "overview": "You kept the parish hour with the almanac open on the fifth and the sixth. Master Thwaite turned the glass twice. The margin beside Monday stayed empty. Three pews ahead, the Lord Mayor's back did not turn.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Sat the hour with the almanac on his knee and made no mark."
+    },
+    {
+      "name": "Master Josias Thwaite",
+      "role": "heard",
+      "formal_term": "Master Josias Thwaite",
+      "appointment_tier": "not_applicable",
+      "context": "Preached, and turned the sand-glass twice."
+    },
+    {
+      "name": "Sir John Spencer",
+      "role": "visible",
+      "formal_term": "Sir John Spencer",
+      "appointment_tier": "not_applicable",
+      "context": "Sat three pews ahead, turned away, and did not speak."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the fifth",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the sixth",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "an empty margin",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the glass turned twice",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the penny almanac",
+      "asset_type": "other",
+      "disposition": "Kept the parish hour"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-05",
+      "meaning": "The fifth, and an empty sixth"
+    }
+  ],
+  "summary": "Kept the parish hour"
+}

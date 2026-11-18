@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 420.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "joan_shakespeare", "start": "18:25:40", "text": "There is room. Sit, before the bread is asked to be a speech.", "timing": {"end": 160.0, "start": 40.0}}
+{"sentence_id": 2, "speaker": "anne_shakespeare", "start": "18:27:40", "text": "We are in. What we walked can stay where we walked it.", "timing": {"end": 300.0, "start": 160.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "18:30:00", "text": "I am sitting. I have not brought a story in with the dust.", "timing": {"end": 310.0, "start": 300.0}}

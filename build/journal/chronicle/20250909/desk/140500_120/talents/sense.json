@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "Before you went on as Egeon you marked the roll for the right side of the mouth. You told the shipwreck from that side. You did not copy a speech under the note.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Marked the roll, and told the wreck from the right side.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Errors",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Right side of the mouth",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Marked the right side of the mouth and went on as Egeon",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Egeon",
+    "the right side of the mouth",
+    "the shipwreck"
+  ],
+  "quotes": []
+}

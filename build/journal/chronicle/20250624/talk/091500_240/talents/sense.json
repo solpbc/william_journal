@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At nine you rehearsed entrances and not speeches. John would have no new matter before dinner. Kemp added nothing. You did not tell him about the king. You said you had to be home before noon.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the rehearsal to doors, and named noon.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a new matter before dinner.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took his door and added nothing.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed entrances",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Will Kemp",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "entrances",
+    "noon",
+    "nothing new"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Entrances, not speeches."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have nothing new to put in your mouth."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "I am not adding a line at nine in the morning."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "narrative": "The small writing-tables open on the knee, two new lines under an older one, the stylus still in the right hand. Candlelight. No face. One surface.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the two payments under the old line."
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "mentioned",
+      "context": "Named on the old line. Not present. Not paid."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Eightpence on the tables"
+    },
+    {
+      "type": "Tool",
+      "name": "Edith's 8s",
+      "role": "mentioned",
+      "context": "Shown on tables in Eightpence on the tables"
+    }
+  ]
+}

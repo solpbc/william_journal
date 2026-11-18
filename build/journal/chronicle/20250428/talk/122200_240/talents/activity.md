@@ -1,0 +1,1 @@
+Heminges said you are not in the Shrew at two. You are in it Wednesday, in the comedy Thursday, and in the Shrew again Saturday. Garnish will keep the licensed book through Thursday and loose it on Saturday, after you are done. You did not ask for a new tally of Kemp's lines. You went home to the king.

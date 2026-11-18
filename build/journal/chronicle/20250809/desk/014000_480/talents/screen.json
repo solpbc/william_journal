@@ -1,0 +1,17 @@
+{
+  "narrative": "A lower line on the same foul sheet, the stone back on the corner, moonlight on the wet ink.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote it, and left the sheet foul."
+    },
+    {
+      "type": "Project",
+      "name": "the orchard scene",
+      "role": "mentioned",
+      "context": "Shown on draft in Leave the phrase standing"
+    }
+  ]
+}

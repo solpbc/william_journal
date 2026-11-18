@@ -1,0 +1,29 @@
+{
+  "narrative": "Forty candles, a screen, a chair by the fire with a small still figure in it, seen from behind the players' entrance, the cleared floor before the guests settle.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Was at the players' entrance, looking in."
+    },
+    {
+      "type": "Person",
+      "name": "Sir Robert Cecil",
+      "role": "mentioned",
+      "context": "Sat in the chair, small and still."
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "context": "Was the side of the entrance the book would use."
+    },
+    {
+      "type": "Company",
+      "name": "Canon Row",
+      "role": "mentioned",
+      "context": "In photo: Forty candles"
+    }
+  ]
+}

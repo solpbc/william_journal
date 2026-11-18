@@ -1,0 +1,1 @@
+At the window, after evening prayer, you named Ovid, Marlowe, Kyd, and Greene, and said you had paid none of them a line. You spoke of soul-cakes your grandmother baked and your mother did not. You began a phrase of your mother's and did not finish it. You turned to the Friar's letter, and why it never came. You named none of your own dead.

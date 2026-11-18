@@ -1,0 +1,63 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "After the play Kemp asked if the slippers were now. Phillips said Thursday. You said the Wise Man on the other bill was not a place you were going, and that the dance was not this afternoon. You went home.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked if the dance was now, and agreed to wait.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept today clear of the jig.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the other bill, and went home.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Left the jig until Thursday",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Will Kemp",
+    "Augustine Phillips",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the jig refused",
+    "the Wise Man not attended"
+  ],
+  "quotes": [
+    {
+      "speaker": "augustine_phillips",
+      "text": "Today the stage is not yours"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The Wise Man is their bill. I am not going"
+    }
+  ]
+}

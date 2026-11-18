@@ -1,0 +1,11 @@
+{
+  "narrative": "A clean sheet on the trestle, candlelight, the penny almanac pushed to the left. The pen is in the hand and not yet on the paper. No wafer, no thread. The top of the sheet. One line, the ink still wet. He stops before a number. The second line is her name and a stop. The rest of the sheet is blank. The coffer at the bed's foot is shut, out at the edge of the light.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the sheet, set the pen down, and got up without it."
+    }
+  ]
+}

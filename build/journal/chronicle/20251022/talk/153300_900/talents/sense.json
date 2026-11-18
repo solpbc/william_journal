@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You waited in the cold and made no second report of the jaw. Nick said Burbage was in the passage and did not fetch him. You left the next cue where it was.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Waited in the cold tiring-house",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Waited in the cold tiring-house",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Waited in the cold tiring-house",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the afternoon coat",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Waited in the cold tiring-house",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Came in for the afternoon play",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Pope",
+    "William Shakespeare",
+    "Nick Sorrell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cold",
+    "the passage",
+    "no borrowed cue"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "A man in a passage is a man with his own cue."
+    }
+  ]
+}

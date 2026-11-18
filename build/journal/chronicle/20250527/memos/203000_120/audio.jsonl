@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:30:00", "text": "Eight lines, and they thanked me as if rightness were a fault. The company is no better.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:30:16", "text": "Kemp was at his slippers. He has not been shown the book. I will not show it to him to mend a morning.", "timing": {"end": 32.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:30:32", "text": "Friday is the Knave. The king is a different paper, and it stays at the hedge.", "timing": {"end": 42.0, "start": 32.0}}

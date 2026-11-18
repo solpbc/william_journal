@@ -1,0 +1,77 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "In the afternoon your mother pressed dried lavender and a flitch of salt bacon into the bags and told you to put the dry things above the wet. She said you were thin. Anne took the off-side strap and knotted it twice against the ring, and told you not to improve the knot in the morning.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the bags and left the knot to Anne.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Packed the lavender and the flitch, and named the rule about dry and wet.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Knotted the off-side strap and forbade an improvement.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the saddlebags",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Lavender and salt bacon",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Packed the bags once, in the afternoon",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mary Shakespeare",
+    "William Shakespeare",
+    "Anne Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "lavender",
+    "salt bacon",
+    "Anne's knot",
+    "dry above wet"
+  ],
+  "quotes": [
+    {
+      "speaker": "mary_shakespeare",
+      "text": "Put the dry things above the wet. It is a rule that asks no learning."
+    },
+    {
+      "speaker": "mary_shakespeare",
+      "text": "You're thin. They don't feed players, then."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Tie it as I tied it. Do not improve it into a property."
+    }
+  ]
+}

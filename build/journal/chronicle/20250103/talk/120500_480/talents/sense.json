@@ -1,0 +1,89 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the Split Hazel, before the play, Kemp told the hamper, the stool, the line and the glove, and Alice made him move his elbows before she allowed the end. You enjoyed it. Then, in the same voice, he asked whether the Queen's twenty pounds had come. You said it is expected. She said expected money has eaten several dinners in this house and never paid for one. Kemp laughed loudest and paid for his own. You paid fourpence, and you did not put the twenty pounds in your purse.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Enjoyed the story, said the twenty pounds are expected and not his, and paid fourpence.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alice Brambleby",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Moved his elbows, allowed the end, and would not let expected money eat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told the hamper and the glove, asked after the twenty pounds in the same voice, laughed loudest, and paid for his own.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "the Queen's twenty pounds",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Expected money",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Expected money",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Said the Queen's twenty pounds are expected, and paid fourpence",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alice Brambleby",
+    "Will Kemp",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the hamper retold",
+    "elbows",
+    "twenty pounds expected",
+    "fourpence"
+  ],
+  "quotes": [
+    {
+      "speaker": "alice_brambleby",
+      "text": "Expected money has eaten several dinners in this house, Master Shakespeare, and never paid for one."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It is expected."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "I am the loudest man in the room, and I am paying for my own."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "This dinner is fourpence, and the fourpence is mine."
+    }
+  ]
+}

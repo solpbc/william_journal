@@ -1,0 +1,17 @@
+{
+  "narrative": "Your cue-strip at the head, in the tiring-house, before the afternoon. The title is the whole of what the strip shows at its top. No book of the play. No face. The same strip, a run of cues in another hand, none of them a king. The yard is not in the frame. No face. The strip set on the chest. The afternoon is done. The flag-line is not on the paper. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Played in Fair Em and set the strip down after."
+    },
+    {
+      "type": "Project",
+      "name": "Fair Em",
+      "role": "mentioned",
+      "context": "Shown on part in Fair Em"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You crossed the close with Mistress Ansell and Gillis Verbeke and stood in the porch of St Helen's before morning prayer. Master Thwaite promised fourteen heads and two turnings of the glass. The sixpence for firing and washing runs till Lady Day, and the worn poem from Paul's is still under the cat.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Walked over with the household and took the draughty end of the bench.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the mud outside, named the sixpence till Lady Day, and wanted quiet after nine.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Greeted the porch and set fourteen heads on the epistle.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered for the loom, and took the bench by the pillar.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Brooke's Romeus and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Before morning prayer",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "6d firing and washing",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Before morning prayer",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "6d book",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Before morning prayer",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood in the porch before morning prayer",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Gillis Verbeke",
+    "Master Josias Thwaite"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "first Sunday in Lent",
+    "fourteen heads",
+    "the sand-glass",
+    "sixpence till Lady Day",
+    "Brooke on the board"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "I have divided the epistle into fourteen heads today, that no man may go to his salt herring unexamined."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The sixpence runs till Lady Day, and then the sun may warm him for nothing."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I never miss a fourteenthly, sir."
+    }
+  ]
+}

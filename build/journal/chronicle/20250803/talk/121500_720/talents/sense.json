@@ -1,0 +1,137 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At dinner Judith gave the sermon in the vicar's voice. Your father said the aim was poor: a wheelwright, two weavers and a widow unroofed, and every great malt-loft in the High Street still dry. Your mother said his name once. The children kept the burned row for Thursday. You said you had not promised Quiney the shop.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the sermon home unimproved, and left the shop unpromised.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered the maltsters with the trades that had burned, and the lofts that had not.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said his name once, and then asked for the loaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the meat ahead of the sermon, and Thursday ahead of today.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Did the vicar, and kept the chimney for Thursday.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported that the hand had come away in the porch.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept yesterday's count, and Saturday's widow off the table.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Claimed Thursday for the row, and kept the nail.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat at the board after the walk back.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat at the board with the household.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "richard_quiney",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A poor aim",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard Father say the aim was poor and took Thursday for the row",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Shakespeare",
+    "Judith Shakespeare",
+    "Hamnet Shakespeare",
+    "Susanna Shakespeare",
+    "Mary Shakespeare",
+    "Anne Shakespeare",
+    "William Shakespeare",
+    "Joan Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the sermon retold",
+    "the malt-lofts",
+    "Thursday's row"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_shakespeare",
+      "text": "If the Lord meant the maltsters He has a poor aim"
+    },
+    {
+      "speaker": "john_shakespeare",
+      "text": "He's unroofed a wheelwright, two weavers and a widow, and left every great malt-loft in the High Street dry as a bone"
+    },
+    {
+      "speaker": "mary_shakespeare",
+      "text": "John"
+    }
+  ]
+}

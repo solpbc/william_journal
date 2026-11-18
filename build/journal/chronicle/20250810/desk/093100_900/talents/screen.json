@@ -1,0 +1,23 @@
+{
+  "narrative": "The penny almanac open on the hall table. The three lines of his own hand. No pen. No face. The leaf turned. The printed month, and no stroke of a pen under it. A thumb holds the corner. No face. The marked leaf again. The hand has not taken a pen from anywhere. The three lines are as they were.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Turned the almanac leaf and shut it"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in Turned the almanac leaf and shut it"
+    },
+    {
+      "type": "Project",
+      "name": "Holy Trinity",
+      "role": "mentioned",
+      "context": "Shown on almanac in Turned the almanac leaf and shut it"
+    }
+  ]
+}

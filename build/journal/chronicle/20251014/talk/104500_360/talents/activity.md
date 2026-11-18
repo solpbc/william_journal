@@ -1,0 +1,1 @@
+You came in with a clout at the jaw, after the walk home from Bishopsgate. Mistress Ansell had broth ready and had forbidden the stair to everyone. Alse was sent up once, with salt water, and told not to ask to see. You called the broth water. You would not keep the tooth, and you would not write a total under the twelve pence. No caller came onto the stair.

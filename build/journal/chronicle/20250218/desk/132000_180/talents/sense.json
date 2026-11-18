@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At the lodging you looked at three cues on the afternoon's roll: Lord Hastings, my liege, and madam. You set no name over them. The comedy stayed shut, with the refusal still marked. You went out to play at two.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the three cues, left the comedy shut, and went to play.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read the three cues and went out",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three cues",
+    "no part-name",
+    "the comedy left shut"
+  ],
+  "quotes": []
+}

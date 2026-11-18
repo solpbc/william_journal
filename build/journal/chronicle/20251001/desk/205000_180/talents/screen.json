@@ -1,0 +1,17 @@
+{
+  "narrative": "The narrow book is open at the payments. The canvas is gone. He writes one line and does not write a figure under it. The clove is on the table, finished. No subtraction. No new total. The ruled \u00a323 10s of Monday is not copied out again, and it is not amended.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the line, and did not do the subtraction."
+    },
+    {
+      "type": "Tool",
+      "name": "60s",
+      "role": "mentioned",
+      "context": "Shown on ledger in Sent by G."
+    }
+  ]
+}

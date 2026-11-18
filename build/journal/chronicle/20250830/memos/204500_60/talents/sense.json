@@ -1,0 +1,63 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Before nine you said the share again, six-and-twenty, the first since July, and you left the coffer shut at twenty pound fifteen. The letter is tomorrow, after the bells. You went to bed.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the memo and went to bed.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "six-and-twenty shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Bed at nine",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "twenty pound fifteen shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Bed at nine",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Went to bed at nine",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "six-and-twenty",
+    "the coffer shut",
+    "bed at nine",
+    "the letter tomorrow"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Six-and-twenty shillings at the reckoning, the first share since July"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Tomorrow, after the bells, the letter"
+    }
+  ]
+}

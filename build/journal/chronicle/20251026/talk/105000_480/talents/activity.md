@@ -1,0 +1,1 @@
+After morning prayer Master Thwaite did not come in to eat. The sword went before Sir John for the last Sunday, and he did not speak. You said you were not going up the lane. The letter can wait in the coffer for the carrier of the thirteenth. Mistress Ansell told you not to send a supper-story. The loaf is a penny and a full thumb short of the notch. You did not argue it.

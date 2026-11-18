@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At dinner you said you were not going up. Thomas has the king at two, and you were not there at nine. You did not send anyone to ask how it went. You ate the soft of what was set down. The jaw is still tender, and you did not call it healed. The board was threepence, as on Sunday. You stayed in.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed in, kept the cap, and did not send for news.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Fed him soft food and forbade an errand up to the Theatre.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the cat on the settle and did not ask how the play went.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate, and did not make his trade into a lesson.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the king",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not at two",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stayed in while Thomas had the king",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "not going up",
+    "Thomas and the king",
+    "the cap",
+    "soft food"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Thomas has the king at two."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I will not have a boy sent to fetch a laugh."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have no errand. I have a cap. Thomas has the king."
+    }
+  ]
+}

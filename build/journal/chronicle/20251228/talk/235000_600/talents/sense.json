@@ -1,0 +1,133 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Back at the inn, nobody sang. You left the fifth unnamed on paper and left Sly for a later morning. Bryan would not tell the chair's laugh a second time. Heminges still had no sum, and he still would not write the three nights into the book by starlight. Kemp's button story stayed held for the inn down the river. The two cloaks stayed for morning. You took the middle of the bed you share with Heminges and Bryan.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a path-side lesson, took the middle of the bed, and went in.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the green from becoming a second hall, and took Nick as far as the stair.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Walked without singing, and said good night.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the bow as it was, and stopped looking.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the chair's laugh from becoming a wage, and claimed his side of the bed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Entered nothing, and kept the cloaks for morning.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the story, and said this inn did not qualify.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Already up. Not praised into waiting for another break.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Queen Elizabeth",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not on the green. Her laugh was not told a second time.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "William Sly",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Still a later morning.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Came back to the inn and took the middle of the bed",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Augustine Phillips",
+    "Nick Sorrell",
+    "William Shakespeare",
+    "Richard Burbage",
+    "George Bryan",
+    "John Heminges",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "no second song",
+    "no sum",
+    "the story still held",
+    "three to a bed"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "This is not that inn. A green does not qualify."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "I am not writing three nights into a book by starlight."
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "A second telling is how kindly becomes a wage, and there is no wage."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The button stays lost."
+    }
+  ]
+}

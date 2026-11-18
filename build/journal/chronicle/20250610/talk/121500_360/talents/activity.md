@@ -1,0 +1,1 @@
+You came down and ate. Mistress Ansell had a jug in her hand and asked only whether you were alive. You told her you were not in the Shrew and were not going, and that the king was not finished. You did not tell the plot. Alse asked for a line and did not get one.

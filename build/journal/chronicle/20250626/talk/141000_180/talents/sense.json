@@ -1,0 +1,71 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At two you went on again. John would not open a new matter. Kemp added nothing. You did not bring the king into the afternoon, and you did not bring the parcel into it either.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Went on, and left the morning out.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept two o'clock to the play.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Added no line.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Two Gentlemen of Verona",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in On again",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Played at two",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Will Kemp",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the afternoon play",
+    "nothing new"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "On again."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am on, and the morning's parcel is not this scene."
+    }
+  ]
+}

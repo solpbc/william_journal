@@ -1,0 +1,17 @@
+{
+  "narrative": "A foul leaf under the candle. The earlier pages are face down in the folder. The new leaf has a short block in his hand. The Prince's lines from the week before are not on this leaf. No face. He draws a line through the second sentence and leaves the first and the third. The struck words stay readable. The foot of the leaf is empty. He writes three words and stops. No speech is begun under them.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the blow, struck a line, and left the foot of the leaf empty."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on draft in The blow, and not the word"
+    }
+  ]
+}

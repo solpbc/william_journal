@@ -1,0 +1,1 @@
+At four o'clock the torches were on the stage, a small figure lay on the tomb-bier, and the yard's faces were lifted. This is the picture of the light being brought. It is not a different tomb from the one just played.

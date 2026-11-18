@@ -1,0 +1,58 @@
+{
+  "overview": "You wrote to Quiney about the town's certificate. Woburn burned on Saturday, and a tract is already in the press. You asked him to send the paper. You set no sum on the letter. You dated it the nineteenth of September 1595. The words were hard, and these are the ones you found.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the letter, dated it, and left the sum off."
+    },
+    {
+      "name": "Richard Quiney",
+      "role": "mentioned",
+      "formal_term": "Richard Quiney",
+      "appointment_tier": "not_applicable",
+      "context": "Written to. Not in the room."
+    },
+    {
+      "name": "Richard Field",
+      "role": "mentioned",
+      "formal_term": "Richard Field",
+      "appointment_tier": "not_applicable",
+      "context": "The promise was his, from Wednesday. Not in the room."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the certificate",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Woburn",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the nineteenth",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the certificate",
+      "asset_type": "other",
+      "disposition": "Wrote to Quiney for the certificate"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-19",
+      "meaning": "The certificate"
+    }
+  ],
+  "summary": "Wrote to Quiney for the certificate"
+}

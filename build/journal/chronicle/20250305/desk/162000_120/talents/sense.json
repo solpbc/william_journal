@@ -1,0 +1,34 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You stood at evening prayer. The almanac had the day and the office, and nothing written under them. It was not a second reading of the morning. You added no word.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Stood the office and left the almanac blank under the line.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood at evening prayer",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "evening prayer",
+    "no second reading"
+  ],
+  "quotes": []
+}

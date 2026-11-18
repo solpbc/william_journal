@@ -1,0 +1,95 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "The four of you supped on the strength of the boxes. Heminges named seven pound eleven, and he named the fifty shillings and Edith's eight shillings as still unpaid. You said you were pleased and would not turn it into Saturday's arithmetic. The letter to Anne was already written and still waiting. Nobody brought news from Westminster in this sitting.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted the supper, refused a moral, and said the letter already waits for the twenty-seventh.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Itemised the boxes, the unpaid gown, and the unpaid eight shillings, and would not divide shares.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped counting caps, and drank to the sum rather than to the silence.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the paper crown and the two stops, and told him to eat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Is named as the person the letter waits for, and is not in the parlour.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Supper, on the strength of the boxes",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Supped on the strength of seven pound eleven",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "George Bryan",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "seven pound eleven",
+    "the unpaid gown",
+    "Edith's eight shillings",
+    "the quiet",
+    "supper"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Item, seven pound eleven."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The ladies had the better of it."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Tonight does not pay him."
+    }
+  ]
+}

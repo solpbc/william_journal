@@ -1,0 +1,72 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Your mother covered the basket and told you not to make a host of Bartholomew. Anne said the stiles would be wet. You took the basket and the canvas, and you did not open either in the yard. The two of you set out.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the handle and kept both bundles shut.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a speech in the yard, and named the wet stiles.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Covered the basket and stayed behind.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the Lady Day canvas",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The basket",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Took the covered basket, the canvas still sewn",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mary Shakespeare",
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the basket",
+    "the canvas",
+    "the afternoon"
+  ],
+  "quotes": [
+    {
+      "speaker": "mary_shakespeare",
+      "text": "Do not make a host of her brother."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The basket, and the canvas."
+    }
+  ]
+}

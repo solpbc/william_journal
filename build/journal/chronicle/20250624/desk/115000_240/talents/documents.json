@@ -1,0 +1,49 @@
+{
+  "overview": "After the rent the coffer held twenty-five pounds exactly. You set sixty shillings apart in canvas for Thursday's carrier, inside that count, and not as a second total. You entered the shares at eight shillings and twelve, and you made no remark. You wrote that the king was in the coffer also. You shut both locks.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Made the entry and shut both locks."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "twenty-five pounds",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the canvas",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "eight and twelve",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the coffer",
+      "asset_type": "other",
+      "disposition": "Entered twenty-five pounds and shut both locks"
+    },
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Entered twenty-five pounds and shut both locks"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-24",
+      "meaning": "Twenty-five pounds"
+    }
+  ],
+  "summary": "Entered twenty-five pounds and shut both locks"
+}

@@ -1,0 +1,98 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "On the grass at the town end of the bridge you made three bark boats with elder-twig masts, one each. The twins raced them in the shallows, where the water was a hand deep. Hamnet's would not sail straight, and he said it was built crooked. Judith named hers after the ballad and sang it, and she did not give the words. Susanna read the two lovers and the wall, and asked why they did not simply use the door. You said the book does not say. You told them nothing, and they learned nothing. You left toward the middle of the afternoon.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Willow boats below the bridge",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Willow boats below the bridge",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Willow boats below the bridge",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Willow boats below the bridge",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the ballad",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Willow boats below the bridge",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Golding's Ovid",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Willow boats below the bridge",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Started the three boats",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Hamnet Shakespeare",
+    "William Shakespeare",
+    "Judith Shakespeare",
+    "Susanna Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three bark boats",
+    "a hand of water",
+    "the door in Golding",
+    "the middle of the afternoon"
+  ],
+  "quotes": [
+    {
+      "speaker": "hamnet_shakespeare",
+      "text": "Mine will not sail straight. You built it crooked."
+    },
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "Why did they not simply use the door?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I don't know. The book doesn't say."
+    },
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "You said toward the middle of the afternoon, Father, not the whole of it."
+    }
+  ]
+}

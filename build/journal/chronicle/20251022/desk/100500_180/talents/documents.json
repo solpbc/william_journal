@@ -1,0 +1,44 @@
+{
+  "overview": "You looked at the three rolls after the cue had been made to agree. Each one carried the same word, altered, and the same small sign.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the three entrances and did not add a gloss."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "three part-rolls",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the cut word",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the small sign",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the three rolls",
+      "asset_type": "other",
+      "disposition": "Checked the same cue on three rolls"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-22",
+      "meaning": "The same cue, three times"
+    }
+  ],
+  "summary": "Checked the same cue on three rolls"
+}

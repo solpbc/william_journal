@@ -1,0 +1,64 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You stood in the door while they ate and you did not take the heel. Mistress Ansell would not make the fire a conversation. You said again that no one was to sit up.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stood in the door while the house ate",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stood in the door while the house ate",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stood in the door while the house ate",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Spoke at the hall door before supper",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "their six",
+    "the heel refused",
+    "no one to sit up"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Six was said at noon. This is six."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not making a supper out of a crust in a doorway."
+    }
+  ]
+}

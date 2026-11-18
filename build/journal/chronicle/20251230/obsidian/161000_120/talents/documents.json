@@ -1,0 +1,38 @@
+{
+  "overview": "You wrote two sentences and no more. The queen wakes, and there is no sentence under the question. You were not writing an ending so the kitchen could have one before dark.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the two sentences and left them."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the queen",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no ending",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "before dark",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-30",
+      "meaning": "Wrote that the queen wakes, and stopped"
+    }
+  ],
+  "summary": "Wrote two sentences about the queen's question"
+}

@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 600.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "21:01:40", "text": "Sit, if thou art sitting. I have already had one door-talk, and I am not having the hall become a second one.", "timing": {"end": 310.0, "start": 100.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:05:10", "text": "I am sat. I have a few things left in the day, and I am not spending them on company.", "timing": {"end": 520.0, "start": 310.0}}
+{"sentence_id": 3, "speaker": "joan_shakespeare", "start": "21:08:40", "text": "I am going up. The hall is clear. It can keep what is left without me standing over it.", "timing": {"end": 530.0, "start": 520.0}}

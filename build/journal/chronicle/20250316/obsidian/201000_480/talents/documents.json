@@ -1,0 +1,54 @@
+{
+  "overview": "You wrote the day down in the old style. Seven heads, and the glass turned once. The letter is still unsent and still has no day. Saturday's part is had and not spent, and no horse was hired with it. The firing sixpence is still running. Brooke is open, with no speech, and the chronicle is not in the room.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the note and left every unsent thing unsent."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "seven heads",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the letter unsent",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the part unspent",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Bull tomorrow",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "3d a meal",
+      "asset_type": "other",
+      "disposition": "Wrote the day on a short note"
+    },
+    {
+      "name": "6d firing",
+      "asset_type": "other",
+      "disposition": "Wrote the day on a short note"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-16",
+      "meaning": "Still not sent"
+    }
+  ],
+  "summary": "Wrote the day on a short note"
+}

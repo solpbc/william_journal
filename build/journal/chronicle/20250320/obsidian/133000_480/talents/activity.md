@@ -1,0 +1,1 @@
+You kept a copy of the four lines. They name Wednesday the twenty-sixth, Oxford, the bridge on Friday by dusk, Hobbins on Saturday, and the money in your own hand. The long letter is still on the board, with no day, and it did not go.

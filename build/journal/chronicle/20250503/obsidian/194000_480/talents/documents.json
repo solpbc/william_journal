@@ -1,0 +1,76 @@
+{
+  "overview": "You came home past the one bough, still over the door and not improved, and you wrote Edmund one page. He is to finish school. Latin is the only property a player never has to hire. If at seventeen he still wants to hear how Burbage dies, he may come for a penny, like a Christian. You enclosed nothing. The sword's first owner commends its second. You told him the court went to Greenwich today, with my lord and Kettleby. The letter goes by the carrier of the fifteenth.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the page and sealed it with nothing in it."
+    },
+    {
+      "name": "Edmund Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Edmund Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Was the brother addressed, and was not in the room."
+    },
+    {
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "formal_term": "Richard Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Was the death Edmund may come to see, and the sword's first owner."
+    },
+    {
+      "name": "Ambrose Kettleby",
+      "role": "mentioned",
+      "formal_term": "Ambrose Kettleby",
+      "appointment_tier": "not_applicable",
+      "context": "Was named as gone to Greenwich."
+    },
+    {
+      "name": "Henry Carey, 1st Lord Hunsdon",
+      "role": "mentioned",
+      "formal_term": "Henry Carey, 1st Lord Hunsdon",
+      "appointment_tier": "not_applicable",
+      "context": "Was my lord, gone with the court."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "finish school",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a penny",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nothing enclosed",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the fifteenth",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the one bough",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-03",
+      "meaning": "Finish school"
+    }
+  ],
+  "summary": "Wrote Edmund's letter"
+}

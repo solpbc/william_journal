@@ -1,0 +1,42 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "The page is the last couplet, in the spelling you set down, and the rule under it is the end of the sheet. Nothing follows it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the couplet and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in vntimely Beere",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Left the couplet as the last of the page",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the couplet",
+    "the rule"
+  ],
+  "quotes": []
+}

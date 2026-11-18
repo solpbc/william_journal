@@ -1,0 +1,69 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Back at the lodging you set down the difference Daniel made, and no line of a play. The queen is a woman in the poem and a child of ten in the chronicle. The book stayed at two shillings. The Verona notes are still on their own page, and you wrote no speech on it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the jotting and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Daniel's Civil Wars",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in After Paul's",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "2s",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in After Paul's",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Brooke's Romeus and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in After Paul's",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Noted that Daniel's queen is a woman",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a woman at the window",
+    "a girl of ten",
+    "two shillings",
+    "Verona left shut"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Daniel makes her a woman. The chronicle had a girl of ten."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "ij s. Too dear. Not bought."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Seated, you drew the orchard as a stage. Twelve feet and a rail, a boy on the boards, a girl above, the Nurse behind the arras. The hurry is the house waking. You struck four lines of the boy's that admired the window. What you kept is a whisper the yard has to lean in to hear, and the rest said across the rail.

@@ -1,0 +1,1 @@
+You were in the afternoon's play. It was Two Gentlemen. The gown had no name on it. You did not write a part for yourself in any note. The Rose had a Toy. You did not go. You copied nothing when you came home.

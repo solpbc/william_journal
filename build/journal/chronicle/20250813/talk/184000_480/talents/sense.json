@@ -1,0 +1,72 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Edmund brought ale and sat on the floor, not in the orchard, and asked how a king is put down on a stage. You told him the Master has cut the scene that showed it, and that it will not be played or written back. He read you the name as a cue. You wrote three lines one-handed, a fair copy of what Saturday already had, and you sent him to finish school. Nothing is arranged for him in London.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered the question without restoring the scene, and wrote three lines.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the ale, asked about the king, read a cue, and was sent back to school.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the cut scene",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three lines, and finish school",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Told Edmund the scene was cut and sent him to school",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Edmund Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a king put down",
+    "the cut scene",
+    "three lines one-handed",
+    "finish school"
+  ],
+  "quotes": [
+    {
+      "speaker": "edmund_shakespeare",
+      "text": "I want to know how a king is put down on a stage."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The Master of the Revels has cut the scene that showed it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Finish school."
+    },
+    {
+      "speaker": "edmund_shakespeare",
+      "text": "I did not say I would be a chief player. I said I would begin."
+    }
+  ]
+}

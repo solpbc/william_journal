@@ -1,0 +1,51 @@
+{
+  "density": "active",
+  "content_type": "media",
+  "activity_summary": "A bigger labour followed the first. The yard counted them. You stayed by the post on the right. No sum was where you could read it. You told yourself it was well done, and you did not say so. You enjoyed it against your will.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Stayed at the post and kept the praise unsaid.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edward Alleyn",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Carried the bigger labour. He spoke no word to the post.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the first part of Hercules",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in A bigger labour",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Stayed by the post while the yard counted",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a bigger labour",
+    "the yard counting",
+    "the right-hand post"
+  ],
+  "quotes": []
+}

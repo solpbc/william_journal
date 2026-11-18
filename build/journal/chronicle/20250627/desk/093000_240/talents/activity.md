@@ -1,0 +1,1 @@
+You looked at the same forty leaves and did not number them and did not copy them. There was no pamphlet on the board. Gib stayed on the Holinshed. Brooke stayed on the shelf. You did not open the coffer.

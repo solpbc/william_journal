@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At supper Verbeke had the looms' version: a silkweaver, like himself, and English. He said so it is not yet us, and he cut his bread smaller. You told the table what you had seen, and you did not describe a rescue. The Mayor and the dearth stayed what the water-bearer had called talk. Mistress Ansell kept Verbeke under his own name, at his own work, in his own bed, and kept the household at the table. Alse stopped at one gate. Nobody went back.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported only what he had seen, and refused a cause he did not have.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the man was a silkweaver, like himself, and English, and cut his bread smaller.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the household at the table, and kept Verbeke under his own name.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked if the man was hurt, was told you did not know, and stopped at one gate.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Bedlam",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A smaller piece of bread",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Told the supper table the gate, the hasp, the cap and the backs",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "William Shakespeare",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a silkweaver and English",
+    "not yet us",
+    "a smaller piece of bread",
+    "one gate"
+  ],
+  "quotes": [
+    {
+      "speaker": "gillis_verbeke",
+      "text": "So it is not yet us."
+    },
+    {
+      "speaker": "gillis_verbeke",
+      "text": "A silkweaver, like myself. And English."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I did not see them bring him out."
+    }
+  ]
+}

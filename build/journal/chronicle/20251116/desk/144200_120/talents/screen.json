@@ -1,0 +1,17 @@
+{
+  "narrative": "A scrap lies beside the fair page, one line on it, struck through, and it is not joined to the letter.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Struck the line and did not attach it."
+    },
+    {
+      "type": "Tool",
+      "name": "the fair sheet",
+      "role": "mentioned",
+      "context": "Shown on letter in You might have asked me"
+    }
+  ]
+}

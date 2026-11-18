@@ -1,0 +1,1 @@
+On the bridge Judith said you walk like your father, and she showed you. Hamnet asked the miles and kept a hundred. Susanna looked at your feet and said nothing. Richard took the pack at the town end. The flat parcel in the oilcloth rides on top.

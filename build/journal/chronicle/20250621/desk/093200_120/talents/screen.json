@@ -1,0 +1,17 @@
+{
+  "narrative": "The account book open. One sentence under a rule. The coffer across the room is shut, and it is not opened. No column of figures is touched. No face. The same sentence. The coffer has not moved. No total is written anywhere on the page. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote that the king ended, and did not count the coffer."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on ledger in Not yet shewn"
+    }
+  ]
+}

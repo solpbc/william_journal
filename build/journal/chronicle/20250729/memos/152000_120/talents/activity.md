@@ -1,0 +1,1 @@
+Between Aylesbury and Waddesdon you said the barley was to a man's knee, and that you would tell her the horse was dear when that was not why. You spoke a boy under a wall who must not answer too soon. You spoke no finished line. You meant to say the four words again before Grendon.

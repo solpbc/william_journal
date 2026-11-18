@@ -1,0 +1,17 @@
+{
+  "narrative": "The strip rolled. He is at the side. The play is still going. He does not go on again. The rolled strip in the hand. The rest of the plot is other men's. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Came off before the end and did not return."
+    },
+    {
+      "type": "Project",
+      "name": "The Shrew",
+      "role": "mentioned",
+      "context": "Shown on part in Off before the end"
+    }
+  ]
+}

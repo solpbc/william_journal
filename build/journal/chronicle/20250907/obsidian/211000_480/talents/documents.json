@@ -1,0 +1,51 @@
+{
+  "overview": "You let the Prince come into the square and gave him no speech. The friend is already off the page. Phillips is not on the leaf, and you did not tell him.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the entrance, and stopped before a speech."
+    },
+    {
+      "name": "Augustine Phillips",
+      "role": "mentioned",
+      "formal_term": "Augustine Phillips",
+      "appointment_tier": "not_applicable",
+      "context": "Not on the leaf, and not told."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the square",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Prince",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Phillips not on the leaf",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the square",
+      "asset_type": "other",
+      "disposition": "Wrote the Prince into the square"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-07",
+      "meaning": "The Prince comes in"
+    }
+  ],
+  "summary": "Wrote the Prince into the square"
+}

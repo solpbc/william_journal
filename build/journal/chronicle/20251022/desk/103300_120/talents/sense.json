@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "Walking south from the Theatre toward dinner, you read a black-letter bill on the Curtain gatepost and walked on. You did not turn in to see a prize.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the bill on the gatepost and did not turn into the lane.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "the Curtain",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in A fencers' bill on the Curtain post",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read the fencers' bill at the Curtain",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Curtain gatepost",
+    "fencers' prize bill",
+    "walking home for dinner"
+  ],
+  "quotes": []
+}

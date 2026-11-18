@@ -1,0 +1,1 @@
+By one candle you fair-copied a sonnet onto a single leaf. The leaf shows the opening line and no more of it is set down here. There is no title, no number, and no name on the leaf or near it. Two older leaves were already in the folder.

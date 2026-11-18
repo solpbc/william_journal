@@ -1,0 +1,44 @@
+{
+  "overview": "At half past five the book was open at the feast, held by the pounce-box. You were coatless. A bluebottle was at the casement. You did not copy a line from the leaf onto the sheet.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the leaf as texture, and did not copy it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the book at the feast",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the bluebottle",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nothing copied",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Brooke",
+      "asset_type": "other",
+      "disposition": "Opened the book at the feast"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-18",
+      "meaning": "The book, as texture"
+    }
+  ],
+  "summary": "Opened the book at the feast"
+}

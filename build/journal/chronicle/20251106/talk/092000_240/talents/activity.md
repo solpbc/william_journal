@@ -1,0 +1,1 @@
+At the morning rehearsal you ran Gaunt as the book is played. He dies in the second act. Nothing was put back into the play. You did not call the afternoon the sixth time before it had happened. Burbage takes the rest of the king from the tiring-house door.

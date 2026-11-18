@@ -1,0 +1,1 @@
+Late, Anne counted four shillings aloud, one by one, and said those should come home. She did not name the rest of the purse, and she did not give a coffer total. She gave you a shirt turned at the collar. She did not ask her question again.

@@ -1,0 +1,1 @@
+Upstairs you opened the tables again. The morning's three words were still there. You added one line under them, that the other work was after the yard and not before it. You did not open the red bundle. You did not write a speech. Gib stayed on the shut book.

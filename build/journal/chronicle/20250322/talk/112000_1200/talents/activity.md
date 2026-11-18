@@ -1,0 +1,1 @@
+You boarded at threepence, the second meal of the week. The hose are your mother's, and they stayed. Hobbins took four lines: Wednesday, by Oxford, the bridge on Friday by dusk, and he leaves today. The long letter is still on the board, with no day. You gave no new plot. The firing sixpence was not collected. The chamber was left as a Tuesday question.

@@ -1,0 +1,1 @@
+You read Anne's letter from before Christmas at the board. It asks for three small things. The two you could match are on the board, a cake of hard soap and a skein of Coventry blue thread. The third is only the phrase she used, the kind with the two ends, as before. You have no earlier letter by you to tell you what that was.

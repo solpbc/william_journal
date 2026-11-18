@@ -1,0 +1,44 @@
+{
+  "overview": "At two you went on as Egeon. The margin still said not to explain the sea. You did not add a new lesson, and you did not change a line.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Played the old man and did not explain the sea."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Egeon",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the old margin",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no new line",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Comedy of Errors",
+      "asset_type": "other",
+      "disposition": "Played Egeon"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-16",
+      "meaning": "Do not explain the sea"
+    }
+  ],
+  "summary": "Played Egeon"
+}

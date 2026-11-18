@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote one word on the tables. You did not write the figure, the head, or a scene. You do not yet know what the word is for.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the word and did not make it a part.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the tables",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in One word, and no page",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote one word on the tables",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one word",
+    "no page"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,1 @@
+You started a second quatrain and let the Nurse break it. Across the break, what can still be read is her name and the line that his mother wants a word. The joke is the break. You did not write it out for the yard.

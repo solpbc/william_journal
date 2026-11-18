@@ -1,0 +1,23 @@
+{
+  "narrative": "The corrector's ring on a damp proof, a brown stroke out to the margin, Field's inky thumb beside it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Saw the ring and the thumb, and did not touch the wet sheet."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "mentioned",
+      "context": "His thumb is in the picture. The rest of him has gone on to the next forme."
+    },
+    {
+      "type": "Tool",
+      "name": "the proof",
+      "role": "mentioned",
+      "context": "In photo: The corrector's ring"
+    }
+  ]
+}

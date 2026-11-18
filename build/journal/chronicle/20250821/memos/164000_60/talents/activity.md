@@ -1,0 +1,1 @@
+At St Giles, walking, under the noise of the string, you counted the journey. Twenty-four days and one scene, the one the rest hangs from. You went for a fire and came back with a house you cannot pay for. You called that Anne's arithmetic, and said you like it better than yours.

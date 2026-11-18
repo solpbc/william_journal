@@ -1,0 +1,60 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Cuthbert, from Holywell, said Allen rode in from Essex and named four-and-twenty pound a year where the company pays fourteen, for a short extension, with a clause about the house after five years that he would not explain. Two years less a month remain. James says he will pull the house down. Cuthbert wants the timber asked first, and the sharers told before James tells it his own way on Monday. You asked what a new play is worth to a landlord. Nothing, he said, and to his father a year. You said you will tell James you have a king coming. He said to tell him it is long. Nothing was agreed.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Cuthbert Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named himself and Holywell, brought the figure and the clause, and asked you to keep his father from the curse.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked the play's worth, offered a king, and agreed nothing.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Allen's four-and-twenty pound a year",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Cuthbert Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "four-and-twenty pound",
+    "fourteen",
+    "two years less a month",
+    "nothing agreed"
+  ],
+  "quotes": [
+    {
+      "speaker": "cuthbert_burbage",
+      "text": "Master Shakespeare? Cuthbert Burbage. From Holywell"
+    },
+    {
+      "speaker": "cuthbert_burbage",
+      "text": "My father says he'll pull the house down. I say, let's first ask what the timber's worth"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Then I'll tell him I've a king coming"
+    }
+  ]
+}

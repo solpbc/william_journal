@@ -1,0 +1,43 @@
+{
+  "overview": "After the first walk you wrote two payments, a quire at fivepence and ink at twopence, both to Mistress Ansell. You noted that the coffer had been counted. You set down no sum. You ruled no new column. The head of the book still said 1594.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the two payments and left the total unwritten."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "fivepence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "twopence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no sum",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "1594",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-08",
+      "meaning": "Two payments, and no sum"
+    }
+  ],
+  "summary": "Wrote the quire and the ink in the book"
+}

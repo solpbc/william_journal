@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 660.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "susanna_shakespeare", "start": "19:01:00", "text": "I have eaten. The book is up. I am not making a question out of a clean plate.", "timing": {"end": 370.0, "start": 120.0}}
+{"sentence_id": 2, "speaker": "joan_shakespeare", "start": "19:05:10", "text": "Leave the heel. I am not paring a loaf down until it means something.", "timing": {"end": 580.0, "start": 370.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "19:08:40", "text": "The heel can stay. I had the middle of it this morning. That was my loaf.", "timing": {"end": 590.0, "start": 580.0}}

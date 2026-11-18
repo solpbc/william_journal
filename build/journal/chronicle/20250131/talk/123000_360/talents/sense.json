@@ -1,0 +1,92 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Alse said the loaf wants a finger. You paid threepence for the fish. You are not in today's Shrew. Grecian Comedy is the Rose, and you are not going. Nothing on the desk left the house.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid threepence and stayed at the lodging.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Priced the fish and kept him at the table.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the loaf wants a finger, and brought the other bill as news she could not read.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat at the far end of the board and did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Taming of the Shrew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Same as Friday",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Grecian Comedy",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Same as Friday",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Paid for the fish and stayed in",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the finger-short loaf",
+    "threepence",
+    "staying in"
+  ],
+  "quotes": [
+    {
+      "speaker": "alse_pinder",
+      "text": "It wants a finger, mistress"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not in it"
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Then it wants a finger, and the fish is threepence, and I am not arguing with a loaf;"
+    }
+  ]
+}

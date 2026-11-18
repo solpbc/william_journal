@@ -1,0 +1,59 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You kept evening prayer at St Helen's for St James. Master Thwaite named the feast and added no news. You added none.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came from Field's stair and stayed for the prayer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the feast and withheld the street.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "St Helen's",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in St James, and no news",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Kept evening prayer",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "St James",
+    "evening prayer",
+    "no news"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "St James, and the street louder than the feast."
+    }
+  ]
+}

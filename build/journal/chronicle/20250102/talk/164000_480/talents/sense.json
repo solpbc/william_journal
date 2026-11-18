@@ -1,0 +1,124 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Errors was just done. You had played Egeon and then waited two hours in a cold parlour. Kemp got up on a hamper, set a stool for a chariot, and did Alleyn's line. The room went quiet. Heminges said they will be paid as slowly as we are. Pope said she is keeping two dogs and feeding neither. Kemp roared the line again, and Burbage threw a stuffed glove. Your sheets of Berowne stayed under your arm. You did not read them. The Queen's twenty pounds is still expected, and still not yours to fetch.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the two cold hours, kept the twenty pounds off his own purse, and refused the page.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood on the hamper, roared the line twice, and took the glove.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said nothing while Kemp got the height, then threw the glove, and asked nothing that was granted.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said they will be paid as slowly as we are, and named Monday's Errors without a sum.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the two court days, and said she is keeping two dogs and feeding neither.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two dogs, and a glove",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "2 Tamburlaine",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two dogs, and a glove",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Queen's twenty pounds",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two dogs, and a glove",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two dogs, and a glove",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Kemp do Alleyn's line from a hamper",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Thomas Pope",
+    "Will Kemp",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cold parlour",
+    "Tamburlaine and Greenwich",
+    "the hamper",
+    "the glove",
+    "Berowne unopened"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I spoke, and then I sat two hours in that parlour. It is still cold."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Holla, ye pampered jades of Asia!"
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "They will be paid as slowly as we are."
+    },
+    {
+      "speaker": "thomas_pope",
+      "text": "She is keeping two dogs and feeding neither."
+    }
+  ]
+}

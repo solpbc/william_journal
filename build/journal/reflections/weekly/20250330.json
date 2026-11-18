@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250330",
+    "end": "20250405"
+  },
+  "generated_at": "2025-04-05T22:00:00Z",
+  "days": [
+    {
+      "day": "20250330",
+      "state": "memory",
+      "memory_id": "m-20250330-0"
+    },
+    {
+      "day": "20250331",
+      "state": "memory",
+      "memory_id": "m-20250331-1"
+    },
+    {
+      "day": "20250401",
+      "state": "memory",
+      "memory_id": "m-20250401-2"
+    },
+    {
+      "day": "20250402",
+      "state": "memory",
+      "memory_id": "m-20250402-3"
+    },
+    {
+      "day": "20250403",
+      "state": "memory",
+      "memory_id": "m-20250403-4"
+    },
+    {
+      "day": "20250404",
+      "state": "memory",
+      "memory_id": "m-20250404-5"
+    },
+    {
+      "day": "20250405",
+      "state": "memory",
+      "memory_id": "m-20250405-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250330-0",
+      "key": "mem_20250330_0",
+      "day": "20250330",
+      "text": "Your mother asked about shirts. One sentence at the porch. His place stayed empty. The new moon was marked, and the almanac was closed.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250330/talents/morning_briefing",
+        "briefing_day": "20250330",
+        "refs": [
+          "sol://facets/stratford/activities/20250330#meeting_085000_180",
+          "sol://facets/stratford/activities/20250330#meeting_094000_720",
+          "sol://facets/stratford/activities/20250330#meeting_111000_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250331-1",
+      "key": "mem_20250331_1",
+      "day": "20250331",
+      "text": "Tomorrow morning is Hamnet's leave, and the sword stays off the school lane. He is back at eleven. Anne said a twelvemonth was short.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250331/talents/morning_briefing",
+        "briefing_day": "20250331",
+        "refs": [
+          "sol://facets/stratford/activities/20250331#meeting_081500_480",
+          "sol://facets/writing/activities/20250331#frame_114000_180",
+          "sol://facets/stratford/activities/20250331#meeting_142000_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20250401-2",
+      "key": "mem_20250401_2",
+      "day": "20250401",
+      "text": "The carpenter said fire makes work, and Anne said the bucket makes debt. The bucket came home in your hand. You came home by the Guild Chapel.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250401/talents/morning_briefing",
+        "briefing_day": "20250401",
+        "refs": [
+          "sol://facets/stratford/activities/20250401#meeting_101500_180",
+          "sol://facets/stratford/activities/20250401#photo_103200_60",
+          "sol://facets/stratford/activities/20250401#meeting_104200_840"
+        ]
+      }
+    },
+    {
+      "id": "m-20250402-3",
+      "key": "mem_20250402_3",
+      "day": "20250402",
+      "text": "He named the debts at thirty shillings, under two pounds, and a few shillings. The scrap went back.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250402/talents/morning_briefing",
+        "briefing_day": "20250402",
+        "refs": [
+          "sol://facets/stratford/activities/20250402#meeting_160200_840",
+          "sol://facets/writing/activities/20250402#memo_211500_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250403-4",
+      "key": "mem_20250403_4",
+      "day": "20250403",
+      "text": "Butter was fourpence. Judith repeated loving countryman, and Hamnet laughed once. The gingerbread paper reached Susanna. The canvas was still sixty shillings.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250403/talents/morning_briefing",
+        "briefing_day": "20250403",
+        "refs": [
+          "sol://facets/stratford/activities/20250403#meeting_111500_720",
+          "sol://facets/stratford/activities/20250403#photo_114000_60",
+          "sol://facets/stratford/activities/20250403#photo_115500_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250404-5",
+      "key": "mem_20250404_5",
+      "day": "20250404",
+      "text": "You paid five pounds, and the pages were ruled. Forty-two shillings came out and eighteen stayed in the canvas. Sadler said eight loaves.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250404/talents/morning_briefing",
+        "briefing_day": "20250404",
+        "refs": [
+          "sol://facets/writing/activities/20250404#frame_082000_180",
+          "sol://facets/stratford/activities/20250404#meeting_091000_480",
+          "sol://facets/stratford/activities/20250404#meeting_102500_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250405-6",
+      "key": "mem_20250405_6",
+      "day": "20250405",
+      "text": "You gave eighteen shillings. She named malt, corn, and one pair of shoes fewer. You gave three answers. The leaf says buds, a grey gown, and a brook.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250405/talents/morning_briefing",
+        "briefing_day": "20250405",
+        "refs": [
+          "sol://facets/stratford/activities/20250405#meeting_135000_180",
+          "sol://facets/stratford/activities/20250405#photo_144000_60",
+          "sol://facets/stratford/activities/20250405#meeting_145500_240"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250330-0",
+      "key": "said_20250330_0",
+      "day": "20250330",
+      "quote": "Alum on his finger, ink on mine, and she made them the one finger.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250330#memo_212000_60"
+      }
+    },
+    {
+      "id": "s-20250331-1",
+      "key": "said_20250331_1",
+      "day": "20250331",
+      "quote": "Four young men swear off women and keep it till dinner. That she believes.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250331#meeting_142000_720"
+      }
+    },
+    {
+      "id": "s-20250401-2",
+      "key": "said_20250401_2",
+      "day": "20250401",
+      "quote": "I can hold a handle without a speech on it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250401#meeting_104200_840"
+      }
+    },
+    {
+      "id": "s-20250402-3",
+      "key": "said_20250402_3",
+      "day": "20250402",
+      "quote": "A player is a gentleman three hours every afternoon.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250402#meeting_160200_840"
+      }
+    },
+    {
+      "id": "s-20250403-4",
+      "key": "said_20250403_4",
+      "day": "20250403",
+      "quote": "The loaf was hers to know. The pennies were the easy part.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250403#meeting_121000_720"
+      }
+    },
+    {
+      "id": "s-20250404-5",
+      "key": "said_20250404_5",
+      "day": "20250404",
+      "quote": "I will not say the total where my father can hear it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250404#meeting_091000_480"
+      }
+    },
+    {
+      "id": "s-20250405-6",
+      "key": "said_20250405_6",
+      "day": "20250405",
+      "quote": "Eighteen is the true weight. I would rather have brought the sixty.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250405#meeting_154000_840"
+      }
+    },
+    {
+      "id": "s-20250405-7",
+      "key": "said_20250405_7",
+      "day": "20250405",
+      "quote": "Both was the one I had. I heard it come apart.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250405#meeting_162000_180"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You stood in the porch of St Helen's after morning prayer. You had spent the sermon counting twenty pounds that is not yours: shoes, your father's small debts, a horse at Lent. Master Thwaite gave you one sentence about the unjust steward, and you kept only the half of it. Mistress Ansell named a servant of Crosby Place under her breath, and said she had done no such thing when you told her her voice had dropped. Sir John Spencer left from three rows ahead and did not speak to you. The loaf is still a penny and a finger short, which she had already measured on Friday.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Admitted the counting, took the one sentence, and did not pretend to the rest.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the lost hour, the Mayor's door, the loaf, and the threepence, and denied the dropped voice.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the sentence about the steward and would not have the heads invented on the way home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Left by the south door from three rows ahead, and did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Queen's twenty pounds",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Goods not yet in the hand",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Goods not yet in the hand",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood in the porch and kept half a sentence",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Master Josias Thwaite"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the unjust steward",
+    "twenty pounds not yet had",
+    "the Mayor's door",
+    "the penny loaf"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Shoes. My father's small debts. A horse at Lent."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I have done no such thing."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Twenty pounds that is not mine, and not yet had."
+    },
+    {
+      "speaker": "josias_thwaite",
+      "text": "The unjust steward made friends of his master's goods, and the goods were not yet in his hand."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+# What he knows
+
+A fact enters on the day he hears it, which is often not the day it happened. Same-day news is not given a lag: the Mayor's letter on 13 Sep, Heneage's death on 17 Oct, Slany's oath on 29 Oct. Hawkins's death on 12 Nov never reaches him. Do not tell him.
+
+From world § 9.2.5 and § 9.3 rule 4. Hearing dates: Raleigh's sailing 11 Feb (he sailed five days earlier) · Southwell's trial at supper 20 Feb · the hanging is the 21st, and he does not go · Clontibret about 18 Jun (fought 25–27 May) · the second Stratford fire 21 Jul (it was the 15th) · Cornwall 26 Jul (burned the 23rd; he never sees it) · Drake and Hawkins sailed, heard 4 Sep (they sailed 28 Aug) · Raleigh home 22 Sep · the Arundel memo 22 Oct (the death was the 19th) · Essex and the succession book 5 Nov (shown to the Queen on the 3rd) · *Edward III* entered, heard 1 Dec.
+
+| from | to | state | true now | not yet | entries |
+|---|---|---|---|---|---|
+| 2025-01-01 | 2025-02-10 | none of the lagged news | He does not know that Raleigh has sailed, or any later item in this file. | Do not give him Guiana, the trial, Clontibret, the July fire, Cornwall, the August sailing, Raleigh's return, Arundel, the succession book, or *Edward III*. | § 9.2.5 |
+| 2025-02-11 | 2025-02-19 | Raleigh has gone | Word at Old Swan Stairs: Raleigh has sailed for Guiana, five days since (S014a). | The trial has not been heard. Nothing later in the list. | S014a |
+| 2025-02-20 | 2025-02-20 | the trial, at supper | He plays, and at supper hears that Southwell was tried (S018). | The hanging is tomorrow. He does not know it yet. | S018 |
+| 2025-02-21 | 2025-06-17 | the hanging, unattended | He knows Southwell was hanged. He did not go (S019). Clontibret has been fought and he has not heard it. | Do not give him Ireland. No July fire. No Cornwall. | S019 |
+| 2025-06-18 | 2025-07-14 | Clontibret, three weeks late | The tiring-house has it (W050). The fight was 25–27 May. | The second fire has not happened. | W050 |
+| 2025-07-15 | 2025-07-20 | the fire has happened, and he has not heard | The fire is on the 15th. He does not know. Gilbert's call and Anne's letter are the 21st. On the 19th Davy has a rumour, "six Spanish galleys seen off the north coast of Cornwall" (W059): a sighting, not the raid, and William does not correct it (the editor, 2026-11-17, from the continuity audit). | Do not tell him. Do not burn the family's house. | § 9.2.5 |
+| 2025-07-21 | 2025-07-25 | the fire, six days late | Gilbert calls with a garbled version, and an hour later Hobbins brings Anne's letter (W306, S074). The fire was the 15th. The house is safe. | Cornwall has burned and he has not heard. Davy's galley rumour of the 19th is all he has. Do not describe the Cornish coast or the raid. | W306, S074 |
+| 2025-07-26 | 2025-08-27 | Cornwall, as talk | The tiring-house has Cornwall on the 26th (S076). He did not see it. On the morning of the 26th a pamphlet of the executions is on a Paul's stall. He sees it and does not buy it (S078). | Drake and Hawkins have not sailed. He will not hear of the sailing until 4 Sep. | S076, S078 |
+| 2025-08-28 | 2025-09-03 | they have sailed, and he has not heard | Drake and Hawkins sailed from Plymouth on the 28th. He does not know. | Do not tell him until 4 Sep. | § 9.2.5 |
+| 2025-09-04 | 2025-09-21 | they have sailed | He hears that Drake and Hawkins have sailed (S084). | Raleigh is not home in his hearing. Hawkins's death is never his. | S084 |
+| 2025-09-22 | 2025-10-21 | home, with little riches | Raleigh is home. The phrase in Paul's is "with little riches" (S090). Gannet has a larger story. The smaller one is what holds. | The Arundel memo is the 22nd. The succession book is November. | S090 |
+| 2025-10-22 | 2025-11-04 | Arundel, kept general | He writes the memo (S097). The death was the 19th. He does not make it a faction. | The Essex book has not been heard. *Edward III* has not been entered in his hearing. | S097 |
+| 2025-11-05 | 2025-11-30 | the succession book | He hears of the book Essex showed the Queen on the 3rd (S103a, S103b). A deposition play feels warm in the hand. That is his feeling, not a new scene in the public book. | *Edward III* is 1 Dec. Hawkins is still unknown, and stays unknown. | S103a |
+| 2025-12-01 | 2025-12-31 | old lines, entered | Burby enters *Edward III*. He hears it the same day (S111). More old lines are abroad without him. Hawkins's death is still not his, and will not be. | Do not tell him Hawkins is dead. Do not give him 1596. | S111 |

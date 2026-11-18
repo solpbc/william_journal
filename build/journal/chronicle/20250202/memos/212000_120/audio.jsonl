@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:20:00", "text": "They are ten today. The paper knows it, and the paper is still in this room.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:20:14", "text": "The pump ran. I have not written the pump. If I say more than that I shall make a speech of them.", "timing": {"end": 32.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:20:32", "text": "Thursday. Not before.", "timing": {"end": 42.0, "start": 32.0}}

@@ -1,0 +1,17 @@
+{
+  "narrative": "The almanac open at the day. One small cross. No name, no place, no sum. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Made the mark and shut the almanac."
+    },
+    {
+      "type": "Tool",
+      "name": "the almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in A small cross"
+    }
+  ]
+}

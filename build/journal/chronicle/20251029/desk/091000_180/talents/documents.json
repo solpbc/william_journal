@@ -1,0 +1,44 @@
+{
+  "overview": "Before you went to the river you looked at the one page. You added nothing. The pen was not in the ink. The red bundle stayed tied.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked, and added nothing."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "one page",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nothing added",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the tied bundle",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the one page",
+      "asset_type": "other",
+      "disposition": "Looked at the one page before the river"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-29",
+      "meaning": "Still one page"
+    }
+  ],
+  "summary": "Looked at the one page before the river"
+}

@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250817",
+    "end": "20250823"
+  },
+  "generated_at": "2025-08-23T22:00:00Z",
+  "days": [
+    {
+      "day": "20250817",
+      "state": "memory",
+      "memory_id": "m-20250817-0"
+    },
+    {
+      "day": "20250818",
+      "state": "memory",
+      "memory_id": "m-20250818-1"
+    },
+    {
+      "day": "20250819",
+      "state": "memory",
+      "memory_id": "m-20250819-2"
+    },
+    {
+      "day": "20250820",
+      "state": "memory",
+      "memory_id": "m-20250820-3"
+    },
+    {
+      "day": "20250821",
+      "state": "memory",
+      "memory_id": "m-20250821-4"
+    },
+    {
+      "day": "20250822",
+      "state": "memory",
+      "memory_id": "m-20250822-5"
+    },
+    {
+      "day": "20250823",
+      "state": "memory",
+      "memory_id": "m-20250823-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250817-0",
+      "key": "mem_20250817_0",
+      "day": "20250817",
+      "text": "The horses are at six, at the bridge. Edmund has two cues, and his London is the work at home. Susanna's answer is still to write. The purse has sixteen shillings, and the two shillings for the saddle are still to pay.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250817/talents/morning_briefing",
+        "briefing_day": "20250817",
+        "refs": [
+          "sol://facets/stratford/activities/20250817#meeting_092000_360",
+          "sol://facets/stratford/activities/20250817#meeting_144000_480",
+          "sol://facets/writing/activities/20250817#meeting_153000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250818-1",
+      "key": "mem_20250818_1",
+      "day": "20250818",
+      "text": "You rode to Shipston and walked the rest. Oats were a penny the peck over last month. The strap wants shortening. A house is the guess you took back.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250818/talents/morning_briefing",
+        "briefing_day": "20250818",
+        "refs": [
+          "sol://facets/household/activities/20250818#meeting_053500_120",
+          "sol://facets/stratford/activities/20250818#photo_060000_60",
+          "sol://facets/stratford/activities/20250818#meeting_060800_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250819-2",
+      "key": "mem_20250819_2",
+      "day": "20250819",
+      "text": "The friar is on the tables, and the dawn there is his. The moon and the ladder stayed off the page. Supper was nine pence.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250819/talents/morning_briefing",
+        "briefing_day": "20250819",
+        "refs": [
+          "sol://facets/stratford/activities/20250819#photo_120000_60",
+          "sol://facets/stratford/activities/20250819#meeting_121000_240",
+          "sol://facets/writing/activities/20250819#frame_122500_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250820-3",
+      "key": "mem_20250820_3",
+      "day": "20250820",
+      "text": "You asked about oats, and the house stayed for later. The widow's forty pound stayed hers. Eleven pence stood as the supper alone.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250820/talents/morning_briefing",
+        "briefing_day": "20250820",
+        "refs": [
+          "sol://facets/stratford/activities/20250820#meeting_170500_480",
+          "sol://facets/stratford/activities/20250820#photo_193500_60",
+          "sol://facets/household/activities/20250820#frame_194000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250821-4",
+      "key": "mem_20250821_4",
+      "day": "20250821",
+      "text": "One scene, the one the rest hangs from. Bills are up for Monday. Your father owes Sadler, and the debt stayed his. The road is nine shillings, all told. The bed at the Bell was twopence.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250821/talents/morning_briefing",
+        "briefing_day": "20250821",
+        "refs": [
+          "sol://facets/stratford/activities/20250821#meeting_100500_180",
+          "sol://facets/stratford/activities/20250821#meeting_152000_60",
+          "sol://facets/writing/activities/20250821#memo_164000_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250822-5",
+      "key": "mem_20250822_5",
+      "day": "20250822",
+      "text": "The coffer is twenty pound fifteen shillings. Gib is on the book. Gaunt is in rolls, six weeks to get by heart. Burbage has Sunday, after church. The house is still to price.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250822/talents/morning_briefing",
+        "briefing_day": "20250822",
+        "refs": [
+          "sol://facets/household/activities/20250822#meeting_080500_360",
+          "sol://facets/household/activities/20250822#frame_084000_120",
+          "sol://facets/household/activities/20250822#frame_090500_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250823-6",
+      "key": "mem_20250823_6",
+      "day": "20250823",
+      "text": "Brooke stayed on the shelf. The second act is a list. The friar says what Susanna said, and the scene goes past him. The letter is still ahead. The strap is still long.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250823/talents/morning_briefing",
+        "briefing_day": "20250823",
+        "refs": [
+          "sol://facets/writing/activities/20250823#frame_102000_120",
+          "sol://facets/writing/activities/20250823#note_110000_120",
+          "sol://facets/household/activities/20250823#meeting_131000_180"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250817-0",
+      "key": "said_20250817_0",
+      "day": "20250817",
+      "quote": "A ballad with a murder is a murder with a tune.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250817#meeting_181000_600"
+      }
+    },
+    {
+      "id": "s-20250817-1",
+      "key": "said_20250817_1",
+      "day": "20250817",
+      "quote": "I live here. I said so. Hold to it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250817#memo_215500_60"
+      }
+    },
+    {
+      "id": "s-20250818-2",
+      "key": "said_20250818_2",
+      "day": "20250818",
+      "quote": "He said thoughts weigh nothing on a horse. He has never carried mine.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250818#memo_182000_180"
+      }
+    },
+    {
+      "id": "s-20250819-3",
+      "key": "said_20250819_3",
+      "day": "20250819",
+      "quote": "Soft and steady. I have written worse advice, and been glad of it later.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250819#meeting_121000_240"
+      }
+    },
+    {
+      "id": "s-20250820-4",
+      "key": "said_20250820_4",
+      "day": "20250820",
+      "quote": "I do not wear the crown. A fellow wears it. I write the weight.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250820#meeting_195000_480"
+      }
+    },
+    {
+      "id": "s-20250821-5",
+      "key": "said_20250821_5",
+      "day": "20250821",
+      "quote": "I went for a fire and came back with a house I can't pay for. That's her arithmetic. I like it better than mine.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250821#memo_164000_60"
+      }
+    },
+    {
+      "id": "s-20250822-6",
+      "key": "said_20250822_6",
+      "day": "20250822",
+      "quote": "A fire. A walk. A barn. A back. That is the order, and I am not decorating it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250822#meeting_121000_480"
+      }
+    },
+    {
+      "id": "s-20250823-7",
+      "key": "said_20250823_7",
+      "day": "20250823",
+      "quote": "She said, when you write, say something. I have written a list. A list is not a letter.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250823#memo_211000_120"
+      }
+    }
+  ]
+}

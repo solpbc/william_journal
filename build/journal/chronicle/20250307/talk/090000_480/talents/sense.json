@@ -1,0 +1,73 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At breakfast you paid threepence for the fish. Mistress Ansell said two houses alike is no plot, and you would not say who wants what, or a name. Anne's sheet stayed in the chest. You said the King is not begun, and you did not send anyone for a chronicle. The loaf was still a penny and a finger short.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the names upstairs, left the chest shut, and paid threepence.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called alike no plot, and did not ask a second time for the wife's letter.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked which house to pity, and was given the fish instead.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Paid threepence and left Anne's sheet in the chest",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "threepence",
+    "alike is no plot",
+    "the chest shut",
+    "no name said"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Alike is no plot. Two houses the same is a street with extra chairs."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The page stops before anyone speaks."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Anne's sheet is in the chest. I am not opening that either."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Threepence covers the fish. It does not cover a performance."
+    }
+  ]
+}

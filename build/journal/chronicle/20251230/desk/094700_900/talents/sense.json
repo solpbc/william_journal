@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You sat with the finished leaf and did not pick the pen up. The older sheets stayed face down. Both lines were still as written.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "attendee in Sat with the finished leaf and left the pen down",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote the page from the workmen through to the queen",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the pen in the rest",
+    "the pile unturned",
+    "both lines left"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,49 @@
+{
+  "overview": "You wrote sixteen shillings left of the six pounds, and you wrote the two shillings for the pack and the saddle as not yet paid. You ruled the line off. You did not enter the bay grease, and you did not count the locked money.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Counted the purse once, and ruled it off."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "sixteen shillings",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "two shillings unpaid",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the ruled line",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "sixteen shillings",
+      "asset_type": "other",
+      "disposition": "Wrote sixteen shillings"
+    },
+    {
+      "name": "two shillings",
+      "asset_type": "other",
+      "disposition": "Wrote sixteen shillings"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-17",
+      "meaning": "Sixteen shillings"
+    }
+  ],
+  "summary": "Wrote sixteen shillings"
+}

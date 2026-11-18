@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "05:10:00", "text": "Two hours, if that. She asked whether the girl would be long. I told her the girl was quick.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "05:10:16", "text": "I came up. The stone is on the sheet. I am not going down to it before there is light.", "timing": {"end": 32.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "05:10:32", "text": "\u2026Enough.", "timing": {"end": 42.0, "start": 32.0}}

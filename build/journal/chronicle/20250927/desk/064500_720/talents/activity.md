@@ -1,0 +1,1 @@
+The girl has heard that her cousin is dead, and by whose hand. You had written her a passage that told the yard what the yard had already seen. You struck it, eleven lines. You left her one turn and fewer words. The margin says trust the boy.

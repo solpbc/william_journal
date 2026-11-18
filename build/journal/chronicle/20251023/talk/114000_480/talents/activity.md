@@ -1,0 +1,1 @@
+At noon you stayed at the lodging. You knew the carrier's yard had been full since before noon, and you did not go. You are in the afternoon comedy, and half past five is when you will meet the horses. The three lines are already written. A fourth, if it is needed, waits until you are at his table. A letter is twopence, and you are not making it a parcel.

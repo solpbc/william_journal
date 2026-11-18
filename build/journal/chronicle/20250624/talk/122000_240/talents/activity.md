@@ -1,0 +1,1 @@
+At dinner the penny loaf looked smaller than winter's. It was still a thumb short of the notch, and still a penny. Verbeke said memory makes bread bigger. Alse, cutting it four ways, said cutting does not.

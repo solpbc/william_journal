@@ -1,0 +1,42 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At Shipston a woman offered bread under a cloth. You heard your own vowel in her mouth. She would not make a ceremony of it. You did not buy a speech.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the vowel and did not make a scene of coming home.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Heard the same vowel at Shipston",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the vowel",
+    "the bread",
+    "no ceremony"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "That is my own vowel. I had forgotten the shape of it."
+    }
+  ]
+}

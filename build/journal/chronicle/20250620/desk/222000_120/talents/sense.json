@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote one line on your tables. The gardener is right and is not thanked. You did not add a second sentence.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the line and did not extend it.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Not thanked",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote that the gardener is right",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the tables",
+    "the gardener"
+  ],
+  "quotes": []
+}

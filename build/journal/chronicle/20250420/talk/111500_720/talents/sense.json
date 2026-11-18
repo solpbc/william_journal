@@ -1,0 +1,106 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Dinner was beef at last, a boiled piece, and you paid threepence. Mistress Ansell did not measure the loaf. Master Verbeke said the loaf she would not measure was smaller than Christmas's. You said you had confessed nothing. John of Gaunt stayed upstairs, and you did not say your age.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid threepence, said he had confessed nothing, and left the king upstairs.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Served the boiled beef, took the threepence, and refused to measure the loaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the unmeasured loaf was smaller than Christmas's.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Carried the loaf clear of the notch, and counted two turns of the sand-glass.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Got off the bench and stayed in the doorway.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Beef, and a loaf left alone",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "threepence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Beef, and a loaf left alone",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate the Easter beef and paid threepence",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the boiled beef",
+    "threepence",
+    "the unmeasured loaf",
+    "the quiet rail"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Threepence is threepence, Easter or not."
+    },
+    {
+      "speaker": "gillis_verbeke",
+      "text": "The loaf you would not measure is smaller than Christmas's."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "There was nothing to say. I confessed nothing."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Do not make a sermon of a boiled piece."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Upstairs, before you wrote, the tables were open on a rubbed leaf. You held the stylus and did not put down a sum, a title, or a play. The cloak was on the peg.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "attendee in Opened the tables on a rubbed leaf",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Opened the tables on a rubbed leaf",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote three words for the morning",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the tables",
+    "a rubbed leaf",
+    "nothing written yet"
+  ],
+  "quotes": []
+}

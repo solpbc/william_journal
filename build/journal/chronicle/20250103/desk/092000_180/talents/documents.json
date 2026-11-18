@@ -1,0 +1,49 @@
+{
+  "overview": "You wrote the plot in a form you could say: four gentlemen swear to study three years and to see no woman, and four ladies come to the court. Under that you wrote that they arrive, and that there is no sentence on them yet. You left the blank.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the two lines and stopped."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "four gentlemen",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "three years",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "four ladies",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no sentence",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Wrote the oath and the ladies' arrival"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-03",
+      "meaning": "What can be told"
+    }
+  ],
+  "summary": "Wrote the oath and the ladies' arrival"
+}

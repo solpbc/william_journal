@@ -1,0 +1,17 @@
+{
+  "narrative": "The roll opened just below the turned head. The name is still hidden. A cue mark in the margin, no word added beside it. No face. The same thumb. Paint at the nail. He does not write a name in the margin. The rope is a blur at the bench. No face. The roll under his hand, closed. He is still seated. The door behind him is shut. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Opened the roll a finger's width and shut it"
+    },
+    {
+      "type": "Tool",
+      "name": "the part-roll",
+      "role": "mentioned",
+      "context": "Shown on part in Opened the roll a finger's width and shut it"
+    }
+  ]
+}

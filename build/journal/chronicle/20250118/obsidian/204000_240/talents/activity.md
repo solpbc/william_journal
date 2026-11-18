@@ -1,0 +1,1 @@
+At the height of the fever you struck a line and wrote the same line back, because you could not tell whether it was bad. You did not cut the stale conceits out of the scene. The songs are not written. The last line is not written. The comedy is still unfinished.

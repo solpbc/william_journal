@@ -1,0 +1,1 @@
+You ate yesterday's bread at the bench. Mistress Ansell had put the jug down and would not carry it up again. Alse stayed at the table. You said the letter was still upstairs, and that you were going back up without the jug.

@@ -1,0 +1,17 @@
+{
+  "narrative": "A short leaf on the desk at the lodging, not folded, not sealed. His hand is beside it, not on the writing. The letter from Anne is on the table below the desk, still open. His face is not over either page.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the sentence and did not seal it."
+    },
+    {
+      "type": "Company",
+      "name": "the Bell",
+      "role": "mentioned",
+      "context": "Shown on letter in Not a yes"
+    }
+  ]
+}

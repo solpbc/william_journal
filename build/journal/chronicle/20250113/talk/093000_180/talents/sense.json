@@ -1,0 +1,105 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Alse brought water and you sent her off the paper. You called the blot a blot and said you were well. Mistress Ansell left broth as dinner and did not send you out. Gib was asleep on the Golding. Alse asked about the year and a day, which she had already heard through the floor. You told her they do not marry, and you did not fill the messenger's half-line.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused to have the paper touched, said he was well, and left the half-line empty.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the water, named the blot, asked about the year and a day, and kept off the lines.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke from the stair, set broth as dinner, and did not come up.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Asleep on the Golding. No lines.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named as having eaten and gone to his loom. Not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Titus Andronicus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Keep off the paper",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Golding's Ovid",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Keep off the paper",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Sent the water off the paper and stayed in",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "William Shakespeare",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the blot",
+    "the water",
+    "broth for dinner",
+    "the cat on the book"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Keep off the paper."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It is a blot. I am well."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Titus dies at two whether you are there or not."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "There is a blot as big as a groat."
+    }
+  ]
+}

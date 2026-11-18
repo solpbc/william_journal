@@ -1,0 +1,1 @@
+Nick was in the yard. You left the rolls under the weight and turned to the book. John entered eightpence as copying, with the line standing alone. Humphrey kept the drying at a quarter of an hour. The small sign stayed in the corner of the rolls.

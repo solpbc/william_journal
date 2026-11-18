@@ -1,0 +1,7 @@
+{"backend": "whisper", "duration": 900.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "joan_shakespeare", "start": "13:51:20", "text": "The basin is at the door. The lane comes off before any of you are a boat.", "timing": {"end": 280.0, "start": 80.0}}
+{"sentence_id": 2, "speaker": "hamnet_shakespeare", "start": "13:54:40", "text": "My hands are clean enough for a river.", "timing": {"end": 320.0, "start": 280.0}}
+{"sentence_id": 3, "speaker": "joan_shakespeare", "start": "13:55:20", "text": "They are not clean enough for my board. Again.", "timing": {"end": 490.0, "start": 320.0}}
+{"sentence_id": 4, "speaker": "susanna_shakespeare", "start": "13:58:10", "text": "The book is by the door. I am not opening it over a basin.", "timing": {"end": 700.0, "start": 490.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "14:01:40", "text": "The knife is in my hand. It goes on the board until we go, and then it comes home.", "timing": {"end": 850.0, "start": 700.0}}
+{"sentence_id": 6, "speaker": "anne_shakespeare", "start": "14:04:10", "text": "On the board, where I can see it leave. I am not hunting the shop for it at supper.", "timing": {"end": 860.0, "start": 850.0}}

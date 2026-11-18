@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "timestamp": "2025-03-15T21:16:00Z",
+  "outcome": "stored",
+  "reason": null,
+  "result": {
+    "count": 1,
+    "targets": [],
+    "digest": "afafe237dcf96be771d6c298daffc71bf442d7cf1ec7df25f9cb9b316f8bc090",
+    "origin": {
+      "kind": "agent_memory",
+      "source_key": "sha256:56ef3f88340b15c97d4805cf0fe3d44d4ebb3afe6502e3b00d5c732ca7c484e6",
+      "creation_label": "Claude",
+      "created_at": "2025-03-15T21:16:00Z",
+      "stream": "agent-memory-56ef3f88340b15c97d4805cf0fe3d44d4ebb3afe6502e3b00d5c732ca7c484e6",
+      "segment": "211600_1"
+    },
+    "created_at": "2025-03-15T21:16:00Z",
+    "byte_count": 151,
+    "memory": {
+      "complete": true,
+      "own_recall_ready": true,
+      "ordinary_readable": false
+    }
+  }
+}

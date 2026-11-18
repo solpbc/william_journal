@@ -1,0 +1,1 @@
+You came in before the doors. Margery had the gallery filling and the flag up. John told you the bill was on the post, and that you were in the play. You said you would read the title and not name yourself. No paint was on you yet. The tireman was not your cue.

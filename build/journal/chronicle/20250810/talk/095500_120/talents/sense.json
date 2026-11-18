@@ -1,0 +1,81 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You walked the party past the school stair and did not stop in Chapel Street. You did not turn your head. Susanna got Hamnet off the mounting-block, and the line went on toward the porch.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Walked past the school stair",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Walked past the school stair",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Walked past the school stair",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Walked past the school stair",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Guild Chapel",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Walked past the school stair",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Walked past the closed school door",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare",
+    "Susanna Shakespeare",
+    "Hamnet Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the school stair",
+    "Chapel Street",
+    "the porch"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "I am not stopping in Chapel Street to improve a Sunday."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not turning my head."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At the lodging door, home from the Theatre, you said you would not cut her and you would not write her a line lower. Six weeks is the time you named. You did not turn it into a date. You told the boy to hold. You were not in a street.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the refusal to no one at the door, and held the boy in the same breath.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the vial speech",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in At the door",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Told the boy to hold at the lodging door",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "six weeks",
+    "the refusal to cut",
+    "the door of the lodging"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I'll not cut her. I'll not write her a line lower."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Hold, boy."
+    }
+  ]
+}

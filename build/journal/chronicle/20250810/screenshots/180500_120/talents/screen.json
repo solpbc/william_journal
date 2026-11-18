@@ -1,0 +1,17 @@
+{
+  "narrative": "The field path through evening stubble, looking back the way toward the town, the long hedge on one side and the wheat standing thin on the other. No one is in the frame.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked back once, and did not speak."
+    },
+    {
+      "type": "Project",
+      "name": "the long hedge",
+      "role": "mentioned",
+      "context": "In photo: The path back through the stubble"
+    }
+  ]
+}

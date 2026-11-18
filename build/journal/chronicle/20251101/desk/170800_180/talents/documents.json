@@ -1,0 +1,49 @@
+{
+  "overview": "You entered thirty-five shillings as received. Christmas stays expected, with no sum. You wrote that it is not a balance. You did not open a coffer figure.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Entered thirty-five shillings and closed the book on a blank."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "thirty-five shillings",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "expected",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "not a balance",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "thirty-five shillings",
+      "asset_type": "other",
+      "disposition": "Entered thirty-five shillings"
+    },
+    {
+      "name": "the account book",
+      "asset_type": "other",
+      "disposition": "Entered thirty-five shillings"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-01",
+      "meaning": "Received, and not a balance"
+    }
+  ],
+  "summary": "Entered thirty-five shillings"
+}

@@ -1,0 +1,44 @@
+{
+  "overview": "You wrote the second leaf. No name, no number, no person. You dated it the last of January, 1594. It is not the letter, and it is not a third page. You stopped.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the second leaf and stopped."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the second leaf",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the old date",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a page that is not a letter",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the inkhorn",
+      "asset_type": "other",
+      "disposition": "Wrote a second leaf and dated it the last of January"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-31",
+      "meaning": "A second leaf"
+    }
+  ],
+  "summary": "Wrote a second leaf and dated it the last of January"
+}

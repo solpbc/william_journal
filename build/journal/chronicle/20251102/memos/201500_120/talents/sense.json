@@ -1,0 +1,63 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At the window, after evening prayer, you named Ovid, Marlowe, Kyd, and Greene, and said you had paid none of them a line. You spoke of soul-cakes your grandmother baked and your mother did not. You began a phrase of your mother's and did not finish it. You turned to the Friar's letter, and why it never came. You named none of your own dead.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke, stopped, and did not answer himself.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in All Souls, as was",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Rose",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in All Souls, as was",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Named Ovid, Marlowe, Kyd, and Greene, and stopped",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the dead in books",
+    "soul-cakes",
+    "the unfinished phrase",
+    "the Friar's letter"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "If a man may not pray for them he may still steal from them."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "\u2026Enough. The Friar's letter. Why it never came."
+    }
+  ]
+}

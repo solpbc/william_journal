@@ -1,0 +1,17 @@
+{
+  "narrative": "The account book, two lines, the ink still dark. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the two lines with the same pen."
+    },
+    {
+      "type": "Tool",
+      "name": "the account book",
+      "role": "mentioned",
+      "context": "Shown on ledger in Verona ended this day"
+    }
+  ]
+}

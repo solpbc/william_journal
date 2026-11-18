@@ -1,0 +1,1 @@
+At home you put the line in both places, Burby's entered book and your coffer, and you did not open the folder. You set this December entry next to the True Tragedy in May. Then you went to eat before Navarre.

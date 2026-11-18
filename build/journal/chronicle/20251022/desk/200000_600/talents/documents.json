@@ -1,0 +1,49 @@
+{
+  "overview": "You wrote the two lines of the fear in the centre of the leaf. You did not write the call under them yet. You did not write the drink. The bundle stayed tied.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the girl alone with the vial"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the two lines",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the call not yet",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the bundle tied",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the loose leaf",
+      "asset_type": "other",
+      "disposition": "Wrote the girl alone with the vial"
+    },
+    {
+      "name": "the vial speech",
+      "asset_type": "other",
+      "disposition": "Wrote the girl alone with the vial"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-22",
+      "meaning": "Wrote the two lines of her fear"
+    }
+  ],
+  "summary": "Wrote the girl alone with the vial"
+}

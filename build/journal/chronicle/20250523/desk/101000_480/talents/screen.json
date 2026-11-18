@@ -1,0 +1,17 @@
+{
+  "narrative": "A clean half-sheet, unheaded. The king's leaf is face down at the edge of the board, and it is not turned. No thimble on the table. The pen is in the hand and does not touch the paper. The half-sheet still blank under those three words, which are a note to himself and not the letter. The pen is set in the fold.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the postponement and stopped."
+    },
+    {
+      "type": "Tool",
+      "name": "the thimble",
+      "role": "mentioned",
+      "context": "Shown on letter in The letter is not this sheet"
+    }
+  ]
+}

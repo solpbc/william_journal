@@ -1,0 +1,29 @@
+{
+  "narrative": "The same leaf, the first line dry, the pen moving under it. A short sum under the two titles, the coffer at the bed's foot, the pen lifted. Three short lines under the sum, the last of them still wet. The pen stops at a thud and a clatter from the kitchen below, then moves again at the foot of the leaf.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the rest of the leaf, and the line after the pan."
+    },
+    {
+      "type": "Tool",
+      "name": "the account book",
+      "role": "mentioned",
+      "context": "Shown on ledger in Under the first line"
+    },
+    {
+      "type": "Project",
+      "name": "Two Gentlemen of Verona",
+      "role": "mentioned",
+      "context": "Shown on ledger in Under the first line"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "context": "Shown on ledger in Under the first line"
+    }
+  ]
+}

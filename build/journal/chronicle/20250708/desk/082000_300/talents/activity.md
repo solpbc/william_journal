@@ -1,0 +1,1 @@
+You refused the June detail. The brawl has to have its own people and its own causes, or it becomes a report with swords. You were at the lodging. The morning rehearsal at the Theatre went on without you.

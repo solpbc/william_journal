@@ -1,0 +1,1 @@
+Heminges came for the book and you took it as far as the door. The way you named was out by Moorgate to the priory. Seven shillings, if Tilney signed, were company coin. Edith's eight shillings stayed owing till Lady Day. No part was in the bundle. Richard the Third at two was not yours. The letter stayed on the table.

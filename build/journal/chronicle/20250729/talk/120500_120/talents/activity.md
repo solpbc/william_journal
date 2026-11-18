@@ -1,0 +1,1 @@
+At Aylesbury you paid a penny for one ballad-sheet. You said it was for a girl who cannot read, and who would have it at one hearing. You did not buy a second, and neither of you gave the sheet a title.

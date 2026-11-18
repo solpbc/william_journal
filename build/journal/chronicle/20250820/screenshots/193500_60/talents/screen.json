@@ -1,0 +1,17 @@
+{
+  "narrative": "The road pack and a pair of boots on the inn floor at Beaconsfield.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "mentioned",
+      "context": "Set the pack down and took the boots off. His face is not in the picture."
+    },
+    {
+      "type": "Tool",
+      "name": "the road pack",
+      "role": "mentioned",
+      "context": "In photo: Pack and boots"
+    }
+  ]
+}

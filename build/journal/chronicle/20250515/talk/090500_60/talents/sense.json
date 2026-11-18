@@ -1,0 +1,65 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Heminges cut the rehearsal short. You were for Field at Blackfriars, then Hobbins at the Bell. You said you would be back for two, for Egeon. Pope would not hold an entrance for a book.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Cut it short and sent you.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused to hold an entrance.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named Field and Hobbins, and promised two.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Left the rehearsal for Blackfriars",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Thomas Pope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a short rehearsal",
+    "Field",
+    "then the Bell",
+    "Egeon at two"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Nine, and not eleven"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will be here"
+    }
+  ]
+}

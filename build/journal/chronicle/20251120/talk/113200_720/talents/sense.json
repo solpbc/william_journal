@@ -1,0 +1,84 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the shop Richard Field sold you a quire of Rochelle paper for fourpence halfpenny at trade. He asked after his Holinshed, the second volume, and you had not brought it. He had the Lambeth news. Nine articles. Some chosen before the world was made, and some not, and a man cannot move himself from one list to the other. He approved the clarity. You answered with measure twice and cut once, and you asked the price of crown paper. He was not deceived, and he did not name a price. You paid the fourpence halfpenny. You said you were not writing it down.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid fourpence halfpenny, answered with a proverb, and asked a price he did not get.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sold the quire, told the Lambeth news, and would not price the crown paper.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "fourpence halfpenny",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Fourpence halfpenny",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Fourpence halfpenny",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "nine articles",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Fourpence halfpenny",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Paid fourpence halfpenny for the quire",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Field",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "fourpence halfpenny",
+    "the Holinshed's gap",
+    "nine articles",
+    "no price for crown paper"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_field",
+      "text": "Fourpence halfpenny to you, at trade."
+    },
+    {
+      "speaker": "richard_field",
+      "text": "My Holinshed, Will. The second volume. I see the gap on the shelf every morning."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Measure twice, and cut once."
+    }
+  ]
+}

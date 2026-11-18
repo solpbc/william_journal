@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "By the bench, after the wheel had gone down the yard, you wrote one sentence on the tables. An even wheel is rarer than a true one. You did not write it again at night.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the line and did not add a second one.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in An even wheel",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote that an even wheel is rarer than a true one",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "an even wheel",
+    "the tables"
+  ],
+  "quotes": []
+}

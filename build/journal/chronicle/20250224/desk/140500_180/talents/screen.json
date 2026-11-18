@@ -1,0 +1,17 @@
+{
+  "narrative": "Navarre's part on a bench in the tiring-parlour, the first line clear, a paper crown and a length of old velvet beside it. No face. The same line. No new word in the margin. The rest of the part is out of the frame.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the first line, left it, and kept the paper crown beside the part."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on part in Let Fame"
+    }
+  ]
+}

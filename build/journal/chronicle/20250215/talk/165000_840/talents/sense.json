@@ -1,0 +1,103 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At the reckoning John Heminges set your share at twenty-two shillings, a pound and two shillings, in silver. You counted them and were not short. The gown's fifty shillings stayed unpaid, and Edith's eight stayed unpaid. Neither was taken out of the twenty-two. The Queen's twenty pounds were not in the room. The coffer was not brought down. No new stock was written. Your twopence to the carrier stayed out of the company book. The K still had no figure. Margery Pell had no receipt for the Rose's Tasso. Nothing was bought. You did not send the letter with the silver.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted twenty-two shillings and refused to pay either debt with them.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the share, left both debts standing, and did not bring the coffer down.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the K without a digit and refused a new stock figure.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported her own stair and brought no Rose receipt.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked after his lines, stayed on you, and got no number.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Princess's gown",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Item, twenty-two shillings",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Tasso",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Item, twenty-two shillings",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took twenty-two shillings at the reckoning",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Goodwife Margery Pell",
+    "Abel Garnish",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twenty-two shillings",
+    "the fifty",
+    "the eight",
+    "no figure"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Your share, William, is twenty-two shillings."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "The fifty stands. Edith's eight stands."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A pound, and two shillings. I have them."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+At the yard you kept the new page at home. Kemp asked what was in the sleeve, and you showed him an empty one and the comedy. Burbage told you to keep the other look upstairs. Heminges counted four days and a dark door. Garnish checked the one paste. Phillips did not spend the cuckoo. Nobody was shown the morning's sheet.

@@ -1,0 +1,51 @@
+{
+  "overview": "Nick marked his roll. He did not ask what the mark was for. You did not ask him anything out of it. Nobody startled him.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Did not ask."
+    },
+    {
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "formal_term": "Nick Sorrell",
+      "appointment_tier": "not_applicable",
+      "context": "Marked the roll and asked nothing."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the mark",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no question",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the boy unstartled",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the roll",
+      "asset_type": "other",
+      "disposition": "Let Nick's mark stand"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-19",
+      "meaning": "He marks it"
+    }
+  ],
+  "summary": "Let Nick's mark stand"
+}

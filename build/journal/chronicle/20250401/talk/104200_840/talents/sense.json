@@ -1,0 +1,99 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Susanna named the cooper's plot and what was saved, Judith shouted what the street had shouted, and Hamnet had a nail that had bent in the heat. The carpenter said fire makes work. Anne came from the baker's with a new leather bucket and said it makes debt. The twins disputed the handle. When Susanna said you had answered a question nobody asked, you took the bucket yourself. Anne said you would go home by the Guild Chapel.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Dropped the joinery when Susanna stopped him, and took the bucket.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the bucket, answered work with debt, and named the way home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the cooper's plot, and stopped the unasked answer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the bent nail, and tried for the bucket.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Did the shout, and split the three things so they would not be traded.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the leather fire-bucket",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in It makes work",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Took the bucket after Susanna stopped the speech",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Susanna Shakespeare",
+    "Judith Shakespeare",
+    "Hamnet Shakespeare",
+    "William Shakespeare",
+    "Anne Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cooper's plot",
+    "the bent nail",
+    "work and debt",
+    "the bucket"
+  ],
+  "quotes": [
+    {
+      "speaker": "(the carpenter)",
+      "text": "It makes work."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "It makes debt."
+    },
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "You have answered a question nobody asked."
+    },
+    {
+      "speaker": "judith_shakespeare",
+      "text": "Water to the thatch."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Mistress Ansell reckoned the ringing as ale and as a charge. Alse asked whether every noise must be put down as a charge, and was told that in this parish it is. At fourteenthly the glass was turned. The Mayor, in the chain, gave the responses as a man reads a bill of lading. Seven weeks of him remain. He did not speak to you.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the charge, the glass, and the seven weeks, and did not speak to the Mayor.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reached fourteenthly, on length of days.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Gave the responses from his pew, short and cold, and did not speak to William.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reckoned the ale, answered Alse, and shifted her feet when the glass turned.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked whether every noise is a charge, and named the chain.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the chain",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Fourteenthly",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard the glass turned at fourteenthly",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "William Shakespeare",
+    "Master Josias Thwaite"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the bells",
+    "the charge",
+    "fourteenthly",
+    "seven weeks"
+  ],
+  "quotes": [
+    {
+      "speaker": "alse_pinder",
+      "text": "Must every noise be put down as a charge?"
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "In this parish it is."
+    }
+  ]
+}

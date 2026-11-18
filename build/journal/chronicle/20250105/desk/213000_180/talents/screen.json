@@ -1,0 +1,17 @@
+{
+  "narrative": "The penny almanac open at January under the candle. Your hand is at the edge of the leaf, out of the mark. A small cross sits beside the 5. The space next to the cross is blank. No second mark is being made. The cross has dried. You have not added a word, a name, or a street. The rest of that line is empty.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Made the cross and did not gloss it."
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in A cross and no word"
+    }
+  ]
+}

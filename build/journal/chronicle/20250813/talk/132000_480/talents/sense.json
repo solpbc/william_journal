@@ -1,0 +1,89 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "By dinner the contraption worked. Judith had removed the weight Hamnet thought essential, and it went slightly better. She counted three arrivals out of four. Hamnet insisted he had intended the removal from the first. Susanna allowed him the intention and not the credit. You left both versions in the room, and you did not take the working one for London either.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted the report, saw three arrivals, and kept the promise.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Claimed the removal as the method he had intended.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the weight off, sent three, and counted them.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave Hamnet the intention and Judith the deed.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the weight",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The piece he thought essential",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Let Judith's removal of the weight stand",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Judith Shakespeare",
+    "Hamnet Shakespeare",
+    "Susanna Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the weight removed",
+    "three times out of four",
+    "Hamnet's intended method"
+  ],
+  "quotes": [
+    {
+      "speaker": "judith_shakespeare",
+      "text": "I took the weight off."
+    },
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "She took it off. It works slightly better."
+    },
+    {
+      "speaker": "judith_shakespeare",
+      "text": "Often enough is three times out of four."
+    },
+    {
+      "speaker": "hamnet_shakespeare",
+      "text": "I intended that."
+    }
+  ]
+}

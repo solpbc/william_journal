@@ -1,0 +1,23 @@
+{
+  "narrative": "The last leaf, looked at again at home. A signature at the foot. No word of the play is struck through. The three older leaves are not on the board. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and left both plays as the morning had left them."
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "context": "Shown on draft in The signed last leaf"
+    },
+    {
+      "type": "Tool",
+      "name": "seven shillings",
+      "role": "mentioned",
+      "context": "Shown on draft in The signed last leaf"
+    }
+  ]
+}

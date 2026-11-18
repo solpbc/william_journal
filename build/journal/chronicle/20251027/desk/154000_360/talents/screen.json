@@ -1,0 +1,29 @@
+{
+  "narrative": "The Chaucer still open. Beside it, Golding at the fourth book, and the unbound Plutarch sheets at the life of Theseus. The red-tied bundle is at the corner, unopened. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read across the three and left the bundle shut."
+    },
+    {
+      "type": "Project",
+      "name": "Golding",
+      "role": "mentioned",
+      "context": "Shown on book in Three Athenses"
+    },
+    {
+      "type": "Project",
+      "name": "Plutarch",
+      "role": "mentioned",
+      "context": "Shown on book in Three Athenses"
+    },
+    {
+      "type": "Project",
+      "name": "Verona",
+      "role": "mentioned",
+      "context": "Shown on book in Three Athenses"
+    }
+  ]
+}

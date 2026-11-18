@@ -1,0 +1,17 @@
+{
+  "narrative": "A part-roll on a trestle at the Theatre, the name at the head. The margin beside the first speech is blank. No new line is written. No face. The same roll. The blank margin. The pen is not in the frame.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the part and did not write on it."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on part in Navarre, and no new line"
+    }
+  ]
+}

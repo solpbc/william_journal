@@ -1,0 +1,1 @@
+At dinner you ate Friday fish at the lodging. The board was threepence. The penny loaf was still a finger short, and no second was bought. Fair Em was at the Cross Keys, and you were not in it. You told them the letter went yesterday. You did not send anyone out to a bill.

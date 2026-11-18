@@ -1,0 +1,46 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "A man binding at the road's edge told you the yield unasked. Two for one where it should be four, and the maltsters would have it before it was dry. You did not ask a price, and you did not give one.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Listened, refused a price, and went on.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard two for one where it should be four",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the short yield",
+    "the maltsters",
+    "no price"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Two for one, where it should be four"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have no figure to give you back"
+    }
+  ]
+}

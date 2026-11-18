@@ -1,0 +1,63 @@
+{
+  "overview": "You wrote that the lines held and that you are not proud of them. Cowley came through once and apologised to nobody. Kemp has not been shown the king.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the note and stopped."
+    },
+    {
+      "name": "Richard Cowley",
+      "role": "mentioned",
+      "formal_term": "Richard Cowley",
+      "appointment_tier": "not_applicable",
+      "context": "Named for the one pass and the missing apology."
+    },
+    {
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "formal_term": "Will Kemp",
+      "appointment_tier": "not_applicable",
+      "context": "Named as not shown the king."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "eight lines",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "one pass",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Kemp not shown the king",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the old Knave",
+      "asset_type": "other",
+      "disposition": "Wrote that the eight lines held"
+    },
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Wrote that the eight lines held"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-30",
+      "meaning": "Eight lines, and not proud"
+    }
+  ],
+  "summary": "Wrote that the eight lines held"
+}

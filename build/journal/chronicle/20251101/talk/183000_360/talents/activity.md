@@ -1,0 +1,1 @@
+At evening prayer Master Thwaite would not preach the morning's sermon again. The glass had been once. He said the cloud only to refuse a second time. He did not come in to supper. You did not ask him for a longer hour.

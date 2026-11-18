@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You wrote the hour and the bow on the tables and nothing else. The line is nine of the clock, after supper, and bow to the chair. You did not add the king, and you did not add the forty.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the line and did not annotate it.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Wrote the hour and the bow, and shut the tables",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the tables",
+    "nine of the clock",
+    "the bow"
+  ],
+  "quotes": []
+}

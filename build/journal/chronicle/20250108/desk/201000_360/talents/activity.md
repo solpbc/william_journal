@@ -1,0 +1,1 @@
+At home you wrote the messenger's entrance and left the half-line blank after The king your father. You paced the six steps of the chamber. Mistress Ansell, below, would have heard a murmur and not the line. The line is still empty. You did not write a song, and you did not write the last line.

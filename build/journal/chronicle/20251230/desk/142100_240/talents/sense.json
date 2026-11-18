@@ -1,0 +1,34 @@
+{
+  "density": "idle",
+  "content_type": "reading",
+  "activity_summary": "You stepped back from the post and turned toward the close. The bill stayed on the wood. Nothing from it was in your hand.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "attendee in Turned from the post toward the close",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read the Rose's bill for Wise Man",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a step back",
+    "the way to the close"
+  ],
+  "quotes": []
+}

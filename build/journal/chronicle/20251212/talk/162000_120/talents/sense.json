@@ -1,0 +1,68 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "After the king, James was in the yard in both cloaks. You said you did not hear a price. He said six fingers is not a price, and that he is not ready to say a sum. You did not make the neighbours into a verdict in the yard. No figure was spoken.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a price a second time, and went toward home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Wore both cloaks, and would not say a sum.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "the Blackfriars hall",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Both cloaks",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Saw James in both cloaks",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "James Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "both cloaks",
+    "no price",
+    "six fingers is not a sum",
+    "no verdict in the yard"
+  ],
+  "quotes": [
+    {
+      "speaker": "james_burbage",
+      "text": "Both cloaks. He said you said both. The king is done."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I hear you, Master Burbage. I do not hear a price."
+    },
+    {
+      "speaker": "james_burbage",
+      "text": "Six fingers is not a price. A dry room is not a price."
+    }
+  ]
+}

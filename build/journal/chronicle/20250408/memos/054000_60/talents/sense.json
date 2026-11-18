@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "On the bridge at first light you counted fourteen arches and did not describe the water. You said the tables were on the saddle and that nothing would go on the leaf. You named thirty-two miles to the Bear. You did not write the door, the question, or a line.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the refusal, and did not open the tables.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "Clopton Bridge",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nothing on the leaf",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Rode onto the bridge and named the door",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "fourteen arches",
+    "the blank tables",
+    "thirty-two miles"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Nothing on the leaf."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Nothing."
+    }
+  ]
+}

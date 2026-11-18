@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At home you lined the week's payments on the right-hand side of the leaf you opened on Wednesday. Board on Wednesday, threepence. Dinner at the Split Hazel, fourpence. Board on Friday, threepence. Firing and washing, sixpence. You did not write a total. You did not open the coffer. You did not rule a column for money expected and a column for money received.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the four lines and lifted the pen.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the account book",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Four lines, and no new count",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Lined four payments and stopped",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "four payments",
+    "no total",
+    "the coffer unopened"
+  ],
+  "quotes": []
+}

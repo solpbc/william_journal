@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "After the call you said again that she wakes hoarse, as a girl would that had slept two days in a grave. You did not extend the death to six lines. You did not write the five words down.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the page a longer death.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in She wakes hoarse",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said she wakes hoarse, and left the five words",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the hoarse waking",
+    "five not six",
+    "the words left unwritten"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Then she wakes hoarse, as a girl would that had slept two days in a grave."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not give him six to make the mercy longer."
+    }
+  ]
+}

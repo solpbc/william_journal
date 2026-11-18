@@ -1,0 +1,77 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At Somerset House's gate he came out of the king and was only cold. He asked if the little man had liked it. You said he had said he would remember, and that this was what had been said, not a verdict. You go on by Fleet Street, Ludgate and Cheapside, and you part at the mouth of the close. Those streets are the walk. This is the gate where he asked.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Repeated what was said, and did not call it good.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked, came out of the part, and was only cold.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Did he like it",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Gave Burbage the words on the Strand",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the little man",
+    "he would remember",
+    "only cold",
+    "the shut gate",
+    "the walk on"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "Did he like it? The little man?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "He said he'd remember."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Is that good?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It's what he said."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "I am only cold. I have been the king since the second of October."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "density": "active",
+  "content_type": "media",
+  "activity_summary": "You spoke Gaunt, and \"This royall throne of Kings\" landed in a hush. You were dead by the middle of the second act and stood at the tiring-house door after. Burbage sat upon the ground to tell sad stories. In the fourth act the crown changed heads between two speeches, and the Abbot said \"A wofull Pageant haue we here beheld\" of a pageant the house was not let behold. You did not play the deposition.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Spoke Gaunt, died in the second act, and kept to the door after.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Sat upon the ground with the stories.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "The Abbot's line is his to say, of a pageant not staged.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The hush",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Spoke Gaunt to a hush and stood at the door after",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the hush",
+    "the door",
+    "sad stories",
+    "the crown changing heads",
+    "the pageant not shown"
+  ],
+  "quotes": []
+}

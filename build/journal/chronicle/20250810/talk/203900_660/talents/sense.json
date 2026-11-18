@@ -1,0 +1,72 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You looked toward the bench from the window and did not go out to it. Anne called you away. Joan put the passage light down. You stayed in the house.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stayed inside and left the bench",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stayed inside and left the bench",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stayed inside and left the bench",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the orchard bench",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Stayed inside and left the bench",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Looked at the sheet under the stone",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare",
+    "Joan Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the window",
+    "the bench left outside",
+    "the passage light"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "The window is not the bench."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not going out."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "timestamp": "2025-10-22T20:15:00Z",
+  "outcome": "served",
+  "reason": null,
+  "result": {
+    "count": 1,
+    "targets": [
+      "facets/company/activities/20251022.jsonl#meeting_162000_360"
+    ],
+    "digest": "8d63f0e23fc94570019290da071c52d0ed66b108ab79c46fbf5fd7c7dc26c9e2"
+  }
+}

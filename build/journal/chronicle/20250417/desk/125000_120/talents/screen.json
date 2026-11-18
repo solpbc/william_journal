@@ -1,0 +1,23 @@
+{
+  "narrative": "The writing-tables are open under the dinner light. One new line is on them, in his hand. The quarrel sheet is beside them, face up, and he does not add to it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the sentence, and stopped."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in He likes to hear himself"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on tables in He likes to hear himself"
+    }
+  ]
+}

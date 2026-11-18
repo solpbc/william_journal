@@ -1,0 +1,1 @@
+At home you kept his sentence and yours. The story is a living if it holds. Yours was Navarre, a blank quire, and fivepence that did not touch the coffer. Nobody had spoken with a man off the ship. The scarf was off. The jaw was not.

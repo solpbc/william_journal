@@ -1,0 +1,49 @@
+{
+  "overview": "You wrote three lines on a wiped leaf and left the rest blank. Hamnet is at school, the sword stays on the nail until tomorrow, and it does not go into the form. Richard has the cord. You told yourself not to describe the knot. Eleven, and bread before the lane.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the nail, the cord, and eleven, and stopped."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the wiped leaf",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the nail",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the cord",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "eleven",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the lath sword",
+      "asset_type": "other",
+      "disposition": "Wrote only three lines on the wiped leaf"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-31",
+      "meaning": "The wiped leaf"
+    }
+  ],
+  "summary": "Wrote only three lines on the wiped leaf"
+}

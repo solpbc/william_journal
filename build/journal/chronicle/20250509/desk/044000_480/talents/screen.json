@@ -1,0 +1,17 @@
+{
+  "narrative": "One sheet in the early light. The first line is written. Under it a blank the width of a speech, marked only with a count. No second sheet. The same sheet, lower down, two lines only, after the blank. Under the turn the page is empty. His right hand is at the edge, ink on the finger. No candle. The house is not up.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the two ends, and walked what is between them."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in This England"
+    }
+  ]
+}

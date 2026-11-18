@@ -1,0 +1,44 @@
+{
+  "overview": "You set out a sheet for Susanna and did not write the letter. She is still eleven. The twenty-sixth is ahead. The thimble is not in the house. You left the king's leaf face down.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the postponement and stopped."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Susanna",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the twenty-sixth",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the letter unwritten",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the thimble",
+      "asset_type": "other",
+      "disposition": "Named Susanna's day on a half-sheet"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-23",
+      "meaning": "The letter is not this sheet"
+    }
+  ],
+  "summary": "Named Susanna's day on a half-sheet"
+}

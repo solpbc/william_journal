@@ -1,0 +1,77 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "By candle Mistress Ansell found the nether great tooth, on the left, black at the neck, and said you will lose it. You said it will settle. She said it will settle when it is in a dish. You kept the clove and did not go to a barber.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed the tooth, and said it will settle.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Looked by candle, named the black neck, and gave the dish as the end of it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told her to leave the clove in.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the nether great tooth",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Black at the neck",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Was told the tooth will end in a dish",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the nether great tooth",
+    "black at the neck",
+    "the dish",
+    "the clove"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The nether great tooth, on the left. It is black at the neck. You'll lose it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It will settle."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "It will settle when it's in a dish."
+    }
+  ]
+}

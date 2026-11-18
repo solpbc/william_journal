@@ -1,0 +1,23 @@
+{
+  "narrative": "The plot of Richard II on its peg by the tiring-house door, the entrances in Garnish's hand. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Stood at the door, and did not take the plot down."
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "context": "His hand on the entrances. He is not in the picture."
+    },
+    {
+      "type": "Project",
+      "name": "Richard the Second",
+      "role": "mentioned",
+      "context": "In photo: The plot on its peg"
+    }
+  ]
+}

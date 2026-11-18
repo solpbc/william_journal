@@ -1,0 +1,92 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "John opened the boxes he had kept shut since Monday. He did not ask you to open the coffer at your lodging. Margery said the gowns went with the term, and that her stair knew it today. She brought no figure. John has the book. Your share is two-and-thirty shillings, said once. You will write the share at home and put no total under it. The court money is not in this box. George and John are named for it, and naming is not paying. Quiney's pound is not this box. He still owes it, and John is not collecting Stratford on a Saturday. You were in Titus, and the gown had no new name. From Monday there are five mornings at nine for the lovers, and the sixth is the opening. You are not playing them before that, and you are not writing the play into the box. The hired men's hose are still to be looked to, and not tonight. You are going home to write one line and turn two locks.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the share, kept Quiney's pound out of the box, and heard the five mornings.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the share once, named the mornings, and shut the tally.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept her figure, and sent him home before a second count.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "two-and-thirty shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The share, and the shut",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the court money",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The share, and the shut",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Quiney's pound",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The share, and the shut",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard two-and-thirty shillings, said once, and five mornings at nine",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Goodwife Margery Pell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two-and-thirty shillings",
+    "five mornings",
+    "no total"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Your share is two-and-thirty shillings."
+    },
+    {
+      "speaker": "margery_pell",
+      "text": "I have not brought my figure."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Five mornings, at nine."
+    }
+  ]
+}

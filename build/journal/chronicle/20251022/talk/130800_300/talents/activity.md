@@ -1,0 +1,1 @@
+At the turn of the stair you washed in cold water so the afternoon coat would not take the meal with it. Alse would not walk you to the gate. You said you would be out at the hour. Gib was off the stair.

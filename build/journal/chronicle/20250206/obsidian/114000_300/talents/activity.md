@@ -1,0 +1,1 @@
+At the lodging, in the hour the carrier's name sits on the day, you stayed home and sewed the two groats into the paper. You left the outside blank until you could write it in front of him. You did not go to Carter Lane at noon. You noted the two stops and that you would not move a third.

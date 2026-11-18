@@ -1,0 +1,23 @@
+{
+  "narrative": "The tables, two lines, the second in a quicker hand. The jug is still on the sill. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote both lines."
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "mentioned",
+      "context": "Supplied the second line. She had already gone down."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Stinkweed on the tables"
+    }
+  ]
+}

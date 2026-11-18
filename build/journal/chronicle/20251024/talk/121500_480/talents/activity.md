@@ -1,0 +1,1 @@
+You stayed home from the afternoon Shrew. You said the jaw is well, and you ate. The loaf was a penny and a full thumb short of the notch. You would not explain the boy, and you would not explain the morning. The red bundle stays tied. Mistress Ansell offered dullness as a kindness, and you took it.

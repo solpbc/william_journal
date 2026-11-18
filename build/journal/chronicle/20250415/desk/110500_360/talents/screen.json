@@ -1,0 +1,17 @@
+{
+  "narrative": "Samuel Daniel's book lies open in both hands at Waterson's stall, at the second book. The same king, and the same cousin, in grave smooth stanzas. He is still standing. No line is copied out.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the second book on his feet, and gave in."
+    },
+    {
+      "type": "Project",
+      "name": "Civil Wars",
+      "role": "mentioned",
+      "context": "Shown on book in The second book standing"
+    }
+  ]
+}

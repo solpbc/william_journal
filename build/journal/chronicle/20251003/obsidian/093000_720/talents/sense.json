@@ -1,0 +1,44 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote a father who names Thursday and does not ask the girl. You struck the speech that explained a feeling the yard has already seen, eleven lines, and left her one turn and fewer words. The margin still says to trust the boy. You did not write a dawn, a cup, or a tomb, and you did not copy a printed line. No part was handed to anyone.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the hurry, struck the explanation, and stopped before the night.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Fewer words, and a Thursday",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Struck eleven lines and kept her one turn",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a father naming Thursday",
+    "fewer words",
+    "the cut explanation",
+    "no dawn and no tomb"
+  ],
+  "quotes": []
+}

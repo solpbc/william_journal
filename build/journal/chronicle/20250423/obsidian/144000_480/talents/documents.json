@@ -1,0 +1,49 @@
+{
+  "overview": "You put Mowbray's line on the fourth sheet and left the player unnamed. The Shrew was on at the Theatre. You stayed at the table and you were not in it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the line, left the name blank, and stayed in."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the fourth sheet",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the engaoled tongue",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Shrew not yours",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Wrote Mowbray's farewell at the desk"
+    },
+    {
+      "name": "The Shrew",
+      "asset_type": "other",
+      "disposition": "Wrote Mowbray's farewell at the desk"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-23",
+      "meaning": "Engaoled, on the fourth"
+    }
+  ],
+  "summary": "Wrote Mowbray's farewell at the desk"
+}

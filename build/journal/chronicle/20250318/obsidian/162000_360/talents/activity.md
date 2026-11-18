@@ -1,0 +1,1 @@
+You wrote the call down as it happened. The paper was received. Nothing more was said, and you did not ask. The proverb was not copied out and not sent to a printer. The chair is mended, and Master Kemp is not to sit on it.

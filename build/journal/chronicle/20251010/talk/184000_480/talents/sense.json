@@ -1,0 +1,77 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "The first hot bran went on at home. Two nights, salt water, Tuesday at ten, twelve pence unpaid. She kept the twelve pence apart from Monday's sixpence. You had asked whether it could wait till Lent, and he had ended it. The loaf is still a penny and a full thumb short. Alse left clove-wool in a saucer by the inkhorn. You did not write. You went to him yourself. She had not sent you.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the poultice, repeated the hour and the price, and left the sheet alone.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Bound the bran, kept Tuesday and twelve pence, and noted that he had gone himself.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the linen, spared him the crust, and set the saucer by the inkhorn.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the bran poultice",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The first hot bran",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Took the first hot bran",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the first bran",
+    "twelve pence",
+    "the saucer",
+    "Lent"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Tuesday. Ten. Twelve pence."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "I have left a saucer with a little wool and the last of the clove-oil by your inkhorn."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "He said it could, and I could not."
+    }
+  ]
+}

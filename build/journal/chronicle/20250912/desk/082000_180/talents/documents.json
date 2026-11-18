@@ -1,0 +1,51 @@
+{
+  "overview": "You put two lines on the tables, cords, and a ladder of rope, and you wrote nothing under them. The parcel was still tied.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the two lines, and left the rest of the leaf empty."
+    },
+    {
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Hamnet Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Named in yesterday's letter for the ladder and the rope. Not in the room."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "cords",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a ladder of rope",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the tables",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Wrote cords and a ladder of rope"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-12",
+      "meaning": "Cords"
+    }
+  ],
+  "summary": "Wrote cords and a ladder of rope"
+}

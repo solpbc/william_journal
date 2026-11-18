@@ -1,0 +1,17 @@
+{
+  "narrative": "Sunday's leaf lies under the writing-tables. The blow is still the blow. One word is set under it, and no speech is set around the word. The penny almanac is open beside the leaf, the moon drawn new. No face. The foot of the tables is blank under the word. The pen is capped. He does not start the girl's hearing. Gib is on the closed book at the edge of the board. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the one word, and did not go on."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on tables in Banished, and the moon drawn"
+    }
+  ]
+}

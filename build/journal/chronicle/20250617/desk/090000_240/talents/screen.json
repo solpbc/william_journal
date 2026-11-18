@@ -1,0 +1,17 @@
+{
+  "narrative": "A short private page, one sentence written and then struck through. The hand is yours. No play-book is open. No face. The same sentence, crossed. Nothing is written over it. The pen moves to the lower half of the sheet. Three lines under the crossing, each with a name and what was heard. No crowd is drawn. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Crossed the sentence and stopped at the list."
+    },
+    {
+      "type": "Project",
+      "name": "two hundred",
+      "role": "mentioned",
+      "context": "Shown on draft in A phrase crossed out"
+    }
+  ]
+}

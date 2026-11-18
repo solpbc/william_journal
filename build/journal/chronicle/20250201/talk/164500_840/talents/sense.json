@@ -1,0 +1,136 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "After Errors, John set next week and would not put a share on the leaf or open a coffer. Monday Titus, you. Tuesday a rehearsal at nine and Fair Em, you. Wednesday Titus, not you. Thursday a rehearsal at nine and the Seven Deadly Sins, you. Friday Fair Em, not you. Saturday the Seven Deadly Sins, you. The Rose today was the first Caesar. Edith's eight shillings is still owing till Lady Day. The Queen's twenty pound is still not had. The boys' three shillings were not paid. The gown was not bought. The packet is not written, and you set nothing beside the horn. You still do not know the day.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Repeated the week, left the packet unwritten, and kept Anne's day unknown.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read the week, refused a share, and shut the leaf on the unpaid sums.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Made you say the week back, and sent you home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the week when the money would not come, and took the river as the part worth remembering.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the first Caesar and the boys' wage off the leaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the tucket out of the reckoning.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in No share on the leaf",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in No share on the leaf",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Fair Em",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No share on the leaf",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Seven Deadly Sins",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No share on the leaf",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Titus Andronicus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No share on the leaf",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Set next week at the reckoning",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Will Kemp",
+    "Richard Burbage",
+    "William Shakespeare",
+    "Thomas Pope",
+    "Augustine Phillips"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "next week's book",
+    "no share",
+    "the unpaid sums",
+    "the packet still unwritten"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "I am not counting a share onto it, and I am not opening a coffer to make a Saturday feel finished"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The packet is not written"
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Edith's eight shillings is still owing till Lady Day;"
+    }
+  ]
+}

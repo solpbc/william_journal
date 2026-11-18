@@ -1,0 +1,1 @@
+At breakfast you paid threepence for the fish. Mistress Ansell said two houses alike is no plot, and you would not say who wants what, or a name. Anne's sheet stayed in the chest. You said the King is not begun, and you did not send anyone for a chronicle. The loaf was still a penny and a finger short.

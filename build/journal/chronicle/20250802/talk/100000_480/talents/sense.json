@@ -1,0 +1,85 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "On the bench Susanna gave the fire in order, from the cry about two to twenty houses and barns and nobody hurt. Judith gave the widow and the hens, and the bailiff's man shouting at the wind. Hamnet gave the top of the street, Richard turning him back, and the bent nail. You said the three back, and you did not take the nail.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard all three, and kept them apart.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the order, and kept nobody hurt at the end of it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the widow and the man shouting at the wind.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the street, the turning back, and the nail.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named as the one who turned Hamnet back. Not on the bench.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Heard the fire three times",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Susanna Shakespeare",
+    "Judith Shakespeare",
+    "Hamnet Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the order of the fire",
+    "the widow's hens",
+    "the bent nail"
+  ],
+  "quotes": [
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "The cry was about two in the afternoon"
+    },
+    {
+      "speaker": "judith_shakespeare",
+      "text": "The widow would not leave without her hens"
+    },
+    {
+      "speaker": "hamnet_shakespeare",
+      "text": "I ran to the top of the street"
+    }
+  ]
+}

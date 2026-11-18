@@ -1,0 +1,44 @@
+{
+  "overview": "You read the letter a second time on the desk. The date was Tuesday the fifteenth, the place the north end beyond the Rother Market. The last lines told you not to come for the fire, and to come for harvest if you come. You did not write on the leaf.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read it and did not answer it tonight."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the fifteenth",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the north end",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "harvest",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Anne's letter",
+      "asset_type": "other",
+      "disposition": "Read the last lines again"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-21",
+      "meaning": "Her hand, the second time"
+    }
+  ],
+  "summary": "Read the last lines again"
+}

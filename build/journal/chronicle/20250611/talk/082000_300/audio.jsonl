@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 300.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "dorcas_ansell", "start": "08:20:00", "text": "You are in it today. I can tell by the boots. Eat before you tell me the title.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:20:12", "text": "Two Gentlemen, at two. I am home after. The sheets stay on the board. Nobody is to tidy them into a virtue.", "timing": {"end": 26.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "alse_pinder", "start": "08:20:26", "text": "I will not touch them, sir. The cat will, and the cat does not take orders.", "timing": {"end": 36.0, "start": 26.0}}
+{"sentence_id": 4, "speaker": "dorcas_ansell", "start": "08:20:36", "text": "The loaf is shrunk on the pan, and it is a penny, and the moon will be full whether you look at it or not. Go when you must.", "timing": {"end": 46.0, "start": 36.0}}

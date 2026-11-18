@@ -1,0 +1,141 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "You rehearsed at the Cross Keys and would not come off the afternoon. Garnish held the count at six entrances and did not read the scene. You denied the throat once. Kemp mentioned it once, and said he is first on any paper that lists the company. Heminges said Edith's eight shillings waits till Lady Day, and that the Queen's twenty pound is not had and not yours. Nothing was paid. Phillips told Sam to breathe before the word. The winter doublet is too tight. You played at two.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the six entrances, denied the throat once, and stayed on the afternoon bill.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Pinned six entrances and stopped a seventh, without reading the scene.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the throat, kept the eight-shilling joke, and heard that you would play.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Mentioned the throat once, claimed the first place on a paper, and stopped the nursing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the eight shillings at Lady Day and said the twenty pound is not yours.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told Sam to breathe before the word, and told you to sit.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered for the tight doublet and said he would breathe first.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named as still owed eight shillings. Not in the room. Not paid.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "A Knack to Know a Knave",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Six entrances",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Edith's 8s",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Six entrances",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Queen's \u00a320",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Six entrances",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Kept six entrances and stayed on the bill",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Will Kemp",
+    "John Heminges",
+    "Augustine Phillips",
+    "Sam Latchet"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "six entrances",
+    "the throat denied once",
+    "Edith's eight shillings",
+    "Sam's doublet"
+  ],
+  "quotes": [
+    {
+      "speaker": "abel_garnish",
+      "text": "Six entrances. I have them on the plot by the door, and I will not read you a seventh."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I deny it once. I play at two."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Edith's eight shillings cannot wait past Lady Day, and it is not waiting on the Queen's twenty pound."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "I am first on the paper if anyone is listing us."
+    }
+  ]
+}

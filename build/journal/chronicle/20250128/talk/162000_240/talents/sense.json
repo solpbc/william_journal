@@ -1,0 +1,72 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "After the Shrew you stood a few minutes in the parlour with Richard and Kemp. You did not name the part. Set at Maw was the Rose, and you did not go. Tomorrow is the ghost.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ended the play unnamed, and did not cross the river.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped the talk of the afternoon and sent you home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took survival as a review.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Set at Maw",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Stand aside",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Stood with Richard and Kemp after the Shrew",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Will Kemp",
+    "William Shakespeare",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the play done",
+    "the Rose not visited",
+    "tomorrow's cry"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Set at Maw was the Rose"
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Thou stood where the book put thee;"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Before daylight you stayed upstairs. You had told Anne the girl was quick, and you had come to bed. The sheet was still in the orchard under the stone. You did not go down to it in the dark.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke low, and did not leave the chamber.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the orchard scene",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Said the girl was quick",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Spoke upstairs before the light",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a short sleep",
+    "the girl at the window",
+    "the stone on the sheet"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Two hours, if that."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not going down to it before there is light."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+You wrote that you had read from the first gage to the castle wall, and that the book is not finished. You wrote the two joins as marks. You wrote that a pleasant speech has a line in its margin and was not copied out. You named the deposing, the prison and the end as unfinished, and you did not write them this morning.

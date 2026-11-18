@@ -1,0 +1,49 @@
+{
+  "overview": "You opened the coffer, both locks. Twenty pound eight shillings were there as you had left them. The belt had sixteen shillings of the six pounds. The road was nine shillings. Seven shillings went into the coffer. You ruled it off at twenty pound fifteen shillings. You did not write a price for the house, and you did not count it a second time.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Counted once, moved the seven shillings, and ruled it off."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "two locks",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "twenty pound eight shillings",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "seven shillings",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "twenty pound fifteen",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "twenty pound fifteen shillings",
+      "asset_type": "other",
+      "disposition": "Ruled the coffer at twenty pound fifteen"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-22",
+      "meaning": "Twenty pound fifteen"
+    }
+  ],
+  "summary": "Ruled the coffer at twenty pound fifteen"
+}

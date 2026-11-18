@@ -1,0 +1,72 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You came home before noon, by way of every wall, after the armour-basket. Mistress Ansell sent Alse for the bay grease your mother put in the pack, and sent you up. You are not cast this afternoon.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came home by every wall, and went up.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sent for the jar, and sent him upstairs.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Went for the bay grease.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the bay grease",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in By every wall",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came home by way of every wall",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "every wall",
+    "the armour-basket",
+    "the bay grease"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I came by every wall"
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "Shall I fetch the little pot of bay grease your mother put in your pack"
+    }
+  ]
+}

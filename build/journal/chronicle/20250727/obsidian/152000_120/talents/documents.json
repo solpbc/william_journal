@@ -1,0 +1,44 @@
+{
+  "overview": "You wrote the short list fair on the tables. The pack was shut. You then wiped the leaf, and the list did not stay.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the list, shut the pack, and wiped the leaf."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the fair list",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the wipe",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "what stayed in the house",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Verona sheets",
+      "asset_type": "other",
+      "disposition": "Wrote the list and wiped it"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-27",
+      "meaning": "The leaf, and then nothing"
+    }
+  ],
+  "summary": "Wrote the list and wiped it"
+}

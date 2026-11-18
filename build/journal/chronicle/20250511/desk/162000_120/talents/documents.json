@@ -1,0 +1,38 @@
+{
+  "overview": "The foot of the letter holds the barn question, and the space under it is blank for her answer. The thimble is not on this leaf. The sheet is the one that goes Thursday.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Set the pen down under the barn line."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the blank foot",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the barn",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Thursday's sheet",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-11",
+      "meaning": "The line she has to answer"
+    }
+  ],
+  "summary": "Stopped at the barn line"
+}

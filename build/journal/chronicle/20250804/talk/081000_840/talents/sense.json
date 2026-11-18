@@ -1,0 +1,87 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Anne kept you seated, and the winter list was written fair before anything else. Salt, candles and rush-lights became their own lines. She struck four bushels of malt down to two, and did not add that she was right. Your mother put back the letter London had clipped out of an old field-name, and did not spell the ground aloud. Joan put the soap on the page: the house boils it, because bought soap ate the linen.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Started from one word, and wrote the lines they would accept.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the task, struck the four down to two, and did not praise it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Corrected the field-name, and gave the white salt its peck.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Made the soap a quarrel about linen, and heard her name read back.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Struck the second spelling of bushels.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Wrote the winter list as the house corrected it",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare",
+    "Mary Shakespeare",
+    "Joan Shakespeare",
+    "Susanna Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the winter list",
+    "two bushels of malt",
+    "the old field-name",
+    "the soap"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Provisions is how a man forgets what he has eaten"
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Two. The rest is a hope, and a hope is not a line"
+    },
+    {
+      "speaker": "mary_shakespeare",
+      "text": "Thou hast spelt the old field-name the way Londoners say it, with their mouths clipped short"
+    }
+  ]
+}

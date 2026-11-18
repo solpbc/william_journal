@@ -1,0 +1,56 @@
+{
+  "overview": "You looked at the plot he had started. One roll for the Lady. The fan-carrier's own name, because he would like it. Twenty-odd parts, and three boys. This is not a reading. The rolls are not out.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the plot and did not take it back."
+    },
+    {
+      "name": "Abel Garnish",
+      "role": "visible",
+      "formal_term": "Abel Garnish",
+      "appointment_tier": "not_applicable",
+      "context": "Had begun the boxes."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the plot",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Lady",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "his own name",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the count",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the lovers' play",
+      "asset_type": "other",
+      "disposition": "Read Garnish's plot"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-12",
+      "meaning": "What Garnish will box"
+    }
+  ],
+  "summary": "Read Garnish's plot"
+}

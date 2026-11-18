@@ -1,0 +1,98 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At St Helen's you counted two more servants at the Mayor's pew than at Easter. Master Thwaite preached the gift of tongues and set the glass down after one turning. He then read a portion of the Homily against Disobedience and Wilful Rebellion, and you heard it out. In the north aisle she did not turn, until the second lesson, once, toward the south, and away. You lost the place in the psalm. Nothing was said. She was gone by the north porch, and you did not meet her at the door.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the two servants, heard the portion, lost the psalm, and said nothing of why.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Preached the gift of tongues, set the glass down after one turning, and read the Homily he had been ordered to read.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the Mayor's door with him, and took Alse out by their own door.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked after the old fourteen, and saw that the north porch was empty.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "the lady of the parish",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Stood in the north aisle, turned once during the second lesson, and was gone by the north porch. She did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat in the Mayor's pew. He did not speak. Two more servants stood at the door of it than at Easter.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Homily against Disobedience and Wilful Rebellion",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in One glass, then the order",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard the glass turned once and lost the psalm",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Master Josias Thwaite"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Whitsunday",
+    "one glass",
+    "the Homily",
+    "the north aisle"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "By order, and after Friday, a portion of the Homily against Disobedience and Wilful Rebellion."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "He set it down. Mark me. I have never seen him set it down."
+    }
+  ]
+}

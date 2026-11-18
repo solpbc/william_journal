@@ -1,0 +1,90 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the shop bench you mended Hamnet's small wooden wheel while Judith questioned every decision. Joan laid down a scrap of leather that made the repair possible, told you to use the heel of the knife, and declined your attempt to turn her help into a joke. The wheel turned unevenly, and it turned every time. Hamnet ran it down the yard. Judith said that unevenly was her prediction from the start.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Fitted the leather with the heel of the knife and tapped the pin home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the rim and ran the wheel down the yard.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Questioned every step and claimed the uneven turn.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Supplied the scrap, named the heel of the knife, and refused the joke.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "Hamnet's wooden wheel",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The wheel",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Mended Hamnet's wheel with Joan's scrap of leather",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Hamnet Shakespeare",
+    "William Shakespeare",
+    "Judith Shakespeare",
+    "Joan Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Hamnet's wooden wheel",
+    "Judith's questions",
+    "Joan's leather",
+    "turning unevenly"
+  ],
+  "quotes": [
+    {
+      "speaker": "joan_shakespeare",
+      "text": "Wrap the pin, not the wood. Three turns and pare the tail flush."
+    },
+    {
+      "speaker": "joan_shakespeare",
+      "text": "Keep thy speeches for Shoreditch and cut the leather straight."
+    },
+    {
+      "speaker": "judith_shakespeare",
+      "text": "I told you from the start it would turn unevenly, and so it does."
+    },
+    {
+      "speaker": "hamnet_shakespeare",
+      "text": "It did turn. It turned too far, and it came back."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You told Mistress Ansell the hour, which is first light, before you go. She had yesterday's news that you go, and not the hour. Alse said it aloud and did not write it. The chamber will be aired, the coffer unvisited, and Gib kept off the lord's book. The chronicle and the pages under the board stay. The twenty shillings are already in her book. You did not count the coffer, and you did not pay for the latch.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named first light, left the pages and the chronicle, and did not count.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the hour, repeated the empty chamber, and refused a second twenty shillings.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the hour aloud and did not write it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the room. Named again as forbidden the lord's book.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Told Mistress Ansell the hour is first light",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Mistress Dorcas Ansell",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "first light",
+    "the coffer unvisited",
+    "the pages left",
+    "the quarter already paid"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "You told me yesterday that you go. You are telling me the hour, which is the part I did not have."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "First light. I have it in my ear. I have not got it on a paper, and I do not need one."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The twenty are paid. I am not carrying the coffer, and I am not counting it tonight."
+    }
+  ]
+}

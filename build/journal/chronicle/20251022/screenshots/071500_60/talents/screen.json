@@ -1,0 +1,17 @@
+{
+  "narrative": "A penny loaf on a wooden bread-board, short of an old knife-notch by a full thumb. Grey light from the kitchen window. A girl's hand at the edge of the board, reaching for nothing, not posed. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and left the board as Alse had set it."
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "context": "In photo: The loaf and the notch"
+    }
+  ]
+}

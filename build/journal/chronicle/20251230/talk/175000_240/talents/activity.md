@@ -1,0 +1,1 @@
+Alse banked the one hall fire and would not lay a plate for you. You told her not to. Mistress Ansell had the spoons in her hands and would not discuss Blackfriars. Alse did not ask about the ass again. You said you would be late, and that no one was to sit up.

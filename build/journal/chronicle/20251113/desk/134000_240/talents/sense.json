@@ -1,0 +1,60 @@
+{
+  "density": "active",
+  "content_type": "reading",
+  "activity_summary": "At home you read Anne's letter. A woman from Bridge Street is to do the great wash through the winter at fourpence a week, and she has paid it already out of the Michaelmas money. You were told, not asked. You did not write the answer.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the letter and did not answer it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Had written the decision. She was not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "fourpence a week",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in On the stair",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Michaelmas money",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in On the stair",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Read that the wash was already paid",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the great wash",
+    "fourpence a week",
+    "the Michaelmas money",
+    "told not asked"
+  ],
+  "quotes": []
+}

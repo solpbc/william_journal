@@ -1,0 +1,1 @@
+You came home and shut the door on the yard. You did not give the house a title, and you did not give them the death. Alse saw a smear of paint and sent you to the cold basin. Mistress Ansell had lit the hall candle, and offered broth and the crabs already in the house. Gib was by the fire. The bundle was as you had left it. You said you had nothing for the house.

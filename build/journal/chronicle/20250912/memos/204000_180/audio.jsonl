@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:40:00", "text": "Whom. Susanna's hand, and nothing else on the slip.", "timing": {"end": 10.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:40:10", "text": "I did not say which of them tied it. The tale was in my mouth, ready, and I kept it.", "timing": {"end": 22.0, "start": 10.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:40:22", "text": "Two pairs of hose. A cake of my mother's. Useful, and more welcome than the performance.", "timing": {"end": 34.0, "start": 22.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "20:40:34", "text": "A month ago I promised. The promise held. Enough.", "timing": {"end": 44.0, "start": 34.0}}

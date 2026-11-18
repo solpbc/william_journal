@@ -1,0 +1,1 @@
+Once you were flat on the bed over the hall, Anne was another woman. She shut the shutter, put a bag of hot bran to the back, and kept her hands there. Then she said it, in this order: you were a great fool, you were to lie still, and she had you. You stayed.

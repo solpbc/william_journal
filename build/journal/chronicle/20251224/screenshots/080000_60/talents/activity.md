@@ -1,0 +1,1 @@
+The tilt-boat's hoops were rimmed with frost, and the trunks and court bundles inside were covered. White frost lay on the gunwale. My lord's scarlet coats were folded on a basket, and nobody's face was in it.

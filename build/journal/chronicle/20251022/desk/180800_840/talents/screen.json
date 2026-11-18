@@ -1,0 +1,23 @@
+{
+  "narrative": "The chamber. One short candle. The writing-tables lie shut on the bed. The red bundle is at the far side of the board, still knotted. The window is black. No face. The tables open. The leaf is pale. The bundle has not moved. No death, no title, no sum. No face. The stylus above the pale leaf. He has not set down the three lines yet. One flame. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the three lines and left the bundle knotted."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Came up and found the tables shut"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "context": "Shown on tables in Came up and found the tables shut"
+    }
+  ]
+}

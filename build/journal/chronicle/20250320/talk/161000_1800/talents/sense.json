@@ -1,0 +1,89 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "In the tiring-house, with the baskets still roped from the Cross Keys, Heminges paid Edith eight shillings out of the stock's share, five days before Lady Day. He said the stock paid a debt, which is not the same as a man drawing his share. Edith folded her account before she took the compliment on the January sleeve. He said the prince's sleeves are paid for at last. You struck the owing line. For Easter she is to let out the Princess's gown and let down Arthur's hems. Nothing came from your purse.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the compliment after the fold, struck the tables, and did not pay.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid eight shillings from the stock, five days before Lady Day, and said what the payment was.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Folded her account first, accepted the sleeve, and took the Easter work without a new bill for January.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "8s from the stock",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Out of the stock",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Cross Keys baskets",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Out of the stock",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Saw the stock pay Edith, and struck the line",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Edith Kettlewood",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "eight shillings from the stock",
+    "five days",
+    "the sleeve paid",
+    "the tables struck"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "The stock paid a debt, which is not the same as a man drawing his share."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Item, one prince's sleeves, paid for at last."
+    },
+    {
+      "speaker": "edith_kettlewood",
+      "text": "I will fold it away before I am glad of anything."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not paying you from my purse, Edith."
+    }
+  ]
+}

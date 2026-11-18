@@ -1,0 +1,17 @@
+{
+  "narrative": "The almanac is open at the day's leaf under a candle. One line is printed. Nothing is written under it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the line, and added nothing."
+    },
+    {
+      "type": "Tool",
+      "name": "the almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in Full moon"
+    }
+  ]
+}

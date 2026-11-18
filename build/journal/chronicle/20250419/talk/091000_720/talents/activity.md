@@ -1,0 +1,1 @@
+Sam croaked like a rook on the cuckoo and Phillips stopped him. There was no second try. You told Sam the word was still his when the throat allowed, and you did not name anyone else for it. Arthur kept his own place and the split hooks. Kemp was told not to make a jig of the croak. The door stayed dark, with two days to go. Nobody was told a second plan.

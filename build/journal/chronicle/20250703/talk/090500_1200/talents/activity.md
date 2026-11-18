@@ -1,0 +1,1 @@
+Edith finished the cuff and stated her terms again: payment on delivery, and the weather is not her trouble. No sum changed hands. Arthur said she let the hem down two fingers at Easter, and his shins are out. You did not order a new gown. You said you will not hurry the old man's tale. You left them the basket and went to the roll.

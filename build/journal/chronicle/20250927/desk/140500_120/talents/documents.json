@@ -1,0 +1,44 @@
+{
+  "overview": "At two you played Egeon. You open, and you are idle until the end. Across the water the Rose had Crack Me. You did not cross. The reckoning is at five, in the house.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Played Egeon, and did not cross the water."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Egeon",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Crack Me",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "five o'clock",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Comedy of Errors",
+      "asset_type": "other",
+      "disposition": "Played Egeon and stayed for the reckoning"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-27",
+      "meaning": "Saturday's Errors, and Crack Me"
+    }
+  ],
+  "summary": "Played Egeon and stayed for the reckoning"
+}

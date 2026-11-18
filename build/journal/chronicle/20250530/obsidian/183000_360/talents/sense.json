@@ -1,0 +1,67 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote that the lines held and that you are not proud of them. Cowley came through once and apologised to nobody. Kemp has not been shown the king.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the note and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named for the one pass and the missing apology.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named as not shown the king.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the old Knave",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Eight lines, and not proud",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Eight lines, and not proud",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote that the eight lines held",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "eight lines",
+    "one pass",
+    "Kemp not shown the king"
+  ],
+  "quotes": []
+}

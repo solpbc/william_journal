@@ -1,0 +1,1 @@
+Before the page you said the friar's letter has miscarried on the way to Mantua. You do not know the cause, and you did not write one. The vault is not this leaf. There is no song at the door. The red thread stays tied.

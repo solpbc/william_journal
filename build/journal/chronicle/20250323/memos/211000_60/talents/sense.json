@@ -1,0 +1,46 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "Alone, you said you would carry her opinion, and that you have been saying the rest of it to the plaster. You stopped. You did not say what the rest of it is.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke it once, to no one, and cut it off.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said the rest of it to the plaster",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "her opinion",
+    "the plaster",
+    "a stop"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Tell her mine opinion. I said I would."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have been saying the rest of it to the plaster."
+    }
+  ]
+}

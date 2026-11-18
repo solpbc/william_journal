@@ -1,0 +1,80 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At dinner the loaf was still a finger short. You told the house the letter was gone. Alse had swept the thread. You were going back for the Sins, and you gave no errand.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the gone letter and the afternoon.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Served the loaf as it was.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Swept the thread and did not hunt the packet.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Candlemas letter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The string is gone",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The string is gone",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate the short loaf and went back to the Sins",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the loaf",
+    "the letter gone",
+    "the afternoon"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The letter is gone. You need not look for it on the desk."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "The string is gone with it. I swept the thread."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "narrative": "The tables still open on the four lines. He stands. The stylus stays in the gutter. The bundle is untied by nobody. No face. The cover drawn halfway. The four lines still readable. No new word. No face. The tables shut. The red bundle alone on its side of the board. The cat has not moved in the time of this look. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Shut the tables and went down to dinner"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Shut the tables and went down to dinner"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "context": "Shown on tables in Shut the tables and went down to dinner"
+    }
+  ]
+}

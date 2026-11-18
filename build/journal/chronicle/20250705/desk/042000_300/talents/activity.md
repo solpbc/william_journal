@@ -1,0 +1,1 @@
+You took Brooke down. The Verona page is open at the blank you left in Lent, alike in, and nothing after it. You looked, and you left the gap. Gib is on the Golding. This is not the morning's work, the filling of that dash. The clean sheet is not yet started in this frame.

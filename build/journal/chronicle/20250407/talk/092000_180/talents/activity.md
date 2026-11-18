@@ -1,0 +1,1 @@
+In the shop you began to explain a knot while Richard was tying a bundle. He told you it would be quicker if you stopped describing it. He tied it himself. He said the skins were in and the money was not. You opened no bill and bought nothing.

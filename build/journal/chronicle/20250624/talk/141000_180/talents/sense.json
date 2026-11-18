@@ -1,0 +1,75 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At two you went on. John would not open a new matter. Kemp added nothing. You played, and you did not bring the morning's book into the afternoon. Nobody named a sum.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Went on, and left the morning out of it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the afternoon to what was set down.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Added no line.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Two Gentlemen of Verona",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in On at two",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Played at two",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Will Kemp",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the afternoon play",
+    "nothing added"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "On at two."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "I have no line to add, and I am not inventing one in the yard."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "There is nothing of the morning in this afternoon."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "overview": "After Fair Em you wrote the mercer's fifty shillings on the tables, under the line that has been there since January: Edith eight shillings, owing, Lady Day. The gown stands against the Queen's twenty pounds, which are not had. You did not mark it paid. You did not write a coffer total, and you did not write the stock's eleven shillings as if they were yours.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the line and did not pay it."
+    },
+    {
+      "name": "John Heminges",
+      "role": "mentioned",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Named on the line as the man who brought the figure. He was not in the room."
+    },
+    {
+      "name": "Edith Kettlewood",
+      "role": "mentioned",
+      "formal_term": "Edith Kettlewood",
+      "appointment_tier": "not_applicable",
+      "context": "Her eight shillings stayed where January had put them. She was not in the room."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "fifty shillings",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Edith's eight",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Queen's twenty pounds",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the writing tables",
+      "asset_type": "other",
+      "disposition": "Wrote the fifty shillings under Edith's eight"
+    },
+    {
+      "name": "the Princess's gown",
+      "asset_type": "other",
+      "disposition": "Wrote the fifty shillings under Edith's eight"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-02-04",
+      "meaning": "Fifty shillings, on the tables"
+    }
+  ],
+  "summary": "Wrote the fifty shillings under Edith's eight"
+}

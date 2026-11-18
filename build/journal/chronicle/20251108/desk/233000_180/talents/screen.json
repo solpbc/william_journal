@@ -1,0 +1,17 @@
+{
+  "narrative": "The sheet on the board under one candle, still burning. The vault line is dry. Blank under the stop. No face. The same sheet. Nothing below the stop. The candle is not yet cold. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the stop, and did not fetch the families."
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "context": "Shown on draft in A feasting presence"
+    }
+  ]
+}

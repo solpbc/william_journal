@@ -1,0 +1,94 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Master Thwaite reached fourteenthly and ended. Mistress Ansell called it sound doctrine. You said fourteen parts of it. She said it was the first sermon you had heard to the end. At the door Alse asked who decides where a permitted shade ends and an offence begins. Nobody answered the edge of it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said fourteen parts, and said the question was not his to decide.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reached fourteenthly, closed the sermon, and sent them to dinner.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called it sound doctrine, and moved the question off the porch.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked who decides where a permitted shade ends and an offence begins.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the precept against blue starch",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Fourteen parts of it",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard fourteenthly, and Alse's question at the door",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "fourteenthly",
+    "sound doctrine",
+    "Alse's question",
+    "a white band"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "And fourteenthly."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Sound doctrine."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Fourteen parts of it."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "You counted. That is the first sermon you ever heard to the end."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "Who is to decide where a permitted shade ends and an offence begins?"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "You began the first sheet. The place was Westminster Hall, the cousin in the chair's shadow, the King sent for to give it up with his own mouth. You wrote the crown held in two hands like a well with two buckets, and the line where it is given. The sheet was not a quarter full. The chronicle stayed shut.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the first sheet's opening and stopped inside it.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Two buckets",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote the crown in two hands",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Westminster Hall",
+    "the two buckets",
+    "the first sheet"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,1 @@
+You were at the Theatre for the rehearsal at nine. The plot's title was turned away. Two hired men were in the tiring-house from the night, and the chain was off the gate for the morning. You did not put a play's name on the strip in your hand.

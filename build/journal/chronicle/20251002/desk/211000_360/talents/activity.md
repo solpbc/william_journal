@@ -1,0 +1,1 @@
+At home you entered The Disguises among the Rose's bills, not among the plays you have seen. You wrote no sum beside it. You did not copy eleven pound six into the tables. The title is a title. The play is unvisited.

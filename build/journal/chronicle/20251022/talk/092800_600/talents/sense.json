@@ -1,0 +1,76 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Nick was in the yard. You left the rolls under the weight and turned to the book. John entered eightpence as copying, with the line standing alone. Humphrey kept the drying at a quarter of an hour. The small sign stayed in the corner of the rolls.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Entered eightpence while the ink dried",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Entered eightpence while the ink dried",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Entered eightpence while the ink dried",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "eightpence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Entered eightpence while the ink dried",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the company book",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Entered eightpence while the ink dried",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed the three rolls of the king play",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Humphrey Larkham",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "wet ink",
+    "the copying line",
+    "no total"
+  ],
+  "quotes": [
+    {
+      "speaker": "humphrey_larkham",
+      "text": "Copying is the word. It is a small word. It will fit."
+    }
+  ]
+}

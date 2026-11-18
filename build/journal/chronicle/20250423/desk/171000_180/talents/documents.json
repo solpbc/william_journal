@@ -1,0 +1,38 @@
+{
+  "overview": "You were at evening prayer. A book lay on the ledge and you took no line from it. You copied no verse.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked at the book and copied nothing."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "evening prayer",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a book on the ledge",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no verse",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-23",
+      "meaning": "A book on the ledge"
+    }
+  ],
+  "summary": "Sat through evening prayer"
+}

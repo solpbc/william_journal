@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 660.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "20:41:00", "text": "The window is not the bench. Come away from it. Thou hast had the look.", "timing": {"end": 380.0, "start": 120.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:45:20", "text": "I have seen it from here. I am not going out. The apples can have their dark without me in it.", "timing": {"end": 600.0, "start": 380.0}}
+{"sentence_id": 3, "speaker": "joan_shakespeare", "start": "20:49:00", "text": "Then leave the window. I am putting the light down in the passage, and I am not making a second one.", "timing": {"end": 610.0, "start": 600.0}}

@@ -1,0 +1,71 @@
+{
+  "overview": "You read the first book of Daniel's Civil Wars standing under the cloister, out of the drizzle, and did not buy it at two shillings. Richard rides captive behind his cousin. The queen at the window is a grown woman, where the chronicle's queen was a girl of ten. Your thumb tapped four beats. Harrison, from his own shop, said you might read it and might not wear it out.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read standing, tapped four beats, and bought nothing."
+    },
+    {
+      "name": "John Harrison",
+      "role": "attendee",
+      "formal_term": "John Harrison",
+      "appointment_tier": "not_applicable",
+      "context": "Came to his own door and would not have the book worn out."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Daniel's Civil Wars",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "two shillings",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a queen at a window",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "four beats",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the book put back",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Daniel's Civil Wars",
+      "asset_type": "other",
+      "disposition": "Read the first book of Daniel standing"
+    },
+    {
+      "name": "2s",
+      "asset_type": "other",
+      "disposition": "Read the first book of Daniel standing"
+    },
+    {
+      "name": "the White Greyhound",
+      "asset_type": "other",
+      "disposition": "Read the first book of Daniel standing"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-11",
+      "meaning": "Daniel, read standing"
+    }
+  ],
+  "summary": "Read the first book of Daniel standing"
+}

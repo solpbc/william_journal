@@ -1,0 +1,35 @@
+{
+  "narrative": "Gib square on the open Chaucer. Field's Holinshed is shut at the edge of the board, where the cat has left it. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and did not write."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Left Holinshed and lay on the Knight's Tale."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "mentioned",
+      "context": "Named as the printer of the Holinshed, and not in the room."
+    },
+    {
+      "type": "Project",
+      "name": "the Chaucer",
+      "role": "mentioned",
+      "context": "Shown on book in The cat has chosen"
+    },
+    {
+      "type": "Project",
+      "name": "Holinshed",
+      "role": "mentioned",
+      "context": "Shown on book in The cat has chosen"
+    }
+  ]
+}

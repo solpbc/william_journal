@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "The picture holds the plot on its peg by the tiring-house door. The entrances are in Garnish's hand. It holds no face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Stood at the door, and did not take the plot down.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "His hand on the entrances. He is not in the picture.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard the Second",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The plot on its peg",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Left the plot on the peg",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the plot",
+    "the peg",
+    "the hand"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,106 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You stood in the porch of St Helen's after morning prayer with Mistress Ansell, Master Thwaite, and Gillis Verbeke. The sermon had run to two turnings of the glass and to fourteenthly. Sir John Spencer left from three rows ahead and did not speak. The penny loaf is a finger short. The sixpence for firing and washing runs till Lady Day. You were well. Saturday's two sneezes were not this cold.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered for the fourteenthly, the tomb, and the sneeze, and said he was not ill.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the cold flags, the short loaf, the sixpence, and the latch.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the second turning and the fourteenth head, and would not have them shouted in the porch.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke for the back aisle and the loom, and went in to eat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Left by the south door from three rows ahead, and did not turn or speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Out of the cold nave",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "6d firing and washing",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Out of the cold nave",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood in the porch after morning prayer",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Master Josias Thwaite",
+    "William Shakespeare",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two turnings of the glass",
+    "fourteenthly",
+    "the penny loaf",
+    "sixpence till Lady Day"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Two turnings of the glass, Master Shakespeare, and my feet have no more feeling than the flags."
+    },
+    {
+      "speaker": "josias_thwaite",
+      "text": "Fourteenthly was the knot."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "His baker's penny loaf still wants a full finger of the notch."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I was not ill. I sneezed twice."
+    }
+  ]
+}

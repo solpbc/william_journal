@@ -1,0 +1,64 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Later, at home, you heard that twenty are taken. You did not see it. The street door was not barred. The shutter stayed the bar she had already made.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard it, and did not claim to have seen it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the number from the stair, and did not bar the street door.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed in, and was not asked to bar the door.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard that twenty are taken and stayed in",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twenty taken",
+    "heard later",
+    "the door unbarred"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "They are saying twenty are taken."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I did not see them taken."
+    }
+  ]
+}

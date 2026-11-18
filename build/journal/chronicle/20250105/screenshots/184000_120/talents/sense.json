@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "You stopped in the lane because a pavan came from an upper window, played very exactly and then again faster. The window is lit gold. The shadow is a head bent at the instrument, and there is no face. You do not know the house. You did not go in. You are not in the picture.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Stopped. Not pictured. Did not go in.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "the lady of the parish",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Heard, as the playing. Not named, and not seen as a face.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the virginals",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in A window lit gold",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stopped in the lane for the pavan",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the lit window",
+    "the pavan",
+    "a house you do not know"
+  ],
+  "quotes": []
+}

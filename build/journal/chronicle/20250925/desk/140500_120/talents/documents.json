@@ -1,0 +1,39 @@
+{
+  "overview": "At two you played Egeon again. You open, and you are idle until the end. Across the water the Rose had the New World's Tragedy. You did not cross.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Played Egeon, and did not cross the water."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Egeon",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the New World's Tragedy",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Comedy of Errors",
+      "asset_type": "other",
+      "disposition": "Played Egeon"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-25",
+      "meaning": "Egeon again, and a new world"
+    }
+  ],
+  "summary": "Played Egeon"
+}

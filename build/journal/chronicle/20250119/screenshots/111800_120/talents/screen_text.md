@@ -1,0 +1,3 @@
+## 00:00 · The pewter pot
+
+From the bolster, along the blanket. A pewter pot sits on the stool, still holding a little of the posset, with a fleck of nutmeg on the rim. His right hand is on the pot. His face is not in the picture, and there is no mirror.

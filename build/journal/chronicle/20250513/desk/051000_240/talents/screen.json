@@ -1,0 +1,17 @@
+{
+  "narrative": "The tables, wiped of yesterday's list to a grey smear. Three words in the stylus, and the rest of the leaf bare.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wiped the list and wrote the three words."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on tables in Sit, ground, stories"
+    }
+  ]
+}

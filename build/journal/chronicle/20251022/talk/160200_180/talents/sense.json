@@ -1,0 +1,76 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You came off for the last time with the paint still on. Burbage told you to stay out of the door. Nick had nothing left to say and did not practice a line. You said the paint and the stitch were the only news in the room. Burbage said John and George were by the outer door. You said you had no story yet. Nothing was said of any death.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Came offstage for the last time",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Came offstage for the last time",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Came offstage for the last time",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the afternoon coat",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Came offstage for the last time",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Came in for the afternoon play",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Burbage",
+    "William Shakespeare",
+    "Nick Sorrell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the last exit",
+    "the paint still on",
+    "no story yet"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have no story for anyone yet."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "John is by the outer door, and George with him."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "That is the whole of the news in this room."
+    }
+  ]
+}

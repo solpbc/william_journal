@@ -1,0 +1,17 @@
+{
+  "narrative": "Egeon's roll on the tiring-house bench. Tuesday's note still in the margin. A clove beside it, not on the speech. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Played the part from the right side of the mouth."
+    },
+    {
+      "type": "Project",
+      "name": "Errors",
+      "role": "mentioned",
+      "context": "Shown on part in Egeon, the same side"
+    }
+  ]
+}

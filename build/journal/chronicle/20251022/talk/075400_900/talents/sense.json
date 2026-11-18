@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At the street door you stopped for the almanac on the sill. She had the cloth in her arms and wanted the road. You had not opened it yet. Alse said the fire was banked and the board was clear. You asked for the one leaf with the day on it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stopped at the door for the almanac",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stopped at the door for the almanac",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "heard in Stopped at the door for the almanac",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Stopped at the door for the almanac",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Got the cloak and left for the Theatre",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the almanac at the door",
+    "one leaf",
+    "the banked fire"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "This is a look, not a second breakfast."
+    }
+  ]
+}

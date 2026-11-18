@@ -1,0 +1,44 @@
+{
+  "overview": "You made the fourth sheet fit to carry. Mowbray's line was on it. You put no player's name under the line.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the line, wrote no name, and kept the sheets."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "four sheets",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the engaoled tongue",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no name",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Checked Mowbray's line and took the sheets"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-25",
+      "meaning": "The fourth sheet, fit to carry"
+    }
+  ],
+  "summary": "Checked Mowbray's line and took the sheets"
+}

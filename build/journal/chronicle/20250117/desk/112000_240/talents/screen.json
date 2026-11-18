@@ -1,0 +1,23 @@
+{
+  "narrative": "A player's roll unrolled on a bench, cue-words set to the right of a long rule, the speeches under them. Three cues are newly written. The older cue is struck at those three places only. A second roll lies beside it, already recopied, the hand not yours. One surface.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Marked the three cues."
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "mentioned",
+      "context": "Named by the second roll in his hand. Not pictured."
+    },
+    {
+      "type": "Project",
+      "name": "Richard the Third",
+      "role": "mentioned",
+      "context": "Shown on part in The three words on the roll"
+    }
+  ]
+}

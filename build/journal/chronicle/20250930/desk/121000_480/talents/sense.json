@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "At noon you conned Gaunt aloud at the window, the roll in one hand and the other holding your face. You got as far as the throne and this England. You did not spend the turn about the lease. That turn can wait until the mouth is less of a committee.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Conned the speech aloud, and did not call it finished.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Gaunt at the window",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Rehearsed Gaunt at the window as far as the mouth allowed",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Gaunt at the window",
+    "the jaw",
+    "the roll"
+  ],
+  "quotes": []
+}

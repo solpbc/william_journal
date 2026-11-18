@@ -1,0 +1,17 @@
+{
+  "narrative": "The almanac is open at the week. The Sunday line has no cross. Tomorrow's line is already written in your hand from the winter. The pen is not on the Sunday line.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and did not mark."
+    },
+    {
+      "type": "Tool",
+      "name": "the almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in No cross in the almanac"
+    }
+  ]
+}

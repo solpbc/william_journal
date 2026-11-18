@@ -1,0 +1,58 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At home between Holywell and the Keys you ate little. You are in the Shrew at two, and you did not name the roll. You are not going to Set at Maw.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate little and went on to the Keys.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Taming of the Shrew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Little, before the Shrew",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Set at Maw",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Little, before the Shrew",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate little before the Shrew",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a small meal",
+    "the unnamed roll",
+    "the afternoon play"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The roll stays unnamed, even here;"
+    }
+  ]
+}

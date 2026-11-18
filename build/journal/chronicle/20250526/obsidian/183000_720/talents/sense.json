@@ -1,0 +1,93 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote one sheet to Susanna and to Anne. You asked to be told the fault plainly, said the Master of the Revels had done you good, and asked whether a queen would learn bad news from gardeners. Love to Judith and Hamnet went in the same line. You told Anne the king is two-thirds made and that you came in a line late as Navarre. You asked which one thing the house should wait to buy, struck your own answer, and left a blot. The thimble was 2s 6d and went on the fifteenth. The sheet goes on the fifth of June. You promised to hear Susanna read in August.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the page, struck one answer, and did not send it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Addressed, and promised a hearing in August.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Told the king is two-thirds made, and asked the question about the house.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named in the same line as her brother.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named in the same line as his sister.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the thimble",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in To a girl of twelve",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in To a girl of twelve",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in To a girl of twelve",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Wrote the sheet that should have gone with the thimble",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twelve",
+    "the fault",
+    "the gardeners",
+    "the blot",
+    "the fifth of June"
+  ],
+  "quotes": []
+}

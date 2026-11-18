@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250727",
+    "end": "20250802"
+  },
+  "generated_at": "2025-08-02T22:00:00Z",
+  "days": [
+    {
+      "day": "20250727",
+      "state": "memory",
+      "memory_id": "m-20250727-0"
+    },
+    {
+      "day": "20250728",
+      "state": "memory",
+      "memory_id": "m-20250728-1"
+    },
+    {
+      "day": "20250729",
+      "state": "memory",
+      "memory_id": "m-20250729-2"
+    },
+    {
+      "day": "20250730",
+      "state": "memory",
+      "memory_id": "m-20250730-3"
+    },
+    {
+      "day": "20250731",
+      "state": "memory",
+      "memory_id": "m-20250731-4"
+    },
+    {
+      "day": "20250801",
+      "state": "memory",
+      "memory_id": "m-20250801-5"
+    },
+    {
+      "day": "20250802",
+      "state": "memory",
+      "memory_id": "m-20250802-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250727-0",
+      "key": "mem_20250727_0",
+      "day": "20250727",
+      "text": "Six pounds in the belt, twenty pound and eight under two locks, and the list wiped.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250727/talents/morning_briefing",
+        "briefing_day": "20250727",
+        "refs": [
+          "sol://facets/household/activities/20250727#meeting_092000_180",
+          "sol://facets/household/activities/20250727#meeting_150000_360",
+          "sol://facets/household/activities/20250727#frame_151000_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250728-1",
+      "key": "mem_20250728_1",
+      "day": "20250728",
+      "text": "A penny for ale at Uxbridge, two pence for the loft at Chalfont, and the same parcels.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250728/talents/morning_briefing",
+        "briefing_day": "20250728",
+        "refs": [
+          "sol://facets/household/activities/20250728#memo_035000_60",
+          "sol://facets/household/activities/20250728#memo_074000_60",
+          "sol://facets/household/activities/20250728#meeting_110500_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250729-2",
+      "key": "mem_20250729_2",
+      "day": "20250729",
+      "text": "You said the horse was dear, and that you had walked to arrive tired. One bench at Grendon.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250729/talents/morning_briefing",
+        "briefing_day": "20250729",
+        "refs": [
+          "sol://facets/household/activities/20250729#meeting_120500_120",
+          "sol://facets/writing/activities/20250729#memo_152000_120",
+          "sol://facets/household/activities/20250729#meeting_195000_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20250730-3",
+      "key": "mem_20250730_3",
+      "day": "20250730",
+      "text": "She speaks first. The sheets were dry. Supper and a bed were ten pence.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250730/talents/morning_briefing",
+        "briefing_day": "20250730",
+        "refs": [
+          "sol://facets/writing/activities/20250730#frame_040500_60",
+          "sol://facets/household/activities/20250730#meeting_111000_120",
+          "sol://facets/household/activities/20250730#photo_150500_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250731-4",
+      "key": "mem_20250731_4",
+      "day": "20250731",
+      "text": "She wrote stay away, and the letter said come for harvest. You said the horse was dear.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250731/talents/morning_briefing",
+        "briefing_day": "20250731",
+        "refs": [
+          "sol://facets/stratford/activities/20250731#photo_080500_60",
+          "sol://facets/stratford/activities/20250731#memo_131000_60",
+          "sol://facets/stratford/activities/20250731#photo_170000_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250801-5",
+      "key": "mem_20250801_5",
+      "day": "20250801",
+      "text": "The rye is in, and light. The barley stopped short of a figure. The horse was dear, sir.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250801/talents/morning_briefing",
+        "briefing_day": "20250801",
+        "refs": [
+          "sol://facets/stratford/activities/20250801#meeting_072000_60",
+          "sol://facets/stratford/activities/20250801#photo_120000_60",
+          "sol://facets/stratford/activities/20250801#meeting_120500_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250802-6",
+      "key": "mem_20250802_6",
+      "day": "20250802",
+      "text": "Three tellings of the fire, and every person safe. Till the eighteenth.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250802/talents/morning_briefing",
+        "briefing_day": "20250802",
+        "refs": [
+          "sol://facets/stratford/activities/20250802#meeting_100000_480",
+          "sol://facets/stratford/activities/20250802#meeting_101000_480",
+          "sol://facets/stratford/activities/20250802#photo_102000_60"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250727-0",
+      "key": "said_20250727_0",
+      "day": "20250727",
+      "quote": "A man goes home, Mistress.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250727#meeting_150000_360"
+      }
+    },
+    {
+      "id": "s-20250729-1",
+      "key": "said_20250729_1",
+      "day": "20250729",
+      "quote": "I wanted to be tired when I got there. I wanted to have paid something.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250729#memo_152000_120"
+      }
+    },
+    {
+      "id": "s-20250729-2",
+      "key": "said_20250729_2",
+      "day": "20250729",
+      "quote": "She can say the thing nobody says when they know they're heard.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250729#memo_152000_120"
+      }
+    },
+    {
+      "id": "s-20250730-3",
+      "key": "said_20250730_3",
+      "day": "20250730",
+      "quote": "Remember: she speaks first. Not he. She. \u2026No. Let him think he does.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250730#memo_201000_60"
+      }
+    },
+    {
+      "id": "s-20250731-4",
+      "key": "said_20250731_4",
+      "day": "20250731",
+      "quote": "The horse was dear.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250731#meeting_173000_120"
+      }
+    },
+    {
+      "id": "s-20250801-5",
+      "key": "said_20250801_5",
+      "day": "20250801",
+      "quote": "I am eating the heel. I am not pricing a field.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250801#meeting_120500_480"
+      }
+    },
+    {
+      "id": "s-20250802-6",
+      "key": "said_20250802_6",
+      "day": "20250802",
+      "quote": "The ballad is thine, Judith. I will sing it once. I will sing it badly.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250802#meeting_101000_480"
+      }
+    }
+  ]
+}

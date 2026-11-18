@@ -1,0 +1,130 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "On the way to church you passed the Guild Chapel and the bolted door of the school. Hamnet said they could walk past it on a Sunday without their Latin. You told Susanna you had known the Latin best when Ovid had a story in it, and you sent them on past the school stair.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered Susanna about the Latin, and sent them on past the stair.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named tomorrow morning's lesson, and was told off the mounting-block.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the bolted door, and the white wall of the chapel.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked whether he had known the lesson before the bell stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Walked with them, and did not take the talk.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Walked with them. The mounting-block was left because she would have said so.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Walked with them, and kept Judith in the line.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Walked with them, and said nothing.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Walked in the line, and said nothing.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Guild Chapel",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Passed the bolted school door",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Ovid",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Passed the bolted school door",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Walked past the closed school door",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Hamnet Shakespeare",
+    "Edmund Shakespeare",
+    "William Shakespeare",
+    "Susanna Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the bolted school door",
+    "the white chapel wall",
+    "the school stair",
+    "Latin"
+  ],
+  "quotes": [
+    {
+      "speaker": "hamnet_shakespeare",
+      "text": "The schoolhouse door is bolted with the great staple on a Sunday, Edmund."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I knew the Latin when Ovid had a story in it, Susanna, and the master knew the birch when he had not."
+    }
+  ]
+}

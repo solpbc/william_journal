@@ -1,0 +1,44 @@
+{
+  "overview": "You read the Theatre's bill at home. The Shrew was at two. You were not in it, and you did not go. There was no author's name on the paper.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the bill and did not leave the house."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the Shrew",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the bill",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "staying in",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Shrew",
+      "asset_type": "other",
+      "disposition": "Read the Shrew bill at the lodging"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-10",
+      "meaning": "The Shrew, and he is not in it"
+    }
+  ],
+  "summary": "Read the Shrew bill at the lodging"
+}

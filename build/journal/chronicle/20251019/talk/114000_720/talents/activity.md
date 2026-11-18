@@ -1,0 +1,1 @@
+Dinner was at the lodging. The loaf was a penny and a full thumb short of the notch, and you took the soft side because the jaw was quiet and not to be tried. You asked for a length of red thread in the evening, not the skein. Mistress Ansell told you to write the three lines home before you corrected the fair page again. The latch stays as it is.

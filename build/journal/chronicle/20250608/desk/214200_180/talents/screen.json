@@ -1,0 +1,17 @@
+{
+  "narrative": "The almanac open at the day, a small cross beside it, the rest of the line blank. No face. The cross is the only mark. No name is on the page, and no place, and no account of the hour. The almanac closed on the blotter. The pen is set down. The cross is not added to.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Made the cross and wrote nothing else."
+    },
+    {
+      "type": "Project",
+      "name": "the almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in A small cross"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "overview": "In the afternoon you looked at the sheet. The call was still on it. You did not strike Nurse, and you did not write her a line lower. The bundle stayed tied on the other side of the board.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the call and left it standing."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the unstruck call",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the loose leaf",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the tied bundle",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the vial speech",
+      "asset_type": "other",
+      "disposition": "Read the Nurse's call on the sheet"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-24",
+      "meaning": "The call, unstruck"
+    }
+  ],
+  "summary": "Read the Nurse's call on the sheet"
+}

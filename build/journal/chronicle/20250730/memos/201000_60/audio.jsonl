@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:10:00", "text": "Remember: she speaks first. Not he. She. \u2026No. Let him think he does.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:10:14", "text": "Wet to the shirt in forty paces, the last mile. Supper and a bed, ten pence. The cheese was mostly paring.", "timing": {"end": 28.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:10:28", "text": "The thunder is still on the hills I cross tomorrow. The sheets can wait until the cloth is open.", "timing": {"end": 38.0, "start": 28.0}}

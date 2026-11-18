@@ -1,0 +1,98 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At the end of an hour and a quarter he said what he had found. A prince who is obeyed, a friar who means well, two children who die of not minding their elders, and nothing that touches the state or any person living. You asked if it was nothing. He said he could find something if you were lonely for it. He signed the last leaf. He told you the other play keeps within its bounds in Shoreditch, and to let it. Heminges counted out seven shillings. After Tilney had turned to the painted paper, still in the room, you said you had been cut twice and never so slighted. Heminges said a clean licence is the only kind he can afford. You did not put the three leaves back.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked, heard the offer, and said afterward that he had never been so slighted.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Tilney",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Found nothing, signed, and said to let the other play be.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted out seven shillings and kept the cut unrestored.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nothing that touches the state",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "seven shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nothing that touches the state",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nothing that touches the state",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took a clean licence and felt slighted",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Edmund Tilney",
+    "William Shakespeare",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "nothing found",
+    "the signature",
+    "seven shillings",
+    "the slight",
+    "let it"
+  ],
+  "quotes": [
+    {
+      "speaker": "edmund_tilney",
+      "text": "I find nothing here that touches the state or any person living."
+    },
+    {
+      "speaker": "edmund_tilney",
+      "text": "Would you have me find something, Master Shakespeare? I can, if you are lonely for it."
+    },
+    {
+      "speaker": "edmund_tilney",
+      "text": "Your other play keeps within its bounds in Shoreditch, I hear. Let it."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "A clean licence is the only kind I can afford."
+    }
+  ]
+}

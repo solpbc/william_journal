@@ -1,0 +1,1 @@
+At the Cross the new wheat was six-and-thirty shillings the quarter, and you did not buy it. A woman at the sacks asked who was buying the barley, and for what. You had paid none, and you said so again. Joan kept the glove stall. You went toward the row with the children. Anne said she would meet you by the bakehouse.

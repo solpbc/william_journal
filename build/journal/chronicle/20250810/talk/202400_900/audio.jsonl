@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 900.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "20:26:10", "text": "Thou hast looked. Come through. I am not standing in a doorway so thou canst find a better line than the one thou hadst this morning.", "timing": {"end": 460.0, "start": 130.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:31:40", "text": "I am through. The stone has the sheet. I am not going back out for a second reading of it.", "timing": {"end": 740.0, "start": 460.0}}
+{"sentence_id": 3, "speaker": "joan_shakespeare", "start": "20:36:20", "text": "The hall is as I left it. Keep it so. I am not lighting a man back into the apples.", "timing": {"end": 750.0, "start": 740.0}}

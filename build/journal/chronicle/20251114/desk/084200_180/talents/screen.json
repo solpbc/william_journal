@@ -1,0 +1,17 @@
+{
+  "narrative": "A black-letter bill on the post by the Bull. The title only. No author's name. No sum. No face. The same bill, still only the title. He has not turned toward the river.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the title, and turned toward the Theatre."
+    },
+    {
+      "type": "Project",
+      "name": "A Toy to Please Chaste Ladies",
+      "role": "mentioned",
+      "context": "Shown on bill in A Toy to Please Chaste Ladies"
+    }
+  ]
+}

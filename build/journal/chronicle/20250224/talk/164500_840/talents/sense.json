@@ -1,0 +1,101 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "After the play Margery Pell called the house two-thirds of Thursday's, and louder, and gave no sum. The Inns had called \"Remuneration!\" before the line, and the gallery had taken up the long Latin word with Costard. Kemp had added thirteen lines. Garnish put the two days at twenty-four, and said there was no song. Kemp said they had laughed at his lines and that he had counted. You said the hush on the messenger was not an accident, and you owned the lines that brought a drifting yard back. Burbage asked whether the ending had worked. You told him what the yard did, not what you had meant. A lawyer at the door asked who made the play, and Burbage pointed with his thumb. James Burbage wants you at the Theatre at ten of the clock in the morning, not at nine in the yard.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Owned Kemp's thirteen, reported the yard rather than his intention, and accepted the morning at the Theatre.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted thirteen lines, said the yard had laughed at his, and refused the compliment of a song.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called the hush no accident, asked about the ending, and pointed with his thumb.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Added eleven and thirteen into twenty-four, and brought word of ten of the clock at the Theatre.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the house as two-thirds of Thursday's, and louder, and would not name a sum.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twenty-four in two days",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard twenty-four lines and told Burbage what the yard did",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Goodwife Margery Pell",
+    "William Shakespeare",
+    "Will Kemp",
+    "Abel Garnish",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two-thirds and louder",
+    "thirteen lines",
+    "twenty-four in two days",
+    "the hush",
+    "the lawyer's question",
+    "ten of the clock"
+  ],
+  "quotes": [
+    {
+      "speaker": "abel_garnish",
+      "text": "Twenty-four in two days. At this rate he will owe us a scene by Easter."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "They laughed at my lines, Will. I counted."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "The hush on the messenger. That was not an accident."
+    },
+    {
+      "speaker": "margery_pell",
+      "text": "Two-thirds of Thursday, Master Shakespeare, and louder"
+    }
+  ]
+}

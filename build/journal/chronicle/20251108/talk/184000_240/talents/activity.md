@@ -1,0 +1,1 @@
+At the stair Mistress Ansell gave you one candle and said she would not light a second. You said you would sit and not walk. You did not say the play was finished. Alse left Gib where he was. Supper, if you take it, is threepence. You promised no errand for next week.

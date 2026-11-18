@@ -1,0 +1,91 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At the cold Theatre Ralph Raye showed a Rose bill for Seleo and Olympo and said the flag was up over the Bankside. He would not give a figure from a book he did not see. Kemp said you stop like Christians while they take three pound. Heminges said the Mayor counts which house played in Lent, and that a season may have a name without every tradesman stopping at once. You said Henslowe will be shut within a fortnight. You did not cross the river, and you named no total in your own book.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called the idleness obedience, refused Henslowe's book, and said a fortnight.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the three pounds, and would not round them.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the stage empty, named the Mayor's count, and would not invent a fine.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ralph Raye brought the bill, reported the flag, and refused a sum he did not see.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Seleo and Olympo",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The flag, not the book",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard the Bankside flag and stayed this side of the river",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "William Blackwage, Ralph Raye, Richard Hoope",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a cold stage",
+    "Seleo and Olympo",
+    "the flag",
+    "three pound",
+    "a fortnight"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "We stop like Christians and they take three pound for it."
+    },
+    {
+      "speaker": "hired_men",
+      "text": "I saw the flag. I did not see his book."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "A season may have a name without every tradesman stopping at once."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Henslowe will be shut within a fortnight, and we shall all be equally idle."
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "After two turns of the glass you stood in the south porch with the household. Sir John Spencer went toward Crosby Place without a sword-bearer. You said the playhouse is dark tomorrow and that the gate is twelve pence. Mistress Ansell is two-and-fifty and is not going. The loaf was a thumb short, and a penny. Gillis Verbeke said Norwich, and said he would name no other town. The fifty leaves are already with Master Garnish. You will write after dinner. The sheet does not go today. Her ink is twopence the horn. You did not buy it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named twelve pence at the gate, the fifty leaves, and a letter that does not go today.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the two glasses, kept the loaf at a thumb and a penny, and would not promise the fire.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Saw Spencer go in alone, and asked about tomorrow's fire.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said Norwich, and refused any other town.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the grace, and blessed the house on the way out.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Passed toward Crosby Place. He did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "twelve pence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The south porch",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The south porch",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "fifty leaves",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The south porch",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood in the south porch and named tomorrow's gate",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "William Shakespeare",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two glasses",
+    "no sword-bearer",
+    "twelve pence at the gate",
+    "a thumb short",
+    "Norwich"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Two glasses, and the last grain gone."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Twelve pence at the gate, and a place behind other men."
+    },
+    {
+      "speaker": "gillis_verbeke",
+      "text": "I have said Norwich. I will say no other town."
+    }
+  ]
+}

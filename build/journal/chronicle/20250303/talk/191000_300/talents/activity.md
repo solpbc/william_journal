@@ -1,0 +1,1 @@
+Mistress Ansell asked which queen, with the eggs in her hand. You told her the masque was heard of only, and that you had not been asked. There were no ruffs to report. You did not give her the plot, and you did not put December's twenty pounds on her board. She kept Tuesday for pancakes if the eggs hold, and Wednesday for fish.

@@ -1,0 +1,17 @@
+{
+  "narrative": "The cue-roll open on the desk, his finger on the opening. The king sheet stays shut beside it. The roll rolled again and set by the ink. The king sheet stays shut.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Conned the opening and shut the roll."
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "context": "Shown on part in The roll at noon"
+    }
+  ]
+}

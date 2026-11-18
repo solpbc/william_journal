@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "About two you were awake. You had been in bed by ten. The leaf was in the folder, unchanged, and you had not said it aloud. You counted three leaves and no name. You did not start another poem.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Woke, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the sonnet folder",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Awake, and not aloud",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Woke about two and counted the three leaves",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the waking",
+    "the folder",
+    "no name"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The leaf is in the folder. I did not change a word of it, and I did not say it aloud."
+    }
+  ]
+}

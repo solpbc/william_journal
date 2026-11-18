@@ -1,0 +1,84 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Abel Garnish said the property hand was missing again and must be a bladder until Saturday. You left the Roman unnamed. John Heminges kept the ten shillings until after the play.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Agreed to the bladder and did not name the Roman.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the missing hand and kept Saturday as the day it returns.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the wage book until after the play.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Titus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A bladder till Saturday",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "ten shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A bladder till Saturday",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Left the property hand a bladder",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "William Shakespeare",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the missing hand",
+    "a bladder till Saturday",
+    "the unnamed Roman"
+  ],
+  "quotes": [
+    {
+      "speaker": "abel_garnish",
+      "text": "The property hand has gone missing again."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am dead by the fourth act."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Ten shillings apiece is after the play, not at this rehearsal."
+    }
+  ]
+}

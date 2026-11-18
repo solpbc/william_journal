@@ -1,0 +1,23 @@
+{
+  "narrative": "The centre of the loose leaf, in the old hand. The margin note is still at the side. The red bundle is apart and knotted. No face. The page stops before any call and before any drinking. The two lines, and empty paper under them. The stylus is poised. He does not write the next word yet. No face. The same two lines. A space under them large enough for one word. The word is not there. The bundle is untouched. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Wrote the two lines of her fear"
+    },
+    {
+      "type": "Project",
+      "name": "the loose leaf",
+      "role": "mentioned",
+      "context": "Shown on draft in Wrote the two lines of her fear"
+    },
+    {
+      "type": "Project",
+      "name": "the vial speech",
+      "role": "mentioned",
+      "context": "Shown on draft in Wrote the two lines of her fear"
+    }
+  ]
+}

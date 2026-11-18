@@ -1,0 +1,125 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You were still on the palace side of the green, and you took the walk. The button stayed lost, and Heminges kept Kemp's story for the inn down the river, not for this grass and not for the Feathers. Phillips allowed no song. Two borrowed cloaks stayed uncounted until daylight. You, Heminges, and Bryan have the one bed. This is the one Sunday, and the prayer is at the inn.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Started the walk, refused a dark count, and named the one Sunday.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the story for the downriver inn, and named the bed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the story, and agreed a green is not an inn.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a song on the grass and a verse on the stair.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took Sam off the floor and left the night's end as a rustle, a cough, and a chair.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Walked, and did not go back to the rushes.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the yeoman from being given a speech, and took the short green.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Beside them, and did not sing.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Already on the stair, and not collected.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took the walk back to the inn",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "John Heminges",
+    "Will Kemp",
+    "Augustine Phillips",
+    "Richard Burbage",
+    "Sam Latchet",
+    "George Bryan"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the walk",
+    "the button unsaid",
+    "two cloaks",
+    "three to a bed"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The button stays lost."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Until the inn, when we are down the river."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "A green is not an inn."
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "And no song on the grass."
+    }
+  ]
+}

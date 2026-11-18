@@ -1,0 +1,88 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Mistress Ansell boiled the ink and you paid twopence for the horn. You stayed in. Titus at two is not yours. The Rose's bill is the first Tamburlaine, and you are not going. You went up to begin a leaf with no name at the head.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid twopence, stayed in, and went up to a nameless leaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Boiled the ink and priced the horn.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked after Titus, and reported Gib on the stair.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Remained on the stair and did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Titus Andronicus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Monday's copper",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "1 Tamburlaine",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Monday's copper",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Paid for the horn and stayed in",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Monday horn",
+    "twopence",
+    "staying in"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Twopence the horn, as it always is"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not in it;"
+    }
+  ]
+}

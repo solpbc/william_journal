@@ -1,0 +1,44 @@
+{
+  "overview": "You read the Rose bill at the lodging and did not go. The title was A Knack to Know an Honest Man, at two, by the Lord Admiral his servants. There was no sum on it. At two you were due at the Theatre.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the title and left the bill on the table."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the Rose bill",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the title",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Theatre at two",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "A Knack to Know an Honest Man",
+      "asset_type": "other",
+      "disposition": "Read A Knack to Know an Honest Man"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-09",
+      "meaning": "A bill, title only"
+    }
+  ],
+  "summary": "Read A Knack to Know an Honest Man"
+}

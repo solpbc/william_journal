@@ -1,0 +1,1 @@
+After the play you wrote four lines. You said the chamber was still yours and that you were well. You gave her nothing of the day. You said Gilbert had agreed to fetch what the carrier left. You named no house, no age, no illness and no fee.

@@ -1,0 +1,1 @@
+You began a letter to Anne, dated from London on the fifth of January 1594. You struck the excuse about the plays. You did not ask her for anything. You did not finish the leaf, and you did not send it.

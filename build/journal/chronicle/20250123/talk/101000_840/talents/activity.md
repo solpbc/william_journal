@@ -1,0 +1,1 @@
+You stood with Bryan in Westminster Hall and heard a client say a grievance at greater length after he had been charged to have it shortened. The short of it was a ditch, a hedge, and three acres, at two shillings, which were the client's. You added nothing to the sheet. Two Gents at two was not yours. The Wise Man was the Rose bill, and you were not going.

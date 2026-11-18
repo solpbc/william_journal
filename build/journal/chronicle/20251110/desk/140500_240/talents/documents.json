@@ -1,0 +1,44 @@
+{
+  "overview": "At two you opened The Comedy of Errors as Egeon and were idle until the end. You did not stay in the play. You brought no plot and no second name away from the door.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Opened as Egeon, and was idle after."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Egeon",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the opening",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "idle till the end",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Comedy of Errors",
+      "asset_type": "other",
+      "disposition": "Opened Errors as Egeon"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-10",
+      "meaning": "Egeon, then idle"
+    }
+  ],
+  "summary": "Opened Errors as Egeon"
+}

@@ -1,0 +1,77 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Anne walked you to the corner by the Guild Chapel at the pace of a funeral, the stick in one hand and her arm at the other. She asked again what she had asked at Shottery in April. You said you work in London and do not live there, and that the house you mean would have your name on the deed and not your father's. She turned you. The great house stood across the lane, brick and timber, falling down. She said that one, then. You said it was the second-largest in the town. She said it would come the cheaper, and that she had passed it every market day these thirteen years. You asked no one whose it was, and you made no inquiry, and you named no price. You asked for three years. She will give you till she believes you.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered where he lives, looked, and asked for three years.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the house, withheld the price and the owner, and kept belief for herself.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the great house by the chapel",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in That one, then",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Looked at the great house and asked for three years",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Shottery in April",
+    "the deed",
+    "the great house",
+    "three years",
+    "till she believes"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "In April I asked you a thing at Shottery."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "You said both, which is neither."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I work there. I don't live there. I've known it since Aylesbury."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "That one, then."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "I'll give you till I believe you."
+    }
+  ]
+}

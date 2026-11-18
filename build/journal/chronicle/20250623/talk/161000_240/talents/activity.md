@@ -1,0 +1,1 @@
+After the comedy you stood with John, Kemp, and Garnish. You had played Navarre. The yard was thin, and John would not set a figure. Kemp had added nothing. Garnish left the tally where it was, nineteen lines and a noise like a goose. You opened no second matter. Kemp and John did not hear the king.

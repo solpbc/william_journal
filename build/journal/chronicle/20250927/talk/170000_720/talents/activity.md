@@ -1,0 +1,1 @@
+At five John read the week on the line and set the share at thirty-four shillings, the best since Whitsun. The morning in apparel had taken no money. A maid's name and the ship are not receipts. The grain stays out of the book. You took the stack. You did not open the coffer, and you did not rule the share into it. Kemp told it out with the name.

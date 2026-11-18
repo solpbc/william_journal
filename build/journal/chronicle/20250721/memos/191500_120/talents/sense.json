@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You said the news was six days old, and that you had been reading the fairy speech to players while the fire was already out. You took \"do not come\" and \"come for harvest\" as one instruction. You kept \"none of ours\" and dropped the forty. You said you will go on foot. You named no road.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the six days, and stopped on the harvest.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in One thing said twice",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Took Anne's two sentences as one instruction",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "six days",
+    "harvest",
+    "the safe house"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "She says don't come. She says come for harvest."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "That's one thing said twice, if you know her."
+    }
+  ]
+}

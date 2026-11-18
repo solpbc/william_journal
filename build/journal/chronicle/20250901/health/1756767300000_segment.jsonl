@@ -1,0 +1,7 @@
+{"day": "20250901", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "083000_240", "stream": "obsidian", "ts": 1756767300000}
+{"change_class": "substantive", "day": "20250901", "event": "sense.change_detect", "mode": "segment", "segment": "083000_240", "stream": "obsidian", "ts": 1756767300001}
+{"day": "20250901", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "083000_240", "stream": "obsidian", "ts": 1756767300002}
+{"day": "20250901", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "140500_60", "stream": "desk", "ts": 1756767300010}
+{"change_class": "substantive", "day": "20250901", "event": "sense.change_detect", "mode": "segment", "segment": "140500_60", "stream": "desk", "ts": 1756767300011}
+{"day": "20250901", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "140500_60", "stream": "desk", "ts": 1756767300012}
+{"day": "20250901", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "140500_60", "stream": "desk", "ts": 1756767300013}

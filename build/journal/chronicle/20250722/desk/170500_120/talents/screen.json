@@ -1,0 +1,17 @@
+{
+  "narrative": "A printed slip on the tiring-house table, the one Margery has already spoken from. No day is on it. He does not take it away, and he does not turn it over.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the charge and left the paper where it was."
+    },
+    {
+      "type": "Project",
+      "name": "the Guildhall trial",
+      "role": "mentioned",
+      "context": "Shown on pamphlet in Five, and no day"
+    }
+  ]
+}

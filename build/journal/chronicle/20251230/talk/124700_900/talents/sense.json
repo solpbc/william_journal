@@ -1,0 +1,81 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Alse left Gib on the Chaucer. Verbeke took his cap for the loom and said again that he would not knock. Mistress Ansell held six to three places. You went toward the stair and left the letter where it was.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the letter in the house as the board was cleared",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the letter in the house as the board was cleared",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the letter in the house as the board was cleared",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the letter in the house as the board was cleared",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "visible in Left the letter in the house as the board was cleared",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate dinner and told the morning's page",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "William Shakespeare",
+    "Gillis Verbeke",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cat left",
+    "the loom",
+    "no fourth place"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Six is six."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not asking for the fourth place."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You said the money felt freer before you counted it, and that counted it is only money, and better that way. The sheet for Anne can wait for the carrier. You did not send it tonight.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said it, and did not add a figure.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the coffer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Counted, it's only money",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Said that counted, it is only money",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "before it is counted",
+    "only money",
+    "the sheet waiting"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Money feels freer before it's counted."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Counted, it's only money. Good. Better that way."
+    }
+  ]
+}

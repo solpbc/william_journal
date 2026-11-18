@@ -1,0 +1,23 @@
+{
+  "narrative": "The almanac open on the board at the twenty-sixth. The margin is blank. The chronicle stays shut. The pen is set down. No second line. No sum.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the mark and closed nothing else."
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "context": "Named in the margin, not written to yet."
+    },
+    {
+      "type": "Tool",
+      "name": "the almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in Susanna, xij"
+    }
+  ]
+}

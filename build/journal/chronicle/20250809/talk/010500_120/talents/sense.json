@@ -1,0 +1,66 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "About one, a casement opened over you. Anne asked who you were talking to. You said a girl at a window, not fourteen, and quick. She told you to let her be quick, and to come to bed. You did not go in then.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered, and did not come in.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked who, asked how long, and told him to come to bed.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the orchard scene",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A girl at a window",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Answered Anne at the casement and stayed out",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the casement",
+    "a girl at a window"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Will. Who are you talking to?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "She's not fourteen. She's quick"
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Then let her be quick, and come to bed"
+    }
+  ]
+}

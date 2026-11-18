@@ -1,0 +1,1 @@
+Ten of you were at the table. Your father asked if they had taken the horse for debt, and you said the horse was dear. Your mother put the heel of the loaf on your trencher and did not speak. The rye is in, and light. The wheat at Shottery stands thin. The barley was stopped before a figure. Richard said the weather will hold, and said nothing else.

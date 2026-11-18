@@ -1,0 +1,23 @@
+{
+  "narrative": "An upper window across the close lit gold, the shadow of a head bent at an instrument. No face. The lane below is empty. You are not in the picture. You do not know the house.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Stopped. Not pictured. Did not go in."
+    },
+    {
+      "type": "Person",
+      "name": "the lady of the parish",
+      "role": "mentioned",
+      "context": "Heard, as the playing. Not named, and not seen as a face."
+    },
+    {
+      "type": "Tool",
+      "name": "the virginals",
+      "role": "mentioned",
+      "context": "In photo: A window lit gold"
+    }
+  ]
+}

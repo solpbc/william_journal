@@ -1,0 +1,85 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "The loaf was a penny and a full thumb short of the notch. The back was the same back you took to church. You ate the soft of it and gave the table no story. You were not writing at her board.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate on the quiet side, and brought no page to the table.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Measured the thumb, and refused a house fed on hints.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the left side, and put the rest under the cloth.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not the dinner. Left where he was.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "a penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A penny, and a thumb",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate the soft of the penny loaf with Mistress Ansell and Alse",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a penny",
+    "a full thumb",
+    "the back",
+    "nothing at the table"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A full thumb short, and the price is still a penny."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A penny is the whole of the business on this board."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The sermon gave me nothing"
+    }
+  ]
+}

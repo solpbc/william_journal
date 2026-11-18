@@ -1,0 +1,89 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "During the second act you were behind the traverse, where you had been since the tale. A hired man could not find his roll in Garnish's chest. You stayed in the chest with him until the right one came up, and you did not rehearse your nerves out loud. Sixty rolls had gone into the chest. The hall went on laughing at the old play. You did not improve it from the tiring-room.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed in the chest until the right roll was in the man's hand, and then went back behind the cloth.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept Friday and Saturday off Sunday's paper, and shut the lid.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sent the wrong roll back, and kept the laugh from being improved.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Queen Elizabeth",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the tiring-room. The hall beyond the cloth was hers to laugh in.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The right roll",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Found the right roll in Garnish's chest",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Abel Garnish",
+    "George Bryan"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Garnish's chest",
+    "the right roll",
+    "sixty rolls",
+    "behind the traverse"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Sixty went into the chest, and a roll does not leave a chest by itself."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "Sunday is the old book. Do not crown a man out of Friday."
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "They are laughing at a thing that is already made."
+    },
+    {
+      "speaker": "(the hired man)",
+      "text": "This is the one. I know the first word."
+    }
+  ]
+}

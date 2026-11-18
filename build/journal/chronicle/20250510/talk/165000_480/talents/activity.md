@@ -1,0 +1,1 @@
+Heminges named your share as eight-and-twenty shillings, against four-and-thirty last Saturday. James said the house stands, and that was the news. No extra was paid for the slippers. You did not count the chest. Nothing was said of Allen. You left in time to be home for the call.

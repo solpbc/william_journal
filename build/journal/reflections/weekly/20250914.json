@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250914",
+    "end": "20250920"
+  },
+  "generated_at": "2025-09-20T22:00:00Z",
+  "days": [
+    {
+      "day": "20250914",
+      "state": "memory",
+      "memory_id": "m-20250914-0"
+    },
+    {
+      "day": "20250915",
+      "state": "memory",
+      "memory_id": "m-20250915-1"
+    },
+    {
+      "day": "20250916",
+      "state": "memory",
+      "memory_id": "m-20250916-2"
+    },
+    {
+      "day": "20250917",
+      "state": "memory",
+      "memory_id": "m-20250917-3"
+    },
+    {
+      "day": "20250918",
+      "state": "memory",
+      "memory_id": "m-20250918-4"
+    },
+    {
+      "day": "20250919",
+      "state": "memory",
+      "memory_id": "m-20250919-5"
+    },
+    {
+      "day": "20250920",
+      "state": "memory",
+      "memory_id": "m-20250920-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250914-0",
+      "key": "mem_20250914_0",
+      "day": "20250914",
+      "text": "Three pews from the Mayor. A cross against the fourteenth. The back is not eased. You know one.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250914/talents/morning_briefing",
+        "briefing_day": "20250914",
+        "refs": [
+          "sol://facets/household/activities/20250914#meeting_091500_720",
+          "sol://facets/household/activities/20250914#meeting_131000_360",
+          "sol://facets/writing/activities/20250914#frame_183000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250915-1",
+      "key": "mem_20250915_1",
+      "day": "20250915",
+      "text": "The back is eased, and the tooth is the same. You played the Knave. The part was not named.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250915/talents/morning_briefing",
+        "briefing_day": "20250915",
+        "refs": [
+          "sol://facets/writing/activities/20250915#frame_084000_180",
+          "sol://facets/household/activities/20250915#meeting_121000_600",
+          "sol://facets/company/activities/20250915#frame_141000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250916-2",
+      "key": "mem_20250916_2",
+      "day": "20250916",
+      "text": "Play on. The book has the two words.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250916/talents/morning_briefing",
+        "briefing_day": "20250916",
+        "refs": [
+          "sol://facets/company/activities/20250916#meeting_091000_480",
+          "sol://facets/writing/activities/20250916#frame_142000_180",
+          "sol://facets/company/activities/20250916#call_165000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250917-3",
+      "key": "mem_20250917_3",
+      "day": "20250917",
+      "text": "The jaw is the size of an egg. You cried revenge through a clove.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250917/talents/morning_briefing",
+        "briefing_day": "20250917",
+        "refs": [
+          "sol://facets/writing/activities/20250917#call_084000_180",
+          "sol://facets/company/activities/20250917#frame_094500_120",
+          "sol://facets/stratford/activities/20250917#frame_113000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250918-4",
+      "key": "mem_20250918_4",
+      "day": "20250918",
+      "text": "Sweet Shakspeare. Kemp stopped eating, and the name has been tried once.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250918/talents/morning_briefing",
+        "briefing_day": "20250918",
+        "refs": [
+          "sol://facets/writing/activities/20250918#frame_100500_120",
+          "sol://facets/writing/activities/20250918#meeting_102000_480",
+          "sol://facets/writing/activities/20250918#photo_105000_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250919-5",
+      "key": "mem_20250919_5",
+      "day": "20250919",
+      "text": "You put thy where my was and put my back. The certificate went to Quiney. A letter cannot leave a man out.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250919/talents/morning_briefing",
+        "briefing_day": "20250919",
+        "refs": [
+          "sol://facets/household/activities/20250919#meeting_082000_360",
+          "sol://facets/company/activities/20250919#frame_141000_120",
+          "sol://facets/writing/activities/20250919#frame_170500_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250920-6",
+      "key": "mem_20250920_6",
+      "day": "20250920",
+      "text": "The name has stuck. The share is twenty-nine shillings. The coffer stands at twenty pound fifteen.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250920/talents/morning_briefing",
+        "briefing_day": "20250920",
+        "refs": [
+          "sol://facets/household/activities/20250920#meeting_131000_300",
+          "sol://facets/company/activities/20250920#meeting_165000_720",
+          "sol://facets/company/activities/20250920#note_201000_180"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250914-0",
+      "key": "said_20250914_0",
+      "day": "20250914",
+      "quote": "I have lost the head he is on. I am not going back for it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250914#meeting_091500_720"
+      }
+    },
+    {
+      "id": "s-20250914-1",
+      "key": "said_20250914_1",
+      "day": "20250914",
+      "quote": "She goes over the hard place till it isn't one.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250914#memo_190000_120"
+      }
+    },
+    {
+      "id": "s-20250915-2",
+      "key": "said_20250915_2",
+      "day": "20250915",
+      "quote": "The back is eased. I am not going to make a feast of it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250915#meeting_121000_600"
+      }
+    },
+    {
+      "id": "s-20250916-3",
+      "key": "said_20250916_3",
+      "day": "20250916",
+      "quote": "Play on. A compliment to a hand, and not a licence.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250916#memo_203000_60"
+      }
+    },
+    {
+      "id": "s-20250917-4",
+      "key": "said_20250917_4",
+      "day": "20250917",
+      "quote": "My jaw is the size of an egg, and I am not fit to be praised.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250917#call_084000_180"
+      }
+    },
+    {
+      "id": "s-20250918-5",
+      "key": "said_20250918_5",
+      "day": "20250918",
+      "quote": "The king is the work of this month, Richard. I am not wasted on what pays the week.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250918#meeting_102000_480"
+      }
+    },
+    {
+      "id": "s-20250919-6",
+      "key": "said_20250919_6",
+      "day": "20250919",
+      "quote": "A sonnet can lie by leaving a man out. A letter can't.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250919#memo_212000_60"
+      }
+    },
+    {
+      "id": "s-20250920-7",
+      "key": "said_20250920_7",
+      "day": "20250920",
+      "quote": "You have me by heart in two days, Will. It took the gentleman of Cambridge a whole book.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250920#meeting_165000_720"
+      }
+    }
+  ]
+}

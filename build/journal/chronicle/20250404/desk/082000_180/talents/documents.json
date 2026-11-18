@@ -1,0 +1,44 @@
+{
+  "overview": "Before you went out you read Gilbert's ticket again. It names the other baker in the High Street, the shoemaker, and the whittawer for skins. It says near five pounds. It does not give the pence. He did not ask you to pay.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the three shops and the near total, and wrote no new figure."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the ticket",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the three shops",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "near five pounds",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Gilbert's shop-ticket",
+      "asset_type": "other",
+      "disposition": "Read the ticket and left the near sum"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-04",
+      "meaning": "The ticket in the sleeve"
+    }
+  ],
+  "summary": "Read the ticket and left the near sum"
+}

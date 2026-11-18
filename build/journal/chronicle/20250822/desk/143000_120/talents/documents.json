@@ -1,0 +1,51 @@
+{
+  "overview": "Gaunt's roll came back to you in Garnish's copyist's fair secretary, cue-words ranged right after the long rule. The dying speech is yours, and in another man's hand it read like someone else's. You have six weeks to get it by heart.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read his own lines in another hand."
+    },
+    {
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "formal_term": "Abel Garnish",
+      "appointment_tier": "not_applicable",
+      "context": "Named by the copy. Not pictured."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Gaunt's roll",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the cue",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the dying speech",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard the Second",
+      "asset_type": "other",
+      "disposition": "Read Gaunt's first cue"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-22",
+      "meaning": "Gaunt, in another man's hand"
+    }
+  ],
+  "summary": "Read Gaunt's first cue"
+}

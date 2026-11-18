@@ -1,0 +1,23 @@
+{
+  "narrative": "Bills at Bishopsgate, black-letter, title only. No author's name. No sum on any of them. Godfrey is today's.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the six titles in order and left the sums unknown."
+    },
+    {
+      "type": "Project",
+      "name": "The French Doctor",
+      "role": "mentioned",
+      "context": "Shown on bill in Six titles, no authors, no sums"
+    },
+    {
+      "type": "Project",
+      "name": "Godfrey of Bulloigne",
+      "role": "mentioned",
+      "context": "Shown on bill in Six titles, no authors, no sums"
+    }
+  ]
+}

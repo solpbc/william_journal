@@ -1,0 +1,117 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Anne kept the sword on the nail. Your father had spoken to the master: tomorrow morning is the leave, and the sword is not for school. You told Hamnet he is back at eleven. Judith put the ribbons under the same rule. You began to describe a cord, and Joan stopped you. Richard was already at the shop door.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set today as the nail and eleven as the return, and took the cord back.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the lane and the school, and sent them out after bread.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave tomorrow morning, and kept the sword out of the form.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped the wooden sword, and stopped the description of the cord.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Split the promise into the morning, the nail, and eleven.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the corner, left the bargain, and did not touch the nail.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put the ribbons under the same rule, and kept hers.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the lath sword",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The nail, and tomorrow morning",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Kept the sword off the school lane",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "Hamnet Shakespeare",
+    "John Shakespeare",
+    "Judith Shakespeare",
+    "Joan Shakespeare",
+    "Susanna Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the nail",
+    "tomorrow morning",
+    "eleven",
+    "the cord"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_shakespeare",
+      "text": "Tomorrow morning, and not the sword."
+    },
+    {
+      "speaker": "joan_shakespeare",
+      "text": "Then do not say it."
+    },
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "Three facts."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Thou art back at eleven."
+    }
+  ]
+}

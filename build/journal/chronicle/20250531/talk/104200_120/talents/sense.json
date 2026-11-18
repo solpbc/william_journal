@@ -1,0 +1,71 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Michael Drayton asked if it was yours. You said it was. He asked if they paid. You said they paid somebody. You did not buy the book.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said it was his, and that they paid somebody.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Michael Drayton",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked the two questions.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The True Tragedie of Richard Duke of Yorke",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in It was. They paid somebody.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Told Drayton it was, and they paid somebody",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Michael Drayton",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Drayton",
+    "the four sentences",
+    "the book left on the board"
+  ],
+  "quotes": [
+    {
+      "speaker": "michael_drayton",
+      "text": "Is that yours?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It was."
+    },
+    {
+      "speaker": "michael_drayton",
+      "text": "Did they pay?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "They paid somebody."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "narrative": "From the Theatre gate, the full moon over Shoreditch church. He has not gone down to the church. The moon is the walk home, seen from here, before the walk begins.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked toward the church, and did not enter it."
+    },
+    {
+      "type": "Tool",
+      "name": "the full moon",
+      "role": "mentioned",
+      "context": "In photo: The moon, from the gate"
+    }
+  ]
+}

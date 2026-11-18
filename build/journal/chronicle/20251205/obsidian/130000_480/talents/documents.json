@@ -1,0 +1,59 @@
+{
+  "overview": "At home you wrote the three numbers he will ask, five and six and ten, and you did not write the five words themselves. You had not answered. You went to play Egeon with the page still a question.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the numbers, and refused the page the decision."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "five",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "six",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "ten",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the line not written",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no answer yet",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Romeo and Juliet",
+      "asset_type": "other",
+      "disposition": "Wrote five, six and ten"
+    },
+    {
+      "name": "The Comedy of Errors",
+      "asset_type": "other",
+      "disposition": "Wrote five, six and ten"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-05",
+      "meaning": "Five words, not yet refused"
+    }
+  ],
+  "summary": "Wrote five, six and ten"
+}

@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "About noon a neighbour's journeyman came to the street door with an account of the morning. You did not go down. You sent Alse to say you were at your work. You were not. The account did not come up the stair.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the door, and was not at his work.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Carried the sentence down and shut the door.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Sent Alse to the door",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the street door",
+    "the unheard account",
+    "a false sentence"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Tell him I am at my work."
+    }
+  ]
+}

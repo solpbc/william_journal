@@ -1,0 +1,1 @@
+Mistress Ansell had sent for Yaxley. He shaved the beard close, once, for the chair, and he did not draw anything. You asked him to leave enough for a stage beard to sit over. Nobody named a price on the stair. The October tooth was mentioned as already paid, and it was not charged again.

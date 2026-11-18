@@ -1,0 +1,1 @@
+After the reckoning, Kemp brought a crushed gingerbread out of his hat. You said the font's day is the one your family can stand upon, though your mother holds by St George, and you gave nobody a number. Heminges asked whether celebrating twice obliges the company twice. Burbage ate a corner before anyone had agreed. You left the day unimportant, and the book stayed shut.

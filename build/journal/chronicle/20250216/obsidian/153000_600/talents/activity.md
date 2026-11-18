@@ -1,0 +1,1 @@
+You answered Anne's January question first, as Gilbert had told you to. You will come at Lent, before Mid-Lent Sunday, and you named no day. You told her the playing stops on Shrove Tuesday, that the Queen's money may be mid-March, and the comedy in four lines. The sheet is dated the 16th of February 1594. It waits in the room for the carrier of the 27th.

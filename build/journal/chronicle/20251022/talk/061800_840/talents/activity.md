@@ -1,0 +1,1 @@
+You came down before Mistress Ansell. Alse had the fire new and the soft side already decided, and she told you not to show that you knew. Gib was on the third tread. You waited, and you did not start on the loaf. From above, she told the room not to be clever yet.

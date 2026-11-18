@@ -1,0 +1,1 @@
+You looked along the nave from the pew. Anne and your mother were at the end of it, their backs to you, in the green light off the river side. A cuff on the nearer wrist was still undone. No child's face was in it, and the churchyard was not in it.

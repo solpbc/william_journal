@@ -1,0 +1,63 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At Holy Trinity you slept through the second lesson with your eyes open, a player's skill, and Anne let you. She did not wake you for a courtesy. No sermon was repeated at the bench afterward. Your father was not in the pew.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Slept through the second lesson",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Slept through the second lesson",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Holy Trinity",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Slept through the second lesson",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Sat the service at Holy Trinity",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the second lesson",
+    "Holy Trinity",
+    "Anne letting him sleep"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "You may sleep it. I am letting you."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "This hour is only the lesson."
+    }
+  ]
+}

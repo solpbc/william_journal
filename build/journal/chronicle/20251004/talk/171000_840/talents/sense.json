@@ -1,0 +1,160 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "After Errors the boxes were opened on the baize. Pennies, half-groats, threepences, a few sixpences, and one clipped shilling Margery swears she never took. Heminges's items were a crown new gilt at three shillings, rosemary and a black pall at fourteen pence, and a looking-glass at four shillings, bought in May and not yet looked in. The galleries this week come to more than a whole house in a June week, with no June figure spoken. The hired men have their ten shillings, a wage, not a deduction from Thursday's eleven pound six. The share is forty-five shillings, the best week. James said a house that takes eleven pound of a Thursday is worth a landlord's envy, and Cuthbert steered him off the lease. Kemp said eleven pound six, and not a line of it his, and wished you would learn to empty a house. Garnish gave him no interest in the king and no principal in the jig. They fixed the king once a week, on a changing day: Tuesday next, then Thursday the sixteenth. Richard said it will be. You took the forty-five and will enter them without a jest.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took forty-five shillings and refused to jest them larger.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the items, the wage, the share, and the changing days, and produced no third figure.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said it will be.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Envied Thursday's house, and named no price.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Cuthbert Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Steered him off the lease, and took his hand off the lid.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read Kemp's tally, and will hang Tuesday and the sixteenth.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called emptying a house the rarer art, and stayed out of the king.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "In the room. No line.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "In the room. Her swear is in Heminges's mouth, where the count already put it.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "45s",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The week's reckoning",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "3s",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The week's reckoning",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "\u00a311 6s",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The week's reckoning",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took forty-five shillings",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Cuthbert Burbage",
+    "Abel Garnish",
+    "James Burbage",
+    "Richard Burbage",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "forty-five shillings",
+    "three shillings",
+    "fourteen pence",
+    "the May glass",
+    "eleven pound",
+    "eleven pound six",
+    "a changing day"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "A crown new gilt, three shillings."
+    },
+    {
+      "speaker": "james_burbage",
+      "text": "A house that takes eleven pound of a Thursday is a house worth a landlord's envy."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Eleven pound six, and not a line of it mine."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "Kemp's interest in the king: nothing, there being nowhere to put it."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "It will be."
+    },
+    {
+      "speaker": "cuthbert_burbage",
+      "text": "Not the lease, Father."
+    }
+  ]
+}

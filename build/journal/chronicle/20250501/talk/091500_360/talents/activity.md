@@ -1,0 +1,1 @@
+At the morning rehearsal you were Navarre at two, for a May Day house in its best clothes. Garnish keeps the licensed book through the comedy and will loose it after Saturday's house. Kemp's lines stay as they are. No new tally was made. You did not show him the king's page.

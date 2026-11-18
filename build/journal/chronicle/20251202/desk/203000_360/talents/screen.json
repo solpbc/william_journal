@@ -1,0 +1,17 @@
+{
+  "narrative": "By one candle, Cowley's old roll is weighted with the paring-knife where the ink has blotted a cue. A fresh strip lies beside it. The hand copies cues and leaves the speeches where they were. The new strip is rolled and tied with packthread. No price is written on it. No song is written on it. It is a part delivered ahead of the morning that will want it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Copied and tied the clean roll."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on part in A clean roll for Cowley"
+    }
+  ]
+}

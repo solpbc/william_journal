@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "The page you kept is the three lines and nothing else. The crossed sentence is not on it. No play is on it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Left the list and did not continue it.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "two hundred",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Pell, Verbeke, Alse",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Kept the three hearings as a list",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the list",
+    "three names"
+  ],
+  "quotes": []
+}

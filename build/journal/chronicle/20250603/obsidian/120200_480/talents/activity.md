@@ -1,0 +1,1 @@
+At the sacks you wrote the three proverbs under Prices. You wrote that you bought nothing, that the penny loaf is still a penny and shrunk on the pan, and that you did not measure it. You wrote the Star Chamber talk as talk you do not know.

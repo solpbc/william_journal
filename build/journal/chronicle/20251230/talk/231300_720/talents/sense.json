@@ -1,0 +1,63 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Alse had put Gib on the Chaucer and went down. You said you would not call the house again. She answered from the second turning. You said good night once more, and it was the last of it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Said good night, and Alse went down",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Said good night, and Alse went down",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "visible in Said good night, and Alse went down",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came home and let Alse shift the cat",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cat shifted",
+    "the second turning",
+    "good night"
+  ],
+  "quotes": [
+    {
+      "speaker": "alse_pinder",
+      "text": "He is on the Chaucer. I am not staying to see if he agrees with it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Good night. That is the second time, and it is the last."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "overview": "In the afternoon you looked at the one page of the other play. You added nothing. There is no new line, and there are no tradesmen on it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked, and added nothing."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "one page",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nothing added",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the other play",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the other play",
+      "asset_type": "other",
+      "disposition": "Looked at the one page"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-02",
+      "meaning": "The one page, still one page"
+    }
+  ],
+  "summary": "Looked at the one page"
+}

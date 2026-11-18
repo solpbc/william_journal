@@ -1,0 +1,94 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Mistress Ansell boiled the Monday ink from galls, copperas, and gum, and filled the horn at twopence. You ate at the board for threepence. You told her only that a letter in the play never came. Gib stayed on the Holinshed. You did not open Field's book. You were cast in the Navarre comedy at two.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid the twopence, ate, and kept the plot out of the kitchen.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Boiled the receipt, named the price, and refused a second telling of Saturday.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the trencher and left the cat where he was.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Stayed on the Holinshed.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Monday's ink",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Navarre comedy",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Monday's ink",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Paid for the horn and ate before the play",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Monday's ink",
+    "twopence the horn",
+    "threepence board",
+    "the Holinshed",
+    "the Navarre comedy"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Twopence the horn, as it has always been."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "There is a letter in the play that never came."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Six years he has been dead, at this tide, and the receipt is still blacker than the scriveners."
+    }
+  ]
+}

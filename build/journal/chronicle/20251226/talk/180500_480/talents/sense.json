@@ -1,0 +1,103 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "In the service room, an hour before, the canopy through the door still had nobody under it. Sam bowed to it from the doorway and was told the bow would do. The fastening was finished by hands that were not yours. Bryan forbade Kemp any line beyond what is set down, and forbade it to her face. Kemp said he had heard. You did not give him room. Burbage told you again that you will not look at the state, and that you will see it. Sam kept both hours. Nick did not sing.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the crown off the head, refused Kemp an explanation in advance, and held both hours.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Bowed to the empty canopy through the door, and kept nine and about ten.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted the bow and forbade the three lines over.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the not-looking, and the size of a whisper.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he had heard the limit, and did not promise a road.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Dressed Armado, and left her laugh as a thing that might happen.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "In the room, and still not singing.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Let Sam bow through the door and held Kemp to the set lines",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Sam Latchet",
+    "George Bryan",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Thomas Pope",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the bow through the door",
+    "what is set down",
+    "not looking at the state"
+  ],
+  "quotes": [
+    {
+      "speaker": "sam_latchet",
+      "text": "There. I am bowing to it from here. The door is as far as I go until you say."
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "Not three lines over. Not to her face. A laugh you have not been given is not a licence."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Thou wilt not look at the state. Thou wilt see it."
+    }
+  ]
+}

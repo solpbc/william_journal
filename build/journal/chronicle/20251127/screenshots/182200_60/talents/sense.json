@@ -1,0 +1,67 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "The brazier's last light was on three faces bent over one sheet. The faces are Kemp, Phillips, and Larkham. Yours is not in the view.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Held the sheet off the middle of the light.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Bent over the sheet.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Bent over the sheet.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Bent over the sheet.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the brazier",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Three faces, one sheet",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Left the light on Kemp, Phillips, and Larkham",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the last light",
+    "three faces",
+    "one sheet"
+  ],
+  "quotes": []
+}

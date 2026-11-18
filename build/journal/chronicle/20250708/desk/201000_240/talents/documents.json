@@ -1,0 +1,44 @@
+{
+  "overview": "After the Knave, which you played and which is not opened here, you looked at the morning's line and kept it. You did not write an hour for Thursday on the sheet.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Underlined the line, and left the hour off."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the wives' line kept",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Knave left closed",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no Thursday hour",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "A Knack to Know a Knave",
+      "asset_type": "other",
+      "disposition": "Kept the wives' line"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-08",
+      "meaning": "The wives, kept"
+    }
+  ],
+  "summary": "Kept the wives' line"
+}

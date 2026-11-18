@@ -1,0 +1,55 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "In the shop you began to explain a knot while Richard was tying a bundle. He told you it would be quicker if you stopped describing it. He tied it himself. He said the skins were in and the money was not. You opened no bill and bought nothing.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Began an explanation and did not open a bill.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Tied the bundle and ended the advice.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Stopped describing the knot",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Richard Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the knot",
+    "the skins",
+    "no bill"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_shakespeare",
+      "text": "It would be quicker if you stopped describing the knot."
+    },
+    {
+      "speaker": "richard_shakespeare",
+      "text": "The skins are in. The money isn't. Same as always."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+The leaf was shut. Field took one lantern as far as the corner of the lane, and no farther. You kept the pages in the fold they had come in. Jacqueline left the cups on the oak. You did not answer her a second time.

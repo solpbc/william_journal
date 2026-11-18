@@ -1,0 +1,17 @@
+{
+  "narrative": "The almanac open at the day, at home. One printed line. No gown in the room. No face. The book shut. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the line at home."
+    },
+    {
+      "type": "Project",
+      "name": "Trinity term",
+      "role": "mentioned",
+      "context": "Shown on almanac in Trinity term opens"
+    }
+  ]
+}

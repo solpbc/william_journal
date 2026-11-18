@@ -1,0 +1,17 @@
+{
+  "narrative": "The plot on its peg in the tiring-house, the morning's order already pricked. He does not move a pin. The boy's name is on the plot where it was yesterday. He checks the bottom of the sheet for a fresh entrance and does not write one. The peg takes the plot back.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Checked the plot and added nothing."
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "context": "Named on the plot, and not given a higher note."
+    }
+  ]
+}

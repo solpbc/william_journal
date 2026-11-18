@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250803",
+    "end": "20250809"
+  },
+  "generated_at": "2025-08-09T22:00:00Z",
+  "days": [
+    {
+      "day": "20250803",
+      "state": "memory",
+      "memory_id": "m-20250803-0"
+    },
+    {
+      "day": "20250804",
+      "state": "memory",
+      "memory_id": "m-20250804-1"
+    },
+    {
+      "day": "20250805",
+      "state": "memory",
+      "memory_id": "m-20250805-2"
+    },
+    {
+      "day": "20250806",
+      "state": "memory",
+      "memory_id": "m-20250806-3"
+    },
+    {
+      "day": "20250807",
+      "state": "memory",
+      "memory_id": "m-20250807-4"
+    },
+    {
+      "day": "20250808",
+      "state": "memory",
+      "memory_id": "m-20250808-5"
+    },
+    {
+      "day": "20250809",
+      "state": "memory",
+      "memory_id": "m-20250809-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250803-0",
+      "key": "mem_20250803_0",
+      "day": "20250803",
+      "text": "The shop was refused. The aim was poor. March's sentence stayed. The row is Thursday.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250803/talents/morning_briefing",
+        "briefing_day": "20250803",
+        "refs": [
+          "sol://facets/stratford/activities/20250803#meeting_090000_600",
+          "sol://facets/stratford/activities/20250803#meeting_111000_480",
+          "sol://facets/household/activities/20250803#meeting_121500_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20250804-1",
+      "key": "mem_20250804_1",
+      "day": "20250804",
+      "text": "Two leaves of the winter list by ten. The shoe waits until six.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250804/talents/morning_briefing",
+        "briefing_day": "20250804",
+        "refs": [
+          "sol://facets/household/activities/20250804#meeting_081000_840",
+          "sol://facets/household/activities/20250804#note_092000_480",
+          "sol://facets/household/activities/20250804#photo_095000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250805-2",
+      "key": "mem_20250805_2",
+      "day": "20250805",
+      "text": "Six till four at the binding, short ears. The lord's ear stays for plays.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250805/talents/morning_briefing",
+        "briefing_day": "20250805",
+        "refs": [
+          "sol://facets/household/activities/20250805#meeting_051500_480",
+          "sol://facets/stratford/activities/20250805#meeting_060500_480",
+          "sol://facets/stratford/activities/20250805#photo_114000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250806-3",
+      "key": "mem_20250806_3",
+      "day": "20250806",
+      "text": "Anne's bag at the door. Examples on a slate. Four lines in the yard.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250806/talents/morning_briefing",
+        "briefing_day": "20250806",
+        "refs": [
+          "sol://facets/stratford/activities/20250806#meeting_091500_600",
+          "sol://facets/household/activities/20250806#meeting_113000_480",
+          "sol://facets/stratford/activities/20250806#meeting_154000_600"
+        ]
+      }
+    },
+    {
+      "id": "m-20250807-4",
+      "key": "mem_20250807_4",
+      "day": "20250807",
+      "text": "Wheat at six-and-thirty. Twenty shillings and a name. Two pounds, a loan, and a pie on Sunday.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250807/talents/morning_briefing",
+        "briefing_day": "20250807",
+        "refs": [
+          "sol://facets/stratford/activities/20250807#meeting_093500_720",
+          "sol://facets/household/activities/20250807#meeting_101000_480",
+          "sol://facets/stratford/activities/20250807#meeting_104000_840"
+        ]
+      }
+    },
+    {
+      "id": "m-20250808-5",
+      "key": "mem_20250808_5",
+      "day": "20250808",
+      "text": "Thirty shillings over the quarter. Twenty pound and eight. The looking was still ahead.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250808/talents/morning_briefing",
+        "briefing_day": "20250808",
+        "refs": [
+          "sol://facets/household/activities/20250808#meeting_094000_480",
+          "sol://facets/household/activities/20250808#meeting_160000_360",
+          "sol://facets/household/activities/20250808#frame_164000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250809-6",
+      "key": "mem_20250809_6",
+      "day": "20250809",
+      "text": "The eighteenth, for letters. She speaks first. You left the line in and came in at half past two.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250809/talents/morning_briefing",
+        "briefing_day": "20250809",
+        "refs": [
+          "sol://facets/household/activities/20250809#meeting_093000_480",
+          "sol://facets/writing/activities/20250809#photo_220000_120",
+          "sol://facets/writing/activities/20250809#frame_221500_600"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250804-0",
+      "key": "said_20250804_0",
+      "day": "20250804",
+      "quote": "I bound behind his sickles before you were tall enough to twist a band. The hands remember the twist.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250804#meeting_152000_480"
+      }
+    },
+    {
+      "id": "s-20250805-1",
+      "key": "said_20250805_1",
+      "day": "20250805",
+      "quote": "I have walked a hundred miles of short corn. In a thin year they buy it standing, and the poor who would eat barley bread find it gone into the steep. The maltsters should be made to sell.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250805#meeting_183000_840"
+      }
+    },
+    {
+      "id": "s-20250805-2",
+      "key": "said_20250805_2",
+      "day": "20250805",
+      "quote": "My lord's ear is kept for plays.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250805#meeting_183000_840"
+      }
+    },
+    {
+      "id": "s-20250806-3",
+      "key": "said_20250806_3",
+      "day": "20250806",
+      "quote": "It is a history until the colander falls off. After that it is a jig, and the jig is not mine.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250806#meeting_154000_600"
+      }
+    },
+    {
+      "id": "s-20250807-4",
+      "key": "said_20250807_4",
+      "day": "20250807",
+      "quote": "The twenty is for the timber. The name is for the dozen. I said both before I had finished thinking the second.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250807#meeting_104000_840"
+      }
+    },
+    {
+      "id": "s-20250808-5",
+      "key": "said_20250808_5",
+      "day": "20250808",
+      "quote": "A house. Here. I've said so.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250808#meeting_160000_360"
+      }
+    },
+    {
+      "id": "s-20250809-6",
+      "key": "said_20250809_6",
+      "day": "20250809",
+      "quote": "He never once asks her. She does it all.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250809#memo_021000_120"
+      }
+    },
+    {
+      "id": "s-20250809-7",
+      "key": "said_20250809_7",
+      "day": "20250809",
+      "quote": "Parting is such sweet sorrow. God. Leave it. Leave it in.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250809#memo_021000_120"
+      }
+    }
+  ]
+}

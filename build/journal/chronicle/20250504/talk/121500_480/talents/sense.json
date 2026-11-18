@@ -1,0 +1,93 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Field said grace long and carved short, and you ate a hen in a French pot while the apprentices stayed at their catechism below. He told you the Lives out of Plutarch are coming off in sheets, and he asked you to come see them hang. He asked after the chronicle and let it go. You said last night's share was four-and-thirty, and you did not bring a purse. Edmund's letter sits until the carrier of the fifteenth. The comedy is to be back before Tuesday. No price was spoken.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the long grace, carved short, named the sheets, and let the chronicle go.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Jacqueline Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the apprentices at their catechism, and kept tomorrow's loaf off the board.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the book, refused a purse and a stall price, and promised the comedy back before Tuesday.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "North's Plutarch",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A hen, and the sheets",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A hen, and the sheets",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A hen, and the sheets",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Ate the hen and heard the Plutarch is coming off in sheets",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Field",
+    "Jacqueline Field",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the hen",
+    "the Plutarch in sheets",
+    "the chronicle let go",
+    "four-and-thirty"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_field",
+      "text": "Come and see it hang"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Last night the share was four-and-thirty"
+    },
+    {
+      "speaker": "richard_field",
+      "text": "I asked. I am letting it go"
+    }
+  ]
+}

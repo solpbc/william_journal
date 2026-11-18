@@ -1,0 +1,1 @@
+You tried the letter out loud and cut it. You kept the three nights as liked, the laugh as once, and the brook as two sentences. You kept nine pounds as a difference. You did not put Richmond, the box, or a house into it.

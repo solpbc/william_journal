@@ -1,0 +1,1 @@
+By dinner the word had come up from the river. Apprentices at Billingsgate had made the fishwives sell at their own price, and by afternoon the cry was not fish. It was strangers, Dutch and French, from street to street. Alse had not gone down to look. You were not cast today or tomorrow, and you kept the house. No one at the table went out to see.

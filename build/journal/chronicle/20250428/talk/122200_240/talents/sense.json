@@ -1,0 +1,84 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Heminges said you are not in the Shrew at two. You are in it Wednesday, in the comedy Thursday, and in the Shrew again Saturday. Garnish will keep the licensed book through Thursday and loose it on Saturday, after you are done. You did not ask for a new tally of Kemp's lines. You went home to the king.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the days you are in, kept the book off the losses, and sent you home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the book through Thursday, and refused a new tally.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for Sunday's reading and agreed to wait until Saturday.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Taming of the Shrew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not in it",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not in it",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Went home and left the licensed book with Garnish",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Abel Garnish"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "not in the Shrew",
+    "Saturday's book",
+    "no new tally"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "The Shrew at two. You are not in it, Will."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "The book stays in my hand through Thursday."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Under my cloak on Sunday. No foul papers."
+    }
+  ]
+}

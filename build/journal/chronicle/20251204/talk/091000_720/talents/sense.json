@@ -1,0 +1,94 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At the copying pass you mended the one vault cue two men had heard differently, and you kept the fire on the word light. You let go a better word for the Friar and a turn in the Nurse's lament. Sam, holding the ink, said you had obeyed the rule mostly applied to boys. Heminges did not praise you. Larkham's boy took four lines to the Bell with the letter of the 16th and the six lines of the 24th. The four lines say the lovers are played on Saturday. No sum was set for the copying.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Chose the cue, let two changes go, and gave the boy the four lines.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Laid the rolls in a row, struck the rejected hearing, and wiped the pen.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused to praise the restraint, and sent the packet by the boy.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the ink, named the rule, and sanded the Friar's place.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in One fault, and two that are not",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in One fault, and two that are not",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Mended one cue and sent the boy",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Humphrey Larkham",
+    "William Shakespeare",
+    "John Heminges",
+    "Sam Latchet"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one fault",
+    "two changes let go",
+    "the boy and the packet",
+    "no praise"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Then light them when he says light, and not before."
+    },
+    {
+      "speaker": "sam_latchet",
+      "text": "You have obeyed the rule that is mostly applied to boys."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "We proceed. I have nothing to add to a man who has already stopped."
+    }
+  ]
+}

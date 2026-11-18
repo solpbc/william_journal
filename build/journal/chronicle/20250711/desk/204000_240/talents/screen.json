@@ -1,0 +1,17 @@
+{
+  "narrative": "The brawl's sheet is still the brawl's sheet. Under the morning's notes from the call you have added nothing that speaks. No feast. No queen of the fairies. The afternoon's play is not on the paper.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the two words, and stopped."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on draft in Heat, and swords"
+    }
+  ]
+}

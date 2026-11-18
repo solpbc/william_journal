@@ -1,0 +1,108 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "With the door shut, John said the Mayor has written to the Lord Treasurer and will blame the playhouses next. James said let him, he is the Lord Chamberlain's man and he will open his own doors, and that sentence was not taken as the vote. John wants it written that you played old comedies and kept the peace. Bryan would send to Kettleby at Greenwich before the Mayor's letter gets there. Margery said the yard is dry tinder, and that she has stood that stair nine years. Kemp had no jest. You said the only safe house in London tomorrow is a shut one, and that it is Sunday. No order has shut the house. You agreed to meet Monday and see what Monday is. The chests take a second iron. The licensed books go to Aldermanbury with John. Garnish carries the parts. John set the July roads as a question, and nobody answered. Richard was present and did not decide. You did not send the king with the licensed books.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said tomorrow's safe house is a shut one, and left Monday as Monday.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the peace in writing, called Margery in, and set the July question without an answer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he would open his own doors, and was not taken as the vote.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed, was bored, and did not decide.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had no jest.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Would send to Kettleby, and would not pretend the answer had come.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called the yard dry tinder, from nine years on the stair.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Agreed to meet Monday and see what Monday is",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "James Burbage",
+    "Richard Burbage",
+    "George Bryan",
+    "William Shakespeare",
+    "Goodwife Margery Pell",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Monday",
+    "the shut house",
+    "nine years"
+  ],
+  "quotes": [
+    {
+      "speaker": "james_burbage",
+      "text": "Let him. I'm my Lord Chamberlain's man and I'll open my own doors."
+    },
+    {
+      "speaker": "margery_pell",
+      "text": "Dry tinder, masters. I've stood that stair nine years."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The only safe house in London tomorrow is a shut one, and it is Sunday, thank God."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "We meet Monday, and we see what Monday is."
+    }
+  ]
+}

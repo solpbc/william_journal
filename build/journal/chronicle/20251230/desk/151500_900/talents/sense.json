@@ -1,0 +1,35 @@
+{
+  "density": "idle",
+  "content_type": "reading",
+  "activity_summary": "The light left the desk and you still had not folded the leaf. You did not light a candle for it. The question stood, and the blank stood.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "attendee in Sat on while the light left the desk",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read the morning's leaf again in the afternoon",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the failing light",
+    "the leaf still open",
+    "no candle yet"
+  ],
+  "quotes": []
+}

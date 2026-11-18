@@ -1,0 +1,17 @@
+{
+  "narrative": "The tables lie open in the hard light, a shirt folded once beside them and the grey cloak over the chair. The pen stops. The chronicle is on the shelf and is not in the line. Under the board, the pages of the wood stay in their stack, and the stack is not numbered.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the list and did not count the pages."
+    },
+    {
+      "type": "Tool",
+      "name": "Holinshed's second volume",
+      "role": "mentioned",
+      "context": "Shown on tables in What goes, and what stays"
+    }
+  ]
+}

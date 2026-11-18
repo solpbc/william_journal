@@ -1,0 +1,44 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Before the play you had Navarre's first line on the part, and the paper crown and the old velvet beside it. You did not write a new word next to the line. The afternoon's playing is not on this page.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the first line, left it, and kept the paper crown beside the part.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Let Fame",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Left the first line as it stood",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the first line",
+    "the paper crown",
+    "old velvet",
+    "no new word"
+  ],
+  "quotes": []
+}

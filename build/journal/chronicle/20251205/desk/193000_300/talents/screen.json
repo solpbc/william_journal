@@ -1,0 +1,17 @@
+{
+  "narrative": "By one candle the chorus roll is open at the first line only. The rest of the sheet is under his hand. He does not turn it up to copy what he is not going to say aloud tonight. The same line, the candle shorter. He does not add a second line under it. The hat for tomorrow is not yet out.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the one line, and covered the rest."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on part in The first words, by candle"
+    }
+  ]
+}

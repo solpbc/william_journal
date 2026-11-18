@@ -1,0 +1,29 @@
+{
+  "narrative": "A single sheet, clerk's hand, no shop's name on it. It lies where a man coming in would see it before supper. The foot of the sheet is blank. Nothing has been added in his hand.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the sheet and did not add a word."
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "mentioned",
+      "context": "Has the precept by heart by supper. She does not speak in this stretch."
+    },
+    {
+      "type": "Project",
+      "name": "blue starch",
+      "role": "mentioned",
+      "context": "Shown on pamphlet in To be read on Sunday next"
+    },
+    {
+      "type": "Project",
+      "name": "Crosby Place",
+      "role": "mentioned",
+      "context": "Shown on pamphlet in To be read on Sunday next"
+    }
+  ]
+}

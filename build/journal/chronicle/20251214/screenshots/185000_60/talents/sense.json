@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "The sketch is crude, the ears run past the margin, and your inked forefinger is at the edge. The jaw is on the leaf. No face of yours is in it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Held the leaf at the edge.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Saw the ears past the margin and an inked forefinger",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the sketch",
+    "the ears",
+    "the forefinger"
+  ],
+  "quotes": []
+}

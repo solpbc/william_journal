@@ -1,0 +1,202 @@
+{
+  "daily_coverage": {
+    "maintenance": {
+      "identity": {
+        "day": "",
+        "name": "daily_schedule"
+      },
+      "evidence_revision": "31004c22128ba7817af9c61712e3f3330bcbf184761312eab1601d1107199e1b",
+      "contract_digest": "ee026c5cb5ebd3cc3d9091f9d6e63f569afac1051df96440693eb3e9489975a1",
+      "state": "outstanding",
+      "reason_code": null,
+      "owed_by": "never_made"
+    },
+    "day": "20250610",
+    "as_of_ms": 1794975930628,
+    "state": "outstanding",
+    "units": [
+      {
+        "identity": {
+          "day": "20250610",
+          "name": "morning_briefing"
+        },
+        "evidence_revision": "a5db7a252f1f68eee9a08cf86e4715ce61b8217aefd579f7dd28b3d34eb7de75",
+        "contract_digest": "40f6ec89fd8b80947c2d431fca4955ff05f86b2beb2696d6671808af2e4f75d1",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250610",
+          "name": "entities:entities_review",
+          "facet": "company"
+        },
+        "evidence_revision": "681a098c22db94ccc9417be84f74791bac71457925414920f65f3319a50e664a",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250610",
+          "name": "entities:entities_review",
+          "facet": "household"
+        },
+        "evidence_revision": "44570fe2254ac65ead13613cd00e75e3895fcf44bd678c9dc93af74507f80b2a",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250610",
+          "name": "entities:entities_review",
+          "facet": "writing"
+        },
+        "evidence_revision": "ecfa28b250c8c556113e3757e133391e9787b7fe921286a95f49f11bd49b7bd7",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250610",
+          "name": "entities:entity_observer",
+          "facet": "company"
+        },
+        "evidence_revision": "5a4657d02d34460a388dc525237912f51b40339b4f18c564ce3001828300f99c",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250610",
+          "name": "entities:entity_observer",
+          "facet": "household"
+        },
+        "evidence_revision": "f6ab017222078897ed0b69fd6a84e584bd769b818dc6f3bf42bc8514a4a6ea14",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250610",
+          "name": "entities:entity_observer",
+          "facet": "writing"
+        },
+        "evidence_revision": "70a60579d40cc6af8d13d7440261d221e79f9f466cef73eeee3b4b83db022058",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250610",
+          "name": "entities:entity_suggest",
+          "facet": "company"
+        },
+        "evidence_revision": "9762094e227e81ecbb1f1c66cdc7480206720f65d2dfaa61c04c0683f20ae893",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250610",
+          "name": "entities:entity_suggest",
+          "facet": "household"
+        },
+        "evidence_revision": "1f18fe34c74840129cfd6e852023b59c8beed7191b7f2888152a7cbb2837545c",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250610",
+          "name": "entities:entity_suggest",
+          "facet": "writing"
+        },
+        "evidence_revision": "9db96f672f54d34fa6a875ebe2936216f4d12c0c43b5376941326e459093650e",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      }
+    ]
+  },
+  "schema_version": 10,
+  "stats": {
+    "transcript_sessions": 3,
+    "transcript_segments": 16,
+    "transcript_duration": 170.0,
+    "transcript_ranges": 4,
+    "percept_sessions": 5,
+    "percept_frames": 14,
+    "percept_duration": 730.0,
+    "percept_ranges": 4,
+    "browser_segments": 0,
+    "pending_segments": 0,
+    "segments_pending_think": 0,
+    "outputs_processed": 0,
+    "outputs_pending": 10,
+    "day_bytes": 106121,
+    "segment_fold_failed": false
+  },
+  "agent_data": {
+    "planning": {
+      "count": 1,
+      "minutes": 1.0
+    },
+    "reading": {
+      "count": 3,
+      "minutes": 10.0
+    },
+    "social": {
+      "count": 2,
+      "minutes": 8.0
+    },
+    "writing": {
+      "count": 3,
+      "minutes": 12.0
+    }
+  },
+  "facet_data": {
+    "company": {
+      "count": 2,
+      "minutes": 6.0
+    },
+    "household": {
+      "count": 2,
+      "minutes": 8.0
+    },
+    "writing": {
+      "count": 5,
+      "minutes": 17.0
+    }
+  },
+  "heatmap_data": {
+    "weekday": 1,
+    "hours": {
+      "3": 4.0,
+      "5": 4.0,
+      "7": 4.0,
+      "9": 4.0,
+      "11": 2.0,
+      "12": 6.0,
+      "13": 6.0,
+      "21": 1.0
+    }
+  }
+}

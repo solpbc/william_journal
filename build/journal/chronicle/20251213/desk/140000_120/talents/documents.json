@@ -1,0 +1,44 @@
+{
+  "overview": "You read the Rose's bill. The title was Seven Days. It named no author. You did not cross the river.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the title, and did not start for the river."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the Rose bill",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Seven Days",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "title only",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Seven Days",
+      "asset_type": "other",
+      "disposition": "Read Seven Days and stayed"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-13",
+      "meaning": "Seven Days"
+    }
+  ],
+  "summary": "Read Seven Days and stayed"
+}

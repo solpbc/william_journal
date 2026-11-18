@@ -1,0 +1,44 @@
+{
+  "density": "active",
+  "content_type": "reading",
+  "activity_summary": "You read the king from the first gage to the castle wall. Two joins are still only marks, \"here a messenger\" and \"here York, angry.\" You drew a line down the margin of a speech that had been pleasant to write, and you did not copy the speech out and did not strike it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the papers through to the wall, and drew the line.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Marks, and one line",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read the king to the castle wall and drew a margin line",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the first gage",
+    "the castle wall",
+    "two joins",
+    "a line in the margin"
+  ],
+  "quotes": []
+}

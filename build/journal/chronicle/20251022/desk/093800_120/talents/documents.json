@@ -1,0 +1,49 @@
+{
+  "overview": "You looked at the book while the ink dried. The eightpence was entered as copying. The next line is blank.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the line and left the next one blank."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the copying line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "eightpence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no total",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "eightpence",
+      "asset_type": "other",
+      "disposition": "Saw eightpence entered for the copying"
+    },
+    {
+      "name": "the company book",
+      "asset_type": "other",
+      "disposition": "Saw eightpence entered for the copying"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-22",
+      "meaning": "Saw eightpence entered as copying"
+    }
+  ],
+  "summary": "Saw eightpence entered for the copying"
+}

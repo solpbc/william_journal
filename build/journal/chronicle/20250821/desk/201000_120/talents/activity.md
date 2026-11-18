@@ -1,0 +1,1 @@
+You wrote the road back as nine shillings, all told. Inside it you wrote the two shillings paid to Hobbins, and twopence for the bed. You did not write what was left in the belt. You did not invent the rest of the nine as a purchase.

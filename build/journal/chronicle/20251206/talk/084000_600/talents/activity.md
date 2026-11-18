@@ -1,0 +1,1 @@
+At breakfast Mistress Ansell said she was going to the Theatre in her church hat. She had never been inside a playhouse. Alse was to sit beside her and not to ask a further question. Gillis Verbeke stayed at the loom. You named no price for the seat. She said she was not discussing a second time. You left before them.

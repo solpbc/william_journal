@@ -1,0 +1,62 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You had paper enough, already bought, and the shop-ticket still in the sleeve. A hundred shillings stays called near. You did not enter the ticket in the book, and you did not hire the horse.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke, and did not open the account book.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "5d quire",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Paper, and a ticket",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "\u00a35 on the shop-ticket",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Paper, and a ticket",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Left the ticket in the sleeve",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Saturday's paper",
+    "the ticket unposted",
+    "a fortnight"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The ticket is in the sleeve. A hundred shillings, called near."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A fortnight is not a horse."
+    }
+  ]
+}

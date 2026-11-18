@@ -1,0 +1,46 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "A watchman stopped you on the bridge, looked in the pack, and let you through. You paid one penny for a quart of ale. The bread and Jacqueline's cheese were already in the pack. You bought neither.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Opened the pack, paid the penny, and ate.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Paid a penny for ale and ate Jacqueline's bread and cheese",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the watchman",
+    "the open pack",
+    "a penny for ale"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "One penny for the quart"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not buying bread"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+At home you read Anne's letter. A woman from Bridge Street is to do the great wash through the winter at fourpence a week, and she has paid it already out of the Michaelmas money. You were told, not asked. You did not write the answer.

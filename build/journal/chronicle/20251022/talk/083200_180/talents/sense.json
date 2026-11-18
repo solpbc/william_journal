@@ -1,0 +1,63 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At the street door, after the almanac, you told her the moon had a day and no hour. She sent you toward nine with the cloth still in her hands. You said the morning was paper and the yard was the afternoon. You did not name either play.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the house toward nine",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the house toward nine",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Left the house toward nine",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Got the cloak and left for the Theatre",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "no hour",
+    "the street door",
+    "paper and the yard"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "It gave me the day, and no hour."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I will not send it looking for you."
+    }
+  ]
+}

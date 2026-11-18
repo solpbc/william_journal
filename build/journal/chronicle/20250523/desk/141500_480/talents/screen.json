@@ -1,0 +1,17 @@
+{
+  "narrative": "A short part. The Shrew's plot is on the post beyond it. His name is beside an old man of the house. It is not beside the lover. No flour in the hair. He is on. The strip is in the hand that is not gesturing. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Went on with the old man's strip."
+    },
+    {
+      "type": "Project",
+      "name": "The Shrew",
+      "role": "mentioned",
+      "context": "Shown on part in An old man of the house"
+    }
+  ]
+}

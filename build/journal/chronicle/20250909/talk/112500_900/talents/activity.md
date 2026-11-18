@@ -1,0 +1,1 @@
+A crust at the Jackdaw started the tooth on the left side, below, and you put the bread down. Pope asked where it pained, and you told him here. Burbage offered a royal progress to the barber. Agnes, who has buried two husbands, offered a clove or a hot knitting-needle. You chose the clove.

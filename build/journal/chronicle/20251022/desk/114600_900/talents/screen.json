@@ -1,0 +1,23 @@
+{
+  "narrative": "The tables lie open and idle. His hands are off them. The red knot is in the grey light at the far side, unopened. No face. From the board, the shut Holinshed with the cat across it. He does not reach. The tables stay as they were. No face. He turns his head. The leaf is unchanged. A voice from the stair, not on the page. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Stopped at the tables and left the bundle knotted"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "context": "Shown on tables in Stopped at the tables and left the bundle knotted"
+    },
+    {
+      "type": "Tool",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "context": "Shown on tables in Stopped at the tables and left the bundle knotted"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At noon you stayed at the lodging. You knew the carrier's yard had been full since before noon, and you did not go. You are in the afternoon comedy, and half past five is when you will meet the horses. The three lines are already written. A fourth, if it is needed, waits until you are at his table. A letter is twopence, and you are not making it a parcel.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named half past five, distinguished a letter from a parcel, and would not skip the afternoon.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Tested the errand, took the threepence, and told him not to answer his wife with a play.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the full yard, offered the loaf, and kept a cup for late.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "the Bell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The yard has been full since before noon",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Navarre",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The yard has been full since before noon",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stayed at the lodging for the comedy",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the carrier's yard",
+    "the afternoon comedy",
+    "twopence against sixpence"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The carrier has been in since before noon."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A letter is twopence."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Do not answer it with a play."
+    }
+  ]
+}

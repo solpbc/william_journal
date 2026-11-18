@@ -1,0 +1,136 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "In the porch Richard Quiney took your hand in both of his and asked you as far as his shop, for the town. Anne put dinner ahead of the shop. You heard him, and you did not say yes. Tuesday at half past six is his coming to your father's table with Alderman Sturley, and the shop stays unpromised.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the ask, and did not grant the shop.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Quiney",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the town, and took Tuesday at the house when the shop was refused.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put dinner ahead of the shop, and fixed half past six as the table.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the south-west wind, and told Quiney to let your hand go.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Warned that Judith had the vicar's voice ready, and counted the nine.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept watch on the children ahead down Old Town.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the three heads of the sermon in order.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Walked ahead with the sermon stored.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Walked ahead in the string of nine.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Walked ahead with the children.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "abraham_sturley",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in As far as my shop",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Took Quiney's hand",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Quiney",
+    "William Shakespeare",
+    "Anne Shakespeare",
+    "Mary Shakespeare",
+    "Susanna Shakespeare",
+    "Joan Shakespeare",
+    "Richard Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the porch",
+    "Quiney's shop",
+    "Tuesday at half past six"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_quiney",
+      "text": "It is not for myself, Will, it is for the town"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have heard you. I have not said yes"
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "The shop does not"
+    }
+  ]
+}

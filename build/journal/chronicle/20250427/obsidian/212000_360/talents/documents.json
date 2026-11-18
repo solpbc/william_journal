@@ -1,0 +1,63 @@
+{
+  "overview": "You wrote that the king and the uncles are still one eloquence, and you left the cure for a morning. Kemp has not seen the page. You did not write Anne a better answer than the one you gave in April. Gib lay on the second volume while you wrote.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the page and did not correct the king yet."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Lay on the second volume."
+    },
+    {
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "formal_term": "Will Kemp",
+      "appointment_tier": "not_applicable",
+      "context": "Has not seen the page, and was not shown it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the king's voice",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "one night more",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the page Kemp has not seen",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the cat",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Left the uncles as fine as the king, for one night"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-27",
+      "meaning": "The same eloquence, for one night more"
+    }
+  ],
+  "summary": "Left the uncles as fine as the king, for one night"
+}

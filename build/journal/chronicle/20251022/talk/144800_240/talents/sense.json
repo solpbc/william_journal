@@ -1,0 +1,76 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You came off and stayed in the tiring-house. Pope told you not to narrate the exit. Nick had heard a laugh through the cloth and did not go out to see it. You told him he was not the crowd. You did not describe what you had been doing on the stage, and you did not name the part.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Came offstage and stayed in the tiring-house",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Came offstage and stayed in the tiring-house",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Came offstage and stayed in the tiring-house",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "the tiring-house",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Came offstage and stayed in the tiring-house",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Came in for the afternoon play",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Pope",
+    "William Shakespeare",
+    "Nick Sorrell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "offstage",
+    "the laugh through the cloth",
+    "no second yard"
+  ],
+  "quotes": [
+    {
+      "speaker": "nick_sorrell",
+      "text": "Hearing is not going out to look."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "This room is not a second yard."
+    },
+    {
+      "speaker": "thomas_pope",
+      "text": "The yard is loud enough without a man telling his own exit back to us."
+    }
+  ]
+}

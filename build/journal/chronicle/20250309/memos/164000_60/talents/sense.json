@@ -1,0 +1,58 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At the window you said the 14s 6d was meant to trouble you, and that you had missed it in a hurry at the Bell. The harsh page went into the candle. Nothing was paid, and the letter you kept is still unsent.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke at the window, and put the harsh page into the flame.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "14s 6d at the whittawer's",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Fourteen and six",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Burned the harsh page",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the missed postscript",
+    "the burned reply",
+    "oak-gall in the flame"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Fourteen and six, and it need not trouble me. It's meant to."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Very fierce, and nothing paid."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Just news. It's rarer."
+    }
+  ]
+}

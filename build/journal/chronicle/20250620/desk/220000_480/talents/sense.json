@@ -1,0 +1,44 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "By one candle you wrote the garden scene. A queen hides among the trees. Two gardeners bind the apricocks and pull the weeds, and they know more of the realm than she does. The misrule is in caterpillars and in pruning. The sheet was thirty-odd lines. Her last line curses his plants, and you left the curse in. The deposing was already written on the sheets behind this one. You did not write the prison, and you did not write the end.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the thirty-odd lines and left the curse in.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Thirty-odd lines",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote the gardeners through to the queen's curse",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the gardeners",
+    "the apricocks",
+    "thirty-odd lines",
+    "the curse"
+  ],
+  "quotes": []
+}

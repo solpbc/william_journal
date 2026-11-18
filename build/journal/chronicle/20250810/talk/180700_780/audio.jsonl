@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 780.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "18:08:20", "text": "The light.", "timing": {"end": 480.0, "start": 80.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "18:15:00", "text": "Home.", "timing": {"end": 490.0, "start": 480.0}}

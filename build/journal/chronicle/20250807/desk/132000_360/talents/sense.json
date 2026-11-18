@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote the twenty shillings to a neighbour's building, and under it the forty shillings lent to Quiney, to be had again, a pound at Martinmas and a pound at Lady Day, no use. You did not add the lines, and you did not rule a total.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the two lines, and did not add them.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Wrote the timber and the loan as two lines",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the timber",
+    "the loan",
+    "no total"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,68 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Florio called from my lord's house in Holborn, five weeks after the lodge. My lord had the paper. He was at court for the Shrovetide running, and he has it by him still. Florio said he is glad you prosper, and that he said it as it was said. Nothing more was offered, and you did not ask. He gave you peregrinate, perambulate, and walk, and the proverb. You said you thought one proverb wrong. He said it is not wrong, it is only English, and he asked you to send it to him before a printer. You did not copy it out.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the message, refused the further question, and did not sit down to a copy.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Florio",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Delivered the sentence as he was given it, filled the rest with words, and asked for the proverb before a printer.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the paper left at the lodge",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in It is only English",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Heard that the paper was received",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Florio",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the paper received",
+    "nothing more",
+    "the proverb only English",
+    "no printer today"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_florio",
+      "text": "He bids me say he is glad you prosper. I say it as he said it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "One proverb, and I think it is wrong."
+    },
+    {
+      "speaker": "john_florio",
+      "text": "It is not wrong. It is only English."
+    }
+  ]
+}

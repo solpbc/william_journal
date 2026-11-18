@@ -1,0 +1,111 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Margery Pell said they were all over the water for a new play with a giant in it. Raye had seen Alleyn in a lion's skin with a club like a ship's mast, and monsters, and he would not swear how tall they were. Burbage asked the height and scowled into his cup. James asked the timber's cost, forbade an invented sum, and named Blackwage and Hoope at ten shillings the week. The term runs to the second of June. You were not in Titus. You invented no price and announced no second part.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the gowns, the thin yard, and the giant over the water.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Raye reported the end, the skin, the mast, and the monsters, and swore no height.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked how tall, scowled into the cup, and refused a club.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked the timber, forbade a sum, and named ten shillings and the second of June.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he had not gone, kept the king at home, and left.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edward Alleyn",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named as the man in the skin. He was not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "1 Hercules",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The lion's skin",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Titus Andronicus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The lion's skin",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard of Alleyn in a lion's skin",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Goodwife Margery Pell",
+    "James Burbage",
+    "William Shakespeare",
+    "Richard Burbage",
+    "William Blackwage, Ralph Raye, Richard Hoope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a thin yard",
+    "the lion's skin",
+    "no height",
+    "ten shillings"
+  ],
+  "quotes": [
+    {
+      "speaker": "margery_pell",
+      "text": "They're all over the water. There's a new play with a giant in it"
+    },
+    {
+      "speaker": "hired_men",
+      "text": "Alleyn in a lion's skin, and a club like a ship's mast, and monsters"
+    },
+    {
+      "speaker": "james_burbage",
+      "text": "Invent me no sum"
+    }
+  ]
+}

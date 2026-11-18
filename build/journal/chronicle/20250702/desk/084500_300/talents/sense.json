@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You looked at your part for the afternoon. You are in Two Gentlemen at two. The cues are clean. Brooke stays shut beside the roll. You did not write a line of the other story.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the cues and left the poem shut.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Two Gentlemen of Verona",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Two Verona plays on one board",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Brooke's Romeus and Juliet",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Two Verona plays on one board",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Checked the cues for Two Gentlemen",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the part",
+    "Two Gentlemen at two",
+    "Brooke shut"
+  ],
+  "quotes": []
+}

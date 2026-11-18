@@ -1,0 +1,1 @@
+You sat through morning prayer at St Helen's. The pew in the north aisle was empty. Master Thwaite added a prayer for the dearth and for a quiet town. Mistress Ansell told you dinner was pease. You did not mark the almanac, and you did not name anyone who was not there.

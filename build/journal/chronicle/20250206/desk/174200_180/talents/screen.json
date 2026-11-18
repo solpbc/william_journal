@@ -1,0 +1,17 @@
+{
+  "narrative": "A short letter in a household hand, opened beside a sewn packet. Packhorses beyond it. Grey wet light. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the leaf and did not add a question to it."
+    },
+    {
+      "type": "Project",
+      "name": "the Candlemas letter",
+      "role": "mentioned",
+      "context": "Shown on letter in Her letter, as far as the well"
+    }
+  ]
+}

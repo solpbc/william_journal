@@ -1,0 +1,17 @@
+{
+  "narrative": "A spoiled leaf turned over on the board. The sketch is crude, the ears past the edge of the writing, a line for a hinge at the jaw. No speech of the queen is on this side. The earlier leaf stays in the pile, face down. Three short lines in the margin, smaller than the sketch. He does not cross them out. He does not turn it into a description of a mask. He lifts the corner of the pile and lets it fall. He does not copy the waking speech onto this leaf. The cat has been put on the floor. The board is the sketch and the margin and nothing else.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Checked the margin and left the other leaf in the pile."
+    },
+    {
+      "type": "Project",
+      "name": "A Midsummer Night's Dream",
+      "role": "mentioned",
+      "context": "Shown on draft in Canvas and paste"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+At rehearsal the tally stayed at twenty-four lines, with nothing added and no song. You told them not to shorten the loss of the wife. You are idle from the opening until the end. No one brought a price from the Theatre into the parlour. The Sunday letter stayed at the lodging for the Bell after the play.

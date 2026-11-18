@@ -1,0 +1,69 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You kept her line on the Michaelmas money, when it falls and not before, and the ladder of rope. The parcel stayed tied.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the two sentences, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Unanswered in the yard. Her money waits until it falls.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Already gone with the sealed sheet.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "a hundred miles",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A ladder of rope",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Kept the Michaelmas line and the ladder of rope",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "when it falls and not before",
+    "a ladder of rope"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "'When it falls and not before.' She keeps my books for me at a hundred miles."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Rope. A ladder of rope. Hm."
+    }
+  ]
+}

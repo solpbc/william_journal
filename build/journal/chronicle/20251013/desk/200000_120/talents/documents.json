@@ -1,0 +1,39 @@
+{
+  "overview": "After you had told Gilbert, you wrote one line in the almanac against tomorrow. It names Yaxley at ten. It names nothing else.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the line and did not add a price or a reason."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the almanac",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "tomorrow at ten",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the penny almanac",
+      "asset_type": "other",
+      "disposition": "Wrote Yaxley against tomorrow"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-13",
+      "meaning": "Against tomorrow"
+    }
+  ],
+  "summary": "Wrote Yaxley against tomorrow"
+}

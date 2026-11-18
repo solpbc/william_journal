@@ -1,0 +1,23 @@
+{
+  "narrative": "The tables on a bench at the side of the stage, one line. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the line."
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "mentioned",
+      "context": "Is whose entrance the line is for. He was not at the bench."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in From the door, not the book"
+    }
+  ]
+}

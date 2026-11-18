@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "josias_thwaite", "start": "17:15:00", "text": "St James, and the street louder than the feast.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "17:15:12", "text": "I have been up a printer's stair, and I am here for the prayer.", "timing": {"end": 24.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "josias_thwaite", "start": "17:15:24", "text": "Then the prayer. I have no news I mean to add to a psalm.", "timing": {"end": 36.0, "start": 24.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "17:15:36", "text": "Nor I. The errands are done, and the prayer can be the prayer.", "timing": {"end": 46.0, "start": 36.0}}

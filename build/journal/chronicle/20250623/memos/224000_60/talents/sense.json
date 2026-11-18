@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At home you said it was a feast with the guard set on it, that there was fire and nobody easy, and that it ought to have been the merriest night of the year. You did not add a fourth sentence.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the three sentences and did not continue.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said it ought to have been the merriest night of the year",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the guard",
+    "the fire",
+    "the merriest night"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "A feast with the guard set on it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Fire, and nobody easy."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It ought to be the merriest night of the year."
+    }
+  ]
+}

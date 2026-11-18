@@ -1,0 +1,1 @@
+You wrote the stoop in prose, as a question about the lords' faces, and you wrote under it that the ground speech is not this month. Thursday stayed the duke. You did not turn the sentence into verse.

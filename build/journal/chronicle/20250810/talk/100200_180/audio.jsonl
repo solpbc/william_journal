@@ -1,0 +1,8 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "10:02:00", "text": "In. Same pew. Sit, before the parish makes a study of you.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "10:02:12", "text": "I am sitting.", "timing": {"end": 18.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "mary_shakespeare", "start": "10:02:18", "text": "You are folding. There is a difference. Button the cuff. The ink is still in it from the night.", "timing": {"end": 32.0, "start": 18.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "10:02:32", "text": "The cuff will not hear the lesson.", "timing": {"end": 40.0, "start": 32.0}}
+{"sentence_id": 5, "speaker": "anne_shakespeare", "start": "10:02:40", "text": "Nor will you, if you begin now. Dinner is after. This part is only the sitting down.", "timing": {"end": 64.0, "start": 40.0}}
+{"sentence_id": 6, "speaker": "mary_shakespeare", "start": "10:03:04", "text": "Up while they stand. You may fold when they sit. And leave the other place empty. I am not discussing it.", "timing": {"end": 78.0, "start": 64.0}}
+{"sentence_id": 7, "speaker": "william_shakespeare", "start": "10:03:18", "text": "I see it empty. Three of us are sat, and I have nothing to put there.", "timing": {"end": 88.0, "start": 78.0}}

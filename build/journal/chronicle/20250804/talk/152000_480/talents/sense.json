@@ -1,0 +1,109 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "In the afternoon Richard brought word that the sickles start at Hewlands at six. You tried the old shoes over doubled hose, and they went on. Joan took them to grease the heel-seam. The play bundle stayed tied, and Anne wanted you home before Quiney and Sturley sit down at half past six.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Tried the shoes on and took them off again until morning.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told you to take a guard for the thistles, and to be back before half past six.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the word, and offered the guard from the peg.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the shoes to grease the heel-seam.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "hewlands_shottery",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sickles at six",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "richard_quiney",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sickles at six",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "abraham_sturley",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sickles at six",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "bartholomew_hathaway",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sickles at six",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Tried the old shoes for six in the morning",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Shakespeare",
+    "William Shakespeare",
+    "Anne Shakespeare",
+    "Joan Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "six o'clock at Hewlands",
+    "the old shoes",
+    "the tied bundle"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_shakespeare",
+      "text": "Standing on a rush mat is not ten hours in barley stubble"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The hands remember the twist"
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Tomorrow is a back, not a quill"
+    }
+  ]
+}

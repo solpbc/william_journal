@@ -1,0 +1,17 @@
+{
+  "narrative": "Bishopsgate at dusk, looking south toward the close. Shop shutters going up. One torch at a door, not a bonfire. The kennel catching a little light. No moon. No one hailed. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Passed the doors and went on toward the close."
+    },
+    {
+      "type": "Company",
+      "name": "Bishopsgate",
+      "role": "mentioned",
+      "context": "In photo: Dusk on the way home"
+    }
+  ]
+}

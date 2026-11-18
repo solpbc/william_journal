@@ -1,0 +1,63 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the porter's lodge you left a paper sealed and small, for Master Florio to give or not as he judged. The porter said he knew the name. My lord was at court. Master Florio was within and teaching, and you did not see him. You sat four minutes on the bench. You were not asked further in. You did not say what the paper held.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the paper, sat four minutes, and came away.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Florio",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Was named as within and teaching, and was not in the lodge.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Henry Wriothesley, 3rd Earl of Southampton",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Was named as at court, and was not in the lodge.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Left the paper at the lodge and sat four minutes",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the lodge bench",
+    "four minutes",
+    "Master Florio",
+    "my lord at court"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "to give or not as he judges."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have sat the four minutes."
+    }
+  ]
+}

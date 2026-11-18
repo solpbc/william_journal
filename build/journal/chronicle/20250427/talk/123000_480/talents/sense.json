@@ -1,0 +1,117 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Gilbert came after church with the packet unopened, three days in his other doublet. You read the roofed frame, the money with no sum, and the porch, and you answered him with your father's sentence. Susanna's line is correct, Hamnet won a race, and Judith's drawing is labelled by her sister. He left before you read the sheet again. Mistress Ansell kept the letter off her pot.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read the letter, gave the porch back his father's sentence, and kept the second reading for himself.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gilbert Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Carried the packet unopened, read over your shoulder, and asked whether the porch was your doing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Let him as far as the settle, and kept the letter off the pot.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Wrote that the frame is roofed, the money came safe, and the porch has been quiet.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "John Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Said it is the weather.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Wrote the correct line, and labelled her sister's drawing.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Reported a race won.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Drew a man on a stage with his arms out.",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "Chapel Street",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The packet, three days in the other doublet",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Read Anne's late letter while Gilbert was there",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Gilbert Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the unopened packet",
+    "the Chapel Street frame",
+    "the porch",
+    "the three lines"
+  ],
+  "quotes": [
+    {
+      "speaker": "gilbert_shakespeare",
+      "text": "Is the porch your doing?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It's the weather."
+    },
+    {
+      "speaker": "gilbert_shakespeare",
+      "text": "Father talking."
+    }
+  ]
+}

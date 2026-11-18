@@ -1,0 +1,82 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You stood in the south aisle for the long gospel. The parish was in black. Master Thwaite did not hurry it, and he looked at nobody. A quarter was gone and he was not yet at the cross. You wrote nothing. You left the morning's question at home. There was no bread and no cup.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood, wrote nothing, and left the question at home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read the long gospel, refused haste, and looked at nobody.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the aisle from being trimmed, and kept it from becoming a report.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the ledge was bare, and that there was no bread and no cup.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood for the long gospel in black",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the long gospel",
+    "the parish in black",
+    "nothing written",
+    "no bread and no cup"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "The gospel this morning is the long one."
+    },
+    {
+      "speaker": "josias_thwaite",
+      "text": "The parish is in black."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will have written nothing."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "There is no bread on the ledge, and no cup."
+    }
+  ]
+}

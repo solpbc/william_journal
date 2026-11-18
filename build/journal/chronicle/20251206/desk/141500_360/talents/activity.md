@@ -1,0 +1,1 @@
+You walked out alone and spoke the first words. The line was "Two housholds both alike in dignitie". The yard had been full since one. Mistress Ansell was in the lower gallery in her church hat, with Alse beside her. She had never been inside a playhouse.

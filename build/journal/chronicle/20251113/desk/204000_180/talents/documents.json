@@ -1,0 +1,49 @@
+{
+  "overview": "At night you looked at the signed last leaf. Nothing in the play was struck. You did not take the signature as a reason to restore the other play. Let it stood.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked, and left both plays as the morning had left them."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the signed leaf",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nothing struck",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the other play let alone",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the lovers' play",
+      "asset_type": "other",
+      "disposition": "Looked at Tilney's signature on the last leaf"
+    },
+    {
+      "name": "seven shillings",
+      "asset_type": "other",
+      "disposition": "Looked at Tilney's signature on the last leaf"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-13",
+      "meaning": "The signed last leaf"
+    }
+  ],
+  "summary": "Looked at Tilney's signature on the last leaf"
+}

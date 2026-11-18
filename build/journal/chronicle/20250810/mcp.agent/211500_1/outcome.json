@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "timestamp": "2025-08-10T20:15:00Z",
+  "outcome": "served",
+  "reason": null,
+  "result": {
+    "count": 1,
+    "targets": [
+      "facets/stratford/activities/20250810.jsonl#meeting_142000_120"
+    ],
+    "digest": "17af412cc3bdbf35f87133b764b128e51324454acf23a2a9745c7fabfb0e21ad"
+  }
+}

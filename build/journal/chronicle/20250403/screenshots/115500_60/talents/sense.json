@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "Anne was at a stall with her hand on the rind of a cheese. Your hand was on the basket handle in the foreground.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "attendee in Her hand on the rind",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Judged the cheese with her hand on the rind.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Held the basket while Anne judged the rind",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cheese",
+    "her hand",
+    "the basket handle"
+  ],
+  "quotes": []
+}

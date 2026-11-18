@@ -1,0 +1,17 @@
+{
+  "narrative": "The Rose from the Bankside walk: the flag up, wherries thick at the stairs.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Stood on the Bankside walk and went in."
+    },
+    {
+      "type": "Company",
+      "name": "the Rose",
+      "role": "mentioned",
+      "context": "In photo: The flag, and the stairs"
+    }
+  ]
+}

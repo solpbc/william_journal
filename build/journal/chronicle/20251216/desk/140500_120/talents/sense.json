@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "You read the Rose's afternoon, Harry the Fifth at two, and you did not go. Your own house had an afternoon of its own.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the bill and stayed in his own yard.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Philip Henslowe",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Not in the yard. His afternoon was on the board, and that was all.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Harry the Fifth",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Harry the Fifth, not this yard",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read Harry the Fifth on the board",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Rose bill",
+    "Harry the Fifth",
+    "not this yard"
+  ],
+  "quotes": []
+}

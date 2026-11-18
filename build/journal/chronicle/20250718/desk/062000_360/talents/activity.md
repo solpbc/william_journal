@@ -1,0 +1,1 @@
+You gave them one sonnet between them, and it opens on his unworthy hand and her holy shrine. Above it you noted serving-men, napkins, and joint-stools, for whoever is a servant that day. You did not write another man's line into the margin.

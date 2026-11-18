@@ -1,0 +1,1 @@
+You counted twenty-six pound and eight shillings. Six went into the belt, and twenty pound and eight stayed under two locks. The pack-list ended shorter than either first list. Mistress Ansell asked the plot of walking a hundred miles, and you said a man goes home. Verbeke tied the knot. Alse asked about players, and you said not this month.

@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Just in the door, you laughed once and stopped. You called the precept a war with a colour, and you kept it for a constable.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the three sentences and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the precept against blue starch",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A war with a colour",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Laughed once, and stopped",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a war with a colour",
+    "a constable",
+    "the laugh stopped"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "A city going hungry, and its magistrate at war with a colour."
+    }
+  ]
+}

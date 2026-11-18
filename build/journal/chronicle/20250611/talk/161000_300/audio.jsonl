@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 300.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "margery_pell", "start": "16:10:00", "text": "An ordinary stair. I have my line, and it is only that. I am not making you a Whit Monday of a Wednesday.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "richard_burbage", "start": "16:10:14", "text": "Thou playedst, the flag comes down, and the yard goes home. That is a playing day. Do not dress it.", "timing": {"end": 28.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "16:10:28", "text": "I will not dress it. Two Gentlemen, and nothing in it that asks a crowd to be a crowd.", "timing": {"end": 40.0, "start": 28.0}}
+{"sentence_id": 4, "speaker": "margery_pell", "start": "16:10:40", "text": "Then we are done. The stair is clear enough. Go home while it is.", "timing": {"end": 50.0, "start": 40.0}}
+{"sentence_id": 5, "speaker": "richard_burbage", "start": "16:10:50", "text": "Go home, Will. Thou hast the look of a man who left a page upstairs on purpose.", "timing": {"end": 60.0, "start": 50.0}}

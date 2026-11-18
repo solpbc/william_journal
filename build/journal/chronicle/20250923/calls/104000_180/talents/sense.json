@@ -1,0 +1,80 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "My lord of Southampton called from Holborn, where he is for two nights, with Florio frowning at his elbow. He called poems left for players a desertion. You told him the players pay by the week, and that you do not forget his honour. He is to run at the tilt, and he asked you to come and see him unhorsed. The court is certain he is in love. He asked for fourteen lines to send with a pair of gloves, for a lady he did not name. She mocks him. You told him of the friar. Florio's horse would not wait. You gave no verse, and you promised none.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood, answered, and did not promise a line.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Henry Wriothesley, 3rd Earl of Southampton",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named himself and Holborn, asked for the fourteen lines, and commended him.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Florio",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "At his elbow, frowning, and then a horse off the stair. He was not a third voice in the talk.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "fourteen lines",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in From Holborn, for two nights",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Heard Southampton ask for fourteen lines",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Henry Wriothesley, 3rd Earl of Southampton",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Holborn",
+    "fourteen lines",
+    "the gloves",
+    "the friar"
+  ],
+  "quotes": [
+    {
+      "speaker": "henry_wriothesley_southampton",
+      "text": "They tell me you've left off poems for players."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The players pay by the week, my lord."
+    },
+    {
+      "speaker": "henry_wriothesley_southampton",
+      "text": "Fourteen lines, such as you make, that a man might send with a pair of gloves"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "My lord, I have a friar who bids his lovers love moderately."
+    }
+  ]
+}

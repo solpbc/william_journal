@@ -1,0 +1,1 @@
+You came off the bed with the three words written and nothing in your hands. Alse brought you to the cloak. Mistress Ansell was already at the street door and called up. Gib had not moved. You started down the long way round him.

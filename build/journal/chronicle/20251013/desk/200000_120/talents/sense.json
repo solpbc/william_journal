@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "After you had told Gilbert, you wrote one line in the almanac against tomorrow. It names Yaxley at ten. It names nothing else.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the line and did not add a price or a reason.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Against tomorrow",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Wrote Yaxley against tomorrow",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the almanac",
+    "tomorrow at ten"
+  ],
+  "quotes": []
+}

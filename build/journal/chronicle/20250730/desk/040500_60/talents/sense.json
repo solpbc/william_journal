@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "At first light, still at Grendon, you looked at the tables. The four words were still there, unwiped. You did not add a line.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the leaf and did not wipe it.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read the four words",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the four words",
+    "first light",
+    "the unwiped leaf"
+  ],
+  "quotes": []
+}

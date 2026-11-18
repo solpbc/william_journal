@@ -1,0 +1,23 @@
+{
+  "narrative": "A fair roll in Garnish's hand, held down on the cold stage by a lead. Nine short speeches are in your hand above his copy-marks. Two are struck through. No one else is on the stage yet.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Checked the fair hand against the two cuts."
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "context": "Had recopied the roll, and marked it so."
+    },
+    {
+      "type": "Tool",
+      "name": "Kemp's roll",
+      "role": "mentioned",
+      "context": "Shown on part in Into the book"
+    }
+  ]
+}

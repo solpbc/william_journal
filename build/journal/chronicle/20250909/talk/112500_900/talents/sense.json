@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "A crust at the Jackdaw started the tooth on the left side, below, and you put the bread down. Pope asked where it pained, and you told him here. Burbage offered a royal progress to the barber. Agnes, who has buried two husbands, offered a clove or a hot knitting-needle. You chose the clove.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put the bread down, pointed, and chose the clove.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked where it pained, and got a place.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Offered a royal progress to the barber, and was refused.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Agnes Tipping",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the clove and the hot knitting-needle, and did not heat the needle.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "two husbands",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Where it pains",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Chose the clove",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Agnes Tipping",
+    "Thomas Pope",
+    "William Shakespeare",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the crust",
+    "the left side",
+    "the clove",
+    "the knitting-needle"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_pope",
+      "text": "Where does it pain you today, Will?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "For once, where I say. Here."
+    },
+    {
+      "speaker": "agnes_tipping",
+      "text": "A clove, held on it. Or a hot knitting-needle"
+    }
+  ]
+}

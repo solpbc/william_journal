@@ -1,0 +1,23 @@
+{
+  "narrative": "Dawn at the bridge: Richard's hands handing a parcel up to a pack-saddle, and the leader's bells.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "In The parcel and the bells"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "mentioned",
+      "context": "Handed the parcel up, and did not speak."
+    },
+    {
+      "type": "Tool",
+      "name": "the pack",
+      "role": "mentioned",
+      "context": "In photo: The parcel and the bells"
+    }
+  ]
+}

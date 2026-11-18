@@ -1,0 +1,1 @@
+You turned back to the Verona page of 6 March and wrote one word, dignitie, into the gap, in ink browner than March. Worth, state, and name stay above it as the old queries. Under the word you set down that both houses are the same, and that neither is the wicked one. You noted the Rose bill, The Disguises, and that you had not gone.

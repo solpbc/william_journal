@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "After Two Gentlemen the report was an ordinary house. Margery gave no sum and no alarm. Burbage called it a playing day and left it there. You did not dress it. You went home.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused to make the house into news, and went home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called it a playing day and sent him home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave a flat report and no sum.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Two Gentlemen",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in An ordinary house",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard an ordinary report and went home",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Goodwife Margery Pell",
+    "Richard Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Two Gentlemen",
+    "an ordinary house",
+    "the flag down"
+  ],
+  "quotes": [
+    {
+      "speaker": "margery_pell",
+      "text": "An ordinary stair. I have my line, and it is only that."
+    }
+  ]
+}

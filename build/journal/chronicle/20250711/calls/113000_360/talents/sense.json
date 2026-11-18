@@ -1,0 +1,75 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "You asked Florio for a town. He gave you Verona with a warning about a sea-coast, then the river, the stone playing-place, the tombs in the street, Mantua a day off, and the swords in the heat. Of the earl he said only that he is with the court. He offered you a map. The earl did not speak.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the town, and asked after the earl.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Florio",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told the town, and stopped at the court.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "Verona",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in I'd ask you of a town",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Mantua",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in I'd ask you of a town",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Asked Florio for a town and got Verona",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "John Florio"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Verona",
+    "tombs in the street",
+    "the earl with the court"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Master Florio? William Shakespeare, from Bishopsgate"
+    },
+    {
+      "speaker": "john_florio",
+      "text": "Verona? I'll tell you Verona"
+    },
+    {
+      "speaker": "john_florio",
+      "text": "And send you a map."
+    }
+  ]
+}

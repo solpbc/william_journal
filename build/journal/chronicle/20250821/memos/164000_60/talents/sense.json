@@ -1,0 +1,55 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At St Giles, walking, under the noise of the string, you counted the journey. Twenty-four days and one scene, the one the rest hangs from. You went for a fire and came back with a house you cannot pay for. You called that Anne's arithmetic, and said you like it better than yours.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke it walking, and stopped at her arithmetic.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "New Place",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in One scene, and a house",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Counted twenty-four days and one scene",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twenty-four days",
+    "one scene",
+    "the house",
+    "her arithmetic"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Twenty-four days. I wrote one scene. One."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I went for a fire and came back with a house I can't pay for."
+    }
+  ]
+}

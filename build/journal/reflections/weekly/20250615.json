@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250615",
+    "end": "20250621"
+  },
+  "generated_at": "2025-06-21T22:00:00Z",
+  "days": [
+    {
+      "day": "20250615",
+      "state": "memory",
+      "memory_id": "m-20250615-0"
+    },
+    {
+      "day": "20250616",
+      "state": "memory",
+      "memory_id": "m-20250616-1"
+    },
+    {
+      "day": "20250617",
+      "state": "memory",
+      "memory_id": "m-20250617-2"
+    },
+    {
+      "day": "20250618",
+      "state": "memory",
+      "memory_id": "m-20250618-3"
+    },
+    {
+      "day": "20250619",
+      "state": "memory",
+      "memory_id": "m-20250619-4"
+    },
+    {
+      "day": "20250620",
+      "state": "memory",
+      "memory_id": "m-20250620-5"
+    },
+    {
+      "day": "20250621",
+      "state": "memory",
+      "memory_id": "m-20250621-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250615-0",
+      "key": "mem_20250615_0",
+      "day": "20250615",
+      "text": "The loaf is still a thumb short, and still a penny. Halberds at the Mayor's door. One turning of the glass. The Counter was heard from the step.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250615/talents/morning_briefing",
+        "briefing_day": "20250615",
+        "refs": [
+          "sol://facets/household/activities/20250615#meeting_081000_480",
+          "sol://facets/household/activities/20250615#meeting_092000_720",
+          "sol://facets/household/activities/20250615#meeting_192000_600"
+        ]
+      }
+    },
+    {
+      "id": "m-20250616-1",
+      "key": "mem_20250616_1",
+      "day": "20250616",
+      "text": "The house is shut, lodger included, to anything west of the Stocks. Daniel stays the copy you own. York is begun.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250616/talents/morning_briefing",
+        "briefing_day": "20250616",
+        "refs": [
+          "sol://facets/writing/activities/20250616#frame_074000_240",
+          "sol://facets/writing/activities/20250616#frame_083000_480",
+          "sol://facets/writing/activities/20250616#note_092000_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250617-2",
+      "key": "mem_20250617_2",
+      "day": "20250617",
+      "text": "The flag stays up, three to one. The page you kept is a list of three. You played in Fair Em.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250617/talents/morning_briefing",
+        "briefing_day": "20250617",
+        "refs": [
+          "sol://facets/company/activities/20250617#call_081000_180",
+          "sol://facets/writing/activities/20250617#frame_090000_240",
+          "sol://facets/writing/activities/20250617#note_092000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250618-3",
+      "key": "mem_20250618_3",
+      "day": "20250618",
+      "text": "The Monaghan letter, three weeks old and two days running. Rome sells.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250618/talents/morning_briefing",
+        "briefing_day": "20250618",
+        "refs": [
+          "sol://facets/writing/activities/20250618#frame_082000_180",
+          "sol://facets/company/activities/20250618#meeting_165000_720",
+          "sol://facets/company/activities/20250618#frame_172000_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250619-4",
+      "key": "mem_20250619_4",
+      "day": "20250619",
+      "text": "The almanac still prints Corpus Christi. At the window, a thin play and a duke.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250619/talents/morning_briefing",
+        "briefing_day": "20250619",
+        "refs": [
+          "sol://facets/company/activities/20250619#frame_091500_240",
+          "sol://facets/household/activities/20250619#frame_121000_180",
+          "sol://facets/company/activities/20250619#frame_194000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250620-5",
+      "key": "mem_20250620_5",
+      "day": "20250620",
+      "text": "The gardener is right. The curse stays. Thirty-odd lines.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250620/talents/morning_briefing",
+        "briefing_day": "20250620",
+        "refs": [
+          "sol://facets/household/activities/20250620#frame_081000_120",
+          "sol://facets/company/activities/20250620#meeting_162000_360",
+          "sol://facets/writing/activities/20250620#frame_220000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250621-6",
+      "key": "mem_20250621_6",
+      "day": "20250621",
+      "text": "The king ended this day. You set the telling for after Midsummer. You played in Errors.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250621/talents/morning_briefing",
+        "briefing_day": "20250621",
+        "refs": [
+          "sol://facets/writing/activities/20250621#frame_042000_480",
+          "sol://facets/writing/activities/20250621#frame_061000_480",
+          "sol://facets/writing/activities/20250621#frame_092000_240"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250615-0",
+      "key": "said_20250615_0",
+      "day": "20250615",
+      "quote": "They've found out a door opens if enough push. That's not a thing a city forgets.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250615#memo_214000_60"
+      }
+    },
+    {
+      "id": "s-20250616-1",
+      "key": "said_20250616_1",
+      "day": "20250616",
+      "quote": "Two idle sorts of men in a hot square, and it wants only one blade drawn.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250616#memo_211000_60"
+      }
+    },
+    {
+      "id": "s-20250617-2",
+      "key": "said_20250617_2",
+      "day": "20250617",
+      "quote": "Keep it up. A house that hides looks guilty.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250617#call_081000_180"
+      }
+    },
+    {
+      "id": "s-20250617-3",
+      "key": "said_20250617_3",
+      "day": "20250617",
+      "quote": "If I write them I'll make them a crowd, and they weren't.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250617#memo_093000_60"
+      }
+    },
+    {
+      "id": "s-20250618-4",
+      "key": "said_20250618_4",
+      "day": "20250618",
+      "quote": "I am not writing a number of the dead. Nobody at this table is sure of one.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250618#meeting_165000_720"
+      }
+    },
+    {
+      "id": "s-20250619-5",
+      "key": "said_20250619_5",
+      "day": "20250619",
+      "quote": "The play at the Theatre was thin, and I was a duke in it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250619#memo_203000_60"
+      }
+    },
+    {
+      "id": "s-20250619-6",
+      "key": "said_20250619_6",
+      "day": "20250619",
+      "quote": "And now players are a thing the Mayor writes letters about. Same trade. Different day.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250619#memo_203000_60"
+      }
+    },
+    {
+      "id": "s-20250621-7",
+      "key": "said_20250621_7",
+      "day": "20250621",
+      "quote": "No fool in it anywhere. Not one.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250621#memo_100500_60"
+      }
+    }
+  ]
+}

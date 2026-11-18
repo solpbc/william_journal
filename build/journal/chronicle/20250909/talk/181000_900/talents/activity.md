@@ -1,0 +1,1 @@
+By candle Mistress Ansell found the nether great tooth, on the left, black at the neck, and said you will lose it. You said it will settle. She said it will settle when it is in a dish. You kept the clove and did not go to a barber.

@@ -1,0 +1,44 @@
+{
+  "overview": "You looked at the first line and did not change it. You wrote nothing beside it except the order to leave it. The hour stayed two of the clock.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the line, marked it to be left, and did not tinker."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the first line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no improvement",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "two of the clock",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Read the first line"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-02-20",
+      "meaning": "The first line"
+    }
+  ],
+  "summary": "Read the first line"
+}

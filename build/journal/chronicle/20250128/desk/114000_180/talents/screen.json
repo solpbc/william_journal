@@ -1,0 +1,23 @@
+{
+  "narrative": "A narrow roll on the long table, beside the basket. In the margin, in lead, three words in a boy's small hand. No face over the paper. No verse copied under the mark.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked at the marked roll."
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "context": "His mark is in the margin. His face is not over the page."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on part in She governs"
+    }
+  ]
+}

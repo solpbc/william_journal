@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 300.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "dorcas_ansell", "start": "11:30:00", "text": "You are early, and you are leaving. The loaf is a penny. I am not cutting it to match a man who will not sit the meal.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:30:16", "text": "A crust, then. I am back at the Theatre by noon. There is a call, and I would rather take it where the tailor is not in this hall.", "timing": {"end": 34.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "alse_pinder", "start": "11:30:34", "text": "I will not keep a dinner for a man who has already decided on a crust. The clove is still the one in the house. Do not ask me to shop between now and noon.", "timing": {"end": 52.0, "start": 34.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "11:30:52", "text": "I am not asking. The jaw is hot enough to notice and not hot enough to spend the afternoon on. Egeon can have the side that works.", "timing": {"end": 68.0, "start": 52.0}}
+{"sentence_id": 5, "speaker": "dorcas_ansell", "start": "11:31:08", "text": "Then take the crust and go. If the call is about money, it can be about money up the road. This board had its price on Monday.", "timing": {"end": 78.0, "start": 68.0}}

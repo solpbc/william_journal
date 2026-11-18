@@ -1,0 +1,1 @@
+At the street door, after the almanac, you told her the moon had a day and no hour. She sent you toward nine with the cloth still in her hands. You said the morning was paper and the yard was the afternoon. You did not name either play.

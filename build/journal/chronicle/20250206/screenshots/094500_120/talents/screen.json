@@ -1,0 +1,23 @@
+{
+  "narrative": "A cue roll in a boy's hands, with cold boards beyond. Two stops are moved in a darker ink. The speech is not copied out. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and did not add a word."
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "context": "Held the roll. His face was not in it."
+    },
+    {
+      "type": "Project",
+      "name": "the Princess's part",
+      "role": "mentioned",
+      "context": "In photo: A cue roll in a boy's hands"
+    }
+  ]
+}

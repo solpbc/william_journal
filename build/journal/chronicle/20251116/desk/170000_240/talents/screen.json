@@ -1,0 +1,17 @@
+{
+  "narrative": "The coffer is open and both locks are turned back. A column is ruled on the leaf. The foot of the column is blank.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Opened the coffer and ruled the column."
+    },
+    {
+      "type": "Tool",
+      "name": "the coffer",
+      "role": "mentioned",
+      "context": "Shown on ledger in Both locks"
+    }
+  ]
+}

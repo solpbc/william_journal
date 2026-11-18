@@ -1,0 +1,78 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Upstairs at Field's you had the morning's errands already in your hand. Both shoes new-soled and a heel-piece, ninepence. A little book of fables with woodcuts, fourpence, for the girl who asked in April for no riddles. A paper of London pins, twopence. Field had word by the same carrier that his kin are untouched. He asked if you would walk, a man with a share in a playhouse. You said the horse was dear. He said the horse is always dear, and told you to leave his Holinshed. You said it lies under a cloth, and Mistress Ansell has her eye on it. It stays.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the three prices, and left Holinshed where it lies.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard his kin were safe, and kept his book off the road.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Jacqueline Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Cleared the table for the parcels, and allowed no third errand.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "Holinshed",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The horse was dear",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Showed Field the shoes, the fables and the pins",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Field",
+    "William Shakespeare",
+    "Jacqueline Field"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "ninepence",
+    "fourpence",
+    "twopence",
+    "the horse",
+    "Holinshed under the cloth"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_field",
+      "text": "Thou'lt walk? A man with a share in a playhouse?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The horse was dear."
+    },
+    {
+      "speaker": "richard_field",
+      "text": "The horse is always dear."
+    }
+  ]
+}

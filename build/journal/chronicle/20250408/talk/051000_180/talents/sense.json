@@ -1,0 +1,64 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You left before the children woke. Anne stood in the door, as she does, and did not ask her question. You did not pack the bags again. You said the bay had had eleven days' grass and was no sweeter, and that her knot would be retied as she had tied it. You said the tables would take nothing today.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted the blank day and did not go up.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood in the door, kept the question unasked, and named her own knot.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the bay",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in She is in the door",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Left Anne in the door",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the door",
+    "eleven days' grass",
+    "her knot",
+    "nothing on the tables"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "I am in the door. That is the whole of the seeing-off."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "I will be in the door until the lane hides thee. Write nothing."
+    }
+  ]
+}

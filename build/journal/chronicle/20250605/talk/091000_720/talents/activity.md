@@ -1,0 +1,1 @@
+You rehearsed The Comedy of Errors. The music had come in four bars early, and Cowley with it. Phillips set the entrance on the fifth bar. Cowley counted the four bars of nothing inside his fist and came on the fifth without a hand to help him. The bill is two of the clock.

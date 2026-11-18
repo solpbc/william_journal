@@ -1,0 +1,90 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At dinner Mistress Ansell had a dish in her hands and said it was comedy, because she had heard the feet. You told her the workmen, the weaver, and the queen who wakes. She asked if the queen is punished. You said you have not written that. She withheld a verdict until there is an ending. Alse asked if the ass can eat. You did not decide it again: the jaw must move, as you wrote on the fourteenth. Verbeke heard the feet and did not ask to be in the page. The letter stays in the house. No carrier was named. The house eats at six. You will miss it. You are going to Field's, and the chronicle stays on the shelf.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told the plot, refused an ending, named no carrier, and said he would miss six.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the feet, called it comedy, and withheld the verdict. She carried the dish the whole time.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked about the jaw, and accepted the old answer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the feet through the floor, and did not ask for a part.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "On the Chaucer, and not made into a part.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate dinner and told the morning's page",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "comedy",
+    "no verdict",
+    "the jaw already decided",
+    "no carrier"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Comedy. I heard the feet."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Then I withhold the verdict."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The jaw must move or the voice will be lost in it."
+    },
+    {
+      "speaker": "gillis_verbeke",
+      "text": "I do not ask what they were making."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At home you kept the slip to the one word, whom, in Susanna's hand. You did not say which child tied the knot. The promise held.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped at whom.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named for the hand, and not for the knot.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "whom",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nothing but whom",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Kept Susanna's slip to the word whom",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "whom",
+    "Susanna's hand",
+    "the promise"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Whom. Susanna's hand, and nothing else on the slip."
+    }
+  ]
+}

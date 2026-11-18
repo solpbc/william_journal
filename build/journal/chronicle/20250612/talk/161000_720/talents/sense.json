@@ -1,0 +1,78 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Verbeke came home early by the back wall, his cap in his hand. Mistress Ansell acted before the talk could start. She put him in the lumber garret over your chamber with a jug and a pot. She swore the household on her Bible, you first. If any ask, the back room is let to a man from Norwich. She said he was from Norwich tonight, and that he had always had a Norwich face. You said it. Alse said it. He said it. She would not have the latch changed. Nobody came.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Swore first, and kept the sentence as she gave it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Hid him before anyone discussed it, and took the oath.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came by the wall, said Norwich, and went up.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the jug and the pot, swore, and did not change the latch.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Swore the back room is let to a man from Norwich",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Gillis Verbeke",
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the garret",
+    "the oath",
+    "Norwich",
+    "a jug and a pot"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "From Norwich. Say it."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Master Verbeke is from Norwich tonight, if anybody asks. He has always had a Norwich face."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "From Norwich."
+    }
+  ]
+}

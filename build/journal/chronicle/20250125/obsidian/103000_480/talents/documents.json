@@ -1,0 +1,44 @@
+{
+  "overview": "You wrote one sentence to Anne and did not send it. You do not know the day, and you will not write a yes to be rid of the question. Nothing went to the Bell. You did not copy a part.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the sentence and left it unsent."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the unsent sentence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the shoes",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the cough",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Bell",
+      "asset_type": "other",
+      "disposition": "Wrote Anne one sentence"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-25",
+      "meaning": "One plain sentence"
+    }
+  ],
+  "summary": "Wrote Anne one sentence"
+}

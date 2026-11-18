@@ -1,0 +1,96 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "You sorted stall bundles with your father, Richard, and Joan, and Hamnet sorted windfalls. When the rush-gatherer came to the wicket you reached for your belt. Your father stopped your hand and had Anne settle the house's payment from her own bag. No coin was named. The burned row stayed tomorrow's.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sorted bundles, reached for the belt, and yielded the door.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the stall in order, and would not have the belt out for a kitchen payment.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted eighteen pair for the stall, and set a cuff aside to be stitched.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Settled the rushes from her own bag, and would not make a story of the coin.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Tied the bundles her own way, and took the cuff to stitch.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sorted the windfalls, and kept tomorrow's walk.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Yielded the door to Anne at the wicket",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Shakespeare",
+    "Joan Shakespeare",
+    "Richard Shakespeare",
+    "Hamnet Shakespeare",
+    "William Shakespeare",
+    "Anne Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the stall bundles",
+    "the wicket",
+    "Anne's bag",
+    "tomorrow's row"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_shakespeare",
+      "text": "Put thy hand down, Will. This is the house's ordering, not a tavern in Bishopsgate"
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "The rushes are in, and they are paid for, and the coin is not a story"
+    },
+    {
+      "speaker": "hamnet_shakespeare",
+      "text": "Twenty sound ones on the shelf"
+    }
+  ]
+}

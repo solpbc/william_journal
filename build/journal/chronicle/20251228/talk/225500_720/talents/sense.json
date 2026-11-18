@@ -1,0 +1,141 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "My lord had left the jig. Nick came in on the note, not under it, because he was happy. The voice dropped out and came back a fifth lower. He stopped, considered, and bowed. The hall laughed, kindly, and by Bryan's account so did the chair. Arthur took the next verse as if it had been set. Behind the traverse Nick said it was gone, and you told him it had come, and that Sly shall teach him to fence. There was no second try, and no song left for the boat. Heminges entered nothing.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered Nick, and refused to write the interval down.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came in on the note, bowed, and said it was gone. He did not try again.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the next verse without looking, and would not add another.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a second try, and barred a song in the boat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ran the jig, and said the best laugh of the three nights was not his.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the hall and the chair, and kept the laugh off a warrant.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called the bow exact, and named the fifth without asking for a proof.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Present, and entered nothing. He did not speak.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Queen Elizabeth",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "In the chair. Bryan had the angle. She was not in the tiring-room.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "William Sly",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the hall. Named for a later morning, with a sword.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Henry Carey, 1st Lord Hunsdon",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the hall. His leave was the reason the jig was played.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Nick's voice come back a fifth lower",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Will Kemp",
+    "Augustine Phillips",
+    "Nick Sorrell",
+    "Arthur Meeks",
+    "William Shakespeare",
+    "George Bryan",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the jig",
+    "on the note",
+    "a fifth lower",
+    "no second try"
+  ],
+  "quotes": [
+    {
+      "speaker": "nick_sorrell",
+      "text": "It's gone, sir."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It's come, Nick. Sly shall teach thee to fence."
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "The hall laughed, and kindly. So did the chair."
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "A laugh is not a receipt."
+    }
+  ]
+}

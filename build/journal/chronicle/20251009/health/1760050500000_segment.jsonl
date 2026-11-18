@@ -1,0 +1,15 @@
+{"day": "20251009", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "074000_120", "stream": "desk", "ts": 1760050500000}
+{"change_class": "substantive", "day": "20251009", "event": "sense.change_detect", "mode": "segment", "segment": "074000_120", "stream": "desk", "ts": 1760050500001}
+{"day": "20251009", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "074000_120", "stream": "desk", "ts": 1760050500002}
+{"day": "20251009", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "074000_120", "stream": "desk", "ts": 1760050500003}
+{"day": "20251009", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "091000_180", "stream": "desk", "ts": 1760050500010}
+{"change_class": "substantive", "day": "20251009", "event": "sense.change_detect", "mode": "segment", "segment": "091000_180", "stream": "desk", "ts": 1760050500011}
+{"day": "20251009", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "091000_180", "stream": "desk", "ts": 1760050500012}
+{"day": "20251009", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "091000_180", "stream": "desk", "ts": 1760050500013}
+{"day": "20251009", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "140000_720", "stream": "talk", "ts": 1760050500020}
+{"change_class": "substantive", "day": "20251009", "event": "sense.change_detect", "mode": "segment", "segment": "140000_720", "stream": "talk", "ts": 1760050500021}
+{"day": "20251009", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "140000_720", "stream": "talk", "ts": 1760050500022}
+{"day": "20251009", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "211000_480", "stream": "desk", "ts": 1760050500030}
+{"change_class": "substantive", "day": "20251009", "event": "sense.change_detect", "mode": "segment", "segment": "211000_480", "stream": "desk", "ts": 1760050500031}
+{"day": "20251009", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "211000_480", "stream": "desk", "ts": 1760050500032}
+{"day": "20251009", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "211000_480", "stream": "desk", "ts": 1760050500033}

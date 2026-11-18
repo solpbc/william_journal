@@ -1,0 +1,45 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote that you had read from the first gage to the castle wall, and that the book is not finished. You wrote the two joins as marks. You wrote that a pleasant speech has a line in its margin and was not copied out. You named the deposing, the prison and the end as unfinished, and you did not write them this morning.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the note and did not draft the three things.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The deposing, the prison, the end",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Named the deposing, the prison and the end",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "not a finished book",
+    "the two joins",
+    "the deposing",
+    "the prison",
+    "the end"
+  ],
+  "quotes": []
+}

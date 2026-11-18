@@ -1,0 +1,51 @@
+{
+  "overview": "At home you wrote the messenger's entrance and left the half-line blank after The king your father. You paced the six steps of the chamber. Mistress Ansell, below, would have heard a murmur and not the line. The line is still empty. You did not write a song, and you did not write the last line.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the entrance and left the blank."
+    },
+    {
+      "name": "Mistress Dorcas Ansell",
+      "role": "heard",
+      "formal_term": "Mistress Dorcas Ansell",
+      "appointment_tier": "not_applicable",
+      "context": "Below. Heard a murmur, if she heard anything. Not spoken to."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the entrance",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the empty half-line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "six steps",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Wrote the messenger's entrance"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-08",
+      "meaning": "The half-line left blank"
+    }
+  ],
+  "summary": "Wrote the messenger's entrance"
+}

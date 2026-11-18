@@ -1,0 +1,1 @@
+You stood through the sermon at Holy Trinity because sitting hurt more. Anne told you to sit. Your mother told you not to make a sermon of it. The curate spoke of a man going out and coming again, and Susanna heard the road in it. You said the horse is tomorrow, and that it is not yours. You had stood the hour. You went home to the pie. The hour of the bridge was not set yet.

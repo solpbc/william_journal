@@ -1,0 +1,62 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Anne had the door shut behind the three. You looked once at the boats on the step. You did not go back in.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Shut the door and left the boats outside",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Shut the door and left the boats outside",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the three bark boats",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Shut the door and left the boats outside",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came home from the bridge",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the shut door",
+    "one look at the step"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Shut the door."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am looking once, and then I am walking."
+    }
+  ]
+}

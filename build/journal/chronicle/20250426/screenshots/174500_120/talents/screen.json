@@ -1,0 +1,35 @@
+{
+  "narrative": "The broken gingerbread on a property chest, four hands at it. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "mentioned",
+      "context": "One of the four hands, and not a face."
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "context": "One of the four hands."
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "context": "One of the four hands."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "context": "One of the four hands."
+    },
+    {
+      "type": "Tool",
+      "name": "the gingerbread",
+      "role": "mentioned",
+      "context": "In photo: Four hands"
+    }
+  ]
+}

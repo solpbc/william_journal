@@ -1,0 +1,71 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "On the step you put thirty shillings in her lap and said it was over the quarter's. She said it was, counted it as from anyone, and tied it in her apron. You told her the locked sum to the shilling, twenty pound and eight, and what a share may bring between Bartholomew and Christmas if the Mayor lets you alone. You named no weekly rate. She asked what it was for. You said a house, here. She told you not to promise one. You said not with twenty pound, and that you had not looked. Your mother set a pan down and did not speak.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the thirty shillings, told the twenty pound and eight, and admitted he had not looked.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the money, refused the promise, and asked which house.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Set a pan down, and made no speech.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Told Anne the locked sum and the thirty shillings",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "thirty shillings",
+    "twenty pound and eight",
+    "the house not looked at"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Thirty shillings. That's over the quarter's"
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "And what's in the box in London, that you lock twice?"
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Don't promise me a house, Will. Buy one and I'll believe in it"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have not looked"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Mistress Ansell heard that a great man was dead and asked only whether he made a good end. You said you were not told the manner. She told you not to invent one, and not to write a grief you do not have. You went up to write one short line.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered that he was not told, and went up to write the one line.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked after the end, and forbade an invented grief.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Offered the candle and did not stay to read.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Went up and wrote one line on Sir Thomas",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a good end",
+    "the manner not told",
+    "one short line"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Did he make a good end?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I was not told the manner of the end."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Do not write a grief you do not have."
+    }
+  ]
+}

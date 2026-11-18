@@ -1,0 +1,1 @@
+You stood at the board and read the Knight's Tale until the bell for nine. Theseus rides home with the queen of the Amazons to be wed. Two young men see one lady through a window. You did not sit, and you did not start a page.

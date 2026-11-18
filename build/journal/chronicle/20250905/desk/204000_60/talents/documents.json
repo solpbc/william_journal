@@ -1,0 +1,44 @@
+{
+  "overview": "Before you put the candle out, you wrote on the tables: hot day, the street again, the talker. You did not add the how under it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the line, and left the how off it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "hot day",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the street",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the talker",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Wrote hot day, the street again, the talker"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-05",
+      "meaning": "Hot day"
+    }
+  ],
+  "summary": "Wrote hot day, the street again, the talker"
+}

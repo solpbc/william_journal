@@ -1,0 +1,17 @@
+{
+  "narrative": "A black-letter bill by the window. Title, house, and hour. No author's name. No sum. No face. The lower line. The hat for the Theatre is by the door. This bill is not that errand. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the title and set out for the Theatre by the fields."
+    },
+    {
+      "type": "Project",
+      "name": "The Seven Days of the Week",
+      "role": "mentioned",
+      "context": "Shown on bill in Seven Days, title only"
+    }
+  ]
+}

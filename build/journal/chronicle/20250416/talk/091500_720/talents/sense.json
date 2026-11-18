@@ -1,0 +1,108 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "You rehearsed the messenger in a dark house. Sincler took three paces and stopped. Nick held two beats after \"The King your father,\" and then said \"Dead for my life.\" Burbage answered the twelvemonth and a day in a plain voice, with \"That's too long for a play.\" Sam sang the cuckoo once. The note was a little thick, and the word still came. Phillips did not give him a second try. You had no new page with you.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set Nick's two beats, asked for the plain voice, and left the new page at home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Cleared Sincler's line and took the twelvemonth plain.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the two beats and spoke \"Dead for my life.\"",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put the line on Nick's chest, and stopped Sam after one thick note.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Sincler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Walked three paces and stood by the pillar.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sang the word through a thick throat, and did not get a second try.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The messenger, and a thicker note",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed the messenger, and Sam sang once",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "John Sincler",
+    "Richard Burbage",
+    "Nick Sorrell",
+    "Augustine Phillips",
+    "Sam Latchet"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three paces",
+    "two beats",
+    "the plain voice",
+    "a thicker note"
+  ],
+  "quotes": [
+    {
+      "speaker": "nick_sorrell",
+      "text": "I can hold it low, so the wind does not take it."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Plain as bread."
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "Sing it on the breath, Sam, not on the word. The word will come along."
+    },
+    {
+      "speaker": "sam_latchet",
+      "text": "The word came. I am not hoarse."
+    }
+  ]
+}

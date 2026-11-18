@@ -1,0 +1,1 @@
+Heminges named your share as six-and-thirty shillings, against forty last Saturday, the spring's best. You said the chest was not counted. The sheet carried the share and not the lease. He was gloomy about a second Hercules yesterday, and he named no sum for that house. Pope and Phillips went home. You went toward the Jackdaw with the pouch tied.

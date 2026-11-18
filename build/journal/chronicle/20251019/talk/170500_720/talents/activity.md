@@ -1,0 +1,1 @@
+You asked for a length of red and not the skein. Alse cut an arm's length on her own arm. You told them the fair copy runs through the dawn already written, that it is coherent, and that it is not finished. The rehearsal marks stay. You will write three lines home before you correct another word. Twopence waits until Thursday.

@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250223",
+    "end": "20250301"
+  },
+  "generated_at": "2025-03-01T22:00:00Z",
+  "days": [
+    {
+      "day": "20250223",
+      "state": "memory",
+      "memory_id": "m-20250223-0"
+    },
+    {
+      "day": "20250224",
+      "state": "memory",
+      "memory_id": "m-20250224-1"
+    },
+    {
+      "day": "20250225",
+      "state": "memory",
+      "memory_id": "m-20250225-2"
+    },
+    {
+      "day": "20250226",
+      "state": "memory",
+      "memory_id": "m-20250226-3"
+    },
+    {
+      "day": "20250227",
+      "state": "memory",
+      "memory_id": "m-20250227-4"
+    },
+    {
+      "day": "20250228",
+      "state": "memory",
+      "memory_id": "m-20250228-5"
+    },
+    {
+      "day": "20250301",
+      "state": "memory",
+      "memory_id": "m-20250301-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250223-0",
+      "key": "mem_20250223_0",
+      "day": "20250223",
+      "text": "The spoon was in the ink, black to the neck. The week's firing was sixpence, once. The letter stayed folded.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250223/talents/morning_briefing",
+        "briefing_day": "20250223",
+        "refs": [
+          "sol://facets/household/activities/20250223#meeting_104000_720",
+          "sol://facets/household/activities/20250223#meeting_122000_720",
+          "sol://facets/household/activities/20250223#meeting_140000_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20250224-1",
+      "key": "mem_20250224_1",
+      "day": "20250224",
+      "text": "Twenty-four lines in two days. Thirteen of them were Monday's.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250224/talents/morning_briefing",
+        "briefing_day": "20250224",
+        "refs": [
+          "sol://facets/household/activities/20250224#meeting_091000_720",
+          "sol://facets/company/activities/20250224#frame_140500_180",
+          "sol://facets/company/activities/20250224#meeting_164500_840"
+        ]
+      }
+    },
+    {
+      "id": "m-20250225-2",
+      "key": "mem_20250225_2",
+      "day": "20250225",
+      "text": "Two inches into a post from 1576, and two mornings in March. The ground falls back on the thirteenth of April, 1597.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250225/talents/morning_briefing",
+        "briefing_day": "20250225",
+        "refs": [
+          "sol://facets/company/activities/20250225#meeting_100000_720",
+          "sol://facets/company/activities/20250225#photo_102500_120",
+          "sol://facets/company/activities/20250225#frame_140500_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250226-3",
+      "key": "mem_20250226_3",
+      "day": "20250226",
+      "text": "You were glad to be thought portable. Two quires are laid by at fourpence halfpenny.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250226/talents/morning_briefing",
+        "briefing_day": "20250226",
+        "refs": [
+          "sol://facets/writing/activities/20250226#frame_084000_180",
+          "sol://facets/writing/activities/20250226#call_113000_240",
+          "sol://facets/household/activities/20250226#meeting_131000_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20250227-4",
+      "key": "mem_20250227_4",
+      "day": "20250227",
+      "text": "Anne wrote that the cough is gone. You called it just news. The stool is level, and the wedge is three leaves cut in January.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250227/talents/morning_briefing",
+        "briefing_day": "20250227",
+        "refs": [
+          "sol://facets/company/activities/20250227#meeting_090500_720",
+          "sol://facets/stratford/activities/20250227#frame_114000_180",
+          "sol://facets/company/activities/20250227#frame_140500_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250228-5",
+      "key": "mem_20250228_5",
+      "day": "20250228",
+      "text": "From the west window you saw a woman leave the church porch. At night you fair-copied one line and put a cross in the almanac.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250228/talents/morning_briefing",
+        "briefing_day": "20250228",
+        "refs": [
+          "sol://facets/writing/activities/20250228#frame_084000_240",
+          "sol://facets/company/activities/20250228#frame_140500_180",
+          "sol://facets/writing/activities/20250228#note_211000_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20250301-6",
+      "key": "mem_20250301_6",
+      "day": "20250301",
+      "text": "You played Egeon. Last Saturday's thirty shillings stayed the last share. You set that thirty down at home.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250301/talents/morning_briefing",
+        "briefing_day": "20250301",
+        "refs": [
+          "sol://facets/household/activities/20250301#meeting_091000_720",
+          "sol://facets/company/activities/20250301#frame_140500_180",
+          "sol://facets/company/activities/20250301#meeting_164500_840"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250223-0",
+      "key": "said_20250223_0",
+      "day": "20250223",
+      "quote": "I am not pleased. I am relieved, which is a meaner feeling, and it will do.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250223#meeting_140000_720"
+      }
+    },
+    {
+      "id": "s-20250224-1",
+      "key": "said_20250224_1",
+      "day": "20250224",
+      "quote": "I will not improve a truth into a promise.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250224#meeting_091000_720"
+      }
+    },
+    {
+      "id": "s-20250224-2",
+      "key": "said_20250224_2",
+      "day": "20250224",
+      "quote": "What I meant is not what they did. What they did is the news.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250224#meeting_164500_840"
+      }
+    },
+    {
+      "id": "s-20250225-3",
+      "key": "said_20250225_3",
+      "day": "20250225",
+      "quote": "Then the wood is the honest one. It remembers rain.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250225#meeting_100000_720"
+      }
+    },
+    {
+      "id": "s-20250226-4",
+      "key": "said_20250226_4",
+      "day": "20250226",
+      "quote": "I am glad to be thought portable. A book that fits a pocket will outlive a book that needs a table, and the penny was never the point of that one.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250226#call_113000_240"
+      }
+    },
+    {
+      "id": "s-20250227-5",
+      "key": "said_20250227_5",
+      "day": "20250227",
+      "quote": "Just news. It's rarer.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250227#meeting_171500_720"
+      }
+    },
+    {
+      "id": "s-20250228-6",
+      "key": "said_20250228_6",
+      "day": "20250228",
+      "quote": "The black-eyed. Hm. No.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250228#memo_213000_60"
+      }
+    },
+    {
+      "id": "s-20250301-7",
+      "key": "said_20250301_7",
+      "day": "20250301",
+      "quote": "The Queen's twenty pounds is not in this room. I would have noticed twenty pounds. They are heavier than a mood.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250301#meeting_164500_840"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Alse brought two pence of cloves. You said you would enter them once, at the week's reckoning. Mistress Ansell saw Tuesday's three sockets and saved the speech. The loaf is still a penny and a full thumb short. Board was threepence. Monday's sixpence stays a different coin. You asked for one candle tonight. The sheet stays Monday's.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the cloves, separated them from the sixpence, and asked for one candle.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Saw the three sockets, priced the meal, and saved the count.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the cloves and the soft middle of the loaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said a gathering tooth comes to a head at the full moon.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "cloves",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two pence in cloves",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two pence in cloves",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Took two pence of cloves and let her speech wait",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "William Shakespeare",
+    "Mistress Dorcas Ansell",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two pence",
+    "three sockets",
+    "the full moon",
+    "one candle"
+  ],
+  "quotes": [
+    {
+      "speaker": "alse_pinder",
+      "text": "Two pence, as you gave me on the stair."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I can count to three without chalk."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Two pence is the cloves. Sixpence was the firing."
+    }
+  ]
+}

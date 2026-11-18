@@ -1,0 +1,1 @@
+Edith looked at the afternoon's coat and put in a stitch at the shoulder. She would not charge the stock. John left the book at the one copying line. You did not name the part. Paint was set for two o'clock. She said a boy's gown had grown again, and she did not price it.

@@ -1,0 +1,38 @@
+{
+  "overview": "You put the packet under the cloak and looked once more at the signed letter. You left it. You went to the door without it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote what goes out and what stays"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the packet under the cloak",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the letter on the board",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the door",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-30",
+      "meaning": "Put the packet under the cloak"
+    }
+  ],
+  "summary": "Wrote what goes out and what stays"
+}

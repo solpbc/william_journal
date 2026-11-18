@@ -1,0 +1,11 @@
+{
+  "narrative": "The penny almanac open at the day, on the desk, daylight. Two lines in the printed column. Nothing written beside them, and no figure. No face. The margin beside the two lines is blank. The pen is capped. No sum, no age, no play-title crowded in.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked at the two lines and did not write a number."
+    }
+  ]
+}

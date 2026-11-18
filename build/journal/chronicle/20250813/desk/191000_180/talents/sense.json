@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "One-handed, on the floor, you fair-copied three lines you had already written on Saturday. You did not add a speech. You did not mend the girl. The rest of the sheet stayed foul. On the tables, nothing.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote three lines one-handed, and set the pen down.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the orchard scene",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Three lines, one hand",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Fair-copied three lines",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three fair lines",
+    "Saturday's sheet",
+    "one hand"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "10:05:00", "text": "No fool in it anywhere. Not one.", "timing": {"end": 8.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "10:05:08", "text": "Well. Tell him after Midsummer.", "timing": {"end": 18.0, "start": 8.0}}

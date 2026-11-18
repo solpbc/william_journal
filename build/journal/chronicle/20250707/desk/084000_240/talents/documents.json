@@ -1,0 +1,56 @@
+{
+  "overview": "You left Saturday's sheet at home because you play this afternoon. The glass in its cloth is for the Jackdaw. Mistress Ansell's copper is on, and you do not buy the ink.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Left the sheet, and did not buy the ink."
+    },
+    {
+      "name": "Mistress Dorcas Ansell",
+      "role": "visible",
+      "formal_term": "Mistress Dorcas Ansell",
+      "appointment_tier": "not_applicable",
+      "context": "Had the copper on. She did not come up."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the sheet left home",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the glass in a cloth",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Monday's copper",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Left Saturday's sheet at home and set the glass aside"
+    },
+    {
+      "name": "the pearwood glass",
+      "asset_type": "other",
+      "disposition": "Left Saturday's sheet at home and set the glass aside"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-07",
+      "meaning": "The street stays on the board"
+    }
+  ],
+  "summary": "Left Saturday's sheet at home and set the glass aside"
+}

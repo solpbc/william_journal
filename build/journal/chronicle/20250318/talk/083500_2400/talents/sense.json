@@ -1,0 +1,102 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "You spent the morning on a property chair of state, painted to pass for oak and gilt, with a weak joint where a king sits down too hard. James mended it with one peg, pale in the old wood, and kept it light enough for the boy who must carry it off. Sam's cleats would have worked only if the chair never left the stage. Larkham wrote that it was mended, and not to be sat on by Master Kemp. The trap was left for another day. You were going home by eleven.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the work, chose the pale peg over a chair that could not move, and kept the appointment.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the weak joint, drove the method, and stopped the mend short of a weight Sam could not carry.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Wrote the property line, including Master Kemp.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Offered a cure that only works if the chair stays put.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in One peg, pale in the old wood",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the property chair",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in One peg, pale in the old wood",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Giles Allen",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in One peg, pale in the old wood",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Mended the chair of state with one pale peg",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "James Burbage",
+    "William Shakespeare",
+    "Sam Latchet",
+    "Humphrey Larkham"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one pale peg",
+    "the chair not the trap",
+    "too heavy for the boy",
+    "Kemp not to sit"
+  ],
+  "quotes": [
+    {
+      "speaker": "james_burbage",
+      "text": "God's body, leave the trap. It is sound enough to wait."
+    },
+    {
+      "speaker": "sam_latchet",
+      "text": "It works if the chair never has to leave the stage."
+    },
+    {
+      "speaker": "humphrey_larkham",
+      "text": "chair, mended; not to be sat on by Master Kemp."
+    }
+  ]
+}

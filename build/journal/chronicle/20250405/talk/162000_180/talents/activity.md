@@ -1,0 +1,1 @@
+At the brook she asked whether London is where you work or where you live. You said both, and that a man may have a trade in one town and a house in another. She said that was three answers. She left it, and asked the price of London butter. You had Thursday's fourpence, and no London price. You did not replace the first answer.

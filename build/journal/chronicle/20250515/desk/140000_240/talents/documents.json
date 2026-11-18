@@ -1,0 +1,44 @@
+{
+  "overview": "At two you spoke Egeon in Errors. You said the opening, a ship, a wife, two boys, and the year he lost them, and then you stood idle until the end.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Spoke the opening, and stood idle until the end."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Egeon in Errors",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the opening",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "then idle",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Comedy of Errors",
+      "asset_type": "other",
+      "disposition": "Spoke Egeon and stood idle"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-15",
+      "meaning": "Egeon in Errors"
+    }
+  ],
+  "summary": "Spoke Egeon and stood idle"
+}

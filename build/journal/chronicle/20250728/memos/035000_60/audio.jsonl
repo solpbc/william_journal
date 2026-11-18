@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "03:50:00", "text": "Grey light. The shoes are new-soled. The hat is the broad one. The wallet is on my back.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "03:50:14", "text": "Out of the close at ten past four.", "timing": {"end": 22.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "03:50:22", "text": "Jacqueline's cheese stays shut till Uxbridge.", "timing": {"end": 32.0, "start": 22.0}}

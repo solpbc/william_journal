@@ -1,0 +1,116 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At five John read the week on the line and set the share at thirty-four shillings, the best since Whitsun. The morning in apparel had taken no money. A maid's name and the ship are not receipts. The grain stays out of the book. You took the stack. You did not open the coffer, and you did not rule the share into it. Kemp told it out with the name.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the stack, and did not rule it into the coffer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read the week on the line, and set the share at thirty-four.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the sum on its own line, and would not have the foot flatter the week.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the figure plain, and kept Tuesday's name out of the book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the grain out of the column.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the shillings, and sent him home to sleep.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told the share out with the name, and did not short it for the tooth.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "thirty-four shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thirty-four, at five",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took thirty-four shillings",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Humphrey Larkham",
+    "Thomas Pope",
+    "Augustine Phillips",
+    "Richard Burbage",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "thirty-four shillings",
+    "best since Whitsun",
+    "the coffer shut"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Thirty-four shillings a share."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Best since Whitsun."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am taking the stack home, and I am not ruling it into the coffer."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Sweet Master Shakespeare. Hold your hand out."
+    }
+  ]
+}

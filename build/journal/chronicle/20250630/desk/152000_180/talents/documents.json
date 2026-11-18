@@ -1,0 +1,39 @@
+{
+  "overview": "Back at the lodging, you wrote the day on your tables in three lines. No play. The bill was struck this morning. The king was read, and the leaves are with Dick. You did not write what the struck bill had been called.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote three lines and did not add a title."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the tables",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a struck bill with no title kept",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Wrote that the king was read and the leaves are with Dick"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-30",
+      "meaning": "No play"
+    }
+  ],
+  "summary": "Wrote that the king was read and the leaves are with Dick"
+}

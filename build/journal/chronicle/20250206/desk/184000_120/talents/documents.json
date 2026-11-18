@@ -1,0 +1,39 @@
+{
+  "overview": "At home you entered the twopence to the carrier, and that the letter was late. You did not enter a balance, and you did not enter the gown.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the line and shut the book."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the twopence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the late letter",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Candlemas letter",
+      "asset_type": "other",
+      "disposition": "Entered the twopence for the carrier"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-02-06",
+      "meaning": "Twopence, late"
+    }
+  ],
+  "summary": "Entered the twopence for the carrier"
+}

@@ -1,0 +1,64 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You sat in the cleared hall. Anne would not have another talk in a doorway. You did not spend the last of the day on the two of them. Joan went up and left the hall as she had made it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat, and did not go out again.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Would not have a second door-talk.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the hall clear, and went up.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Sat in the hall",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare",
+    "Joan Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the clear hall",
+    "sitting",
+    "Joan going up"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "I am not having the hall become a second one."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not spending them on company."
+    }
+  ]
+}

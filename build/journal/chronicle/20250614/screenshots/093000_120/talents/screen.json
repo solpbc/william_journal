@@ -1,0 +1,17 @@
+{
+  "narrative": "A penny loaf on Mistress Ansell's bread-board, a thumb short of the notch. She has left it there. The notch is the old one, cut in a good year. Morning light. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked at the loaf she had left out, and did not cut it."
+    },
+    {
+      "type": "Project",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "context": "In photo: A thumb short of the notch"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You sat through morning prayer at St Helen's. The pew in the north aisle was empty. Master Thwaite added a prayer for the dearth and for a quiet town. Mistress Ansell told you dinner was pease. You did not mark the almanac, and you did not name anyone who was not there.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat the lesson and did not mark a cross.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Prayed for the dearth and for a quiet town.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the conversation out of the lesson, and named dinner.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "St Helen's",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The north aisle",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Sat through morning prayer",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "William Shakespeare",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "morning prayer",
+    "the empty north aisle",
+    "the dearth",
+    "a quiet town"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "For the dearth, and for a quiet town."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A quiet town is enough to ask."
+    }
+  ]
+}

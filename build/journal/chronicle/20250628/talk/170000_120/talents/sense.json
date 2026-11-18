@@ -1,0 +1,64 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "The reckoning took two minutes. Eight shillings a share. Margery would not add a second figure. You called it received, and not a total, and you did not open the coffer.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called it received, and left the coffer shut.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named eight shillings and stopped at two minutes.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a second figure.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took eight shillings",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Goodwife Margery Pell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "eight shillings",
+    "two minutes",
+    "received"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Two minutes. Eight shillings a share."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Eight shillings, received."
+    }
+  ]
+}

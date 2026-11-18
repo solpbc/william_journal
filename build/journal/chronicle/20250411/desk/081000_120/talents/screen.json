@@ -1,0 +1,17 @@
+{
+  "narrative": "A part open on the table at the window, the cue-line's end still in Latin, no strike through it. The hired bag is gone from the passage. No face. The lines above the tag, crowded, written for a room. The stylus is not on the leaf.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked at the unreformed cue and took it to the Theatre as it was."
+    },
+    {
+      "type": "Project",
+      "name": "the comedy",
+      "role": "mentioned",
+      "context": "Shown on part in The tag, still Latin"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+You stood under your own lintel a quarter of an hour. Every door in the close was dressed with green birch, fennel, St John's wort, and white lilies, and the lamp over the Ansells' door was still burning against the daylight. The close smelled of last night's ash. Nobody else was up but the sparrows. You did not go south of Cornhill, and you were in by six.

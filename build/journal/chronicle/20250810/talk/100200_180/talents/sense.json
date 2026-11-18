@@ -1,0 +1,76 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You sat in the usual pew with Anne and your mother. Your father was not there. Your mother told you to button the cuff, where Saturday's ink still showed, and she would not discuss the empty place. Anne said dinner was after, and that this part was only the sitting down.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat, and said he had nothing to put in the empty place.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Got him into the pew, and named dinner as later.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the cuff, and refused the empty place as a topic.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Holy Trinity",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sat in the pew with Anne and your mother",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Sat the service at Holy Trinity",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare",
+    "Mary Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the pew",
+    "the inked cuff",
+    "the empty place"
+  ],
+  "quotes": [
+    {
+      "speaker": "mary_shakespeare",
+      "text": "Button the cuff. The ink is still in it from the night."
+    },
+    {
+      "speaker": "mary_shakespeare",
+      "text": "And leave the other place empty. I am not discussing it."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "This part is only the sitting down."
+    }
+  ]
+}

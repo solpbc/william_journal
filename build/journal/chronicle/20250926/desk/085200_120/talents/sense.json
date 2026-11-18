@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You read four boxes on the plot. Gaunt is carried. The king leaves Flint a king and comes on in a London street. The Queen is in the garden. You did not take the rest of the board for a speech.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the four boxes, and did not unpeg the board.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "The hand is his. He was not beside the peg for this.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard the Second",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Four boxes",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read four boxes on the plot",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "four boxes",
+    "the peg"
+  ],
+  "quotes": []
+}

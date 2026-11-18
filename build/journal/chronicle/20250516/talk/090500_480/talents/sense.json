@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Pope had not landed Buckingham's speech when Burbage began the King's answer. You asked him to wait, and not to announce the wait. It was gone nine, and you had them do it twice. Burbage made the pause so large that the waiting itself commanded the stage. The second time, his answer was smaller than the shout he had ready. Pope said the empty yard took it. You said the empty yard changed more than it did under the louder reading. For a moment the King heard something he did not expect. You left the note to be written before you left the house.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Started early, then made the wait another way of commanding, and left the writing to you.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept Buckingham unfinished until the speech had landed, and felt the yard take the smaller answer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the wait, forbade an announcement, and kept the note for the tables.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard III",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Let him finish",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Asked Burbage to let Buckingham finish",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Pope",
+    "Richard Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the wait",
+    "no announcement",
+    "the empty yard"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_pope",
+      "text": "Buckingham is not finished"
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "I will make it so large the yard will think the waiting is the crown"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The empty yard changed more than it did under the louder reading"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "narrative": "The Bishopsgate post. Two black-letter bills, side by side. He reads them and goes on toward Shoreditch.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the two bills and left the post."
+    },
+    {
+      "type": "Project",
+      "name": "The Two Gentlemen of Verona",
+      "role": "mentioned",
+      "context": "Shown on bill in Two bills on one post"
+    },
+    {
+      "type": "Project",
+      "name": "Long Meg of Westminster",
+      "role": "mentioned",
+      "context": "Shown on bill in Two bills on one post"
+    }
+  ]
+}

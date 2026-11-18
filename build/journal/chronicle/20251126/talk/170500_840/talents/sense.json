@@ -1,0 +1,161 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "The apparel baskets were open, and crimson and murrey court doublets were airing over a charcoal pan. The tiring-house smelled of old velvet and wormwood, and the light came up through the velvet on the poles. My lord's three nights were named. St Stephen's is the Navarre comedy, which the Queen has not seen. St John's is the lovers, ten days old by then, and Burbage wants the second night, for a house that has supped. Kemp spoke for Two Gentlemen and the dog that is never brought on. Bryan said she heard the dog at Greenwich, and that one does not tell her Majesty the same dog twice. Innocents' is Errors, a year to the day from the afternoon they played it twice in two houses, or once, according to who tells it. You did not put a deposed king back into the book. Nobody proposed the wood-play. It is three pages and a speech, and it is not made ready by being wanted. Garnish is to cut the lovers to two hours and a half, and the thumb-biting in the first scene goes. You undertook no changes after the copying of the fourth, unless a playing fault demands one. The Master's rehearsal is the sixteenth, at Clerkenwell. Heminges and Bryan are named for the money, and the money is not in the house. Nobody owned the heel my lord saw. Kemp accused Pope. Pope accused Cowley, who was not there. Heminges said new hose, the whole company, of the stock, and nobody named a price. Nick was not in the room, and nobody is to startle him.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took Errors over the dog, undertook the fourth, and set Clerkenwell down.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named Stephen's and the hose, and refused to pretend a purse.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Buried the dog at Greenwich, and accepted a naming that is not a payment.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke for Two Gentlemen, accused a heel, and let the dog stay heard.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the second night of the lovers, for a house that has supped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named Errors, and put the thin pair on a man who was not there.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the year, and kept Nick's chest out of the pan.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in Three nights",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in Three nights",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Navarre comedy",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three nights",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three nights",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three nights",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Clerkenwell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three nights",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the stock",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three nights",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Fitted the three nights and the new hose",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Will Kemp",
+    "George Bryan",
+    "Thomas Pope",
+    "Augustine Phillips"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three nights",
+    "the dog at Greenwich",
+    "two hours and a half",
+    "new hose of the stock"
+  ],
+  "quotes": [
+    {
+      "speaker": "george_bryan",
+      "text": "She heard the dog at Greenwich."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "New hose, the whole company, of the stock."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No changes after the copying of the fourth"
+    }
+  ]
+}

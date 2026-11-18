@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "In the afternoon you had Brooke open at the first couplet. The notes were not written yet. A blank leaf lay beside the book, and you had not headed it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the couplet and did not begin the notes.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeus and Juliet",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The first couplet, and no notes yet",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read the opening couplet",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the first couplet",
+    "a blank leaf",
+    "no heading yet"
+  ],
+  "quotes": []
+}

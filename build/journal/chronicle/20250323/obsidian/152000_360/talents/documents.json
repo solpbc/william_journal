@@ -1,0 +1,38 @@
+{
+  "overview": "You wrote what you meant to do in Stratford, and you struck the half that would have been a performance of being there. The gifts stay. Your mother and your father stay. A speech ready for the door is struck. So is a walk through the shops to be seen.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the list and struck half of it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the list",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "half struck",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no speech ready",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-23",
+      "meaning": "Half struck out"
+    }
+  ],
+  "summary": "Struck half the Stratford list"
+}

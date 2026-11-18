@@ -1,0 +1,17 @@
+{
+  "narrative": "The commonplace book open at a leaf headed Prices. The pen is in the hand. The loaf is still on the board, out of the writing. No face. One sentence, written small, under the heading. The loaf is still a thumb short, in the corner of the eye, not under the pen. No face. The sentence stands. Nothing is added under it. The book is not shut. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the prices and left the leaf."
+    },
+    {
+      "type": "Project",
+      "name": "the commonplace book",
+      "role": "mentioned",
+      "context": "Shown on tables in Prices"
+    }
+  ]
+}

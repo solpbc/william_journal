@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "12:40:00", "text": "Joan. Anne asked me one thing at the brook, and I gave her three answers. If thou seest her, tell her I heard how it sounded.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "joan_shakespeare", "start": "12:40:14", "text": "Tell her yourself. I am not a lane between two houses.", "timing": {"end": 24.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "12:40:24", "text": "It is only that I heard it.", "timing": {"end": 30.0, "start": 24.0}}
+{"sentence_id": 4, "speaker": "joan_shakespeare", "start": "12:40:30", "text": "Then the hearing will keep till thou walkest to her. Spend the afternoon in thine own voice.", "timing": {"end": 40.0, "start": 30.0}}

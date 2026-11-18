@@ -1,0 +1,1 @@
+You read two bills on one post. The Rose has Longshanks again today. The Theatre's Thursday bill is up early, title only, the tragedy of King Richard the Second, by the Lord Chamberlain his Servants. No maker's name. You do not go to the Rose.

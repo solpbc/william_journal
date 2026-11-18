@@ -1,0 +1,64 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You stood in the porch with Mistress Ansell and Alse after a long sermon. She kept the one hawthorn bough she had allowed on May Day, and she would not have it improved. Alse had not brought a second. You did not count the heads of the sermon. The book under your cloak waited for the stair.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the custom at one bough, and ended the porch.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said she had not brought a second bough.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the bough unimproved, and saved the book for the stair.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Left the one bough as it was",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the one bough",
+    "a long sermon",
+    "the porch"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "One bough. I allowed one"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It is drooping, Mistress"
+    }
+  ]
+}

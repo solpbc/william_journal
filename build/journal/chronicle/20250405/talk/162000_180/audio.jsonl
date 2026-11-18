@@ -1,0 +1,9 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "16:20:00", "text": "I'll ask one thing and then leave it. Is London where you work, Will, or where you live?", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:20:16", "text": "Both. A man may have a trade in one town and a house in another.", "timing": {"end": 32.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "anne_shakespeare", "start": "16:20:32", "text": "That was three answers. I asked for one.", "timing": {"end": 44.0, "start": 32.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "16:20:44", "text": "Both was the one I had. I heard it come apart.", "timing": {"end": 56.0, "start": 44.0}}
+{"sentence_id": 5, "speaker": "anne_shakespeare", "start": "16:20:56", "text": "I said I would leave it. What is the price of butter in London.", "timing": {"end": 70.0, "start": 56.0}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "16:21:10", "text": "I do not know London's price this week. Thursday at the Cross it was fourpence. A woman said threepence at Michaelmas.", "timing": {"end": 88.0, "start": 70.0}}
+{"sentence_id": 7, "speaker": "anne_shakespeare", "start": "16:21:28", "text": "Then that is the price you had. The other thing stays where I left it.", "timing": {"end": 100.0, "start": 88.0}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "16:21:40", "text": "It stays. I am not bringing a mended answer home.", "timing": {"end": 110.0, "start": 100.0}}

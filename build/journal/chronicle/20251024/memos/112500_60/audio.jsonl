@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "11:25:00", "text": "Six weeks to the day it's wanted. I'll not cut her. I'll not write her a line lower.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:25:12", "text": "Hold, boy.", "timing": {"end": 22.0, "start": 12.0}}

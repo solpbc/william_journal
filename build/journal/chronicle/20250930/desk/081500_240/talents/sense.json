@@ -1,0 +1,52 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You read two bills on one post. The Rose has Longshanks again today. The Theatre's Thursday bill is up early, title only, the tragedy of King Richard the Second, by the Lord Chamberlain his Servants. No maker's name. You do not go to the Rose.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the Rose's bill and the Theatre's, and did not take either down.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Two kings on one post",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Longshanks",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Two kings on one post",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read the Rose's Longshanks and Thursday's Richard the Second",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two bills",
+    "Longshanks",
+    "Thursday's title",
+    "no maker's name"
+  ],
+  "quotes": []
+}

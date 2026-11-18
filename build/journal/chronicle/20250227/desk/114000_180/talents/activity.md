@@ -1,0 +1,1 @@
+At home you looked at the Sunday letter and did not open it into a new letter. The date at the head is the sixteenth of February 1594. It still says you will come before Mid-Lent Sunday, and it still names no day. It goes with you to the Bell after the play.

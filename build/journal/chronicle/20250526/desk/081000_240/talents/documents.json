@@ -1,0 +1,51 @@
+{
+  "overview": "You opened the almanac at the twenty-sixth and wrote \"Susanna, xij\" in the margin. You did not write the letter yet.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the mark and closed nothing else."
+    },
+    {
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Susanna Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Named in the margin, not written to yet."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the almanac",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Susanna",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "twelve",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the almanac",
+      "asset_type": "other",
+      "disposition": "Marked the day she is twelve"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-26",
+      "meaning": "Susanna, xij"
+    }
+  ],
+  "summary": "Marked the day she is twelve"
+}

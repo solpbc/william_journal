@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At night you kept the word mending and did not better it. You had the pan, the ladle, and the well, and you had not sent a day for coming. The groats were on the road.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the word once, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Candlemas letter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Mending, and no day",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Kept the word mending",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "mending",
+    "the house",
+    "the groats"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Mending. I will not improve the word because I want a better house."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not send them the day, because I have not got the day."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "The tireman painted you for the afternoon, and you did not give him a name to paint. Edith kept the morning's stitch off the book. You told him to leave the jaw. She said the boy's gown had grown again, and she still did not price it. You did not name the part.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Got painted for the afternoon",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Got painted for the afternoon",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the afternoon coat",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Got painted for the afternoon",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Came in for the afternoon play",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Edith Kettlewood"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the paint",
+    "the stitch",
+    "no name"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The afternoon can have a face."
+    },
+    {
+      "speaker": "edith_kettlewood",
+      "text": "The pot is his. The hem is mine.; (the tireman): none of you is a riddle."
+    }
+  ]
+}

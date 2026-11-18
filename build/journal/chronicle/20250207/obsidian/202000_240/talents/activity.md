@@ -1,0 +1,1 @@
+You read the leaf over and changed nothing. You laid it in the folder with the two older leaves. There are three leaves now, and no name on any of them. They are for private friends, passed by hand or not at all. You did not read it into the room. There is no play for you today, and no rehearsal tomorrow till nine. You meant to be in bed by ten.

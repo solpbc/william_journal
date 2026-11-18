@@ -1,0 +1,93 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote what has to be done before Richmond, and struck a second half. Saturday's lovers, Thursday's copy, the three named nights, Tilney on the 16th, and the carrier stayed. The 60s and the pack are set on the 18th, and Mistress Ansell's 20s on the 22nd. Neither is paid. The six lines and the letter of the 16th are not rewritten. Quiney's pound is not asked for. The second half, struck, is another page of the tradesmen, ten lines in the vault, and a finished wood-play.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote both halves and struck the second.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in What must be done",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in What must be done",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in What must be done",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "60s",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in What must be done",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "20s",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in What must be done",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "4d the wash",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in What must be done",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "\u00a31 still owed",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in What must be done",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote the month's work and struck the rest",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the necessary list",
+    "the struck half",
+    "the unsent letters",
+    "three court nights",
+    "money not paid"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You said you had copied three leaves fair, folded them once, and put them under the account book. You named the rain and the aquavitae. You did not say why.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the fact of the three leaves, and refused the reason.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the three leaves",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Under the account book",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said where the leaves are, and stopped",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three leaves",
+    "the account book",
+    "the rain"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Three leaves. Fair. Folded once. Under the account book."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not saying the rest."
+    }
+  ]
+}

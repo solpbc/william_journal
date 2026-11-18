@@ -1,0 +1,91 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "In the porch Master Thwaite turned the sand-glass twice, said he would be brief, and put Ash Wednesday three days off. You paid sixpence for firing and washing till Lady Day. Sir John Spencer sat three rows ahead and did not turn. Mistress Ansell showed the heel of the loaf, a penny and a finger short, and said she would not salt the house ahead of the church. Alse asked which hunger was hers. You left Gib on the Ovid, said you would be in close on nine, and went when the second glass was out.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named Wednesday's salt, paid the sixpence, left Gib on the Ovid, and promised to be in close on nine.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Turned the glass twice, said he would be brief, and kept Wednesday's reading for Wednesday.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Carried the heel of the loaf, took the sixpence, refused to salt the house early, and told the stair to expect him by nine.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked which hunger was hers, and whether to lay a trencher.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat three rows ahead and did not speak.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard that Ash Wednesday was three days off",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three days to the ashes",
+    "the glass turned twice",
+    "sixpence for firing",
+    "a finger short",
+    "close on nine"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "We shall be brief, brethren."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The loaf this morning was a penny, and a finger short of the notch."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "Which hunger is mine, mistress?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Close on nine. I have said it."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+A christening came out at the porch. The latch caught a dark green sleeve. You freed the cloth. A gloved hand rested on yours a moment, and she looked at the ink on your finger. She said you are the one that writes. You said Mistress. She went after the others. You remembered nothing further that you said. She was not named.

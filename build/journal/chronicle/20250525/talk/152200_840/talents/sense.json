@@ -1,0 +1,108 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You finished the walk at the garden wall and sat for bread and ale. The three marks were named, and Alse had shown each one to Gillis. It had taken forty minutes. A neighbour said the Mayor might better look to the meal-tubs than the laundry-tubs. Mistress Ansell would not treat the blue-starch precept as law until it was paper.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the three names plain and left the precept as talk.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read a psalm-verse and a prayer for the fruits at the marks, and called the forty minutes done.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Served the short loaf and would not obey a paper she had not got.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed the third mark, and said she had shown the first two.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the three names back and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "blue starch",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Bread, ale, and the meal-tubs",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Bread, ale, and the meal-tubs",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Crosby Place",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Bread, ale, and the meal-tubs",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard the three marks named and of the blue-starch precept",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Alse Pinder",
+    "Gillis Verbeke",
+    "William Shakespeare",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three marks",
+    "forty minutes",
+    "bread and ale",
+    "blue starch",
+    "the short loaf"
+  ],
+  "quotes": [
+    {
+      "speaker": "(a neighbour)",
+      "text": "With wheat where it is, the Mayor might better look to the meal-tubs than the laundry-tubs."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I will not obey a sentence I have not heard."
+    }
+  ]
+}

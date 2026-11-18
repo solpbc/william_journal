@@ -1,0 +1,1 @@
+In the afternoon the board held three Athenses. Chaucer's duke, Golding at the fourth book, and Plutarch at the life of the same Theseus. Verona was still in the house, and the red thread was still tied. You did not open it, and you did not write a page.

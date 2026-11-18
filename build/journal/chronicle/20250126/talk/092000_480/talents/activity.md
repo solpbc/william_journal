@@ -1,0 +1,1 @@
+At St Helen's Master Thwaite said he would be brief, and reached fourteenthly. The sand-glass was turned twice. You caught yourself out of the pew and came back. Sir John Spencer sat three rows ahead and did not turn. You are not coughing.

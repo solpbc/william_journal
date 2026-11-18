@@ -1,0 +1,23 @@
+{
+  "narrative": "A narrow leaf, one new line, and the old ruling copied under it as a pointer. No coins moved. No new total. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the share, and did not open the coffer."
+    },
+    {
+      "type": "Tool",
+      "name": "six-and-twenty shillings",
+      "role": "mentioned",
+      "context": "Shown on ledger in Six-and-twenty, not ruled in"
+    },
+    {
+      "type": "Tool",
+      "name": "twenty pound fifteen shillings",
+      "role": "mentioned",
+      "context": "Shown on ledger in Six-and-twenty, not ruled in"
+    }
+  ]
+}

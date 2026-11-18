@@ -1,0 +1,17 @@
+{
+  "narrative": "A foul sheet on the desk, Berowne's name at the head, the pen stopped in a sentence. The sheet folded once, ready for a hand, the rest of the act still bare below the sentence.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the two lines and folded the sheet."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on draft in Berowne, not good enough to keep"
+    }
+  ]
+}

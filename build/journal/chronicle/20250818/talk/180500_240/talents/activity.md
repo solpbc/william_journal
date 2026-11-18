@@ -1,0 +1,1 @@
+At the inn in Chipping Norton the supper and the shared bed were fourteen pence. The host said the dog had the stool. Hobbins told you to let the dog keep it. You did not praise the bed, and you did not add a speech about the twenty-one miles. The price did not grow while you stood in the yard.

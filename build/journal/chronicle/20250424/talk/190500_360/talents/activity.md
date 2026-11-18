@@ -1,0 +1,1 @@
+At supper you paid threepence and reported that the yard had clapped the cook. You did not restage it. Mistress Ansell ruled on a play she had not seen, and the firing stayed off. The wage reckoning was not repeated as a sum.

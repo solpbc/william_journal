@@ -1,0 +1,55 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You and Anne started along the field path with the children left at home. The stubble was short. She wanted the walking itself. You did not begin a speech.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Walked, stopped the tale, and did not add a word.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the land, heard the stop, and kept the pace of the horses plain.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Started along the field path",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the field path",
+    "the short stubble",
+    "the yard ahead"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "The walking is the part I came out for."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not starting a speech at a hedge."
+    }
+  ]
+}

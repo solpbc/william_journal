@@ -1,0 +1,46 @@
+{
+  "density": "idle",
+  "content_type": "idle",
+  "activity_summary": "Before eight you had the shoes off. The Lent list was still whole. You said Monday's baskets go up to Shoreditch, and that they are in the book and not on this list. You did not go down.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the shoes, the list, and the baskets, and stopped.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Took the shoes off before eight",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "shoes off",
+    "the list whole",
+    "Monday's baskets"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Shoes off before eight. The list is still whole."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Monday the baskets go up to Shoreditch. That is in the book."
+    }
+  ]
+}

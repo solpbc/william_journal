@@ -1,0 +1,17 @@
+{
+  "narrative": "Lower on the same sheet. A second start, struck through until the words under the stroke are gone. One name and one line stay readable across the break. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Broke the second opening, and kept her line."
+    },
+    {
+      "type": "Person",
+      "name": "the Nurse",
+      "role": "mentioned",
+      "context": "Shown on draft in Nurse, across the break"
+    }
+  ]
+}

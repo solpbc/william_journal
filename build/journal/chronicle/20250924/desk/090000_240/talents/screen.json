@@ -1,0 +1,17 @@
+{
+  "narrative": "The writing-tables as he left them. One word under the blow, and a blank under the word. The pen is capped. Gib is on the closed book. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and did not write under the word."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on tables in The word, unread onward"
+    }
+  ]
+}

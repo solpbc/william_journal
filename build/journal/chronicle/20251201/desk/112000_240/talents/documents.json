@@ -1,0 +1,56 @@
+{
+  "overview": "You read Harrison's own note of the morning's entry. It names Burby, the play, sixpence, and no author. It is his report, not the Hall's register. The countess is only \"said to be\" in another man's manner.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the note and left it on the counter."
+    },
+    {
+      "name": "John Harrison",
+      "role": "visible",
+      "formal_term": "John Harrison",
+      "appointment_tier": "not_applicable",
+      "context": "Held the day-book open at the fresh line."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the day-book",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "sixpence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no name",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Edward III",
+      "asset_type": "other",
+      "disposition": "Read Harrison's day-book"
+    },
+    {
+      "name": "6d the Hall",
+      "asset_type": "other",
+      "disposition": "Read Harrison's day-book"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-01",
+      "meaning": "A title, and no name"
+    }
+  ],
+  "summary": "Read Harrison's day-book"
+}

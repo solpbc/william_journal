@@ -1,0 +1,23 @@
+{
+  "narrative": "The tables at home, in what is left of the dusk. One line is new. Nothing is written under it. No sum is in the margin. He has not added the name of a play, or a penny, or a second sentence. The line sits by itself.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the line and left it alone."
+    },
+    {
+      "type": "Project",
+      "name": "the Bridge",
+      "role": "mentioned",
+      "context": "Shown on tables in The cousin's son"
+    },
+    {
+      "type": "Project",
+      "name": "the cousin's son",
+      "role": "mentioned",
+      "context": "Shown on tables in The cousin's son"
+    }
+  ]
+}

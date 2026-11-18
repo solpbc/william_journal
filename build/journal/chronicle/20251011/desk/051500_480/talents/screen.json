@@ -1,0 +1,23 @@
+{
+  "narrative": "A fresh sheet, just begun, in candlelight. The candle is not yet at the socket. Gib is on the far corner of the board, off the paper. No face. The same sheet, a few lines lower. His answer is down, and a mark in the margin shows he does not leave on it. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote her opening and his answer, and marked that he stays."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Stayed on the far corner of the board, off the paper."
+    },
+    {
+      "type": "Project",
+      "name": "Verona",
+      "role": "mentioned",
+      "context": "Shown on draft in She lies, and then he does"
+    }
+  ]
+}

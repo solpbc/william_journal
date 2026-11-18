@@ -1,0 +1,70 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You said the term over. The court removed to Richmond yesterday. Today the lawyers go home, and the gowns that have filled the galleries since the ninth of October go with them. Margery Pell's box will know it by Monday. You are not going to her stair to be told. From here the houses will be citizens and their wives, and the lovers must be ready for them first and for the Queen after.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Marked the turn in speech and did not go out to be told.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named, and not visited.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richmond",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Citizens, and their wives",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Citizens, and their wives",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Set the lovers for the citizens first",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Richmond yesterday",
+    "the gowns going",
+    "citizens first"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "From here the houses will be citizens and their wives"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Margery's box will know it by Monday."
+    }
+  ]
+}

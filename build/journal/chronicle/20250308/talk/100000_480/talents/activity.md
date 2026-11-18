@@ -1,0 +1,1 @@
+You cleared the board and Mistress Ansell called the tidiness repentance. She counted four candle-ends, for this morning only. You paid her fivepence for a quire she had by her and twopence for a new horn of ink. You had counted the coffer and you did not say the figure. The list of what is not done was left whole. Field's paper stayed at his shop.

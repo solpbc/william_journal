@@ -1,0 +1,85 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Richard Quiney spoke from the Bell in Carter Lane. His boots were not yet dry. He has a brief for a collection for Stratford's fires, certified schedules in his saddlebag, three secretaries waited on and a fourth promised, and he looks for the seal within ten days. He said two hundred houses, one fire with another. You said you had counted about twenty. He called twenty this year's figure and the two hundred the town's whole affliction. You would not carry the brief to my lord's gentleman. He asked a supper and did not name the day. The taste of home was your father's barley, ten quarters, dry, and your boy's Latin with never a blot. You told him to send when his gentlemen have done.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted his twenty against the two hundred, and ended the call.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Quiney",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named himself and the Bell, asked the supper, and gave the taste of home.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Stratford brief",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Quiney, from the Bell",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "ten quarters of barley",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Quiney, from the Bell",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Heard Quiney's brief and refused the word",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Quiney",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the brief",
+    "two hundred houses",
+    "twenty from the ladder",
+    "ten quarters",
+    "the supper not dated"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_quiney",
+      "text": "Two hundred houses, Will, taken one fire with another."
+    },
+    {
+      "speaker": "richard_quiney",
+      "text": "This year, twenty. I speak of the town's whole affliction."
+    },
+    {
+      "speaker": "richard_quiney",
+      "text": "Then a supper, at the least."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Send when your gentlemen have done with you. God keep you, Richard."
+    },
+    {
+      "speaker": "richard_quiney",
+      "text": "And you, good countryman."
+    }
+  ]
+}

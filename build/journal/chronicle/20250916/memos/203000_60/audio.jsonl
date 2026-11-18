@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:30:00", "text": "Play on. A compliment to a hand, and not a licence.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:30:12", "text": "No letter out. Open the king on his day. Keep the house quiet.", "timing": {"end": 22.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:30:22", "text": "Nothing of it is in writing. That is the part he means me to trust. Enough.", "timing": {"end": 32.0, "start": 22.0}}

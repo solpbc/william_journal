@@ -1,0 +1,76 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You set the knife on the board beside the book. Judith looked at the pair of them and did not yet have a boat. Susanna was ready to take the book up when the knife came up.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Set the knife down beside the book",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Set the knife down beside the book",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Set the knife down beside the book",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the paring-knife",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Set the knife down beside the book",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Golding's Ovid",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Set the knife down beside the book",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came in from the lane",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Judith Shakespeare",
+    "William Shakespeare",
+    "Susanna Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the knife",
+    "the book",
+    "the board"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The boats are at the water, when we are at the water."
+    }
+  ]
+}

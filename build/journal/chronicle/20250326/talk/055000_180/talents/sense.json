@@ -1,0 +1,54 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You took the bay at first light. The hire is twelvepence a day and his fodder, and you paid none of it this morning. The ostler's paper said seven. You left at the sky you had.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the bay, refused a second look at the teeth, and paid nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "12d a day and fodder",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The bay, as bespoken",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Took the bay bespoken on the seventeenth",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the bay",
+    "nothing paid",
+    "first light"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I'll not pretend to judge his teeth a second time."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The horse leaves now. The paper can keep its hour."
+    }
+  ]
+}

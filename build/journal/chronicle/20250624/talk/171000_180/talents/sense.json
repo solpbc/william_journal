@@ -1,0 +1,63 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You went to evening prayer. Master Thwaite did not turn the glass. He said the morning had had the sermon. Mistress Ansell wanted her house shut. It was a short prayer, and not a second sermon.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood the short prayer and went home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept it short, and went back to her door.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Did not turn the glass.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stayed for evening prayer",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "evening prayer",
+    "the glass unturned"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "Evening prayer. I am not turning the glass."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not asking for fourteenthly at this hour."
+    }
+  ]
+}

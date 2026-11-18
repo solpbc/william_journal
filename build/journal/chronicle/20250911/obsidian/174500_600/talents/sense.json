@@ -1,0 +1,100 @@
+{
+  "density": "active",
+  "content_type": "reading",
+  "activity_summary": "Hobbins was nine days on the way. He took the letter of the last of August, still sealed, and gave you Anne's, written the Sunday after you left, and a parcel from Henley Street tied with a knot of great confidence. You read her letter in the yard and again by the taproom window. It answers a letter she has not yet had. You did not open the parcel.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Gave the sealed letter, read hers twice, and left the parcel tied.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Came in after nine days, took the letter of the last of August, and gave him hers and the parcel.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Wrote it the Sunday after he left. She has not yet had the last of August.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "John Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Told the Cross the frame was raised single-handed. Not present.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Sadler",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Let that telling stand. Not present.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Said the girl at the window said yes too quick. Not present.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Said the girl did right. Not present.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Said the boy should have brought a ladder, and rope. Not present.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Michaelmas",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Her letter",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Read Anne's letter twice",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "nine days",
+    "the barn roof",
+    "the girl at the window",
+    "when it falls and not before"
+  ],
+  "quotes": []
+}

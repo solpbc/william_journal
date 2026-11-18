@@ -1,0 +1,63 @@
+{
+  "overview": "You sat while he read. An hour and a quarter, the pen in his hand, and the pen did not come down. The office was full of tilt-staves and painted paper for Monday. You saw no mark on the play.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Sat, and saw no stroke."
+    },
+    {
+      "name": "Edmund Tilney",
+      "role": "visible",
+      "formal_term": "Edmund Tilney",
+      "appointment_tier": "not_applicable",
+      "context": "Read with the pen in his hand and did not use it."
+    },
+    {
+      "name": "John Heminges",
+      "role": "attendee",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Sat with the fee not yet counted."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the pen still up",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a clean margin",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "tilt-staves",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "painted paper",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the lovers' play",
+      "asset_type": "other",
+      "disposition": "Sat through the reading"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-13",
+      "meaning": "The pen does not come down"
+    }
+  ],
+  "summary": "Sat through the reading"
+}

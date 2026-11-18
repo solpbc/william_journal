@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:45:00", "text": "Six-and-twenty shillings at the reckoning, the first share since July. The coffer stays shut tonight at twenty pound fifteen.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:45:16", "text": "It is near nine. The week has been long. Tomorrow, after the bells, the letter.", "timing": {"end": 26.0, "start": 16.0}}

@@ -1,0 +1,1 @@
+At dinner the penny loaf was a finger short of the notch, and Mistress Ansell would not pay two pence for it. She entered your sixpence for firing and washing, and your board at threepence. Gib stayed on the book. She had already ruled the comedy in January, and you told her only that the ladies have the better of it. The letter was left for after three.

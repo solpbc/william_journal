@@ -1,0 +1,63 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At Holywell, Richard Burbage gave you the old lath stage-sword, the paint worn off the hilt, and said it killed four Richmonds, for you to tell the boy. You said you would tell him when you put it in his hand, and that is not this week.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the sword and kept the line for the boy.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave up the sword and the four Richmonds.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the lath sword",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Four Richmonds",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took the sword at Holywell",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "four Richmonds",
+    "the lath sword",
+    "the boy not yet given it"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "It killed four Richmonds. Tell the boy."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will tell him when I put it in his hand."
+    }
+  ]
+}

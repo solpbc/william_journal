@@ -1,0 +1,1 @@
+Richard came for the six pairs of sheep that you were to have walked back yourself after the frame. You could not go. He took them, and he will tell the man the writing was yours. You asked how to mend it if you could not be the legs, and you followed his answer: say carried, and stop. You did not go as far as the stair.

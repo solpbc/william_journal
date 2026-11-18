@@ -1,0 +1,108 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You were at Old Swan by two, off the tilt-boat. You did not tell the middle of the river. Gannet had three pieces of news, and you kept one: Twelfth Day, which Kettleby had already brought. There was no ice, and the Queen had not paid you in the boat. Nick asked what a queen does when she is a man, and you told him he learns to stand differently, and that he has time. He did not sing. Kemp wants the ass's head by Candlemas, with the ears a hand longer than the head. The baskets had gone on to Shoreditch in a cart. Heminges did not name a house.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the middle of the river, corrected the ice and the payment, and kept the ear.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Davy Gannet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Landed you, offered three news, and kept the one you did not correct.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked the question in the new voice, and went with Phillips without singing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept a ballad off Fish Street, and took Nick.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set Candlemas for the head, and a hand's length for the ears.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sent the baskets on by cart, and refused to name a house.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Henry Carey, 1st Lord Hunsdon",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not at the stair. His Twelfth Day was the one true piece of the three.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Landed at Old Swan, answered Nick, and took Kemp's measure for the ears",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Davy Gannet",
+    "Nick Sorrell",
+    "Augustine Phillips",
+    "Will Kemp",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Old Swan by two",
+    "one news in three",
+    "the ears",
+    "the cart to Shoreditch"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "He learns to stand differently. Thou'st time."
+    },
+    {
+      "speaker": "nick_sorrell",
+      "text": "What does a queen do, when she is a man?"
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "The ears a hand longer than the head."
+    },
+    {
+      "speaker": "davy_gannet",
+      "text": "Two corrections and one kept."
+    }
+  ]
+}

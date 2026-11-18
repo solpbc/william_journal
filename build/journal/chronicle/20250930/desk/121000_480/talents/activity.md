@@ -1,0 +1,1 @@
+At noon you conned Gaunt aloud at the window, the roll in one hand and the other holding your face. You got as far as the throne and this England. You did not spend the turn about the lease. That turn can wait until the mouth is less of a committee.

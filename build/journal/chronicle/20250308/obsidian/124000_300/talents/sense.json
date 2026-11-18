@@ -1,0 +1,36 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "After the first walk you wrote two payments, a quire at fivepence and ink at twopence, both to Mistress Ansell. You noted that the coffer had been counted. You set down no sum. You ruled no new column. The head of the book still said 1594.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the two payments and left the total unwritten.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Wrote the quire and the ink in the book",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "fivepence",
+    "twopence",
+    "no sum",
+    "1594"
+  ],
+  "quotes": []
+}

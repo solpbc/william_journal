@@ -1,0 +1,66 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Under the new moon you spoke the death once, to no one. You said they waited, ten years, and then a Sunday. You repeated the story of the wife and the son, and you said you do not know that it is true. You thought of Southwell, and of your father at the shop door, and of the king at Pomfret, and you stopped. You left the man his own death. The jaw is healed. Nothing in it was doctrine.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke to the dark and stopped himself before the speech.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "the Tower",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Spoke Arundel's death once in the dark",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the king at Pomfret",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Spoke Arundel's death once in the dark",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Spoke of an earl dead in the Tower",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "ten years in the Tower",
+    "a story he does not trust",
+    "the king at Pomfret"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "They did not hang this one. They waited."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I don't know that it's true."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Leave the man his own death."
+    }
+  ]
+}

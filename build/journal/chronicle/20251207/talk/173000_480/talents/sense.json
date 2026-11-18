@@ -1,0 +1,102 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "George Bryan came to the foot of the stair, sent by Heminges, and Mistress Ansell let him as far as the third step. You did not talk about what the guest wants to see, or why. You talked about bodies, paper, candles and time. Nine players and two boys. A floor the size of a counting-house. A screen for a tiring-house, and a stool for Garnish behind it. Candles off the players' feet. The tide serves at five and will not serve at midnight. The three leaves are in Garnish's chest and have not been spoken since June. K. Richard in the letter is your king and nobody else's. You did not say more than that. Bryan, going, told you to bow to the chair by the fire, whoever is in it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the why, and kept the letter to one king.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the order of a gentleman's house, and stopped at the chair.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held him at the third step, and was content not to hear the guest.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The work of it",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "Canon Row",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The work of it",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Garnish's chest",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The work of it",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Counted bodies, paper, candles and the tide",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "George Bryan",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the third step",
+    "nine and two",
+    "the three leaves",
+    "the tide at five",
+    "the chair by the fire"
+  ],
+  "quotes": [
+    {
+      "speaker": "george_bryan",
+      "text": "Nine players and two boys. A floor the size of a counting-house. That is the body of it."
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "The tide serves at five. It will not serve at midnight."
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "K. Richard, in Sir Edward's letter, is our king. It is nobody else's."
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "And bow to the chair by the fire, whoever is in it."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The third step is as far as the news comes."
+    }
+  ]
+}

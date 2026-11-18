@@ -1,0 +1,49 @@
+{
+  "overview": "You played Titus at two and did not make a scene of it. The morning stayed what it was: nothing bought, the two poems as Harrison had them, and a wedding left as news. The book is with Abel and not licensed. The letter is still unanswered.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the morning as it was and left the night alone."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Titus",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the morning at Paul's",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the letter",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Titus Andronicus",
+      "asset_type": "other",
+      "disposition": "Left the wedding as news"
+    },
+    {
+      "name": "The Siege of London",
+      "asset_type": "other",
+      "disposition": "Left the wedding as news"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-22",
+      "meaning": "News, and not a play"
+    }
+  ],
+  "summary": "Left the wedding as news"
+}

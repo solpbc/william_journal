@@ -1,0 +1,199 @@
+{
+  "daily_coverage": {
+    "maintenance": {
+      "identity": {
+        "day": "",
+        "name": "daily_schedule"
+      },
+      "evidence_revision": "31004c22128ba7817af9c61712e3f3330bcbf184761312eab1601d1107199e1b",
+      "contract_digest": "ee026c5cb5ebd3cc3d9091f9d6e63f569afac1051df96440693eb3e9489975a1",
+      "state": "outstanding",
+      "reason_code": null,
+      "owed_by": "never_made"
+    },
+    "day": "20250717",
+    "as_of_ms": 1794975930628,
+    "state": "outstanding",
+    "units": [
+      {
+        "identity": {
+          "day": "20250717",
+          "name": "morning_briefing"
+        },
+        "evidence_revision": "5921bf21f5d5bacbb8863cfb29bc5ca28bb75bef335a4507e1b9ee0629f2b6a2",
+        "contract_digest": "40f6ec89fd8b80947c2d431fca4955ff05f86b2beb2696d6671808af2e4f75d1",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250717",
+          "name": "entities:entities_review",
+          "facet": "company"
+        },
+        "evidence_revision": "54fe46cc143363847280f46bf7069adc51102f3e62d982dd597e7704cf140f08",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250717",
+          "name": "entities:entities_review",
+          "facet": "household"
+        },
+        "evidence_revision": "87e057b534577ebd028a07c078b858bf2be0f8dc610228812660d876e5d28da2",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250717",
+          "name": "entities:entities_review",
+          "facet": "stratford"
+        },
+        "evidence_revision": "948799f359b14363ae34a30542554acfe4043e39cb604f108b2a1da0cb1bdf50",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250717",
+          "name": "entities:entity_observer",
+          "facet": "company"
+        },
+        "evidence_revision": "23f6e7b494628a3a04d4b6d1fb9f708641c5e605fa36a2b2b88b495f4f5f3bcf",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250717",
+          "name": "entities:entity_observer",
+          "facet": "household"
+        },
+        "evidence_revision": "9c19d8073c5a33a967bcdb5431dbcfe631abdba058f09e8ac9cd2499a3c61fe5",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250717",
+          "name": "entities:entity_observer",
+          "facet": "stratford"
+        },
+        "evidence_revision": "8dbae2d47ab47feecdebeca26ec4a2501b4d87348081aa3a173d38e1b1a76fd3",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250717",
+          "name": "entities:entity_suggest",
+          "facet": "company"
+        },
+        "evidence_revision": "9a091d8ec2e6d683f940fd2085c374a6341686f49b773ec50ed891e8bff3d200",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250717",
+          "name": "entities:entity_suggest",
+          "facet": "household"
+        },
+        "evidence_revision": "9909e9441fd69fb3e4b8a6d70694036eebe695c2459fb2c3d451398b46c4c0c4",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250717",
+          "name": "entities:entity_suggest",
+          "facet": "stratford"
+        },
+        "evidence_revision": "2a3e2a73d317a06b3e998e33dca4262de2374ce21d06ac47e2ea68a6e1e82c4d",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      }
+    ]
+  },
+  "schema_version": 10,
+  "stats": {
+    "transcript_sessions": 4,
+    "transcript_segments": 39,
+    "transcript_duration": 510.0,
+    "transcript_ranges": 4,
+    "percept_sessions": 1,
+    "percept_frames": 1,
+    "percept_duration": 0.0,
+    "percept_ranges": 1,
+    "browser_segments": 0,
+    "pending_segments": 0,
+    "segments_pending_think": 0,
+    "outputs_processed": 0,
+    "outputs_pending": 10,
+    "day_bytes": 112933,
+    "segment_fold_failed": false
+  },
+  "agent_data": {
+    "meeting": {
+      "count": 2,
+      "minutes": 12.0
+    },
+    "reading": {
+      "count": 1,
+      "minutes": 2.0
+    },
+    "social": {
+      "count": 2,
+      "minutes": 16.0
+    },
+    "writing": {
+      "count": 1,
+      "minutes": 2.0
+    }
+  },
+  "facet_data": {
+    "company": {
+      "count": 2,
+      "minutes": 12.0
+    },
+    "household": {
+      "count": 1,
+      "minutes": 2.0
+    },
+    "stratford": {
+      "count": 3,
+      "minutes": 18.0
+    }
+  },
+  "heatmap_data": {
+    "weekday": 3,
+    "hours": {
+      "9": 4.0,
+      "11": 2.0,
+      "12": 8.0,
+      "17": 8.0,
+      "18": 10.0
+    }
+  }
+}

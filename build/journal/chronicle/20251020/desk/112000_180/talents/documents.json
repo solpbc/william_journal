@@ -1,0 +1,44 @@
+{
+  "overview": "You wrote the call down before you left the Theatre, five facts and the two answers, so that five o'clock could be word for word. You wrote no sum and no day.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the five facts and stopped."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the five facts",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no sum",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the tables",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Wrote the call down for five o'clock"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-20",
+      "meaning": "Word for word"
+    }
+  ],
+  "summary": "Wrote the call down for five o'clock"
+}

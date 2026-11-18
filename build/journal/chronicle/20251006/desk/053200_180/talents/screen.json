@@ -1,0 +1,17 @@
+{
+  "narrative": "A penny almanac flat on the board by the window. The light is grey and thin. The date is printed. No face. The same page. The margin beside the date is blank. A right hand rests on the board and does not hold a pen. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the date, wrote nothing in the margin, and stayed at the window."
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in Nothing against the sixth"
+    }
+  ]
+}

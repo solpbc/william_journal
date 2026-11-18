@@ -1,0 +1,35 @@
+{
+  "density": "idle",
+  "content_type": "idle",
+  "activity_summary": "You left the desk as it was and went to the stair. The letter stayed. The pile stayed unopened. You did not take a page down with you.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "attendee in Left the desk and went down to dinner",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Turned the morning's leaf face down",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the desk left",
+    "the stair",
+    "nothing in the hand"
+  ],
+  "quotes": []
+}

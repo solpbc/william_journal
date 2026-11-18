@@ -1,0 +1,17 @@
+{
+  "narrative": "A small shop-ticket on the chamber table, creased from a sleeve, no new figures added. The door is shut. The same ticket, two lines under the first. The sums are still unwritten. The foot of the ticket, a short line, and clean paper under it. No second hand has touched it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the three shops and the near total, and wrote no new figure."
+    },
+    {
+      "type": "Tool",
+      "name": "Gilbert's shop-ticket",
+      "role": "mentioned",
+      "context": "Shown on bill in The ticket in the sleeve"
+    }
+  ]
+}

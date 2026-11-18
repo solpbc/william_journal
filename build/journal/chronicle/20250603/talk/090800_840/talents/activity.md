@@ -1,0 +1,1 @@
+You rehearsed Two Gentlemen with Phillips, Cowley and Pope. Cowley showed the tally, sums outward. You stopped him. Pope kept the tally in his belt and put the play's letter in Cowley's hand at the door, on the third entrance, on the word "letter." The bill is two of the clock.

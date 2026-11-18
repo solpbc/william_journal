@@ -1,0 +1,94 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You stood Trinity Sunday at St Helen's. Halberds were at the Mayor's pew, and they had not been there on Whitsunday. You did not count them. Sir John sat behind them and did not speak. Master Thwaite preached that the powers that be are ordained of God, that masters are to keep their servants in, and whoso resisteth. He turned the glass once and set it down. Verbeke came with the house, because not to come would be noticed. Mistress Ansell took you out by your own door.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Saw the halberds and did not count them, heard the ordinance, and went home with the house.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Preached the ordinance and set the glass down after one turning.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the pew together and took them out by their own door.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came because not coming would be noticed, and left at her pace.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat in the Mayor's pew. He did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "St Helen's",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in One turning, under the halberds",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard the glass turned once at St Helen's",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Gillis Verbeke",
+    "Master Josias Thwaite"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Trinity Sunday",
+    "one turning",
+    "the halberds",
+    "the ordinance"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "The powers that be are ordained of God."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Mark me. He set it down on Whitsunday by order, and he has set it down today."
+    },
+    {
+      "speaker": "gillis_verbeke",
+      "text": "I come with the house, mistress. Not to come would be noticed."
+    }
+  ]
+}

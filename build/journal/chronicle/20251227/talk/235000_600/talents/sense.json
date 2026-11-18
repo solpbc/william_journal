@@ -1,0 +1,137 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Still in the hall, you said you had spoken the prologue between the degrees, and that indoors every hour is night. Pope's Nurse had done what my lord said a nurse would do, and he would not repeat the sentence. Nick had stayed grave and low, held to the dagger, under every note, and Burbage had not looked away. The end was a rustle, one cough, and the chair rising, not the Theatre's hush. A gold button set with five pearls was gone from the kirtle since the play began. Sam had searched the stage-front and under the trestles for half an hour and had not found it. Nothing had glinted. Kemp said, aside, that a little gold thing may raise a bigger search than a missing player ever did. Heminges told him to keep it until the inn, down the river, and not to tell it at the Feathers. You did not find the button. You were still in the hall.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the prologue and the indoor night, and refused a second search.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the aside, and agreed to hold it until the inn.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped the story at the Feathers and kept five pearls out of the book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Searched half an hour and reported rushes, not a find.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the not-looking as a fact of the night, and took Sam off the floor.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the held note from becoming a song.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the Nurse without repeating my lord's sentence.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Queen Elizabeth",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the talk. The kirtle and the chair were told.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Henry Carey, 1st Lord Hunsdon",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the talk. His old sentence about a nurse was not repeated.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Until the inn",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Held Kemp's aside until the inn",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Thomas Pope",
+    "Richard Burbage",
+    "Augustine Phillips",
+    "Sam Latchet",
+    "Will Kemp",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the prologue",
+    "the dagger",
+    "five pearls",
+    "until the inn"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Indoors, every hour is night. The vault did not need a dusk, and I did not give it one."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "I did not look away. He held to the dagger."
+    },
+    {
+      "speaker": "sam_latchet",
+      "text": "Half an hour. The length of the stage-front, and under the trestles."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "A little gold thing may raise a bigger search than a missing player ever did."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Until the inn, when we are down the river."
+    }
+  ]
+}

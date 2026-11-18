@@ -1,0 +1,195 @@
+{
+  "daily_coverage": {
+    "maintenance": {
+      "identity": {
+        "day": "",
+        "name": "daily_schedule"
+      },
+      "evidence_revision": "31004c22128ba7817af9c61712e3f3330bcbf184761312eab1601d1107199e1b",
+      "contract_digest": "ee026c5cb5ebd3cc3d9091f9d6e63f569afac1051df96440693eb3e9489975a1",
+      "state": "outstanding",
+      "reason_code": null,
+      "owed_by": "never_made"
+    },
+    "day": "20250611",
+    "as_of_ms": 1794975930628,
+    "state": "outstanding",
+    "units": [
+      {
+        "identity": {
+          "day": "20250611",
+          "name": "morning_briefing"
+        },
+        "evidence_revision": "e34437682ba40759deb850be751577f6d8b2d01e43915dd523c6580e76c1effb",
+        "contract_digest": "40f6ec89fd8b80947c2d431fca4955ff05f86b2beb2696d6671808af2e4f75d1",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250611",
+          "name": "entities:entities_review",
+          "facet": "company"
+        },
+        "evidence_revision": "051aa0b67909aba6db2c10cac77ed346ff1946d36897be88bbd12f0d5851ad93",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250611",
+          "name": "entities:entities_review",
+          "facet": "household"
+        },
+        "evidence_revision": "30f915fbc1397568b2ad0d5c902b97ffb9890ec75a46dc936f9b69b5dc1c2ac7",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250611",
+          "name": "entities:entities_review",
+          "facet": "writing"
+        },
+        "evidence_revision": "6e996703f0cd60d953be62873a6966fb609bbece063c20c9698610c586626813",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250611",
+          "name": "entities:entity_observer",
+          "facet": "company"
+        },
+        "evidence_revision": "ecfe990835ae46d24dc5552e0af52bee0bf9fea9d2e62a93fabc93441027b521",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250611",
+          "name": "entities:entity_observer",
+          "facet": "household"
+        },
+        "evidence_revision": "cedc863494b81621e80d3d0ba7714fa4fcfe08ce73712663b27ff8b416c10c29",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250611",
+          "name": "entities:entity_observer",
+          "facet": "writing"
+        },
+        "evidence_revision": "c42ac18a906813b0fcb996e011a3d78ac71005c79dc967622e68e41d813f5ac4",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250611",
+          "name": "entities:entity_suggest",
+          "facet": "company"
+        },
+        "evidence_revision": "c1599029c9620931520f68ac015cf4315d95719b4245b86318eea1e010712115",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250611",
+          "name": "entities:entity_suggest",
+          "facet": "household"
+        },
+        "evidence_revision": "662a57fedd39802310673d1b4362388d52816f93c4ebc7df2ffa2195fbf76c61",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250611",
+          "name": "entities:entity_suggest",
+          "facet": "writing"
+        },
+        "evidence_revision": "c842a2a408c6622105c7d8035cd5076e274f9dca5e2ab185dd89083d9a6ff527",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      }
+    ]
+  },
+  "schema_version": 10,
+  "stats": {
+    "transcript_sessions": 2,
+    "transcript_segments": 9,
+    "transcript_duration": 86.0,
+    "transcript_ranges": 2,
+    "percept_sessions": 3,
+    "percept_frames": 8,
+    "percept_duration": 370.0,
+    "percept_ranges": 3,
+    "browser_segments": 0,
+    "pending_segments": 0,
+    "segments_pending_think": 0,
+    "outputs_processed": 0,
+    "outputs_pending": 10,
+    "day_bytes": 89493,
+    "segment_fold_failed": false
+  },
+  "agent_data": {
+    "reading": {
+      "count": 2,
+      "minutes": 6.0
+    },
+    "social": {
+      "count": 2,
+      "minutes": 10.0
+    },
+    "writing": {
+      "count": 1,
+      "minutes": 4.0
+    }
+  },
+  "facet_data": {
+    "company": {
+      "count": 2,
+      "minutes": 8.0
+    },
+    "household": {
+      "count": 2,
+      "minutes": 8.0
+    },
+    "writing": {
+      "count": 1,
+      "minutes": 4.0
+    }
+  },
+  "heatmap_data": {
+    "weekday": 2,
+    "hours": {
+      "8": 5.0,
+      "11": 3.0,
+      "16": 5.0,
+      "20": 4.0,
+      "21": 3.0
+    }
+  }
+}

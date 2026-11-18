@@ -1,0 +1,44 @@
+{
+  "overview": "You read the almanac. It said Michaelmas term begins. The term runs to the twenty-eighth of November. You did not write a place under the line.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the line and shut the almanac."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Michaelmas term",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the almanac",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the twenty-eighth of November",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the penny almanac",
+      "asset_type": "other",
+      "disposition": "Read that Michaelmas term begins"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-09",
+      "meaning": "Term begins"
+    }
+  ],
+  "summary": "Read that Michaelmas term begins"
+}

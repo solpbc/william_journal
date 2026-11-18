@@ -1,0 +1,13 @@
+{"day": "20250205", "density": "idle", "event": "sense.complete", "mode": "segment", "segment": "084500_120", "stream": "desk", "ts": 1738799700000}
+{"change_class": "substantive", "day": "20250205", "event": "sense.change_detect", "mode": "segment", "segment": "084500_120", "stream": "desk", "ts": 1738799700001}
+{"day": "20250205", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "084500_120", "stream": "desk", "ts": 1738799700002}
+{"day": "20250205", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "084500_120", "stream": "desk", "ts": 1738799700003}
+{"day": "20250205", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "085000_240", "stream": "talk", "ts": 1738799700010}
+{"change_class": "substantive", "day": "20250205", "event": "sense.change_detect", "mode": "segment", "segment": "085000_240", "stream": "talk", "ts": 1738799700011}
+{"day": "20250205", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "085000_240", "stream": "talk", "ts": 1738799700012}
+{"day": "20250205", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "104000_480", "stream": "obsidian", "ts": 1738799700020}
+{"change_class": "substantive", "day": "20250205", "event": "sense.change_detect", "mode": "segment", "segment": "104000_480", "stream": "obsidian", "ts": 1738799700021}
+{"day": "20250205", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "104000_480", "stream": "obsidian", "ts": 1738799700022}
+{"day": "20250205", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "130500_240", "stream": "talk", "ts": 1738799700030}
+{"change_class": "substantive", "day": "20250205", "event": "sense.change_detect", "mode": "segment", "segment": "130500_240", "stream": "talk", "ts": 1738799700031}
+{"day": "20250205", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "130500_240", "stream": "talk", "ts": 1738799700032}

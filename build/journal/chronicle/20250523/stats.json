@@ -1,0 +1,194 @@
+{
+  "daily_coverage": {
+    "maintenance": {
+      "identity": {
+        "day": "",
+        "name": "daily_schedule"
+      },
+      "evidence_revision": "31004c22128ba7817af9c61712e3f3330bcbf184761312eab1601d1107199e1b",
+      "contract_digest": "ee026c5cb5ebd3cc3d9091f9d6e63f569afac1051df96440693eb3e9489975a1",
+      "state": "outstanding",
+      "reason_code": null,
+      "owed_by": "never_made"
+    },
+    "day": "20250523",
+    "as_of_ms": 1794975930628,
+    "state": "outstanding",
+    "units": [
+      {
+        "identity": {
+          "day": "20250523",
+          "name": "morning_briefing"
+        },
+        "evidence_revision": "b2a4c6a0457d5d89962e561629d0532889c0e4ae5abd9aaefcead90ffefcdafe",
+        "contract_digest": "40f6ec89fd8b80947c2d431fca4955ff05f86b2beb2696d6671808af2e4f75d1",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250523",
+          "name": "entities:entities_review",
+          "facet": "company"
+        },
+        "evidence_revision": "a3d4b811b8366eb5a5f13bb7d9e0e697d760b265fb3fe051e630040a1e727e7f",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250523",
+          "name": "entities:entities_review",
+          "facet": "household"
+        },
+        "evidence_revision": "132699724de02460d695548194d304b91ce922fb889f9acf5deb653183f16aab",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250523",
+          "name": "entities:entities_review",
+          "facet": "stratford"
+        },
+        "evidence_revision": "15dc6551d22d68ebec90604d0169a401f63062e52c86c9167b7379ddf5b1da6e",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250523",
+          "name": "entities:entity_observer",
+          "facet": "company"
+        },
+        "evidence_revision": "bcaab772115d2dcacb85f803a9254cf5da808071d52764d4188b9639d638ccaf",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250523",
+          "name": "entities:entity_observer",
+          "facet": "household"
+        },
+        "evidence_revision": "ed2248ed179bea2a1623e9a0eaba45ccf97228511cd21e27aaaa599572e12336",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250523",
+          "name": "entities:entity_observer",
+          "facet": "stratford"
+        },
+        "evidence_revision": "a71d88d9a8a820012209abcb1eadfdab44a0bd27a99c64af15c473813c448868",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250523",
+          "name": "entities:entity_suggest",
+          "facet": "company"
+        },
+        "evidence_revision": "a1d4db77bb0187a4b197861eb997159ecb89f88b57e6e8cc8ef6f1dfa45621f6",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250523",
+          "name": "entities:entity_suggest",
+          "facet": "household"
+        },
+        "evidence_revision": "0d684959763074a806545df1d75e8cdb08d767e5d15d4b09160a20f5485fc016",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250523",
+          "name": "entities:entity_suggest",
+          "facet": "stratford"
+        },
+        "evidence_revision": "15b2dec201ca7a443c9c723f64dc81545ae4a06d8c542e68aeb1ca9b5ae857c6",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      }
+    ]
+  },
+  "schema_version": 10,
+  "stats": {
+    "transcript_sessions": 1,
+    "transcript_segments": 25,
+    "transcript_duration": 370.0,
+    "transcript_ranges": 1,
+    "percept_sessions": 3,
+    "percept_frames": 6,
+    "percept_duration": 530.0,
+    "percept_ranges": 3,
+    "browser_segments": 0,
+    "pending_segments": 0,
+    "segments_pending_think": 0,
+    "outputs_processed": 0,
+    "outputs_pending": 10,
+    "day_bytes": 90050,
+    "segment_fold_failed": false
+  },
+  "agent_data": {
+    "media": {
+      "count": 2,
+      "minutes": 14.0
+    },
+    "social": {
+      "count": 1,
+      "minutes": 12.0
+    },
+    "writing": {
+      "count": 1,
+      "minutes": 8.0
+    }
+  },
+  "facet_data": {
+    "company": {
+      "count": 2,
+      "minutes": 14.0
+    },
+    "household": {
+      "count": 1,
+      "minutes": 12.0
+    },
+    "stratford": {
+      "count": 1,
+      "minutes": 8.0
+    }
+  },
+  "heatmap_data": {
+    "weekday": 4,
+    "hours": {
+      "10": 8.0,
+      "14": 8.0,
+      "15": 6.0,
+      "17": 12.0
+    }
+  }
+}

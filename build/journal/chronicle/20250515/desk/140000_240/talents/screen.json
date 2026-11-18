@@ -1,0 +1,17 @@
+{
+  "narrative": "The roll in his hand as he goes on. The yard is full. He speaks the opening and then stands idle until the end.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Spoke the opening, and stood idle until the end."
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "context": "Shown on part in Egeon in Errors"
+    }
+  ]
+}

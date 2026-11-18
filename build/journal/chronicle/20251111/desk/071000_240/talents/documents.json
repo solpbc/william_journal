@@ -1,0 +1,44 @@
+{
+  "overview": "You brought the two fathers into the vault to see what the quarrel bought. You marked the entrance and did not write out a speech for either of them.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the entrance, and did not write the speeches."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the two fathers",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the vault",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "what the quarrel bought",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the lovers' play",
+      "asset_type": "other",
+      "disposition": "Brought the two fathers into the vault"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-11",
+      "meaning": "The two fathers"
+    }
+  ],
+  "summary": "Brought the two fathers into the vault"
+}

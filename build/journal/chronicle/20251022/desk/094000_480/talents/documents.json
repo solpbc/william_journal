@@ -1,0 +1,49 @@
+{
+  "overview": "You stayed on the one line while the ink dried. No total was written under the eightpence. The next rule stayed empty. The rolls remained on the trestle, out of the writing.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Saw eightpence entered for the copying"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the copying line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no total",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the book left open",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "eightpence",
+      "asset_type": "other",
+      "disposition": "Saw eightpence entered for the copying"
+    },
+    {
+      "name": "the company book",
+      "asset_type": "other",
+      "disposition": "Saw eightpence entered for the copying"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-22",
+      "meaning": "Left the book on the one copying line"
+    }
+  ],
+  "summary": "Saw eightpence entered for the copying"
+}

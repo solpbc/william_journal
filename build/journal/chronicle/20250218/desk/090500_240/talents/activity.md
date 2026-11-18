@@ -1,0 +1,1 @@
+Before the rehearsal you looked at the plot on the nail, at a blank margin in the book, and at the watchet gown on a hook. Nothing was ticked. The gown was not yet worn. Fifty shillings was still not written as paid.

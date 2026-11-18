@@ -1,0 +1,51 @@
+{
+  "overview": "At the lodging you copied Cowley's part and corrected the cue. You named Benvolio and you did not copy a line of the play. You put no reason in the margin. The part is for before it is needed.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Copied the part and corrected the cue."
+    },
+    {
+      "name": "Richard Cowley",
+      "role": "mentioned",
+      "formal_term": "Richard Cowley",
+      "appointment_tier": "not_applicable",
+      "context": "Copied Cowley's Benvolio and corrected the cue"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Cowley's part",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the corrected cue",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no reason",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Romeo and Juliet",
+      "asset_type": "other",
+      "disposition": "Copied Cowley's Benvolio and corrected the cue"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-19",
+      "meaning": "A part before it is needed"
+    }
+  ],
+  "summary": "Copied Cowley's Benvolio and corrected the cue"
+}

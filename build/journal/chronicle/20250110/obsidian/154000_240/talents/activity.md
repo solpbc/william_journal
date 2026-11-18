@@ -1,0 +1,1 @@
+You wrote the rates you already live by, and you did not count the coffer. A penny the loaf, twopence the horn of ink, sixpence the week for firing and washing till Lady Day, threepence the meal. The Queen's twenty pound is not yours and not had, and you did not put it in as if it were. There is no expected column and no received column.

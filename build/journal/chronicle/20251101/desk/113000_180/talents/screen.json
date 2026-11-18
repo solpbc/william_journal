@@ -1,0 +1,17 @@
+{
+  "narrative": "The same sheet. No new line under Tuesday's speech. The pen is not in the ink. The red bundle is still tied. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked at the sheet and added nothing."
+    },
+    {
+      "type": "Project",
+      "name": "the one page",
+      "role": "mentioned",
+      "context": "Shown on draft in No new line"
+    }
+  ]
+}

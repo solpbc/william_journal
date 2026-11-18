@@ -1,0 +1,49 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "After the letter you said the word likely was a small word to carry a hundred miles, and better small and true. You shut the coffer lid. You did not add a date or a sum.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the word and shut the lid.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the coffer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A small word",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Shut the coffer lid on the word likely",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the word likely",
+    "the shut lid"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Likely. A small word to carry a hundred miles. Better small and true."
+    }
+  ]
+}

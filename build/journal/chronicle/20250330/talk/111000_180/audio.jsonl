@@ -1,0 +1,9 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "mary_shakespeare", "start": "11:10:00", "text": "It is good you came at Lent and not only wrote it.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:10:14", "text": "I said Friday in a letter, and then I came.", "timing": {"end": 26.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "mary_shakespeare", "start": "11:10:26", "text": "I have said the one thing. I will not say it twice.", "timing": {"end": 38.0, "start": 26.0}}
+{"sentence_id": 4, "speaker": "anne_shakespeare", "start": "11:10:38", "text": "The children are ahead. Thy arm again, Will. The lane does the rest.", "timing": {"end": 52.0, "start": 38.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "11:10:52", "text": "You have it.", "timing": {"end": 100.0, "start": 52.0}}
+{"sentence_id": 6, "speaker": "anne_shakespeare", "start": "11:11:40", "text": "That is enough porch. Dinner is pottage, and I will not have it made into a sermon.", "timing": {"end": 114.0, "start": 100.0}}
+{"sentence_id": 7, "speaker": "mary_shakespeare", "start": "11:11:54", "text": "I am not making one. I have finished.", "timing": {"end": 126.0, "start": 114.0}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "11:12:06", "text": "Then we are walking.", "timing": {"end": 136.0, "start": 126.0}}

@@ -1,0 +1,1 @@
+Hobbins was in at the Bell. You gave him Susanna's letter, the one written on the twenty-sixth, at twopence. You sent no parcel and no money with it. He had nothing for you this time. No cheese, no glove, and no word for your hand.

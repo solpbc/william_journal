@@ -1,0 +1,23 @@
+{
+  "narrative": "The same sheet, the window gone grey, the pen slower than it was at noon. One more line, and the rest of the sheet bare, the frost still in the corners of the pane.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote two lines and stopped while the light went."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on draft in The Worthies, only begun"
+    },
+    {
+      "type": "Project",
+      "name": "Two Gentlemen of Verona",
+      "role": "mentioned",
+      "context": "Shown on draft in The Worthies, only begun"
+    }
+  ]
+}

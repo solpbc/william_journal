@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You brought the small Italian book to the top of the stair. You did not give it a title. It is going back to Field.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Carried the book, and did not name it.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the Italian book",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Down to the stair, untitled",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Carried the Italian book down to the stair",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the untitled book",
+    "the stair"
+  ],
+  "quotes": []
+}

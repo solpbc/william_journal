@@ -1,0 +1,17 @@
+{
+  "narrative": "Coatless, in his shirt, at the board. A small black-letter book lies held flat by the round pounce-box. The leaf is the feast. A bluebottle ticks at the casement. Sweat shines on the wrist that rests beside the book. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the leaf as texture, and did not copy it."
+    },
+    {
+      "type": "Project",
+      "name": "Brooke",
+      "role": "mentioned",
+      "context": "Shown on book in The book, as texture"
+    }
+  ]
+}

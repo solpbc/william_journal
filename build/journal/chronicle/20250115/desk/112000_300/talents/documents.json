@@ -1,0 +1,49 @@
+{
+  "overview": "You copied slowly, with a stopped nose, and you marked one line you do not trust. You did not finish the act. You did not write the songs, and you did not write the last line. Titus went on at the Cross Keys without you.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Copied slowly and marked the line."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "a slow copy",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the crossed line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the stopped nose",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Marked one line with a cross"
+    },
+    {
+      "name": "Titus Andronicus",
+      "asset_type": "other",
+      "disposition": "Marked one line with a cross"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-15",
+      "meaning": "A cross in the margin"
+    }
+  ],
+  "summary": "Marked one line with a cross"
+}

@@ -1,0 +1,110 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You gave Susanna the fables with woodcuts and no riddles, Judith the ballad, and Hamnet the chipped H. You sang the ballad once, badly, and Judith had the tune and the words. You yielded on whom. You told Susanna the queen steps into the shadow of the trees, and that she had had it right. Anne asked three weeks. You said till the eighteenth. She said hm.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the three, sang once, and yielded on whom.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the fables, corrected whom, and asked about the queen.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the ballad at one hearing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the H, and asked who Plutarch is.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked the three weeks, heard the eighteenth, and went on.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named as the man who will say Plutarch is dear. Not in the orchard.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Gave the fables, the ballad and the chipped H, and said till the eighteenth",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Susanna Shakespeare",
+    "Judith Shakespeare",
+    "Hamnet Shakespeare",
+    "Anne Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the three gifts",
+    "whom",
+    "till the eighteenth"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "It has been in Plutarch"
+    },
+    {
+      "speaker": "hamnet_shakespeare",
+      "text": "Who is Plutarch?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A Greek. Master Field will tell thee he is very dear"
+    },
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "And the queen? Did she hide?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "She steps into the shadow of the trees"
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Three weeks, then?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Till the eighteenth"
+    }
+  ]
+}

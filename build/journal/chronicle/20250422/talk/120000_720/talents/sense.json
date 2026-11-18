@@ -1,0 +1,114 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Mistress Ansell measured the loaf a finger and a half short, still a penny, the first measure since Easter. You paid threepence. She asked for the twins' plot while Alse carried the pot, and she ruled that a chain handed over for nothing is not a gift. The firing stayed off. You said tomorrow's Shrew does not cast you.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told the plot of the twins, paid threepence, and said he is not in tomorrow's Shrew.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Measured a finger and a half, ruled on the chain, and left the firing off.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Carried the pot and kept the loaf off the notch.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the loaf was the same shortness as before the ride.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A finger and a half",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "threepence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A finger and a half",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A finger and a half",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Shrew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A finger and a half",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Paid threepence and heard the loaf measured",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "William Shakespeare",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a finger and a half",
+    "the twins' plot",
+    "threepence",
+    "the firing still off"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The loaf is a finger and a half short, and it is still a penny."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A finger and a half, and not a thumb."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Threepence is the board."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I have never been inside a playhouse, and I am not beginning today."
+    }
+  ]
+}

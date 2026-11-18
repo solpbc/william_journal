@@ -1,0 +1,29 @@
+{
+  "narrative": "From the bed, eye level low, along a grey blanket. Cowley's hands hold a roll open. A bowl of broth and a piece of bread sit on a stool between the bed and the chair. Mistress Ansell's hands are leaving the bowl. Neither face is turned toward the bed. No face of the man in the bed, and no mirror.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "In The roll and the bowl"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "mentioned",
+      "context": "Held the roll, not looking toward the bed."
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "mentioned",
+      "context": "Set the bowl down and drew her hands back."
+    },
+    {
+      "type": "Tool",
+      "name": "the roll",
+      "role": "mentioned",
+      "context": "In photo: The roll and the bowl"
+    }
+  ]
+}

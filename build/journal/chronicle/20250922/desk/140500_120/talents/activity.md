@@ -1,0 +1,1 @@
+At two the plot was Love's Labour's Lost at the Theatre, and your side on it was the King of Navarre. You played the afternoon and brought no speech of it home. Across the water the Rose had two bills, Seven Days and the first Hercules. You did not cross.

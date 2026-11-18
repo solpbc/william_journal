@@ -1,0 +1,1 @@
+You wrote Anne that she was to pay nothing on your father's account until you come. The page is harsher than a bill of fourteen shillings and sixpence. It is dated in the old year, and it is not the letter you will keep.

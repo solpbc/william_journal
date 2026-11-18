@@ -1,0 +1,17 @@
+{
+  "narrative": "The narrow book is open. He writes one line for the week. He does not rule a new total under Monday's line. The forty-five are the share, sitting as a share. No subtraction from twenty-three pound ten. No June figure. No second sum beside Thursday's box. The pen stops.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Entered the line without a jest, and did not count the box again."
+    },
+    {
+      "type": "Tool",
+      "name": "45s",
+      "role": "mentioned",
+      "context": "Shown on ledger in Item, my share"
+    }
+  ]
+}

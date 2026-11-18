@@ -1,0 +1,56 @@
+{
+  "overview": "You looked at the forty leaves and did not copy a line of them onto a new sheet. The ruled couplet is still the end. Gib stayed on the Holinshed. You did not open the coffer, and you did not take the leaves out of the room.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked at the shut stack and did not begin another."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Stayed on the Holinshed."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the forty leaves",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no second book",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the cat",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Looked at the forty leaves"
+    },
+    {
+      "name": "the Holinshed",
+      "asset_type": "other",
+      "disposition": "Looked at the forty leaves"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-23",
+      "meaning": "The forty leaves, still"
+    }
+  ],
+  "summary": "Looked at the forty leaves"
+}

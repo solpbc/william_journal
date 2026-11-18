@@ -1,0 +1,77 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Mistress Ansell asked which queen, with the eggs in her hand. You told her the masque was heard of only, and that you had not been asked. There were no ruffs to report. You did not give her the plot, and you did not put December's twenty pounds on her board. She kept Tuesday for pancakes if the eggs hold, and Wednesday for fish.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the plot, refused the coin, and went upstairs.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked which queen, kept the eggs for Tuesday, and gave no verdict.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked after a ruff, and did not count the warrant.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Two Gentlemen of Verona",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Which queen",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Told Mistress Ansell the masque was only heard of",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "which queen",
+    "no ruffs",
+    "the eggs",
+    "twenty pounds not on the board"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "We were not asked. It is heard of only."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "If you have come home with a purse of court money, it is not going on my board."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "There is no purse. The warrant for December's twenty pounds is drawn and moving."
+    }
+  ]
+}

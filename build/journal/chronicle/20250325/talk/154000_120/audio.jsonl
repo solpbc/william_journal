@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "dorcas_ansell", "start": "15:40:00", "text": "Small beer. Drink it before you are brave. I am giving you my blessing on the road, and the blessing is not a plot, and it is not a second receipt.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "15:40:16", "text": "I'll take the beer and the blessing. I leave in the morning. I will not ask you to improve either.", "timing": {"end": 30.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "dorcas_ansell", "start": "15:40:30", "text": "Then go to the church like a man whose quarter is paid, and leave the improving to the road. The beer is the end of what I have to give you today.", "timing": {"end": 40.0, "start": 30.0}}

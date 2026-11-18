@@ -1,0 +1,1 @@
+At noon in Chipping Norton you said Long Compton had been dry and the stones clear on the ridge. You had ridden with the reins slack and the tables on the saddle, and you had written nothing. You were not going to start.

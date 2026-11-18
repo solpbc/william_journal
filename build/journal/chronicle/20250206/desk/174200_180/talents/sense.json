@@ -1,0 +1,44 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You read Anne's letter in the yard. The pan is mended. The ladle was where your father swore he had never put it. The well had been a quarrel over a turn, and it was done. She wrote that he is mending. There was no day for Lent in it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the leaf and did not add a question to it.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Candlemas letter",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Her letter, as far as the well",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Read Anne's letter of the pan, the ladle, and the well",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the pan",
+    "the ladle",
+    "the well",
+    "mending"
+  ],
+  "quotes": []
+}

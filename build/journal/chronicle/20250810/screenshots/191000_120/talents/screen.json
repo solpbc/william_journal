@@ -1,0 +1,17 @@
+{
+  "narrative": "The heel of a loaf and a row of wooden cups on the kitchen board, the bakehouse cloth folded empty beside them. Evening light in the open door. No one is in the frame.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and left the board as it was."
+    },
+    {
+      "type": "Tool",
+      "name": "the loaf",
+      "role": "mentioned",
+      "context": "In photo: The heel of the loaf"
+    }
+  ]
+}

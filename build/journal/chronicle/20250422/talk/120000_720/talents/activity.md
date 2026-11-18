@@ -1,0 +1,1 @@
+Mistress Ansell measured the loaf a finger and a half short, still a penny, the first measure since Easter. You paid threepence. She asked for the twins' plot while Alse carried the pot, and she ruled that a chain handed over for nothing is not a gift. The firing stayed off. You said tomorrow's Shrew does not cast you.

@@ -1,0 +1,1 @@
+During the afternoon play, late snow came into the Cross Keys yard and thinned it. Standers drew under the gallery. A candle was lit early in the parlour. You were in the play. You did not count the house from the curtain.

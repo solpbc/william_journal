@@ -1,0 +1,1 @@
+You copied slowly, with a stopped nose, and you marked one line you do not trust. You did not finish the act. You did not write the songs, and you did not write the last line. Titus went on at the Cross Keys without you.

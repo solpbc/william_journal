@@ -1,0 +1,85 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "It was thou on the stair, the first sit-down at Blackfriars since Whitsun. Field asked for his Holinshed, the second volume, and you told him a cat keeps it. He said that is not what a book is for. Jacqueline asked after your wife as one householder after another, and did not translate the pottage. You gave the streets. When the great house by the chapel went by, he looked up and did not ask.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat down, left the book with the cat, and told the streets.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the second volume, took the streets, and did not ask about the house.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Jacqueline Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set a pottage with a French name on the table, and asked after his wife.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Reported well, and not at the table.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Holinshed",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thou on the stair",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Gave Field the streets",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Field",
+    "William Shakespeare",
+    "Jacqueline Field"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "thou on the stair",
+    "the Holinshed",
+    "the streets",
+    "the house not asked"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_field",
+      "text": "My Holinshed, Will. The second volume. I see the gap every morning."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It's safe. A cat keeps it."
+    },
+    {
+      "speaker": "richard_field",
+      "text": "That is not what a book is for."
+    }
+  ]
+}

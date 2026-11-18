@@ -1,0 +1,94 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At dinner she counted three candles to the socket on Tuesday, and asked if it was the lovers again. You said Tuesday was the tooth, and the lovers were this morning, and they burned one. They parted at sunrise. She said they had more sense than you. There is no lark in Great St Helen's in October, only rooks, and the girl had lied about the nightingale. The loaf is still a penny and a full thumb short. Board was threepence. Twelve pence for the tooth is Tuesday, and unpaid. You are in the Roman at two.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named one candle, sunrise, the rooks, and Tuesday at ten.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted three, gave them more sense than him, and sent him out with a clear plate.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the socket, the loaf, and the wool left in the saucer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Reached for the saucer and was told off.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "a penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three candles, and one",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "twelve pence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three candles, and one",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Told her Tuesday was the tooth and the morning was the lovers",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three candles",
+    "one candle",
+    "sunrise",
+    "no lark",
+    "twelve pence"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "You burned three candles to the socket Tuesday."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Tuesday was the tooth. The lovers were this morning."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Then they've more sense than you."
+    }
+  ]
+}

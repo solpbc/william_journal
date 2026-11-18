@@ -1,0 +1,101 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You asked for a length of red and not the skein. Alse cut an arm's length on her own arm. You told them the fair copy runs through the dawn already written, that it is coherent, and that it is not finished. The rehearsal marks stay. You will write three lines home before you correct another word. Twopence waits until Thursday.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the six movements and the dawn already written, and would not write finished.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spared a length and not the basket, and kept today's twopence unpaid.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Cut the thread on her own arm and took the scissors back.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Came for the Holinshed and was left to it.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the fair copy of the lovers",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in An arm's length of red",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the folder of private verse",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in An arm's length of red",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in An arm's length of red",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Took an arm's length of red thread",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Mistress Dorcas Ansell",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "an arm's length of red thread",
+    "the fair copy",
+    "the rehearsal marks",
+    "three lines home"
+  ],
+  "quotes": [
+    {
+      "speaker": "alse_pinder",
+      "text": "An arm's length, on my own arm."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It is coherent. It is not finished."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Twopence is Thursday's, when the carrier has it."
+    }
+  ]
+}

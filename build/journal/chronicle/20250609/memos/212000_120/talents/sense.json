@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At home you said you had not shrugged the afternoon off. You kept Margery's sentence, and Garnish's fifteen, and the hush. You left the king where he was. You did not write.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept Margery's sentence and left the book shut.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the comedy",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in He does not shrug it off",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Kept Margery's sentence",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the yard",
+    "fifteen",
+    "the king left shut"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I do not shrug it off."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "They laughed like men who mean to laugh at something else after."
+    }
+  ]
+}

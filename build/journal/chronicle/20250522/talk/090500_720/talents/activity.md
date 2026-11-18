@@ -1,0 +1,1 @@
+You rehearsed the Ghost in the old Hamlet. Garnish set a handful of flour, not a bag, and said nobody was to write in the book. You took two turns and came in early on the first. On the second you waited Pope's word. Nick kept four lines, and you told him his voice is sound. The flour stayed in the hair for the afternoon.

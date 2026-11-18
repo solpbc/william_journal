@@ -1,0 +1,1 @@
+You came off dead by the third act and out of the gown by four. Burbage said the yard did not thin. You would not give the side a name on the way home. Kemp spent the name, and you did not offer him a fool in that part. You put the scarf on and left the name on the peg.

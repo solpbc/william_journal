@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 360.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "hamnet_shakespeare", "start": "15:12:40", "text": "The door. I was first. I am saying first before anybody makes it a walk.", "timing": {"end": 140.0, "start": 40.0}}
+{"sentence_id": 2, "speaker": "judith_shakespeare", "start": "15:14:20", "text": "You were first at running. The boats are in my hands, which is the part I am keeping.", "timing": {"end": 250.0, "start": 140.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "15:16:10", "text": "In the hands, and then on the step. We are not a procession in the passage.", "timing": {"end": 320.0, "start": 250.0}}
+{"sentence_id": 4, "speaker": "anne_shakespeare", "start": "15:17:20", "text": "Joan has the door. Let her have the first word of the house. We have had the road.", "timing": {"end": 330.0, "start": 320.0}}

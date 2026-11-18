@@ -1,0 +1,29 @@
+{
+  "narrative": "The book lies open on the chamber table. Receipts on the left, payments on the right, each on its own line. Evening prayer is already over and is not on the page. The fire in the grate is laid and dark. He rules one line under the count. A canvas packet sits beside the book, already sewn, not opened. He does not write a second total under it. The five shares stay five lines. The expected forty stays in the expected column. No sum is written in the margin, and no remainder is written where the canvas will leave a gap.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Ruled the line, and stopped."
+    },
+    {
+      "type": "Tool",
+      "name": "\u00a323 10s",
+      "role": "mentioned",
+      "context": "Shown on ledger in Twenty-three pound ten"
+    },
+    {
+      "type": "Tool",
+      "name": "60s",
+      "role": "mentioned",
+      "context": "Shown on ledger in Twenty-three pound ten"
+    },
+    {
+      "type": "Tool",
+      "name": "40s expected",
+      "role": "mentioned",
+      "context": "Shown on ledger in Twenty-three pound ten"
+    }
+  ]
+}

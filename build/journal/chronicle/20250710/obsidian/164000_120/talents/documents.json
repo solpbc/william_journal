@@ -1,0 +1,39 @@
+{
+  "overview": "You wrote one sentence. York may bring word of the deposing. Nobody is to see a crown change hands. You did not write the Parliament back in.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the sentence."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "York's report",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a crown not seen to change hands",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Wrote that York may bring word of the deposing"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-10",
+      "meaning": "York may bring word"
+    }
+  ],
+  "summary": "Wrote that York may bring word of the deposing"
+}

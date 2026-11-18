@@ -1,0 +1,1 @@
+On the way home from St John's you stopped at the Theatre's stage door and told Richard that Tilney had cut the glass. He answered with the speech that was cut. You asked for the pearwood glass back, for the coffer, and he would not give it. John was there and said nothing.

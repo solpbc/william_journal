@@ -1,0 +1,81 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You stood in the bakehouse door with the three already ahead. The cloth was with Susanna. Sadler went back toward the oven and did not follow you. You left the heat in the house.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stood in the bakehouse door",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stood in the bakehouse door",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Sadler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stood in the bakehouse door",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Sadler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stood in the bakehouse door",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the pie",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Stood in the bakehouse door",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Ate dinner at the Sadlers'",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Judith Sadler",
+    "Hamnet Sadler",
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the door",
+    "the three ahead",
+    "the oven left behind"
+  ],
+  "quotes": [
+    {
+      "speaker": "judith_sadler",
+      "text": "Go while a row is what they are."
+    },
+    {
+      "speaker": "hamnet_sadler",
+      "text": "The oven is my farewell."
+    }
+  ]
+}

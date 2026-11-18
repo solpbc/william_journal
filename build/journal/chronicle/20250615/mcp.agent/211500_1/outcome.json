@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "timestamp": "2025-06-15T20:15:00Z",
+  "outcome": "served",
+  "reason": null,
+  "result": {
+    "count": 1,
+    "targets": [
+      "facets/household/activities/20250615.jsonl#meeting_092000_720"
+    ],
+    "digest": "d5a9f3d39b4cf4113db139633f82b39ed9d526f28dede24986e106d07d21a1bd"
+  }
+}

@@ -1,0 +1,1 @@
+You counted from this Sunday to St Stephen and wrote one line in the almanac. Richmond is twenty-six days off. You did not add a time, a play, or a sum, and you did not mark this morning with anything but the feast.

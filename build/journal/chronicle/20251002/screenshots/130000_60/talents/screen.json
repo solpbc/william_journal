@@ -1,0 +1,17 @@
+{
+  "narrative": "The stage before the house fills: a throne on its dais, a mirror laid on the seat.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and left the glass lying."
+    },
+    {
+      "type": "Tool",
+      "name": "the looking-glass",
+      "role": "mentioned",
+      "context": "In photo: A mirror on the seat"
+    }
+  ]
+}

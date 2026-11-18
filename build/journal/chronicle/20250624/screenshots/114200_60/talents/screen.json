@@ -1,0 +1,23 @@
+{
+  "narrative": "Twenty shillings counted onto the bread-board beside the loaf, Mistress Ansell's hand drawing them in. The loaf falls short of the old notch. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked at the counted silver."
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "context": "Drew the twenty shillings in."
+    },
+    {
+      "type": "Project",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "context": "In photo: Twenty shillings"
+    }
+  ]
+}

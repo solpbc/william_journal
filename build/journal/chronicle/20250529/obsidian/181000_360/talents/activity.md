@@ -1,0 +1,1 @@
+You wrote the two commonplace lines. The first is the Ascension cheese at 2d the pound, and the wheat like an old man's beard. The next line, with no heading, is the queen in a garden and the gardener binding up apricocks.

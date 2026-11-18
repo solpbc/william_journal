@@ -1,0 +1,112 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "You played Gaunt for the sixth time, to a full house on a raw day, and the jaw held. You were done in the second act. Margery reported gowns, citizens, two bishops' men, and an old gentleman in a frieze cloak at the back of the twopenny room who paid for three. He struck the rail with his fist, and she took it for clapping. Heminges guessed a country justice up for the term. Nobody carried the guess further. The Rose bill was Barnardo. You did not cross, and you do not know their receipt.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the sixth time only after the play, and refused a patron made of a fist.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the account of the house, and took the fist for clapping.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Guessed a country justice, and stopped the guess there.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked if the man clapped, and left the answer as it was.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Entered three paid and no name.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A fist, taken for clapping",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Barnardo",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A fist, taken for clapping",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Rose",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A fist, taken for clapping",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard of the man in the frieze cloak",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Goodwife Margery Pell",
+    "Abel Garnish"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the sixth time",
+    "the whole jaw",
+    "paid for three",
+    "a fist for clapping",
+    "Barnardo"
+  ],
+  "quotes": [
+    {
+      "speaker": "margery_pell",
+      "text": "He struck the rail with his fist. I took it for clapping."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "A country justice, up for the term."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "I have no receipt of theirs, and I am not going to read one I have not got."
+    }
+  ]
+}

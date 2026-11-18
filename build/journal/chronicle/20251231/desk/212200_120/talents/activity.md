@@ -1,0 +1,1 @@
+After the book was shut you lit a fresh candle and took up the twelfth leaf. You wrote one line, that he sings so they may think him glad. You did not write what happens next. The coffer stayed shut beside the leaves.

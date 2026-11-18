@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:40:00", "text": "There's a crack in the plaster the shape of the Thames. Blackfriars. The Bridge.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:40:14", "text": "I can't lie on a floor in London. I've a king to bury.", "timing": {"end": 24.0, "start": 14.0}}

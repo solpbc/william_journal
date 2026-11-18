@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote that the ladies are in the park, and that you have no sentence for them yet. You wrote that the oath is still standing, and that the page stops. You did not take it further.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the two lines and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The ladies, and no sentence",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote the ladies in the park and stopped the page",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the ladies in the park",
+    "no sentence",
+    "the oath still standing"
+  ],
+  "quotes": []
+}

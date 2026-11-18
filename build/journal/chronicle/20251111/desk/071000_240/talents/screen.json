@@ -1,0 +1,17 @@
+{
+  "narrative": "The tomb sheet, a new opening under the blank. The pen is wet. No speech under the opening. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the entrance, and did not write the speeches."
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "context": "Shown on draft in The two fathers"
+    }
+  ]
+}

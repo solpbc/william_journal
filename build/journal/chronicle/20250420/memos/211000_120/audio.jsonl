@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:10:00", "text": "She asked whether London is where I work or where I live. I did not answer well. I will not answer better tonight.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:10:16", "text": "No house. No figure. The beef was good, and that is not a letter.", "timing": {"end": 30.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:10:30", "text": "Enough.", "timing": {"end": 40.0, "start": 30.0}}

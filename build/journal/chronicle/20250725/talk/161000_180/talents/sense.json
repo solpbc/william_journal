@@ -1,0 +1,71 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "After the play, the house had been sober, and so had the King of Navarre. You did not heat the part. The play itself is not kept.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused to heat the king.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the house sober.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told you to leave the comedy as it stands.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A sober king",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Played the King of Navarre to a sober house",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Burbage",
+    "William Shakespeare",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a sober house",
+    "the king unheated"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "A sober house."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Then a sober king."
+    }
+  ]
+}

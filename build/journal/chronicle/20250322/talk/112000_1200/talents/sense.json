@@ -1,0 +1,98 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You boarded at threepence, the second meal of the week. The hose are your mother's, and they stayed. Hobbins took four lines: Wednesday, by Oxford, the bridge on Friday by dusk, and he leaves today. The long letter is still on the board, with no day. You gave no new plot. The firing sixpence was not collected. The chamber was left as a Tuesday question.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the four lines, kept the long letter, and offered no plot.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the second meal, asked with the dish in her hand, and waived a verdict.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the stitch in the hose, and left the unread page unread.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate, and left the letters to the people who write them.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "3d a meal",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The second threepence",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "6d firing",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The second threepence",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Sat the second threepence",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the second threepence",
+    "the hose",
+    "four lines gone",
+    "the long letter still there"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Sunday was the first. This is the second."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "He took four lines."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It has no day in it. It did not go."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Then I am not owed a verdict."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "From the boat the Rose went by with its flagstaff bare. The new timber is green oak. James said it will twist, and that it is bigger than his. It is wider than the Rose and wider than the Theatre. Cuthbert said the Lord Mayor wrote to the Lord Treasurer against this house last November, and there it stands, on ground the City cannot touch. Davy said it is Langley's, a goldsmith building a playhouse, who will gild the groundlings. You know a goldsmith, and letters written against him. You did not land.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Looked, and did not step out.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Judged the oak, and the size.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Cuthbert Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the Mayor's letter, and the ground the City cannot touch.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Davy Gannet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the goldsmith, and kept the boat off the bank.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "the Rose",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Green oak",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "the Lord Mayor",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Green oak",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Saw the green oak from the boat",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Davy Gannet",
+    "James Burbage",
+    "William Shakespeare",
+    "Cuthbert Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "green oak",
+    "the Mayor's letter",
+    "Langley",
+    "no landing"
+  ],
+  "quotes": [
+    {
+      "speaker": "james_burbage",
+      "text": "Green oak. It'll twist"
+    },
+    {
+      "speaker": "james_burbage",
+      "text": "It's bigger than mine"
+    },
+    {
+      "speaker": "davy_gannet",
+      "text": "That's Langley's. A goldsmith building a playhouse, master"
+    }
+  ]
+}

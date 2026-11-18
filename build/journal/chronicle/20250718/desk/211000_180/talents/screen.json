@@ -1,0 +1,17 @@
+{
+  "narrative": "The feast sheet, dry enough to leave. The two lines at the top. No new stroke in the margin. No face. Lower on the same sheet. The line he tried to an empty room. Nothing written under it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Left the sheet."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on draft in What the sheet keeps"
+    }
+  ]
+}

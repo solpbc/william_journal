@@ -1,0 +1,59 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "On the corner of the table you added the fourth line to Sunday's three. The tooth is out, the king draws, and you are well. You did not write a Christmas promise, and you did not write Daniel into the letter.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the line on the corner and signed it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Waited while the ink was wet enough to read.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "The person the paper is for. She is not at the table.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the letter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The fourth line",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Wrote the fourth line at the Bell",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the fourth line",
+    "the corner of the table",
+    "no extra anecdote"
+  ],
+  "quotes": []
+}

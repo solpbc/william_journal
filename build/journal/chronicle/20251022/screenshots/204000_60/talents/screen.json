@@ -1,0 +1,23 @@
+{
+  "narrative": "A loose leaf with two lines of writing and one word beneath them. The red bundle sits apart on the same board, still knotted, not touching the leaf. Candlelight. Ink on the right forefinger. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Set the leaf down and left the bundle shut."
+    },
+    {
+      "type": "Project",
+      "name": "the loose leaf",
+      "role": "mentioned",
+      "context": "In photo: The leaf, apart from the bundle"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "context": "In photo: The leaf, apart from the bundle"
+    }
+  ]
+}

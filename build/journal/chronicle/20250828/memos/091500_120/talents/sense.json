@@ -1,0 +1,62 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "A neighbour's voice came in at the casement, scolding a prentice. You shut the casement. The noise stopped, and you missed the air at once. The four lines stayed out. You stayed seated. Egeon is at two.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Shut the casement and went back to the sheet.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The air goes with the noise",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The air goes with the noise",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Shut the casement and missed the air",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the neighbour's scold",
+    "the shut casement",
+    "the missed air"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I shut it. The words stopped. The air stopped with them"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The four lines are out"
+    }
+  ]
+}

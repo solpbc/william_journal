@@ -1,0 +1,23 @@
+{
+  "narrative": "Three clean leaves on the board. Cold rain on the casement. A woollen clout, dark with aquavitae, is at the jaw, outside the frame of the paper. Two lines are wet on the top leaf. No face. The same three leaves, further down. One line stands alone. The clout has not moved. No face. The three leaves folded once, slid under the account book in the coffer. The writing is inside the fold. Rain on the casement. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Copied the three leaves, folded them, and laid them under the account book."
+    },
+    {
+      "type": "Tool",
+      "name": "the three leaves",
+      "role": "mentioned",
+      "context": "Shown on draft in Three leaves under the book"
+    },
+    {
+      "type": "Tool",
+      "name": "aquavitae",
+      "role": "mentioned",
+      "context": "Shown on draft in Three leaves under the book"
+    }
+  ]
+}

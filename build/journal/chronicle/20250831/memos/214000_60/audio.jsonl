@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:40:00", "text": "I will not improve it. It is sealed. The three beginnings stay struck.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:40:12", "text": "Twenty pound fifteen, and six-and-twenty since. I am not adding them.", "timing": {"end": 22.0, "start": 12.0}}

@@ -1,0 +1,38 @@
+{
+  "overview": "You took one quire of Rochelle crown at fourpence halfpenny, the trade you already pay. The bill names nothing else. You did not write a hall on it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Took the quire and did not write a second line."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "one quire",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "fourpence halfpenny",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the old trade",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-19",
+      "meaning": "One quire, the old trade"
+    }
+  ],
+  "summary": "Took one quire at fourpence halfpenny"
+}

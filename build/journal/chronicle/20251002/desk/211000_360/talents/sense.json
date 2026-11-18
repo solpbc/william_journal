@@ -1,0 +1,44 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At home you entered The Disguises among the Rose's bills, not among the plays you have seen. You wrote no sum beside it. You did not copy eleven pound six into the tables. The title is a title. The play is unvisited.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the title, and did not write a taking.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Disguises",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Among the bills",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Entered The Disguises among the Rose's bills",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the tables",
+    "The Disguises",
+    "not seen",
+    "no sum"
+  ],
+  "quotes": []
+}

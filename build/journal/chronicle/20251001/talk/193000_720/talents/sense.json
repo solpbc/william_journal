@@ -1,0 +1,104 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Gilbert came after the shop shut and took the Michaelmas money to the Bell, sixty shillings sewn in canvas, for tomorrow's carrier. Four lines go with it: the king is played Thursday, and more when you know whether anybody came. You do not go yourself. Tomorrow at about a quarter to three you will be dying at Ely House. Alse, at the door with the washing, heard \"this England\" and asked whether he is sorry to leave it or sorry for it. You said both. She told you to say it sorrier at the end. Mistress Ansell called her down from the stair. Not after eight. Gilbert, going, said that if it fails there is always ribbon.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the packet, said both, and stayed home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gilbert Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the canvas to the Bell, and left the ribbon as a trade if the king fails.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked which sorrow, and told him to be sorrier at the end.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called Alse off the stair after eight, and closed the house.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "60s",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The canvas, and which sorrow",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the carrier",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The canvas, and which sorrow",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Gave Gilbert the canvas",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Gilbert Shakespeare",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "sixty shillings",
+    "the Bell",
+    "four lines",
+    "which sorrow",
+    "not after eight",
+    "ribbon"
+  ],
+  "quotes": [
+    {
+      "speaker": "alse_pinder",
+      "text": "Is he sorry to leave it, sir, or sorry for it?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Both."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "Then say it sorrier at the end."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Alse! Not after eight."
+    },
+    {
+      "speaker": "gilbert_shakespeare",
+      "text": "If it fails, brother, there's always ribbon."
+    }
+  ]
+}

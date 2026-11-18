@@ -1,0 +1,1 @@
+At supper you said you had left the Keys at eleven and were not in The Shrew. Mistress Ansell would not rule that play off one sentence, and she did not reopen her January verdict on the comedy. The latch stuck and sprang, and she left it on the door. The letter still waits for the carrier of the 27th. Your board was threepence.

@@ -1,0 +1,71 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "At the Theatre James Burbage put his knife two inches into a spongy oak post laid in 1576. The lease is twenty-one years, and the ground falls back to Giles Allen on the thirteenth of April, 1597. Allen is slow to renew. Cuthbert asked who would pay the carpenter. You named no price. You gave two mornings in March and left the law to the family. You did not talk about any later building.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Promised two mornings in March, named no sum, and repeated the date without making it a plan for another house.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Drove the knife two inches, cursed Allen, and asked for a carpenter's mornings rather than a vision.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Cuthbert Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked who pays the carpenter, and kept the price out of William's mouth.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Gave two mornings in March to the carpenter",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "James Burbage",
+    "William Shakespeare",
+    "Cuthbert Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two inches",
+    "1576",
+    "twenty-one years",
+    "the thirteenth of April 1597",
+    "two mornings",
+    "no price"
+  ],
+  "quotes": [
+    {
+      "speaker": "james_burbage",
+      "text": "God's body."
+    },
+    {
+      "speaker": "cuthbert_burbage",
+      "text": "Who pays the carpenter?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Two mornings in March, in Lent, I will come"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "narrative": "The words \"here York, angry\" have a line through them, as a reminder spent. The messenger mark beside them is untouched. No face. Six short lines under the crossed mark. The hand is the working hand, not a fair copy. The three deposition sheets stay at the edge, unopened this hour. The messenger reminder is still only the four words. No speech has been written under it. The pen is set down.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote York naming the rights, and stopped the speech where the breath stops."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in His breath gives out"
+    }
+  ]
+}

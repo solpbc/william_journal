@@ -1,0 +1,51 @@
+{
+  "overview": "At Paul's you paid sixpence for a worn copy of Brooke's Romeus and Juliet, lacking the last leaf but one. John Harrison was in the churchyard and did not speak. You took the leaves that remained.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Checked the lack, paid sixpence, and took the book."
+    },
+    {
+      "name": "John Harrison",
+      "role": "visible",
+      "formal_term": "John Harrison",
+      "appointment_tier": "not_applicable",
+      "context": "Stood in the churchyard and did not speak."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "sixpence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the last leaf but one",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Paul's",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Romeus and Juliet",
+      "asset_type": "other",
+      "disposition": "Paid sixpence for the leaves that remained"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-06",
+      "meaning": "Sixpence, and the leaf it lacks"
+    }
+  ],
+  "summary": "Paid sixpence for the leaves that remained"
+}

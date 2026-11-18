@@ -1,0 +1,1 @@
+After supper you struck a gloss on the roll and wrote that the oath was the oath. You did not read the oath out to the house. You left the king's first line as it stood. The margin had no letter at its head and no figure.

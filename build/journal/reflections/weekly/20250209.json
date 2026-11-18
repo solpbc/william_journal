@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250209",
+    "end": "20250215"
+  },
+  "generated_at": "2025-02-15T22:00:00Z",
+  "days": [
+    {
+      "day": "20250209",
+      "state": "memory",
+      "memory_id": "m-20250209-0"
+    },
+    {
+      "day": "20250210",
+      "state": "memory",
+      "memory_id": "m-20250210-1"
+    },
+    {
+      "day": "20250211",
+      "state": "memory",
+      "memory_id": "m-20250211-2"
+    },
+    {
+      "day": "20250212",
+      "state": "memory",
+      "memory_id": "m-20250212-3"
+    },
+    {
+      "day": "20250213",
+      "state": "memory",
+      "memory_id": "m-20250213-4"
+    },
+    {
+      "day": "20250214",
+      "state": "memory",
+      "memory_id": "m-20250214-5"
+    },
+    {
+      "day": "20250215",
+      "state": "memory",
+      "memory_id": "m-20250215-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250209-0",
+      "key": "mem_20250209_0",
+      "day": "20250209",
+      "text": "You wrote Anne and left the letter on the desk. Master Thwaite turned the glass twice.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250209/talents/morning_briefing",
+        "briefing_day": "20250209",
+        "refs": [
+          "sol://facets/household/activities/20250209#meeting_091200_480",
+          "sol://facets/household/activities/20250209#meeting_114000_180",
+          "sol://facets/stratford/activities/20250209#note_120500_600"
+        ]
+      }
+    },
+    {
+      "id": "m-20250210-1",
+      "key": "mem_20250210_1",
+      "day": "20250210",
+      "text": "The paper is at the lodge. My lord was at court. Master Florio was within, teaching.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250210/talents/morning_briefing",
+        "briefing_day": "20250210",
+        "refs": [
+          "sol://facets/household/activities/20250210#meeting_083500_120",
+          "sol://facets/writing/activities/20250210#meeting_104000_240",
+          "sol://facets/writing/activities/20250210#memo_110500_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250211-2",
+      "key": "mem_20250211_2",
+      "day": "20250211",
+      "text": "Davy's news was forty ships and the Queen's blessing. Supper was sixpence. The chart went out.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250211/talents/morning_briefing",
+        "briefing_day": "20250211",
+        "refs": [
+          "sol://facets/company/activities/20250211#meeting_082200_480",
+          "sol://facets/company/activities/20250211#meeting_090800_720",
+          "sol://facets/household/activities/20250211#meeting_121500_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250212-3",
+      "key": "mem_20250212_3",
+      "day": "20250212",
+      "text": "Garnish headed a margin with a K. Term ended. The gowns will thin.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250212/talents/morning_briefing",
+        "briefing_day": "20250212",
+        "refs": [
+          "sol://facets/company/activities/20250212#meeting_090600_840",
+          "sol://facets/writing/activities/20250212#frame_102000_180",
+          "sol://facets/household/activities/20250212#meeting_121000_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250213-4",
+      "key": "mem_20250213_4",
+      "day": "20250213",
+      "text": "The column is still headed K. Friday is written as the Rose, Long Meg, to the yard.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250213/talents/morning_briefing",
+        "briefing_day": "20250213",
+        "refs": [
+          "sol://facets/company/activities/20250213#meeting_091000_720",
+          "sol://facets/company/activities/20250213#photo_114000_120",
+          "sol://facets/household/activities/20250213#meeting_122000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250214-5",
+      "key": "mem_20250214_5",
+      "day": "20250214",
+      "text": "The bad sentence is still on the page. Alleyn was cordial.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250214/talents/morning_briefing",
+        "briefing_day": "20250214",
+        "refs": [
+          "sol://facets/household/activities/20250214#meeting_112000_180",
+          "sol://facets/company/activities/20250214#photo_140500_120",
+          "sol://facets/company/activities/20250214#frame_143500_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20250215-6",
+      "key": "mem_20250215_6",
+      "day": "20250215",
+      "text": "The share is twenty-two shillings. The gown's fifty shillings and Edith's eight shillings are still owed. The letter is still on the desk.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250215/talents/morning_briefing",
+        "briefing_day": "20250215",
+        "refs": [
+          "sol://facets/writing/activities/20250215#frame_104000_240",
+          "sol://facets/company/activities/20250215#meeting_161200_240",
+          "sol://facets/company/activities/20250215#meeting_165000_840"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250209-0",
+      "key": "said_20250209_0",
+      "day": "20250209",
+      "quote": "A king who opens his mouth on Fame had better not have a hole in his hose.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250209#memo_145000_60"
+      }
+    },
+    {
+      "id": "s-20250210-1",
+      "key": "said_20250210_1",
+      "day": "20250210",
+      "quote": "Done. Now forget you did it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250210#memo_110500_60"
+      }
+    },
+    {
+      "id": "s-20250211-2",
+      "key": "said_20250211_2",
+      "day": "20250211",
+      "quote": "Forty is a large word before breakfast.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250211#meeting_082200_480"
+      }
+    },
+    {
+      "id": "s-20250211-3",
+      "key": "said_20250211_3",
+      "day": "20250211",
+      "quote": "Bread is dear in my house. The loaf is a finger short of the notch. I can hold that in my hand. I cannot hold Guiana.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250211#meeting_180500_840"
+      }
+    },
+    {
+      "id": "s-20250212-4",
+      "key": "said_20250212_4",
+      "day": "20250212",
+      "quote": "Some of it is better than what I wrote. I would be glad to know which, so that I may write it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250212#meeting_090600_840"
+      }
+    },
+    {
+      "id": "s-20250213-5",
+      "key": "said_20250213_5",
+      "day": "20250213",
+      "quote": "Egeon is a long wait and a short life on the stage.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250213#meeting_161800_240"
+      }
+    },
+    {
+      "id": "s-20250214-6",
+      "key": "said_20250214_6",
+      "day": "20250214",
+      "quote": "It plays. I am glad I came. I will not keep you in the cold for a compliment.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250214#meeting_161200_240"
+      }
+    },
+    {
+      "id": "s-20250215-7",
+      "key": "said_20250215_7",
+      "day": "20250215",
+      "quote": "Twenty-two. Say the pile, so I do not love the wrong coins.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250215#meeting_165000_840"
+      }
+    }
+  ]
+}

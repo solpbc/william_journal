@@ -1,0 +1,1 @@
+You took the comedy and left the chronicle on the board. Mistress Ansell named her verdict on the four young men, kept the three pence you would not eat, and told you the firing sixpence is asleep till Michaelmas and the quarter is not due. Gib stayed on the stair. The forty lines for Thursday are a part, not a night's writing.

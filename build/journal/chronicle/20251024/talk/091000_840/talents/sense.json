@@ -1,0 +1,99 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "On the empty stage, with frost still on the yard rail, Nick read the vial once to himself and then spoke the two lines. You said it was very good. He called Nurse, and the voice cracked into a man's note. Nobody laughed. Arthur, on a hamper, had nothing to add and did not offer the part. Nick finished a third lower, without the call. He asked if she would be long. You said two acts, and that she sleeps through some of it. Phillips said to send him mornings, that it can be nursed and cannot be mended. No hour was named. You told Garnish to leave the sheet. You did not say, in the room, that you would refuse to cut her.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called the lines very good, answered the question about the lady, and stopped the book from deciding.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the lines exactly, cracked on the call, and finished lower.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Offered mornings from the door, and refused a cure he had not promised.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed on the hamper, studied his nails, and did not take the part.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked after the book, was told to leave the sheet, and cut nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the vial speech",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nurse, and then not",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Nick's voice crack on the call",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Nick Sorrell",
+    "Arthur Meeks",
+    "Abel Garnish",
+    "Augustine Phillips"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the two lines",
+    "the crack on Nurse",
+    "mornings",
+    "the sheet left"
+  ],
+  "quotes": [
+    {
+      "speaker": "nick_sorrell",
+      "text": "I haue a faint cold feare thrills through my veines,"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It is very good."
+    },
+    {
+      "speaker": "nick_sorrell",
+      "text": "Will she be long, Master Shakespeare?"
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "Send him to me mornings. It can be nursed. It can't be mended."
+    }
+  ]
+}

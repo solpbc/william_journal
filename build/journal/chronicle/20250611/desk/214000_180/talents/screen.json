@@ -1,0 +1,17 @@
+{
+  "narrative": "The almanac open at the day. A full moon is already printed in the column. A small tick beside it, and no cross, and no name. No face. The rest of the day's line is blank. The pen is set down. No face. The almanac closed. The three sheets are still on the board in the same candle. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Marked the moon and left the rest of the line empty."
+    },
+    {
+      "type": "Project",
+      "name": "the almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in The full moon"
+    }
+  ]
+}

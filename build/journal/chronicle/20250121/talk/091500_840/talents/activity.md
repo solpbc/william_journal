@@ -1,0 +1,1 @@
+You rehearsed Richard the Third from the rolls. The three cues from Friday, Lord Hastings, my liege, and madam, were left as they were. Burbage kept the wooing at half voice. You were in the play at two. The comedy was not in the room, and no part of it was copied. Edith's eight shillings and the Queen's twenty pound were named and not touched.

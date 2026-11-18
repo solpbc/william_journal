@@ -1,0 +1,64 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At evening prayer Master Thwaite would not preach the morning's sermon again. The glass had been once. He said the cloud only to refuse a second time. He did not come in to supper. You did not ask him for a longer hour.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted the refusal and did not ask for the cloud again.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the morning's sermon to the morning, and did not come in.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept supper off the porch.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood through evening prayer",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "William Shakespeare",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "evening prayer",
+    "one glass already",
+    "supper left to the house"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "The glass was once this morning."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Supper is the house."
+    }
+  ]
+}

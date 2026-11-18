@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You entered ten shillings in the received column, dated the fifth of July 1595. You did not write a balance. The old sum stays whatever it was the last time you counted, and you do not count it tonight.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the received line and left the balance blank.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "10s received",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Received, and no total",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Wrote ten shillings received",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "ten shillings received",
+    "no new balance"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,1 @@
+You rehearsed the comedy with the door shut and no bill up. Heminges counted seven days to Easter Monday. Garnish refused another paste. Sam sang the cuckoo clear. Kemp wanted a laugh and did not get one. Arthur's two hooks were still split, and Edith was not sent for. You did not let a hem down, and you did not open any other play.

@@ -1,0 +1,100 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "After the Two Gentlemen, Bryan gave the court's Shrovetide as heard of: Whitehall since Saturday, a tilt, a tourney yesterday, and tonight a masque of Proteus and a rock of adamant. You said nobody was asked. Kemp set the scholars playing for nothing against a penny. Bryan had the warrant for December's twenty pounds drawn and moving, and my lord's word to stop cleanly on Shrove Tuesday and hand the Mayor no stick. You did not fetch the money. You left the old count where it was.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the masque was heard of only, forbade Sam to spend the warrant, and went home to answer the house.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought Whitehall, the masque, the moving warrant, and the order to stop cleanly.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Wanted to see the rock come on, and agreed not to go.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set nothing against a penny, and refused a new tally for the morning.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked whether anyone speaks in a masque, and where a moving sum arrives.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Two Gentlemen of Verona",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Heard of",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard of the masque at Whitehall",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "George Bryan",
+    "Sam Latchet",
+    "Richard Burbage",
+    "William Shakespeare",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "heard of only",
+    "a rock of adamant",
+    "a penny",
+    "twenty pounds moving",
+    "a clean stop"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "The scholars play before the Queen for nothing, and we play before the scholars for a penny."
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "The warrant for December's twenty pounds is drawn and moving."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "I would like to see a rock come on."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Nobody is asked to this one. It is heard of only."
+    }
+  ]
+}

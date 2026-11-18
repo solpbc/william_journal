@@ -1,0 +1,54 @@
+{
+  "overview": "Before you went out you listed the day's errands in a few plain words. The sword is for the boy, and not to be given this week. A riddle-book is for a girl who reads. Ribbons, gloves, and a bay from Wednesday week at twelvepence a day and his fodder, with nothing paid down. You did not name a child. The letter is still unsent.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the list and went out with it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the boy",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a girl who reads",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the bay not yet paid",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the letter still unsent",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the lath sword",
+      "asset_type": "other",
+      "disposition": "Listed the errands before Holywell"
+    },
+    {
+      "name": "the bay",
+      "asset_type": "other",
+      "disposition": "Listed the errands before Holywell"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-17",
+      "meaning": "Before Holywell"
+    }
+  ],
+  "summary": "Listed the errands before Holywell"
+}

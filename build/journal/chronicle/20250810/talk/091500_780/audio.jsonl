@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 780.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "mary_shakespeare", "start": "09:15:40", "text": "The middle is eaten. Do not invent a second breakfast out of a crust. Church is the next room, even if it is a street away.", "timing": {"end": 190.0, "start": 40.0}}
+{"sentence_id": 2, "speaker": "susanna_shakespeare", "start": "09:18:10", "text": "The book is on the shelf. I am not taking it to the pew. I said so, and it is still true.", "timing": {"end": 340.0, "start": 190.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "09:20:40", "text": "Leave it there until dinner is behind us. The river is the middle of the afternoon. I am not making the morning into the river.", "timing": {"end": 500.0, "start": 340.0}}
+{"sentence_id": 4, "speaker": "joan_shakespeare", "start": "09:23:20", "text": "Hands. All three, and thee too if thou hast ink on the cuff from standing over paper. I will not have the parish read Saturday off a wrist.", "timing": {"end": 660.0, "start": 500.0}}
+{"sentence_id": 5, "speaker": "anne_shakespeare", "start": "09:26:00", "text": "The cuff can be buttoned on the way. We are going when my mother is ready, and not before. Susanna, the shelf is the shelf.", "timing": {"end": 670.0, "start": 660.0}}

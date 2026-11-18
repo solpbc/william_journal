@@ -1,0 +1,1 @@
+Mistress Ansell boiled the oak-gall ink on the Monday copper from your receipt: galls, copperas and gum. The new horn was twopence on Saturday and is not paid again. Board, if you take it, is threepence, two or three times in a week. You left the fresh boil in the kitchen.

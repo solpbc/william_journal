@@ -1,0 +1,24 @@
+{
+  "source_key": "sha256:56ef3f88340b15c97d4805cf0fe3d44d4ebb3afe6502e3b00d5c732ca7c484e6",
+  "origin": {
+    "kind": "agent_memory",
+    "source_key": "sha256:56ef3f88340b15c97d4805cf0fe3d44d4ebb3afe6502e3b00d5c732ca7c484e6",
+    "creation_label": "Claude",
+    "created_at": "2025-08-10T20:16:00Z",
+    "stream": "agent-memory-56ef3f88340b15c97d4805cf0fe3d44d4ebb3afe6502e3b00d5c732ca7c484e6",
+    "segment": "211600_1"
+  },
+  "coordinate": {
+    "day": "20250810",
+    "stream": "agent-memory-56ef3f88340b15c97d4805cf0fe3d44d4ebb3afe6502e3b00d5c732ca7c484e6",
+    "segment": "211600_1"
+  },
+  "created_at": "2025-08-10T20:16:00Z",
+  "chain": {
+    "prev_day": "20250315",
+    "prev_segment": "211600_1",
+    "seq": 2
+  },
+  "digest": "5a3d6194e233761c45d5147c8875b56ad501d0feb6a8b481b418bf08e9160670",
+  "byte_count": 137
+}

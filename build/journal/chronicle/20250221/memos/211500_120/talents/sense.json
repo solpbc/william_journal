@@ -1,0 +1,52 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At night you said Southwell was hanged in the morning, and that you did not go and had never been going. You had three accounts that did not match, and you believed the one in which the people cried out to let him be dead first. You called him a poet and refused to make that a likeness with the play. You are thirty and he was thirty-three. You did not say your father's night prayer. You came back to the messenger, who is to say almost nothing. The pen in your hand had no ink. You stopped.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the memo alone, by one candle, and did not write.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said Southwell was hanged and refused a likeness with the play",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "he did not go",
+    "three accounts",
+    "no likeness",
+    "the messenger",
+    "an empty pen"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I did not go. \u2026I was never going."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I must not make a likeness where there's none."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "There's no ink in it."
+    }
+  ]
+}

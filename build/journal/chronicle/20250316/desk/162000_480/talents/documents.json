@@ -1,0 +1,49 @@
+{
+  "overview": "You looked at Brooke and did not write a speech. The page still holds two houses and blank days. The tables beside the book still have Costard struck, the Queen's money struck, the letter unsent, and the horse unpriced. The chronicle is not in the room.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked, and did not write a line for anyone to say."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "two houses",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no speech",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the tables unchanged since Saturday",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Brooke's Romeus and Juliet",
+      "asset_type": "other",
+      "disposition": "Read the two houses in Brooke"
+    },
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Read the two houses in Brooke"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-16",
+      "meaning": "Two houses, and no speech"
+    }
+  ],
+  "summary": "Read the two houses in Brooke"
+}

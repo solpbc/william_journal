@@ -1,0 +1,116 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Ralph Raye had paid Henslowe twelve pence on his own debt and seen yesterday's play, Long Meg, set against the thirtieth. By that book today is the thirty-first of April. The sums were right to the farthing. You said a man may lose a day, and nobody loses a shilling by mistake. Kemp wanted a wage, then offered a thirty-second of May for sixpence, and was not paid it. Pope would have played twice. Heminges kept any sum of that house off the table. Your part was not named.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Proposed playing twice, and kept the meat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Agnes Tipping",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the dinner on her own slate, and sent the phrase out with the men.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked after the sums, feared the farthing more than the day, and closed the plot.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said who knows what matters, and left the king's leaf at home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked a wage for the invented day, and offered sixpence for a thirty-second of May.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid the twelve pence, reported the page, named Long Meg, and brought no receipt.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Philip Henslowe",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Took the twelve pence and had yesterday's play set against the thirtieth.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Long Meg",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The thirty-first of April",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Let a wrong day become the word for never",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Pope",
+    "Agnes Tipping",
+    "John Heminges",
+    "William Shakespeare",
+    "Will Kemp",
+    "William Blackwage, Ralph Raye, Richard Hoope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twelve pence",
+    "the farthing",
+    "the thirty-first of April",
+    "sixpence"
+  ],
+  "quotes": [
+    {
+      "speaker": "hired_men",
+      "text": "By Master Henslowe's book, today is the thirty-first of April."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A man may lose a day. Nobody loses a shilling by mistake."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "I'll sell him a thirty-second of May for sixpence."
+    },
+    {
+      "speaker": "hired_men",
+      "text": "To the farthing."
+    }
+  ]
+}

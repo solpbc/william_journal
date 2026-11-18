@@ -1,0 +1,1 @@
+At home you wrote the share, and you did not put a total under it. The line is the house's Saturday, and it is not a new count of the coffer. Michaelmas remains the last count. Quiney's pound is not in the line. The court money is not in the line. The five mornings are not in the line. You shut both locks.

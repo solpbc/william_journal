@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At home you wrote the messenger's entrance and left the half-line blank after The king your father. You paced the six steps of the chamber. Mistress Ansell, below, would have heard a murmur and not the line. The line is still empty. You did not write a song, and you did not write the last line.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the entrance and left the blank.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Below. Heard a murmur, if she heard anything. Not spoken to.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The half-line left blank",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote the messenger's entrance",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the entrance",
+    "the empty half-line",
+    "six steps"
+  ],
+  "quotes": []
+}

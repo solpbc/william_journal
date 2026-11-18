@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At supper you told Mistress Ansell the frame was roofed, the money had come safe with no sum, and the porch was the weather. You did not bring the children's lines down. The loaf was a finger and a half short, at a penny, and the board was threepence. Gib stayed on the second volume. You said you are not in tomorrow's play.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the frame, the money, and the porch, and refused the rest of the letter.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Measured the loaf, asked once, and kept the drawing off her board.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Laid the loaf end to the window, and asked after the children.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Lay on the second volume and was not moved.",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "Chapel Street",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The roof, and not the drawing",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Gave the table the roof and the weather",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "supper",
+    "the roofed frame",
+    "the porch",
+    "the loaf",
+    "the cat"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A finger and a half."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It's the weather."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Threepence, the same as today."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "After the comedy you stood with John, Kemp, and Garnish. You had played Navarre. The yard was thin, and John would not set a figure. Kemp had added nothing. Garnish left the tally where it was, nineteen lines and a noise like a goose. You opened no second matter. Kemp and John did not hear the king.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the tally standing and opened no second matter.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Added nothing, and did not ask what the morning had been.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a figure for a thin yard.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Made no new tick.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not a tick",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Played Navarre",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Will Kemp",
+    "Abel Garnish",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Navarre",
+    "no new tick",
+    "no figure"
+  ],
+  "quotes": [
+    {
+      "speaker": "abel_garnish",
+      "text": "Nineteen lines, and a noise like a goose."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "I am not setting a figure on a thin yard, and I will not borrow one."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "I added nothing."
+    }
+  ]
+}

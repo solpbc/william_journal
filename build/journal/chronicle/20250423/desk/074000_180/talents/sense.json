@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "Back at the lodging, the almanac showed only St George. A quire was already on the table. You wrote no price for it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read \"St George\" and left the quire unpriced.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the quire",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in St George, and the quire already in",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Saw the quire of paper",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "St George",
+    "the quire",
+    "no price"
+  ],
+  "quotes": []
+}

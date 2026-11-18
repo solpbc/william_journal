@@ -1,0 +1,64 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Daylight was on the close and the kennel was still white. Mistress Ansell held dinner to the one call she had already offered. You said the clean sheet was still untouched. You went back up and left the crust.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Went back up when the bread was done",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Went back up when the bread was done",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Went back up when the bread was done",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate breakfast with Alse and Mistress Ansell",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "daylight on the close",
+    "one call at dinner",
+    "back to the desk"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Dinner is when I said. I am not calling before that."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "There is a clean sheet upstairs and I have not touched it yet."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At six you said tomorrow's Shrew is the company's and you are not in it. You will go to the Rose at two, and stand in the yard, for the size of the giant.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the intention and ended it.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the first part of Hercules",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in I will go over",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote the Rose at two and the yard for the giant",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Shrew",
+    "the yard",
+    "the size of a giant"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Tomorrow the Shrew is theirs. I am not in it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will stand in the yard."
+    }
+  ]
+}

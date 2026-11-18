@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "05:40:00", "text": "Two-and-twenty today, at Holborn or wherever the court lies. The year before last I sent a book with a name on the front of it. Last year another. This year nothing goes, and it will not be missed, and that's the whole of the matter.", "timing": {"end": 28.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "05:40:28", "text": "No. The whole of the matter is that I've a girl waiting for night in the third act and must be at Shoreditch by nine.", "timing": {"end": 38.0, "start": 28.0}}

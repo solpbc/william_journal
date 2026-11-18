@@ -1,0 +1,17 @@
+{
+  "narrative": "The almanac open at the day, the cap on the table beside it, the cloak still on its peg. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Stayed at the table and did not go out."
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in The nine o'clock, unkept by him"
+    }
+  ]
+}

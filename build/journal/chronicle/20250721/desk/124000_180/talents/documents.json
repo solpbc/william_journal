@@ -1,0 +1,44 @@
+{
+  "overview": "Before you left for the Theatre you opened the feast sheet and did not write. The two lines at the top were already there, and so was the short answer under them. You added no speech.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the sheet and did not mend it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the feast sheet",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "two lines already written",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nothing added",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Romeo and Juliet",
+      "asset_type": "other",
+      "disposition": "Looked at the feast sheet"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-21",
+      "meaning": "The feast, not touched"
+    }
+  ],
+  "summary": "Looked at the feast sheet"
+}

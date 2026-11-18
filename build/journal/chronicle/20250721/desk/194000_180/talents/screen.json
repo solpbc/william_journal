@@ -1,0 +1,17 @@
+{
+  "narrative": "The leaf on the desk, seal-wax cracked beside it, dust on the outer wrapper. The writing is a clear unlearned hand. No second sheet. The foot of the same leaf. The lines are even. Nothing is added in his hand on this page.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read it and did not answer it tonight."
+    },
+    {
+      "type": "Project",
+      "name": "Anne's letter",
+      "role": "mentioned",
+      "context": "Shown on letter in Her hand, the second time"
+    }
+  ]
+}

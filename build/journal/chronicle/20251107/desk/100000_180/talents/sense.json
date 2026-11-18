@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You left the account book shut. The three leaves were not opened into the page. You did not write a new sum. The sixpence for firing and washing is the standing charge from Michaelmas, and it was not entered again this morning.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Looked at the shut book, and wrote nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the account book",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The book stayed shut",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Did not open the account book",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the book shut",
+    "no new sum",
+    "the sixpence not re-entered"
+  ],
+  "quotes": []
+}

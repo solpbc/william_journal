@@ -1,0 +1,51 @@
+{
+  "overview": "Standing at the trestle, you saw Humphrey take the shortened cue off York's roll, set the full closing words across the three, and put the small winter sign in the corner of each.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Checked the wording at Humphrey's elbow as each roll was marked."
+    },
+    {
+      "name": "Humphrey Larkham",
+      "role": "visible",
+      "formal_term": "Humphrey Larkham",
+      "appointment_tier": "not_applicable",
+      "context": "Set the full closing words and the winter sign onto all three rolls."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Humphrey's copying",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the three rolls",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the small winter sign",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the three rolls",
+      "asset_type": "other",
+      "disposition": "Saw Humphrey mark the three rolls"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-22",
+      "meaning": "Humphrey's pen across the three rolls"
+    }
+  ],
+  "summary": "Saw Humphrey mark the three rolls"
+}

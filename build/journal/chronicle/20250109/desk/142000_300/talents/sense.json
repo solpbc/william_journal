@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "In the afternoon, while the Shrew went on without you, you left the messenger's half-line empty and wrote the women's sentence under it. A twelvemonth and a day. The words he would have said are still not there. Foul paper, not a finished act.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the sentence around the blank and did not fill the blank.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in A twelvemonth, around a blank",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote a twelvemonth and a day",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the empty half-line",
+    "a twelvemonth and a day",
+    "an afternoon not at the play"
+  ],
+  "quotes": []
+}

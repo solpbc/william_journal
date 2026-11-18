@@ -1,0 +1,68 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the church door the apprentices had sprigs of sallow in their caps. You took none. Mistress Ansell would not have a procession of them. You had still written nothing.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a sprig and refused a doorstep note.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called a cap no church, and turned the house toward home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the sallow and the east wind.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Saw sallow sprigs in the apprentices' caps",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "William Shakespeare",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "sallow in the caps",
+    "no sprig taken",
+    "the east wind"
+  ],
+  "quotes": [
+    {
+      "speaker": "alse_pinder",
+      "text": "Sprigs of sallow. They have put them in for palms."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not taking a sprig."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A cap is not a church."
+    }
+  ]
+}

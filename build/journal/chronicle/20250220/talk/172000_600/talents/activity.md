@@ -1,0 +1,1 @@
+You came home between the play and the supper, washed, and put on a dry band. You told them the boxes held seven pound eleven and that the yard went out quiet. You did not explain it. The letter stayed on the desk. You went back out for half past six.

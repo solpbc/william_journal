@@ -1,0 +1,112 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At nine, and not before, you rehearsed at the Cross Keys. Garnish had Thursday's two stops in the book. Nick had walked the speech and did not speak it out. Phillips sent him to eat. You walked the old book for the Seven Deadly Sins. Kemp was civil. You did not open a tally, and you did not quote the new play. The gown's fifty shillings stayed unpaid, and this room did not settle them. Nothing was bought. The new comedy stayed off the yard.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a third stop and kept the new comedy off the yard.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the old cues and left the seventeen days where they were.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed civil and stayed out of a scene that was not this morning's.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the songs and sent Nick to eat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed the two stops in the book and kept the plot to the old one.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the breath, did not speak the speech, and went to eat.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Seven Deadly Sins",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nine of the clock",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Princess's gown",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nine of the clock",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Walked the old book for the Seven Deadly Sins",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "William Shakespeare",
+    "Nick Sorrell",
+    "Augustine Phillips",
+    "Richard Burbage",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "nine of the clock",
+    "the two stops",
+    "the old book",
+    "Kemp civil"
+  ],
+  "quotes": [
+    {
+      "speaker": "abel_garnish",
+      "text": "The two stops from Thursday are in the book, where you crossed the roll."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "We are civil this morning, Will, and I intend to remain so."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The new comedy stays in the rolls."
+    }
+  ]
+}

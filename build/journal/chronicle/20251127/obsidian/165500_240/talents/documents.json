@@ -1,0 +1,44 @@
+{
+  "overview": "Between the play and the evening you wrote a joke at home. A tailor cannot read his bill, and the others laugh because he cannot. The joke leans only on his being stupid. You mean to try it on Kemp. If it does not stand, it is crossed, and it is not copied. You did not take it to Field.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the joke and named the condition."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "a tailor's bill",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a joke not yet tried",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "not to be copied if it fails",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the tailor",
+      "asset_type": "other",
+      "disposition": "Wrote a joke that leans on a stupid tailor"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-27",
+      "meaning": "A joke that leans on stupid"
+    }
+  ],
+  "summary": "Wrote a joke that leans on a stupid tailor"
+}

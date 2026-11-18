@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "john_heminges", "start": "16:50:00", "text": "The afternoon is in. Eight-and-twenty shillings. Monday was the Queen's.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:50:14", "text": "Eight-and-twenty. Say it once. I will not have it again at supper.", "timing": {"end": 28.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "richard_burbage", "start": "16:50:28", "text": "Then once. I am not making it a total for the house.", "timing": {"end": 42.0, "start": 28.0}}
+{"sentence_id": 4, "speaker": "john_heminges", "start": "16:50:42", "text": "It is the reckoning. It is not the coffer. The book is shut on the sum.", "timing": {"end": 56.0, "start": 42.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "16:50:56", "text": "Shut, then. I am not carrying the figure in my mouth.", "timing": {"end": 66.0, "start": 56.0}}

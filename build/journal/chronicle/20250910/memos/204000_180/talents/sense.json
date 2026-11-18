@@ -1,0 +1,66 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "The letter of the last of August was still sealed. Tomorrow is the eleventh, and you will give it to Hobbins as it was written. You did not break the wax.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the seal unbroken.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not yet in receipt of the letter.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Expected tomorrow. Not in the house tonight.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the eleventh",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Still sealed",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Looked at the seal",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the seal",
+    "the eleventh",
+    "the wax unbroken"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Tomorrow is the eleventh. Hobbins will have it as it is."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+You stood by a post on the left. The board gave the title only. A tall boy with a staff, in a buff jerkin and breeches, faced three Spanish swaggerers, and the yard roared. Alleyn was easy in a smaller part. Henslowe at the door counted with his lips and did not show the count. You were looking at the yard more than at the stage.

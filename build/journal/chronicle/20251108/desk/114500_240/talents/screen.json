@@ -1,0 +1,17 @@
+{
+  "narrative": "The commonplace book open at the March page, a short note of a link-boy in a doorway. The pen is not on the line. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the slip, and did not add the couplet."
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "context": "Shown on book in The March slip"
+    }
+  ]
+}

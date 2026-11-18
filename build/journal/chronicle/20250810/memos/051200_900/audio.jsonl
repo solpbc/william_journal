@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 900.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "05:12:00", "text": "The house is not up. I am not going to be the first sound in it.", "timing": {"end": 250.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "05:16:10", "text": "She asked whether the girl would be long. I told her the girl was quick. That was the end of the night.", "timing": {"end": 740.0, "start": 250.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "05:24:20", "text": "The stone can keep the sheet. I am not going down while the house is still.", "timing": {"end": 750.0, "start": 740.0}}

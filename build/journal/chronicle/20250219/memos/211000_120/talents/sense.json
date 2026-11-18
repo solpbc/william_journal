@@ -1,0 +1,47 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Alone, you said Alse has never seen a play, that she heard the oath and asked who cooks, and that she had the hole in the first minute. You stopped there. You did not go on to tomorrow's yard.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the memo alone and stopped.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said Alse asked who cooks, and stopped",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the girl",
+    "the oath",
+    "the hole",
+    "a short stop"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "She had the hole in the first minute. Good."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The girl has never seen a play."
+    }
+  ]
+}

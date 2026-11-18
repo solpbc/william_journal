@@ -1,0 +1,1 @@
+From first light you had Gaunt dying at Ely House, one speech of some twenty lines. The sheet holds the opening, this royall throne of Kings, this sceptred Ile, and the turn down to this Realme, this England, and then the land leased out, bound in with shame, with inkie blots and rotten parchment bonds. The middle is not written out. You walked the speech. You did not open Act 3.

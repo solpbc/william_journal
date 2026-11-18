@@ -1,0 +1,49 @@
+{
+  "overview": "You wrote a page that was not the lines. It said the bundle stayed tied, that the three rolls were not this page, and that the house had been given broth and not the day. It said she was alone, the door shut, and that you had not given her the drink. It said the lines, if they came, would go on a clean leaf, and that you meant to stop before she drank.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the page and left the clean leaf still clean."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "a page apart",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the door shut",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "stopping before the drink",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the loose leaf",
+      "asset_type": "other",
+      "disposition": "Wrote the stop before the drink"
+    },
+    {
+      "name": "the red bundle",
+      "asset_type": "other",
+      "disposition": "Wrote the stop before the drink"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-22",
+      "meaning": "Wrote a separate page from the morning's lines"
+    }
+  ],
+  "summary": "Wrote the stop before the drink"
+}

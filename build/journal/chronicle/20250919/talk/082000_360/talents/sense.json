@@ -1,0 +1,93 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "The jaw had not become a face. The clove was already in. You named Titus and no side. The loaf was a penny, a full thumb short of the notch. You ate three soft bites. She told you that less from the clove, if it comes, is not a cure.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the title, ate the soft of the loaf, and did not call anything a cure.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Measured the thumb, asked the bill, and kept the crust.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put the rest under the cloth.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "a penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The soft of it",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "a clove",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The soft of it",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Titus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The soft of it",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate three soft bites and named Titus",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the jaw",
+    "Titus",
+    "three bites",
+    "not a cure"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The jaw has not become a face again."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Titus. At the Theatre."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not call it a cure."
+    }
+  ]
+}

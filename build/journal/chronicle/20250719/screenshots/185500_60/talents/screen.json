@@ -1,0 +1,29 @@
+{
+  "narrative": "Paris Garden from the water: a ring of new timber scaffolded against the sky.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked."
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "context": "In A ring of new timber"
+    },
+    {
+      "type": "Person",
+      "name": "Cuthbert Burbage",
+      "role": "attendee",
+      "context": "In A ring of new timber"
+    },
+    {
+      "type": "Person",
+      "name": "Davy Gannet",
+      "role": "attendee",
+      "context": "In A ring of new timber"
+    }
+  ]
+}

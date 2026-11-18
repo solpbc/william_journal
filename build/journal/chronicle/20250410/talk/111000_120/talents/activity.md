@@ -1,0 +1,1 @@
+At Uxbridge a carter offered the straight road to Bishopsgate. You refused it and kept the long way, a mile out of the way, the same as you had come. You did not name what the straight road passes. You took water and no directions.

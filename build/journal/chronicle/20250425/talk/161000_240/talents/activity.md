@@ -1,0 +1,1 @@
+At the end of Errors, Raye said the Wise Man is wizard's disguises and Welsh jokes and holds two thousand in its hand. You and John Heminges left the two thousand as a house. You did not ask to hear it again on Saturday.

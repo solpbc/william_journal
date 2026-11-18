@@ -1,0 +1,17 @@
+{
+  "narrative": "A slip of paper on the table at the lodging, the writing already dry. No face. No new word is added. The same slip. The space under the question is blank.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the slip and did not write a second line."
+    },
+    {
+      "type": "Tool",
+      "name": "the slip",
+      "role": "mentioned",
+      "context": "Shown on tables in The slip from Friday"
+    }
+  ]
+}

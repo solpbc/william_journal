@@ -1,0 +1,44 @@
+{
+  "overview": "At a quarter past ten you wrote the Prince's last couplet and ruled a line under it. The two lines shut the book. You did not add a word under the rule.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the couplet and ruled it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the last couplet",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the rule",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a quarter past ten",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the lovers' play",
+      "asset_type": "other",
+      "disposition": "Ruled the last couplet"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-11",
+      "meaning": "A rule at a quarter past ten"
+    }
+  ],
+  "summary": "Ruled the last couplet"
+}

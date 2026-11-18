@@ -1,0 +1,17 @@
+{
+  "narrative": "Candlelight on the chamber board. The girl's sheet is shut at the corner. A foul sheet some weeks old lies beside one clean leaf. No title is written at the head of the clean leaf. No face. The clean leaf goes into the leather folder with the others. Nothing is written at the foot. No number. No name. No face. The penny almanac open at the tenth. Five words are set against the morning. The folder is already shut. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Copied the leaf fair, addressed it to no one, put it back, and set the morning down."
+    },
+    {
+      "type": "Tool",
+      "name": "the folder",
+      "role": "mentioned",
+      "context": "Shown on draft in One line, and no name"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "overview": "You read the Rose's bill at the Theatre. The title was New World's Tragedy. It named no author. You did not cross. Your own afternoon was the king, in the book the yard is allowed.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the title, and did not start for the river."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the Rose bill",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "New World's Tragedy",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "title only",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the cut king waiting",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "New World's Tragedy",
+      "asset_type": "other",
+      "disposition": "Read New World's Tragedy and stayed for the king"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-12",
+      "meaning": "New World's Tragedy"
+    }
+  ],
+  "summary": "Read New World's Tragedy and stayed for the king"
+}

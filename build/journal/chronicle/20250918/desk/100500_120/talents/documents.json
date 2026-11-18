@@ -1,0 +1,58 @@
+{
+  "overview": "Standing, as you read everything, you had the book in your hands. Harrison found the leaf. In the margin, small, two words: Sweet Shakspeare. You read them, and the names above and below, and you read them again. What stood round the two words was too small to take.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the two words, and the names above and below, and the two words again."
+    },
+    {
+      "name": "Richard Field",
+      "role": "attendee",
+      "formal_term": "Richard Field",
+      "appointment_tier": "not_applicable",
+      "context": "Put the book in his hands, and kept a finger at the margin."
+    },
+    {
+      "name": "John Harrison",
+      "role": "attendee",
+      "formal_term": "John Harrison",
+      "appointment_tier": "not_applicable",
+      "context": "Found the leaf with a stubby thumb."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "two words",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the margin",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the stall",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Polimanteia",
+      "asset_type": "other",
+      "disposition": "Read Sweet Shakspeare standing"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-18",
+      "meaning": "Two words in the margin"
+    }
+  ],
+  "summary": "Read Sweet Shakspeare standing"
+}

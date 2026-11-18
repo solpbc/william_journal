@@ -1,0 +1,11 @@
+{"backend": "whisper", "duration": 240.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "12:10:00", "text": "He went by us at a hand-gallop. There he is, leading the horse. The horse is lame.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "thomas_hobbins", "start": "12:10:14", "text": "I've known three that rode post, and I've outlived them. Soft and steady has the miles.", "timing": {"end": 28.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "12:10:28", "text": "You have not turned your head.", "timing": {"end": 34.0, "start": 28.0}}
+{"sentence_id": 4, "speaker": "thomas_hobbins", "start": "12:10:34", "text": "Turning my head is how a string loses the pace it has kept since morning. The horse is the part of the gallop the gallop does not tell. You will not offer him our spare.", "timing": {"end": 50.0, "start": 34.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "12:10:50", "text": "I was not offering the spare. I was looking.", "timing": {"end": 58.0, "start": 50.0}}
+{"sentence_id": 6, "speaker": "thomas_hobbins", "start": "12:10:58", "text": "Looking is a kindness that costs a mile. Soft and steady. We have a back that has agreed to the pace. A lame post-horse is not your business, and it is not mine.", "timing": {"end": 74.0, "start": 58.0}}
+{"sentence_id": 7, "speaker": "(the rider)", "start": "12:11:14", "text": "The shoe. It was the shoe, not the pace.", "timing": {"end": 82.0, "start": 74.0}}
+{"sentence_id": 8, "speaker": "thomas_hobbins", "start": "12:11:22", "text": "It is always the shoe, until it is the man. I have buried none of the three, and I am not stopping to become the fourth.", "timing": {"end": 94.0, "start": 82.0}}
+{"sentence_id": 9, "speaker": "william_shakespeare", "start": "12:11:34", "text": "Soft and steady. I have written worse advice, and been glad of it later.", "timing": {"end": 104.0, "start": 94.0}}
+{"sentence_id": 10, "speaker": "thomas_hobbins", "start": "12:11:44", "text": "Then keep this one where you can see it the next time you want to hurry. Come on. He has his shoe, and his story, and neither of them is on my lead.", "timing": {"end": 114.0, "start": 104.0}}

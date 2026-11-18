@@ -1,0 +1,17 @@
+{
+  "narrative": "A foul sheet on the board, headed for the girl. The lower half is blank. Ink is uncapped. A right hand is at the edge of the sheet. No face. The same sheet, filled to eleven lines under the heading. The margin has no other mark. Grey light is still on the paper. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the eleven lines, and did not copy them fair, and did not send them."
+    },
+    {
+      "type": "Project",
+      "name": "Verona",
+      "role": "mentioned",
+      "context": "Shown on draft in Eleven lines, by seven"
+    }
+  ]
+}

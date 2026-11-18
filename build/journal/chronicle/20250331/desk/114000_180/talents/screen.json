@@ -1,0 +1,17 @@
+{
+  "narrative": "The pocket tables open on the hall bench, one leaf half wiped, the stylus in the gutter. This is not the leaf he will write on Saturday. The shop door is shut. The same wiped leaf, a second line under the first. His inked forefinger at the edge. No other leaf is open. A short third line, and empty wax below it. The stylus is set down. The leaf is household, and it is finished.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the nail, the cord, and eleven, and stopped."
+    },
+    {
+      "type": "Tool",
+      "name": "the lath sword",
+      "role": "mentioned",
+      "context": "Shown on tables in The wiped leaf"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "narrative": "A new penny almanac lies on the old one. The printed year is on the title. No pen has touched a feast, a margin, or a blank day. The account book beside it is already shut, and the heading of the year just closed is still 1595. The same opening. Your hand is not on it. The old almanac's edge shows underneath, darker and used.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Laid it down and did not write in it."
+    }
+  ]
+}

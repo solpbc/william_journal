@@ -1,0 +1,67 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You opened Gaunt's roll at the desk, the same copy you took on Friday. Your own lines, in another man's hand, cue-words after the long rule. Gib slept on the cloth over the Holinshed. The page under the roll stayed blank.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the roll at the desk.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Slept on the cloth over the Holinshed.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Named by the hand. Not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard the Second",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Gaunt's roll",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Holinshed",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Gaunt's roll",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read Gaunt's cue again",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Gaunt's roll",
+    "the cue",
+    "Gib on the cloth"
+  ],
+  "quotes": []
+}

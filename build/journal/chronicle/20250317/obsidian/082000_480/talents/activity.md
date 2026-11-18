@@ -1,0 +1,1 @@
+Before you went out you listed the day's errands in a few plain words. The sword is for the boy, and not to be given this week. A riddle-book is for a girl who reads. Ribbons, gloves, and a bay from Wednesday week at twelvepence a day and his fodder, with nothing paid down. You did not name a child. The letter is still unsent.

@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You came home by the Bridge at dusk. On the tables you wrote one line, \"the cousin's son. they love him.\", and nothing under it. You did not write a plot of the play, and you did not write a sum. Fair Em was at the Theatre without you. The yard pitied a king who loses and shouted for a king who wins.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the line and left it alone.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Bridge",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The cousin's son",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the cousin's son",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The cousin's son",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote that they love the cousin's son",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "home by the Bridge",
+    "one line",
+    "no plot under it"
+  ],
+  "quotes": []
+}

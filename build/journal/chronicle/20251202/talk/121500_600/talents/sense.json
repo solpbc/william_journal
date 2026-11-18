@@ -1,0 +1,111 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At her table the penny loaf was two fingers short of the notch. The meal was threepence, on the slate, and you did not pay the weekly sixpence again. Alse asked whether Saturday was the lovers, and whether there was a moon in it. Mistress Ansell did not agree to anyone going. You went back to play Egeon.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate, named the threepence and the sixpence as different sums, and promised nothing about Saturday.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Measured the loaf, put threepence on the slate, and shut the talk of going.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked after Saturday and after a moon, and was told the second was not a promise.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the baker's loaf was light as well, and said when he would be at the loom.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two fingers short",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "3d the meal",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two fingers short",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "6d firing and washing",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two fingers short",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two fingers short",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate the short loaf at her table",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Gillis Verbeke",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two fingers short",
+    "a penny loaf",
+    "threepence",
+    "the weekly sixpence",
+    "a moon not a promise"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Two fingers short of the notch, and a penny still."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Threepence on the slate for the broth and the short loaf."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "Is there a moon in it?"
+    }
+  ]
+}

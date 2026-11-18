@@ -1,0 +1,68 @@
+{
+  "overview": "You set twenty-nine beside last Saturday's thirty-three. You wrote that the coffer was not opened, and that it stands as ruled at twenty pound fifteen. You did not make a new sum.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the share, and did not open the coffer."
+    },
+    {
+      "name": "John Heminges",
+      "role": "mentioned",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Put the shilling on the line. The leaf is yours."
+    },
+    {
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "formal_term": "Will Kemp",
+      "appointment_tier": "not_applicable",
+      "context": "Paid the share with the name. Not in the house."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "twenty-nine",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "thirty-three",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the coffer not opened",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "twenty pound fifteen",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "twenty-nine shillings",
+      "asset_type": "other",
+      "disposition": "Set twenty-nine beside last Saturday's thirty-three"
+    },
+    {
+      "name": "twenty pound fifteen",
+      "asset_type": "other",
+      "disposition": "Set twenty-nine beside last Saturday's thirty-three"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-20",
+      "meaning": "Twenty-nine, beside thirty-three"
+    }
+  ],
+  "summary": "Set twenty-nine beside last Saturday's thirty-three"
+}

@@ -1,0 +1,1 @@
+At Leadenhall you bought a pound of cheese for 2d, where 1½d was the old price. Butter was 4d and rising. You looked hard at the penny loaf. It was hardly bigger than a fist. Two weavers' prentices said that the strangers and the forestallers eat white manchet while Englishmen chew bran.

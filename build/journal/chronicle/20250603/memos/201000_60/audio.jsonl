@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:10:00", "text": "Three sentences under Prices. I bought nothing.", "timing": {"end": 8.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:10:08", "text": "The scarcity is their talk. I was not in the chamber.", "timing": {"end": 18.0, "start": 8.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:10:18", "text": "\u2026Enough.", "timing": {"end": 28.0, "start": 18.0}}

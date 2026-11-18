@@ -1,0 +1,77 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At Shipston you got down off the spare. You were glad of the ten miles and you said you were not. From here you walk, at two and a half miles in the hour, which suits the back. Hobbins priced the harvest: oats a penny the peck over last month, and hay not to be had. You are not buying either. The night is an inn at Chipping Norton, twenty-one miles in all. The old stones are on the right at the rise, and you are not turning aside.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Dismounted, denied the gladness, and refused the stones.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Priced the oats and the hay, and set the pace for the walking.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "oats",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Off at Shipston",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the spare nag",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Off at Shipston",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Got down at Shipston and heard the price of oats and hay",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Hobbins",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "down at Shipston",
+    "not glad",
+    "oats a penny over",
+    "hay not to be had",
+    "the stones on the right"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_hobbins",
+      "text": "Oats at Shipston, a penny the peck over last month."
+    },
+    {
+      "speaker": "thomas_hobbins",
+      "text": "Hay is not to be had."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not glad of it."
+    }
+  ]
+}

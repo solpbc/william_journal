@@ -1,0 +1,1 @@
+Back at the lodging you set down the scene that walked up with you. An old woman asks an old man for revenge and gets patience. You will play the old man. The tables line is God's is the quarrel. You did not write the scene out under it.

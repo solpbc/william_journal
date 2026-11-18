@@ -1,0 +1,7 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "09:20:00", "text": "If thou bringest the cord under the cross-turn first, Richard, the corners will not chafe when it goes up the street.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "richard_shakespeare", "start": "09:20:12", "text": "It would be quicker if you stopped describing the knot.", "timing": {"end": 30.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "09:20:30", "text": "Or so. That holds.", "timing": {"end": 36.0, "start": 30.0}}
+{"sentence_id": 4, "speaker": "richard_shakespeare", "start": "09:20:36", "text": "It holds. The skins are in. The money isn't. Same as always.", "timing": {"end": 46.0, "start": 36.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "09:20:46", "text": "I am not buying, and I am not opening a bill.", "timing": {"end": 52.0, "start": 46.0}}
+{"sentence_id": 6, "speaker": "richard_shakespeare", "start": "09:20:52", "text": "Nobody needs you to. Go and sort thy papers out of the window-seat before Mother sweeps.", "timing": {"end": 62.0, "start": 52.0}}

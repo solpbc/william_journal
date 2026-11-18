@@ -1,0 +1,17 @@
+{
+  "narrative": "The almanac lies open on the chamber table in a thin light. One printed line is on the leaf. The pen stays in the tray.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the line, and added nothing."
+    },
+    {
+      "type": "Tool",
+      "name": "the almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in Palm Sunday, cold"
+    }
+  ]
+}

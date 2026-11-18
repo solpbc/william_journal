@@ -1,0 +1,58 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You copied the heading, and not the body. The tables say unlawful assemblies, and Greenwich, and this fourth of July. The articles underneath stay on the post. Gillis is turned away toward the arch.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Copied two lines and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Stood at the edge of the view, turned toward the arch.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The heading, on the tables",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the 4 July proclamation",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The heading, on the tables",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Copied the heading onto the tables",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the heading copied",
+    "the body left on the post"
+  ],
+  "quotes": []
+}

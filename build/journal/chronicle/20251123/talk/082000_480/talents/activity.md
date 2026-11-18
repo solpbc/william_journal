@@ -1,0 +1,1 @@
+Before church Alse said the loaf was two fingers short and that she had paid the penny. Mistress Ansell kept the price, and said the house would not pay tuppence. You did not argue it. You said Monday at six is the Bell, and that nothing is paid today. You did not carry the brief to church. The pot is ordinary.

@@ -1,0 +1,69 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You sat the morning sermon. Master Thwaite preached the prodigal and promised to be brief. Mistress Ansell called an hour and a half timely, and waited for the want. You did not put your own road into it. He did not name a purse.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat it, and kept his own errand out of the text.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Preached the prodigal, and refused to be brief.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called an hour and a half timely, and waited for the want.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Sat the sermon on the prodigal",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the prodigal",
+    "an hour and a half",
+    "the far country",
+    "no purse"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "An hour and a half, and the boy is still on the road."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Let him get as far as the husks."
+    },
+    {
+      "speaker": "josias_thwaite",
+      "text": "The far country is far enough without a man's own errand put into it."
+    }
+  ]
+}

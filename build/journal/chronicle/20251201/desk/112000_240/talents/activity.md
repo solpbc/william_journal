@@ -1,0 +1,1 @@
+You read Harrison's own note of the morning's entry. It names Burby, the play, sixpence, and no author. It is his report, not the Hall's register. The countess is only "said to be" in another man's manner.

@@ -1,0 +1,94 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "In the cold parlour Phillips had Nick walk the Princess's first long speech, not stand rigid to show he could. The speech itself is not set down. Sam copied the walk and reached the door before the sentence ended. You heard that your own pointing had put the breath in the wrong place, and you changed two stops on the roll and no word. Nick's relief was practical. The middle of it was no longer a test. Phillips said a boy has a pint of breath, and not to spend it all on the first line.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the wrong breath and moved two stops.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Made Nick walk it and named the pint.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Walked the speech and kept breath for the answer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reached the door too soon, and was told to sit and copy.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Princess of France",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Save some breath for the answer",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Seven Deadly Sins",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Save some breath for the answer",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Moved two stops in Nick's speech",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Augustine Phillips",
+    "Nick Sorrell",
+    "Sam Latchet",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the walk",
+    "the two stops",
+    "the pint of breath",
+    "Sam at the door"
+  ],
+  "quotes": [
+    {
+      "speaker": "augustine_phillips",
+      "text": "A boy has a pint of breath, Master Shakespeare. Don't make him spend it all on the first line."
+    },
+    {
+      "speaker": "nick_sorrell",
+      "text": "I can say the middle of it without making a test of the first line."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am changing my pointing, not thy labour."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At dinner you stayed at the lodging while Titus went on at the Cross Keys. You were not in it. The loaf was a penny loaf a finger short, and no second was bought. The board was threepence. Mistress Ansell would not be sent to the Bell. You left the carrier for tomorrow.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed, and left the carrier for tomorrow.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the table and refused the errand.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the finger and bought nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Titus Andronicus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The wall, and the short loaf",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The wall, and the short loaf",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate at home while Titus went on",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "dinner",
+    "the loaf",
+    "Titus",
+    "the carrier"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I can hear none of it, which is what a wall is for."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not in it today. The desk has me."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Threepence, whether you make a speech of it or not."
+    }
+  ]
+}

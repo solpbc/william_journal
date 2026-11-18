@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At home, while Richard III played without you, you wrote a few words toward the vault and struck them out. Her face, the drug, the five words, the Friar, and the dagger are not on the leaf. You stayed seated. You did not cross for the Rose.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote, struck, and stayed in the chair.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The vault, struck",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard III",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The vault, struck",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote toward the vault and crossed it out",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the vault struck",
+    "seated",
+    "not the line"
+  ],
+  "quotes": []
+}

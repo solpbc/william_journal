@@ -1,0 +1,1 @@
+You wrote the music, the groom, and the men who come to kill him. He dies fighting, which you had not known he would. The coffin is brought to the cousin, who has what he wanted and must now wear it. Gib was still on the chronicle.

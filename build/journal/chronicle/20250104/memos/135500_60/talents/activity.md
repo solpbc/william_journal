@@ -1,0 +1,1 @@
+You have just come down to the Cross Keys. These are the gentlemen who had your Errors on Innocents' night, and they keep a better court than Navarre's. You name the plumes, the hired horse, and the door shut on you. You stop.

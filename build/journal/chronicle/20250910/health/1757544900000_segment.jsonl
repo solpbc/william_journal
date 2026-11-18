@@ -1,0 +1,13 @@
+{"day": "20250910", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "011000_120", "stream": "memos", "ts": 1757544900000}
+{"change_class": "substantive", "day": "20250910", "event": "sense.change_detect", "mode": "segment", "segment": "011000_120", "stream": "memos", "ts": 1757544900001}
+{"day": "20250910", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "011000_120", "stream": "memos", "ts": 1757544900002}
+{"day": "20250910", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "032000_120", "stream": "memos", "ts": 1757544900010}
+{"change_class": "substantive", "day": "20250910", "event": "sense.change_detect", "mode": "segment", "segment": "032000_120", "stream": "memos", "ts": 1757544900011}
+{"day": "20250910", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "032000_120", "stream": "memos", "ts": 1757544900012}
+{"day": "20250910", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "141000_120", "stream": "desk", "ts": 1757544900020}
+{"change_class": "substantive", "day": "20250910", "event": "sense.change_detect", "mode": "segment", "segment": "141000_120", "stream": "desk", "ts": 1757544900021}
+{"day": "20250910", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "141000_120", "stream": "desk", "ts": 1757544900022}
+{"day": "20250910", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "141000_120", "stream": "desk", "ts": 1757544900023}
+{"day": "20250910", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "204000_180", "stream": "memos", "ts": 1757544900030}
+{"change_class": "substantive", "day": "20250910", "event": "sense.change_detect", "mode": "segment", "segment": "204000_180", "stream": "memos", "ts": 1757544900031}
+{"day": "20250910", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "204000_180", "stream": "memos", "ts": 1757544900032}

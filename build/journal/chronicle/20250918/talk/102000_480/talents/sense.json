@@ -1,0 +1,85 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Harrison said a Cambridge gentleman calls you sweet, that he had told two customers, and that the Lucrece is respected. Field, for your ear, said it was for the poems, not for a king in Shoreditch and not for a boy under a wall, and that you are wasted on players. You shut the book gently. You did not buy it. You have it by heart. Three years ago a dying man put you in print as a crow in borrowed feathers. This one calls you sweet, and you could not decide which was harder to stand still under. He asked again for the Holinshed, and you did not answer the book.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read the two words, shut the book gently, and did not buy it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave it standing, said the poems, and said thou for the aside.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Harrison",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted two customers, and kept the stock.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Lucrece",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in For the poems",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Polimanteia",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in For the poems",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read the margin and shut the book gently",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Harrison",
+    "Richard Field",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two customers",
+    "the poems",
+    "the book unbought",
+    "the cat"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_harrison",
+      "text": "There is a Cambridge gentleman calls you sweet, Master Shakespeare. I have told two customers."
+    },
+    {
+      "speaker": "richard_field",
+      "text": "For the poems, mark. Not for a king in Shoreditch, nor a boy under a wall. Thou'rt wasted on players."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The cat has it, Richard."
+    }
+  ]
+}

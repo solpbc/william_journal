@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "After the basin you took the cloak from the street door. Mistress Ansell would not inspect the jaw again. You said the street was getting a man in a coat and no speech. Alse would not walk you out. Gib was off the stair. You left her at the board.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Took the cloak and left for the play",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Took the cloak and left for the play",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "heard in Took the cloak and left for the play",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the afternoon coat",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Took the cloak and left for the play",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Washed, and left for the afternoon",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Alse Pinder",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the street door",
+    "no second proof",
+    "the board to scrape"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Dinner was the proof. The street does not get a second one."
+    }
+  ]
+}

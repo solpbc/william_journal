@@ -1,0 +1,14 @@
+{"day": "20250429", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "074500_480", "stream": "obsidian", "ts": 1745967300000}
+{"change_class": "substantive", "day": "20250429", "event": "sense.change_detect", "mode": "segment", "segment": "074500_480", "stream": "obsidian", "ts": 1745967300001}
+{"day": "20250429", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "074500_480", "stream": "obsidian", "ts": 1745967300002}
+{"day": "20250429", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "101500_480", "stream": "obsidian", "ts": 1745967300010}
+{"change_class": "substantive", "day": "20250429", "event": "sense.change_detect", "mode": "segment", "segment": "101500_480", "stream": "obsidian", "ts": 1745967300011}
+{"day": "20250429", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "101500_480", "stream": "obsidian", "ts": 1745967300012}
+{"day": "20250429", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "122000_180", "stream": "desk", "ts": 1745967300020}
+{"change_class": "substantive", "day": "20250429", "event": "sense.change_detect", "mode": "segment", "segment": "122000_180", "stream": "desk", "ts": 1745967300021}
+{"day": "20250429", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "122000_180", "stream": "desk", "ts": 1745967300022}
+{"day": "20250429", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "122000_180", "stream": "desk", "ts": 1745967300023}
+{"day": "20250429", "density": "idle", "event": "sense.complete", "mode": "segment", "segment": "201000_120", "stream": "desk", "ts": 1745967300030}
+{"change_class": "substantive", "day": "20250429", "event": "sense.change_detect", "mode": "segment", "segment": "201000_120", "stream": "desk", "ts": 1745967300031}
+{"day": "20250429", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "201000_120", "stream": "desk", "ts": 1745967300032}
+{"day": "20250429", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "201000_120", "stream": "desk", "ts": 1745967300033}

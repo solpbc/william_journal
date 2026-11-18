@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "The foot of the letter holds the barn question, and the space under it is blank for her answer. The thimble is not on this leaf. The sheet is the one that goes Thursday.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Set the pen down under the barn line.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stopped at the barn line",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the blank foot",
+    "the barn",
+    "Thursday's sheet"
+  ],
+  "quotes": []
+}

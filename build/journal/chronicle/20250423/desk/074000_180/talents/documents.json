@@ -1,0 +1,44 @@
+{
+  "overview": "Back at the lodging, the almanac showed only St George. A quire was already on the table. You wrote no price for it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read \"St George\" and left the quire unpriced."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "St George",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the quire",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no price",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the quire",
+      "asset_type": "other",
+      "disposition": "Saw the quire of paper"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-23",
+      "meaning": "St George, and the quire already in"
+    }
+  ],
+  "summary": "Saw the quire of paper"
+}

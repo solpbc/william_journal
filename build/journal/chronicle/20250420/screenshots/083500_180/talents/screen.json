@@ -1,0 +1,17 @@
+{
+  "narrative": "Gresham's tomb on Easter morning, seen from a parishioner's place: a shaft of sun, rosemary strewn, lilies on the ledge. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Stood in a parishioner's place and looked at the tomb."
+    },
+    {
+      "type": "Tool",
+      "name": "Gresham's tomb",
+      "role": "mentioned",
+      "context": "In photo: Gresham's tomb"
+    }
+  ]
+}

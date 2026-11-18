@@ -1,0 +1,1 @@
+While Errors played, you could not hear it, and you did not want the afternoon reported back. The Rose's bill was a Caesar, and you did not go. You named the lost morning, not the missed play, as the thing that mattered.

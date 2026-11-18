@@ -1,0 +1,17 @@
+{
+  "narrative": "The tables by the candle, one line. The casement is shut. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the line, and left the how off it."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Hot day"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "narrative": "A small foul scrap, not the king's sheet. Three lines, and a blank under them the size of an answer. The pen lifted. Nothing written under the question. No fruit named. No gardener's speech.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote three lines and stopped above the blank."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in A queen, and no answer"
+    }
+  ]
+}

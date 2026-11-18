@@ -1,0 +1,17 @@
+{
+  "narrative": "Four sheets tied with thread on the table at the lodging. The fourth lies on top. No player's name is written under the last line.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Tied the sheets and took them with him."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in Four sheets, tied"
+    }
+  ]
+}

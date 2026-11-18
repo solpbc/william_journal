@@ -1,0 +1,66 @@
+{
+  "overview": "Anne's short letter gave the three of them equal room. Hamnet outran the Sadler boy to the bridge and back, and in his own line he has built a water-wheel in the gutter. Judith says that is not what it is called, and she has a second ballad. Susanna has found a fault in your last and will tell you of it herself. The letter she means is the one already in her hand. Nothing in it is illness.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the letter at the Bell and did not answer it there."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Was not in the room. The letter is hers."
+    },
+    {
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Hamnet Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Was not in the room. The water-wheel is his line."
+    },
+    {
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Judith Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Was not in the room. The dispute and the ballad are hers."
+    },
+    {
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Susanna Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Was not in the room. The fault is hers to tell."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the water-wheel",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a second ballad",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a fault she will tell herself",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-15",
+      "meaning": "His own line, and hers"
+    }
+  ],
+  "summary": "Read Anne's letter and kept the fault for Susanna"
+}

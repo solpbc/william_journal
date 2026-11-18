@@ -1,0 +1,88 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "After the play you gave Bryan and Heminges the call. My lord will come unlooked-for on the second of October. The Lord Treasurer cannot stir hand nor foot. Bryan said what Kettleby had not said: an old man who cannot hold a pen, two younger men waiting to hold it, and a play about a weak king and his favourites about to walk out between them. Heminges said you play it as licensed. Nobody added anything.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the call, and added nothing after Heminges.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the old man, the two younger men, and the play between them.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said you play it as licensed, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Ambrose Kettleby",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named as the caller. Not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Henry Carey, 1st Lord Hunsdon",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named as the lord who is coming. Not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the second of October",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in We play it as licensed",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Told Bryan and Heminges my lord comes unlooked-for",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "George Bryan",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the call repeated",
+    "the unsaid",
+    "as licensed"
+  ],
+  "quotes": [
+    {
+      "speaker": "george_bryan",
+      "text": "An old man who cannot hold a pen, and two younger men waiting to hold it for him"
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Item: we play it as licensed."
+    }
+  ]
+}

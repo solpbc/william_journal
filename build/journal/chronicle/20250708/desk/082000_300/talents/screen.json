@@ -1,0 +1,17 @@
+{
+  "narrative": "The ninety lines are still on the board. You are not copying a London street into the margin. The pen is over a blank side-column. The rehearsal hour is on the almanac downstairs, and you are not in it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Refused the detail, and stayed in."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on draft in Not their street"
+    }
+  ]
+}

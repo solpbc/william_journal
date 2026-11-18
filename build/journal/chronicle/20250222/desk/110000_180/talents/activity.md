@@ -1,0 +1,1 @@
+You looked at the Sunday letter and did not give it to anyone. It is still dated the 16th of February 1594, and it still goes with the carrier of the 27th. You set it aside from the afternoon's part. You did not open the coffer.

@@ -1,0 +1,17 @@
+{
+  "narrative": "The head of Navarre's part, held open on a bench in the tiring-parlour. The first line is clear. The rest is not in the frame. No face, and no hand. The same line. No word is written beside it. A rain-spot from the yard door has dried at the edge of the paper, not on the ink. The corner of the part. The hour, and no tally.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the line, marked it to be left, and did not tinker."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on part in The first line"
+    }
+  ]
+}

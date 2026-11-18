@@ -1,0 +1,35 @@
+{
+  "narrative": "He stands by the left-hand post. The yard is full. One player's body fills the house the way water fills a bucket. The man at the door is still moving his lips. Nobody on the ground has turned to name the man by the post. The yard has the look of people who knew the end before the first trumpet. They have gone quiet for the king who loses. They are shouting for the king who wins. The man by the post has not moved to a bench, and his face is not what the yard is looking at.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Stood by the left-hand post and did not move to a bench."
+    },
+    {
+      "type": "Person",
+      "name": "Edward Alleyn",
+      "role": "mentioned",
+      "context": "Filled the house, and did not speak to him."
+    },
+    {
+      "type": "Person",
+      "name": "Philip Henslowe",
+      "role": "mentioned",
+      "context": "Kept the door, lips moving, and did not speak to him."
+    },
+    {
+      "type": "Project",
+      "name": "Harry the Fifth",
+      "role": "mentioned",
+      "context": "Shown on stage in The left-hand post"
+    },
+    {
+      "type": "Project",
+      "name": "the yard",
+      "role": "mentioned",
+      "context": "Shown on stage in The left-hand post"
+    }
+  ]
+}

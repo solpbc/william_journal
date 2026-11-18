@@ -1,0 +1,60 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Late, through the ceiling, Verbeke said that in Ghent also they burned the houses of the wrong people, and that it is always bread and then it is them. You answered, and you did not turn it into a plan. The name for the house remained Norwich.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered, and left him up there.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Spoke once through the ceiling, and then was quiet.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Heard him from below, and said to leave him there.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard Verbeke speak of Ghent through the ceiling",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Gillis Verbeke",
+    "William Shakespeare",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Ghent",
+    "the ceiling",
+    "Norwich"
+  ],
+  "quotes": [
+    {
+      "speaker": "gillis_verbeke",
+      "text": "In Ghent also they burned the houses of the wrong people. Always it is bread, and then it is us."
+    }
+  ]
+}

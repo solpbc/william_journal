@@ -1,0 +1,112 @@
+{
+  "overview": "Garnish held up the pasteboard and read it scene by scene. Burbage is the king and needs no roll. You are Gaunt. Phillips is Bolingbroke, Heminges York, Bryan Northumberland, Sly Mowbray, Pope the gardener, Sincler the Groom. The Parliament is off the plot. The jig at the foot is Kemp's.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Stood by the door. His name is on the plot as Gaunt."
+    },
+    {
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "formal_term": "Abel Garnish",
+      "appointment_tier": "not_applicable",
+      "context": "Read the plot scene by scene."
+    },
+    {
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "formal_term": "Richard Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Named as the king. Not yet in the room's talk."
+    },
+    {
+      "name": "Augustine Phillips",
+      "role": "mentioned",
+      "formal_term": "Augustine Phillips",
+      "appointment_tier": "not_applicable",
+      "context": "Named as Bolingbroke."
+    },
+    {
+      "name": "John Heminges",
+      "role": "mentioned",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Named as York."
+    },
+    {
+      "name": "George Bryan",
+      "role": "mentioned",
+      "formal_term": "George Bryan",
+      "appointment_tier": "not_applicable",
+      "context": "Named as Northumberland."
+    },
+    {
+      "name": "Thomas Pope",
+      "role": "mentioned",
+      "formal_term": "Thomas Pope",
+      "appointment_tier": "not_applicable",
+      "context": "Named as the gardener."
+    },
+    {
+      "name": "John Sincler",
+      "role": "mentioned",
+      "formal_term": "John Sincler",
+      "appointment_tier": "not_applicable",
+      "context": "Named as the Groom."
+    },
+    {
+      "name": "William Sly",
+      "role": "mentioned",
+      "formal_term": "William Sly",
+      "appointment_tier": "not_applicable",
+      "context": "Named as Mowbray in the lists."
+    },
+    {
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "formal_term": "Will Kemp",
+      "appointment_tier": "not_applicable",
+      "context": "Named at the foot, for the jig."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the pasteboard",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the rolls",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Parliament off it",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the jig",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard the Second",
+      "asset_type": "other",
+      "disposition": "Read the plot before the rolls went out"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-27",
+      "meaning": "The pasteboard"
+    }
+  ],
+  "summary": "Read the plot before the rolls went out"
+}

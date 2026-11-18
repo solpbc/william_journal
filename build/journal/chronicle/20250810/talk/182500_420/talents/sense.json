@@ -1,0 +1,128 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You and Anne came in and sat. The rest of the house was already at the board, and your mother, Richard, and Edmund were among them. Joan wanted the bread to be bread. You did not bring the path in.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat, reported nothing new, and left the boats where they were.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the path off the board.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had already had the three, and cleared the board after.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Was at the board for the knife, and then went up.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate, and did not ask.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told the arch until he was allowed to stop.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the song off the board, and left the boats outside.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat, and was not given a subject.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Was at the board, and was not given a subject.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Was at the board, and was not given a subject.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sat down to supper",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Sat down to supper",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Joan Shakespeare",
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "sitting down",
+    "the board",
+    "the path left outside"
+  ],
+  "quotes": [
+    {
+      "speaker": "joan_shakespeare",
+      "text": "Sit, before the bread is asked to be a speech."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "What we walked can stay where we walked it."
+    }
+  ]
+}

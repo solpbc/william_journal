@@ -1,0 +1,23 @@
+{
+  "narrative": "The account book open at home, both locks undone and not yet shut. Two new lines, and no figure under them. The earlier page is not turned back to a total. The book is shut. Both locks are turned. No sum has been written on the outside or on a slip beside it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the two lines and shut both locks."
+    },
+    {
+      "type": "Tool",
+      "name": "one pound still owed",
+      "role": "mentioned",
+      "context": "Shown on ledger in Two items, and no total"
+    },
+    {
+      "type": "Tool",
+      "name": "two pounds to the brief",
+      "role": "mentioned",
+      "context": "Shown on ledger in Two items, and no total"
+    }
+  ]
+}

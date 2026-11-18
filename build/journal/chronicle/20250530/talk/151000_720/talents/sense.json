@@ -1,0 +1,91 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "You played the Knave in the afternoon. Cowley came through the dry place once and apologised to nobody. Your eight lines held. Heminges would not call the play mended. Pope would not call once a triumph. You said you were not proud of the eight, and that Kemp has not been shown the king.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the eight lines held, and that he was not proud of them.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came through the dry place once and apologised to nobody.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused to call the afternoon a mending, and would not shut a bag on it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted once against Tuesday's four, and would not add them into a new play.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Sincler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had a doublet that met, and would not call that a victory.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the old Knave",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Through the dry place once",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Played the Knave, and Cowley came through the dry place once",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Richard Cowley",
+    "Thomas Pope",
+    "William Shakespeare",
+    "John Sincler"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one clean pass",
+    "eight lines",
+    "no triumph",
+    "the Knave not mended"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_cowley",
+      "text": "I came through the dry place once."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The eight lines held. I am not proud of them."
+    }
+  ]
+}

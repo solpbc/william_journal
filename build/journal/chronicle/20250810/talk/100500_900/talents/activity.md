@@ -1,0 +1,1 @@
+You stayed down in the pew through the first singing. Your mother had the cuff buttoned and would not open the empty place again. You did not try to fill it. Anne kept the lesson as the next thing, and dinner after that.

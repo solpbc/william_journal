@@ -1,0 +1,38 @@
+{
+  "overview": "You left the letter open and unsent. The date is the thirtieth of December 1595. The brook sentence stands. The coffer is a difference of nine pounds, and the box itself stayed shut.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote Anne's letter on the sheet"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "unsent",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the brook sentence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nine pounds",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-30",
+      "meaning": "Left the letter open on the desk"
+    }
+  ],
+  "summary": "Wrote Anne's letter on the sheet"
+}

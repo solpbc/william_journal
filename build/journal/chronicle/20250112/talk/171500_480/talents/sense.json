@@ -1,0 +1,129 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "You wrapped the soap and the blue thread with Mistress Ansell and Alse. You could not name the third thing. Mistress Ansell knows what the kind with two ends is, and she said your wife asked you. She would not say the name. Gilbert is to carry the parcel to the Bell for Thursday, at sixpence, with twopence if the question goes with it. Alse tied the cloth and could not letter it. The parcel is less handsome than you meant, and more likely to arrive.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the two things, struck the winter opening, and kept the third unnamed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the name, priced the carrier, and set the knot at the side.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the oiled cloth, tied it twice, and could not letter the direction.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named as the asker. Not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Gilbert Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named as the man who will carry the parcel to the Bell. Not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named as a threat to string left by the fire. Not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "hard soap",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Oiled cloth, and the third thing",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Coventry blue thread",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Oiled cloth, and the third thing",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "6d the parcel",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Oiled cloth, and the third thing",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "2d the letter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Oiled cloth, and the third thing",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Wrapped soap and Coventry blue thread",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the oiled cloth",
+    "the unnamed third thing",
+    "sixpence and twopence",
+    "Gilbert to the Bell"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Your wife asked you."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I am not your wife, and I am not a glossary."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Four young men swear off women and keep it till dinner."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "the kind with the two ends, as before"
+    }
+  ]
+}

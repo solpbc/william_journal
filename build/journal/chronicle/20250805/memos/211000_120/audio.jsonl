@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:10:00", "text": "Which price have you paid, for what, and where. And I had none.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:10:14", "text": "Two-and-twenty shillings the quarter, and thirty by Christmas. His figures. Anne had the town's side. I did not.", "timing": {"end": 32.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:10:32", "text": "I will give what I can give. My lord's ear stays for the plays. The gentlemen stay unnamed.", "timing": {"end": 42.0, "start": 32.0}}

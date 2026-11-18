@@ -1,0 +1,11 @@
+{
+  "narrative": "The account book is shut. Beside it, the unfinished leaves. A new candle. The twelfth leaf has one line in your hand and a wide blank under it. The coffer is shut. The pen is set down. The blank under the line is still blank. Nothing follows the line into a consequence.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the line, set the pen down, and did not continue."
+    }
+  ]
+}

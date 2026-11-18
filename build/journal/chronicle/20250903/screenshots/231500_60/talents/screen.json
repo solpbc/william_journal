@@ -1,0 +1,17 @@
+{
+  "narrative": "Two small leaves on the desk at a candle. One written-side up, too far off to read as a face. The other face down. A hand at the edge of the down-turned leaf. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Turned the leaf. His face is not in it."
+    },
+    {
+      "type": "Tool",
+      "name": "Field's crown paper",
+      "role": "mentioned",
+      "context": "In photo: Face down"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Dinner was beef at last, a boiled piece, and you paid threepence. Mistress Ansell did not measure the loaf. Master Verbeke said the loaf she would not measure was smaller than Christmas's. You said you had confessed nothing. John of Gaunt stayed upstairs, and you did not say your age.

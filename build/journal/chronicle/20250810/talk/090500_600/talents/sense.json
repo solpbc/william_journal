@@ -1,0 +1,125 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You ate the middle of the loaf after the children had already counted you. Susanna asked to take Golding to the river after dinner. You gave them the water toward the middle of the afternoon, and not the whole of it. The book stays on the shelf until dinner is eaten. Joan keeps the three when you and Anne go toward Shottery, and not before. You told the table the stone was back on the sheet.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the afternoon's limit, and reported the stone.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the book off the pew, and named Joan for after the path.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted three children, and refused the river in the bean hour.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave him the middle of the loaf, and sent the pack to church.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the book in daylight, and put it on the shelf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Wanted the river between dinner and the beans.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the boat's name, and tried to make a rule of the book.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "Golding's Ovid",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Ate the middle of the loaf",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the orchard bench",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Ate the middle of the loaf",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Set the boats for the middle of the afternoon",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Joan Shakespeare",
+    "William Shakespeare",
+    "Anne Shakespeare",
+    "Susanna Shakespeare",
+    "Hamnet Shakespeare",
+    "Judith Shakespeare",
+    "Mary Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the middle of the loaf",
+    "Golding after dinner",
+    "the middle of the afternoon",
+    "three children"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Thou wert a rumour till the moon left the wall."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Toward the middle of the afternoon. Not the whole of it."
+    },
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "I heard you. I am bringing the book, not a complaint."
+    },
+    {
+      "speaker": "mary_shakespeare",
+      "text": "You will have the middle of the loaf."
+    }
+  ]
+}

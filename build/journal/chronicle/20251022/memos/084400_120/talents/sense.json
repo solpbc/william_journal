@@ -1,0 +1,58 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Walking north up Bishopsgate Street toward the gate, you passed Barnaby Yaxley's barber-surgeon shop, where your tooth was drawn for twelvepence eight days since, on the Tuesday. You walked past. You did not go in.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Passed Yaxley's shop and walked on toward the gate.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Barnaby Yaxley",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named, and not spoken to. The door stayed a door.",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "Bishopsgate Street",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Walked past Yaxley's shop",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Walked past Yaxley's shop",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Bishopsgate Street",
+    "Barnaby Yaxley's shop",
+    "the Tuesday drawing"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Today I walk past his window with my mouth shut and my tongue in an empty place."
+    }
+  ]
+}

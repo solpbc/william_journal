@@ -1,0 +1,54 @@
+{
+  "overview": "You added the precept under Prices and did not measure the loaf again. You left the garden open. You left Saturday's parliament sheet blank. Susanna's letter is still on the chest.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the four short blocks and stopped."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Prices",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the open garden",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the blank parliament",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Susanna's letter",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Put the precept under Prices"
+    },
+    {
+      "name": "Susanna's letter",
+      "asset_type": "other",
+      "disposition": "Put the precept under Prices"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-01",
+      "meaning": "Still blank, where a parliament would be"
+    }
+  ],
+  "summary": "Put the precept under Prices"
+}

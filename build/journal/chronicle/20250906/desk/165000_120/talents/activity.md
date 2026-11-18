@@ -1,0 +1,1 @@
+At the reckoning you wrote the share as one-and-thirty shillings. You wrote that the coffer was not opened, and that it stands as ruled, at twenty pound fifteen shillings. You did not make a new total.

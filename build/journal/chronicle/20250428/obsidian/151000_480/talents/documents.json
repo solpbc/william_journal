@@ -1,0 +1,56 @@
+{
+  "overview": "You came home before the play and found York and Gaunt still as fine as the nephew. You did not correct them. You left the differences for tomorrow. Sunday's dinner stands, the chronicle stays, and the comedy waits on Saturday. Gib had not moved.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the refusal to mend, and kept Sunday's terms."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Stayed on the second volume."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "home before the play",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the same eloquence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "tomorrow's differences",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Came home to the uncles, still as fine as the nephew"
+    },
+    {
+      "name": "the Holinshed",
+      "asset_type": "other",
+      "disposition": "Came home to the uncles, still as fine as the nephew"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-28",
+      "meaning": "Home to the king"
+    }
+  ],
+  "summary": "Came home to the uncles, still as fine as the nephew"
+}

@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At the Bear, by half past five, you read the spring notes and found them less good than they had seemed before you left home. They are images from the fortnight: buds, a grey gown ten paces off, three answers at a brook. You did not add a line. They are not a play.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the old notes, judged them worse, and added nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Less good than in the yard",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read the spring notes and left the stylus",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the spring notes",
+    "the Bear",
+    "no new line"
+  ],
+  "quotes": []
+}

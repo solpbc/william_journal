@@ -1,0 +1,55 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "She gave you a cup of small beer and her blessing on the road. The blessing is not a plot and not a second receipt. You leave in the morning.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Drank, accepted the blessing, and named the morning.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the beer and the blessing, and stopped them from becoming a plot.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Took the beer and the blessing",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "small beer",
+    "the blessing",
+    "not a plot"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I am giving you my blessing on the road, and the blessing is not a plot."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I'll take the beer and the blessing."
+    }
+  ]
+}

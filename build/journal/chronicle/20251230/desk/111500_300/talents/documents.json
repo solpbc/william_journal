@@ -1,0 +1,39 @@
+{
+  "overview": "You read the duke riding home with the queen of the Amazons, and you stopped. The window further on in the tale stayed unturned. Your own leaf stayed face down, apart from the book.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the Knight's Tale where the cat had been"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the queen of the Amazons",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "his own leaf apart",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Canterbury Tales",
+      "asset_type": "other",
+      "disposition": "Read the Knight's Tale where the cat had been"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-30",
+      "meaning": "Read the duke riding home with the Amazon queen"
+    }
+  ],
+  "summary": "Read the Knight's Tale where the cat had been"
+}

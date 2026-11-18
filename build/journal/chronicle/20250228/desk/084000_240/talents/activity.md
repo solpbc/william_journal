@@ -1,0 +1,1 @@
+From the desk under the west window you saw the Friday litany let out. A woman came down the step with an older woman, a music-book under her arm. Dark hair under the hood, and when she looked up at the rooks, very dark eyes. She crossed toward the lane. You did not go down. You did not speak to her. The leaf in front of you was blank.

@@ -1,0 +1,59 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Richard began with the hay, which is dear. He took the bay. He gave Edmund's question and Joan's table before anything you would have asked. You did not make a speech on the bridge. The river is up. Anne and your mother are in the house.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Handed over the bay and kept the rest for walking.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the horse, began with the hay, and named the house as ready.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Let Richard take the bay",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the hay",
+    "the bay",
+    "no speech"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_shakespeare",
+      "text": "Hay is dear. What is left of last year's."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Take him. The rest of the news can walk."
+    },
+    {
+      "speaker": "richard_shakespeare",
+      "text": "I was told to watch the bridge, and I have, and you are what came."
+    }
+  ]
+}

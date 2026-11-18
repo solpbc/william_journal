@@ -1,0 +1,39 @@
+{
+  "overview": "The afternoon plot was Two Gentlemen, at the Theatre, at two of the clock. You took your place from the peg. No part-name was written beside the title.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Played, and left the part unnamed."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Two Gentlemen",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "two of the clock",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Two Gentlemen",
+      "asset_type": "other",
+      "disposition": "Read Two Gentlemen on the afternoon plot"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-02",
+      "meaning": "Two Gentlemen, this afternoon"
+    }
+  ],
+  "summary": "Read Two Gentlemen on the afternoon plot"
+}

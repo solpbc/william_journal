@@ -1,0 +1,58 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You said it in the lane and stopped. Somebody plays as you would like to write, twice, and the second time laughing. You did not name anyone. You did not go up to the door.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke one sentence and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "the lady of the parish",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Heard, not addressed, not named.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the virginals",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twice, and the second time laughing",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said it was played twice, the second time laughing",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the pavan",
+    "the second time faster",
+    "no name"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Somebody plays as I'd like to write. Twice, and the second time laughing."
+    }
+  ]
+}

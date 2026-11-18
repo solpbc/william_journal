@@ -1,0 +1,102 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Four of you sat the settle. The capon was fourteen pence a head, and Agnes forgave the slate for one night. Richard gave the tapster the castle wall, and the tapster bent. Thomas drank to seven-and-twenty, and deposed already. You gave a looking-glass in a pearwood frame, two shillings and sixpence. Richard looked a long moment. It was not Richard who looked. Augustine sang.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the glass, and kept both sums out of the coffer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called for ale in the plural, and looked into the glass.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sang, and did not make a speech of it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the health, and said it was not Richard who looked.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Agnes Tipping",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named fourteen pence, and forgave the slate for one night.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the pearwood glass",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Fourteen pence, and a glass",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the capon",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Fourteen pence, and a glass",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Gave Richard a looking-glass in a pearwood frame",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Agnes Tipping",
+    "Richard Burbage",
+    "Thomas Pope",
+    "William Shakespeare",
+    "Augustine Phillips"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "fourteen pence forgiven",
+    "the castle wall",
+    "a glass at two and six"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "We are amazed, and thus long have we stood to watch the fearful bending of thy knee"
+    },
+    {
+      "speaker": "thomas_pope",
+      "text": "Seven-and-twenty, and deposed already"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "To practise on. John's glass is in the chest, and that is the one thou'lt break."
+    }
+  ]
+}

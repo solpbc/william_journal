@@ -1,0 +1,46 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You said it was thirty yards across the close and the light was going. Gresham's chest was as plain as it was at Easter, and you were not staying. You said the blank under the queen was yours, and a stone does not tell you how to fill it. The letter was still on the board.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said it and turned back.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Stood in the porch and turned back",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the close",
+    "the plain chest",
+    "the blank"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Thirty yards across the close, and the light is going."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "That blank is mine. A stone does not tell me how to fill it."
+    }
+  ]
+}

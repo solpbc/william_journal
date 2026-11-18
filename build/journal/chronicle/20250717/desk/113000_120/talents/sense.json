@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You were home, and the letter was still on the nail. It is still unfolded. It still names no day. You did not take it to the Bell.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Left it on the nail.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the letter",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Still on the nail",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Saw the letter on the nail",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the old letter",
+    "still no day"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,85 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "At the morning rehearsal you were Navarre at two, for a May Day house in its best clothes. Garnish keeps the licensed book through the comedy and will loose it after Saturday's house. Kemp's lines stay as they are. No new tally was made. You did not show him the king's page.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the part and refused a new tally.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the book through the comedy.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the lines already in the book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Did not show the king, and did not take the book.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Navarre at two",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Left the licensed book with Garnish through the comedy",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Abel Garnish",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Navarre at two",
+    "the book through the comedy",
+    "no new tally"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Navarre at two."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "The book stays in my hand through the comedy."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "I have what is in the book."
+    }
+  ]
+}

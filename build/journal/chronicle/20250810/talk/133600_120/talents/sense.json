@@ -1,0 +1,90 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You came in from the lane behind the three. They were already in the house. You had not yet seen the cloth opened.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came in, and took the knife out and home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came in last with him, and kept the afternoon a middle.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had the house, and kept the corner until after the water.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had carried the cloth, and brought the book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had raced the lane, and was not given a new rule.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had walked, and kept a name she would not tell.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the pie",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Came in from the lane",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came in from the lane",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the door",
+    "the three already in"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "We are the last of us."
+    }
+  ]
+}

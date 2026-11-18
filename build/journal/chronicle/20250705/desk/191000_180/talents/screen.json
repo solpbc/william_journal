@@ -1,0 +1,17 @@
+{
+  "narrative": "The account leaf open at the week's line. The expected column was already there. Your stylus is in the received column. No figure is written as a balance. The horn is the old one.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the received line and left the balance blank."
+    },
+    {
+      "type": "Tool",
+      "name": "10s received",
+      "role": "mentioned",
+      "context": "Shown on ledger in Received, and no total"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "overview": "You went on without stopping to the castle wall at Flint and a king coming down. You stayed in the chair. The leaf ends while he is still coming down. The second candle guttered while you were still seated.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the coming down, and ended the leaf there."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Flint",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a king coming down",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Wrote Flint and a king coming down"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-17",
+      "meaning": "A king coming down"
+    }
+  ],
+  "summary": "Wrote Flint and a king coming down"
+}

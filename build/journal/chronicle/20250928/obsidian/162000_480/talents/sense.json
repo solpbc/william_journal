@@ -1,0 +1,52 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote Anne six lines for Thursday's carrier. You told her the margin, which is to trust the boy. You told her that you have a tooth, and nothing of what the tooth does. You told her the king is played on Thursday. You did not mention the Mayor's letter. You hoped the children were well.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the six lines and did not add a seventh.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the room. The page is for her.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Thursday's carrier",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Six lines for the carrier",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Wrote six lines and stopped",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "six lines",
+    "the margin",
+    "the tooth",
+    "Thursday's king"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,77 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Jacqueline said you make the Princess's people speak French as an Englishman dreams it, and she mended two words with her own pen, beau to bien and sire to madame. Field said you are wasted on players, as your friend, and then, without a pause, to leave the book and he would read it with the door shut. He told you the court went to Greenwich yesterday, which you had already heard. By the cheese the home vowels were back in your mouth. The book stays until before Tuesday. No third word was mended.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the friend-sentence and the door, and did not pretend Greenwich was news.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Jacqueline Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Mended the two words, refused a third, and would not swear to the cheese.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the mend, heard thee come back, and left the book.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two words",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Left the comedy after Jacqueline mended two words",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Jacqueline Field",
+    "William Shakespeare",
+    "Richard Field"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two mended words",
+    "the door shut",
+    "Greenwich already known",
+    "the home vowels"
+  ],
+  "quotes": [
+    {
+      "speaker": "jacqueline_field",
+      "text": "You make them speak French as an Englishman dreams it"
+    },
+    {
+      "speaker": "richard_field",
+      "text": "Thou'rt wasted on players. I say it as thy friend"
+    },
+    {
+      "speaker": "richard_field",
+      "text": "Leave the book. I'll read it with the door shut"
+    }
+  ]
+}

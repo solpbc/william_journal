@@ -1,0 +1,23 @@
+{
+  "narrative": "The shelf by one candle. A heavy grey cat lies along the tall book, back to the room, tail over the fore-edge. The shorter book beside it is clear. A folded packet rests at the edge of the desk, the writing turned in. The coffer at the bed's foot is shut, both locks dark. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Put the fold on the desk and did not open the coffer."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Lay on the chronicle, and not on the Chaucer."
+    },
+    {
+      "type": "Project",
+      "name": "Holinshed's Chronicles",
+      "role": "mentioned",
+      "context": "In photo: Found Gib on Field's chronicle"
+    }
+  ]
+}

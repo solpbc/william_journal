@@ -1,0 +1,1 @@
+You came home blue from the yard and sat to pottage. Board was threepence. You told them the morning had been rehearsal and the afternoon was King Richard, which you play. You took the muffler and left the comedy's book shut.

@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You noted the strap, still long, and the coffer, still twenty pound fifteen shillings and still shut. The letter to Anne waits until tomorrow, after the bells. You did not start it this morning.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the note and left the letter unstarted.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named as the person the letter is for. Not here.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "twenty pound fifteen shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in After the bells",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Left the letter for tomorrow",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the strap",
+    "twenty pound fifteen",
+    "the letter tomorrow"
+  ],
+  "quotes": []
+}

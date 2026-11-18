@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "At two you had Egeon's roll again, with the shipwreck marked for the right side of the mouth, the same side as Tuesday. You did not write a new speech onto the roll.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Played the part from the right side of the mouth.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Errors",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Egeon, the same side",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Told the shipwreck from the right side again",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Egeon",
+    "the right side of the mouth",
+    "Tuesday's margin"
+  ],
+  "quotes": []
+}

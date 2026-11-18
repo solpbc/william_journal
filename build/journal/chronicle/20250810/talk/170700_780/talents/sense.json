@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Anne walked a few paces ahead. The thatch showed as a dark line and stayed a roof. Nobody called you in, and you did not call ahead.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Walked with Anne a few paces ahead",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Walked with Anne a few paces ahead",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Hewlands",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Walked with Anne a few paces ahead",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Started along the field path",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "her pace ahead",
+    "the thatch",
+    "no call from the yard"
+  ],
+  "quotes": []
+}

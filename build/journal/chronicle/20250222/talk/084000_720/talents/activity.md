@@ -1,0 +1,1 @@
+At breakfast there was snow, and you said the afternoon play was still two of the clock. The letter stayed for the carrier of the 27th. Board was threepence. The loaf was a penny and a finger short. You would not talk of yesterday. Mistress Ansell would not count a player's share on her board.

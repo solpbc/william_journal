@@ -1,0 +1,1 @@
+You wrote sixteen shillings left of the six pounds, and you wrote the two shillings for the pack and the saddle as not yet paid. You ruled the line off. You did not enter the bay grease, and you did not count the locked money.

@@ -1,0 +1,104 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "The comedy was back from Blackfriars with Jacqueline's two words and no others. Nick put the mended vowel in the front of the mouth and did not invent a French line. You named Thursday's forty as a part and did not speak them. Kemp asked for the slippers and was given Thursday. You did not show him another book.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Entered the two words and stopped the shoes.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Placed the breath before the vowel, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Praised the vowel once, and refused twenty bars that would become the dance.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the short hem, and hung the kirtle.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the slippers, was refused, and did not get a book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the forty as a part, and left them unspoken.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The vowel, and forty",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took the book back and kept the jig for Thursday",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "William Shakespeare",
+    "Nick Sorrell",
+    "Augustine Phillips",
+    "Will Kemp",
+    "Arthur Meeks"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the two words",
+    "the vowel",
+    "forty lines",
+    "the jig kept for Thursday"
+  ],
+  "quotes": [
+    {
+      "speaker": "nick_sorrell",
+      "text": "the vowel stays in the front of the mouth"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Thursday's book, for me, is an old duke and forty lines"
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "The leaf is entered as two words and no more"
+    }
+  ]
+}

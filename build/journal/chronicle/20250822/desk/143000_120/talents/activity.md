@@ -1,0 +1,1 @@
+Gaunt's roll came back to you in Garnish's copyist's fair secretary, cue-words ranged right after the long rule. The dying speech is yours, and in another man's hand it read like someone else's. You have six weeks to get it by heart.

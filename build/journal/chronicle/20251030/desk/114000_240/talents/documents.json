@@ -1,0 +1,49 @@
+{
+  "overview": "Between rehearsal and the play you looked at the one page. You added nothing. The red bundle stayed tied. You did not open the tomb.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked, and added nothing."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "one page",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nothing added",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the tied bundle",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the one page",
+      "asset_type": "other",
+      "disposition": "Looked at the one page before the play"
+    },
+    {
+      "name": "the red bundle",
+      "asset_type": "other",
+      "disposition": "Looked at the one page before the play"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-30",
+      "meaning": "Still the one page"
+    }
+  ],
+  "summary": "Looked at the one page before the play"
+}

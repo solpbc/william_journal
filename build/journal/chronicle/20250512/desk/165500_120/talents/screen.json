@@ -1,0 +1,11 @@
+{
+  "narrative": "The small book open at a fresh line. A silver thimble sits by the ink, still in paper, with no day written on the paper. The line stands alone. The chest is not opened. No second sum under the thimble.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the one line, and did not open the chest."
+    }
+  ]
+}

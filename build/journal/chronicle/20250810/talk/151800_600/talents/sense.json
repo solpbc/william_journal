@@ -1,0 +1,116 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You came back inside the middle of the afternoon. The corner of pie was still a corner. Joan took the three, as she had said she would. Susanna did not ask her question again, and you did not make a second answer. The boats went on the step, not into the hall. The knife was back. You and Anne went for the field path, and the arch was not a message you were taking with you.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Found the corner of pie in the cloth",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Found the corner of pie in the cloth",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Found the corner of pie in the cloth",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Found the corner of pie in the cloth",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Found the corner of pie in the cloth",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Found the corner of pie in the cloth",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the pie",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Found the corner of pie in the cloth",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the paring-knife",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Found the corner of pie in the cloth",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came home from the bridge",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Joan Shakespeare",
+    "Hamnet Shakespeare",
+    "Judith Shakespeare",
+    "Susanna Shakespeare",
+    "William Shakespeare",
+    "Anne Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the corner still a corner",
+    "Joan has the three",
+    "the boats on the step",
+    "the knife home"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I had one answer at the reeds, and it was that the book does not say."
+    },
+    {
+      "speaker": "joan_shakespeare",
+      "text": "It has survived."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Joan has the three of you."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "In the belt. Three hulls, and home."
+    }
+  ]
+}

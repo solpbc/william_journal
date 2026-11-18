@@ -1,0 +1,1 @@
+During the second act you were behind the traverse, where you had been since the tale. A hired man could not find his roll in Garnish's chest. You stayed in the chest with him until the right one came up, and you did not rehearse your nerves out loud. Sixty rolls had gone into the chest. The hall went on laughing at the old play. You did not improve it from the tiring-room.

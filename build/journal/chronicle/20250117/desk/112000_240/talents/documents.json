@@ -1,0 +1,51 @@
+{
+  "overview": "You had the three new cue-words on the roll, and the speeches left as they were. Larkham's copy of the second roll was beside it. These marks are for this morning's rehearsal of next week's Richard the Third. They are not a rewriting of the play.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Marked the three cues."
+    },
+    {
+      "name": "Humphrey Larkham",
+      "role": "mentioned",
+      "formal_term": "Humphrey Larkham",
+      "appointment_tier": "not_applicable",
+      "context": "Named by the second roll in his hand. Not pictured."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "three cues",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the roll",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the recopied second roll",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard the Third",
+      "asset_type": "other",
+      "disposition": "Left three new cues on the roll"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-17",
+      "meaning": "The three words on the roll"
+    }
+  ],
+  "summary": "Left three new cues on the roll"
+}

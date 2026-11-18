@@ -1,0 +1,110 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Dinner was at the lodging. The loaf was a penny and a full thumb short of the notch, and you took the soft side because the jaw was quiet and not to be tried. You asked for a length of red thread in the evening, not the skein. Mistress Ansell told you to write the three lines home before you corrected the fair page again. The latch stays as it is.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the soft side, asked for a length of red, and promised the three lines before another correction.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the soft side toward him, stated the threepence and the sixpence, and refused the latch.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed the loaf against the notch and kept the crusts off his side.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke once of a silk thread and a light, and left the table to the paper.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Stayed on the settle.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The soft side of a short loaf",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the hall candle",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The soft side of a short loaf",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the latch",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The soft side of a short loaf",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate the soft side, and asked for red thread",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the penny loaf",
+    "the soft side",
+    "a length of red thread",
+    "the latch"
+  ],
+  "quotes": [
+    {
+      "speaker": "alse_pinder",
+      "text": "The loaf is a penny, and it is a full thumb short of the notch."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I shall want a length of red out of your basket"
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The threepence is the fact."
+    }
+  ]
+}

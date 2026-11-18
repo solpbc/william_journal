@@ -1,0 +1,17 @@
+{
+  "narrative": "A small penny loaf still in the pan of a wooden scale on the bakehouse board, weights beside it, flour in the sun from a high window. An empty pie dish and a stripped mutton bone sit further down the board. No one is in the frame.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked once from the door, and did not go back in."
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "context": "In photo: The loaf left on the scale"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 540.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "15:58:00", "text": "The lane ends, and then it is the path. I want the path. I do not want a telling of the lane.", "timing": {"end": 380.0, "start": 120.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:02:20", "text": "No telling. The lane is the way to the hedge, and then I am done with the lane.", "timing": {"end": 390.0, "start": 380.0}}

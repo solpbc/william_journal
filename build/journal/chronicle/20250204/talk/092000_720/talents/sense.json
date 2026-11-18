@@ -1,0 +1,114 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At rehearsal you left the owl's one moved stop where it was, and no word was changed. Pope heard the end of it and said the stop held. Nick was not given the song. He has the Princess, and Phillips set her first long speech for Thursday, walking. He goes to meet Heminges before noon, to be measured. You said the new comedy is not in front of a yard. You had come from Field's with no book, and you will ask again in Lent. No line of the play was spoken out.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the division and named Lent for the book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept both songs and set Thursday for the Princess.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed with the Princess and did not take the owl.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the stop and went to look at the cuff.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named for Thursday. He was not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named as the man Nick goes to meet. He was not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the cuckoo and the owl",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The stop holds",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Fair Em",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The stop holds",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed the songs at the Cross Keys",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Augustine Phillips",
+    "William Shakespeare",
+    "Nick Sorrell",
+    "Thomas Pope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the owl's stop",
+    "the songs",
+    "the Princess",
+    "Thursday"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_pope",
+      "text": "The stop holds. I heard the end."
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "You will not send me a third before Lent."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "You have the songs. I have the comedy."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "That a book cannot walk home."
+    }
+  ]
+}

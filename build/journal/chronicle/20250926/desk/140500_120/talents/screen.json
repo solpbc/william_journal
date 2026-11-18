@@ -1,0 +1,23 @@
+{
+  "narrative": "A different plot on the same peg. The title and the hour. No name of a part beside his. No face. A paper read at the door and not taken down. One title. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Played the afternoon, and stayed on this bank."
+    },
+    {
+      "type": "Project",
+      "name": "Richard the Third",
+      "role": "mentioned",
+      "context": "Shown on plot in The other gown, and Faustus"
+    },
+    {
+      "type": "Project",
+      "name": "Faustus",
+      "role": "mentioned",
+      "context": "Shown on plot in The other gown, and Faustus"
+    }
+  ]
+}

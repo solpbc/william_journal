@@ -1,0 +1,84 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Tilney had the king open at the fourth act, courteous and a little bored, and had read every line. He asked what a yard would be made to see. He tapped the crown line, called the fourth act prettiest where it is shortest, and wrote the margin. The bishop's protest may stand. The scene goes from the quarrel to the Tower. You said it was in the chronicle. He answered with two thousand standing. He signed and sealed. John counted down seven shillings. You did not say, in that room, that he had cut the glass.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the chronicle, and left the foul papers at home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Tilney",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Wrote the margin, signed the last leaf, and sealed it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted down the seven shillings, and kept the second book out of the room.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in What a yard is made to see",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Revels seal",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in What a yard is made to see",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Let Tilney write the margin and seal the book",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Edmund Tilney",
+    "William Shakespeare",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the margin cut",
+    "two thousand standing",
+    "seven shillings counted down"
+  ],
+  "quotes": [
+    {
+      "speaker": "edmund_tilney",
+      "text": "It is a pretty play. The fourth act is prettiest where it is shortest"
+    },
+    {
+      "speaker": "edmund_tilney",
+      "text": "The chronicle is read by one man, sitting"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It is all in the chronicle."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "narrative": "The sheet on the bench in moonlight, the stone shifted off the first lines, a horn lantern at the end of the plank. The next lines, still wet, the pen laid across the knot-hole beside the inkhorn.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote her lines before his."
+    },
+    {
+      "type": "Project",
+      "name": "the orchard scene",
+      "role": "mentioned",
+      "context": "Shown on draft in She speaks first"
+    }
+  ]
+}

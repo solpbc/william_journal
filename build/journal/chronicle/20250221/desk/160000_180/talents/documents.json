@@ -1,0 +1,38 @@
+{
+  "overview": "In the afternoon you wrote the date and nothing under it. You did not open the comedy. You did not set down a sentence. The leaf stayed blank below the day.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the date only, and did not go on."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the date",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a blank leaf",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nothing written",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-02-21",
+      "meaning": "A leaf with the date and nothing else"
+    }
+  ],
+  "summary": "Wrote the date on the leaf"
+}

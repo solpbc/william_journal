@@ -1,0 +1,1 @@
+Alone after dinner you hummed the anthem and lost it. You said four voices that do not tell each other what they mean would be a scene, and that it is not a scene yet. You split the month into what must be done and what you would only like to better, and you struck the second.

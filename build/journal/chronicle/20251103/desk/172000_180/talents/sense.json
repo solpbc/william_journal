@@ -1,0 +1,60 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "The board on the drum carries Peter, the musicians, and three minutes beside the bed. The names are out of the catgut and are not spelled. The tune is called for and not let finish.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the turn and left the board.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Named on the page as Peter. Not in the frame.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Named among the musicians. Not in the frame.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The board on the drum",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read the three minutes on the drum",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the drum",
+    "three minutes",
+    "the catgut",
+    "the unfinished tune"
+  ],
+  "quotes": []
+}

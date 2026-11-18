@@ -1,0 +1,1 @@
+Mistress Ansell would not let you sit floured. You told her the book is old and you play the dead king at two. She made you wash the hand that eats and left the hair until after the play. Dinner is threepence. Alse said she would sweep the step and not the king.

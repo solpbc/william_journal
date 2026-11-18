@@ -1,0 +1,62 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At the lodging you put the afternoon into one decision. What they cannot out-bellow they will have to out-write. The line quieted the room even when it was mocked. Berowne stays under your arm. You did not read him to Richard, and you will not tonight.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the decision and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Out-write them",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "2 Tamburlaine",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Out-write them",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said the bellowing would have to be out-written",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "out-write",
+    "the mocked line",
+    "Berowne unopened"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "What they cannot out-bellow they will have to out-write."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Berowne stays under the arm. Not for Richard. Not tonight."
+    }
+  ]
+}

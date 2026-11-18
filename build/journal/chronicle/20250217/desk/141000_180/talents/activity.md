@@ -1,0 +1,1 @@
+At the lodging, while the company played The Shrew, you wrote on your tables that the afternoon was not yours. You copied the pause you had already marked. You noted the watchet at fifty shillings unpaid, and you set down no tally.

@@ -1,0 +1,44 @@
+{
+  "overview": "You left the account book shut. The three leaves were not opened into the page. You did not write a new sum. The sixpence for firing and washing is the standing charge from Michaelmas, and it was not entered again this morning.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked at the shut book, and wrote nothing."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the book shut",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no new sum",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the sixpence not re-entered",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the account book",
+      "asset_type": "other",
+      "disposition": "Did not open the account book"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-07",
+      "meaning": "The book stayed shut"
+    }
+  ],
+  "summary": "Did not open the account book"
+}

@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At dusk you spoke to the ceiling. A crack in the plaster had the shape of the Thames, and you named Blackfriars and the Bridge along it. You cannot lie on a floor in London. You have a king to bury.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said it to the ceiling, low, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the king in the cut play",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A crack the shape of the Thames",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Named the Thames, Blackfriars and the Bridge in the crack",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the crack",
+    "the Thames",
+    "a king to bury"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "There's a crack in the plaster the shape of the Thames. Blackfriars. The Bridge."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I can't lie on a floor in London. I've a king to bury."
+    }
+  ]
+}

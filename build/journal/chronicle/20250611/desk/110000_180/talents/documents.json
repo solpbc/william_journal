@@ -1,0 +1,44 @@
+{
+  "overview": "You read the Rose bill at the lodging. The title was The Wise Man, at two. There was no sum on the paper. You did not cross. Your own afternoon was the Theatre.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the title and did not cross."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the Rose bill",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the title",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Theatre at two",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Wise Man",
+      "asset_type": "other",
+      "disposition": "Read The Wise Man and went to the Theatre"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-11",
+      "meaning": "Wise Man, title only"
+    }
+  ],
+  "summary": "Read The Wise Man and went to the Theatre"
+}

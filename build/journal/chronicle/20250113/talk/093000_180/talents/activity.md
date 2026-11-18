@@ -1,0 +1,1 @@
+Alse brought water and you sent her off the paper. You called the blot a blot and said you were well. Mistress Ansell left broth as dinner and did not send you out. Gib was asleep on the Golding. Alse asked about the year and a day, which she had already heard through the floor. You told her they do not marry, and you did not fill the messenger's half-line.

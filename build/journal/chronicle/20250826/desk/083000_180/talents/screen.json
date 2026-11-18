@@ -1,0 +1,35 @@
+{
+  "narrative": "Gaunt's roll held open on the desk by the inkhorn. Cue-words ranged right after a long rule, in a fair secretary that is not yours. Gib asleep on the grey cloth over the chronicle. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the roll at the desk."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Slept on the cloth over the Holinshed."
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "context": "Named by the hand. Not in the room."
+    },
+    {
+      "type": "Project",
+      "name": "Richard the Second",
+      "role": "mentioned",
+      "context": "Shown on part in Gaunt's roll"
+    },
+    {
+      "type": "Tool",
+      "name": "Holinshed",
+      "role": "mentioned",
+      "context": "Shown on part in Gaunt's roll"
+    }
+  ]
+}

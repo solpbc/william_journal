@@ -1,0 +1,85 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "After Errors you reckoned the afternoon with John, Margery, and Kemp. The house had been thin. Margery named no sum. John said he would not set a figure and would not borrow one. Kemp had done the jig and did not ask for a number. You added nothing, and you opened no second matter. Nobody spoke of the morning's play.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the blank as a blank, and opened no second matter.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a figure and entered the thin house without a number.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called it thin and would not supply a sum.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the jig, and did not ask what the morning had been.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No figure for the afternoon",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Reckoned a thin Errors",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Goodwife Margery Pell",
+    "John Heminges",
+    "Will Kemp",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the reckoning",
+    "no sum",
+    "the jig"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "I am not setting a figure on this afternoon, and I will not borrow one."
+    },
+    {
+      "speaker": "margery_pell",
+      "text": "Thin. Errors, and they listened, and I am still not putting a sum in anyone's mouth."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "There is no figure, and there is no second matter."
+    }
+  ]
+}

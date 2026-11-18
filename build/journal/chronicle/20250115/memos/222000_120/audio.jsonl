@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "22:20:00", "text": "I walked the close twice. The only prints before mine were a cat's.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "22:20:12", "text": "One window lit. The Mayor sits up. What keeps him from sleeping?", "timing": {"end": 26.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "22:20:26", "text": "I tried a line at the door. The moon keeps the close, and every stone is sworn.", "timing": {"end": 40.0, "start": 26.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "22:20:40", "text": "It sounded like a proclamation. It is not. The nose made it grand. I laughed.", "timing": {"end": 54.0, "start": 40.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "22:20:54", "text": "\u2026Sleep.", "timing": {"end": 64.0, "start": 54.0}}

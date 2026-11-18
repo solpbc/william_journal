@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:20:00", "text": "The stage is twice the Cross Keys. The hush held when the messenger came in black. Two thousand is a house. It is not a sum I am writing down.", "timing": {"end": 18.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:20:18", "text": "Sam sang, and the note was clear. I am glad of the note, and I am leaving it there.", "timing": {"end": 32.0, "start": 18.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:20:32", "text": "The nuts were in the yard. I am not making a picture of them.", "timing": {"end": 42.0, "start": 32.0}}

@@ -1,0 +1,94 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "You tried the Capulet wedding morning with Tom, Kemp, and Nick. Tom read the father plain and flat, down to the spices, and the plainness was the danger. Kemp found a pause nobody had written, and Nick laughed without being asked. You wrote the pause in. Kemp said a pause lets a man put a whole life in it. You said you saw it, and you did not promise more. You kept the jaw tender, and you named no one for the afternoon king.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Defended the hurry of the kitchen, wrote the pause, and refused a second and a crust.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read old Capulet flat, and kept him among small orders.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Waited where nothing was written, and named what a pause can hold.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Laughed unasked, and was told not to hunt the laugh.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Capulet wedding",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three leaves, and a wait",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the pause",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three leaves, and a wait",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Wrote the pause in",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Pope",
+    "William Shakespeare",
+    "Will Kemp",
+    "Nick Sorrell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "old Capulet",
+    "the pause",
+    "the kitchen clock",
+    "the tender jaw"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "Give a man a pause and he'll fill it with a whole life."
+    },
+    {
+      "speaker": "thomas_pope",
+      "text": "See the baked meats are not scanted."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A kitchen in a hurry is part of the clock."
+    }
+  ]
+}

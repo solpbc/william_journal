@@ -1,0 +1,42 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "You gave them one sonnet between them, and it opens on his unworthy hand and her holy shrine. Above it you noted serving-men, napkins, and joint-stools, for whoever is a servant that day. You did not write another man's line into the margin.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the opening, and the note above it.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Napkins above the sonnet",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote the opening and the servants above it",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the opening",
+    "napkins and joint-stools"
+  ],
+  "quotes": []
+}

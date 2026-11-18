@@ -1,0 +1,1 @@
+Late in the morning you wrote three sheets and did not finish them. Six tradesmen meet to cast a play. The weaver asks if all the company is here. He would be the lover, and the lady, and then the lion. You wrote the lines you meant Kemp to meet, and you left the rest blank. The head is not on the paper. You did not take the sheets to the Theatre.

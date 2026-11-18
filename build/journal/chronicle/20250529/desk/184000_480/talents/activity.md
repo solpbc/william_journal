@@ -1,0 +1,1 @@
+You drafted a few foul lines of the garden and stopped. The gardener binds the apricocks. She hears him. He knows more than she. You did not finish an act, and you did not give the lines to anyone to learn.

@@ -1,0 +1,1 @@
+Hobbins was nine days on the way. He took the letter of the last of August, still sealed, and gave you Anne's, written the Sunday after you left, and a parcel from Henley Street tied with a knot of great confidence. You read her letter in the yard and again by the taproom window. It answers a letter she has not yet had. You did not open the parcel.

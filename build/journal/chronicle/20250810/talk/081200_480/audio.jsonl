@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 480.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "08:12:20", "text": "There it is. As I left it. I am not coming out to watch thee be careful.", "timing": {"end": 160.0, "start": 20.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:14:40", "text": "Stay in. I have the stone in my eye from here. I will not sit down to it.", "timing": {"end": 310.0, "start": 160.0}}
+{"sentence_id": 3, "speaker": "anne_shakespeare", "start": "08:17:10", "text": "Then we are agreed, and I have a loaf to get on with. Come back by the door you left.", "timing": {"end": 320.0, "start": 310.0}}

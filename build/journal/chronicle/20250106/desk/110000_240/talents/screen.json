@@ -1,0 +1,17 @@
+{
+  "narrative": "A half sheet at the desk, morning light, oak-gall on the forefinger. Four short labels at the head. No messenger. No man in black. The space under the note is blank. Your pen is off the paper. You have not drawn the entrances. The play at two is not this page.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the knot and did not untie it."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on draft in Four men, and no way on"
+    }
+  ]
+}

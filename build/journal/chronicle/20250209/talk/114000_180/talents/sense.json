@@ -1,0 +1,85 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At dinner the penny loaf was still a finger short of the notch. Your board was threepence. Gib was on the stair and not on the book. You told the house you would write and that you would not send it. Hobbins had already gone with Thursday's packet.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Confirmed the loaf and the board, and said the writing would stay in the house.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the short loaf and refused to carry a letter.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left Gib on the stair and off the book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Lay on the stair.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A finger short, still",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate the short loaf",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the loaf",
+    "threepence",
+    "Gib on the stair",
+    "the letter not sent"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A finger short of the notch."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The board is threepence."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "Gib is on the stair."
+    }
+  ]
+}

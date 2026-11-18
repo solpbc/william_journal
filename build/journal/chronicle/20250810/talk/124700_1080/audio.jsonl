@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 1080.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "judith_sadler", "start": "12:54:20", "text": "There is no second pie. I said so. The dish is of the same mind.", "timing": {"end": 720.0, "start": 440.0}}
+{"sentence_id": 2, "speaker": "hamnet_sadler", "start": "12:59:00", "text": "I am at the end of my dinner. The oven can have me back when you have the lane.", "timing": {"end": 980.0, "start": 720.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "13:03:20", "text": "We are near the end of it. I am not opening a thing that has already been shut.", "timing": {"end": 1050.0, "start": 980.0}}
+{"sentence_id": 4, "speaker": "anne_shakespeare", "start": "13:04:30", "text": "Finish, then. The lane is the next room, and it is not this one.", "timing": {"end": 1060.0, "start": 1050.0}}

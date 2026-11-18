@@ -1,0 +1,1 @@
+On two leaves you had the purse and the nights apart. The received leaf is my lord's four pounds, for hose, in eight parts of ten shillings, of which yours is ten. The expected leaf is the Queen's three nights, not yet had. An office is still empty. Twelfth Day is written as the day you are looked for again. You did not add the two leaves into one sum.

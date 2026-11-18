@@ -1,0 +1,1 @@
+Hamnet Sadler, who was owed nothing, had seen you cross the street three times. He said it was a kind morning's walk. You said you were buying bread. He said eight loaves' worth. You did not correct him.

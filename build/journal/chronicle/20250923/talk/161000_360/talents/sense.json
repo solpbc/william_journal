@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Before you came off Egeon, George Bryan told you what a Carey groom had said. My lord of Southampton courts Mistress Vernon, one of the Queen's maids, with too much familiarity, and the court says so. You did not better the sentence. Thomas Pope would not have her name in a book, or in a second telling. You said it was not your suit.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard Mistress Vernon named, and would not add to it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the groom's talk, and stopped when he had said it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Would not have the name written down, or said twice.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Bryan on Mistress Vernon",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "George Bryan",
+    "William Shakespeare",
+    "Thomas Pope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Mistress Vernon",
+    "a Carey groom",
+    "once"
+  ],
+  "quotes": [
+    {
+      "speaker": "george_bryan",
+      "text": "Mistress Vernon. With too much familiarity, the groom says, and the court says so."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The court is always certain."
+    },
+    {
+      "speaker": "thomas_pope",
+      "text": "I do not want her name in a book, and I do not want it in a second telling."
+    }
+  ]
+}

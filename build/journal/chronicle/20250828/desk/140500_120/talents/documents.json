@@ -1,0 +1,44 @@
+{
+  "overview": "At two you played Egeon again. He opens the play, and he sits until the fifth act. The back stayed in the chair between.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Played Egeon at two."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "The Comedy of Errors",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Egeon",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Comedy of Errors",
+      "asset_type": "other",
+      "disposition": "Played Egeon"
+    },
+    {
+      "name": "the Theatre",
+      "asset_type": "other",
+      "disposition": "Played Egeon"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-28",
+      "meaning": "Errors at two"
+    }
+  ],
+  "summary": "Played Egeon"
+}

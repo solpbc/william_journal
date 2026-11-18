@@ -1,0 +1,44 @@
+{
+  "overview": "You checked York's roll and the Queen's after Gaunt's. Each entrance sat on the same cut word, and each had the sign. You put the weight back on the three.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Checked the same cue on three rolls"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "York's roll",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Queen's roll",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the weight",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the three rolls",
+      "asset_type": "other",
+      "disposition": "Checked the same cue on three rolls"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-22",
+      "meaning": "Checked York's roll and the Queen's"
+    }
+  ],
+  "summary": "Checked the same cue on three rolls"
+}

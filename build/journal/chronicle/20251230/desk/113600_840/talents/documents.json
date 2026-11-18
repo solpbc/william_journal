@@ -1,0 +1,38 @@
+{
+  "overview": "You left the desk as it was and went to the stair. The letter stayed. The pile stayed unopened. You did not take a page down with you.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Turned the morning's leaf face down"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the desk left",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the stair",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nothing in the hand",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-30",
+      "meaning": "Left the desk and went down to dinner"
+    }
+  ],
+  "summary": "Turned the morning's leaf face down"
+}

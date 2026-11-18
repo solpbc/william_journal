@@ -1,0 +1,42 @@
+{
+  "density": "idle",
+  "content_type": "reading",
+  "activity_summary": "You opened the roll a finger's width and still kept the head covered. You wrote nothing in the margin. Then you closed it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "attendee in Opened the roll a finger's width and shut it",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the part-roll",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Opened the roll a finger's width and shut it",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Turned the head of the roll under",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the covered head",
+    "a blank margin"
+  ],
+  "quotes": []
+}

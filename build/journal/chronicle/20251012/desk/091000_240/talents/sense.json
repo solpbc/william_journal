@@ -1,0 +1,60 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You kept morning prayer with the almanac open on your knee. You did not mark the page. You heard the minister and kept none of the sermon. The Lord Mayor's back was in the pew ahead, and he did not turn.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Sat the parish hour with his mouth shut and did not mark the day.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Preached. None of it was kept.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Sat ahead, turned away, and did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The date, and nothing under it",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Sat morning prayer",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the almanac",
+    "morning prayer",
+    "an empty margin",
+    "a back in the pew"
+  ],
+  "quotes": []
+}

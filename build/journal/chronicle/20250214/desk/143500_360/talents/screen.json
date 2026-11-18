@@ -1,0 +1,29 @@
+{
+  "narrative": "A black-letter board at the yard door, title only, no name of an author under it. Penny-standers beyond. The flag is up. Winter light on the thatch. No face in the frame. From a post on the left of the yard, the stage. A tall boy in a buff jerkin and breeches, a staff in his hand, three men got up as Spanish swaggerers. The yard is open-mouthed. No face of the man at the post. Henslowe at the door, lips moving, a hand keeping a count that is not turned toward the yard. Alleyn is on the stage, easy, in a part that does not fill him. The board is still title only.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Stood by the post on the left and followed the yard."
+    },
+    {
+      "type": "Person",
+      "name": "Edward Alleyn",
+      "role": "mentioned",
+      "context": "Played, easy, in a part smaller than himself."
+    },
+    {
+      "type": "Person",
+      "name": "Philip Henslowe",
+      "role": "mentioned",
+      "context": "Counted heads at the door with his lips, and did not show the figure."
+    },
+    {
+      "type": "Project",
+      "name": "Long Meg of Westminster",
+      "role": "mentioned",
+      "context": "Shown on stage in A post on the left"
+    }
+  ]
+}

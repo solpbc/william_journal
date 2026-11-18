@@ -1,0 +1,17 @@
+{
+  "narrative": "The account book is open. One line is new. No total is cast under it. The sixty shillings are not added to a coffer figure.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Entered the one line and did not add the coffer."
+    },
+    {
+      "type": "Tool",
+      "name": "60s in canvas",
+      "role": "mentioned",
+      "context": "Shown on ledger in Set by"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You played Titus at two and did not make a scene of it. The morning stayed what it was: nothing bought, the two poems as Harrison had them, and a wedding left as news. The book is with Abel and not licensed. The letter is still unanswered.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the morning as it was and left the night alone.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Titus Andronicus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in News, and not a play",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Siege of London",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in News, and not a play",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Left the wedding as news",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Titus",
+    "the morning at Paul's",
+    "the letter"
+  ],
+  "quotes": []
+}

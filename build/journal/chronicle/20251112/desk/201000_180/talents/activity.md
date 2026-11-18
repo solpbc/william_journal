@@ -1,0 +1,1 @@
+At home you looked at the line that has stood on your tables since the fifth. The king stays Shoreditch only. You say nothing of the three leaves. They are in Garnish's chest, not here. You did not make the feeling a new scene, and you did not put the leaves back.

@@ -1,0 +1,17 @@
+{
+  "narrative": "The grey cloak still on him. The pocket tables lie shut on the bed. Yesterday's smear is hidden by the cover. The cat is not on this tread. No face. A hand on the cover, not lifting it. Grey light from the west window. The apples are a floor below, out of sight. No face. The tables where they were. The stylus is in the gutter of the shut book. He has sat down. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Waited with the cover down, then wrote the three words and stopped."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Went up and sat with the tables shut"
+    }
+  ]
+}

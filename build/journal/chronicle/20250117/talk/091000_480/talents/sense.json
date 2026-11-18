@@ -1,0 +1,133 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "You ran Richard the Third from the parts for next week. Cowley entered twice on the wrong lord, because two cues both ended alike, and you changed three cue-words to Lord Hastings, my liege, and madam. Larkham copied both rolls and said nothing. Nick had his words and not the breath before the door. Burbage at half voice was still too big for the parlour. Phillips wanted Cowley to take Egeon. You refused, and you played the tale at two on breath and consonants.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Changed the three cues and refused to give up Egeon.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Checked the entrances against the plot and counted the three new words.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Entered twice on the wrong lord, then took the three new cues.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had the words, and was late on the breath.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Did the wooing at half voice, still too big for the room.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told the room it was too large, and made no quarrel.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the throat and asked that Cowley take Egeon.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Copied both rolls and did not speak.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard the Third",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three cue-words",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three cue-words",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Changed three cues and kept Egeon",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "William Shakespeare",
+    "Richard Cowley",
+    "Nick Sorrell",
+    "Richard Burbage",
+    "Will Kemp",
+    "Augustine Phillips"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two cues alike",
+    "three changed words",
+    "Nick's breath",
+    "Egeon kept"
+  ],
+  "quotes": [
+    {
+      "speaker": "abel_garnish",
+      "text": "both of them end alike"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will change three."
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "Let Cowley take Egeon this afternoon."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No. I play Egeon."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "narrative": "Two bills on the post, black letter, title and company. No author's name. A hand does not take either down. The street is the City side. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the two bills, and did not cross."
+    },
+    {
+      "type": "Project",
+      "name": "Two Gentlemen",
+      "role": "mentioned",
+      "context": "Shown on bill in Two titles on the post"
+    },
+    {
+      "type": "Project",
+      "name": "Crack Me This Nut",
+      "role": "mentioned",
+      "context": "Shown on bill in Two titles on the post"
+    }
+  ]
+}

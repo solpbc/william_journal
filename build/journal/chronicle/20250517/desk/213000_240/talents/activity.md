@@ -1,0 +1,1 @@
+After supper you sat down to the king. The landing and the greeting of the earth were already done above. You wrote the two lines that sit him on the ground and ask for sad stories of the death of kings. You stayed in the chair. You did not walk it.

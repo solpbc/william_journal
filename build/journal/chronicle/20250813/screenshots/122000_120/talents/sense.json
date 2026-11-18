@@ -1,0 +1,67 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "From the floor you looked at the contraption and at three pairs of hands on it. You did not see a face. The weight was still against the board.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "attendee in Three hands at the spool",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "A hand at the string.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "A hand on the weight.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "A hand at the knot.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the string-and-spool contraption",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Three hands at the spool",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Looked at their hands from the floor",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the contraption",
+    "three hands",
+    "the floor"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,136 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "After a half yard, with the door shut, the sharers sat on upturned chests. Kemp argued for the road. George put a constable on every mile. James wanted the house earning. Richard wanted three clear weeks. John's sheet carried it, and you voted with him. Last day is Saturday the twenty-sixth. The house opens again on Monday the twenty-fifth of August. The question comes back on the seventeenth. Augustine sat the chest and did not speak. Kemp was against.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Voted with John, and said the month aloud.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read the items and the dates, and wrote Kemp against.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Argued for the road, and stayed against.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for three clear weeks to con a king.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Wanted the house earning, and took the twenty-sixth.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put a warrant and a constable on the road.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat the chest and did not speak.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Made you say the month, and asked for the dates at the foot.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "the Rose",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A wagon, or the days we open",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "St James's tide",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A wagon, or the days we open",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Bartholomew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A wagon, or the days we open",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Voted with John to keep the house open till the twenty-sixth",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Will Kemp",
+    "George Bryan",
+    "James Burbage",
+    "Richard Burbage",
+    "Thomas Pope",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the wagon against the open days",
+    "five shillings in the country",
+    "the dates at the foot"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "In Kent they've not heard one word of it set down"
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "A wagon costs us every day it moves"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Carried, Kemp against."
+    }
+  ]
+}

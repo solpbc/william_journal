@@ -1,0 +1,1 @@
+You walked the fair with Burbage, Phillips, Pope, Arthur and Sam. Pope bargained for a bolster and got the feathers thrown in. Sam had sixpence for one thing, and he chose a whistle after a long look at a knife. You ate sixpenny trenchers of pork with damson sauce. Phillips took the bone. You kept one hand on your purse whenever an elbow touched it.

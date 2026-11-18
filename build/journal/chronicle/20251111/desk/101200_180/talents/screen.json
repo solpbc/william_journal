@@ -1,0 +1,17 @@
+{
+  "narrative": "The foot of the play. The Prince's couplet, and one ruled line beneath it. The candle is the morning's stump. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the couplet and ruled it."
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "context": "Shown on draft in A rule at a quarter past ten"
+    }
+  ]
+}

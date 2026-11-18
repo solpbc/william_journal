@@ -1,0 +1,1 @@
+Heminges set out six-and-twenty shillings to each sharer, the first share since July. You told Burbage what the Rose yard had been, gilded mail under the June throne, their king all is and yours all seems, five weeks. Heminges named Monday at two as The Shrew. You put the share in your purse and left the coffer at twenty pound fifteen. You said you were for your bed by nine.

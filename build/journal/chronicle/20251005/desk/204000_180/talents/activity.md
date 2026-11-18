@@ -1,0 +1,1 @@
+You opened the book on Saturday's line and did not add another. The share stands at forty-five shillings, with the refusal of a joke still in the line. You did not count the coffer, and you did not write a remainder.

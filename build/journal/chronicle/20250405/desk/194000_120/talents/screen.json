@@ -1,0 +1,17 @@
+{
+  "narrative": "The pocket tables open on his knee in the Henley Street yard, a clean leaf, the stylus scratching. Monday's household lines are not on this leaf. The three phrases alone on the wax. No verse under them. The stylus is back in the gutter. The yard is almost dark.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the three phrases and added nothing further."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Spring notes in the yard"
+    }
+  ]
+}

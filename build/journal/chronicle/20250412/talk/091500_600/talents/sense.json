@@ -1,0 +1,103 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Garnish pasted the slip and said you had mended the play to fit the player, which was against nature. You said it was cheaper than a new player. Cowley heard \"and that is enough\" and claimed it. Heminges counted one slip and one player kept. Burbage asked for nothing new. There was no bill, and the house was not opened. Larkham did not copy a second book.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ordered the paste and gave the cheapness as the reason.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Pasted the slip and named the offence against nature.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the new end and took the next miss on himself.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the slip as one, and sent you toward the table.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a second size, and told Garnish to paste before a beauty returned.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Heard. He was not given a rival copy.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the comedy",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Against nature",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Let Garnish paste the slip and called it cheaper than a new player",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "William Shakespeare",
+    "Richard Cowley",
+    "John Heminges",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the paste",
+    "against nature",
+    "cheaper than a new player",
+    "one book"
+  ],
+  "quotes": [
+    {
+      "speaker": "abel_garnish",
+      "text": "You have mended the play to fit the player. It is against nature."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It's cheaper than a new player."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Easter Monday is a date, not a mood."
+    }
+  ]
+}

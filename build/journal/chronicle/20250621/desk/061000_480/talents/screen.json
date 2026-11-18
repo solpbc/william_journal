@@ -1,0 +1,23 @@
+{
+  "narrative": "A new sheet. Music is written as heard off, then a groom in the room. The cat is still on the chronicle, out of the way of the paper. No face. The sheet turns. The men who have come to kill him are on it, and the king is not lying down to them. The hand is faster than the morning's. No face. The last movement of the sheet. The coffin is brought to the cousin. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the death and the coffin, and did not plan the fight before the line."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Stayed on the Holinshed."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in He dies fighting"
+    }
+  ]
+}

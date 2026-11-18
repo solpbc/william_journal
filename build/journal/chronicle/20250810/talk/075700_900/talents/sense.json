@@ -1,0 +1,72 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Anne sent you out without a stool. You repeated her own terms back to her: look, and do not touch. Joan heard you still in the passage and moved you on. You went through into the yard.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Went out through the yard",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Went out through the yard",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "heard in Went out through the yard",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the orchard bench",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Went out through the yard",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came down and went out to the bench",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare",
+    "Joan Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the latch",
+    "no stool",
+    "the passage"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Looking is not sitting with the furniture moved."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Thou looked, and thou didst not touch it."
+    }
+  ]
+}

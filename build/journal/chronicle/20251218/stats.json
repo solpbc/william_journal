@@ -1,0 +1,157 @@
+{
+  "daily_coverage": {
+    "maintenance": {
+      "identity": {
+        "day": "",
+        "name": "daily_schedule"
+      },
+      "evidence_revision": "31004c22128ba7817af9c61712e3f3330bcbf184761312eab1601d1107199e1b",
+      "contract_digest": "ee026c5cb5ebd3cc3d9091f9d6e63f569afac1051df96440693eb3e9489975a1",
+      "state": "outstanding",
+      "reason_code": null,
+      "owed_by": "never_made"
+    },
+    "day": "20251218",
+    "as_of_ms": 1794975930628,
+    "state": "outstanding",
+    "units": [
+      {
+        "identity": {
+          "day": "20251218",
+          "name": "morning_briefing"
+        },
+        "evidence_revision": "4044680eea3253b01ff5ddc22e4401063d8d27c487e354da9d4d704db87dde3d",
+        "contract_digest": "40f6ec89fd8b80947c2d431fca4955ff05f86b2beb2696d6671808af2e4f75d1",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20251218",
+          "name": "entities:entities_review",
+          "facet": "company"
+        },
+        "evidence_revision": "c098dabd92303126cdcb8e064e359482a05b4103fa2610716d11e012a29d3cab",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20251218",
+          "name": "entities:entities_review",
+          "facet": "stratford"
+        },
+        "evidence_revision": "d6974656423a7d2a2ef3c6be1197bc5183de16d7337f0834b673ab2e5654cf43",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20251218",
+          "name": "entities:entity_observer",
+          "facet": "company"
+        },
+        "evidence_revision": "6cc7d1dd83805ab74ff602f5a1966a4c372894547b8f60629fe2fdb11d45ae59",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20251218",
+          "name": "entities:entity_observer",
+          "facet": "stratford"
+        },
+        "evidence_revision": "cd0d0498263d5be11a179e852d930cf609e18319377d6ea88249722a0e82cac8",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20251218",
+          "name": "entities:entity_suggest",
+          "facet": "company"
+        },
+        "evidence_revision": "5ba6da08fea8f592fcc10eb188072eee0a466bffe5ec3a22542265e3ec8268cc",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20251218",
+          "name": "entities:entity_suggest",
+          "facet": "stratford"
+        },
+        "evidence_revision": "b982bca21b2a5cc484fc8efe505d2df335580102f7613708002382e8a2254fc9",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      }
+    ]
+  },
+  "schema_version": 10,
+  "stats": {
+    "transcript_sessions": 1,
+    "transcript_segments": 30,
+    "transcript_duration": 376.0,
+    "transcript_ranges": 1,
+    "percept_sessions": 5,
+    "percept_frames": 9,
+    "percept_duration": 350.0,
+    "percept_ranges": 4,
+    "browser_segments": 0,
+    "pending_segments": 0,
+    "segments_pending_think": 0,
+    "outputs_processed": 0,
+    "outputs_pending": 7,
+    "day_bytes": 338234,
+    "segment_fold_failed": false
+  },
+  "agent_data": {
+    "media": {
+      "count": 3,
+      "minutes": 6.0
+    },
+    "planning": {
+      "count": 1,
+      "minutes": 3.0
+    },
+    "reading": {
+      "count": 1,
+      "minutes": 4.0
+    },
+    "social": {
+      "count": 1,
+      "minutes": 8.0
+    }
+  },
+  "facet_data": {
+    "company": {
+      "count": 3,
+      "minutes": 8.0
+    },
+    "stratford": {
+      "count": 3,
+      "minutes": 13.0
+    }
+  },
+  "heatmap_data": {
+    "weekday": 3,
+    "hours": {
+      "9": 3.0,
+      "12": 13.0,
+      "14": 5.0
+    }
+  }
+}

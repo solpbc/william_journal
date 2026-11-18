@@ -1,0 +1,1 @@
+You faired the dawn that was already written, down to the line of the woes, and you left a cross in the margin. You did not write finished. You kept the bundle on the other side of the board from the private verse.

@@ -1,0 +1,1 @@
+By noon the fifth-act sheet held fourteen lines. You cut off the corner where you sneezed with the pen loaded, using your father's glover's paring-knife, so you would not keep looking at the blot. Forsworn stands three times in the last four lines. Gib was asleep on the Golding, and you did not move him.

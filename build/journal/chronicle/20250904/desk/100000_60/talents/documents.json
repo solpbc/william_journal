@@ -1,0 +1,51 @@
+{
+  "overview": "You wrote on the tables, from the door, not the book. It is the correction from Sam's entrance. You did not write the rest of the play under it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the line."
+    },
+    {
+      "name": "Sam Latchet",
+      "role": "mentioned",
+      "formal_term": "Sam Latchet",
+      "appointment_tier": "not_applicable",
+      "context": "Is whose entrance the line is for. He was not at the bench."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the tables",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the door",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the book",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Wrote from the door"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-04",
+      "meaning": "From the door, not the book"
+    }
+  ],
+  "summary": "Wrote from the door"
+}

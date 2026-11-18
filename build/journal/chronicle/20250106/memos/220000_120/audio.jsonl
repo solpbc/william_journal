@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "22:00:00", "text": "She had kept a slice of her own Twelfth-cake, and she stood over me while I ate it.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "22:00:14", "text": "The bean was Nick's. This slice is hers. She did not go up until it was gone.", "timing": {"end": 28.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "22:00:28", "text": "Two cakes. One king. I am not ill, and I am not writing the stair into the play.", "timing": {"end": 42.0, "start": 28.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "22:00:42", "text": "\u2026Enough.", "timing": {"end": 52.0, "start": 42.0}}

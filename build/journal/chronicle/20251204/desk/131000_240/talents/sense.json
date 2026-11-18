@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "Before the afternoon you opened Gaunt's roll at the speech the house already knows. The line on the paper is \"This royall throne of Kings, this sceptred Ile,\". Your margin says the deposition is not in this roll. You did not restore it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the speech and did not restore the cut scene.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Gaunt, cut",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Opened the cut book of Richard the Second",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cut book",
+    "Gaunt's line",
+    "the deposition left out"
+  ],
+  "quotes": []
+}

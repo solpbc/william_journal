@@ -1,0 +1,17 @@
+{
+  "narrative": "The worn volume open on the desk, afternoon light, the gap of the missing leaf not in this opening. No notes beside it yet. The pen is capped. No face. The same opening. A blank leaf lies next to the book, untouched. No heading written. Gib is not yet on it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the couplet and did not begin the notes."
+    },
+    {
+      "type": "Project",
+      "name": "Romeus and Juliet",
+      "role": "mentioned",
+      "context": "Shown on book in The first couplet, and no notes yet"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{"backend": "whisper", "duration": 240.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "john_heminges", "start": "07:30:00", "text": "Will? John Heminges. From Aldermanbury, and all quiet here.", "timing": {"end": 8.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "07:30:08", "text": "John. Quiet here. What is the afternoon?", "timing": {"end": 16.0, "start": 8.0}}
+{"sentence_id": 3, "speaker": "john_heminges", "start": "07:30:16", "text": "I have sent to Holywell and to Margery Pell. The\u2014 the yard will be thin, she says, and what there is will be 'prentices with nothing to do. I say we play. If we shut, the Mayor writes that we feared our own audience.", "timing": {"end": 36.0, "start": 16.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "07:30:36", "text": "We play. An old comedy. Nothing with a crowd in it, and nothing with a crown.", "timing": {"end": 48.0, "start": 36.0}}
+{"sentence_id": 5, "speaker": "john_heminges", "start": "07:30:48", "text": "The Shrew, then.", "timing": {"end": 54.0, "start": 48.0}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "07:30:54", "text": "The Shrew. A wife tamed and a wager won, and no crowd, and no crown.", "timing": {"end": 68.0, "start": 54.0}}
+{"sentence_id": 7, "speaker": "john_heminges", "start": "07:31:08", "text": "The flag goes up as usual.", "timing": {"end": 78.0, "start": 68.0}}
+{"sentence_id": 8, "speaker": "john_heminges", "start": "07:31:18", "text": "Come by the fields, not by the gate, and bid Phillips and Pope come over by boat and not by the Bridge. I have sent that bid already. You need not cross to deliver it.", "timing": {"end": 96.0, "start": 78.0}}
+{"sentence_id": 9, "speaker": "william_shakespeare", "start": "07:31:36", "text": "Then I come by the fields. I will not go near the gate.", "timing": {"end": 106.0, "start": 96.0}}
+{"sentence_id": 10, "speaker": "john_heminges", "start": "07:31:46", "text": "And your Fleming?", "timing": {"end": 112.0, "start": 106.0}}
+{"sentence_id": 11, "speaker": "william_shakespeare", "start": "07:31:52", "text": "What Fleming? There's a man from Norwich lodges here.", "timing": {"end": 128.0, "start": 112.0}}
+{"sentence_id": 12, "speaker": "john_heminges", "start": "07:32:08", "text": "God keep the man from Norwich. And you.", "timing": {"end": 138.0, "start": 128.0}}
+{"sentence_id": 13, "speaker": "john_heminges", "start": "07:32:18", "text": "One thing I heard on Thursday. The aldermen were already blaming stage-plays drawing prentices together.", "timing": {"end": 150.0, "start": 138.0}}
+{"sentence_id": 14, "speaker": "william_shakespeare", "start": "07:32:30", "text": "Then the comedy is the right one. No crowd, and no crown, and the flag up. God keep you.", "timing": {"end": 162.0, "start": 150.0}}
+{"sentence_id": 15, "speaker": "john_heminges", "start": "07:32:42", "text": "And you. Item, the flag. Item, the fields. Item, the boat. I have no second question.", "timing": {"end": 172.0, "start": 162.0}}

@@ -1,0 +1,51 @@
+{
+  "overview": "The four lines that went with the canvas say that the king is played on Thursday, and that there will be more when you know whether anybody came. They do not describe the tooth. They do not mention the Mayor. They do not guess the house.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the four lines, and did not add a fifth."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Not in the room. The page goes with the canvas."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "four lines",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Thursday's king",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "whether anybody came",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the carrier",
+      "asset_type": "other",
+      "disposition": "Wrote four lines to Anne"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-01",
+      "meaning": "Four lines for Anne"
+    }
+  ],
+  "summary": "Wrote four lines to Anne"
+}

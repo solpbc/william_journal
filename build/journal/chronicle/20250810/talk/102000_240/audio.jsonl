@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 240.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "10:20:00", "text": "The second lesson. Sit as if you were in it.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "10:20:12", "text": "I am in it.", "timing": {"end": 48.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "anne_shakespeare", "start": "10:20:48", "text": "You may sleep it. I am letting you.", "timing": {"end": 58.0, "start": 48.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "10:20:58", "text": "I will not make a courtesy of the waking.", "timing": {"end": 70.0, "start": 58.0}}
+{"sentence_id": 5, "speaker": "anne_shakespeare", "start": "10:21:10", "text": "Good. Dinner is the Sadlers, after. This hour is only the lesson.", "timing": {"end": 80.0, "start": 70.0}}

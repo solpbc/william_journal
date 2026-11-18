@@ -1,0 +1,44 @@
+{
+  "overview": "You read the Rose's bill. The title is Crack Me. You did not cross the river. You ate, and you did not go up to write.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read it, and did not go."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Crack Me",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "not crossing",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no new page",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Crack Me",
+      "asset_type": "other",
+      "disposition": "Read the Rose bill Crack Me"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-18",
+      "meaning": "Crack Me, read and left"
+    }
+  ],
+  "summary": "Read the Rose bill Crack Me"
+}

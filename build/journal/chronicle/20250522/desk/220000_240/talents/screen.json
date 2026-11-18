@@ -1,0 +1,17 @@
+{
+  "narrative": "One candle. The almanac open at the day. A small cross in the margin. No name beside it. No sentence under it. No face. Blank paper under the mark. The pen is set down. The king's leaf is not on this page.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Made the cross and wrote no name."
+    },
+    {
+      "type": "Person",
+      "name": "the lady of the parish",
+      "role": "mentioned",
+      "context": "Visible/present in A cross, and no name"
+    }
+  ]
+}

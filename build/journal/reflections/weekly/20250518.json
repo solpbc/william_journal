@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250518",
+    "end": "20250524"
+  },
+  "generated_at": "2025-05-24T22:00:00Z",
+  "days": [
+    {
+      "day": "20250518",
+      "state": "memory",
+      "memory_id": "m-20250518-0"
+    },
+    {
+      "day": "20250519",
+      "state": "memory",
+      "memory_id": "m-20250519-1"
+    },
+    {
+      "day": "20250520",
+      "state": "memory",
+      "memory_id": "m-20250520-2"
+    },
+    {
+      "day": "20250521",
+      "state": "memory",
+      "memory_id": "m-20250521-3"
+    },
+    {
+      "day": "20250522",
+      "state": "memory",
+      "memory_id": "m-20250522-4"
+    },
+    {
+      "day": "20250523",
+      "state": "memory",
+      "memory_id": "m-20250523-5"
+    },
+    {
+      "day": "20250524",
+      "state": "memory",
+      "memory_id": "m-20250524-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250518-0",
+      "key": "mem_20250518_0",
+      "day": "20250518",
+      "text": "Threepence before church, the page left, and a bill of two shillings and eightpence, and the jug.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250518/talents/morning_briefing",
+        "briefing_day": "20250518",
+        "refs": [
+          "sol://facets/household/activities/20250518#meeting_074000_720",
+          "sol://facets/household/activities/20250518#meeting_091500_360",
+          "sol://facets/writing/activities/20250518#frame_114000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250519-1",
+      "key": "mem_20250519_1",
+      "day": "20250519",
+      "text": "An old Roman in Titus, done by the fourth act, and an intention to stand in the Rose yard.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250519/talents/morning_briefing",
+        "briefing_day": "20250519",
+        "refs": [
+          "sol://facets/company/activities/20250519#frame_083000_480",
+          "sol://facets/household/activities/20250519#meeting_121000_720",
+          "sol://facets/company/activities/20250519#frame_141000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250520-2",
+      "key": "mem_20250520_2",
+      "day": "20250520",
+      "text": "Four uses of king, a cough in the margin, and a looking-glass against the giant.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250520/talents/morning_briefing",
+        "briefing_day": "20250520",
+        "refs": [
+          "sol://facets/writing/activities/20250520#frame_081000_480",
+          "sol://facets/writing/activities/20250520#frame_092000_480",
+          "sol://facets/writing/activities/20250520#frame_102500_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250521-3",
+      "key": "mem_20250521_3",
+      "day": "20250521",
+      "text": "The king is come down. The lords look at his hands. He looks at the ground.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250521/talents/morning_briefing",
+        "briefing_day": "20250521",
+        "refs": [
+          "sol://facets/writing/activities/20250521#frame_082000_600",
+          "sol://facets/household/activities/20250521#meeting_121500_720",
+          "sol://facets/writing/activities/20250521#frame_153000_600"
+        ]
+      }
+    },
+    {
+      "id": "m-20250522-4",
+      "key": "mem_20250522_4",
+      "day": "20250522",
+      "text": "Flour in the hair, six words at the porch, and a cross in the almanac.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250522/talents/morning_briefing",
+        "briefing_day": "20250522",
+        "refs": [
+          "sol://facets/company/activities/20250522#meeting_090500_720",
+          "sol://facets/household/activities/20250522#meeting_113500_360",
+          "sol://facets/company/activities/20250522#frame_141500_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250523-5",
+      "key": "mem_20250523_5",
+      "day": "20250523",
+      "text": "Named Susanna's day. Susanna still eleven. An old man of the house, off before the end.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250523/talents/morning_briefing",
+        "briefing_day": "20250523",
+        "refs": [
+          "sol://facets/stratford/activities/20250523#frame_101000_480",
+          "sol://facets/company/activities/20250523#frame_141500_480",
+          "sol://facets/company/activities/20250523#frame_154000_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20250524-6",
+      "key": "mem_20250524_6",
+      "day": "20250524",
+      "text": "Six-and-thirty shillings. A looking-glass promised to Burbage. The chronicle shut, and Gib on it.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250524/talents/morning_briefing",
+        "briefing_day": "20250524",
+        "refs": [
+          "sol://facets/company/activities/20250524#frame_110000_480",
+          "sol://facets/company/activities/20250524#frame_142000_480",
+          "sol://facets/company/activities/20250524#meeting_164500_720"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250518-0",
+      "key": "said_20250518_0",
+      "day": "20250518",
+      "quote": "I sat too long, and the page is no better for that.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250518#meeting_074000_720"
+      }
+    },
+    {
+      "id": "s-20250519-1",
+      "key": "said_20250519_1",
+      "day": "20250519",
+      "quote": "I should like to see how a giant is done.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250519#meeting_152500_360"
+      }
+    },
+    {
+      "id": "s-20250520-2",
+      "key": "said_20250520_2",
+      "day": "20250520",
+      "quote": "A looking-glass against a giant.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250520#memo_174500_120"
+      }
+    },
+    {
+      "id": "s-20250521-3",
+      "key": "said_20250521_3",
+      "day": "20250521",
+      "quote": "There is no fool in this one.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250521#meeting_121500_720"
+      }
+    },
+    {
+      "id": "s-20250522-4",
+      "key": "said_20250522_4",
+      "day": "20250522",
+      "quote": "The dead are not tidy.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250522#meeting_090500_720"
+      }
+    },
+    {
+      "id": "s-20250522-5",
+      "key": "said_20250522_5",
+      "day": "20250522",
+      "quote": "She knew me by my hand.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250522#memo_214000_120"
+      }
+    },
+    {
+      "id": "s-20250523-6",
+      "key": "said_20250523_6",
+      "day": "20250523",
+      "quote": "The letter is the one I did not write.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250523#meeting_171000_720"
+      }
+    },
+    {
+      "id": "s-20250524-7",
+      "key": "said_20250524_7",
+      "day": "20250524",
+      "quote": "He's given up the crown. He sends for a glass to see what a face looks like that's no king. He looks. Then he breaks it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250524#meeting_173500_840"
+      }
+    }
+  ]
+}

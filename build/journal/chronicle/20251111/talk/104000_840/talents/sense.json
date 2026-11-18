@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "productivity",
+  "activity_summary": "She took you to Leadenhall because you had offered an opinion on what the winter was costing. You said four shillings for a side of bacon, and she would not write the number. At each stall she told you that you were no use at a price. You carried a side of bacon, suet, a firkin of salt, onions on a string, and a cheese. You paid nothing toward the stores. The firing stays the sixpence. The candles at fourpence are your own. You gave your back.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Guessed once, carried, and paid nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the prices in her book and told him so at each stall.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Carried with him, and kept the beef from being counted twice.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the household book",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Bacon is a mystery",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "fourpence the candles",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Bacon is a mystery",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Carried the stores from Leadenhall",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Leadenhall",
+    "four shillings refused",
+    "the quantities",
+    "nothing paid",
+    "his back"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I will not write four shillings because you liked the sound."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "You are useful carrying and no use at all at guessing."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I pay nothing toward the stores."
+    }
+  ]
+}

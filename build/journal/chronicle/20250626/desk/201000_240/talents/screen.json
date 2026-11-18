@@ -1,0 +1,17 @@
+{
+  "narrative": "The tables, a short fact, and a rule under it. No face. Three reasons written under the rule, none of them marked. No face. A last line, apart from the reasons. The canvas is not in the room. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the fact apart from the reasons, and left them unchosen."
+    },
+    {
+      "type": "Company",
+      "name": "the Rose",
+      "role": "mentioned",
+      "context": "Shown on tables in Reasons unchosen"
+    }
+  ]
+}

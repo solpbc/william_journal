@@ -1,0 +1,84 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At the nine o'clock you put the pointing in Augustine's hand, which is by Friday and a day before it. He will not copy the verses onto a cleaner sheet. You open Errors and then you are idle till the end. French Doctor is the Rose, and you are not going.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the pointing early, and did not ask for Egeon to be taken away.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the pointing and refused a cleaner copy.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the shape of Egeon's afternoon, and the Rose you are not visiting.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Friday is today enough",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "French Doctor",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Friday is today enough",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Gave Augustine the pointing at the rehearsal",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Augustine Phillips",
+    "William Shakespeare",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the pointing handed over",
+    "Egeon",
+    "the Rose not visited"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Friday is today enough"
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Thou openst the play, and then thou art idle till the end"
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "I have the two birds;"
+    }
+  ]
+}

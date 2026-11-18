@@ -1,0 +1,64 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You came home blue from the yard and sat to pottage. Board was threepence. You told them the morning had been rehearsal and the afternoon was King Richard, which you play. You took the muffler and left the comedy's book shut.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the pottage, paid the threepence, and named the afternoon.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Fed him and entered the threepence, and did not make a kindness of it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the bowl and the muffler.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate pottage and went out to King Richard",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "pottage",
+    "threepence",
+    "King Richard at two"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The afternoon is King Richard. I am in it."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Threepence, and it is entered."
+    }
+  ]
+}

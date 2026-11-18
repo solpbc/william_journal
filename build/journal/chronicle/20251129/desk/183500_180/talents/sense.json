@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At home you wrote the share, and you did not put a total under it. The line is the house's Saturday, and it is not a new count of the coffer. Michaelmas remains the last count. Quiney's pound is not in the line. The court money is not in the line. The five mornings are not in the line. You shut both locks.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the share and shut both locks.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the share",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in One line, and both locks",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Michaelmas",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in One line, and both locks",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Wrote the share and shut both locks",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one line",
+    "no total",
+    "both locks"
+  ],
+  "quotes": []
+}

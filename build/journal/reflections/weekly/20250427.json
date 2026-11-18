@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250427",
+    "end": "20250503"
+  },
+  "generated_at": "2025-05-03T22:00:00Z",
+  "days": [
+    {
+      "day": "20250427",
+      "state": "memory",
+      "memory_id": "m-20250427-0"
+    },
+    {
+      "day": "20250428",
+      "state": "memory",
+      "memory_id": "m-20250428-1"
+    },
+    {
+      "day": "20250429",
+      "state": "memory",
+      "memory_id": "m-20250429-2"
+    },
+    {
+      "day": "20250430",
+      "state": "memory",
+      "memory_id": "m-20250430-3"
+    },
+    {
+      "day": "20250501",
+      "state": "memory",
+      "memory_id": "m-20250501-4"
+    },
+    {
+      "day": "20250502",
+      "state": "memory",
+      "memory_id": "m-20250502-5"
+    },
+    {
+      "day": "20250503",
+      "state": "memory",
+      "memory_id": "m-20250503-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250427-0",
+      "key": "mem_20250427_0",
+      "day": "20250427",
+      "text": "You called the porch the weather. You did not write Anne a better answer.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250427/talents/morning_briefing",
+        "briefing_day": "20250427",
+        "refs": [
+          "sol://facets/stratford/activities/20250427#meeting_123000_480",
+          "sol://facets/stratford/activities/20250427#frame_131000_240",
+          "sol://facets/household/activities/20250427#meeting_182000_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20250428-1",
+      "key": "mem_20250428_1",
+      "day": "20250428",
+      "text": "The cat reads only the second volume. The chronicle stays upstairs.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250428/talents/morning_briefing",
+        "briefing_day": "20250428",
+        "refs": [
+          "sol://facets/writing/activities/20250428#call_121500_180",
+          "sol://facets/company/activities/20250428#meeting_122200_240",
+          "sol://facets/writing/activities/20250428#note_151000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250429-2",
+      "key": "mem_20250429_2",
+      "day": "20250429",
+      "text": "On the tables: not all of them may sing. You wrote nothing under the line.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250429/talents/morning_briefing",
+        "briefing_day": "20250429",
+        "refs": [
+          "sol://facets/writing/activities/20250429#note_074500_480",
+          "sol://facets/writing/activities/20250429#note_101500_480",
+          "sol://facets/writing/activities/20250429#frame_122000_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250430-3",
+      "key": "mem_20250430_3",
+      "day": "20250430",
+      "text": "A man may lose a day. Nobody loses a shilling by mistake.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250430/talents/morning_briefing",
+        "briefing_day": "20250430",
+        "refs": [
+          "sol://facets/writing/activities/20250430#note_082000_240",
+          "sol://facets/company/activities/20250430#meeting_124000_720",
+          "sol://facets/writing/activities/20250430#note_191000_300"
+        ]
+      }
+    },
+    {
+      "id": "m-20250501-4",
+      "key": "mem_20250501_4",
+      "day": "20250501",
+      "text": "One bough over the door. No ribbon. No second.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250501/talents/morning_briefing",
+        "briefing_day": "20250501",
+        "refs": [
+          "sol://facets/household/activities/20250501#meeting_060500_600",
+          "sol://facets/household/activities/20250501#photo_063200_60",
+          "sol://facets/company/activities/20250501#frame_063800_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250502-5",
+      "key": "mem_20250502_5",
+      "day": "20250502",
+      "text": "You ate. The board was threepence. You did not tell Mistress Ansell about Sunday.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250502/talents/morning_briefing",
+        "briefing_day": "20250502",
+        "refs": [
+          "sol://facets/writing/activities/20250502#note_074000_360",
+          "sol://facets/writing/activities/20250502#frame_091000_180",
+          "sol://facets/household/activities/20250502#meeting_121500_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250503-6",
+      "key": "mem_20250503_6",
+      "day": "20250503",
+      "text": "The share is thirty-four shillings, received.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250503/talents/morning_briefing",
+        "briefing_day": "20250503",
+        "refs": [
+          "sol://facets/stratford/activities/20250503#frame_083000_120",
+          "sol://facets/company/activities/20250503#meeting_164000_240",
+          "sol://facets/company/activities/20250503#meeting_170000_600"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250427-0",
+      "key": "said_20250427_0",
+      "day": "20250427",
+      "quote": "Leave her correct. She is eleven, and she is right. That is ordinary luck, and I will not spend it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250427#meeting_123000_480"
+      }
+    },
+    {
+      "id": "s-20250427-1",
+      "key": "said_20250427_1",
+      "day": "20250427",
+      "quote": "The bailiff's man has not been at my father's porch these two Sundays. My father says it is the weather.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250427#meeting_182000_360"
+      }
+    },
+    {
+      "id": "s-20250428-2",
+      "key": "said_20250428_2",
+      "day": "20250428",
+      "quote": "The cat reads only the second volume.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250428#call_121500_180"
+      }
+    },
+    {
+      "id": "s-20250430-3",
+      "key": "said_20250430_3",
+      "day": "20250430",
+      "quote": "A man may lose a day. Nobody loses a shilling by mistake.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250430#meeting_124000_720"
+      }
+    },
+    {
+      "id": "s-20250501-4",
+      "key": "said_20250501_4",
+      "day": "20250501",
+      "quote": "On a May morning a man does not refuse a child a second foot.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250501#meeting_064800_180"
+      }
+    },
+    {
+      "id": "s-20250501-5",
+      "key": "said_20250501_5",
+      "day": "20250501",
+      "quote": "Walking up, the old woman asks the old man for revenge, and she gets patience. I will play the old man.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250501#memo_081000_120"
+      }
+    },
+    {
+      "id": "s-20250503-6",
+      "key": "said_20250503_6",
+      "day": "20250503",
+      "quote": "The cloth is Edith's argument. The step is mine. They happen to agree.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250503#meeting_170000_600"
+      }
+    },
+    {
+      "id": "s-20250503-7",
+      "key": "said_20250503_7",
+      "day": "20250503",
+      "quote": "Thirty-four shillings. Received. Not a balance.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250503#meeting_172000_720"
+      }
+    }
+  ]
+}

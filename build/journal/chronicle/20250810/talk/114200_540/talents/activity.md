@@ -1,0 +1,1 @@
+On the lime walk Joan had the children at the gate, and Anne let them go ahead. You walked behind Anne and your mother. Nobody made a commentary of the service. Dinner at the Cross was the next thing.

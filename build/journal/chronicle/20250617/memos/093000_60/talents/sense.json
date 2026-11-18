@@ -1,0 +1,41 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You said the one line and stopped. The list stayed a list.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the line and left the page.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said it was not a crowd and stopped",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the list",
+    "the crowd not written"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "If I write them I'll make them a crowd, and they weren't."
+    }
+  ]
+}

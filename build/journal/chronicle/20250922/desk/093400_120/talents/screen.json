@@ -1,0 +1,17 @@
+{
+  "narrative": "A single sheet pinned at the corner of a stall, no title taken at the head. One phrase is written large. The rest is a smaller hand he does not stand to read. No face. The quire under his arm, uncut, crown paper, blank. Fivepence has left his hand. No sum is written on the paper.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the phrase, paid, and carried blank paper out of the yard."
+    },
+    {
+      "type": "Tool",
+      "name": "fivepence",
+      "role": "mentioned",
+      "context": "Shown on pamphlet in The phrase, and no title"
+    }
+  ]
+}

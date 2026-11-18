@@ -1,0 +1,17 @@
+{
+  "narrative": "The tiring-house side of the door, his cue-strip in his hand, the yard already in. No face. No second man's name on the strip. The same strip, turned down. He is off the stage. The play goes on without a mark of his.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Opened as Egeon, and was idle after."
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "context": "Shown on part in Egeon, then idle"
+    }
+  ]
+}

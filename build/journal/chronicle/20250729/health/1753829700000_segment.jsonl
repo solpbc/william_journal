@@ -1,0 +1,16 @@
+{"day": "20250729", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "120500_120", "stream": "talk", "ts": 1753829700000}
+{"change_class": "substantive", "day": "20250729", "event": "sense.change_detect", "mode": "segment", "segment": "120500_120", "stream": "talk", "ts": 1753829700001}
+{"day": "20250729", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "120500_120", "stream": "talk", "ts": 1753829700002}
+{"day": "20250729", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "152000_120", "stream": "memos", "ts": 1753829700010}
+{"change_class": "substantive", "day": "20250729", "event": "sense.change_detect", "mode": "segment", "segment": "152000_120", "stream": "memos", "ts": 1753829700011}
+{"day": "20250729", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "152000_120", "stream": "memos", "ts": 1753829700012}
+{"day": "20250729", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "195000_360", "stream": "talk", "ts": 1753829700020}
+{"change_class": "substantive", "day": "20250729", "event": "sense.change_detect", "mode": "segment", "segment": "195000_360", "stream": "talk", "ts": 1753829700021}
+{"day": "20250729", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "195000_360", "stream": "talk", "ts": 1753829700022}
+{"day": "20250729", "density": "idle", "event": "sense.complete", "mode": "segment", "segment": "200000_60", "stream": "screenshots", "ts": 1753829700030}
+{"change_class": "substantive", "day": "20250729", "event": "sense.change_detect", "mode": "segment", "segment": "200000_60", "stream": "screenshots", "ts": 1753829700031}
+{"day": "20250729", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "200000_60", "stream": "screenshots", "ts": 1753829700032}
+{"day": "20250729", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "200000_60", "stream": "screenshots", "ts": 1753829700033}
+{"day": "20250729", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "201500_240", "stream": "obsidian", "ts": 1753829700040}
+{"change_class": "substantive", "day": "20250729", "event": "sense.change_detect", "mode": "segment", "segment": "201500_240", "stream": "obsidian", "ts": 1753829700041}
+{"day": "20250729", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "201500_240", "stream": "obsidian", "ts": 1753829700042}

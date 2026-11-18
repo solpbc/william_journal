@@ -1,0 +1,61 @@
+{
+  "overview": "At the desk, with the window open on the close, you wrote three beginnings in the old manner, all of them London, and you struck each one. The fourth you kept. It tells Anne you are come safe, that the back mends, and what you have counted: twenty pound fifteen shillings, and a share of six-and-twenty since. You do not promise. You say you work here and do not live here, and that the garden wants digging before the house wants glass. You ask her to say if three years is too long. You tell her you were told not to come, and came, and are glad of it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote four beginnings, struck three, and left the fourth."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Is the person the kept letter speaks to. She is not in the room."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "three beginnings struck",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the short letter",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "twenty pound fifteen",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "six-and-twenty",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "twenty pound fifteen shillings",
+      "asset_type": "other",
+      "disposition": "Struck three beginnings, and kept the fourth"
+    },
+    {
+      "name": "six-and-twenty shillings",
+      "asset_type": "other",
+      "disposition": "Struck three beginnings, and kept the fourth"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-31",
+      "meaning": "The fourth, kept"
+    }
+  ],
+  "summary": "Struck three beginnings, and kept the fourth"
+}

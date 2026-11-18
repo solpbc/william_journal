@@ -1,0 +1,93 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You stayed home from the afternoon Shrew. You said the jaw is well, and you ate. The loaf was a penny and a full thumb short of the notch. You would not explain the boy, and you would not explain the morning. The red bundle stays tied. Mistress Ansell offered dullness as a kindness, and you took it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the afternoon and refused the story of the boy.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the threepence, declined the plot, and offered to be dull on his behalf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Measured the loaf, offered the end piece, and left the papers alone.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Kept the stair, off the papers.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not in the afternoon",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Shrew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not in the afternoon",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stayed home from the Shrew",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "not in the Shrew",
+    "a well jaw",
+    "the unexplained morning",
+    "the short loaf"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not explain the morning, and I will not explain a boy."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "The loaf is a penny, and it is a full thumb short of the notch."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The jaw is well."
+    }
+  ]
+}

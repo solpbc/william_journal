@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "13:20:00", "text": "Little again. I am not eating a dinner I mean to sweat out under a stage.", "timing": {"end": 10.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "13:20:10", "text": "The old Hamlet at two. I am in it. Sheet, flour, and one cry, when the light is going. The second Tamburlaine can have the other house.", "timing": {"end": 20.0, "start": 10.0}}

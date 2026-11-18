@@ -1,0 +1,221 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20251109",
+    "end": "20251115"
+  },
+  "generated_at": "2025-11-15T22:00:00Z",
+  "days": [
+    {
+      "day": "20251109",
+      "state": "memory",
+      "memory_id": "m-20251109-0"
+    },
+    {
+      "day": "20251110",
+      "state": "memory",
+      "memory_id": "m-20251110-1"
+    },
+    {
+      "day": "20251111",
+      "state": "memory",
+      "memory_id": "m-20251111-2"
+    },
+    {
+      "day": "20251112",
+      "state": "memory",
+      "memory_id": "m-20251112-3"
+    },
+    {
+      "day": "20251113",
+      "state": "memory",
+      "memory_id": "m-20251113-4"
+    },
+    {
+      "day": "20251114",
+      "state": "memory",
+      "memory_id": "m-20251114-5"
+    },
+    {
+      "day": "20251115",
+      "state": "memory",
+      "memory_id": "m-20251115-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20251109-0",
+      "key": "mem_20251109_0",
+      "day": "20251109",
+      "text": "The dagger is in, and the sheet stops before the two fathers. Mistress Ansell has your back for Tuesday after a quarter past ten. The fourteen lines are still open.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251109/talents/morning_briefing",
+        "briefing_day": "20251109",
+        "refs": [
+          "sol://facets/writing/activities/20251109#photo_083000_180",
+          "sol://facets/household/activities/20251109#meeting_105000_720",
+          "sol://facets/writing/activities/20251109#frame_142000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20251110-1",
+      "key": "mem_20251110_1",
+      "day": "20251110",
+      "text": "The horn is full, at twopence. You opened Errors as Egeon and were done after the opening. The first fourteen lines are written. You did not rule them. The March page reads dignitie.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251110/talents/morning_briefing",
+        "briefing_day": "20251110",
+        "refs": [
+          "sol://facets/household/activities/20251110#meeting_083000_600",
+          "sol://facets/company/activities/20251110#frame_140500_240",
+          "sol://facets/writing/activities/20251110#frame_220000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20251111-2",
+      "key": "mem_20251111_2",
+      "day": "20251111",
+      "text": "The play is finished, and the rule is under the couplet. You said four shillings for a side of bacon, and she refused the number. You paid nothing toward the stores.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251111/talents/morning_briefing",
+        "briefing_day": "20251111",
+        "refs": [
+          "sol://facets/writing/activities/20251111#frame_071000_240",
+          "sol://facets/writing/activities/20251111#frame_082500_240",
+          "sol://facets/writing/activities/20251111#frame_101200_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20251112-3",
+      "key": "mem_20251112_3",
+      "day": "20251112",
+      "text": "Fifty leaves went to Garnish. One woman, the Lady. Twenty-odd parts, and three boys. You were Gaunt at two, with the first Tamburlaine in your ear. The three leaves stayed in his chest.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251112/talents/morning_briefing",
+        "briefing_day": "20251112",
+        "refs": [
+          "sol://facets/company/activities/20251112#meeting_091000_720",
+          "sol://facets/company/activities/20251112#frame_103000_240",
+          "sol://facets/company/activities/20251112#frame_141000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20251113-4",
+      "key": "mem_20251113_4",
+      "day": "20251113",
+      "text": "Tilney signed the last leaf and left every line standing. Seven shillings is entered once. Anne has set the wash at fourpence a week, already paid, and you did not answer.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251113/talents/morning_briefing",
+        "briefing_day": "20251113",
+        "refs": [
+          "sol://facets/company/activities/20251113#frame_100500_360",
+          "sol://facets/company/activities/20251113#meeting_110500_720",
+          "sol://facets/stratford/activities/20251113#meeting_115000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20251114-5",
+      "key": "mem_20251114_5",
+      "day": "20251114",
+      "text": "You read A Toy to Please Chaste Ladies. Two maids in the wood, one line. Sixteen bars, then the viol down. Nick stayed under the note.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251114/talents/morning_briefing",
+        "briefing_day": "20251114",
+        "refs": [
+          "sol://facets/company/activities/20251114#frame_084200_180",
+          "sol://facets/writing/activities/20251114#frame_085500_180",
+          "sol://facets/company/activities/20251114#meeting_094500_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20251115-6",
+      "key": "mem_20251115_6",
+      "day": "20251115",
+      "text": "Quiney said two hundred houses for the town's whole affliction. The two pounds stay out. Heminges set next week and did not read a sum. You did not answer Anne.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251115/talents/morning_briefing",
+        "briefing_day": "20251115",
+        "refs": [
+          "sol://facets/stratford/activities/20251115#call_081000_360",
+          "sol://facets/stratford/activities/20251115#memo_082000_60",
+          "sol://facets/company/activities/20251115#meeting_165500_720"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20251109-0",
+      "key": "said_20251109_0",
+      "day": "20251109",
+      "quote": "Someone must say it plainly to the living. The Friar can have the length.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251109#memo_211500_60"
+      }
+    },
+    {
+      "id": "s-20251111-1",
+      "key": "said_20251111_1",
+      "day": "20251111",
+      "quote": "I can turn a cheese. I cannot price one.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20251111#meeting_104000_840"
+      }
+    },
+    {
+      "id": "s-20251112-2",
+      "key": "said_20251112_2",
+      "day": "20251112",
+      "quote": "It's a sonnet, Abel. They're allowed one.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251112#meeting_091000_720"
+      }
+    },
+    {
+      "id": "s-20251113-3",
+      "key": "said_20251113_3",
+      "day": "20251113",
+      "quote": "I have been cut by that man twice. I have never felt so slighted as today.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251113#meeting_110500_720"
+      }
+    },
+    {
+      "id": "s-20251114-4",
+      "key": "said_20251114_4",
+      "day": "20251114",
+      "quote": "Two maids in the wood. No scene for them. Not today.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251114#memo_171000_60"
+      }
+    },
+    {
+      "id": "s-20251115-5",
+      "key": "said_20251115_5",
+      "day": "20251115",
+      "quote": "The two pounds stay out. I did not ask them, and I will not lend.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20251115#memo_082000_60"
+      }
+    }
+  ]
+}

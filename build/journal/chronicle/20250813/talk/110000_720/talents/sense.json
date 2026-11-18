@@ -1,0 +1,107 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "The children brought Hamnet's string-and-spool up to the chamber. A bucket-handle, two of Joan's bobbins, and a weight, meant to carry a message from the stairhead to the window. It carried nothing. You began at once to tell it as you would tell it in London. Susanna stopped you. She said it would sound different when they were not there to answer. Joan waited in the door with clean linen, and you did not make the objection into a second joke. You said you would not use it, and you meant it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Began the tale, stopped, and meant the promise.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped the London telling before it had a shape.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed the machine, defended the weight, and claimed dinner as the hour it would work.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted three failures, and refused to call a knot a test.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Waited with the linen, heard him mean it, and required both bobbins back.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the string-and-spool contraption",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in It'll sound different",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Joan's two bobbins",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in It'll sound different",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Promised to keep the children's joke at home",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Hamnet Shakespeare",
+    "Judith Shakespeare",
+    "Susanna Shakespeare",
+    "William Shakespeare",
+    "Joan Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the string and spool",
+    "two bobbins",
+    "Susanna's refusal",
+    "Joan in the door"
+  ],
+  "quotes": [
+    {
+      "speaker": "hamnet_shakespeare",
+      "text": "The weight is essential. Without it the string has opinions."
+    },
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "It'll sound different when we're not there to answer."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not use it."
+    },
+    {
+      "speaker": "joan_shakespeare",
+      "text": "I was waiting to hear whether the objection would become a second tale."
+    }
+  ]
+}

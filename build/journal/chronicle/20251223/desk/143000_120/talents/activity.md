@@ -1,0 +1,1 @@
+At home you listed the second shirt and the grey cloak as what goes. You wrote that the chronicle stays, and that the pages of the wood stay. You did not count those pages, and you did not take the chronicle down.

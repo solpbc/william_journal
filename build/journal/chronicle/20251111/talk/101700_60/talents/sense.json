@@ -1,0 +1,79 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the foot of the stair she asked if it was done, and who was punished. You said it was done, and that all of them were. She nodded, as if the count had come out even. Alse was below at the rushlights. Verbeke was in the house and did not come into the question.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered the two questions.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked them, and nodded.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Heard, at the rushlights. She was not in the question.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Heard, below. He did not come up.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in All of them",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Said it was done and all of them were punished",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the doorway",
+    "all of them",
+    "the play done"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "You stopped walking a week since and I feared you'd gone into a decline."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "All of them."
+    }
+  ]
+}

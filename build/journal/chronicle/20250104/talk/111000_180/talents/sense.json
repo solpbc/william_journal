@@ -1,0 +1,89 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You stood at the mouth of the close, a hundred yards off, among citizens' backs. Sir John, a furred gown on the steps, received a law-student king with a straight face and did not speak. Mistress Ansell said he will dine a play-prince at his table and shut the door on a player, and that that is the City. You and Burbage laughed over the Night of Errors. Burbage looked at how the king sat a hired horse. Torch-smoke and the brass of the trumpets hung over the porch. You did not go in.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed out, marked her sentence, and turned toward the walk down.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Received the student king from the steps, and did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the sentence about the play-prince and the player.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Looked at the seat on the hired horse, and said he would walk down.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in That is the City",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stayed at the mouth of the close",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Richard Burbage",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a hundred yards",
+    "the hired horse",
+    "the play-prince",
+    "the City"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "He will dine a play-prince at his table and shut the door on a player. Mark me, that is the City."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A hundred yards, and the whole street is backs."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "A law-student king, and he sits a hired horse as if the horse had read the proclamation."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have marked you, Mistress. I am not going in."
+    }
+  ]
+}

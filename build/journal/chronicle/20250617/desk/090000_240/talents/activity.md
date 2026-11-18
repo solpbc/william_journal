@@ -1,0 +1,1 @@
+After the call you tried to set down a private account of the week's disturbances. You crossed out a sentence that would have sounded well in an alderman's mouth. What remained was a list of things heard. Pell, two hundred. Verbeke, a silkweaver, English. Alse, Ludgate. You left it a list. It was no scene of any play.

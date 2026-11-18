@@ -1,0 +1,1 @@
+Mistress Ansell came up with a dish and said you had been walking before the house was up. She asked if it was the lovers. You said no. She did not ask again. The loaf was still a thumb short of the notch, and still a penny. You did not tell her what the morning's pages were.

@@ -1,0 +1,115 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "After Two Gentlemen, Heminges would not give a figure. The gallery is not all in, and he will not strike a share, because Monday still plays and you are the old man again. The holiday boxes wait. Burbage repeated Mistress Ansell's sentence from the close. Kemp kept it as his own: the Mayor will feast a mock-prince and shut the door on a player. The Queen's twenty pounds stayed off the cloth. You will line your own payments at home, and you will not open the coffer.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a share for the page, kept the twenty pounds off the cloth, and would not open the coffer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Would not give a figure the cloth does not hold, and would not strike a share.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for a number, was refused, and kept the Mayor's sentence.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the close into the parlour, and her sentence with it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took a day without a sum, and set the shut door beside Thursday's two dogs.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Two Gentlemen of Verona",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No figure the cloth will hold",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No figure the cloth will hold",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Queen's twenty pounds",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No figure the cloth will hold",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Heminges refuse a figure and a share",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Will Kemp",
+    "Thomas Pope",
+    "William Shakespeare",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the gallery not all in",
+    "no share",
+    "Monday's Errors",
+    "the mock-prince"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "The gallery is not all in. I will not give you a figure the cloth does not hold."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "The Mayor will feast a mock-prince and shut the door on a player."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "He will dine a play-prince at his table and shut the door on a player."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not open the coffer to do it."
+    }
+  ]
+}

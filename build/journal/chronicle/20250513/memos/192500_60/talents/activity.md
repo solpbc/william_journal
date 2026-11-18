@@ -1,0 +1,1 @@
+You said you were here, and that you heard the fire nine days after, from a carter, when it was already out and counted. A man cannot run a hundred miles to a fire. It is a year ago today. The middle of the town burned. The moon is full. You are in London.

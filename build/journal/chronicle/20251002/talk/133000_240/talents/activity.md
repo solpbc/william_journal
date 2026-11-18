@@ -1,0 +1,1 @@
+At half past one Garnish locked the looking-glass in the property chest. It has no business in the play. Richard put it on the seat and would not say why. You asked once whether it stayed, and you did not ask the why a second time. The deposing is only reported. The key stays with Garnish.

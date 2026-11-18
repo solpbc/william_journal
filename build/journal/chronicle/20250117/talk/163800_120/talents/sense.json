@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Kemp said, kindly, that you never sounded so near death. You had got through Egeon on breath and consonants. There was no quarrel in it, and no tally. You left the yard.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Allowed the remark and left.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the line kindly and refused a quarrel.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the breath and the consonants, and told you to go home.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Kindly, and near it",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Kemp say near death, kindly, and went",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Will Kemp",
+    "William Shakespeare",
+    "Augustine Phillips"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Kemp's kindness",
+    "breath and consonants",
+    "no quarrel"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "You never sounded so near death, and I say it kindly."
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "On breath and on the consonants."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The tale was told."
+    }
+  ]
+}

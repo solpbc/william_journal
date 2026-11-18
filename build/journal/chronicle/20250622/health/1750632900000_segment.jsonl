@@ -1,0 +1,13 @@
+{"day": "20250622", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "074000_360", "stream": "desk", "ts": 1750632900000}
+{"change_class": "substantive", "day": "20250622", "event": "sense.change_detect", "mode": "segment", "segment": "074000_360", "stream": "desk", "ts": 1750632900001}
+{"day": "20250622", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "074000_360", "stream": "desk", "ts": 1750632900002}
+{"day": "20250622", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "074000_360", "stream": "desk", "ts": 1750632900003}
+{"day": "20250622", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "092000_480", "stream": "talk", "ts": 1750632900010}
+{"change_class": "substantive", "day": "20250622", "event": "sense.change_detect", "mode": "segment", "segment": "092000_480", "stream": "talk", "ts": 1750632900011}
+{"day": "20250622", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "092000_480", "stream": "talk", "ts": 1750632900012}
+{"day": "20250622", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "113000_240", "stream": "talk", "ts": 1750632900020}
+{"change_class": "substantive", "day": "20250622", "event": "sense.change_detect", "mode": "segment", "segment": "113000_240", "stream": "talk", "ts": 1750632900021}
+{"day": "20250622", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "113000_240", "stream": "talk", "ts": 1750632900022}
+{"day": "20250622", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "211000_60", "stream": "memos", "ts": 1750632900030}
+{"change_class": "substantive", "day": "20250622", "event": "sense.change_detect", "mode": "segment", "segment": "211000_60", "stream": "memos", "ts": 1750632900031}
+{"day": "20250622", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "211000_60", "stream": "memos", "ts": 1750632900032}

@@ -1,0 +1,44 @@
+{
+  "overview": "You wrote tomorrow as the Rose, Long Meg, to the yard. The moon was already printed full. You did not write a receipt, and you did not put the letter into the almanac.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the Rose into Friday and did not write a sum."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the Rose",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Long Meg",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the full moon",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Long Meg of Westminster",
+      "asset_type": "other",
+      "disposition": "Set the Rose and Long Meg for tomorrow's yard"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-02-13",
+      "meaning": "To the yard"
+    }
+  ],
+  "summary": "Set the Rose and Long Meg for tomorrow's yard"
+}

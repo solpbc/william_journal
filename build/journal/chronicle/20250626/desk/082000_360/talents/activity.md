@@ -1,0 +1,1 @@
+At home, before you went up to the Theatre, you wrote to Anne. You are well. You send threescore shillings. You named Susanna, Hamnet, and Judith, and you commended yourself to your father and to her. You dated it the twenty-sixth of June 1595. You wrote nothing of butter or of prisons. You did not answer the question she asked you in April.

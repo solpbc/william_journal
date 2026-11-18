@@ -1,0 +1,44 @@
+{
+  "overview": "Before light the tables still carried three words, cloves, Yaxley with the question mark, and the lark. You had not slept since two. You did not wipe the leaf. You turned to a fresh sheet.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the three words, wiped nothing, and opened a fresh sheet."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the tables",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the question mark",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "awake since two",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Read cloves, Yaxley, and the lark, and turned the leaf"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-11",
+      "meaning": "Cloves, Yaxley, and the lark"
+    }
+  ],
+  "summary": "Read cloves, Yaxley, and the lark, and turned the leaf"
+}

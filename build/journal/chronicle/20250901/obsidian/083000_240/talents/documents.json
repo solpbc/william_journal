@@ -1,0 +1,51 @@
+{
+  "overview": "In the morning the seal was still on the letter. You had a mind to take out the word live, and you left it. You wrote that the sentence can stand till the eleventh, and that the Verona papers stay shut.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Left the word in, and left the papers shut."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Is still the person on the outside of the sheet. Not present."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the seal unbroken",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the word live",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the papers shut",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the letter",
+      "asset_type": "other",
+      "disposition": "Looked at the word live"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-01",
+      "meaning": "The word live, left in"
+    }
+  ],
+  "summary": "Looked at the word live"
+}

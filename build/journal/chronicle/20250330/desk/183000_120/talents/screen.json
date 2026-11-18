@@ -1,0 +1,17 @@
+{
+  "narrative": "The penny almanac open on the sill at Henley Street, a black circle printed beside the thirtieth of March. The pocket tables stay shut beside it. No quill is out. The almanac closed under the shut tables. The yard is darkening. He has written nothing on the day.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked at the March leaf and left the tables shut."
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in New moon in Lent"
+    }
+  ]
+}

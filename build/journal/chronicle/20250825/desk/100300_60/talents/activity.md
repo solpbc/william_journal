@@ -1,0 +1,1 @@
+Two bills were on the Bishopsgate post for the first time since Midsummer week, both black-letter: your lord's servants and my Lord Admiral's. You read the Rose's first, as always. It reassured you and irritated you in about equal parts.

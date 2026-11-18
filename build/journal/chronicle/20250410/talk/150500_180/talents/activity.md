@@ -1,0 +1,1 @@
+At the Bull, at three, the ostler counted sixteen days at twelvepence and argued a girth-gall as extra. You let the sixteen days stand and refused a penny beside them. You said horse, fodder and inns were about thirty-eight shillings, and that the sixteen sat inside that. The horse came off your hands.

@@ -1,0 +1,39 @@
+{
+  "overview": "At the Theatre the plot was Two Gentlemen, this day, at two of the clock. You took your place from the peg. The morning's page was not in the tiring-house.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the plot, and left the morning at home."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Two Gentlemen",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "two of the clock",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Two Gentlemen",
+      "asset_type": "other",
+      "disposition": "Read Two Gentlemen on the afternoon plot"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-06",
+      "meaning": "At two"
+    }
+  ],
+  "summary": "Read Two Gentlemen on the afternoon plot"
+}

@@ -1,0 +1,1 @@
+At the Theatre you had Gaunt's line in your mouth, from the public book. The three cut leaves stayed shut in Garnish's chest. The Rose was playing the first Tamburlaine, and the Scythian was in your ear through Gaunt. You did not cross. You did not play the leaves.

@@ -1,0 +1,82 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You sat after the exit. Pope named the draught under the skirting and the three beats of the shoe. Nick left the laugh as a hearing. At the tail of it Humphrey said the rope's end had landed by the size-pots, and you left it there for the man who would want the story.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Sat in the tiring-house between exits",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Sat in the tiring-house between exits",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Sat in the tiring-house between exits",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Sat in the tiring-house between exits",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the rope",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sat in the tiring-house between exits",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Came in for the afternoon play",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Pope",
+    "William Shakespeare",
+    "Nick Sorrell",
+    "Humphrey Larkham"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the bench",
+    "the draught",
+    "the shoe",
+    "the rope's end"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_pope",
+      "text": "There is a draught under the skirting that would freeze a bishop's ankles."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A warm yard in October will wait for a shoe."
+    }
+  ]
+}

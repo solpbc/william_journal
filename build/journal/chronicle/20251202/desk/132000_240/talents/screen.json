@@ -1,0 +1,17 @@
+{
+  "narrative": "Egeon's cue-roll is open on the chest by the door, his hat on the corner of it. He has written three words in the margin in his own hand and has not copied a speech onto the paper. The same three words, the ink still wet. No second sentence. He rolls it and puts it inside the coat.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the caution and did not copy a speech."
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "context": "Shown on part in Egeon, before two"
+    }
+  ]
+}

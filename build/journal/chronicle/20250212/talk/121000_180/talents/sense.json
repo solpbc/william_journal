@@ -1,0 +1,72 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At midday the loaf was still a finger short and the board was threepence. The Sunday letter was still on the desk. You were going out again at two, in the gentlemen, and you sent nothing.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the afternoon and said nothing on the desk was to go.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the short loaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left Gib and the letter where they were.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The loaf, again",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate at the lodging",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the loaf",
+    "threepence",
+    "the letter still there"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "It is a finger short."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Nothing on that desk goes out."
+    }
+  ]
+}

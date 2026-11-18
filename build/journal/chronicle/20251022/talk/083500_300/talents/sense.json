@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You went through the door. She kept the cloth in her arms. You said the morning was paper and the yard was later, and you did not name either. She told you to come back hungry.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Went out the street door",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Went out the street door",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Got the cloak and left for the Theatre",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the door",
+    "the cloth",
+    "dinner"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "And come back hungry, not interesting."
+    }
+  ]
+}

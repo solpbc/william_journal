@@ -1,0 +1,44 @@
+{
+  "overview": "You looked at the friar's name on the page you wrote last night. You did not copy a new line under it. You did not write a speech. The days further down stayed blank.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked at the name already on the page and did not add a line."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the friar's name",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no new line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the days still blank",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Romeus and Juliet",
+      "asset_type": "other",
+      "disposition": "Looked at the friar's name"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-07",
+      "meaning": "The friar's name"
+    }
+  ],
+  "summary": "Looked at the friar's name"
+}

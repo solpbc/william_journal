@@ -1,0 +1,1 @@
+You read the letter on the table. It asks for shoes for all three children in one month, says your father's cough is cheerful, and asks whether you mean to come at Lent or only to say so. You did not write under it.

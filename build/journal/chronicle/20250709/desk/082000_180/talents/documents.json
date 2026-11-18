@@ -1,0 +1,39 @@
+{
+  "overview": "You brought the small Italian book to the top of the stair. You did not give it a title. It is going back to Field.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Carried the book, and did not name it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the untitled book",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the stair",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Italian book",
+      "asset_type": "other",
+      "disposition": "Carried the Italian book down to the stair"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-09",
+      "meaning": "Down to the stair, untitled"
+    }
+  ],
+  "summary": "Carried the Italian book down to the stair"
+}

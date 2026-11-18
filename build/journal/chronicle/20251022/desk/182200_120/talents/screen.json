@@ -1,0 +1,23 @@
+{
+  "narrative": "The writing-tables open on the bed. Three short lines in his hand. The red bundle is at the far side of the board, still knotted. One candle. The window is black. No face. The stylus stops. No death is written. No title. No sum. The same three lines.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Wrote three lines on the tables"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Wrote three lines on the tables"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "context": "Shown on tables in Wrote three lines on the tables"
+    }
+  ]
+}

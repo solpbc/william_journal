@@ -1,0 +1,23 @@
+{
+  "narrative": "The narrow account book open at a fresh leaf, the head of the leaf reading 1594, the pen just leaving the first line, frost ferns on the pane beyond the desk.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Ruled the leaf, headed it, and wrote the first line from memory."
+    },
+    {
+      "type": "Tool",
+      "name": "the account book",
+      "role": "mentioned",
+      "context": "Shown on ledger in The first line of the year"
+    },
+    {
+      "type": "Company",
+      "name": "the Queen's twenty pounds",
+      "role": "mentioned",
+      "context": "Shown on ledger in The first line of the year"
+    }
+  ]
+}

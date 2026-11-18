@@ -1,0 +1,88 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You asked Richard how to mend a walk the back would have to come on. He cut a stick to your hip rather than your shoulder, and you took that length. The six pairs were said for, and not your walk today. Anne said she would walk you when the light was off the street, and she would not name the place in the kitchen. You left the sheets and the inkhorn. You did not call the back eased.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked, accepted the hip-high stick, and agreed not to know the name yet.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Cut the measure, left the skins unchanged, and forbade the negotiation.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the hour without setting the name.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the stick",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A stick to the hip",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "six pairs of sheep skins",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A stick to the hip",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Took the stick cut to the hip",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Richard Shakespeare",
+    "Anne Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the stick to the hip",
+    "the six pairs said for",
+    "no name in the kitchen"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_shakespeare",
+      "text": "A stick. To the hip, not the shoulder."
+    },
+    {
+      "speaker": "richard_shakespeare",
+      "text": "If it feels too short, it is the right length."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "I am not giving you the name in a kitchen"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I'll follow that, and I'll follow her"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "After the call you put the stylus down. You did not write a second word, a cup, or the drink. The bundle stayed apart.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "attendee in Put the stylus down after the call for the Nurse",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the loose leaf",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Put the stylus down after the call for the Nurse",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Put the stylus down after the call for the Nurse",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote the girl alone with the vial",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the stylus down",
+    "nothing after the call"
+  ],
+  "quotes": []
+}

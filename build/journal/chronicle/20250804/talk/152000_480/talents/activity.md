@@ -1,0 +1,1 @@
+In the afternoon Richard brought word that the sickles start at Hewlands at six. You tried the old shoes over doubled hose, and they went on. Joan took them to grease the heel-seam. The play bundle stayed tied, and Anne wanted you home before Quiney and Sturley sit down at half past six.

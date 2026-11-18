@@ -1,0 +1,39 @@
+{
+  "overview": "By the bench, after the wheel had gone down the yard, you wrote one sentence on the tables. An even wheel is rarer than a true one. You did not write it again at night.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the line and did not add a second one."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "an even wheel",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the tables",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Wrote that an even wheel is rarer than a true one"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-06",
+      "meaning": "An even wheel"
+    }
+  ],
+  "summary": "Wrote that an even wheel is rarer than a true one"
+}

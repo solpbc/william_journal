@@ -1,0 +1,35 @@
+{
+  "narrative": "Three play-books on the table, each opened at the last leaf. The Master's signature is wet in the red he has been using. He is already turned away. No fourth book is on the table. He looks at the gap where a king would lie, if a king were being signed. The gap stays empty. He does not fetch the book from the basket.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the three titles and left the king unfetched."
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Tilney",
+      "role": "mentioned",
+      "context": "Had signed, and was already turned away."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on book in Three books, nothing of the king"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on book in Three books, nothing of the king"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "context": "Shown on book in Three books, nothing of the king"
+    }
+  ]
+}

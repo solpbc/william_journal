@@ -1,0 +1,1 @@
+Master Thwaite said he would be brief, turned the glass twice, and was not brief. You did not count the halberds at the Mayor's pew. Sir John did not speak. Verbeke sat with the house because not to come would have been noticed, and nobody asked him where he is from. You took one number out of the church, and it was the two turnings.

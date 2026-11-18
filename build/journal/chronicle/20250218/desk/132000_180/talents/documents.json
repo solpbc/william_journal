@@ -1,0 +1,38 @@
+{
+  "overview": "At the lodging you looked at three cues on the afternoon's roll: Lord Hastings, my liege, and madam. You set no name over them. The comedy stayed shut, with the refusal still marked. You went out to play at two.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the three cues, left the comedy shut, and went to play."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "three cues",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no part-name",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the comedy left shut",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-02-18",
+      "meaning": "Three cues on the roll"
+    }
+  ],
+  "summary": "Read the three cues and went out"
+}

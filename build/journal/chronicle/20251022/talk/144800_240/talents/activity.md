@@ -1,0 +1,1 @@
+You came off and stayed in the tiring-house. Pope told you not to narrate the exit. Nick had heard a laugh through the cloth and did not go out to see it. You told him he was not the crowd. You did not describe what you had been doing on the stage, and you did not name the part.

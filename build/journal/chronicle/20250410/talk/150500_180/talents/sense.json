@@ -1,0 +1,47 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At the Bull, at three, the ostler counted sixteen days at twelvepence and argued a girth-gall as extra. You let the sixteen days stand and refused a penny beside them. You said horse, fodder and inns were about thirty-eight shillings, and that the sixteen sat inside that. The horse came off your hands.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Closed the hire at the sixteen days and took no new line.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Let sixteen days at twelvepence stand",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "sixteen days",
+    "twelvepence",
+    "the girth-gall refused",
+    "about 38s"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Sixteen days at twelvepence stands. The gall is the hire's own work."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The sixteen days are the charge. Nothing beside them."
+    }
+  ]
+}

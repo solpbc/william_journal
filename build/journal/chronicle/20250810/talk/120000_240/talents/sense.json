@@ -1,0 +1,120 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You came into the bakehouse before the shoulder was out of the oven. The children were already on the subject of the pie's corner. Judith Sadler would not let them sit until the bench was wiped. Hamnet Sadler was still at the batch, and he told you the shoulder would come when it was ready. Nobody had yet put a loaf on the board.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Waited, ate, and left when the dinner was done.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Weighed the loaf, and said nothing about the hands.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Sadler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the house's pace, and sent the corner out in a cloth.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Sadler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the shoulder and the loaf, and did not follow you down the lane.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Carried the cloth, and went ahead.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Argued the corner, and went ahead.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Argued the crust, and went ahead.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the shoulder of mutton",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Waited while the shoulder was in the oven",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the pie",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Waited while the shoulder was in the oven",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Ate dinner at the Sadlers'",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Judith Sadler",
+    "William Shakespeare",
+    "Hamnet Shakespeare",
+    "Anne Shakespeare",
+    "Susanna Shakespeare",
+    "Hamnet Sadler",
+    "Judith Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the heat of the bakehouse",
+    "the corner not yet cut",
+    "the second batch"
+  ],
+  "quotes": [
+    {
+      "speaker": "judith_sadler",
+      "text": "The shoulder is not out."
+    },
+    {
+      "speaker": "hamnet_sadler",
+      "text": "You will have the shoulder when it is ready, Will, and not a creed sooner."
+    },
+    {
+      "speaker": "judith_sadler",
+      "text": "The second batch has done its waiting."
+    }
+  ]
+}

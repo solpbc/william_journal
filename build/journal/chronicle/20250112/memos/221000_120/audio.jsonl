@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "22:10:00", "text": "Thwaite was on fourteenthly, and I was still in the messenger's half-line.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "22:10:14", "text": "The half-line is empty. I will not fill it tonight to be done.", "timing": {"end": 28.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "22:10:28", "text": "Soap, blue thread, and the kind with the two ends. Two are wrapped. The third is not named.", "timing": {"end": 42.0, "start": 28.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "22:10:42", "text": "I am well. The nose is clear.", "timing": {"end": 52.0, "start": 42.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "22:10:52", "text": "\u2026Enough.", "timing": {"end": 62.0, "start": 52.0}}

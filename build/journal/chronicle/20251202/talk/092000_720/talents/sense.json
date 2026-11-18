@@ -1,0 +1,130 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "You ran the cup once, and Nick stayed under the note. Pope kept one of the Nurse's stops for Saturday. Kemp held Peter to the fan and the half-song he is not let finish. Cowley showed a blot on Benvolio's roll, and you promised a clean copy of the cues tonight, not a new speech. You named January, October, and August's five shillings as the reason. The afternoon play is Errors, and you are Egeon.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the cup to one pass, and promised Cowley the cues before he needed them.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the book, and kept Kemp to the half-song.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept Nick under the note, and stopped a second pass.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the cup once, under, and got off the cold bed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spent half the discovery, and kept a stop for Saturday.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Carried the fan in talk only, and did not finish the song.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed the blot, and asked to have the roll before he needed it.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The fiddlers beside the bed",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The fiddlers beside the bed",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "5s August wage",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The fiddlers beside the bed",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed the cup once and promised Cowley a clean roll",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "Augustine Phillips",
+    "Nick Sorrell",
+    "William Shakespeare",
+    "Thomas Pope",
+    "Will Kemp",
+    "Richard Cowley"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cup once",
+    "under the note",
+    "Peter's half-song",
+    "Cowley's blot",
+    "five shillings in August"
+  ],
+  "quotes": [
+    {
+      "speaker": "nick_sorrell",
+      "text": "I can hold it if I come in under the note, sir. If I come in on it, it goes."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Nine-and-twenty lines in the whole book, Sweet Master Shakespeare, a fan to carry, and half a song I am not let finish."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Tonight. You covered me in January and in October, and you took August at five shillings without a complaint."
+    }
+  ]
+}

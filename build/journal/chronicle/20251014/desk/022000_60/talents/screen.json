@@ -1,0 +1,17 @@
+{
+  "narrative": "The tables in a dark chamber, one word written small, nothing under it. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the word and did not make it a part."
+    },
+    {
+      "type": "Tool",
+      "name": "the tables",
+      "role": "mentioned",
+      "context": "Shown on tables in One word, and no page"
+    }
+  ]
+}

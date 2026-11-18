@@ -1,0 +1,74 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "The gunner called a doubt disloyalty to the voyage and to the Queen. Alice put him out and sent the chart with him. You had doubted the count of ships, not a blessing you had not seen. You stayed. You did not follow him, and you did not write a truer number.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he had doubted the count, and stayed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alice Brambleby",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put the man out, chart and all, and kept the sixpence supper.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Distinguished a doubt from a sin.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the respectful question, and let the man leave.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Saw the chart go out the door",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "George Bryan",
+    "Will Kemp",
+    "Alice Brambleby"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "disloyalty",
+    "the chart",
+    "the door",
+    "sixpence"
+  ],
+  "quotes": [
+    {
+      "speaker": "alice_brambleby",
+      "text": "Out. The chart with you."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I doubted the count."
+    }
+  ]
+}

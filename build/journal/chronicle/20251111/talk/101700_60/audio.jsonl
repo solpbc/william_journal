@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "dorcas_ansell", "start": "10:17:00", "text": "You stopped walking a week since and I feared you'd gone into a decline. Is it done?", "timing": {"end": 10.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "10:17:10", "text": "It's done.", "timing": {"end": 16.0, "start": 10.0}}
+{"sentence_id": 3, "speaker": "dorcas_ansell", "start": "10:17:16", "text": "Who's punished?", "timing": {"end": 22.0, "start": 16.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "10:17:22", "text": "All of them.", "timing": {"end": 32.0, "start": 22.0}}

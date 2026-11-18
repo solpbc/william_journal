@@ -1,0 +1,1 @@
+You finished the walk at the garden wall and sat for bread and ale. The three marks were named, and Alse had shown each one to Gillis. It had taken forty minutes. A neighbour said the Mayor might better look to the meal-tubs than the laundry-tubs. Mistress Ansell would not treat the blue-starch precept as law until it was paper.

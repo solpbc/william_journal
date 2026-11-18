@@ -1,0 +1,44 @@
+{
+  "overview": "You read the bill on the post. It named The Two Gentlemen of Verona, and the Lord Chamberlain his Servants. It did not name an author, a part, or a price.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the two lines and did not add a third."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the bill",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the title",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no part named",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Two Gentlemen of Verona",
+      "asset_type": "other",
+      "disposition": "Read the bill on the post"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-22",
+      "meaning": "Read Two Gentlemen of Verona on the bill"
+    }
+  ],
+  "summary": "Read the bill on the post"
+}

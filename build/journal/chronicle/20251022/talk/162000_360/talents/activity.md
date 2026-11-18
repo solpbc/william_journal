@@ -1,0 +1,1 @@
+After the play, before the yard was let out, George told you Philip Howard, Earl of Arundel, had died in the Tower on Sunday. He had been ten years a prisoner, and they never brought him out to die. John had heard it at noon from a man who had it from the parish. You left the fact whole.

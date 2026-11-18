@@ -1,0 +1,67 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "By noon Gib had left Holinshed and gone onto the Chaucer. You did not move him to write. You had no page of your own on the board.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Looked, and did not write.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Left Holinshed and lay on the Knight's Tale.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Named as the printer of the Holinshed, and not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Chaucer",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The cat has chosen",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Holinshed",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The cat has chosen",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Left Gib on the Chaucer",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Gib",
+    "the Chaucer",
+    "Holinshed left"
+  ],
+  "quotes": []
+}

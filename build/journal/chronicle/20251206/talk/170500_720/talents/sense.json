@@ -1,0 +1,158 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "John Heminges counted twelve pound thirteen in the boxes, the year's best house, above the eleven pound six of Richard II on the 2nd of October. The share was forty shillings. He said eight times forty shillings is sixteen pound, and that sixteen pound does not come out of twelve pound thirteen, so he would not divide the box into the share. You agreed there would be no third figure. The hired men's ten shillings stayed a wage, and Larkham's extra copying stayed unpriced. Margery Pell said she had no line, and that she never watches a play. A church hat with a girl beside her had sat the lower gallery and gone down the stair. Kemp had added one line and no more.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the October house, refused a third figure, and took the share.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted twelve pound thirteen, stated forty shillings, and would not divide them.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Claimed one line more, and left the slate empty.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the five words had been enough, and went toward sleep.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the gallery and the church hat, and kept no clever line.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted his three stops, and did not count the box.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he had held under the note, and asked for no further proof.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "\u00a312 13s",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twelve pound thirteen",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "40s the share",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twelve pound thirteen",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "\u00a311 6s",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twelve pound thirteen",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "10s the hired men's wage",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twelve pound thirteen",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twelve pound thirteen",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twelve pound thirteen",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard twelve pound thirteen and a forty-shilling share",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Will Kemp",
+    "Richard Burbage",
+    "Nick Sorrell",
+    "Thomas Pope",
+    "Goodwife Margery Pell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "\u00a312 13s",
+    "40s",
+    "\u00a311 6s",
+    "no division",
+    "the church hat on the stair"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Twelve pound thirteen."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "The share is forty shillings. I am saying both. I am not making the one out of the other."
+    },
+    {
+      "speaker": "margery_pell",
+      "text": "I've no line, masters. I never watch."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Eight forties are sixteen pound."
+    }
+  ]
+}

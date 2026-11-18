@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You started a word under the fourth line and rubbed it out while the leaf would still take the rubbing. The four lines stayed. The bundle stayed tied. You did not write a speech before dinner.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "attendee in Rubbed out a word and kept four lines",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Rubbed out a word and kept four lines",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Rubbed out a word and kept four lines",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote that the other work could wait until after the yard",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a rubbed word",
+    "the four lines",
+    "the knot"
+  ],
+  "quotes": []
+}

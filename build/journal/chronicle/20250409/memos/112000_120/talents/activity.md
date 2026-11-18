@@ -1,0 +1,1 @@
+Passing Oxford, and not stopping, you said her question over on the rise and heard the answer you had given. You started a thought about a king and cut it off as the other business. You told yourself to go back with one answer. You did not bait, and you did not write the answer down. The day's bait at Oxford stays on the calendar and was not kept.

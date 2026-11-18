@@ -1,0 +1,94 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "After Titus, John named your share as thirty-eight shillings. Last week was forty-five. You did not ask for a tale to explain the difference, and you did not count the coffer. You were in Titus today, and off in the fourth, as on Monday and Wednesday. The king was Tuesday, and the next is Thursday the sixteenth. The hired men's ten stays settled. The glass stayed locked. Thomas had read 1 Hercules on the Rose bill. You did not go. You are writing the share and not a total.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said thirty-eight, refused the joke and the total, and kept the king to Tuesday.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the share, kept the Rose off the paper, and put nothing under the line.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the king to Tuesday and the sixteenth, kept the hired men's ten settled, and said the glass had stayed locked.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named Thursday's gowns without a sum, and reported the Rose title he had read.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "38s",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thirty-eight after Titus",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "1 Hercules",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thirty-eight after Titus",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took thirty-eight shillings",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Augustine Phillips",
+    "Thomas Pope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "thirty-eight shillings",
+    "forty-five",
+    "Tuesday's king",
+    "the glass locked"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Thirty-eight shillings, Will. Your share, after Titus."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not ruling a total under it."
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "The king was Tuesday."
+    }
+  ]
+}

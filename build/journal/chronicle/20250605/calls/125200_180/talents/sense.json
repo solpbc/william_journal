@@ -1,0 +1,80 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Richard Field called from the shop. He had Millington's little book in his hand, and he had heard you saw it. He called it honest presswork on a dishonest copy, and he asked you to be angry at his table on Sunday and not in Paul's. You said you had been curious whose it was, not angry. He said the man who entered it. You said the plays are not yours to print. They are the company's. He asked for Sunday and for the Holinshed. You said Sunday, and not the Holinshed.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the plays are the company's, and said Sunday, not the Holinshed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called from the shop, named the copy dishonest, and asked for Sunday and the book.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Millington's octavo",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in From the shop, about a Sunday",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in From the shop, about a Sunday",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Agreed to Sunday at Field's table",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Field",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Millington's book",
+    "Sunday's table",
+    "the company's plays",
+    "the Holinshed stays"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_field",
+      "text": "Will? Richard Field. From the shop."
+    },
+    {
+      "speaker": "richard_field",
+      "text": "Come Sunday and be angry at my table and not in Paul's."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "They're not mine to print. They're the company's."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Sunday. Not the Holinshed."
+    }
+  ]
+}

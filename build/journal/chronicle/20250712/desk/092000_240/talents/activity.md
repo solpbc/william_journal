@@ -1,0 +1,1 @@
+You looked at the dash and left it open. Friday's notes sit under it and do not complete it. The letter is still on the board, still unfolded, still with no day. You did not make a second scene of it.

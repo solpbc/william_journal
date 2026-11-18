@@ -1,0 +1,55 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At Hewlands Bartholomew set you to bind. The ears were short, and the stooks were to stand with ground between them. Dinner was an hour at his call. You bound, and you did not count his crop.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Bound, and did not count the crop.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Bartholomew Hathaway",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the work, the stooks, and the hour for dinner.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Began binding behind the sickles",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Bartholomew Hathaway",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "binding",
+    "short ears",
+    "the stooks"
+  ],
+  "quotes": [
+    {
+      "speaker": "bartholomew_hathaway",
+      "text": "Short in the ear. The stooks stand with ground between them"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I'll bind. I will not count your crop for you"
+    }
+  ]
+}

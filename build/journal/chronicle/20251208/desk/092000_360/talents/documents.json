@@ -1,0 +1,56 @@
+{
+  "overview": "You saw the cue go onto the public roll as a mark, and not as words said into the room. Thursday's margin is still there, and still dry. The deposition is not in this roll. The book and both rolls take the same mark. The chest stays shut.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Saw the cue entered, and left the cut where it was."
+    },
+    {
+      "name": "Humphrey Larkham",
+      "role": "attendee",
+      "formal_term": "Humphrey Larkham",
+      "appointment_tier": "not_applicable",
+      "context": "Marked the book and both rolls, signed the corner, and did not open the chest."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the public roll",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the mark",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Thursday's margin",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the chest shut",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Marked the cue on the public roll"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-08",
+      "meaning": "The king, still cut"
+    }
+  ],
+  "summary": "Marked the cue on the public roll"
+}

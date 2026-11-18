@@ -1,0 +1,93 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At supper Mistress Ansell remembered the bells rung through this night for the souls, and how that was stopped. She did not say she missed them. She said her husband has been dead six years at Hallowtide, and that she boils his ink every Monday by his receipt, which is remembering enough for a Christian woman. Alse said the horn is the old horn, and that she boils the new on Monday. Verbeke said that in Ghent they remembered both ways in one street, and it went ill. He went out by the north door. Master Thwaite heard him and did not take it up. You said nothing, and you were asked nothing.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said nothing, and was asked nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the stopped bells without missing them, and named the Monday ink.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke once of Ghent, and went out by the north door.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the horn is the old one, and that she boils the new on Monday.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard Ghent and did not take it up.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "Monday's ink",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Remembering enough",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Sat through supper on the bells and the ink",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the bells stopped",
+    "six years",
+    "the old horn",
+    "the north door"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "which is remembering enough for a Christian woman."
+    },
+    {
+      "speaker": "gillis_verbeke",
+      "text": "In Ghent we remembered both ways in one street, and it went ill."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "The horn is the old horn, sir."
+    }
+  ]
+}

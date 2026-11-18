@@ -1,0 +1,23 @@
+{
+  "narrative": "Soft food by candle: the pottage bowl, the apple split and steaming, Gib's tail across the corner of the frame. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Sat at the board and did not move the bowl for the sake of the tail."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Laid his tail across the corner and stayed."
+    },
+    {
+      "type": "Tool",
+      "name": "the hall candle",
+      "role": "mentioned",
+      "context": "In photo: The board by candle"
+    }
+  ]
+}

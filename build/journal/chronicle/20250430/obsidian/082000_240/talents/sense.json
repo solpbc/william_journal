@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote that you are in the Shrew this afternoon and that the part's name is not going on the leaf. The king's page stays upstairs, away from Kemp. The comedy's book stays with Garnish through tomorrow.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the refusal of the name.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Does not see the king's page.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Taming of the Shrew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The name stays off",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Did not put the part's name on the leaf",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the unnamed part",
+    "the page upstairs",
+    "the book through tomorrow"
+  ],
+  "quotes": []
+}

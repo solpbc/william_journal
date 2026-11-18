@@ -1,0 +1,17 @@
+{
+  "narrative": "A black-letter bill on the peg, read in the tiring-house before he goes on as Gaunt. The title is the whole of the print. No man is named under it. The river is not a direction he takes. He leaves the sheet where the unread afternoons of other houses live. His own roll is the cut king. He turns to that.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the title, and did not start for the river."
+    },
+    {
+      "type": "Project",
+      "name": "New World's Tragedy",
+      "role": "mentioned",
+      "context": "Shown on bill in New World's Tragedy"
+    }
+  ]
+}

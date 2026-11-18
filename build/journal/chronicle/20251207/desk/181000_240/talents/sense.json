@@ -1,0 +1,53 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You wrote the work on your tables and did not write the reason. The line is Canon Row, five of the clock, by water, the three leaves, and a glass. No guest is named under it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the five items, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The tables",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "Canon Row",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The tables",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote Canon Row on the tables",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the tables",
+    "Canon Row",
+    "five by water",
+    "the three leaves",
+    "a glass"
+  ],
+  "quotes": []
+}

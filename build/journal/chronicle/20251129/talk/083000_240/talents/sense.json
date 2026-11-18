@@ -1,0 +1,84 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "The loaf was two fingers short, and Alse had paid the penny. You are in Titus at two, and you do not know what they will call the gown. You are not asking at breakfast. The boxes open after. Mistress Ansell told you not to make her table a second tally. You said you would write one line at home, if there is a line. The band waits until noon.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the play, refused a second tally, and put the band at noon.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the penny, and kept her table off the company's count.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the loaf and asked about the band.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "a penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A penny, and two o'clock",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Titus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A penny, and two o'clock",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate breakfast and held the tally until after",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two fingers",
+    "Titus at two",
+    "one line at home"
+  ],
+  "quotes": [
+    {
+      "speaker": "alse_pinder",
+      "text": "I paid the penny."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not make your table a second tally."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A penny remains the price."
+    }
+  ]
+}

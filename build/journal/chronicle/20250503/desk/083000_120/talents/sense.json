@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "The almanac says Edmund is fifteen today. You read the square in the morning. The letter is for tonight, after the house.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the age and shut the almanac.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Shakespeare",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Is fifteen today, and was not in the room.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Read Edmund's day in the almanac",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Edmund's day",
+    "fifteen",
+    "the letter not yet"
+  ],
+  "quotes": []
+}

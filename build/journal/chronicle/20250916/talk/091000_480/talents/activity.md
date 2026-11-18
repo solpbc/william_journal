@@ -1,0 +1,1 @@
+The morning was the queen's entrance into the garden. Kemp was not on the plot. You kept the king out of the scene, and you did not put a fool in to keep the peace. Sixteen days stand before the yard. Nick took two paces toward where the shadow would be. Phillips was in the house for his own roll. This pass was not his, and Verona was not in anyone's mouth.

@@ -1,0 +1,17 @@
+{
+  "narrative": "The same plot as Tuesday, the hour under the title, his side named. No face. A paper read at the door and not taken down. One title. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Played Egeon, and did not cross the water."
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "context": "Shown on plot in Egeon again, and a new world"
+    }
+  ]
+}

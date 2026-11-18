@@ -1,0 +1,39 @@
+{
+  "overview": "Before you left, you looked at the seven shillings set by on the first of July. They are not spent yet. You did not open the coffer and you did not write a total.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the line, and shut the book."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "seven shillings set by",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no coffer total",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Revels fee",
+      "asset_type": "other",
+      "disposition": "Looked at the seven shillings set by on the first of July"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-10",
+      "meaning": "Set by, not spent"
+    }
+  ],
+  "summary": "Looked at the seven shillings set by on the first of July"
+}

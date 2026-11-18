@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "(the boy)", "start": "16:05:00", "text": "I'll hold him, sir. He is wetter than you are, which is a piece of work.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:05:12", "text": "Hold him. I am wringing the cloak. The sword stays dry, and the ribbons. That is the whole of the care.", "timing": {"end": 28.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "(the boy)", "start": "16:05:28", "text": "He is arguing with the rain. I'll not argue with him. Wring what you like.", "timing": {"end": 38.0, "start": 28.0}}

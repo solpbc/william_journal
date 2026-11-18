@@ -1,0 +1,41 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "You were off before the end of the Shrew. You did not go on again. The rest of the afternoon belonged to other men.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Came off before the end and did not return.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Shrew",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Off before the end",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Came off before the end of the Shrew",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "off before the end"
+  ],
+  "quotes": []
+}

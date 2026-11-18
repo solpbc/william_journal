@@ -1,0 +1,76 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You came down after the house was already at work. Joan had nothing to praise you for. Anne had looked at the bench and had not touched the sheet. You said you would look and not sit down to it. The bread waited until you had been out.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he would look, and not sit.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told him the bench was untouched, and held the bread.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted three children and a loaf, and refused a fourth labour.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the orchard bench",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Came down after the house was at work",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came down and went out to the bench",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Joan Shakespeare",
+    "William Shakespeare",
+    "Anne Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "coming down",
+    "the untouched bench",
+    "three children and a loaf"
+  ],
+  "quotes": [
+    {
+      "speaker": "joan_shakespeare",
+      "text": "Thou hast come down in time to be praised for nothing."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "The bench is as thou left it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will look. I will not sit down to it."
+    }
+  ]
+}

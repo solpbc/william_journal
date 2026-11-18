@@ -1,0 +1,239 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250323",
+    "end": "20250329"
+  },
+  "generated_at": "2025-03-29T22:00:00Z",
+  "days": [
+    {
+      "day": "20250323",
+      "state": "memory",
+      "memory_id": "m-20250323-0"
+    },
+    {
+      "day": "20250324",
+      "state": "memory",
+      "memory_id": "m-20250324-1"
+    },
+    {
+      "day": "20250325",
+      "state": "memory",
+      "memory_id": "m-20250325-2"
+    },
+    {
+      "day": "20250326",
+      "state": "memory",
+      "memory_id": "m-20250326-3"
+    },
+    {
+      "day": "20250327",
+      "state": "memory",
+      "memory_id": "m-20250327-4"
+    },
+    {
+      "day": "20250328",
+      "state": "memory",
+      "memory_id": "m-20250328-5"
+    },
+    {
+      "day": "20250329",
+      "state": "memory",
+      "memory_id": "m-20250329-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250323-0",
+      "key": "mem_20250323_0",
+      "day": "20250323",
+      "text": "The gifts are four knots. Brooke stays. Holinshed stays under a cloth. You said you would carry her opinion, and the rest of it you said to the plaster.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250323/talents/morning_briefing",
+        "briefing_day": "20250323",
+        "refs": [
+          "sol://facets/household/activities/20250323#meeting_092000_360",
+          "sol://facets/household/activities/20250323#meeting_141000_480",
+          "sol://facets/household/activities/20250323#photo_145000_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250324-1",
+      "key": "mem_20250324_1",
+      "day": "20250324",
+      "text": "You read the chronicle and covered it. The bay is still at the Bull. The quarter was left as tomorrow.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250324/talents/morning_briefing",
+        "briefing_day": "20250324",
+        "refs": [
+          "sol://facets/writing/activities/20250324#frame_110000_300",
+          "sol://facets/household/activities/20250324#meeting_131000_240",
+          "sol://facets/writing/activities/20250324#note_212000_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20250325-2",
+      "key": "mem_20250325_2",
+      "day": "20250325",
+      "text": "Twenty shillings were counted twice. A horn of ink is twopence and a quire is fivepence, and the told sum stays twenty-seven pounds and two shillings. Nineteen pounds and two shillings are under both locks. The belt has the canvas and five pounds. The chamber stays yours.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250325/talents/morning_briefing",
+        "briefing_day": "20250325",
+        "refs": [
+          "sol://facets/household/activities/20250325#meeting_113000_480",
+          "sol://facets/household/activities/20250325#note_124000_480",
+          "sol://facets/household/activities/20250325#meeting_154000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250326-3",
+      "key": "mem_20250326_3",
+      "day": "20250326",
+      "text": "You took the bay at first light and said eight words. The tables were under the shirts.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250326/talents/morning_briefing",
+        "briefing_day": "20250326",
+        "refs": [
+          "sol://facets/household/activities/20250326#meeting_055000_180",
+          "sol://facets/household/activities/20250326#memo_071000_60",
+          "sol://facets/household/activities/20250326#photo_144000_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250327-4",
+      "key": "mem_20250327_4",
+      "day": "20250327",
+      "text": "You said Gaunt twice. What you meant to say to Anne left you on the dark miles.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250327/talents/morning_briefing",
+        "briefing_day": "20250327",
+        "refs": [
+          "sol://facets/household/activities/20250327#photo_074000_60",
+          "sol://facets/writing/activities/20250327#memo_141500_60",
+          "sol://facets/household/activities/20250327#photo_180500_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250328-5",
+      "key": "mem_20250328_5",
+      "day": "20250328",
+      "text": "The sword, the ribbons, and the book went to three hands.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250328/talents/morning_briefing",
+        "briefing_day": "20250328",
+        "refs": [
+          "sol://facets/household/activities/20250328#meeting_101500_120",
+          "sol://facets/household/activities/20250328#memo_122000_60",
+          "sol://facets/stratford/activities/20250328#meeting_143200_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250329-6",
+      "key": "mem_20250329_6",
+      "day": "20250329",
+      "text": "The gloves are on her hands. Edmund has been told to finish school.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250329/talents/morning_briefing",
+        "briefing_day": "20250329",
+        "refs": [
+          "sol://facets/stratford/activities/20250329#meeting_121000_600"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250323-0",
+      "key": "said_20250323_0",
+      "day": "20250323",
+      "quote": "He comes home. That is the part a parish sits for.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250323#meeting_092000_360"
+      }
+    },
+    {
+      "id": "s-20250323-1",
+      "key": "said_20250323_1",
+      "day": "20250323",
+      "quote": "He came home in the story. I am only going home in the bag.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250323#meeting_141000_480"
+      }
+    },
+    {
+      "id": "s-20250325-2",
+      "key": "said_20250325_2",
+      "day": "20250325",
+      "quote": "The year has changed. The room has not improved.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250325#meeting_113000_480"
+      }
+    },
+    {
+      "id": "s-20250326-3",
+      "key": "said_20250326_3",
+      "day": "20250326",
+      "quote": "Not by the tree. Not five weeks after.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250326#memo_071000_60"
+      }
+    },
+    {
+      "id": "s-20250327-4",
+      "key": "said_20250327_4",
+      "day": "20250327",
+      "quote": "Sixty-and-odd behind me. I've forgot what I meant to say to her. Good.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250327#memo_200500_60"
+      }
+    },
+    {
+      "id": "s-20250328-5",
+      "key": "said_20250328_5",
+      "day": "20250328",
+      "quote": "That is my own vowel. I had forgotten the shape of it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250328#meeting_143200_120"
+      }
+    },
+    {
+      "id": "s-20250328-6",
+      "key": "said_20250328_6",
+      "day": "20250328",
+      "quote": "The day was Friday. I am in it. I have not got a speech to set on top of the day.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250328#meeting_184500_480"
+      }
+    },
+    {
+      "id": "s-20250329-7",
+      "key": "said_20250329_7",
+      "day": "20250329",
+      "quote": "Richard is passing the salt and spending no words on it, which is a skill I do not have.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250329#meeting_121000_600"
+      }
+    }
+  ]
+}

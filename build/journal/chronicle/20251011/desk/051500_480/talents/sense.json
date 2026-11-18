@@ -1,0 +1,52 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "She spoke first, and she lied. It was not yet near day, she said, the nightingale and not the lark. He answered that night's candles were burnt out, and jocund day stood tiptoe on the misty mountain tops. Then he lied with her, because she asked it. This stretch is not the whole of the eighty lines.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote her opening and his answer, and marked that he stays.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Stayed on the far corner of the board, off the paper.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Verona",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in She lies, and then he does",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Let her call it the nightingale",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the nightingale",
+    "the lark",
+    "his truth",
+    "the lie she asked for"
+  ],
+  "quotes": []
+}

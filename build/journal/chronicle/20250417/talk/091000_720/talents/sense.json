@@ -1,0 +1,108 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At the yard you kept the new page at home. Kemp asked what was in the sleeve, and you showed him an empty one and the comedy. Burbage told you to keep the other look upstairs. Heminges counted four days and a dark door. Garnish checked the one paste. Phillips did not spend the cuckoo. Nobody was shown the morning's sheet.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed an empty sleeve and left the new page upstairs.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the sleeve, accepted that he had not been shown a sheet, and stayed in his old place.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted four days and ended the accounting.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept Berowne, believed the empty sleeve, and sent the other look home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Checked the slip and kept ink off the plot.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the cuckoo for Monday and taught no new note.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in An empty sleeve",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed the comedy and kept the page upstairs",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Will Kemp",
+    "William Shakespeare",
+    "Richard Burbage",
+    "John Heminges",
+    "Abel Garnish",
+    "Augustine Phillips"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "an empty sleeve",
+    "four days",
+    "the page upstairs",
+    "one book"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The sleeve is empty."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Thou art somewhere else behind the eyes."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Easter Monday is four days off."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The page is upstairs, and it is not coming down to be shown."
+    }
+  ]
+}

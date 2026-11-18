@@ -1,0 +1,23 @@
+{
+  "narrative": "The writing-tables lie open by the west window. One line is struck through. Egeon's roll is on the shelf beside them, tied, not open. The pen is dry.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and left the pen dry."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in The list, with one line struck"
+    },
+    {
+      "type": "Tool",
+      "name": "Egeon's roll",
+      "role": "mentioned",
+      "context": "Shown on tables in The list, with one line struck"
+    }
+  ]
+}

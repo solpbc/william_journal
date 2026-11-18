@@ -1,0 +1,94 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Humphrey laid three rolls on the trestle, Gaunt's, York's, and the Queen's, and showed one late change running through them like damp through plaster. Nick's entrance hangs on the cut word. He would have learned the new cue by ear. John said paper first, then mouths. You backed him, and you backed eightpence out of the stock for the copying, as the plain cost of being the author. The cue that stands is yours. Humphrey marked each roll with the small sign. The king is billed again for Thursday week.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Copied the cue on paper before anyone spoke it",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Copied the cue on paper before anyone spoke it",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Copied the cue on paper before anyone spoke it",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Copied the cue on paper before anyone spoke it",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the king play",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Copied the cue on paper before anyone spoke it",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "eightpence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Copied the cue on paper before anyone spoke it",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed the three rolls of the king play",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Humphrey Larkham",
+    "William Shakespeare",
+    "Nick Sorrell",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three rolls",
+    "eightpence",
+    "paper first",
+    "the small sign"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Paper first, then mouths."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It is the plain cost of being the author of a change."
+    },
+    {
+      "speaker": "humphrey_larkham",
+      "text": "like damp through plaster."
+    }
+  ]
+}

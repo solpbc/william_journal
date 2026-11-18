@@ -1,0 +1,1 @@
+At dinner you paid threepence. You told the house that Venus will be printed again, smaller, with not a penny in it for you, and that you were glad to be thought portable. Two quires at fourpence halfpenny are to be laid by, and you did not pay. You left the Sunday letter folded for tomorrow. You still had no newer word than mending.

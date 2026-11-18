@@ -1,0 +1,67 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "Anne's short letter gave the three of them equal room. Hamnet outran the Sadler boy to the bridge and back, and in his own line he has built a water-wheel in the gutter. Judith says that is not what it is called, and she has a second ballad. Susanna has found a fault in your last and will tell you of it herself. The letter she means is the one already in her hand. Nothing in it is illness.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Read the letter at the Bell and did not answer it there.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Was not in the room. The letter is hers.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Was not in the room. The water-wheel is his line.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Was not in the room. The dispute and the ballad are hers.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Was not in the room. The fault is hers to tell.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Read Anne's letter and kept the fault for Susanna",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the water-wheel",
+    "a second ballad",
+    "a fault she will tell herself"
+  ],
+  "quotes": []
+}

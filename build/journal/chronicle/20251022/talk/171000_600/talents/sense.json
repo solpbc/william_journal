@@ -1,0 +1,92 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At supper you ate broth and the toasted crabs that were already in the house. You did not put a price on them. Threepence stayed the dinner's bill, and this was not a second one. You gave the house no title and no sorrow. Gib stayed by the hearth. Mistress Ansell kept the hall candle and told you again about the one flame upstairs. Alse said the latch had stuck, and you left it unmended. You did not tell them of the earl.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate, named no title, and accepted the one candle.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Fed him from what the house had, and refused a second bill.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Served the crabs, kept the smear off the table, and named the latch.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Stayed by the hearth.",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "threepence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Ate broth and the crabs already in the house",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the hall candle",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Ate broth and the crabs already in the house",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate supper",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "broth",
+    "the crabs",
+    "no second bill"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have no sorrow for the house."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "This is not a second bill."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "The penny loaf is done with for today."
+    }
+  ]
+}

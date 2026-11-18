@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You stood through the sermon at Holy Trinity because sitting hurt more. Anne told you to sit. Your mother told you not to make a sermon of it. The curate spoke of a man going out and coming again, and Susanna heard the road in it. You said the horse is tomorrow, and that it is not yours. You had stood the hour. You went home to the pie. The hour of the bridge was not set yet.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood, and said the road was his and the horse was not.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told him to sit, and not to look pleased at the standing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept it from becoming a sermon, and named the pie.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the road in the epistle, and was told the horse is tomorrow.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Holy Trinity",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Standing, because sitting is worse",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Stood the sermon, and went home to the pie",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare",
+    "Mary Shakespeare",
+    "Susanna Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the sermon",
+    "an hour standing",
+    "the horse tomorrow",
+    "the cold pie"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Sitting is worse. I'll stand the rest of it."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Thou stood the whole of the hour."
+    },
+    {
+      "speaker": "mary_shakespeare",
+      "text": "An hour on your feet will not start a horse"
+    }
+  ]
+}

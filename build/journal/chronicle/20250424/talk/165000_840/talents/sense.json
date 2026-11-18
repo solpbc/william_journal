@@ -1,0 +1,123 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "After Titus you stood in the tiring-house door. Margery Pell said the butchers' men had clapped the cook. The property hand stayed a bladder until Saturday. The hired men were ten shillings apiece, and you did not multiply it. Raye had the baskets. A boy went to St Bride's and brought back Gilbert's answer: he says aye, and you owe him a cup. You did not go to the Bell. Gilbert was not there.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood in the tiring-house door, refused a total, and sent the boy.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the butchers' men and the cook, once.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the missing hand as a bladder until Saturday.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for ten shillings apiece and would not read a list to the yard.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Raye kept the baskets and refused to be added up.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gilbert Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Was not in the room. By the boy's report he agreed to fetch what had come.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Titus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Ten shillings apiece, and a boy",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "ten shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Ten shillings apiece, and a boy",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Bell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Ten shillings apiece, and a boy",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Reckoned ten shillings apiece and sent the boy",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Goodwife Margery Pell",
+    "William Shakespeare",
+    "Abel Garnish",
+    "John Heminges",
+    "William Blackwage, Ralph Raye, Richard Hoope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cook",
+    "ten shillings apiece",
+    "the boy",
+    "the cup"
+  ],
+  "quotes": [
+    {
+      "speaker": "margery_pell",
+      "text": "Butchers' men in the yard, and they clapped the cook."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Ten shillings apiece, Will."
+    },
+    {
+      "speaker": "hired_men",
+      "text": "I am not a sum. None of us is a sum."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Aye is enough. The cup is mine to owe."
+    }
+  ]
+}

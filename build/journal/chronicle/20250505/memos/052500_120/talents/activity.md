@@ -1,0 +1,1 @@
+In the fields you walked an old duke's forty lines from the cue, lost the town, took the cue again, and said there to a hedge. Between cues you tried how a king come home from sea might stoop and touch the earth, and what his lords would do with their faces, and you stopped it. Thursday is the duke.

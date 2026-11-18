@@ -1,0 +1,1 @@
+You said where the leaves are, and that you will not fetch them. The book goes whole, and the cutting is the Master's. John has asked for a written leave you do not have. The afternoon's bill stays unnamed on your tables. Kemp's door is another day. The horn is already filled.

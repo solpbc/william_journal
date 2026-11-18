@@ -1,0 +1,54 @@
+{
+  "overview": "You wrote that you had read from the first gage to the castle wall, and that the book is not finished. You wrote the two joins as marks. You wrote that a pleasant speech has a line in its margin and was not copied out. You named the deposing, the prison and the end as unfinished, and you did not write them this morning.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the note and did not draft the three things."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "not a finished book",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the two joins",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the deposing",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the prison",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the end",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Named the deposing, the prison and the end"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-04",
+      "meaning": "The deposing, the prison, the end"
+    }
+  ],
+  "summary": "Named the deposing, the prison and the end"
+}

@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Outside, Henslowe said the count stayed at the door and that your penny was the end of your business with it. Alleyn was cordial and brief. He was glad you had come. You said the play played, and that you were glad you had come. You did not ask what the door had taken. You did not stay.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Thanked him briefly and did not ask the takings.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edward Alleyn",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he was glad of the visit, and let him go.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Philip Henslowe",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the count at the door.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Alleyn's cordial word and set Henslowe's count aside",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Philip Henslowe",
+    "Edward Alleyn",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the door",
+    "the penny",
+    "a cordial word"
+  ],
+  "quotes": [
+    {
+      "speaker": "edward_alleyn",
+      "text": "You came over."
+    },
+    {
+      "speaker": "philip_henslowe",
+      "text": "The count stays at the door."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It plays. I am glad I came."
+    }
+  ]
+}

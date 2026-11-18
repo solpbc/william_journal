@@ -1,0 +1,95 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At nine you rehearsed at the Cross Keys. Garnish kept Thursday's two stops and did not take a third. Nick was not fetched, and the songs stayed as they were. You were not in the afternoon's Knave, and you said so. Kemp was civil. You did not open a tally. You told the room Davy's forty ships and did not correct the number. Nothing was bought.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a tally, named the forty ships, and said he was not in the Knave.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed civil and offered no addition to be written down.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for a known door and refused to rehearse a thinner house a day early.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the two stops, kept the new comedy off the afternoon plot, and sent the pass.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the songs and left Nick and Sam uncalled.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Knave",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The tally stays shut",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Walked a pass at rehearsal",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "William Shakespeare",
+    "Augustine Phillips",
+    "Richard Burbage",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "nine of the clock",
+    "the two stops",
+    "no tally",
+    "forty ships"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "Keep your tally shut and I will keep my additions in my mouth."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have nothing to set under your name."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "Two stops, and I will not take a third off you because a morning is long."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You entered eight shillings as received. You did not write a new balance. Tuesday's twenty-five pounds was not reopened.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote received, and did not write a total.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the coffer",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Received, not a total",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Entered the share as received",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "received",
+    "not a balance"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,23 @@
+{
+  "narrative": "The account book at the lodging, one new line. No coffer is written above or below it. No face. The Christmas line from Monday. Expected is still there. The place for a sum is blank. Nothing is struck in tonight, because nothing was written to strike. The foot of the page. No total. No second column married to the first.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Entered 38s and closed the book on a blank."
+    },
+    {
+      "type": "Tool",
+      "name": "the account book",
+      "role": "mentioned",
+      "context": "Shown on ledger in Two lines in the book"
+    },
+    {
+      "type": "Company",
+      "name": "thirty-eight shillings",
+      "role": "mentioned",
+      "context": "Shown on ledger in Two lines in the book"
+    }
+  ]
+}

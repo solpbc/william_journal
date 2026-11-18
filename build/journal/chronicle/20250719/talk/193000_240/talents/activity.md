@@ -1,0 +1,1 @@
+You came back to Old Swan. You had not stepped onto the bank. The ring stayed a thing seen from the water. James has seen the oak and can be restless about a thing he has looked at. You did not repeat the seventeen on the stair.

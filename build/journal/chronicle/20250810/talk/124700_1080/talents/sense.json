@@ -1,0 +1,89 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You finished the dinner without opening it again. The cheese went round. Judith Sadler had no second pie, and nobody asked her for one. You let the end of the meal be eating.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Finished dinner at the cheese",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Finished dinner at the cheese",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Sadler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Finished dinner at the cheese",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Sadler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Finished dinner at the cheese",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the cheese",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Finished dinner at the cheese",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the pie",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Finished dinner at the cheese",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Ate dinner at the Sadlers'",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Judith Sadler",
+    "Hamnet Sadler",
+    "William Shakespeare",
+    "Anne Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the last of the cheese",
+    "no second pie",
+    "the lane next"
+  ],
+  "quotes": [
+    {
+      "speaker": "judith_sadler",
+      "text": "There is no second pie."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not opening a thing that has already been shut."
+    }
+  ]
+}

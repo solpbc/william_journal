@@ -1,0 +1,29 @@
+{
+  "narrative": "The brawl stays on the board. You are not taking it to the Theatre. A gift in a cloth sits on the chest for tonight. In the kitchen the copper is on for Monday's ink, galls and copperas and gum. You do not buy a horn.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Left the sheet, and did not buy the ink."
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "mentioned",
+      "context": "Had the copper on. She did not come up."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on draft in The street stays on the board"
+    },
+    {
+      "type": "Tool",
+      "name": "the pearwood glass",
+      "role": "mentioned",
+      "context": "Shown on draft in The street stays on the board"
+    }
+  ]
+}

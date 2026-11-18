@@ -1,0 +1,66 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "When you came in, Mistress Ansell had kept back a slice of her own Twelfth-cake and stood over you while you ate it. You did not turn the stair into a scene for the comedy. You said you were not ill.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate the slice and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Kept the slice and stood over him. Not given a speech.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Remembered as the king of the other cake. Not in the house.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Twelfth-cake",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Her own slice",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate Mistress Ansell's slice at the stair",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "her own slice",
+    "the stair",
+    "Nick's bean"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "She had kept a slice of her own Twelfth-cake, and she stood over me while I ate it."
+    }
+  ]
+}

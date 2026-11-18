@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At night the letter was still in the room. You had not written them the pump. You kept Thursday as the day it goes, and you stopped before the children became a speech.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped, and did not add a speech about the children.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Candlemas letter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The pump at home",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Left the packet on the desk",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the letter unsent",
+    "Thursday",
+    "the children"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The paper knows it, and the paper is still in this room."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "If I say more than that I shall make a speech of them."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "You tried the Friar's cell at first light. Every character on the sheet had gone irritable, the Friar most of all. You wrote one bad line, struck it with ten more, and kept none of the eleven.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the line, struck the eleven, and left the sheet as a block of strokes.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Friar's cell",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Eleven lines, and none of them kept",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Struck eleven lines in the Friar's cell",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Friar's cell",
+    "eleven lines struck",
+    "nothing kept"
+  ],
+  "quotes": []
+}

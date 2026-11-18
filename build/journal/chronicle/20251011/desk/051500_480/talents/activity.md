@@ -1,0 +1,1 @@
+She spoke first, and she lied. It was not yet near day, she said, the nightingale and not the lark. He answered that night's candles were burnt out, and jocund day stood tiptoe on the misty mountain tops. Then he lied with her, because she asked it. This stretch is not the whole of the eighty lines.

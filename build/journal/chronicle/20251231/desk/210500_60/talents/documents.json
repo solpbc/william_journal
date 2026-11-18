@@ -1,0 +1,38 @@
+{
+  "overview": "You put the new penny almanac on the old one and did not mark it. The printed year on the new one is 1596. No feast was written in. The account book was already shut, still headed in 1595.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Laid it down and did not write in it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the unmarked almanac",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the printed year",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the book still 1595",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-31",
+      "meaning": "The new almanac"
+    }
+  ],
+  "summary": "Laid the new almanac on the old"
+}

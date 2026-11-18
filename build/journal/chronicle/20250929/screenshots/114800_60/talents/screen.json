@@ -1,0 +1,23 @@
+{
+  "narrative": "Flourished secretary, chancery and italic hands on one sheet, beside which his own playhouse scrawl would look like hen-tracks.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and did not write on the sheet."
+    },
+    {
+      "type": "Person",
+      "name": "Michael Drayton",
+      "role": "mentioned",
+      "context": "Had brought it, and left it for the minute."
+    },
+    {
+      "type": "Tool",
+      "name": "the specimen sheet",
+      "role": "mentioned",
+      "context": "In photo: Three hands on one sheet"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "density": "idle",
+  "content_type": "media",
+  "activity_summary": "You stood at evening prayer in your place. You brought no doctrine out, and no page.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Stood, and left.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "St Helen's",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Evening prayer",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood through evening prayer",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "evening prayer",
+    "the south aisle"
+  ],
+  "quotes": []
+}

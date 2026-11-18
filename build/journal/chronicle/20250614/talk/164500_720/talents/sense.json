@@ -1,0 +1,99 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "After the Shrew you reckoned a thin yard, apprentices with nothing to do, which was what Margery had said in the morning. The flag had been up. You had come by the fields. Phillips and Pope had come by boat, not by the Bridge. John named no sum. You named no share. You told them fourpence at Leadenhall, two hundred yards from home, and a loaf a thumb short. The aldermen's blame, which John had heard on Thursday, was said again, and the afternoon had not given the Mayor his sentence. You went home.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the fields, the fourpence, and the thumb, and named no share.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Itemised the flag, the boat, and the thin yard, and refused a borrowed figure.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Confirmed the boat, and called the house quiet enough to play in.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Confirmed the boat, and refused a longer telling.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the thin stair, and would not make it a motto.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Shrew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A thin yard, and no sum",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Leadenhall",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A thin yard, and no sum",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Reckoned a thin yard",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Goodwife Margery Pell",
+    "John Heminges",
+    "Augustine Phillips",
+    "Thomas Pope",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the thin yard",
+    "the Shrew",
+    "no sum",
+    "fourpence"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "I have no figure for this afternoon that I am willing to say, and I will not borrow one."
+    },
+    {
+      "speaker": "margery_pell",
+      "text": "Thin, as I said before the flag."
+    }
+  ]
+}

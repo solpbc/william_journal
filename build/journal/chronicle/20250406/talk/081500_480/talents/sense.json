@@ -1,0 +1,141 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You asked your father straight, before church, why he would not come. He said the bailiff's man stood at the porch with paper. You told him the paper was lighter. He blamed a fairy and refused the thanks. He did not come. Susanna asked whether it was paid or only promised. You did not say by whom. The sword stayed on the nail.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked once, refused the errand to the porch, and did not name the shops.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed in the shop, blamed a fairy, and shut his own door.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Cut the story short, sent the dry gloves up, and made him eat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the house to church and kept the sword off the lane.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took Judith's hand and brushed the ink off his cuff.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked whether the paper was paid or only promised.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Applied his rule about thanking, and asked whether the sword could go as far as the lane.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Heard from the shop side. The sword stayed on the nail.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Heard from the shop side.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Heard from the stair.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the bailiff's paper",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The paper's lighter",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Asked Father why he stayed home from church",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Shakespeare",
+    "William Shakespeare",
+    "Mary Shakespeare",
+    "Anne Shakespeare",
+    "Joan Shakespeare",
+    "Susanna Shakespeare",
+    "Judith Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the porch",
+    "the lighter paper",
+    "the fairy",
+    "the shut door"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_shakespeare",
+      "text": "I don't go because Master Bailiff's man stands at the porch with paper, and I've no wish to read it."
+    },
+    {
+      "speaker": "john_shakespeare",
+      "text": "Then some fairy's been at my reckoning. I'll not thank a fairy. It spoils them."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The paper's lighter than it was, Father."
+    },
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "Was it paid, or did a gentleman say it would be?"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "overview": "Between the stair and the play you wrote down the one line. Follow it in your own boat, or swim. You did not write Gannet's three news under it. You did not sit to a dinner. Egeon is at two.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the one line and did not sit to eat."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the one line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no dinner",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Egeon at two",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Wrote the boatman's line on the tables"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-29",
+      "meaning": "The line he kept"
+    }
+  ],
+  "summary": "Wrote the boatman's line on the tables"
+}

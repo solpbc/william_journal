@@ -1,0 +1,55 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Late, Anne counted four shillings aloud, one by one, and said those should come home. She did not name the rest of the purse, and she did not give a coffer total. She gave you a shirt turned at the collar. She did not ask her question again.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Repeated the four shillings and did not offer a fourth answer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the four that should come home, and gave back the shirt.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Heard Anne count four shillings that should come home",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "four shillings",
+    "the turned collar",
+    "the question unasked"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "A shilling. A shilling. A shilling. And a shilling. These four come home."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "I am not asking thee the question."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You entered one line. Sixty shillings are set by for Stratford, to go in your own hand. You did not cast a coffer total. The money was not given to Hobbins.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Entered the one line and did not add the coffer.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "60s in canvas",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Set by",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Set sixty shillings by for Stratford",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "sixty shillings set by",
+    "no coffer total"
+  ],
+  "quotes": []
+}

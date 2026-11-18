@@ -1,0 +1,1 @@
+You entered ten shillings in the received column, dated the fifth of July 1595. You did not write a balance. The old sum stays whatever it was the last time you counted, and you do not count it tonight.

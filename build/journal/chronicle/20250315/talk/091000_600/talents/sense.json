@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "You waited in the outer passage with a tailor and two trumpeters, and you did not see past it into the palace. The clerk read the three names as servants to the Lord Chamberlain, dated the warrant the fifteenth of March 1594, and counted twenty pound in angels and silver. He looked at you. Kemp took the bag. The tide had turned. He would not pay double oars, and no second fare was named. You walked by the Strand and Holborn.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the names and kept the bag for John, shut.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Carried the bag, and chose the walk.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a boat against the tide.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "\u00a320",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Servants to the Lord Chamberlain",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the warrant",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Servants to the Lord Chamberlain",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard the twenty pound counted and walked by the Strand",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Will Kemp",
+    "William Shakespeare",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the three names",
+    "fifteen ninety-four",
+    "twenty pound",
+    "the bag",
+    "the walk home"
+  ],
+  "quotes": [
+    {
+      "speaker": "(the clerk)",
+      "text": "William Kempe, William Shakespeare and Richard Burbage, servants to the Lord Chamberlain."
+    },
+    {
+      "speaker": "(the clerk)",
+      "text": "Dated the fifteenth of March, fifteen ninety-four."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Nor double oars."
+    }
+  ]
+}

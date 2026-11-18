@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 240.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:10:00", "text": "The refusal stays. Plain, not pleading. Livelier, and no safer at the box. I am not opening it again tonight.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:10:16", "text": "Abel has the book. No one has a part. Edith's eight shillings is still owing till Lady Day. A clean book does not pay a seam.", "timing": {"end": 34.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:10:34", "text": "The letter is on her table. I have shut one door today. I am not shutting that one with a sentence I do not mean.", "timing": {"end": 44.0, "start": 34.0}}

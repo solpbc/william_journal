@@ -1,0 +1,73 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Richard called from Holywell because he could not sleep. He asked for ten lines at the death, and you said no. He asked for six, and you told him the man was done with words. He asked what happens if the boy's voice goes in the vault. You told him she wakes hoarse, and that he should hold Nick as he did on Wednesday. The end stays five words. You did not say what the five words are.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the extra lines, and did not print the five words.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called from Holywell, asked twice, and took the refusal.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thou flint",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Refused the longer death",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the call from Holywell",
+    "ten lines refused",
+    "six refused",
+    "five kept",
+    "the voice in the vault"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "Will? Richard. From Holywell. I cannot sleep and I've woken the house trying."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Thou hast had two hours of them, Dick. He's done with words. Drink, kiss her, fall."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Then she wakes hoarse, as a girl would that had slept two days in a grave. Hold him as thou didst Wednesday."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "God keep thee, then, thou flint."
+    }
+  ]
+}

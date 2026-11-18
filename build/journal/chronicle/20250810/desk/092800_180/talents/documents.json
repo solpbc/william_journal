@@ -1,0 +1,49 @@
+{
+  "overview": "You opened the penny almanac at the day. It already said St Lawrence, church at Holy Trinity in the forenoon, and dinner at the Sadlers after. You did not add a line. You did not take up a pen.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Held the leaf open and did not write."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the penny almanac",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "St Lawrence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "dinner at the Sadlers",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the penny almanac",
+      "asset_type": "other",
+      "disposition": "Read St Lawrence in the penny almanac"
+    },
+    {
+      "name": "Holy Trinity",
+      "asset_type": "other",
+      "disposition": "Read St Lawrence in the penny almanac"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-10",
+      "meaning": "Read St Lawrence in the almanac"
+    }
+  ],
+  "summary": "Read St Lawrence in the penny almanac"
+}

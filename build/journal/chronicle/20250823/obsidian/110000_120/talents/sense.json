@@ -1,0 +1,44 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "On the page you set the friar at dawn with one basket, the herb that heals and the herb that kills. He is to say what Susanna said, that the girl is too quick to say yes, and that saying it does not mend it. He is an old man, and he is little heeded. You wrote the rest of the act as the same list. You wrote, so you would not forget, that this page is not a parting and not a death.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the note as a plan, and named what it is not.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in He will not be heeded",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Gave Susanna's finding to the friar",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the one basket",
+    "too quick",
+    "not heeded",
+    "not a parting"
+  ],
+  "quotes": []
+}

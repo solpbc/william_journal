@@ -1,0 +1,1 @@
+At the post by the Bull, Ralph Raye gave you the Rose's Mahomet in a breath. Rant in the old Tamburlaine vein, fireworks, and a head that speaks. You asked what the head says. He said nothing worth the powder. He was going on to the company's Titus at the Cross Keys. He was not hired at the Rose. You went back up toward the desk. You did not learn what the house took.

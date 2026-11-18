@@ -1,0 +1,17 @@
+{
+  "narrative": "One candle. A clean sheet. The three deposition sheets are on the board behind it, already written, not touched tonight. No face. The sheet filling. Two gardeners, the apricocks being bound, weeds coming up. The queen is written as hidden and not hidden. No face. The middle of the sheet. The misrule is in the garden's work, not in a speech about the court. No face. The sheet held up to the candle. The last line is a curse on his plants, and it has not been struck. A figure in the margin counts the lines. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the thirty-odd lines and left the curse in."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in Thirty-odd lines"
+    }
+  ]
+}

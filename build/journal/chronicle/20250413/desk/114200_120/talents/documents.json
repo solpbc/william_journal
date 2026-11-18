@@ -1,0 +1,39 @@
+{
+  "overview": "You read the almanac and added nothing under the line. It said only Palm Sunday, cold.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the line, and added nothing."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the almanac",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the cold line",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the almanac",
+      "asset_type": "other",
+      "disposition": "Read Palm Sunday, cold, in the almanac"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-13",
+      "meaning": "Palm Sunday, cold"
+    }
+  ],
+  "summary": "Read Palm Sunday, cold, in the almanac"
+}

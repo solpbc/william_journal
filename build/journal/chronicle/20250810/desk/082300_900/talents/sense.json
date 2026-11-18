@@ -1,0 +1,44 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You stood at the bench and read the night's sheets from the name downward. The lines were the ones you had already left. You did not take up the pen. You did not sit.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read what was already written, and did not take up the pen.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the orchard scene",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Read the foul sheets",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read the foul sheets on the bench",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the foul sheets",
+    "the name",
+    "the rose",
+    "the vow"
+  ],
+  "quotes": []
+}

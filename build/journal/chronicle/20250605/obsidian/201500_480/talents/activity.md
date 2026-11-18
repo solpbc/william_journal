@@ -1,0 +1,1 @@
+You wrote that Sunday is Field's table and the Holinshed stays in the house. You wrote that Susanna's letter went with Hobbins at twopence, that nothing came back, and that you did not rewrite it. You wrote that the parliament sheet is still blank.

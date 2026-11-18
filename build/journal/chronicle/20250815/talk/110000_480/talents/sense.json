@@ -1,0 +1,72 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Anne made the bargain plain. You will not promise a journey until it is arranged, and the only one arranged is the carrier on the eighteenth, at the horses' pace. She told you what cannot wait: you have not looked at a real house. She did not name one, and she named no price. You agreed to look when she shows you, and not to buy a house with your mouth from the floor.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Promised only the arranged road, and a look with no purchase in it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set both halves of the bargain, and withheld the name and the price.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the carrier on the eighteenth",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in What cannot wait",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Agreed to look at a house, and promised only the eighteenth",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the eighteenth",
+    "no journey unarranged",
+    "looking at a house",
+    "no price"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "You will not promise me a journey until the journey is arranged."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not promise you another on the strength of being sorry I am on a floor."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Don't promise me a house, Will."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No journey but the one that is set. No house from a floor."
+    }
+  ]
+}

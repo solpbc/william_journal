@@ -1,0 +1,8 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "08:50:00", "text": "The children have their shoes. I will go on ahead with them and keep them out of the kennel.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:50:12", "text": "Go on. The shop door is shut.", "timing": {"end": 22.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "mary_shakespeare", "start": "08:50:22", "text": "Leave the shop door as it stands, Will. Thy father has his own morning.", "timing": {"end": 34.0, "start": 22.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "08:50:34", "text": "Come, Mother. Take my arm. It is two years since I walked you this way.", "timing": {"end": 46.0, "start": 34.0}}
+{"sentence_id": 5, "speaker": "mary_shakespeare", "start": "08:50:46", "text": "It is two years since I had it. Mind the step at the sill.", "timing": {"end": 56.0, "start": 46.0}}
+{"sentence_id": 6, "speaker": "anne_shakespeare", "start": "08:50:56", "text": "We will be at the church door before you. Susanna has Judith's cuff.", "timing": {"end": 68.0, "start": 56.0}}
+{"sentence_id": 7, "speaker": "william_shakespeare", "start": "08:51:08", "text": "Two years. You have the arm.", "timing": {"end": 78.0, "start": 68.0}}

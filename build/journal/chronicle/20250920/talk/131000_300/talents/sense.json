@@ -1,0 +1,72 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "The loaf was a penny and a full thumb short, and she would not cut another. You ate, and you left the desk upstairs. Less from the clove is still not a cure. The reckoning is at five.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate the soft of the loaf, and left the pages on the desk.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Measured the thumb, and would not have a second loaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put the rest under the cloth.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "a penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A penny, and five of the clock",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate three bites with Mistress Ansell and Alse",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a penny",
+    "five of the clock",
+    "the desk upstairs"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The loaf is a penny. It is a full thumb short of the notch."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A penny is the whole of the business on this board."
+    }
+  ]
+}

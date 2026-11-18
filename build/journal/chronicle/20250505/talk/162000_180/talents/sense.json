@@ -1,0 +1,72 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "After The Comedy of Errors, Heminges said you had not one line of your own in Egeon. Pope said a sigh would have been an extra line. You left the part as it was set. The comedy is still at Field's. The jig is Thursday.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the part clean, and sent you home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the sigh you did not add.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the old man as he was set.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No new line",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Played Egeon",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Thomas Pope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Egeon",
+    "no added line",
+    "the book still at Field's"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Not one line of your own, Will"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A sigh is a line"
+    }
+  ]
+}

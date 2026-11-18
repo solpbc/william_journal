@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "The name had Sunday off for church. It sits on you like a title you did not buy. The tooth is louder than the title. You left the leaf as it was, and you stopped.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the day off, and did not write on.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the house. The name is his, and it waited.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said the name had the day off",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the name",
+    "one day off",
+    "the tooth"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "It sits on me like a title I did not buy, and I am not easy."
+    }
+  ]
+}

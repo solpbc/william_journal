@@ -1,0 +1,44 @@
+{
+  "overview": "You wrote the question and not the answer. A queen hears bad news from men who think her gone. You left the blank for a girl who reads.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote three lines and stopped above the blank."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the queen",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the gardeners",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the unwritten answer",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Wrote the queen's question about the gardeners"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-26",
+      "meaning": "A queen, and no answer"
+    }
+  ],
+  "summary": "Wrote the queen's question about the gardeners"
+}

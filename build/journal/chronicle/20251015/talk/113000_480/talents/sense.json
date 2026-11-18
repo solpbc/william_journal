@@ -1,0 +1,89 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Heminges stopped at the foot of the stair with a custard from his wife in a cloth. Mistress Ansell stood on the second step. You came down in a nightcap. The king is billed for tomorrow, the Inns have written it down, and Pope will play Gaunt. He has nothing till the garden in the third act. You said he will die at Ely House and rise a gardener. Heminges said he will get a laugh on this England. You said he will not. The roll stayed with Pope. Mistress Pope had said he was near weeping at it. Garnish has cut the long cue, and you did not take a length for it. The Rose has something of a woman and a wonder. You said to let them. You have a king and a custard. She said you were to have the custard and no more talk. You do not know tomorrow's laugh.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came down in the nightcap, refused the laugh, and kept the custard.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the custard and the question, left the roll with Pope, and did not come above the second step.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood on the second step and ended the talk when the custard was granted.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the king",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A king and a custard",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the custard",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A king and a custard",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Gave Gaunt to Pope for tomorrow",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "John Heminges",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the custard",
+    "Pope for Gaunt",
+    "the third act",
+    "the Rose's new title"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "He'll die at Ely House and rise a gardener."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "He had the roll last night, and Mistress Pope says he was near weeping at it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Let them. We've a king and a custard."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "He is to have the custard and no more talk."
+    }
+  ]
+}

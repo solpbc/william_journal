@@ -1,0 +1,45 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "Home in the dark, you did not write the queen and the weaver. You wrote what came, out of order. The weaver wakes alone on the turf, his own head back, feeling for his ears, and fails in prose, every sense in the wrong place. You set down \"It shall be call'd Bottomes Dreame, because it hath no bottome\", said it to the window, and laughed with your shoulders. The leaf goes under the others. The queen's waking is to go on top of it when you get there. You did not finish the play, and you did not count the leaves.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the waking out of order, and put the leaf underneath.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "A Midsummer Night's Dream",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Bottom's dream",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote the weaver waking",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the weaver waking",
+    "prose that fails",
+    "the line to the window",
+    "the leaf underneath",
+    "not finished"
+  ],
+  "quotes": []
+}

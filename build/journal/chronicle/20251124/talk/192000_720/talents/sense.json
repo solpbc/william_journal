@@ -1,0 +1,83 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "After the capon you counted two pounds onto the board for the town's collection and had him write the line where you could see it. He read it back: two pounds, of you, to the brief. He said he might be bold with you as with a friend, that it was not for himself but for the town, that his own London charges had run long, and that ten pound till Lady Day would mend them. You gave the two to the town, lent nothing to the man, and said you would still be friends at Lady Day. He drank your health and did not ask again. One pound remains. It was not paid tonight to clear the walk.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the two pounds, required the line, and refused the loan.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Quiney",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Wrote the two, asked for ten, drank the health, and did not ask again.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "two pounds",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two pounds, and nothing lent",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "ten pounds",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two pounds, and nothing lent",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "one pound still owed",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two pounds, and nothing lent",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Gave two pounds to the town",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Richard Quiney"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two pounds to the brief",
+    "ten pounds refused",
+    "one pound still owed"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I'll give two to the town, Richard, and lend nothing to the man, and we'll still be friends at Lady Day."
+    },
+    {
+      "speaker": "richard_quiney",
+      "text": "Ten pound till Lady Day would mend them."
+    },
+    {
+      "speaker": "richard_quiney",
+      "text": "I may be bold with you as with a friend."
+    }
+  ]
+}

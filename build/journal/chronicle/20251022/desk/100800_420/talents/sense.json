@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You checked York's roll and the Queen's after Gaunt's. Each entrance sat on the same cut word, and each had the sign. You put the weight back on the three.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "attendee in Checked York's roll and the Queen's",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the three rolls",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Checked York's roll and the Queen's",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Checked the same cue on three rolls",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "York's roll",
+    "the Queen's roll",
+    "the weight"
+  ],
+  "quotes": []
+}

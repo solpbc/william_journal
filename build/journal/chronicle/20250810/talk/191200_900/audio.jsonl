@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 900.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "joan_shakespeare", "start": "19:13:20", "text": "Cups in a row. I want the board back before I have to go and find it.", "timing": {"end": 370.0, "start": 80.0}}
+{"sentence_id": 2, "speaker": "judith_shakespeare", "start": "19:18:10", "text": "The boats are on the step. I am not bringing a hull in so a cup can be proud of itself.", "timing": {"end": 640.0, "start": 370.0}}
+{"sentence_id": 3, "speaker": "anne_shakespeare", "start": "19:22:40", "text": "Leave them out. A dark step can mind three boats without a speech.", "timing": {"end": 840.0, "start": 640.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "19:26:00", "text": "I said I would not bring them in. I am still not bringing them in.", "timing": {"end": 850.0, "start": 840.0}}

@@ -1,0 +1,44 @@
+{
+  "overview": "At dusk you looked at the almanac on the sill. The thirtieth of March carried the mark of the new moon. Your tables stayed shut, and you wrote nothing.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked at the March leaf and left the tables shut."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the new moon",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the almanac",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "shut tables",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the penny almanac",
+      "asset_type": "other",
+      "disposition": "Saw the new moon marked and closed the almanac"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-30",
+      "meaning": "New moon in Lent"
+    }
+  ],
+  "summary": "Saw the new moon marked and closed the almanac"
+}

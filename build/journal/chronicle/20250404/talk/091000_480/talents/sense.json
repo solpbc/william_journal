@@ -1,0 +1,55 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You paid the other baker forty-one shillings and had the page ruled. Seventeen shillings were left in the belt, which would not reach the shoemaker's forty-four shillings and sixpence. You unpicked the canvas, took forty-two shillings, and left eighteen in the cloth. The fourteen shillings and sixpence that remained paid the whittawer for skins. Each man was asked to say nothing at Henley Street. You did not carry a name home.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid one hundred shillings, took forty-two from the canvas, and kept the names off the way home.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the Lady Day canvas",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Rule the page off",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Paid the three shops and opened the canvas",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "forty-one shillings",
+    "forty-two from the canvas",
+    "the ruled pages",
+    "eighteen left"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am taking two and forty out of it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Rule it off clean, and say nothing at the door in Henley Street.; (the shoemaker): Four and forty. The sixpence."
+    }
+  ]
+}

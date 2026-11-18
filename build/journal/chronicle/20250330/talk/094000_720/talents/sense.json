@@ -1,0 +1,100 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At Holy Trinity your mother asked who mends your shirts, and she set your inked forefinger beside your father's alum. She said she would not speak of what you do. Under the responses she said a short grace, and you did not answer it. Your father was not in the pew. Nobody looked at the place. The sword was on the nail at home.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the finger was ink, and did not answer the grace.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked about the shirts, said the grace, and would not speak of the trade.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the pew from discussing the empty place, and kept the sword at home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Found her place in the book, and said she had not turned.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Applied the rule about not looking, and tested whether a short grace still counted.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the sword on the nail, and said so once.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Sat the pew and let the grace pass",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mary Shakespeare",
+    "William Shakespeare",
+    "Anne Shakespeare",
+    "Judith Shakespeare",
+    "Hamnet Shakespeare",
+    "Susanna Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the shirts",
+    "the forefinger",
+    "the grace",
+    "the empty place"
+  ],
+  "quotes": [
+    {
+      "speaker": "mary_shakespeare",
+      "text": "Who mends thy shirts in London?"
+    },
+    {
+      "speaker": "mary_shakespeare",
+      "text": "Thy father's were dyed with alum the same."
+    },
+    {
+      "speaker": "mary_shakespeare",
+      "text": "God keep this house, and the bread, and the hands."
+    },
+    {
+      "speaker": "mary_shakespeare",
+      "text": "I will not speak of what you do."
+    }
+  ]
+}

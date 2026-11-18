@@ -1,0 +1,17 @@
+{
+  "narrative": "A scrap in the wallet, the boots already off and set by the bench, the inkhorn open. A hand is over the belt and not writing the belt. No face. The same scrap, the line left without a total under it. The belt closed. The boots still by the bench.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote eleven pence, and closed the belt without a total."
+    },
+    {
+      "type": "Tool",
+      "name": "eleven pence",
+      "role": "mentioned",
+      "context": "Shown on ledger in Eleven pence"
+    }
+  ]
+}

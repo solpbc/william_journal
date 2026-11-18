@@ -1,0 +1,56 @@
+{
+  "overview": "At night you entered threepence and the loaf. You copied the three sentences. You set down Henslowe's sentence, six pound and the jig, and you did not price the house. The looking-glass is not on the sheet. The room is not written.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Entered the sentences, the sentence he heard, and the room he has not written."
+    },
+    {
+      "name": "Philip Henslowe",
+      "role": "mentioned",
+      "formal_term": "Philip Henslowe",
+      "appointment_tier": "not_applicable",
+      "context": "Set down six pound and the jig"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the three sentences",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "six pound heard",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the room not written",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Set down six pound and the jig"
+    },
+    {
+      "name": "a looking-glass",
+      "asset_type": "other",
+      "disposition": "Set down six pound and the jig"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-21",
+      "meaning": "Six pound, heard"
+    }
+  ],
+  "summary": "Set down six pound and the jig"
+}

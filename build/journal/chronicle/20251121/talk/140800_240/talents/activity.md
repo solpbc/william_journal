@@ -1,0 +1,1 @@
+Heminges said that on Saturday night he had set Friday as the Shrew and Saturday as Two Gentlemen, and that the leaf has the two days the other way. Today was Two Gentlemen, and you were in it. Tomorrow is the Shrew, and you are in that. He did not name your part in either. You did not supply a name. Nothing was entered for the correction.

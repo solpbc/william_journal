@@ -1,0 +1,1 @@
+At home you wrote the fact, the Rose's last day, apart from the reasons, and you left the reasons unchosen. You wrote that nothing came back, and that your letter had said nothing of butter or of prisons. You did not open the coffer.

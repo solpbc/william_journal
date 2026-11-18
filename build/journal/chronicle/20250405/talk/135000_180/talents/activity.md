@@ -1,0 +1,1 @@
+Your mother covered the basket and told you not to make a host of Bartholomew. Anne said the stiles would be wet. You took the basket and the canvas, and you did not open either in the yard. The two of you set out.

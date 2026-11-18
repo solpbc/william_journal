@@ -1,0 +1,84 @@
+{
+  "overview": "You began a letter to Anne and did not send it. You told her Thursday's packet had gone with Hobbins, groats and all. You told the new comedy at length and did not write the end. You told her of fifteen barges and the Prince of Purpoole, and you saw that she would need the thing explained. You did not answer her question. You named no day for coming. You dated the leaf the 9th of February 1594 and left it on the desk.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the leaf, dated it the 9th of February 1594, and left it on the desk."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Is the person addressed, and is not in the room."
+    },
+    {
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Susanna Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Is named to be kissed, and is not in the room."
+    },
+    {
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Hamnet Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Is named, ten since Candlemas, and is not in the room."
+    },
+    {
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Judith Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Is named to be kissed, and is not in the room."
+    },
+    {
+      "name": "Thomas Hobbins",
+      "role": "mentioned",
+      "formal_term": "Thomas Hobbins",
+      "appointment_tier": "not_applicable",
+      "context": "Is named as having taken Thursday's packet, and is not in the house."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the unsent letter",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the comedy at length",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "fifteen barges",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no day named",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Wrote to Anne"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-02-09",
+      "meaning": "Left on the desk"
+    }
+  ],
+  "summary": "Wrote to Anne"
+}

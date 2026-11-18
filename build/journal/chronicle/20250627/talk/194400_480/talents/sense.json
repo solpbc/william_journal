@@ -1,0 +1,85 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You found the frame in the lane before the Mayor's gate, a hundred yards from your bed. It was empty, and nobody was near. Mistress Ansell was at her window. She looked a long minute and said that is not how you ask for bread. She shut the shutter and barred it. The bar was on the window, not on the street door. Alse and Verbeke stayed with the house and out of the street. Sir John did not speak. You were not in the crowd.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Saw the empty frame, and did not join a crowd.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the sentence, and barred the shutter.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed out of the lane, and would not have the chalk read.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed at the window with the house.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Was not in the lane, and did not speak.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard Mistress Ansell bar the shutter and came off the lane",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the frame",
+    "her sentence",
+    "the shutter"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "That is not how you ask for bread."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I am barring it. The shutter."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A hundred yards from the bed, if the bed is where I left it."
+    }
+  ]
+}

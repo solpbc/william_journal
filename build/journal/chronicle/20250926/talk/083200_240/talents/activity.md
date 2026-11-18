@@ -1,0 +1,1 @@
+Before the dress began, Burbage laid the pearwood glass on the seat of the throne, face up, and said he takes it off only when he must sit. You said nobody was asking. He left it. Garnish had the plot on the peg. James Burbage stood in the lords' room with his arms folded and did not call down. You were to be carried on with the beard chalked, speaking round a clove.

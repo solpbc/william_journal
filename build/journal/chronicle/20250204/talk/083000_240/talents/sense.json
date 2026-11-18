@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "meeting",
+  "activity_summary": "On the step at Field's you asked whether a chronicle might be spared in Lent. A forme was on the press, so not this morning. He made you name the day it would come home. You did not name one. You said books are more patient than lenders. He said lenders must be patient, because books cannot walk home. You agreed to ask again in Lent. The apprentices listened and did not speak. It was you between you. You did not take the book.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked, refused a date on the step, and left empty-handed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the forme on the press and made him name a day.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "a chronicle",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A book that cannot walk home",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Asked Field for a chronicle",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Richard Field"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the chronicle",
+    "Lent",
+    "the forme",
+    "the step"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_field",
+      "text": "Name me the day it would come home."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Books are more patient than lenders."
+    },
+    {
+      "speaker": "richard_field",
+      "text": "Lenders must be patient, Master Shakespeare, because books cannot walk home."
+    }
+  ]
+}

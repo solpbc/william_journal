@@ -1,0 +1,89 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "After the reckoning, Kemp brought a crushed gingerbread out of his hat. You said the font's day is the one your family can stand upon, though your mother holds by St George, and you gave nobody a number. Heminges asked whether celebrating twice obliges the company twice. Burbage ate a corner before anyone had agreed. You left the day unimportant, and the book stayed shut.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood on the font's day, gave no number, and accepted one cake.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Produced the gingerbread and did not produce a second.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked whether twice obliges the company twice, and left the book shut.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate a corner before anyone agreed, and kept the afternoon's faults unnamed.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the gingerbread",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Gingerbread, once",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Kept Kemp's gingerbread to one cake",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Will Kemp",
+    "William Shakespeare",
+    "John Heminges",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one gingerbread",
+    "the font and St George",
+    "twice as a question"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "You have had chances enough for an age to become official."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The font's day is the one my family can stand upon, though my mother holds by St George."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Whether celebrating twice obliges the company twice is the question."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "I am eating the corner."
+    }
+  ]
+}

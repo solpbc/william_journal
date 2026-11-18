@@ -1,0 +1,1 @@
+At two you were on in the Shrew. The house was an ordinary afternoon house. You did not name the part, and nothing in your hand named it. Kemp got a laugh on a line that was already written, and he did not ask for another. You did not write one. No new tally was opened.

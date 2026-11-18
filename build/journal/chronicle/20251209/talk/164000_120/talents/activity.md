@@ -1,0 +1,1 @@
+You came home for a clean band. You said Westminster, by water, and you did not bring a name into the house. Alse pinned it. Mistress Ansell did not take the parlour as a reason to go to a play again. You said you would be late, and that you would not wake the stair.

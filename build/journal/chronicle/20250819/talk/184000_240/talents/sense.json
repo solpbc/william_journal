@@ -1,0 +1,64 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Oxford by six, twenty miles, and the back no worse. Supper among gowns was nine pence. At the next board a scholar was construing Ovid for a wager, and he was wrong. You did not correct him. You did not repeat his line. You ate.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid, ate, and did not correct the scholar.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the twenty miles, and kept him off the other board.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "nine pence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nine pence, and a wrong wager",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Paid nine pence and left the scholar his wager",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Hobbins",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twenty miles",
+    "nine pence",
+    "the scholar's wager",
+    "the back no worse"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I heard him. I am not his tutor."
+    },
+    {
+      "speaker": "thomas_hobbins",
+      "text": "Twenty miles. You walked them."
+    }
+  ]
+}

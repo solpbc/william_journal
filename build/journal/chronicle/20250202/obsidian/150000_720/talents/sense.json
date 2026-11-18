@@ -1,0 +1,52 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "You wrote home on Candlemas and dated it from London, in the old year, 1594. You told Anne you were mended of the cold, that the comedy was done, and that you would say more of Lent when you know the day. You told Hamnet to mind Master Aspinall's Latin, to leave the fastening until the things were out, and to say whether a boy of ten can outrun a boy of nine. Judith had the same groat and the same order, and a warning not to make \"equal\" into a case for Susanna to judge. Susanna had two lines, the thanks for the shoes, and a riddle to read to Judith and then keep. The answer is a candle. Two groats went in, to be spent foolishly, and a twist of comfits.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the letter and sealed the groats into the paper.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the comedy",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Candlemas: the twins are ten",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Master Aspinall",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Candlemas: the twins are ten",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Wrote the Candlemas letter and put the groats in",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Candlemas letter",
+    "the two groats",
+    "the riddle",
+    "the cold"
+  ],
+  "quotes": []
+}

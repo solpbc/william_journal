@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "15:15:04", "text": "Wind on the teeth. A horse in a field that is not mine, and I am not buying him. The list can keep the horse where it is written. No names. The mouth does not get a speech out of a walk.", "timing": {"end": 32.0, "start": 4.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "15:15:32", "text": "Legs have had their turn. Home. The list stays whole.", "timing": {"end": 42.0, "start": 32.0}}

@@ -1,0 +1,116 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "At the reckoning Heminges would not read a sum. Thursday's seven shillings is already entered, and he will not enter it twice. Monday the house is dark. Tuesday you are Gaunt. Wednesday morning the lovers are read at Holywell. The company has not read them. Wednesday's Shrew is not you. Thursday Navarre, Friday the Shrew, Saturday Two Gentlemen, and you are in all three. The three court nights stand as they were said: the Navarre comedy, the lovers, and something old to laugh at. Not the king. You did not choose the old play. Kemp stayed on you. The tally-book was not closed. No court money has come. You did not open a new total.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Confirmed the days he plays, and refused a sum.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the week, and kept the book shut on the total.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the dark Monday and the days he shares, and would not guess a sum.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the sixteen bars until the parts are out.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke on you, and did not have the tally closed.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "seven shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The week, and no new total",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The week, and no new total",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The week, and no new total",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Set next week at the reckoning",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Augustine Phillips",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "no new total",
+    "seven shillings entered",
+    "next week's plays",
+    "the reading on Wednesday",
+    "not the king"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "I am not going to read you a sum."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Thursday's seven shillings is entered. I will not enter it twice."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Not the king. We do not choose the old one today."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Good night, Sweet Master Shakespeare."
+    }
+  ]
+}

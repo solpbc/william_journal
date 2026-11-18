@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You looked at the friar's name on the page you wrote last night. You did not copy a new line under it. You did not write a speech. The days further down stayed blank.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Looked at the name already on the page and did not add a line.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeus and Juliet",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The friar's name",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Looked at the friar's name",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the friar's name",
+    "no new line",
+    "the days still blank"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,17 @@
+{
+  "narrative": "The penny almanac open on a knee in the parish church. One short mark beside the printed day. No other book. No face. The almanac closed. His hands are empty. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Marked St Luke and did not open a second book."
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in St Luke"
+    }
+  ]
+}

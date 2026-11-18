@@ -1,0 +1,70 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At breakfast you paid threepence for the meal and twopence for a horn of ink. Mistress Ansell filled it because yesterday's spoon had been in the galls. The Sunday letter stayed folded for Thursday. You had no newer word of your father than that he was mending. You did not open the sheet.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid for the horn and the meal, and kept Thursday as the day the letter goes.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Filled the horn at twopence and refused to let the letter be opened into a promise.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the soaking spoon out of the new horn, and asked after the cough only once.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Bought a horn of ink and kept the letter folded",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twopence the horn",
+    "threepence the meal",
+    "the letter still folded",
+    "mending",
+    "the paper crown"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Fill it. Twopence, as you sell it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have no newer word than mending."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Your letter is where you left it."
+    }
+  ]
+}

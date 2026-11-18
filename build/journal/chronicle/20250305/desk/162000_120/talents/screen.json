@@ -1,0 +1,11 @@
+{
+  "narrative": "The penny almanac open in a dim church, at the evening office. One line for the day. No second sermon written in. No face. The margin empty. Heads are bowed nearer the front. His own page has no new word. The book is not the commination.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Stood the office and left the almanac blank under the line."
+    }
+  ]
+}

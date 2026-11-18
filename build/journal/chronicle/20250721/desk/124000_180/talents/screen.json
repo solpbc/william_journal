@@ -1,0 +1,17 @@
+{
+  "narrative": "Two foul sheets on the board, the upper one opened and not written on today. A dry pen beside them. No new line in the margin. Lower on the same sheet, the short answer he tried alone on Friday. Nothing is added under it this morning.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the sheet and did not mend it."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on draft in The feast, not touched"
+    }
+  ]
+}

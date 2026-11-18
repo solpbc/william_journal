@@ -1,0 +1,1 @@
+You began the street, hot, at the end of the day. They come in already talking, and the one with the cold hand talks most. You wrote that you know he must go, and that you have known it since the book, and that you do not know how. You stopped while he was still talking.

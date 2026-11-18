@@ -1,0 +1,44 @@
+{
+  "overview": "At two the plot was The Comedy of Errors, and your side was Egeon. You open, and you are idle until the end. Across the water the Rose had the second Hercules. You did not cross.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Played Egeon, and did not cross the water."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Egeon",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "two of the clock",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the second Hercules",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Comedy of Errors",
+      "asset_type": "other",
+      "disposition": "Played Egeon"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-23",
+      "meaning": "Egeon, and the second Hercules"
+    }
+  ],
+  "summary": "Played Egeon"
+}

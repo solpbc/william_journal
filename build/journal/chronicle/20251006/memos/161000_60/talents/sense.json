@@ -1,0 +1,53 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "In the passage, with the yard still loud, you said you were dead in the fourth act. You did not go back on. The afternoon was the one play.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke in the passage after his death in the play, and stayed off.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Titus Andronicus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Off in the fourth",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Came off in the fourth act",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the fourth act",
+    "the yard still loud"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Dead in the fourth act."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Two of the clock, and I was off."
+    }
+  ]
+}

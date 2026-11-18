@@ -1,0 +1,75 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "In the yard, among the horses, you let the inn's dog keep the stool. You called the back a creditor. You had been put up as far as Shipston and had carried nothing. You meant to keep a sentence from the morning and remembered the left strap instead, and you did not shorten it. You said you are too old to walk to Warwickshire. You guessed a house at forty pound and at a hundred, and you took the guess back. You do not know. You marked the friar, at first light, with one basket. Then you stopped.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the yard, withdrew the price, and stopped on the left side.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the oiled canvas wallet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Too old to walk to Warwickshire",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the friar",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Too old to walk to Warwickshire",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the great house by the chapel",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Too old to walk to Warwickshire",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Took the guess of the house back and marked the friar",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the back as a creditor",
+    "the left strap",
+    "a house not priced",
+    "the friar's one basket"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am too old to walk to Warwickshire."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "What's a house worth? Forty pound? A hundred? I don't know."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "the left strap wants shortening."
+    }
+  ]
+}

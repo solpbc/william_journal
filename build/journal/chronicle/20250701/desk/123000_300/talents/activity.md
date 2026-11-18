@@ -1,0 +1,1 @@
+You wrote Anne that you are well, that the heat is the news, and that you commend the children to her. You have nothing new to send. You do not name a day. The sheet is dated the first of July 1595. It is not folded for a carrier. You are not walking to the Bell.

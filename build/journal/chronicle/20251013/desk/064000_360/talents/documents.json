@@ -1,0 +1,44 @@
+{
+  "overview": "You tried the Friar's cell at first light. Every character on the sheet had gone irritable, the Friar most of all. You wrote one bad line, struck it with ten more, and kept none of the eleven.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the line, struck the eleven, and left the sheet as a block of strokes."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the Friar's cell",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "eleven lines struck",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nothing kept",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Friar's cell",
+      "asset_type": "other",
+      "disposition": "Struck eleven lines in the Friar's cell"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-13",
+      "meaning": "Eleven lines, and none of them kept"
+    }
+  ],
+  "summary": "Struck eleven lines in the Friar's cell"
+}

@@ -1,0 +1,163 @@
+{
+  "daily_coverage": {
+    "maintenance": {
+      "identity": {
+        "day": "",
+        "name": "daily_schedule"
+      },
+      "evidence_revision": "31004c22128ba7817af9c61712e3f3330bcbf184761312eab1601d1107199e1b",
+      "contract_digest": "ee026c5cb5ebd3cc3d9091f9d6e63f569afac1051df96440693eb3e9489975a1",
+      "state": "outstanding",
+      "reason_code": null,
+      "owed_by": "never_made"
+    },
+    "day": "20250707",
+    "as_of_ms": 1794975930628,
+    "state": "outstanding",
+    "units": [
+      {
+        "identity": {
+          "day": "20250707",
+          "name": "morning_briefing"
+        },
+        "evidence_revision": "403601031be80673623c6eb9bbdea0654bd0d61ed62ddc2730f75f1fe30a843c",
+        "contract_digest": "40f6ec89fd8b80947c2d431fca4955ff05f86b2beb2696d6671808af2e4f75d1",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250707",
+          "name": "entities:entities_review",
+          "facet": "company"
+        },
+        "evidence_revision": "1fd059263f82e6245a4ddef557c4ab9ca65910d4d0a7f0038514db6d7977d7fd",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250707",
+          "name": "entities:entities_review",
+          "facet": "writing"
+        },
+        "evidence_revision": "f2a9b8b28d23da87805afa3016853c471401f538150e5b008f3dc8067be1e607",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250707",
+          "name": "entities:entity_observer",
+          "facet": "company"
+        },
+        "evidence_revision": "dab1c41e0a4cb97b8a574b8f3b494599b715742e4869a7d197c3b64d98ef2e3d",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250707",
+          "name": "entities:entity_observer",
+          "facet": "writing"
+        },
+        "evidence_revision": "5288aadc48852df25559e8d70d3b0ce42e791d7772792c760a650a59a93eaedd",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250707",
+          "name": "entities:entity_suggest",
+          "facet": "company"
+        },
+        "evidence_revision": "617a6c742bedc6bd262c7e2e8b3e8cba15f02b0fd1112dd336572e633b7a2943",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250707",
+          "name": "entities:entity_suggest",
+          "facet": "writing"
+        },
+        "evidence_revision": "8599c2c46afca33f8ed4d67fc6f1caf91ee14279d56363219f74a69bd808d83c",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      }
+    ]
+  },
+  "schema_version": 10,
+  "stats": {
+    "transcript_sessions": 3,
+    "transcript_segments": 57,
+    "transcript_duration": 868.0,
+    "transcript_ranges": 3,
+    "percept_sessions": 3,
+    "percept_frames": 3,
+    "percept_duration": 0.0,
+    "percept_ranges": 2,
+    "browser_segments": 0,
+    "pending_segments": 0,
+    "segments_pending_think": 0,
+    "outputs_processed": 0,
+    "outputs_pending": 7,
+    "day_bytes": 326391,
+    "segment_fold_failed": false
+  },
+  "agent_data": {
+    "media": {
+      "count": 1,
+      "minutes": 1.0
+    },
+    "meeting": {
+      "count": 1,
+      "minutes": 12.0
+    },
+    "planning": {
+      "count": 1,
+      "minutes": 3.0
+    },
+    "social": {
+      "count": 2,
+      "minutes": 16.0
+    },
+    "writing": {
+      "count": 1,
+      "minutes": 4.0
+    }
+  },
+  "facet_data": {
+    "company": {
+      "count": 5,
+      "minutes": 32.0
+    },
+    "writing": {
+      "count": 1,
+      "minutes": 4.0
+    }
+  },
+  "heatmap_data": {
+    "weekday": 0,
+    "hours": {
+      "8": 4.0,
+      "17": 12.0,
+      "18": 4.0,
+      "19": 12.0,
+      "21": 4.0
+    }
+  }
+}

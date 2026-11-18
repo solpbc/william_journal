@@ -1,0 +1,23 @@
+{
+  "narrative": "A fresh black-letter bill pasted on the Bishopsgate post, the paste still dark at its edges. Title only, no author's name and no sum. A second fresh bill on the same post, a hand's breadth lower. Title only.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read both bills and walked on."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on bill in Two bills on the Bishopsgate post"
+    },
+    {
+      "type": "Project",
+      "name": "The French Doctor",
+      "role": "mentioned",
+      "context": "Shown on bill in Two bills on the Bishopsgate post"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "narrative": "Thursday's foul lines are still the top. Two new lines under them, then a white stop wider than the writing. The right margin is empty. No player's name. No cross assigning the gardener.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the continuation and the refusal, and left the sheet."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in Not a finished act"
+    }
+  ]
+}

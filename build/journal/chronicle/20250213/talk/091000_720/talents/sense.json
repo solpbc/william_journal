@@ -1,0 +1,111 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At rehearsal the K was still only a letter. Kemp was sharp and still said you. You asked again for a line, not a number, and you did not get one. Burbage called for the Errors cues. The Rose had a Siege of London. You did not go to read the bill, and you did not cross. Phillips kept the songs as they were and did not fetch Nick. You did not move a third stop. Kemp kept the watchet gown out of the room. Nothing was bought.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a figure, kept Nick's speech unspent, and stayed with Egeon.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed on you, refused to name a line, and kept the gown out of the room.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed the K unchanged and named the Rose's title without a receipt.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called for the old Errors cues.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the songs and left Nick unfetched.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Still a letter",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Siege of London",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Still a letter",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Princess's gown",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Still a letter",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed at the Cross Keys",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "Will Kemp",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Augustine Phillips"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the K",
+    "no figure",
+    "the Errors cues",
+    "the siege"
+  ],
+  "quotes": [
+    {
+      "speaker": "abel_garnish",
+      "text": "The K is where I left it."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "You, Will. I am still saying you."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not going to read their bill in the street."
+    }
+  ]
+}

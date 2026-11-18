@@ -1,0 +1,78 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Home, you kept the company's stop separate from Anne's question. You still do not know the day, and you will not write a yes to be rid of it. Tomorrow you are not in the Shrew. Grecian Comedy is the Rose, and you are not going. The packet is not this leaf and not this week.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused to turn the company's stop into an answer, and left Friday's plays alone.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in The day is still not known",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Bell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The day is still not known",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Grecian Comedy",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The day is still not known",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Taming of the Shrew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The day is still not known",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Came home with Shrove Tuesday settled",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the unsent answer",
+    "Friday not his",
+    "the packet"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I do not yet know the day"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The packet is not this;"
+    }
+  ]
+}

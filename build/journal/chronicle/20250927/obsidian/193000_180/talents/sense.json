@@ -1,0 +1,52 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You set thirty-four beside last Saturday's twenty-nine. You wrote that the coffer was not opened, and that it stands as ruled at twenty pound fifteen. You added nothing. Kemp had paid the share with the name. You did not make a new sum.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the share, and did not open the coffer.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "thirty-four shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thirty-four beside twenty-nine",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "twenty pound fifteen",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thirty-four beside twenty-nine",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Set the share beside the last one",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "thirty-four",
+    "twenty-nine",
+    "the coffer not opened",
+    "twenty pound fifteen"
+  ],
+  "quotes": []
+}

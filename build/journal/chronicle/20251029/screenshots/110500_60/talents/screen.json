@@ -1,0 +1,23 @@
+{
+  "narrative": "The new Lord Mayor's barge with the companies' streamers past a working boatman; at the frame's edge a woman's dark head turned away, laughing",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "In Streamers, and a head turned away"
+    },
+    {
+      "type": "Person",
+      "name": "Davy Gannet",
+      "role": "mentioned",
+      "context": "Worked the boat at the near edge of the show."
+    },
+    {
+      "type": "Person",
+      "name": "the lady of the parish",
+      "role": "mentioned",
+      "context": "Turned away, laughing, and was not named."
+    }
+  ]
+}

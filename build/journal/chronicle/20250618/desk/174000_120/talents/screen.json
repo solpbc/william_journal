@@ -1,0 +1,17 @@
+{
+  "narrative": "A Rose bill, black-letter, brought across and not a thing you stood in front of. The title is the whole of the printed line you read. No author. No price. No face. The same bill. The margin where a receipt would be written is blank. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the title and did not cross to the Rose."
+    },
+    {
+      "type": "Project",
+      "name": "a second part of Caesar",
+      "role": "mentioned",
+      "context": "Shown on bill in A second part of Caesar"
+    }
+  ]
+}

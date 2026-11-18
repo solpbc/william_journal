@@ -1,0 +1,29 @@
+{
+  "narrative": "The penny almanac open on a knee in the south aisle. The printed column shows the fifth and the sixth. No pen is in the hand. No face. The same leaf while the sand-glass runs a second time on the pulpit. The paper beside the sixth is white. Three pews ahead, a furred gown faces the chancel and does not turn.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Sat the hour with the almanac on his knee and made no mark."
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "mentioned",
+      "context": "Preached, and turned the sand-glass twice."
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "context": "Sat three pews ahead, turned away, and did not speak."
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in The fifth, and an empty sixth"
+    }
+  ]
+}

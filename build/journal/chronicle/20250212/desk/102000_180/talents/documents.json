@@ -1,0 +1,45 @@
+{
+  "overview": "Garnish's margin showed a K and no figure under it. You did not ask him to add one. The book was shut with the column opened and untotalled.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked, and did not call for a figure."
+    },
+    {
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "formal_term": "Abel Garnish",
+      "appointment_tier": "not_applicable",
+      "context": "Had written the K, and did not write under it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the K",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no sum",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the margin",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-02-12",
+      "meaning": "A K, and nothing under it"
+    }
+  ],
+  "summary": "Looked at the column headed K"
+}

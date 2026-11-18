@@ -1,0 +1,1 @@
+Before you came off Egeon, George Bryan told you what a Carey groom had said. My lord of Southampton courts Mistress Vernon, one of the Queen's maids, with too much familiarity, and the court says so. You did not better the sentence. Thomas Pope would not have her name in a book, or in a second telling. You said it was not your suit.

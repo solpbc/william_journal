@@ -1,0 +1,17 @@
+{
+  "narrative": "The Sunday letter lies on the desk, folded, the direction outward. The date is the old year's. No hand, and no seal being pressed. A corner turned back. One sentence of the close is visible. The rest of the letter is not opened out. The folded letter set aside from the part he will take this afternoon. Snowlight at the window. The coffer is in the room and shut.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the date and the carrier's line, and put the letter aside."
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "context": "Is the person the letter is for, and is not in the room."
+    }
+  ]
+}

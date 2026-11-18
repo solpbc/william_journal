@@ -1,0 +1,1 @@
+You struck twenty lines of stale conceit between Berowne and Rosaline and put in two rougher lines for Arthur's height. The songs were not written. The last line was not written. You were still in bed.

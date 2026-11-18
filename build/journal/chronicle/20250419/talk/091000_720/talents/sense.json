@@ -1,0 +1,117 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Sam croaked like a rook on the cuckoo and Phillips stopped him. There was no second try. You told Sam the word was still his when the throat allowed, and you did not name anyone else for it. Arthur kept his own place and the split hooks. Kemp was told not to make a jig of the croak. The door stayed dark, with two days to go. Nobody was told a second plan.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a second try's audience, and named no other boy.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped Sam at the croak and kept him out of the song.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Croaked, asked for one more, and accepted dumb.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted two days, refused a surgery, and sent the morning home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Wanted a house and not a rook, and was told the throat was not a jig.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept his place, reported the hooks still split, and did not take the word.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Locked the one book and refused a new end.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Like a rook",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Let Phillips stop Sam",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Augustine Phillips",
+    "Sam Latchet",
+    "Will Kemp",
+    "Arthur Meeks",
+    "Abel Garnish"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a rook's croak",
+    "no second try",
+    "two days",
+    "the hooks still split"
+  ],
+  "quotes": [
+    {
+      "speaker": "augustine_phillips",
+      "text": "Stop. That is a rook."
+    },
+    {
+      "speaker": "sam_latchet",
+      "text": "It will clear. Give me one more."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "His throat is not a jig."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Item, two days."
+    }
+  ]
+}

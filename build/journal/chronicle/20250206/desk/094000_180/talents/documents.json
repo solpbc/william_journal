@@ -1,0 +1,58 @@
+{
+  "overview": "You looked at the roll after the two stops were moved. The speech was not copied onto the page. The marks said where the breath went. Sam was sitting to take the marks.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked at the marks he had just moved."
+    },
+    {
+      "name": "Nick Sorrell",
+      "role": "visible",
+      "formal_term": "Nick Sorrell",
+      "appointment_tier": "not_applicable",
+      "context": "The roll was his. He was still in the room."
+    },
+    {
+      "name": "Sam Latchet",
+      "role": "visible",
+      "formal_term": "Sam Latchet",
+      "appointment_tier": "not_applicable",
+      "context": "Sat to copy the marks, not the lines."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the roll",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the two stops",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the breath marks",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Princess's part",
+      "asset_type": "other",
+      "disposition": "Set down the two breath marks"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-02-06",
+      "meaning": "Two stops, and no words"
+    }
+  ],
+  "summary": "Set down the two breath marks"
+}

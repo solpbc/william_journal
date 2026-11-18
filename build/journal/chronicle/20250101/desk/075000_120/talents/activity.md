@@ -1,0 +1,1 @@
+At first light, with St Helen's bell ringing in the year, you ruled a fresh leaf and headed it 1594, because the legal year has not turned. The first line is the Queen, for two plays at Greenwich at Christmas, twenty pounds, not yet had. You wrote Greenwich from memory. You have not seen a warrant.

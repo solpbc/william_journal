@@ -1,0 +1,17 @@
+{
+  "narrative": "A part-roll unrolled on the trestle. The entrance is marked at a cut word. A small sign sits in the corner. No face. The second roll. The same place in the cue is struck and written again. The same small sign. The third roll. The entrance depends on the word the other two have just been made to share. The same small sign.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the three entrances and did not add a gloss."
+    },
+    {
+      "type": "Tool",
+      "name": "the three rolls",
+      "role": "mentioned",
+      "context": "Shown on part in The same cue, three times"
+    }
+  ]
+}

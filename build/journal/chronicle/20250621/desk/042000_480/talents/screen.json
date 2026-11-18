@@ -1,0 +1,29 @@
+{
+  "narrative": "First light. Gib is on Field's Holinshed, and the book is shut under him. A clean sheet is clear of the cat. No face. The sheet filling with one man and a room. No second character. The cat has not been moved. No face. The same sheet, still one voice. The margin has no groom yet and no music. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote Pomfret, and left the cat where he was."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Sat on the shut Holinshed. He has no lines."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in A prison may be a world"
+    },
+    {
+      "type": "Project",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "context": "Shown on draft in A prison may be a world"
+    }
+  ]
+}

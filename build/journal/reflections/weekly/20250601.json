@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250601",
+    "end": "20250607"
+  },
+  "generated_at": "2025-06-07T22:00:00Z",
+  "days": [
+    {
+      "day": "20250601",
+      "state": "memory",
+      "memory_id": "m-20250601-0"
+    },
+    {
+      "day": "20250602",
+      "state": "memory",
+      "memory_id": "m-20250602-1"
+    },
+    {
+      "day": "20250603",
+      "state": "memory",
+      "memory_id": "m-20250603-2"
+    },
+    {
+      "day": "20250604",
+      "state": "memory",
+      "memory_id": "m-20250604-3"
+    },
+    {
+      "day": "20250605",
+      "state": "memory",
+      "memory_id": "m-20250605-4"
+    },
+    {
+      "day": "20250606",
+      "state": "memory",
+      "memory_id": "m-20250606-5"
+    },
+    {
+      "day": "20250607",
+      "state": "memory",
+      "memory_id": "m-20250607-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250601-0",
+      "key": "mem_20250601_0",
+      "day": "20250601",
+      "text": "The precept reached fourteenthly. Alse asked where a permitted shade ends.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250601/talents/morning_briefing",
+        "briefing_day": "20250601",
+        "refs": [
+          "sol://facets/household/activities/20250601#meeting_090800_840",
+          "sol://facets/household/activities/20250601#meeting_104000_720",
+          "sol://facets/household/activities/20250601#memo_110800_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250602-1",
+      "key": "mem_20250602_1",
+      "day": "20250602",
+      "text": "The comedy is set for Monday the ninth. Heminges asked for a Labour's Won. The king is about to be unkinged. Trinity term is eighteen days off.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250602/talents/morning_briefing",
+        "briefing_day": "20250602",
+        "refs": [
+          "sol://facets/company/activities/20250602#meeting_110500_840",
+          "sol://facets/company/activities/20250602#frame_141000_360",
+          "sol://facets/company/activities/20250602#meeting_170500_840"
+        ]
+      }
+    },
+    {
+      "id": "m-20250603-2",
+      "key": "mem_20250603_2",
+      "day": "20250603",
+      "text": "Leadenhall, and three proverbs under Prices.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250603/talents/morning_briefing",
+        "briefing_day": "20250603",
+        "refs": [
+          "sol://facets/company/activities/20250603#meeting_090800_840",
+          "sol://facets/household/activities/20250603#meeting_113200_360",
+          "sol://facets/writing/activities/20250603#note_120200_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250604-3",
+      "key": "mem_20250604_3",
+      "day": "20250604",
+      "text": "You read the king to the castle wall. The throne in the heavens was seven pounds two shillings, and The Seven Days of the Week was three pounds ten. A glass at four shillings was set against five pound for a heavens.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250604/talents/morning_briefing",
+        "briefing_day": "20250604",
+        "refs": [
+          "sol://facets/writing/activities/20250604#frame_081000_720",
+          "sol://facets/writing/activities/20250604#note_102000_480",
+          "sol://facets/company/activities/20250604#meeting_123500_840"
+        ]
+      }
+    },
+    {
+      "id": "m-20250605-4",
+      "key": "mem_20250605_4",
+      "day": "20250605",
+      "text": "Sunday is Field's table. The Holinshed stays. Susanna's letter went at twopence.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250605/talents/morning_briefing",
+        "briefing_day": "20250605",
+        "refs": [
+          "sol://facets/company/activities/20250605#meeting_091000_720",
+          "sol://facets/company/activities/20250605#call_125200_180",
+          "sol://facets/company/activities/20250605#frame_140800_300"
+        ]
+      }
+    },
+    {
+      "id": "m-20250606-5",
+      "key": "mem_20250606_5",
+      "day": "20250606",
+      "text": "The Bedlam gate was open. Two hundred is Margery's figure. Verbeke said it is not yet us, and cut his bread smaller.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250606/talents/morning_briefing",
+        "briefing_day": "20250606",
+        "refs": [
+          "sol://facets/household/activities/20250606#photo_084200_120",
+          "sol://facets/household/activities/20250606#meeting_085500_240",
+          "sol://facets/household/activities/20250606#memo_091800_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250607-6",
+      "key": "mem_20250607_6",
+      "day": "20250607",
+      "text": "The share is twelve shillings, and the bag is shut. You stayed at the board through The Two Gentlemen.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250607/talents/morning_briefing",
+        "briefing_day": "20250607",
+        "refs": [
+          "sol://facets/writing/activities/20250607#frame_094000_600",
+          "sol://facets/writing/activities/20250607#note_154000_360",
+          "sol://facets/company/activities/20250607#meeting_165200_840"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250601-0",
+      "key": "said_20250601_0",
+      "day": "20250601",
+      "quote": "The glass finishes when it finishes. I like a thing that knows its own end.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250601#meeting_104000_720"
+      }
+    },
+    {
+      "id": "s-20250601-1",
+      "key": "said_20250601_1",
+      "day": "20250601",
+      "quote": "A city going hungry, and its magistrate at war with a colour.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250601#memo_110800_60"
+      }
+    },
+    {
+      "id": "s-20250602-2",
+      "key": "said_20250602_2",
+      "day": "20250602",
+      "quote": "He's about to be unkinged.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250602#meeting_170500_840"
+      }
+    },
+    {
+      "id": "s-20250604-3",
+      "key": "said_20250604_3",
+      "day": "20250604",
+      "quote": "A boy and two men with clean verse can build a castle out of air, and it costs nothing to strike.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250604#meeting_131000_840"
+      }
+    },
+    {
+      "id": "s-20250605-4",
+      "key": "said_20250605_4",
+      "day": "20250605",
+      "quote": "They're not mine to print. They're the company's.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250605#call_125200_180"
+      }
+    },
+    {
+      "id": "s-20250606-5",
+      "key": "said_20250606_5",
+      "day": "20250606",
+      "quote": "I will not carry a door I did not stand at.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250606#meeting_085500_240"
+      }
+    },
+    {
+      "id": "s-20250607-6",
+      "key": "said_20250607_6",
+      "day": "20250607",
+      "quote": "Twelve. I heard it. I am not going to improve it on the walk.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250607#meeting_165200_840"
+      }
+    }
+  ]
+}

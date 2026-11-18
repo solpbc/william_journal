@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "will_sly", "start": "17:00:00", "text": "Word from Bankside. Henslowe opened today, to a house you could have counted.", "timing": {"end": 10.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "richard_burbage", "start": "17:00:10", "text": "Counted. On a reopening.", "timing": {"end": 16.0, "start": 10.0}}
+{"sentence_id": 3, "speaker": "will_sly", "start": "17:00:16", "text": "On a reopening. I had it from a waterman who had it from the door.", "timing": {"end": 26.0, "start": 16.0}}
+{"sentence_id": 4, "speaker": "richard_burbage", "start": "17:00:26", "text": "They've been in Kent. Kent has kept the taste.", "timing": {"end": 34.0, "start": 26.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "17:00:34", "text": "And we had prentices let off for the fair.", "timing": {"end": 44.0, "start": 34.0}}

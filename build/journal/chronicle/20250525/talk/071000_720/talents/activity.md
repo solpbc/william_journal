@@ -1,0 +1,1 @@
+You ate before church. The loaf was a penny and a finger and a half short. Alse had four willow wands for three marks, and Gib stayed on the shut chronicle. You said the glass was not bought, and that you would not write it into the morning's sheet.

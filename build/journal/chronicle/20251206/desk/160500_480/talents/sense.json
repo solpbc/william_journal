@@ -1,0 +1,85 @@
+{
+  "density": "active",
+  "content_type": "media",
+  "activity_summary": "From behind the arras you had the afternoon in your ear. Pope's Nurse had stopped the play three times. Phillips's Mercutio had been laughed with, and then not. Kemp had said what was set down, and one line more, and the fan was on the boards. The sun was gone before four. When Romeo called for light it was brought. Nick had held under every note. You went on as the Prince and spoke the last line, and nobody moved at first. In a house of two thousand not one nut was cracked through the vault.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Stood behind the arras, then went on as the Prince and shut the play.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Had stopped the play three times as the Nurse, and had left something.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Had been laughed with as Mercutio, and then, very suddenly, not.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Had carried the fan, spoken what was set down, and one line more.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Had played a boy at a run, and had called for the light.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Had come in under every note, and held.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in When he says light",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Went on as the Prince and spoke the last line",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three stops",
+    "the fan and one line more",
+    "light on the word",
+    "the Prince's last line",
+    "a house of two thousand"
+  ],
+  "quotes": []
+}

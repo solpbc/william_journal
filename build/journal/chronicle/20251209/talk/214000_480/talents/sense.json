@@ -1,0 +1,143 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "The steward put a purse in Heminges's hand before the last speech, and not after it. Five pounds. Twelve shillings and sixpence the share. The glass was four shillings, and Heminges did not take it off the five. Lady Hoby thanked Nicholas and Arthur by name. Sir Robert said it was very well penned, and that he had not thought to be made to pity him, and that he would remember that it can be done. You looked at the hand, not the face, and you did not decide the sentence. Lady Hoby ended it: supper, the king has had his say. He rose when the women rose, and not before. Nobody asked the players anything. No errand came of it. The tide was gone. The boys and the baskets went in the cart.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a meaning, and looked at the hand.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir Edward Hoby",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said they would not be asked, and would not gloss the guest.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Margaret, Lady Hoby",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Thanked the boys by name, and closed the talk.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir Robert Cecil",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the one sentence, and rose when the women rose.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took five pounds, named twelve and six, and left the four shillings off the sum.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Saw the rising, and sent the men to walk.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Would not ask, in that light, with the king still in his mouth.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Was thanked by name, and was for the cart.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Was thanked by name, and was for the cart.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Before the last speech",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard the purse and Sir Robert's sentence",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Margaret, Lady Hoby",
+    "George Bryan",
+    "Sir Edward Hoby",
+    "William Shakespeare",
+    "Sir Robert Cecil",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the purse before the last speech",
+    "five pounds",
+    "twelve and six",
+    "four shillings left on",
+    "the one sentence",
+    "thanks by name"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Five pounds. Twelve shillings and sixpence the share. The glass was four shillings. I am not taking four shillings off five pounds."
+    },
+    {
+      "speaker": "margaret_hoby",
+      "text": "Nicholas. Arthur. The house thanks you by your names."
+    },
+    {
+      "speaker": "robert_cecil",
+      "text": "It is very well penned, Master Shakespeare. I had not thought to be made to pity him; I shall remember that it can be done."
+    },
+    {
+      "speaker": "margaret_hoby",
+      "text": "Supper, I think. The king has had his say."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Then I will not bring you a meaning. The king was whole. That is the work."
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "He rises when they rise, and he did not rise before."
+    }
+  ]
+}

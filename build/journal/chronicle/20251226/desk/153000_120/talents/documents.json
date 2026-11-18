@@ -1,0 +1,44 @@
+{
+  "overview": "At the inn you read the line you enter on, and you did not take up a second line. The paper crown and the old velvet were in the room and not yet worn.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the entrance line once, and did not add another."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the first line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the paper crown",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the old velvet",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Read the entrance line"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-26",
+      "meaning": "The line you enter on"
+    }
+  ],
+  "summary": "Read the entrance line"
+}

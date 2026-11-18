@@ -1,0 +1,44 @@
+{
+  "overview": "You came back to the open leaf and read the top of it and the verse. The chronicle was still standing, and you did not take it down. You did not pick up the pen.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the leaf in the afternoon light and left the pen in the rest."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the open leaf",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the dry verse",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the chronicle standing",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Holinshed's Chronicles",
+      "asset_type": "other",
+      "disposition": "Read the morning's leaf again in the afternoon"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-30",
+      "meaning": "Read the open leaf and left the pen down"
+    }
+  ],
+  "summary": "Read the morning's leaf again in the afternoon"
+}

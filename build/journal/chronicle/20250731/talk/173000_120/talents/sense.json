@@ -1,0 +1,72 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the door Anne said she had written don't come. You said her letter said come for harvest, and that the horse was dear. She looked at your feet and sat you down. She dressed two burst blisters with plantain leaf and mutton tallow, in a tub of cold well-water.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered her, and sat in the tub.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat you down and dressed the blisters.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the cloak, and told you to hold still.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Sat and let Anne dress the burst blisters",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare",
+    "Joan Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "don't come",
+    "the dear horse",
+    "the tub"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "I wrote don't come"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Thy letter said come for harvest"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The horse was dear"
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Sit down before you fall down"
+    }
+  ]
+}

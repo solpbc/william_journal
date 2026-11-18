@@ -1,0 +1,1 @@
+You came back from the post and stayed inside. John said the flag and the ground were not your business yet. Margery said the tireman could wait. You left the morning's stitch as the only news on the coat.

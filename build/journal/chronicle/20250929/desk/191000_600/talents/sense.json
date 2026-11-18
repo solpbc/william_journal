@@ -1,0 +1,60 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "After evening prayer you ruled the coffer at twenty-three pound ten. The sixty shillings for Stratford are inside that sum, sewn in canvas apart, for Thursday's carrier. You entered the shares since Bartholomew as 26, 31, 33, 29 and 34 shillings, and you did not add them. The walk, the barn, the thirty shillings to your wife and the cloves are lines already in the book. Quiney's forty stays expected. You wrote no remainder.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Ruled the line, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "\u00a323 10s",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Twenty-three pound ten",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "60s",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Twenty-three pound ten",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "40s expected",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Twenty-three pound ten",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ruled twenty-three pound ten",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the coffer",
+    "twenty-three pound ten",
+    "sixty shillings sewn apart",
+    "the expected forty"
+  ],
+  "quotes": []
+}

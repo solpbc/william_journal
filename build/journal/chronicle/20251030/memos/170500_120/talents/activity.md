@@ -1,0 +1,1 @@
+After the play you had been Gaunt. You died in the play and stood at the tiring-house door after. The jaw held. You did not bring the morning onto that stage. Nick is not mended. The page is still one page, and the bundle stays tied.

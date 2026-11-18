@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "Gib was on the Chaucer. Field's chronicle stood clear beside it. You did not move the cat.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Looked at the shelf and left it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Lay on the Chaucer, and not on the chronicle.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Holinshed's Chronicles",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Found Gib lying on the Chaucer",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Found Gib on the Chaucer",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cat",
+    "the Chaucer",
+    "the chronicle clear"
+  ],
+  "quotes": []
+}

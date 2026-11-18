@@ -1,0 +1,1 @@
+At the lodging, by one candle, you wrote that the share in the purse is thirty shillings. You did not set down what the coffer holds. You noted Edith's eight shillings and the mercer's fifty as not settled. You had no pleasure in the count.

@@ -1,0 +1,89 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At the Theatre in the afternoon the yard smelled of size and new paint. James has had the posts done over like marble and the heavens blue. Behind the arras Garnish had every part of the king's in rolls, tied and named, and the plot ruled on its pasteboard. He put Gaunt's roll into your hand: six weeks to get a dying man's England by heart. The king's roll, he said, would reach from here to the Curtain, and Burbage had it on Monday.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the roll, and did not know his own lines in another man's hand.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed the rolls and the plot, and handed over Gaunt.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in From here to the Curtain",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in From here to the Curtain",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard the Second",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in From here to the Curtain",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Curtain",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in From here to the Curtain",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took Gaunt's roll from Garnish",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Abel Garnish"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the new paint",
+    "the parts in rolls",
+    "the plot on its pasteboard",
+    "Gaunt's roll",
+    "six weeks"
+  ],
+  "quotes": [
+    {
+      "speaker": "abel_garnish",
+      "text": "The king's roll would reach from here to the Curtain. Burbage had it on Monday."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "Six weeks to get a dying man's England by heart."
+    }
+  ]
+}

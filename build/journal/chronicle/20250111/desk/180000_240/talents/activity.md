@@ -1,0 +1,1 @@
+At the Jackdaw, before you read, the foul sheets hold the Worthies without their names, the messenger, the half-line still blank, and the women's year. The objection is not written yet. There is no song and no last line. Burbage has not heard the act.

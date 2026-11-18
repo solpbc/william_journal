@@ -1,0 +1,10 @@
+{"backend": "whisper", "duration": 240.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "20:30:00", "text": "Give me the purse. I will count what should come home, and I will not make a sermon of it.", "timing": {"end": 10.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:30:10", "text": "Count it. The purse is not the coffer.", "timing": {"end": 16.0, "start": 10.0}}
+{"sentence_id": 3, "speaker": "anne_shakespeare", "start": "20:30:16", "text": "A shilling. A shilling. A shilling. And a shilling. These four come home. The road may eat the rest, and I am not naming the rest.", "timing": {"end": 32.0, "start": 16.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "20:30:32", "text": "Four shillings home. I have them.", "timing": {"end": 38.0, "start": 32.0}}
+{"sentence_id": 5, "speaker": "anne_shakespeare", "start": "20:30:38", "text": "Thy shirt. I have turned the collar. Wear it when thou comest in, and do not cut it on the road.", "timing": {"end": 50.0, "start": 38.0}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "20:30:50", "text": "I will not cut it.", "timing": {"end": 56.0, "start": 50.0}}
+{"sentence_id": 7, "speaker": "anne_shakespeare", "start": "20:30:56", "text": "I am not asking thee the question. I asked it. Thou gave me three. I said I would leave it.", "timing": {"end": 68.0, "start": 56.0}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "20:31:08", "text": "I have not a fourth answer in the purse.", "timing": {"end": 74.0, "start": 68.0}}
+{"sentence_id": 9, "speaker": "anne_shakespeare", "start": "20:31:14", "text": "Then do not invent one at the gate. The rag is tied. The collar is turned. That is the whole of what I am handing thee.", "timing": {"end": 84.0, "start": 74.0}}

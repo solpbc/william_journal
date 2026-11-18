@@ -1,0 +1,1 @@
+At breakfast you ate the soft side and refused to prove the jaw. The loaf was a penny and a full thumb short of the notch. You said you were wanted at the Theatre at nine, back when the loaf was cut, and out again at two. You did not name the play. Alse kept the hard end uncut for noon. Gib was on the third tread.

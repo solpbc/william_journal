@@ -1,0 +1,17 @@
+{
+  "narrative": "A foul leaf in his hand, a block of her lines, the candle low. The cousin is dead on the leaf above, and by whose hand. No face. He rules one line through the block. The words stay readable underneath. He does not copy them fair again. Under the struck block, two short lines, and in the margin three words, practical and small. The pen is down. The sheets will go under the cloth.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Cut the eleven lines, wrote the turn, and set the margin."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on draft in Eleven, and the turn"
+    }
+  ]
+}

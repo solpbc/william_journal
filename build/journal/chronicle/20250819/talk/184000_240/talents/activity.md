@@ -1,0 +1,1 @@
+Oxford by six, twenty miles, and the back no worse. Supper among gowns was nine pence. At the next board a scholar was construing Ovid for a wager, and he was wrong. You did not correct him. You did not repeat his line. You ate.

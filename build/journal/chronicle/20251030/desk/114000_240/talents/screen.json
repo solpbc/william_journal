@@ -1,0 +1,23 @@
+{
+  "narrative": "The same sheet on the board. No new line under it. The red bundle is apart, still tied. The pen is not in the ink. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and added nothing."
+    },
+    {
+      "type": "Project",
+      "name": "the one page",
+      "role": "mentioned",
+      "context": "Shown on draft in Still the one page"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "context": "Shown on draft in Still the one page"
+    }
+  ]
+}

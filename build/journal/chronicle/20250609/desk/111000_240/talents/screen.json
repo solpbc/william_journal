@@ -1,0 +1,17 @@
+{
+  "narrative": "A black-letter bill on the table by the window. The title, the house, and the hour. No author's name. No face. The lower lines name the company. There is no sum on the paper, and no receipt. The bill stays on the table. The pen is not taken up. The door of the chamber is still shut.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the title and left the bill on the table."
+    },
+    {
+      "type": "Project",
+      "name": "A Knack to Know an Honest Man",
+      "role": "mentioned",
+      "context": "Shown on bill in A bill, title only"
+    }
+  ]
+}

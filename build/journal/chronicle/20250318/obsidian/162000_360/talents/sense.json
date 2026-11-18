@@ -1,0 +1,52 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote the call down as it happened. The paper was received. Nothing more was said, and you did not ask. The proverb was not copied out and not sent to a printer. The chair is mended, and Master Kemp is not to sit on it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the note and left both the proverb and the chair where the morning had put them.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the paper left at the lodge",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nothing more was asked",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote down Florio's sentence",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "nothing more",
+    "the proverb uncopied",
+    "the chair mended"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Nothing more. I did not ask."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Not sent to a printer."
+    }
+  ]
+}

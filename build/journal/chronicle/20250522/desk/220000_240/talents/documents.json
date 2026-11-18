@@ -1,0 +1,40 @@
+{
+  "overview": "You put a small cross in the almanac and no word beside it. You wrote no name. The king's leaf was not on that page.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Made the cross and wrote no name."
+    },
+    {
+      "name": "the lady of the parish",
+      "role": "mentioned",
+      "formal_term": "the lady of the parish",
+      "appointment_tier": "not_applicable",
+      "context": "Marked a cross in the almanac"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "a small cross",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no name",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-22",
+      "meaning": "A cross, and no name"
+    }
+  ],
+  "summary": "Marked a cross in the almanac"
+}

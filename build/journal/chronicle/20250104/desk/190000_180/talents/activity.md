@@ -1,0 +1,1 @@
+At home you lined the week's payments on the right-hand side of the leaf you opened on Wednesday. Board on Wednesday, threepence. Dinner at the Split Hazel, fourpence. Board on Friday, threepence. Firing and washing, sixpence. You did not write a total. You did not open the coffer. You did not rule a column for money expected and a column for money received.

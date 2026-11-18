@@ -1,0 +1,52 @@
+{
+  "density": "low_change",
+  "content_type": "productivity",
+  "activity_summary": "Back in the close the colliers were still unloading sea-coal beside the brine-tubs. You took a turn with a sack because it was there. The frost was on the casks. Alse had her hands on the rope. You are not in the picture.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Carried a sack, and is not in the picture.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Hands on the rope.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Martinmas stores",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The stores in the passage",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Took a turn with a sack",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the passage",
+    "the brine-casks",
+    "the coal",
+    "Alse's hands"
+  ],
+  "quotes": []
+}

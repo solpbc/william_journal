@@ -1,0 +1,45 @@
+{
+  "overview": "After the play you wrote four lines. You said the chamber was still yours and that you were well. You gave her nothing of the day. You said Gilbert had agreed to fetch what the carrier left. You named no house, no age, no illness and no fee.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote four plain lines and stopped."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Was not in the room. The lines were addressed to her and not answered by her."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "four lines",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the chamber",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Gilbert's errand",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-24",
+      "meaning": "Four lines, and not the brook"
+    }
+  ],
+  "summary": "Wrote four lines home"
+}

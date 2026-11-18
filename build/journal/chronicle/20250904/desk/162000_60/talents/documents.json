@@ -1,0 +1,44 @@
+{
+  "overview": "The afternoon was Richard the Third, at two of the clock. You were dead by the third act, and the gown was off by four. Your side was an old man's. This was not the queen's garden from the morning.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Left the gown, and left the plot as the afternoon's."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Richard the Third",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "done by the third act",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the gown off",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard the Third",
+      "asset_type": "other",
+      "disposition": "Came out of the gown by four"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-04",
+      "meaning": "Out of the gown"
+    }
+  ],
+  "summary": "Came out of the gown by four"
+}

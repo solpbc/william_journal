@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "timestamp": "2025-03-15T21:15:00Z",
+  "outcome": "served",
+  "reason": null,
+  "result": {
+    "count": 1,
+    "targets": [
+      "facets/company/activities/20250315.jsonl#meeting_091000_600"
+    ],
+    "digest": "45de2a61fccf9f4e0837d4bea21e35fa76a6a186730aaa2dca15b8792e263415"
+  }
+}

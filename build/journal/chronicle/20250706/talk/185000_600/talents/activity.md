@@ -1,0 +1,1 @@
+At supper the loaf was still a penny and still a thumb short. Alse had misheard Saturday's line through the floor, and you stopped her taking it into the yard. The letter on the board still names no day, is still not folded, and is still not going to the Bell. The carrier on the seventeenth is not this sheet.

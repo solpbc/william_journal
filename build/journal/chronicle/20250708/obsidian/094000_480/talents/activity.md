@@ -1,0 +1,1 @@
+You filled the margin with the practical questions. Weapon against buckler, who restrains whom, six men from two doors, and where the Prince stands. The old spellings on the sheet are the ones already in Saturday's lines. You did not add the Prince's sentence.

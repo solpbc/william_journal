@@ -1,0 +1,63 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Alse came up because the hall was done, and she offered bread. You refused it. You told her the flat sheet was the letter and that she was to leave it. She had not taken it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the letter on the board and said good night.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the sheet, moved the cat, and went down.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Went from the chronicle to the Chaucer.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came home and let Alse shift the cat",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the hall done",
+    "bread refused",
+    "the letter left flat"
+  ],
+  "quotes": [
+    {
+      "speaker": "alse_pinder",
+      "text": "There is bread if you want it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The letter is the flat one. Leave that one where it is."
+    }
+  ]
+}

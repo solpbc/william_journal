@@ -1,0 +1,68 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "You wrote Anne in the familiar way. The wash stands at fourpence a week, already paid. You set the Christmas money down as so much for the house, so much for the shop's debts, and so much she may spend without writing first. You did not write the figures. You asked whether the string-and-spool engine still works, or has been forbidden. The page does not argue. It has not been sent.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the fair page and left it on the board.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Had decided the wash. She was not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "fourpence a week",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The letter he can answer",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Christmas money",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The letter he can answer",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the string-and-spool engine",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The letter he can answer",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Wrote Anne about the wash and the Christmas money",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the wash",
+    "so much three times",
+    "the engine",
+    "not sent"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,44 @@
+{
+  "overview": "On the Bishopsgate post you read The Venetian Comedy, first, as you read the Rose's bill first. The bill named no author and no price. You did not go.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the title first, and left the post."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "one title",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no price",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the post",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Venetian Comedy",
+      "asset_type": "other",
+      "disposition": "Read The Venetian Comedy on the post"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-08",
+      "meaning": "The Venetian Comedy"
+    }
+  ],
+  "summary": "Read The Venetian Comedy on the post"
+}

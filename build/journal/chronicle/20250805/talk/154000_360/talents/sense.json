@@ -1,0 +1,55 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At four Bartholomew stopped the binding. You had been at it since six, with the dinner hour out of the middle. He sent you home to wash. The stooks stayed with the ground between them.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped, and did not rearrange the stooks.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Bartholomew Hathaway",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ended the day, and left the field as it stood.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Stopped binding at four with the stooks still standing",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Bartholomew Hathaway",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "four o'clock",
+    "the hands",
+    "the stooks left standing"
+  ],
+  "quotes": [
+    {
+      "speaker": "bartholomew_hathaway",
+      "text": "Four. Leave the hook"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I'll wash at home"
+    }
+  ]
+}

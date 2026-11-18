@@ -1,0 +1,1 @@
+At home the supper with Quiney is Monday at six. You paid nothing today toward it. Kemp's tally was shut at the Jackdaw and not before. The three sheets are not a finished play. You are not writing the rest tonight. Anne's letter is still unsent.

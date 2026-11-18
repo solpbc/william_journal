@@ -1,0 +1,1 @@
+On a board at Paul's you found The True Tragedie of Richard Duke of Yorke, as acted by the Earl of Pembroke his servants, printed for Thomas Millington, 1595. You opened it standing. It fell at the one line. You read two pages, yours, mostly, with holes. You did not buy it.

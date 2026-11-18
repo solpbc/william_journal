@@ -1,0 +1,49 @@
+{
+  "overview": "You took the quire. You wrote nothing of the nine articles on it, and nothing in any book. The price paid was fourpence halfpenny. Crown paper stayed unpriced.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Took the quire and wrote nothing."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the quire",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nothing written",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "fourpence halfpenny",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the quire",
+      "asset_type": "other",
+      "disposition": "Took the quire home"
+    },
+    {
+      "name": "fourpence halfpenny",
+      "asset_type": "other",
+      "disposition": "Took the quire home"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-20",
+      "meaning": "Nothing written down"
+    }
+  ],
+  "summary": "Took the quire home"
+}

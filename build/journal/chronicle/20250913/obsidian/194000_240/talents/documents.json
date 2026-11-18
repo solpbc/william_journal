@@ -1,0 +1,70 @@
+{
+  "overview": "You wrote the share as thirty-three shillings. You wrote that the coffer was not opened, and that it stands as ruled at twenty pound fifteen. Heminges sends to Kettleby tonight. Monday is as billed. Kemp said tour, and the room did not agree. You did not make a new total.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the share, and did not open the coffer."
+    },
+    {
+      "name": "John Heminges",
+      "role": "mentioned",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Sends tonight. The leaf is yours."
+    },
+    {
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "formal_term": "Will Kemp",
+      "appointment_tier": "not_applicable",
+      "context": "Said tour, and was not agreed with."
+    },
+    {
+      "name": "Ambrose Kettleby",
+      "role": "mentioned",
+      "formal_term": "Ambrose Kettleby",
+      "appointment_tier": "not_applicable",
+      "context": "The man the message goes to. Not in the house."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "thirty-three shillings",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the coffer not opened",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "twenty pound fifteen",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "tour not agreed",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "thirty-three shillings",
+      "asset_type": "other",
+      "disposition": "Wrote thirty-three beside the old ruling"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-13",
+      "meaning": "Thirty-three, and the old ruling"
+    }
+  ],
+  "summary": "Wrote thirty-three beside the old ruling"
+}

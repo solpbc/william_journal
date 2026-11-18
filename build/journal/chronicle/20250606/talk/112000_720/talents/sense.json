@@ -1,0 +1,82 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Rehearsal of Richard the Third began with the street still audible. You set the work on the company's drum, and you told them a noise from the road was not theirs. A shout came. Cowley said he heard it and was not going. Nobody turned to the lane on the second drum. Larkham's list stayed what it had been: people running toward the noise, and this company not among them.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the drum against the street, and refused the road a second time.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the shout, looked at Pope, and did not go.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Separated the outside noise from the drum, and did not add a figure.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed on his cue, and meant to be louder than the memory of the gate.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard III",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The scene, with the street in it",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed Richard the Third while the street was still audible",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Pope",
+    "William Shakespeare",
+    "Richard Cowley",
+    "Humphrey Larkham"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the drum",
+    "a shout from the road",
+    "not going down",
+    "Richard the Third"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The street is not in the book."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Don't stop."
+    }
+  ]
+}

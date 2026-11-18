@@ -1,0 +1,9 @@
+{"backend": "whisper", "duration": 360.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "george_bryan", "start": "10:00:00", "text": "Eleven lines. A fair copy. They have asked which reading is current. I am on my way west, and I need the one they should have.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "10:00:16", "text": "There are two. In the first the phrase is longer, and it explains itself. In the second it is cut, and the cut does the work. If you have a moment I can say why each of them\u2014", "timing": {"end": 36.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "george_bryan", "start": "10:00:36", "text": "I have not a moment for why. Which one is current?", "timing": {"end": 46.0, "start": 36.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "10:00:46", "text": "The shorter. Take that. I will mark it, so the sheet cannot drift back into an essay.", "timing": {"end": 60.0, "start": 46.0}}
+{"sentence_id": 5, "speaker": "george_bryan", "start": "10:01:00", "text": "Mark it, then.", "timing": {"end": 68.0, "start": 60.0}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "10:01:08", "text": "A cross. Here. This is the one.", "timing": {"end": 78.0, "start": 68.0}}
+{"sentence_id": 7, "speaker": "george_bryan", "start": "10:01:18", "text": "A cross is enough. I am gone. If you improve it after I leave, improve it on another paper. This one has to stay sure.", "timing": {"end": 94.0, "start": 78.0}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "10:01:34", "text": "Go. I will not put the second thought on this sheet.", "timing": {"end": 104.0, "start": 94.0}}

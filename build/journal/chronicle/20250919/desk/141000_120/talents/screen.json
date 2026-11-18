@@ -1,0 +1,29 @@
+{
+  "narrative": "The plot on the peg. The hour under the title. A hand at the peg. No part-slip beside it. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Played, and brought no part-name away."
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "context": "The name is his, from last night. He is not on this plot."
+    },
+    {
+      "type": "Person",
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "mentioned",
+      "context": "They had the name by this afternoon."
+    },
+    {
+      "type": "Project",
+      "name": "Titus",
+      "role": "mentioned",
+      "context": "Shown on plot in Titus, no name of a part"
+    }
+  ]
+}

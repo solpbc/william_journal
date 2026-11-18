@@ -1,0 +1,68 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Kemp met you on the way up and mended a child's dance. She asked him again at once, and he did it again. Thomas Pope was on the road to the house and told him to come. You kept the garland that went over the mud.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Mended the dance twice and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told him to give the second, and kept the garland.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called him off the lane and walked up with you.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Saw the dance mended twice",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Will Kemp",
+    "William Shakespeare",
+    "Thomas Pope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the dance",
+    "again",
+    "the garland"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "I have improved it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "On a May morning a man does not refuse a child a second foot."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Again is done."
+    }
+  ]
+}

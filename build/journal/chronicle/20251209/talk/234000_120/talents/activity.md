@@ -1,0 +1,1 @@
+At Somerset House's gate he came out of the king and was only cold. He asked if the little man had liked it. You said he had said he would remember, and that this was what had been said, not a verdict. You go on by Fleet Street, Ludgate and Cheapside, and you part at the mouth of the close. Those streets are the walk. This is the gate where he asked.

@@ -1,0 +1,1 @@
+Before light, with both locks off, you kept nine shillings out for the journey and counted the rest. The rest was thirty-three pounds, even. You did not add the nine back, and you did not write another total beside it.

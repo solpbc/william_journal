@@ -1,0 +1,17 @@
+{
+  "narrative": "The penny almanac at the lodging window. One printed line. No hour is written by the hand. No face. The margin is clear. He does not mark the dark.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the line and shut the book."
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in Read the new moon in the almanac"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Before dinner you showed Susanna how to turn a dozen into shillings before adding a line. Twelve at fourpence was an example on the slate, and nothing was bought for it. She cast a May-fair story of your father's and found the pair at eightpence where the telling had grown it to nine. Your mother told her not to correct him at the table. The winter list stayed as it was written.

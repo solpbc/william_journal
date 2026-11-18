@@ -1,0 +1,125 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "After the Shrew, which you did not play, the tiring-house door shut. You gave them Kettleby word for word. John said twice that if you are sent for you go, and that a company which asks the Queen for money down is not sent for twice. The cost is the boat, the lodging, and the boys' meat for five days, out of a stock that holds six pound. Kemp stopped on being first, and told the grocer to be first. George will stand with John. You were second on the Queen's paper once. Tom said you were paid before Easter. No sum was written.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the call word for word, refused a second place on the paper, and kept the column empty.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the matter twice, named the six pound and the shoes, and shut the book on the question.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Began to claim the first place, stopped, and gave it to the grocer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the sending-for in plain words, and told him to keep the column empty.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood with Heminges and refused to spend the six pound in talk.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked to hear the sentence twice, and remembered being paid before Easter.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked after the king, and kept the boys' five days inside the six pound.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "the stock of six pound",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The door shut",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Shrew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The door shut",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Gave them Kettleby's call",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Augustine Phillips",
+    "Thomas Pope",
+    "George Bryan",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the shut door",
+    "six pound",
+    "the grocer",
+    "no sum"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "If we're sent for, we go."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Let the grocer be first. He likes a passage to wait in."
+    },
+    {
+      "speaker": "thomas_pope",
+      "text": "And you were paid before Easter. Ah, the old days."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will write that it is expected."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+You were not cast. From the parlour door you heard the gowns laugh before a line was done. Margery had thirty-three shillings in her box. You did not put the comedy on her stair. The thirty-three shillings were hers, not a share.

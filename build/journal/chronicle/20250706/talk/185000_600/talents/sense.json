@@ -1,0 +1,93 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At supper the loaf was still a penny and still a thumb short. Alse had misheard Saturday's line through the floor, and you stopped her taking it into the yard. The letter on the board still names no day, is still not folded, and is still not going to the Bell. The carrier on the seventeenth is not this sheet.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped the line, and left the sheet where it was.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the price, the thumb, and the carrier's day.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Offered the misheard line, and did not take it outside.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate, and did not offer to carry the letter.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Stayed on the floor, near the end of the loaf.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A thumb short, and the sheet still open",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stopped Alse taking the misheard line into the yard",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a thumb short",
+    "a line stopped at the yard",
+    "a letter with no day"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Penny loaf. Still a thumb short of the notch"
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "Gregory will not carry cold"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It is not folded. It is not going."
+    }
+  ]
+}

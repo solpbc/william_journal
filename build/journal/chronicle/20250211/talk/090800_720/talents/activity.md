@@ -1,0 +1,1 @@
+At nine you rehearsed at the Cross Keys. Garnish kept Thursday's two stops and did not take a third. Nick was not fetched, and the songs stayed as they were. You were not in the afternoon's Knave, and you said so. Kemp was civil. You did not open a tally. You told the room Davy's forty ships and did not correct the number. Nothing was bought.

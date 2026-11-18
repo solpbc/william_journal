@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "After Errors you stood a minute with Kemp and Burbage. The yard had been full at two. You had a speech at each end and a stool between, and you said you were well. The cake at Holywell was next. You did not stay to tell the play over.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered for the tale and the cold, and went.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the stool and refused a written silence.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Turned them toward the cake.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Off the stage",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took the cloak for Holywell",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Will Kemp",
+    "William Shakespeare",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a holiday yard",
+    "Egeon's two speeches",
+    "the cake next"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The tale is long, and I have said it since Christmas."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "You had a speech at each end and a stool in the middle"
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Holywell is after this, and my mother has a cake"
+    }
+  ]
+}

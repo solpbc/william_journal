@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Once you were flat on the bed over the hall, Anne was another woman. She shut the shutter, put a bag of hot bran to the back, and kept her hands there. Then she said it, in this order: you were a great fool, you were to lie still, and she had you. You stayed.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Lay flat, and agreed to stay.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Shut the shutter, set the bran, and kept him.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the hot bran",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Lie still",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Lay still on the bed over the hall",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the bed over the hall",
+    "the hot bran",
+    "the shutter",
+    "Anne's one kind sentence"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "You great fool. Lie still. I have you."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "The plot had an audience. This room does not."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I'll stay."
+    }
+  ]
+}

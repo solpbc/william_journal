@@ -1,0 +1,49 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At home you said the king is about to be unkinged, and not tonight. You said the parliament sheet is still blank. Then you stopped.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the three sentences and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not tonight",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said the king is about to be unkinged",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "not tonight",
+    "the blank parliament"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "He's about to be unkinged. Not tonight."
+    }
+  ]
+}

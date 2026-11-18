@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "The leaf was shut. Field took one lantern as far as the corner of the lane, and no farther. You kept the pages in the fold they had come in. Jacqueline left the cups on the oak. You did not answer her a second time.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Walked to the corner of the lane with Field",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Walked to the corner of the lane with Field",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Jacqueline Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Walked to the corner of the lane with Field",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read the pages by Field's fire",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Field",
+    "William Shakespeare",
+    "Jacqueline Field"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one lantern",
+    "the corner",
+    "the cups left"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_field",
+      "text": "One lantern. I will take it as far as the corner of the lane, and then it comes back with me."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The pages are in the same fold they came in."
+    },
+    {
+      "speaker": "jacqueline_field",
+      "text": "I have already wished you gone."
+    }
+  ]
+}

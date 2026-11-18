@@ -1,0 +1,64 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You shut the leaf on the morning's last sentence. Field said he would walk you to the corner once the cloak was on, and not a yard past it. Jacqueline told you not to open the fold again on the stair. You said the cups were hers.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Shut the leaf on the morning's last sentence",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Shut the leaf on the morning's last sentence",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Jacqueline Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Shut the leaf on the morning's last sentence",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read the pages by Field's fire",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Richard Field",
+    "Jacqueline Field"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the leaf shut",
+    "the corner not yet",
+    "the cups hers"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "She sees him. That is the last of it."
+    },
+    {
+      "speaker": "richard_field",
+      "text": "Not a yard past it."
+    }
+  ]
+}

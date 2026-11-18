@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "Two riders met at the barrier. Splinters hung in the air. The stands were a blur. You were a hundred yards off, behind other men. Ten pairs ran. My lord of Essex against my lord of Cumberland. The herald cried my lord of Southampton against Scudamore. The earl kept his seat, as far as you could tell. The Queen was a stillness behind glass at the far end. A speech was aimed at her window. Nobody near you heard a word of it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Stayed behind the barrier.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Robert Devereux, Earl of Essex",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Ran against Cumberland. He did not speak to you.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Henry Wriothesley, 3rd Earl of Southampton",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Was cried against Scudamore. He kept his seat, as far as you could tell.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Queen Elizabeth",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "A stillness behind glass. She did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "ten pairs",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Behind the barrier",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood a hundred yards off",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two riders",
+    "a hundred yards off",
+    "ten pairs",
+    "a stillness behind glass"
+  ],
+  "quotes": []
+}

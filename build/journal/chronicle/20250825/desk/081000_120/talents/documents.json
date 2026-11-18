@@ -1,0 +1,49 @@
+{
+  "overview": "At the lodging you read Monday's leaf. The new moon, then Love's Labour's Lost at the Theatre at two, and you play, and under it the Rose's Knack to know an honest man. You read the Rose's line first.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the almanac at the table."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the new moon",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Love's Labour's Lost",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Rose's Knack",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Read the Rose's line first"
+    },
+    {
+      "name": "the Rose",
+      "asset_type": "other",
+      "disposition": "Read the Rose's line first"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-25",
+      "meaning": "Both lines in the almanac"
+    }
+  ],
+  "summary": "Read the Rose's line first"
+}

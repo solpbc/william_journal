@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Alone, you set the limit once. The king has the week through Thursday. The tooth comes after, and not before.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the order, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the tooth",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in After Thursday",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Set the tooth after Thursday, with the king before it",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "after Thursday",
+    "the king",
+    "the tooth"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The king first. Then the tooth, and welcome to it."
+    }
+  ]
+}

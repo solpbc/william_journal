@@ -1,0 +1,104 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "In the south porch after morning prayer, Master Thwaite had turned the glass twice, and Sir John Spencer had gone out with no sword-bearer and without speaking. Mistress Ansell said she had not heard you walk in the night. You told her the dagger was in and the two fathers were still outside. She took your back for Tuesday's stores after a quarter past ten. Alse said the loaf was a full thumb short of the notch and still a penny. You did not dip the pen.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the glass, did not hail Sir John, and named a quarter past ten.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Noted the quiet night and took his shoulders for Tuesday.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Turned the glass twice and did not hail Sir John.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the Tuesday salting and the loaf, still a penny and still short.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Went out from his pew. He did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The south porch",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The south porch",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Promised Mistress Ansell his back for Tuesday's stores",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "morning prayer",
+    "the glass turned twice",
+    "no sword-bearer",
+    "the unpaced night",
+    "Tuesday's back",
+    "the short loaf"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "You did not walk last night."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Not finished. The dagger is in."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A quarter past ten, and then Leadenhall."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "john_heminges", "start": "09:05:00", "text": "Nine, and not eleven. You are for Blackfriars, then the Bell.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "09:05:12", "text": "Field, then Hobbins. I will be back for two.", "timing": {"end": 24.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "thomas_pope", "start": "09:05:24", "text": "Two is yours if you are here. We are not holding an entrance for a book.", "timing": {"end": 36.0, "start": 24.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "09:05:36", "text": "I will be here. Egeon does not need a longer morning than this.", "timing": {"end": 48.0, "start": 36.0}}
+{"sentence_id": 5, "speaker": "john_heminges", "start": "09:05:48", "text": "Then go. The rest of them can stumble without you.", "timing": {"end": 58.0, "start": 48.0}}

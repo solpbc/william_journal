@@ -1,0 +1,51 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "You wrote the music, the groom, and the men who come to kill him. He dies fighting, which you had not known he would. The coffin is brought to the cousin, who has what he wanted and must now wear it. Gib was still on the chronicle.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the death and the coffin, and did not plan the fight before the line.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Stayed on the Holinshed.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in He dies fighting",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote him dying in a fight, and the coffin to the cousin",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the groom",
+    "the death",
+    "the coffin"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,116 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Kemp read the fair roll and said he can no longer make up what is set down. You told him to make something new at Easter, and that you would then have a long play. He threatened three minutes with a turnip if the cut stands. Burbage spoke a king's speech to the empty galleries, heard them give it back, and said the house likes a king. He asked for an English king whose crown burns his forehead, to wash Tamburlaine out of London's mouth, and not the hunchback again. Pope said the cap is the cue, and that nobody has won. The visible cue is Kemp's cap off on the ninth line. Garnish will not enter the turnip.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Promised to set new matter down at Easter, and named the cap.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Objected to being pinned, and kept the turnip as a threat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the empty galleries a king, and asked for a different one.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed the recopied roll, and entered the cap, not the turnip.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Measured the argument against the business, and called it done.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Tamburlaine",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Now I can't make it up",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Kemp's cap",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Now I can't make it up",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "a turnip",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Now I can't make it up",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Set Kemp's cap off as the exit on the ninth line",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Will Kemp",
+    "Abel Garnish",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Thomas Pope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "nine lines set down",
+    "a long play",
+    "the turnip",
+    "a king in an empty house",
+    "the cap"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "You've set down what I made up. Now I can't make it up."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Then we'll have a long play."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "This house likes a king."
+    },
+    {
+      "speaker": "thomas_pope",
+      "text": "The argument has now run longer than the business."
+    }
+  ]
+}

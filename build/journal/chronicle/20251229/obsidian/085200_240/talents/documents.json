@@ -1,0 +1,59 @@
+{
+  "overview": "On two leaves you had the purse and the nights apart. The received leaf is my lord's four pounds, for hose, in eight parts of ten shillings, of which yours is ten. The expected leaf is the Queen's three nights, not yet had. An office is still empty. Twelfth Day is written as the day you are looked for again. You did not add the two leaves into one sum.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Kept the page to the two leaves and did not add a total."
+    },
+    {
+      "name": "John Heminges",
+      "role": "mentioned",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Not at the page. The division was already his."
+    },
+    {
+      "name": "Henry Carey, 1st Lord Hunsdon",
+      "role": "mentioned",
+      "formal_term": "Henry Carey, 1st Lord Hunsdon",
+      "appointment_tier": "not_applicable",
+      "context": "Not at the page. The purse was his."
+    },
+    {
+      "name": "Queen Elizabeth",
+      "role": "mentioned",
+      "formal_term": "Queen Elizabeth",
+      "appointment_tier": "not_applicable",
+      "context": "Not at the page. Her nights stayed expected."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "two leaves",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "ten shillings",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the three nights expected",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-29",
+      "meaning": "Two leaves"
+    }
+  ],
+  "summary": "Wrote the purse on one leaf and the three nights on the other"
+}

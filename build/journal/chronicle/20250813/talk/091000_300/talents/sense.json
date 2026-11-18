@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Your mother had you moved to the chamber floor, on a folded blanket, with a bolster under the knees. She rubbed in a grease of her own mother's making that smelled of bay, with a thumb like a joiner's. Under her breath went the small old grace. You knew it, and you did not remark on it. You thanked her for the grease only.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the floor, thanked her for the bay, and left the grace unanswered.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Laid him flat, rubbed the grease in, and said the grace under her breath.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the grease of bay",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Grease of bay",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Lay on the floor and thanked Mother only for the grease",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mary Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the chamber floor",
+    "the bolster",
+    "grease of bay",
+    "the old grace"
+  ],
+  "quotes": [
+    {
+      "speaker": "mary_shakespeare",
+      "text": "The bed is too soft, son."
+    },
+    {
+      "speaker": "mary_shakespeare",
+      "text": "It is bay, and it is not a miracle"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I'll stay. I heard you."
+    }
+  ]
+}

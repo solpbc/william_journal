@@ -1,0 +1,23 @@
+{
+  "narrative": "The chronicle, open all week, now shut. The king's leaf is the other side of the board, the new line still wet. A purse set beside the book, not opened, not counted. Gib steps onto the shut cover and settles. He is not lifted. The cover shows no title to the room, only the cat.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Shut the book, left the cat, and left the chest uncounted."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Settled on the shut cover."
+    },
+    {
+      "type": "Project",
+      "name": "Holinshed",
+      "role": "mentioned",
+      "context": "Shown on book in The chronicle shut"
+    }
+  ]
+}

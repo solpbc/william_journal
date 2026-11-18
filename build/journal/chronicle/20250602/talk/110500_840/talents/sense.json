@@ -1,0 +1,82 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "You rehearsed The Comedy of Errors with Phillips, Cowley and Pope. The hat was on the wrong peg and fell when the door stuck. Phillips set the entrance at twelve paces from the property-chest, and Cowley came in on \"anon.\" You told them to let the hat fall at two, if it fell, and go on. The bill is two of the clock.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told them to leave the hat, take the cue, and eat before two.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the entrance at twelve paces and the cue on \"anon,\" and kept the peg for himself at the half hour.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the cue, and said he would walk the twelve paces once in the yard.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Claimed the hat, got out of the doorway, and stayed for cold meat in the tiring-house.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A hat on the wrong peg",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Told them to let the hat fall and go on",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Augustine Phillips",
+    "Richard Cowley",
+    "Thomas Pope",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the wrong peg",
+    "twelve paces",
+    "the cue on anon",
+    "two of the clock"
+  ],
+  "quotes": [
+    {
+      "speaker": "augustine_phillips",
+      "text": "Twelve paces from the property-chest."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Two of the clock. The rest of it has been played before, and it can be played again."
+    }
+  ]
+}

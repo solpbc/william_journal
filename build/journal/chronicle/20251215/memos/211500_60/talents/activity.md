@@ -1,0 +1,1 @@
+Alone, you said you have not got a third poem. You named the duke, the four lovers, and the weaver, and you said none of them is a book for Field's Friday. You kept the second volume as not done with you. You stopped on the goose.

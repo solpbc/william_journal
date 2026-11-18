@@ -1,0 +1,60 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You sat while he read. An hour and a quarter, the pen in his hand, and the pen did not come down. The office was full of tilt-staves and painted paper for Monday. You saw no mark on the play.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Sat, and saw no stroke.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Tilney",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Read with the pen in his hand and did not use it.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Sat with the fee not yet counted.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The pen does not come down",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Sat through the reading",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the pen still up",
+    "a clean margin",
+    "tilt-staves",
+    "painted paper"
+  ],
+  "quotes": []
+}

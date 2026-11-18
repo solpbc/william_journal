@@ -1,0 +1,77 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "In the morning you looked at the children's hose, as the list had said, and nothing was bought. Susanna's were whole at the heel. Judith's were not. Hamnet's had a thin place at the knee. You did not make the looking into a walk, or into a house.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Looked, and bought nothing, and named no house.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Closed the looking as obedience to the list.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the morning to a bench, and the fair to its own date.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the three pairs, and spent nothing in the reporting.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Looked at the hose and put them back",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mary Shakespeare",
+    "Susanna Shakespeare",
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the hose",
+    "nothing bought",
+    "the bench"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Nothing is bought this morning"
+    },
+    {
+      "speaker": "mary_shakespeare",
+      "text": "Today is only hose on a bench"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I looked. I did not buy"
+    }
+  ]
+}

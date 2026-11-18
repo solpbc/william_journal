@@ -1,0 +1,44 @@
+{
+  "overview": "You wrote the bar-counts in the margin of the feast leaf, where Garnish will find them. Sixteen bars for the welcome and the voice under the mask, then the viol down, then the fourteen lines over it. You did not copy a speech onto the margin.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the counts and did not add a speech."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the margin",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "sixteen bars",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the feast leaf",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Capulet feast",
+      "asset_type": "other",
+      "disposition": "Wrote the bar-counts in the margin"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-14",
+      "meaning": "The count in the margin"
+    }
+  ],
+  "summary": "Wrote the bar-counts in the margin"
+}

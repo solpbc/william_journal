@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 300.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "15:44:00", "text": "Shut the door. Joan has them. A shut door is how this house keeps the rest of a Sunday.", "timing": {"end": 190.0, "start": 60.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "15:46:10", "text": "Shut. The boats are on the step. I am looking once, and then I am walking.", "timing": {"end": 200.0, "start": 190.0}}

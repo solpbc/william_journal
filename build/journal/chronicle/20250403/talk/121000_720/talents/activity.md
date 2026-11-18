@@ -1,0 +1,1 @@
+At the Sadlers' bakehouse Judith Sadler told you to sit. You offered to make Anne's purchase and found you knew less than she did. Hamnet Sadler told Anne the loaf was light, and said he was not teaching you. She let you finish once you had listened. A penny each for the twins. Susanna's went into a paper. She was not there.

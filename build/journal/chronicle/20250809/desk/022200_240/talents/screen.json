@@ -1,0 +1,17 @@
+{
+  "narrative": "The foul sheet weighted again by the stone, the inkhorn still in the knot-hole, two quills beside it, the lantern out.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Left the sheet, and went in."
+    },
+    {
+      "type": "Project",
+      "name": "the orchard scene",
+      "role": "mentioned",
+      "context": "Shown on draft in The sheet as it will be found"
+    }
+  ]
+}

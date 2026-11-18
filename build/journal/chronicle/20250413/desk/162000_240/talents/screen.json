@@ -1,0 +1,23 @@
+{
+  "narrative": "Holinshed lies open where the cat has left a margin. The page is a king brought into a city behind another man, and dust thrown on his head. No pen is in the hand. Nothing is written in the margin.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the page, and wrote nothing."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Lay on the chronicle."
+    },
+    {
+      "type": "Project",
+      "name": "Holinshed",
+      "role": "mentioned",
+      "context": "Shown on book in A king behind another man"
+    }
+  ]
+}

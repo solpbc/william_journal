@@ -1,0 +1,17 @@
+{
+  "narrative": "A fresh stretch of the same sheet. A count in the margin. No face. One line under the count. The pen rests.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the count and the reason, and left him the length."
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "context": "Shown on draft in Forty lines"
+    }
+  ]
+}

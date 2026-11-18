@@ -1,0 +1,46 @@
+{
+  "overview": "You read the one line Heminges had entered. It says Navarre ended this day. It does not give a length, a fee, or a share.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the line and did not add a sum."
+    },
+    {
+      "name": "John Heminges",
+      "role": "attendee",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Had written the line. He did not write a share under it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the account book",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the one line",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Read Heminges's line that Navarre ended this day"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-21",
+      "meaning": "Navarre ended this day"
+    }
+  ],
+  "summary": "Read Heminges's line that Navarre ended this day"
+}

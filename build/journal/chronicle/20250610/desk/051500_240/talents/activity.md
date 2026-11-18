@@ -1,0 +1,1 @@
+You began the first sheet. The place was Westminster Hall, the cousin in the chair's shadow, the King sent for to give it up with his own mouth. You wrote the crown held in two hands like a well with two buckets, and the line where it is given. The sheet was not a quarter full. The chronicle stayed shut.

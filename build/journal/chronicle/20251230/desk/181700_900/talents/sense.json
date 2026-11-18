@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "By candle you looked at the four lines, took the packet, and left the letter on the board. You did not add a fifth line, and you did not put the letter with the pages.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "attendee in Picked up the packet for Field's",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote what goes out and what stays",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the four lines",
+    "the packet in the hand",
+    "the letter left"
+  ],
+  "quotes": []
+}

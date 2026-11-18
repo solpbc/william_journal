@@ -1,0 +1,58 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At the window you said the play at the Theatre was thin and that you were a duke in it. You did not name the play. You said what your father used to tell of this day, the trades on waggons and Herod in the street, all of it gone before you could see it. He tells it as a man tells a fair he was at. You said players are now a thing the Mayor writes letters about. Same trade. Different day. You named no town.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the thin play and the duke, then the waggons and Herod, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Theatre",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Same trade, different day",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said a duke was in the thin play, and told Father's fair",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a duke",
+    "the waggons",
+    "the Mayor's letters"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The play at the Theatre was thin, and I was a duke in it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "All gone before I could see it. He tells it as a man tells a fair he was at."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Same trade. Different day."
+    }
+  ]
+}

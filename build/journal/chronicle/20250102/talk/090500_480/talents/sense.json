@@ -1,0 +1,90 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "At the morning rehearsal the plot stayed on the door. You are Egeon. You speak, and then you sit two hours while the play goes on without you. Garnish would not have the book mended. Burbage heard that the two hours are the wait and not the speech, and told you to keep your own page under your arm. Kemp kept the laugh. You did not give them the old man's tale, and you did not come early.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the wait, refused a rewrite, and kept the page for home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the plot on the door and refused new cuts.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the shape of the part and told him not to read the page.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the two hours, kept the laugh, and told him to save the proclamation.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in You speak, and then you sit",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed Egeon's speech and the two-hour wait",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "William Shakespeare",
+    "Will Kemp",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the plot on the door",
+    "Egeon",
+    "two hours",
+    "no new cuts"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The two hours are not the speech. The speech ends. Then I wait, and the play goes on without me."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "The book is not to be mended this morning."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Keep it under thine arm, if thou must. Do not read it at us."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Two hours, by my hose, in a parlour that has never heard of a fire."
+    }
+  ]
+}

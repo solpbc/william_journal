@@ -1,0 +1,1 @@
+Alse brought two pence of cloves. You said you would enter them once, at the week's reckoning. Mistress Ansell saw Tuesday's three sockets and saved the speech. The loaf is still a penny and a full thumb short. Board was threepence. Monday's sixpence stays a different coin. You asked for one candle tonight. The sheet stays Monday's.

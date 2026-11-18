@@ -1,0 +1,1 @@
+In the morning you looked at the children's hose, as the list had said, and nothing was bought. Susanna's were whole at the heel. Judith's were not. Hamnet's had a thin place at the knee. You did not make the looking into a walk, or into a house.

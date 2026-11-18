@@ -1,0 +1,90 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "With the children left in Joan's charge, you and Anne walked the field path toward Shottery. She named who held the close before her father, which hedge her brother laid, and a stile where a cousin broke an arm at seven. You began to turn the stile into a tale, heard yourself, and stopped. She noticed. You talked of the carrier on the eighteenth, the horses' pace, and what you will carry: the pack, the sheets, and the inkhorn. In the yard Bartholomew said the wheat was thin, and said to leave it. After that you walked without talking, and the silence was neither a quarrel nor a peace.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in The field path to Hewlands",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in The field path to Hewlands",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Bartholomew Hathaway",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in The field path to Hewlands",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the carrier on the eighteenth",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The field path to Hewlands",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the pack",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The field path to Hewlands",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Started along the field path",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare",
+    "Bartholomew Hathaway"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the close",
+    "the hedge",
+    "the stile",
+    "the eighteenth",
+    "four words of wheat"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "A cousin broke an arm there at seven, showing off."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "That was thine. I had the turn already made, and it was not mine to make."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "The horses go at a horse's pace, not at yours."
+    },
+    {
+      "speaker": "bartholomew_hathaway",
+      "text": "Thin wheat. Leave it."
+    }
+  ]
+}

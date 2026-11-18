@@ -1,0 +1,46 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You tried the letter out loud and cut it. You kept the three nights as liked, the laugh as once, and the brook as two sentences. You kept nine pounds as a difference. You did not put Richmond, the box, or a house into it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Cut the letter to the brook and nine pounds",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Tried the letter shorter, out loud",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the three nights",
+    "the one laugh",
+    "nine pounds more"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "If I write the laugh twice it becomes a boast, and a boast is a longer letter."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Nine pounds more. I will not write the box."
+    }
+  ]
+}

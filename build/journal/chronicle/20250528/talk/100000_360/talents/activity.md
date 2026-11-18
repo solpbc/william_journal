@@ -1,0 +1,1 @@
+George Bryan stopped at the stage door on his way west. Eleven lines of the comedy had been asked for in a fair copy, and he needed the current reading. You began on the two readings, saw that he needed a choice, and chose the shorter. You marked the sheet with a cross. He was gone before a second improvement could undo it. You did not write that improvement.

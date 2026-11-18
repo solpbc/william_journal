@@ -1,0 +1,1 @@
+In the afternoon you looked at the vault line and at the blank under it. The families are still not fetched. You did not dip the pen. You did not give the Friar his length, and you did not give the Prince his close.

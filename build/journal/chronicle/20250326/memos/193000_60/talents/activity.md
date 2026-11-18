@@ -1,0 +1,1 @@
+You listed what should have been packed where a hand could reach it. The tables were under the shirts. The quire was at the bottom. You were sore from one o'clock and had said so to nobody. You stopped.

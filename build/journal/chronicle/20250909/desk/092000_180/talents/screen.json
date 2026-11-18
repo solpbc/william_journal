@@ -1,0 +1,17 @@
+{
+  "narrative": "A cue-script roll open on a bench in the tiring-house. The cue words at the right of a rule. The speech side still mostly under his hand. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Conned the part, and did not copy a speech."
+    },
+    {
+      "type": "Project",
+      "name": "Errors",
+      "role": "mentioned",
+      "context": "Shown on part in Egeon's roll, before dinner"
+    }
+  ]
+}

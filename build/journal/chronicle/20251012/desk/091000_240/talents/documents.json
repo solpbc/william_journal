@@ -1,0 +1,63 @@
+{
+  "overview": "You kept morning prayer with the almanac open on your knee. You did not mark the page. You heard the minister and kept none of the sermon. The Lord Mayor's back was in the pew ahead, and he did not turn.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Sat the parish hour with his mouth shut and did not mark the day."
+    },
+    {
+      "name": "Master Josias Thwaite",
+      "role": "heard",
+      "formal_term": "Master Josias Thwaite",
+      "appointment_tier": "not_applicable",
+      "context": "Preached. None of it was kept."
+    },
+    {
+      "name": "Sir John Spencer",
+      "role": "visible",
+      "formal_term": "Sir John Spencer",
+      "appointment_tier": "not_applicable",
+      "context": "Sat ahead, turned away, and did not speak."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the almanac",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "morning prayer",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "an empty margin",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a back in the pew",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the penny almanac",
+      "asset_type": "other",
+      "disposition": "Sat morning prayer"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-12",
+      "meaning": "The date, and nothing under it"
+    }
+  ],
+  "summary": "Sat morning prayer"
+}

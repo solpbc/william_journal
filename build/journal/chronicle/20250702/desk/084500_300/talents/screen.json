@@ -1,0 +1,23 @@
+{
+  "narrative": "Your part for Two Gentlemen lies open on the board, cues in the margin. Brooke is beside it, shut. No speech of a new play is on either.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the cues and left the poem shut."
+    },
+    {
+      "type": "Project",
+      "name": "The Two Gentlemen of Verona",
+      "role": "mentioned",
+      "context": "Shown on part in Two Verona plays on one board"
+    },
+    {
+      "type": "Project",
+      "name": "Brooke's Romeus and Juliet",
+      "role": "mentioned",
+      "context": "Shown on part in Two Verona plays on one board"
+    }
+  ]
+}

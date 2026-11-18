@@ -1,0 +1,1 @@
+The gunner called a doubt disloyalty to the voyage and to the Queen. Alice put him out and sent the chart with him. You had doubted the count of ships, not a blessing you had not seen. You stayed. You did not follow him, and you did not write a truer number.

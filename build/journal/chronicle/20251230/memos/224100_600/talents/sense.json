@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You said you were not opening the fold to add an ending. The chronicle was staying on the shelf. The letter was a different paper, and you had still not named anyone to take it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the fold shut and the letter on the board",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Holinshed's Chronicles",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Left the fold shut and the letter on the board",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Came back to the letter on the board",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the fold shut",
+    "the chronicle staying",
+    "no carrier"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not opening it to add the sentence she told me not to add."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It does not go out because I have not named a man."
+    }
+  ]
+}

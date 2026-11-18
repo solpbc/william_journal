@@ -1,0 +1,39 @@
+{
+  "overview": "You were home, and the letter was still on the nail. It is still unfolded. It still names no day. You did not take it to the Bell.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Left it on the nail."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the old letter",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "still no day",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the letter",
+      "asset_type": "other",
+      "disposition": "Saw the letter on the nail"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-17",
+      "meaning": "Still on the nail"
+    }
+  ],
+  "summary": "Saw the letter on the nail"
+}

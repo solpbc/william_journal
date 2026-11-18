@@ -1,0 +1,23 @@
+{
+  "narrative": "A single folded sheet held flat under your right hand, the ink-stained forefinger at the margin, candlelight on two hands of writing, the lower lines darker and newer than the rest. The same sheet, your thumb moved down, the last sentence cramped in where the paper was almost full.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the letter through, and stayed on the last sentence."
+    },
+    {
+      "type": "Tool",
+      "name": "14s 6d at the whittawer's",
+      "role": "mentioned",
+      "context": "Shown on letter in Anne's letter, read again"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on letter in Anne's letter, read again"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "One-handed, on the tables, you wrote Susanna's verdict and allowed it. Under it you wrote Judith's moon. You did not write an answer for Susanna to keep, and you did not give the boy his ladder.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote both lines one-handed, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the orchard scene",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in On the tables, one-handed",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote Susanna's verdict and Judith's moon on the tables",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "too quick",
+    "the moon with a candle",
+    "the tables"
+  ],
+  "quotes": []
+}

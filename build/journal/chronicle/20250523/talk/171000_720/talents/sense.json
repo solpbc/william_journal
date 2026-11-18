@@ -1,0 +1,102 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You ate at threepence. The loaf was a penny and a finger and a half short. You said you had been an old man of the house, not the lover, and off before the end. Susanna is still eleven. The letter is not written. The thimble is on the road. You did not open the king.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate, named the part, and left the letter unwritten.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Priced the board and the loaf, and refused the letter as tonight's work.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked whether he had been the lover, and left the horn.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said a letter should wait for the age it is meant for.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A penny, and no letter",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the thimble",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A penny, and no letter",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Shrew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A penny, and no letter",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate and said Susanna's letter can wait",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "threepence",
+    "the penny loaf",
+    "the unwritten letter",
+    "an old man of the house"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "No. An old man. Not the lover."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The loaf is a finger and a half short of the notch, and the price is a penny."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "She is still eleven."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "overview": "You wrote the road back as nine shillings, all told. Inside it you wrote the two shillings paid to Hobbins, and twopence for the bed. You did not write what was left in the belt. You did not invent the rest of the nine as a purchase.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Ruled the nine shillings, and left the remainder unwritten."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "nine shillings",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the two shillings paid",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "twopence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no remainder",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "nine shillings",
+      "asset_type": "other",
+      "disposition": "Wrote nine shillings, and stopped"
+    },
+    {
+      "name": "two shillings",
+      "asset_type": "other",
+      "disposition": "Wrote nine shillings, and stopped"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-21",
+      "meaning": "Nine shillings, all told"
+    }
+  ],
+  "summary": "Wrote nine shillings, and stopped"
+}

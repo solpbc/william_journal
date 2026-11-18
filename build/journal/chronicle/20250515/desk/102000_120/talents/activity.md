@@ -1,0 +1,1 @@
+You read a forme of the Life of Julius Caesar where it hung. The running title was plain. A turned letter was ringed in brown ink. Your eye stopped at the soothsayer and the Ides. You copied no page. You drafted no play from it.

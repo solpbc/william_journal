@@ -1,0 +1,17 @@
+{
+  "narrative": "The part is open on the table by the window. One line stands at the top. The lines under it are covered by your hand. The light is the short afternoon of a frost day. The hand does not move down the leaf. The comma is the end of what is read.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the one line, and stopped at the comma."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on part in The one line of it"
+    }
+  ]
+}

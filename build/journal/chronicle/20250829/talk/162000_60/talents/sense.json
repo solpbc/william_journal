@@ -1,0 +1,71 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Alleyn came out by the tiring-house stair in his own clothes and asked if you had come to count his inches. You said you had come to learn them. Each of you was polite, and each of you knew the other had been measuring. Henslowe was still at the stair-foot.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he had come to learn Alleyn's inches.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edward Alleyn",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came out in his own clothes and asked the question.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Philip Henslowe",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Stayed at the stair-foot, eyes on the boxes.",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Rose",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Come to count my inches",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Said it was to learn Alleyn's inches",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Edward Alleyn",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the tiring-house stair",
+    "his inches",
+    "both men measuring"
+  ],
+  "quotes": [
+    {
+      "speaker": "edward_alleyn",
+      "text": "Master Shakespeare. Come to count my inches?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "To learn them, Master Alleyn"
+    }
+  ]
+}

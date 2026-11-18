@@ -1,0 +1,17 @@
+{
+  "narrative": "The writing-tables open beside the folio. One line, and the clasp not yet shut. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Entered the line from the tale and left it there."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Four days, the old moon"
+    }
+  ]
+}

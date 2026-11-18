@@ -1,0 +1,1 @@
+You struck the Costard line because the nine are in the book. The letter to Anne stays on the list, written and unsent. The Queen's money, the horse, and Field's chronicle are untouched. Nothing was paid.

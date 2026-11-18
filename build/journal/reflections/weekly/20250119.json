@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250119",
+    "end": "20250125"
+  },
+  "generated_at": "2025-01-25T22:00:00Z",
+  "days": [
+    {
+      "day": "20250119",
+      "state": "memory",
+      "memory_id": "m-20250119-0"
+    },
+    {
+      "day": "20250120",
+      "state": "memory",
+      "memory_id": "m-20250120-1"
+    },
+    {
+      "day": "20250121",
+      "state": "memory",
+      "memory_id": "m-20250121-2"
+    },
+    {
+      "day": "20250122",
+      "state": "memory",
+      "memory_id": "m-20250122-3"
+    },
+    {
+      "day": "20250123",
+      "state": "memory",
+      "memory_id": "m-20250123-4"
+    },
+    {
+      "day": "20250124",
+      "state": "memory",
+      "memory_id": "m-20250124-5"
+    },
+    {
+      "day": "20250125",
+      "state": "memory",
+      "memory_id": "m-20250125-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250119-0",
+      "key": "mem_20250119_0",
+      "day": "20250119",
+      "text": "You kept the bed. Gilbert said to answer the last one first.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250119/talents/morning_briefing",
+        "briefing_day": "20250119",
+        "refs": [
+          "sol://facets/household/activities/20250119#meeting_110000_720",
+          "sol://facets/household/activities/20250119#photo_111800_120",
+          "sol://facets/stratford/activities/20250119#frame_112200_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250120-1",
+      "key": "mem_20250120_1",
+      "day": "20250120",
+      "text": "You were well. You tried the spring note and stopped.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250120/talents/morning_briefing",
+        "briefing_day": "20250120",
+        "refs": [
+          "sol://facets/household/activities/20250120#meeting_082000_720",
+          "sol://facets/writing/activities/20250120#note_111000_600",
+          "sol://facets/writing/activities/20250120#frame_112200_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250121-2",
+      "key": "mem_20250121_2",
+      "day": "20250121",
+      "text": "The last line is in. Garnish has the book. Rosaline keeps Berowne. Katharine keeps Dumaine. You kept the refusal.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250121/talents/morning_briefing",
+        "briefing_day": "20250121",
+        "refs": [
+          "sol://facets/company/activities/20250121#meeting_091500_840",
+          "sol://facets/writing/activities/20250121#note_121000_600",
+          "sol://facets/writing/activities/20250121#frame_122200_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250122-3",
+      "key": "mem_20250122_3",
+      "day": "20250122",
+      "text": "Venus moves. Lucrece is respected. The wedding at Greenwich stayed news.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250122/talents/morning_briefing",
+        "briefing_day": "20250122",
+        "refs": [
+          "sol://facets/writing/activities/20250122#meeting_103500_840",
+          "sol://facets/writing/activities/20250122#photo_110200_120",
+          "sol://facets/writing/activities/20250122#note_204000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250123-4",
+      "key": "mem_20250123_4",
+      "day": "20250123",
+      "text": "A shortened grievance came back longer. Thirty-three shillings was Margery's stair.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250123/talents/morning_briefing",
+        "briefing_day": "20250123",
+        "refs": [
+          "sol://facets/company/activities/20250123#meeting_101000_840",
+          "sol://facets/company/activities/20250123#photo_102800_120",
+          "sol://facets/writing/activities/20250123#memo_115200_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250124-5",
+      "key": "mem_20250124_5",
+      "day": "20250124",
+      "text": "He struck two oaths and signed. Seven shillings, company coin, counted at the priory.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250124/talents/morning_briefing",
+        "briefing_day": "20250124",
+        "refs": [
+          "sol://facets/household/activities/20250124#meeting_090500_720",
+          "sol://facets/company/activities/20250124#frame_102000_240",
+          "sol://facets/company/activities/20250124#meeting_110000_840"
+        ]
+      }
+    },
+    {
+      "id": "m-20250125-6",
+      "key": "mem_20250125_6",
+      "day": "20250125",
+      "text": "You played Two Gentlemen and set next week.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250125/talents/morning_briefing",
+        "briefing_day": "20250125",
+        "refs": [
+          "sol://facets/stratford/activities/20250125#note_103000_480",
+          "sol://facets/stratford/activities/20250125#frame_104200_180",
+          "sol://facets/company/activities/20250125#meeting_165000_840"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250119-0",
+      "key": "said_20250119_0",
+      "day": "20250119",
+      "quote": "All three children want shoes, and they have agreed to outgrow them in the same month. Father has a cough, and he is cheerful about it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250119#meeting_110000_720"
+      }
+    },
+    {
+      "id": "s-20250119-1",
+      "key": "said_20250119_1",
+      "day": "20250119",
+      "quote": "The songs are not written. The last line is not written. That is the truth of the bolster, and I will not improve it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250119#memo_211000_240"
+      }
+    },
+    {
+      "id": "s-20250120-2",
+      "key": "said_20250120_2",
+      "day": "20250120",
+      "quote": "I will not buy ink to feel busy. The owl is not written because I have not heard it, not because the horn is low.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250120#meeting_082000_720"
+      }
+    },
+    {
+      "id": "s-20250121-3",
+      "key": "said_20250121_3",
+      "day": "20250121",
+      "quote": "The letter is on her table. I have shut one door today. I am not shutting that one with a sentence I do not mean.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250121#memo_211000_240"
+      }
+    },
+    {
+      "id": "s-20250122-4",
+      "key": "said_20250122_4",
+      "day": "20250122",
+      "quote": "Respected is a quiet word. Moves is not. I hear which of them you trust.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250122#meeting_103500_840"
+      }
+    },
+    {
+      "id": "s-20250123-5",
+      "key": "said_20250123_5",
+      "day": "20250123",
+      "quote": "They sell explanations by the sheet. So do I. Mine have jokes in.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250123#memo_115200_60"
+      }
+    },
+    {
+      "id": "s-20250124-6",
+      "key": "said_20250124_6",
+      "day": "20250124",
+      "quote": "I was never cut so little, and felt it so much.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250124#meeting_121200_120"
+      }
+    },
+    {
+      "id": "s-20250125-7",
+      "key": "said_20250125_7",
+      "day": "20250125",
+      "quote": "I have Two Gents in my legs and a week in my head, and I am not adding a sum to either.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250125#meeting_165000_840"
+      }
+    }
+  ]
+}

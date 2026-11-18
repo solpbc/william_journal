@@ -1,0 +1,1 @@
+You stood in the south aisle for the long gospel. The parish was in black. Master Thwaite did not hurry it, and he looked at nobody. A quarter was gone and he was not yet at the cross. You wrote nothing. You left the morning's question at home. There was no bread and no cup.

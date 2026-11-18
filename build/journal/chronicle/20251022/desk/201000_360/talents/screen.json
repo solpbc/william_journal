@@ -1,0 +1,23 @@
+{
+  "narrative": "A loose leaf, not the tied bundle. The bundle sits apart, still knotted in red. Candlelight. No face. The page stops before any drinking. One word under the two lines, with a space after it. She has not drunk. The vial is named by the scene and not emptied on the page. The red-tied bundle at the far side of the board, unopened. This leaf is not added to it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Wrote the girl alone with the vial"
+    },
+    {
+      "type": "Project",
+      "name": "the vial speech",
+      "role": "mentioned",
+      "context": "Shown on draft in Wrote the girl alone with the vial"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "context": "Shown on draft in Wrote the girl alone with the vial"
+    }
+  ]
+}

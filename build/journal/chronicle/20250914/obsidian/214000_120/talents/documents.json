@@ -1,0 +1,44 @@
+{
+  "overview": "Against the fourteenth, a small cross and no word, the first since June. Nothing else was written. The jaw had a pulse in it, and you let that be the reason.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Set the cross, and left the rest of the table empty."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the cross",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no word",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the jaw",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the almanac",
+      "asset_type": "other",
+      "disposition": "Set a cross against the fourteenth"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-14",
+      "meaning": "Against the fourteenth"
+    }
+  ],
+  "summary": "Set a cross against the fourteenth"
+}

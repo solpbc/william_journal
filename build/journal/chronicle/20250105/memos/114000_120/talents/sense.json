@@ -1,0 +1,62 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Upstairs, you tried to recover the sermon and could not. One shard stayed: goods not yet in his hand. You ended by ordering yourself to attend properly next Sunday.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the memo and stopped on the order.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named in the attempt. Not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Queen's twenty pounds",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Attend properly",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Tried the sermon back and kept one shard",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the lost sermon",
+    "the one shard",
+    "next Sunday"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Goods not yet in his hand. That is the shard."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Attend properly next Sunday."
+    }
+  ]
+}

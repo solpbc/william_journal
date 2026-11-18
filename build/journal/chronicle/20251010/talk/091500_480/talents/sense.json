@@ -1,0 +1,85 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You were not in the shrew. You told John the hour, Tuesday at ten, and the twelve pence, and you said the twelve pence does not come off the share. Cowley did not take a part, and he did not ask which cut stands. John had read The Disguises on the Rose bill. You did not go. You went home for the bran. Tomorrow you are in Titus.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named Tuesday, refused to give up the part, and left.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the plot had him nowhere, kept the twelve pence off the share, and named the Rose title.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left Monday's cut for Monday, and did not take a roll.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Taming of the Shrew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not in the shrew",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Disguises",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not in the shrew",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Told John Tuesday at ten and went home",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Richard Cowley"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the shrew",
+    "Tuesday at ten",
+    "twelve pence",
+    "The Disguises"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "You are not in the shrew, Will."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The tooth stays in until Tuesday."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "The Rose has The Disguises on the post."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "narrative": "The penny almanac open at the day, two words, and no note under them in his hand.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read it, and wrote nothing."
+    },
+    {
+      "type": "Tool",
+      "name": "the almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in New moon"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250420",
+    "end": "20250426"
+  },
+  "generated_at": "2025-04-26T22:00:00Z",
+  "days": [
+    {
+      "day": "20250420",
+      "state": "memory",
+      "memory_id": "m-20250420-0"
+    },
+    {
+      "day": "20250421",
+      "state": "memory",
+      "memory_id": "m-20250421-1"
+    },
+    {
+      "day": "20250422",
+      "state": "memory",
+      "memory_id": "m-20250422-2"
+    },
+    {
+      "day": "20250423",
+      "state": "memory",
+      "memory_id": "m-20250423-3"
+    },
+    {
+      "day": "20250424",
+      "state": "memory",
+      "memory_id": "m-20250424-4"
+    },
+    {
+      "day": "20250425",
+      "state": "memory",
+      "memory_id": "m-20250425-5"
+    },
+    {
+      "day": "20250426",
+      "state": "memory",
+      "memory_id": "m-20250426-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250420-0",
+      "key": "mem_20250420_0",
+      "day": "20250420",
+      "text": "The loaf stayed off the notch. John of Gaunt stayed upstairs.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250420/talents/morning_briefing",
+        "briefing_day": "20250420",
+        "refs": [
+          "sol://facets/household/activities/20250420#photo_083500_180",
+          "sol://facets/household/activities/20250420#meeting_111500_720",
+          "sol://facets/writing/activities/20250420#frame_162000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250421-1",
+      "key": "mem_20250421_1",
+      "day": "20250421",
+      "text": "Sam was clear. Fifty-two shillings stayed Margery Pell's, and two thousand is a house.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250421/talents/morning_briefing",
+        "briefing_day": "20250421",
+        "refs": [
+          "sol://facets/company/activities/20250421#frame_082800_120",
+          "sol://facets/company/activities/20250421#meeting_092000_720",
+          "sol://facets/writing/activities/20250421#note_114000_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20250422-2",
+      "key": "mem_20250422_2",
+      "day": "20250422",
+      "text": "The loaf is a finger and a half. Kemp kept the door he already had.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250422/talents/morning_briefing",
+        "briefing_day": "20250422",
+        "refs": [
+          "sol://facets/company/activities/20250422#meeting_091000_240",
+          "sol://facets/household/activities/20250422#meeting_120000_720",
+          "sol://facets/company/activities/20250422#meeting_155000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250423-3",
+      "key": "mem_20250423_3",
+      "day": "20250423",
+      "text": "The age was said to the grass. You wrote no price on the quire. You were not in the Shrew.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250423/talents/morning_briefing",
+        "briefing_day": "20250423",
+        "refs": [
+          "sol://facets/writing/activities/20250423#memo_061500_240",
+          "sol://facets/writing/activities/20250423#frame_074000_180",
+          "sol://facets/writing/activities/20250423#note_102000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250424-4",
+      "key": "mem_20250424_4",
+      "day": "20250424",
+      "text": "Ten shillings apiece. Gilbert said aye. The cup is owed. You did not open the packet.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250424/talents/morning_briefing",
+        "briefing_day": "20250424",
+        "refs": [
+          "sol://facets/company/activities/20250424#meeting_091500_240",
+          "sol://facets/household/activities/20250424#frame_120500_120",
+          "sol://facets/company/activities/20250424#meeting_165000_840"
+        ]
+      }
+    },
+    {
+      "id": "m-20250425-5",
+      "key": "mem_20250425_5",
+      "day": "20250425",
+      "text": "You did not say the name. The eggs went cold.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250425/talents/morning_briefing",
+        "briefing_day": "20250425",
+        "refs": [
+          "sol://facets/writing/activities/20250425#note_092000_360",
+          "sol://facets/company/activities/20250425#meeting_161000_240",
+          "sol://facets/writing/activities/20250425#frame_170000_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250426-6",
+      "key": "mem_20250426_6",
+      "day": "20250426",
+      "text": "Thirty-eight shillings is a share. The cake was once.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250426/talents/morning_briefing",
+        "briefing_day": "20250426",
+        "refs": [
+          "sol://facets/company/activities/20250426#frame_085000_240",
+          "sol://facets/writing/activities/20250426#note_100000_240",
+          "sol://facets/company/activities/20250426#meeting_165000_720"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250420-0",
+      "key": "said_20250420_0",
+      "day": "20250420",
+      "quote": "I am eating it hot. It has been a long time of fish.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250420#meeting_111500_720"
+      }
+    },
+    {
+      "id": "s-20250421-1",
+      "key": "said_20250421_1",
+      "day": "20250421",
+      "quote": "The hush held. Sincler came in black, and the yard stopped. That is the part of the afternoon I am keeping.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250421#meeting_161000_240"
+      }
+    },
+    {
+      "id": "s-20250422-2",
+      "key": "said_20250422_2",
+      "day": "20250422",
+      "quote": "They come into the same street. The laugh is the street, not the loss.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250422#meeting_120000_720"
+      }
+    },
+    {
+      "id": "s-20250423-3",
+      "key": "said_20250423_3",
+      "day": "20250423",
+      "quote": "At thirty-one my father was a chamberlain of the borough and had a house. I have a chamber with a cat in it and a king half-made.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250423#memo_061500_240"
+      }
+    },
+    {
+      "id": "s-20250423-4",
+      "key": "said_20250423_4",
+      "day": "20250423",
+      "quote": "Marlowe was twenty-nine. Southwell thirty-three. I have three children, two poems in print and half a king.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250423#memo_061500_240"
+      }
+    },
+    {
+      "id": "s-20250424-5",
+      "key": "said_20250424_5",
+      "day": "20250424",
+      "quote": "I have eaten worse verdicts.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250424#meeting_190500_360"
+      }
+    },
+    {
+      "id": "s-20250425-6",
+      "key": "said_20250425_6",
+      "day": "20250425",
+      "quote": "Two men throwing their gages, and a king between them, graceful and already wrong. He likes a peace that is only his voice.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250425#meeting_173500_840"
+      }
+    },
+    {
+      "id": "s-20250426-7",
+      "key": "said_20250426_7",
+      "day": "20250426",
+      "quote": "The day is pleasantly unimportant. I intend to leave it so.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250426#meeting_172000_720"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "narrative": "A black-letter bill, title only, no author's name, no sum. He reads this one before the day's list. The lower half is blank of any price.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the title first, and left the post."
+    },
+    {
+      "type": "Project",
+      "name": "The Venetian Comedy",
+      "role": "mentioned",
+      "context": "Shown on bill in The Venetian Comedy"
+    }
+  ]
+}

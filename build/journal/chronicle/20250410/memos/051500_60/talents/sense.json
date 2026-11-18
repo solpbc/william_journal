@@ -1,0 +1,46 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Before half past five you chose the long way into town, the same way you had come, and you refused the straight end of the road. You did not name the place you were avoiding, and you did not tell a story about it. The memo ended on enough.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the road, and refused to describe the reason.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Chose the long way into town",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the long way",
+    "no name",
+    "the horse's turn"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Not the straight end of the road. The long way, the same as I came."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No name for it. No story for it."
+    }
+  ]
+}

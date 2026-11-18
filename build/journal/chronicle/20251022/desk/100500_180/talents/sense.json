@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You looked at the three rolls after the cue had been made to agree. Each one carried the same word, altered, and the same small sign.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the three entrances and did not add a gloss.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the three rolls",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The same cue, three times",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Checked the same cue on three rolls",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three part-rolls",
+    "the cut word",
+    "the small sign"
+  ],
+  "quotes": []
+}

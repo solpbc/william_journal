@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 240.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "16:40:00", "text": "Two oaths are out. By my holidame. God's me. By Jove stays, because he put it there. He signed. That is the whole of his pen.", "timing": {"end": 18.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:40:18", "text": "Seven shillings were counted at the priory. They were the company's. My coffer is shut. Edith's eight shillings is still owing till Lady Day.", "timing": {"end": 36.0, "start": 18.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "16:40:36", "text": "Richard the Third is at two, and I am not in it. Faustus is at the Rose. I am at this table. The letter is still the letter. I do not know the day.", "timing": {"end": 46.0, "start": 36.0}}

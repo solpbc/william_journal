@@ -1,0 +1,17 @@
+{
+  "narrative": "The desk in the late morning, the same half sheet. No messenger. The line that would bring him in is not there. Ink on the forefinger. Under the count the page stops. Nothing is written after the laugh.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Counted the couples and left the blank."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on draft in Four couples, and the laugh alone"
+    }
+  ]
+}

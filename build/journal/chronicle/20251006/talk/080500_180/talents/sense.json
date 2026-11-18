@@ -1,0 +1,73 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You paid sixpence for the firing and the washing. It is the first coin, from today to Lady Day. You did not buy ink. You ate a mouthful and kept the hour for Shoreditch.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid the sixpence, took a mouthful, and named nine at Shoreditch.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the first coin, and kept the sixpence where she could see it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had the linen off, and asked whether he would eat.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "sixpence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The first sixpence",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Paid the first sixpence",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "sixpence",
+    "the first coin",
+    "Lady Day",
+    "Shoreditch by nine"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "This is the first coin of the winter, and it runs to Lady Day."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I must be at Shoreditch by nine."
+    }
+  ]
+}

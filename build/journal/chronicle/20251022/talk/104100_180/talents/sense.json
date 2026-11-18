@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "On the way home a carter told you to mind the ruts. You told him you were going to dinner. You did not tell him the morning's work, and you did not give him a sum.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered once and walked on.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "Bishopsgate",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Told a carter you were going to dinner",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Spoke with a carter on the way home",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the ruts",
+    "the walk home",
+    "no errand"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I know the gate."
+    }
+  ]
+}

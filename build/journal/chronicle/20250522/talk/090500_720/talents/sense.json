@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "You rehearsed the Ghost in the old Hamlet. Garnish set a handful of flour, not a bag, and said nobody was to write in the book. You took two turns and came in early on the first. On the second you waited Pope's word. Nick kept four lines, and you told him his voice is sound. The flour stayed in the hair for the afternoon.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Played the Ghost's entrance, waited the word, and kept the flour for the afternoon.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the book, measured a handful, and forbade new writing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the cue twice and took back the word that had been his.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he had four lines, refused a fifth, and did not shout.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the old Hamlet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A handful of flour",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed the Ghost in the old Hamlet with flour",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "William Shakespeare",
+    "Thomas Pope",
+    "Nick Sorrell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a handful of flour",
+    "two turns",
+    "four lines",
+    "the old book"
+  ],
+  "quotes": [
+    {
+      "speaker": "abel_garnish",
+      "text": "A handful, not a bag."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Your voice is sound. Use it."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "Nobody writes in this book today."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "By the fire at Banbury you said she speaks first, and then that he may think he does. You had been wet to the shirt in forty paces. Supper and the bed were ten pence, and the cheese was mostly paring.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke low, at the fire, and did not write the line.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said she speaks first, by the fire at Banbury",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "she speaks first",
+    "ten pence",
+    "the wet last mile"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Remember: she speaks first. Not he. She"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Wet to the shirt in forty paces, the last mile"
+    }
+  ]
+}

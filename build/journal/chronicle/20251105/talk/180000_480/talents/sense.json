@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the Split Hazel, Bryan gave the story from a Carey groom and kept it apart from the talk of Essex's feelings. The book is called A Conference about the Next Succession, put out over sea under a name said to hide a Jesuit's, and he does not know whose name. It is dedicated to Essex and uses Lancaster and the second Richard. Alice asked where he heard it. You and Burbage exchanged one long look and said nothing. You did not compare your poems to a book about the crown. The book was not on the table.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the title, looked at Burbage, and said nothing of his own books.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the groom's facts apart from the growing talk.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the short version, and did not name the play.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alice Brambleby",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked where the news was heard, and believed only that far.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "A Conference about the Next Succession",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Praise he never asked for",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard the groom's report at the Hazel",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alice Brambleby",
+    "George Bryan",
+    "Richard Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the groom",
+    "the title",
+    "praise not asked for",
+    "the long look"
+  ],
+  "quotes": [
+    {
+      "speaker": "alice_brambleby",
+      "text": "There's a man endangered by praise he never asked for. Say where you heard it, Master Bryan, and I'll know how much to believe."
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "What happened. What is being told."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not matching it with anything of mine."
+    }
+  ]
+}

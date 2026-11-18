@@ -1,0 +1,64 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "The loaf stayed where Monday's measuring had left it. You did not put it to the notch. Alse did not ask to tie the knot again. You ate, and you did not write.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a second measure.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept Monday's answer in force.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the thrum where it was.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate, with the loaf where Monday had measured it",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the loaf unmeasured",
+    "the knot left",
+    "nothing written"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I am not putting it to the notch again"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Once was the measure"
+    }
+  ]
+}

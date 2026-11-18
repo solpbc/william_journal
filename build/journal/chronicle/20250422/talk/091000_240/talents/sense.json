@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Arthur asked you to make the next lady tall, because Edith had let the hem down two fingers at Easter and his shins were out. You refused a new lady before dinner. You are Egeon this afternoon. Abel Garnish would not rename the doors.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a new lady and named himself Egeon for the afternoon.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for a tall angry lady and agreed to stand where the plot put him.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the doors as they were and refused a third house.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The hem, and no new doors",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Arthur ask for a taller lady",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Arthur Meeks",
+    "William Shakespeare",
+    "Abel Garnish"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Easter hem",
+    "Egeon",
+    "the old doors"
+  ],
+  "quotes": [
+    {
+      "speaker": "arthur_meeks",
+      "text": "Edith let the hem down two fingers at Easter, sir, and my shins are out in the wind again."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "This afternoon is Egeon's, and Egeon is mine."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "I am not renaming a door because the yard is wider."
+    }
+  ]
+}

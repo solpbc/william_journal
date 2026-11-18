@@ -1,0 +1,1 @@
+The morning rehearsal had no clothes in it. Heminges would not try the crown today. Garnish had you down for Egeon in the afternoon, opening and then idle. You said the voice was thick. You were to be heard at the back. The plot for tomorrow was not on the peg yet. You did not give Love's Labour's Won a new answer before the call.

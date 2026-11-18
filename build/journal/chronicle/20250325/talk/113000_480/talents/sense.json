@@ -1,0 +1,96 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You paid twenty shillings before noon and she counted them twice. The year has changed and the room has not. Constancy, she said, is one of its virtues. The receipt is in her husband's law-hand. The firing sixpence ends until Michaelmas. She will not let the chamber to a Lenten preacher. After the rent the coffer is twenty-seven pounds and two shillings. The canvas and five pounds go into the belt. Nineteen pounds and two shillings stay under both locks. No shop was paid.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid, named every sum, and left the shops for another day.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted twice, wrote the receipt, and refused a preacher the room.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "20s the quarter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twenty, counted twice",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "6d firing",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twenty, counted twice",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "60s in canvas",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twenty, counted twice",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "\u00a35 for the road and the shops",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twenty, counted twice",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Paid twenty shillings and named the sum that stays locked",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twenty shillings",
+    "the law-hand",
+    "the coffer",
+    "both locks"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The year has changed. The room has not improved."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Constancy is one of its virtues."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I'll not let it to a Lenten preacher. They burn more candle than you."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Nineteen pounds and two shillings. Both locks."
+    }
+  ]
+}

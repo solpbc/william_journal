@@ -1,0 +1,23 @@
+{
+  "narrative": "The same sheet, a third of it filled, still no blot. Two houses are in the street now. Your hand is in the margin and is not striking a line. The cat is a grey weight on the other book.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the thumb and the cry and struck nothing."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Slept on, on the Golding."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on draft in The thumb, and the cry"
+    }
+  ]
+}

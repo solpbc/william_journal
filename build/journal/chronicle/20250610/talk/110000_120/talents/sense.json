@@ -1,0 +1,64 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At eleven Alse came up, sent by Mistress Ansell. You had been so still that the mistress feared you were dead. You sent word that somebody was, and that you were well. You had not walked once.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered that he was well, and that he had not walked.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the mistress's fear, and took the answer down.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Called from the stair-foot. She did not come up.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Sent Alse word of being well",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "William Shakespeare",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "eleven o'clock",
+    "Alse",
+    "the stillness"
+  ],
+  "quotes": [
+    {
+      "speaker": "alse_pinder",
+      "text": "The mistress says you were so still she feared you were dead."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Somebody is. Tell her I'm well."
+    }
+  ]
+}

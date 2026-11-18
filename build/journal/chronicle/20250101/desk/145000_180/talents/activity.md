@@ -1,0 +1,1 @@
+While Two Gentlemen played at the Cross Keys, you stayed at the desk. You were not in that play. You brought on the pedant, the braggart, the hedge-priest and the boy to present the Worthies, and you wrote that the pageant breaks up in laughter. Nothing follows it yet. The light was going.

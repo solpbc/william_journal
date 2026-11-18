@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Alse brought water that had gone cold on the second turning of the stair, and she would not heat it again. You told her to leave the letter: not to sand it, and not to carry it. Mistress Ansell, with a jug in her hands, said she would call once if you were still at work at dinner. You said once was enough. Alse had tried the mended latch and it had not stuck. The sheet stayed on the board.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the sheet on the board and did not send anyone out.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the water, reported the latch, and was not sent up again.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the jug in her hands and offered one call, not a conversation.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate breakfast with Alse and Mistress Ansell",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "William Shakespeare",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "cold water",
+    "the letter left",
+    "one call at dinner"
+  ],
+  "quotes": [
+    {
+      "speaker": "alse_pinder",
+      "text": "The stair took the warm out of it on the second turning."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Leave the sheet. It is not for sanding, and it is not for carrying."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "If you are still at it then, I will call once."
+    }
+  ]
+}

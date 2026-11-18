@@ -1,0 +1,1 @@
+A bigger labour followed the first. The yard counted them. You stayed by the post on the right. No sum was where you could read it. You told yourself it was well done, and you did not say so. You enjoyed it against your will.

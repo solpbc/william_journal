@@ -1,0 +1,11 @@
+{
+  "narrative": "A plain service-side room, lit by a few tallow candles and a small fire. On a trestle, a rolled part tied with thread, a gilt property crown set well out of the way, and a mended fastening being finished by someone's hands. Fabric is lifted off the floor onto a chest. Through a half-open door, a slice of the great hall: a hundred white wax tapers in their wired branches over rushes of sweet-flag, and the corner of a canopy of state with nobody under it. Players wait in the passage of this room, seen from behind, mid-task. At the edge of the frame, your own hand rests on a bundle of papers. No face of yours. The private rooms are not in it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Stood in the service room with the hall in the slice of the door."
+    }
+  ]
+}

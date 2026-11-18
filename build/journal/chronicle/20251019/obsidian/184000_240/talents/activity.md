@@ -1,0 +1,1 @@
+You wrote three lines to Anne before you corrected another word of the fair copy. You told her the jaw had been quiet, that the lovers are tied and not finished, and that you ask after the children and her mother. You did not tell her the tooth is out.

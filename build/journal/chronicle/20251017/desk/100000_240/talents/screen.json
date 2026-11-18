@@ -1,0 +1,17 @@
+{
+  "narrative": "A sheet of the lovers' dawn, already written, flat in the morning light. No new line. No face. The same sheet, lower. The hand is not in the frame. The foot of the sheet. No fair copy beside it. No thread. The sheet turned face down. The board beside it is bare. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Shut the dawn and did not begin a fair copy."
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' dawn",
+      "role": "mentioned",
+      "context": "Shown on draft in The dawn already written"
+    }
+  ]
+}

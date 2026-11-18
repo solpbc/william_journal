@@ -1,0 +1,15 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "17:30:00", "text": "I wrote don't come.", "timing": {"end": 8.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "17:30:08", "text": "Thy letter said come for harvest.", "timing": {"end": 18.0, "start": 8.0}}
+{"sentence_id": 3, "speaker": "anne_shakespeare", "start": "17:30:18", "text": "\u2026So it did. Why did you walk?", "timing": {"end": 28.0, "start": 18.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "17:30:28", "text": "The horse was dear.", "timing": {"end": 42.0, "start": 28.0}}
+{"sentence_id": 5, "speaker": "anne_shakespeare", "start": "17:30:42", "text": "Sit down before you fall down.", "timing": {"end": 50.0, "start": 42.0}}
+{"sentence_id": 6, "speaker": "joan_shakespeare", "start": "17:30:50", "text": "Sit, then. I have the cloak.", "timing": {"end": 58.0, "start": 50.0}}
+{"sentence_id": 7, "speaker": "william_shakespeare", "start": "17:30:58", "text": "I am sitting.", "timing": {"end": 66.0, "start": 58.0}}
+{"sentence_id": 8, "speaker": "anne_shakespeare", "start": "17:31:06", "text": "Cold well-water. Leave the feet in the tub.", "timing": {"end": 76.0, "start": 66.0}}
+{"sentence_id": 9, "speaker": "william_shakespeare", "start": "17:31:16", "text": "They are in.", "timing": {"end": 82.0, "start": 76.0}}
+{"sentence_id": 10, "speaker": "anne_shakespeare", "start": "17:31:22", "text": "Two have burst. Plantain leaf, and mutton tallow. Hold still.", "timing": {"end": 94.0, "start": 82.0}}
+{"sentence_id": 11, "speaker": "william_shakespeare", "start": "17:31:34", "text": "I am holding still.", "timing": {"end": 102.0, "start": 94.0}}
+{"sentence_id": 12, "speaker": "joan_shakespeare", "start": "17:31:42", "text": "Hold still, brother. She has the leaf.", "timing": {"end": 110.0, "start": 102.0}}
+{"sentence_id": 13, "speaker": "anne_shakespeare", "start": "17:31:50", "text": "Thou art in the yard. That is as much as I am saying.", "timing": {"end": 120.0, "start": 110.0}}
+{"sentence_id": 14, "speaker": "william_shakespeare", "start": "17:32:00", "text": "Then the tub, and no more than that.", "timing": {"end": 126.0, "start": 120.0}}

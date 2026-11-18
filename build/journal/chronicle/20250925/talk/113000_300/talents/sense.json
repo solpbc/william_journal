@@ -1,0 +1,72 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You came home between the rehearsal and the call and did not sit the meal. The loaf was a penny. You took a crust. Alse was not sent to a shop. You were due back at the Theatre by noon. Monday's price of the board was left where she had said it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took a crust, and went back for the call.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Would not cut a loaf for a man who would not sit.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Was not sent to a shop, and did not keep a dinner.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "a penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A crust, and back by noon",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Took a crust and went back",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a crust",
+    "by noon",
+    "the loaf"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The loaf is a penny. I am not cutting it to match a man who will not sit the meal."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A crust, then. I am back at the Theatre by noon."
+    }
+  ]
+}

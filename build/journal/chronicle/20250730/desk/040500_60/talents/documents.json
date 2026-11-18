@@ -1,0 +1,38 @@
+{
+  "overview": "At first light, still at Grendon, you looked at the tables. The four words were still there, unwiped. You did not add a line.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the leaf and did not wipe it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the four words",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "first light",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the unwiped leaf",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-30",
+      "meaning": "Four words at first light"
+    }
+  ],
+  "summary": "Read the four words"
+}

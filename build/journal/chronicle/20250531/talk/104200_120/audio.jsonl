@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "michael_drayton", "start": "10:42:00", "text": "Is that yours?", "timing": {"end": 6.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "10:42:06", "text": "It was.", "timing": {"end": 12.0, "start": 6.0}}
+{"sentence_id": 3, "speaker": "michael_drayton", "start": "10:42:12", "text": "Did they pay?", "timing": {"end": 18.0, "start": 12.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "10:42:18", "text": "They paid somebody.", "timing": {"end": 28.0, "start": 18.0}}

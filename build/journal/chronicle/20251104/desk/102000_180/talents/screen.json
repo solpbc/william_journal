@@ -1,0 +1,23 @@
+{
+  "narrative": "Juliet's roll on the stage edge beside the lute. No deletion on it. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the roll, and changed nothing."
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "context": "Named as the voice of the roll. Not in the frame."
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "context": "Shown on part in Juliet's roll"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "In the morning you had Richmond's towers and their gilt vanes across the frosted Green. The meadow was white. Nobody was waiting in that frame.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Stood with the Green between you and the towers.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Looked at Richmond's towers across the Green",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the towers",
+    "the gilt vanes",
+    "the frosted Green"
+  ],
+  "quotes": []
+}

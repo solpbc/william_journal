@@ -1,0 +1,17 @@
+{
+  "narrative": "A foul sheet in the grey light, the Friar's cue at the top. One irritable line sits under it, not yet struck. No face. The same sheet. That line and ten more are ruled through with one stroke. Nothing under the stroke can be read. The margin has no rescue.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the line, struck the eleven, and left the sheet as a block of strokes."
+    },
+    {
+      "type": "Project",
+      "name": "the Friar's cell",
+      "role": "mentioned",
+      "context": "Shown on draft in Eleven lines, and none of them kept"
+    }
+  ]
+}

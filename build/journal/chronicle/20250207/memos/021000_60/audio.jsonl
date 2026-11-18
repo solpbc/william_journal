@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "02:10:00", "text": "I was in bed by ten. I am awake.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "02:10:12", "text": "The leaf is in the folder. I did not change a word of it, and I did not say it aloud.", "timing": {"end": 28.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "02:10:28", "text": "Three leaves. Two were already there. No name on any of them. I am not starting another.", "timing": {"end": 38.0, "start": 28.0}}

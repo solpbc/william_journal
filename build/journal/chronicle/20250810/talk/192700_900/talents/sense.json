@@ -1,0 +1,96 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Joan sent the three up. Hamnet went without telling the arch again. Susanna left the book on the shelf. You did not turn the stair into another telling.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Sent the three children up to bed",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Sent the three children up to bed",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Sent the three children up to bed",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Sent the three children up to bed",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Sent the three children up to bed",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Sent the three children up to bed",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "Golding's Ovid",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sent the three children up to bed",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Sat down to supper",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Joan Shakespeare",
+    "Hamnet Shakespeare",
+    "Susanna Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the three sent up",
+    "the book left on the shelf"
+  ],
+  "quotes": [
+    {
+      "speaker": "joan_shakespeare",
+      "text": "A Sunday ends upstairs."
+    },
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "The book stays on the shelf."
+    }
+  ]
+}

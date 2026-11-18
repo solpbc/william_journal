@@ -1,0 +1,21 @@
+{
+  "schema": 3,
+  "agent_identity": "Claude",
+  "timestamp": "2025-06-15T20:15:00Z",
+  "tool_name": "search",
+  "connection": "oauth:Ui6UEpHGQomNbwmlyfxlsQ",
+  "request": {
+    "arguments": {
+      "query": "glass St Helen's"
+    },
+    "permission": {
+      "generation": 1,
+      "categories": [
+        "transcripts",
+        "entities",
+        "facets"
+      ],
+      "scope": "whole_journal"
+    }
+  }
+}

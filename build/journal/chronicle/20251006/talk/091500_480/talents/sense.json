@@ -1,0 +1,94 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "At the Theatre you set Titus at two, and yourself done in the fourth act, an old Roman and not a long one. Thomas does not wait on the death and does not take up a failed word. The eleven lines stay at the lodging. Thomas had read the Rose bill, Seven Days and Wise Man, on a post, and had not gone nearer. You did not go either.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the hour, the fourth act, and the old Roman, and left Verona at home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set one play, and said the Rose bill was their afternoon.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the roll, and refused Verona in the Roman plot.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked where his cue sits, and reported the bill he had read on a post.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Titus Andronicus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Dead in the fourth",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Seven Days and Wise Man",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Dead in the fourth",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Set Titus at two and the death in the fourth act",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Abel Garnish",
+    "Thomas Pope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Titus at two",
+    "the fourth act",
+    "an old Roman",
+    "the Rose bill"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Two of the clock, and I am done in the fourth act."
+    },
+    {
+      "speaker": "thomas_pope",
+      "text": "Seven Days and Wise Man. I read it on a post."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Two of the clock. One play. He dies in the fourth."
+    }
+  ]
+}

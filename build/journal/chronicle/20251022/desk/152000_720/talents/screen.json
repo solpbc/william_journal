@@ -1,0 +1,17 @@
+{
+  "narrative": "A part-roll on his knee in the tiring-house. The head of it is turned under his thumb. No name shows. Paint is on the wrist, not on the paper. No face. A few lines of a cue lower down. The speaker's name stays under the thumb. The bench and the rope are at the edge. No face. The roll closed. His painted hand rests on the cover. He has not carried it to the door. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read with the head covered, and shut the roll."
+    },
+    {
+      "type": "Tool",
+      "name": "the part-roll",
+      "role": "mentioned",
+      "context": "Shown on part in Kept the head of the part turned under"
+    }
+  ]
+}

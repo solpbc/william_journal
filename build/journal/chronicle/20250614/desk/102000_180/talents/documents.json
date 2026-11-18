@@ -1,0 +1,44 @@
+{
+  "overview": "You read the Rose bill at home. The title was The Seven Days of the Week, at two. There was no sum on it. You did not cross. Your afternoon was the Theatre, by the fields.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the title and set out for the Theatre by the fields."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the Rose bill",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the title",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the fields",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Seven Days of the Week",
+      "asset_type": "other",
+      "disposition": "Read The Seven Days of the Week and went by the fields"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-14",
+      "meaning": "Seven Days, title only"
+    }
+  ],
+  "summary": "Read The Seven Days of the Week and went by the fields"
+}

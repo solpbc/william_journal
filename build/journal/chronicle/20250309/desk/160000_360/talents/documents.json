@@ -1,0 +1,54 @@
+{
+  "overview": "You read Anne's letter through at the board, the children's news first, and then the postscript in the darker ink that you had skipped in the Bell's yard. The postscript says your father has a reckoning of fourteen shillings and sixpence at the whittawer's, and that it need not trouble you. The Lent list lies beside the sheet, still whole, and the letter is not folded to send.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the letter through, and stayed on the last sentence."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Anne's letter",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the children's groats",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the whittawer's bill",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Lent list",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "14s 6d at the whittawer's",
+      "asset_type": "other",
+      "disposition": "Reread the letter and stopped on the postscript"
+    },
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Reread the letter and stopped on the postscript"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-09",
+      "meaning": "Anne's letter, read again"
+    }
+  ],
+  "summary": "Reread the letter and stopped on the postscript"
+}

@@ -1,0 +1,1 @@
+You stopped in the lane because a pavan came from an upper window, played very exactly and then again faster. The window is lit gold. The shadow is a head bent at the instrument, and there is no face. You do not know the house. You did not go in. You are not in the picture.

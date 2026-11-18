@@ -1,0 +1,1 @@
+At the end plot the frame lay pegged, green oak almost yellow, four bays. Twelve men, poles and two ropes. You took a foot with Richard and the first cross-frame went up sweetly. Sadler said your twenty shillings was already in the timber, and the ale after was his cousin's. You were told to take the next foot the same way, from the legs.

@@ -1,0 +1,23 @@
+{
+  "narrative": "Your tables, open at the lodging, the candle, the oak-gall still on the forefinger. One line of the afternoon. No sum of the coffer beside it. No expected column. No received column. The line is not struck. You have not added paid, and you have not added a purse. The rest of the leaf is blank.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Kept the line, and did not strike it."
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "mentioned",
+      "context": "Named on the tables. Not in the room."
+    },
+    {
+      "type": "Company",
+      "name": "Edith's eight shillings",
+      "role": "mentioned",
+      "context": "Shown on tables in Edith, on the tables"
+    }
+  ]
+}

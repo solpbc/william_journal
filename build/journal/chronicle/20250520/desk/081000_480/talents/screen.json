@@ -1,0 +1,17 @@
+{
+  "narrative": "The landing scene, dry ink, a fresh margin down the right. No candle. The Flint leaf lies under this one, untouched. No new speech under the old one. A tick beside the captain's first line, and the pen still in the hand.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Ticked the captain and went on to the next mouth."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in King, as service"
+    }
+  ]
+}

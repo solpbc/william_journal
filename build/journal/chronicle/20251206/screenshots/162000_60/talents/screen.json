@@ -1,0 +1,29 @@
+{
+  "narrative": "Four o'clock in December: torches on the stage, a small figure laid on a tomb-bier, the yard's faces lifted.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Was on the stage side of the picture, and not yet the Prince in this instant."
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "context": "Lay as the small figure on the bier."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "context": "Was the man the light had been brought for."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "In photo: Torches, and the bier"
+    }
+  ]
+}

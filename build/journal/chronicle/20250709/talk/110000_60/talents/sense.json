@@ -1,0 +1,84 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Field stopped at the foot of the stair and took the Italian book back. He let you reach a second clause and then asked whether the thing was written, rumoured, or known. You said you feared it. He left the Holinshed lent. Mistress Ansell heard it from the hall. It took about a minute.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Feared the thing, and gave the book over with no title.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked the question, took the book, and left the Holinshed lent.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard it from the hall, and said he was the friend who leaves fastest.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "Holinshed",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Written, rumoured, or known",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Italian book",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Written, rumoured, or known",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Gave the Italian book back and answered with fear",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Richard Field",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "written or rumoured or known",
+    "the untitled book returned",
+    "Holinshed still lent"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_field",
+      "text": "Is this a thing written, a thing rumoured, or a thing thou knowest?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It is a thing I fear"
+    },
+    {
+      "speaker": "richard_field",
+      "text": "And my Holinshed is neither written, rumoured nor known, but lent."
+    }
+  ]
+}

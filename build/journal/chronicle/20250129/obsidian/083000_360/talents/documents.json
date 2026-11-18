@@ -1,0 +1,51 @@
+{
+  "overview": "You wrote Augustine a pointing and not a copy. The spring note stays as in the book. The winter note stays as in the book. You did not write the verses out again, and you did not improve them.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the pointing and did not copy a stanza."
+    },
+    {
+      "name": "Augustine Phillips",
+      "role": "mentioned",
+      "formal_term": "Augustine Phillips",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote Augustine a pointing"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the pointing",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the two notes",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Friday's promise",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the two songs",
+      "asset_type": "other",
+      "disposition": "Wrote Augustine a pointing"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-29",
+      "meaning": "Do not better it"
+    }
+  ],
+  "summary": "Wrote Augustine a pointing"
+}

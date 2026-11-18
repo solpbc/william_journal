@@ -1,0 +1,108 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "After the play, Margery brought word from the twopenny gallery. Five men are condemned at the Guildhall. The charge is not riot. It is high treason, levying war against the Queen. George Bryan gave Nick the old explanation, that a number gathered to pull down even a pillory may be called levying war. Kemp had no jest. Nobody knows the day. You told John you go into Warwickshire on Monday, and when he asked on what, you said on these. You could hold the letter and the trial, and think about neither.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said on these, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the five, and the charge, from the twopenny gallery.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Explained levying war by the pillory, and named no day.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had no jest for it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked on what, and asked when.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the law as Bryan had once heard it.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Guildhall trial",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in On these",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard five condemned for levying war and told John of Monday",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Goodwife Margery Pell",
+    "John Heminges",
+    "Will Kemp",
+    "George Bryan",
+    "Nick Sorrell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "five condemned",
+    "levying war",
+    "no day",
+    "on these"
+  ],
+  "quotes": [
+    {
+      "speaker": "margery_pell",
+      "text": "The men taken for Tower Hill were tried at the Guildhall today."
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "Gather a number to pull down what the Queen has set up"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "On these."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "On what?"
+    }
+  ]
+}

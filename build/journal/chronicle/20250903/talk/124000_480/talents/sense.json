@@ -1,0 +1,102 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At dinner you gave Mistress Ansell the friar at dawn with his basket, and the line from the road. She approved him until you said he marries them the same afternoon. She said that without their fathers' leave he is no better than the Nurse, and that it will end in a churchyard. You looked at her and said nothing. She measured the loaf as a full thumb short of the notch, at a penny. Gib was asleep on Brooke. You said the chronicle was still in the room under its cloth, and that you were not sending it back.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the friar, took the churchyard, and refused to carry the chronicle back.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Approved the friar, withdrew it, measured the loaf, and kept the cat unapproved.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named where the cat had moved, and kept the cloth on the chronicle.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Slept on Brooke.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "a penny",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in It will end in a churchyard",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Brooke",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in It will end in a churchyard",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in It will end in a churchyard",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard Mistress Ansell say the friar ends in a churchyard",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the friar",
+    "fathers' leave",
+    "the churchyard",
+    "a thumb and a penny",
+    "Brooke"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Without their fathers' leave? Then he is no better than the Nurse. Mark me, it will end in a churchyard."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "It wants a full thumb of my husband's notch."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The chronicle is still in the room, under its cloth."
+    }
+  ]
+}

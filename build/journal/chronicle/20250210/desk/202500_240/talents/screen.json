@@ -1,0 +1,17 @@
+{
+  "narrative": "A cue-roll of the new comedy on the desk, one candle. Two lines of a gloss have a single pen-stroke through them. The margin beside them is blank. No face. The head of the king's part, lower on the same roll. The opening line is clear. Nothing is written beside it. The outer margin of the roll, empty the length of the leaf. No letter set at the head of it, and no figure anywhere.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Struck the gloss, spared the first line, and left the margin blank of any figure."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on part in The gloss, struck"
+    }
+  ]
+}

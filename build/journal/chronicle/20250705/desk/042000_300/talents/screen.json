@@ -1,0 +1,29 @@
+{
+  "narrative": "The poem is off the shelf for the first time since March, open under the grey light. Beside it the commonplace, headed Verona, is open at a line you left blank in Lent. The pen is not on that line. Gib is asleep on the Golding, off to the side, and not on either page.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked at the blank and left it open."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Slept on the Golding and was not moved."
+    },
+    {
+      "type": "Project",
+      "name": "Brooke's Romeus and Juliet",
+      "role": "mentioned",
+      "context": "Shown on book in Alike in"
+    },
+    {
+      "type": "Tool",
+      "name": "the Golding",
+      "role": "mentioned",
+      "context": "Shown on book in Alike in"
+    }
+  ]
+}

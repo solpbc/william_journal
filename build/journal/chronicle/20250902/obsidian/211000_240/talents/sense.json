@@ -1,0 +1,59 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At home you wrote Kettleby's sentence under Of Kings in the commonplace book, and under it the second of October, as licensed. On the tables you left the morning's work: the Friar, his basket, and the line the carrier gave.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the sentence and the morning's reminder.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Ambrose Kettleby",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Supplied the sentence. He was not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the commonplace book",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Waiting on his foot",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Waiting on his foot",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote Kettleby's sentence under Of Kings",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Of Kings",
+    "the gout sentence",
+    "the Friar for the morning"
+  ],
+  "quotes": []
+}

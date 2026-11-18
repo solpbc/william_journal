@@ -1,0 +1,89 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "After the children had gone into the lane, the four of you ate. The shoulder went down to the bone. You did not open a new subject over it. The cheese took the end of the sitting.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Ate the shoulder down to the bone",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Ate the shoulder down to the bone",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Sadler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Ate the shoulder down to the bone",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Sadler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Ate the shoulder down to the bone",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the shoulder of mutton",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Ate the shoulder down to the bone",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the cheese",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Ate the shoulder down to the bone",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Ate dinner at the Sadlers'",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Judith Sadler",
+    "Hamnet Sadler",
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the bone",
+    "the cheese",
+    "the children in the lane"
+  ],
+  "quotes": [
+    {
+      "speaker": "judith_sadler",
+      "text": "The lane has them."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "I have finished my speaking for this board."
+    }
+  ]
+}

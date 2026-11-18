@@ -1,0 +1,17 @@
+{
+  "narrative": "One new page under Tuesday's short greeting. Two speeches, and then the pen set down. The tables at the edge of the board are untouched.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the page, and set the pen down."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in The men have gone home"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "overview": "Before you left the house you read the new moon in the almanac. It gave the day and no hour. You did not add one.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the line and shut the book."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the new moon",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the almanac",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no hour",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the penny almanac",
+      "asset_type": "other",
+      "disposition": "Read the new moon in the almanac"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-22",
+      "meaning": "Read the new moon in the almanac"
+    }
+  ],
+  "summary": "Read the new moon in the almanac"
+}

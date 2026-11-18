@@ -1,0 +1,7 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "dorcas_ansell", "start": "08:40:00", "text": "You are not dressed for a play. It is past the hour you usually complain.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:40:16", "text": "The house plays Titus. I am not in it. I go at five, and not before.", "timing": {"end": 32.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "alse_pinder", "start": "08:40:32", "text": "Shall I set dinner as if you were staying?", "timing": {"end": 44.0, "start": 32.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "08:40:44", "text": "Set it. I am in the garret until five. The pot can be the ordinary one.", "timing": {"end": 60.0, "start": 44.0}}
+{"sentence_id": 5, "speaker": "dorcas_ansell", "start": "08:41:00", "text": "Then it will be ordinary, and it will not wait while you make a virtue of staying home. Five is your affair. Noon is mine.", "timing": {"end": 80.0, "start": 60.0}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "08:41:20", "text": "Noon I will keep. I have pages to read, and they are not the ones the house is playing.", "timing": {"end": 90.0, "start": 80.0}}

@@ -1,0 +1,49 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You said the twenty-two did not pay the fifty or the eight. You stopped. You did not go out again, and you did not send the letter.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the line and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Princess's gown",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not against the fifty",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Repeated the twenty-two shillings and stopped",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twenty-two shillings",
+    "the unpaid page"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Twenty-two, and the page stays unpaid."
+    }
+  ]
+}

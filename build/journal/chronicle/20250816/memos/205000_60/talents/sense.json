@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Home, you said she had picked that house before you had the wit to want it. Three years had been a tidy offer, and she had not taken it. You still do not know whose it is, and you did not ask the price. The back was still with you.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said it upstairs, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the great house",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Before I'd the wit",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Said she had picked that house",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "that one",
+    "three years",
+    "no price"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "That one. She had it picked before I'd the wit to want it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Three years was a tidy offer."
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250112",
+    "end": "20250118"
+  },
+  "generated_at": "2025-01-18T22:00:00Z",
+  "days": [
+    {
+      "day": "20250112",
+      "state": "memory",
+      "memory_id": "m-20250112-0"
+    },
+    {
+      "day": "20250113",
+      "state": "memory",
+      "memory_id": "m-20250113-1"
+    },
+    {
+      "day": "20250114",
+      "state": "memory",
+      "memory_id": "m-20250114-2"
+    },
+    {
+      "day": "20250115",
+      "state": "memory",
+      "memory_id": "m-20250115-3"
+    },
+    {
+      "day": "20250116",
+      "state": "memory",
+      "memory_id": "m-20250116-4"
+    },
+    {
+      "day": "20250117",
+      "state": "memory",
+      "memory_id": "m-20250117-5"
+    },
+    {
+      "day": "20250118",
+      "state": "memory",
+      "memory_id": "m-20250118-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250112-0",
+      "key": "mem_20250112_0",
+      "day": "20250112",
+      "text": "You wrapped hard soap and Coventry blue thread. Mistress Ansell knows the third thing. Gilbert has the parcel for Thursday's carrier.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250112/talents/morning_briefing",
+        "briefing_day": "20250112",
+        "refs": [
+          "sol://facets/household/activities/20250112#meeting_104000_360",
+          "sol://facets/stratford/activities/20250112#frame_165000_240",
+          "sol://facets/stratford/activities/20250112#note_170000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250113-1",
+      "key": "mem_20250113_1",
+      "day": "20250113",
+      "text": "Fourteen lines stand. Forsworn comes three times in four lines. The loss was the morning.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250113/talents/morning_briefing",
+        "briefing_day": "20250113",
+        "refs": [
+          "sol://facets/household/activities/20250113#meeting_093000_180",
+          "sol://facets/writing/activities/20250113#frame_114000_240",
+          "sol://facets/writing/activities/20250113#note_121000_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250114-2",
+      "key": "mem_20250114_2",
+      "day": "20250114",
+      "text": "Garnish counted six entrances. You played at two.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250114/talents/morning_briefing",
+        "briefing_day": "20250114",
+        "refs": [
+          "sol://facets/company/activities/20250114#meeting_091500_480",
+          "sol://facets/writing/activities/20250114#note_211000_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20250115-3",
+      "key": "mem_20250115_3",
+      "day": "20250115",
+      "text": "The close was hard frost. One window was lit in Crosby Place. You laughed at a line that sounded grand through a stopped nose.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250115/talents/morning_briefing",
+        "briefing_day": "20250115",
+        "refs": [
+          "sol://facets/writing/activities/20250115#frame_112000_300",
+          "sol://facets/household/activities/20250115#photo_221000_120",
+          "sol://facets/household/activities/20250115#memo_222000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250116-4",
+      "key": "mem_20250116_4",
+      "day": "20250116",
+      "text": "You paid sixpence for the parcel and twopence for the letter. Nothing from Stratford was put in your hand.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250116/talents/morning_briefing",
+        "briefing_day": "20250116",
+        "refs": [
+          "sol://facets/stratford/activities/20250116#meeting_172000_480",
+          "sol://facets/stratford/activities/20250116#frame_191000_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250117-5",
+      "key": "mem_20250117_5",
+      "day": "20250117",
+      "text": "You changed three cue-words and kept Egeon. Kemp was kind.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250117/talents/morning_briefing",
+        "briefing_day": "20250117",
+        "refs": [
+          "sol://facets/company/activities/20250117#meeting_091000_480",
+          "sol://facets/company/activities/20250117#photo_094000_120",
+          "sol://facets/company/activities/20250117#frame_112000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250118-6",
+      "key": "mem_20250118_6",
+      "day": "20250118",
+      "text": "Cowley took Egeon. You stayed in bed, and the fever was highest in the evening.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250118/talents/morning_briefing",
+        "briefing_day": "20250118",
+        "refs": [
+          "sol://facets/company/activities/20250118#meeting_110000_480",
+          "sol://facets/household/activities/20250118#photo_111400_120",
+          "sol://facets/writing/activities/20250118#memo_153000_120"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250112-0",
+      "key": "said_20250112_0",
+      "day": "20250112",
+      "quote": "I began, The winter hath been very full. I struck it. It tells her nothing she can buy.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250112#meeting_171500_480"
+      }
+    },
+    {
+      "id": "s-20250112-1",
+      "key": "said_20250112_1",
+      "day": "20250112",
+      "quote": "The half-line is empty. I will not fill it tonight to be done.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250112#memo_221000_120"
+      }
+    },
+    {
+      "id": "s-20250113-2",
+      "key": "said_20250113_2",
+      "day": "20250113",
+      "quote": "It is a marvel how small an ailment is, and how much of a man's morning it will command.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250113#memo_165000_120"
+      }
+    },
+    {
+      "id": "s-20250115-3",
+      "key": "said_20250115_3",
+      "day": "20250115",
+      "quote": "One window lit. The Mayor sits up. What keeps him from sleeping?",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250115#memo_222000_120"
+      }
+    },
+    {
+      "id": "s-20250116-4",
+      "key": "said_20250116_4",
+      "day": "20250116",
+      "quote": "Oiled cloth. It is meant to arrive, not to be looked at.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250116#meeting_172000_480"
+      }
+    },
+    {
+      "id": "s-20250117-5",
+      "key": "said_20250117_5",
+      "day": "20250117",
+      "quote": "I will last it on breath and on consonants. The vowels may do as they please.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250117#meeting_091000_480"
+      }
+    },
+    {
+      "id": "s-20250118-6",
+      "key": "said_20250118_6",
+      "day": "20250118",
+      "quote": "The two names sit too near. A tired mouth takes the first. That is the reason.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250118#meeting_110000_480"
+      }
+    },
+    {
+      "id": "s-20250118-7",
+      "key": "said_20250118_7",
+      "day": "20250118",
+      "quote": "The fever may have the afternoon. It already had the work.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250118#memo_153000_120"
+      }
+    }
+  ]
+}

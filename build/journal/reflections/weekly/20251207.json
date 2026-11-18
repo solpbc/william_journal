@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20251207",
+    "end": "20251213"
+  },
+  "generated_at": "2025-12-13T22:00:00Z",
+  "days": [
+    {
+      "day": "20251207",
+      "state": "memory",
+      "memory_id": "m-20251207-0"
+    },
+    {
+      "day": "20251208",
+      "state": "memory",
+      "memory_id": "m-20251208-1"
+    },
+    {
+      "day": "20251209",
+      "state": "memory",
+      "memory_id": "m-20251209-2"
+    },
+    {
+      "day": "20251210",
+      "state": "memory",
+      "memory_id": "m-20251210-3"
+    },
+    {
+      "day": "20251211",
+      "state": "memory",
+      "memory_id": "m-20251211-4"
+    },
+    {
+      "day": "20251212",
+      "state": "memory",
+      "memory_id": "m-20251212-5"
+    },
+    {
+      "day": "20251213",
+      "state": "memory",
+      "memory_id": "m-20251213-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20251207-0",
+      "key": "mem_20251207_0",
+      "day": "20251207",
+      "text": "She refused a second play. The king was wanted whole, and no one named the guest.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251207/talents/morning_briefing",
+        "briefing_day": "20251207",
+        "refs": [
+          "sol://facets/household/activities/20251207#meeting_074500_600",
+          "sol://facets/company/activities/20251207#call_150000_180",
+          "sol://facets/company/activities/20251207#meeting_152000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20251208-1",
+      "key": "mem_20251208_1",
+      "day": "20251208",
+      "text": "The lead is two words, kept as a mark. The public king stayed the cut book. Kemp asked for no new line.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251208/talents/morning_briefing",
+        "briefing_day": "20251208",
+        "refs": [
+          "sol://facets/company/activities/20251208#meeting_090000_600",
+          "sol://facets/company/activities/20251208#frame_092000_360",
+          "sol://facets/company/activities/20251208#frame_100500_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20251209-2",
+      "key": "mem_20251209_2",
+      "day": "20251209",
+      "text": "Five pounds, twelve and six, the glass left outside the five, and one sentence still open.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251209/talents/morning_briefing",
+        "briefing_day": "20251209",
+        "refs": [
+          "sol://facets/company/activities/20251209#meeting_091000_600",
+          "sol://facets/company/activities/20251209#frame_140500_240",
+          "sol://facets/household/activities/20251209#meeting_164000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20251210-3",
+      "key": "mem_20251210_3",
+      "day": "20251210",
+      "text": "The prologue again, to a yard nearly as full as Saturday.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251210/talents/morning_briefing",
+        "briefing_day": "20251210",
+        "refs": [
+          "sol://facets/household/activities/20251210#meeting_123000_180",
+          "sol://facets/company/activities/20251210#frame_140000_120",
+          "sol://facets/company/activities/20251210#frame_141200_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20251211-4",
+      "key": "mem_20251211_4",
+      "day": "20251211",
+      "text": "You refused his face as a verdict. The Queen was late. The groom held, on six paces.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251211/talents/morning_briefing",
+        "briefing_day": "20251211",
+        "refs": [
+          "sol://facets/writing/activities/20251211#memo_022000_120",
+          "sol://facets/company/activities/20251211#meeting_090500_600",
+          "sol://facets/writing/activities/20251211#memo_101500_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20251212-5",
+      "key": "mem_20251212_5",
+      "day": "20251212",
+      "text": "A hall in the Blackfriars, six fingers and no sum. The weaver's line went back to Kemp.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251212/talents/morning_briefing",
+        "briefing_day": "20251212",
+        "refs": [
+          "sol://facets/company/activities/20251212#call_081500_240",
+          "sol://facets/company/activities/20251212#frame_140000_120",
+          "sol://facets/company/activities/20251212#frame_141500_300"
+        ]
+      }
+    },
+    {
+      "id": "m-20251213-6",
+      "key": "mem_20251213_6",
+      "day": "20251213",
+      "text": "Thirty-seven beside twelve and six. The private leaves tied, and put at the bottom.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251213/talents/morning_briefing",
+        "briefing_day": "20251213",
+        "refs": [
+          "sol://facets/company/activities/20251213#frame_140000_120",
+          "sol://facets/company/activities/20251213#frame_141500_240",
+          "sol://facets/company/activities/20251213#meeting_164500_720"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20251207-0",
+      "key": "said_20251207_0",
+      "day": "20251207",
+      "quote": "I am writing the work. I am not writing the reason.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251207#meeting_173000_480"
+      }
+    },
+    {
+      "id": "s-20251208-1",
+      "key": "said_20251208_1",
+      "day": "20251208",
+      "quote": "I have seen a fraction of doubt spread through a scene like a crack through a pane, and the orchard is all pane.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251208#meeting_090000_600"
+      }
+    },
+    {
+      "id": "s-20251209-2",
+      "key": "said_20251209_2",
+      "day": "20251209",
+      "quote": "The king comes out of it. We will not explain him while he is happening.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251209#meeting_174500_480"
+      }
+    },
+    {
+      "id": "s-20251211-3",
+      "key": "said_20251211_3",
+      "day": "20251211",
+      "quote": "Two nights since I had forty candles and the Queen's own councillor, and I'm lying here construing him like Ovid.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251211#memo_022000_120"
+      }
+    },
+    {
+      "id": "s-20251211-4",
+      "key": "said_20251211_4",
+      "day": "20251211",
+      "quote": "A powerful man's face is not a verdict. I have decided not to read it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251211#meeting_090500_600"
+      }
+    },
+    {
+      "id": "s-20251212-5",
+      "key": "said_20251212_5",
+      "day": "20251212",
+      "quote": "That is his mouth. Too many of my joints in it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251212#memo_180500_60"
+      }
+    },
+    {
+      "id": "s-20251213-6",
+      "key": "said_20251213_6",
+      "day": "20251213",
+      "quote": "Kept. Not given. That's a kind.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251213#memo_211000_60"
+      }
+    }
+  ]
+}

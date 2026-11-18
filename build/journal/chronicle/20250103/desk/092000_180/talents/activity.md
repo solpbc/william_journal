@@ -1,0 +1,1 @@
+You wrote the plot in a form you could say: four gentlemen swear to study three years and to see no woman, and four ladies come to the court. Under that you wrote that they arrive, and that there is no sentence on them yet. You left the blank.

@@ -1,0 +1,1 @@
+You spoke the prologue a second time. The line was "Two housholds both alike in dignitie". The yard was nearly as full as Saturday, and you did not count it. Nick was under the note. You did not change a cue. You did not ask what the boxes held.

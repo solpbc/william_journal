@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "Before you folded anything, you read the leaf again in the failing light. The bellows-mender's line and the queen's question were both there. The blank under the last sentence was still blank.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "attendee in Read the leaf again before folding it",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read the morning's leaf again in the afternoon",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the open leaf",
+    "the failing light",
+    "the blank"
+  ],
+  "quotes": []
+}

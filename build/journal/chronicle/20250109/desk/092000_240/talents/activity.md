@@ -1,0 +1,1 @@
+At the morning rehearsal you read the plot for the Shrew at two and your name is not on it. You did not add yourself. You went home rather than stay and be put on by accident. Saturday's long tale is not this paper.

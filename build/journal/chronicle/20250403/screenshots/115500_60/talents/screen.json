@@ -1,0 +1,17 @@
+{
+  "narrative": "Anne at a stall judging a cheese, her hand on the rind; his own hand on the basket handle in the foreground",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "In Her hand on the rind"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "context": "Judged the cheese with her hand on the rind."
+    }
+  ]
+}

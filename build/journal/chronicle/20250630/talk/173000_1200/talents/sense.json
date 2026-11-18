@@ -1,0 +1,102 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You paid twopence for the Monday horn and threepence to sit at the board. Mistress Ansell set the penny loaf against the notch. It wants a full thumb, and the price is still a penny. If anyone asks, Gillis is from Norwich. She asked what the morning was. You told her a king who talks, and that you are not playing him this week. Dick still has the forty leaves. You did not open a book.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid the twopence and the threepence, and said the king is not played this week.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sold the horn, kept the Norwich answer, and measured the loaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Served the beer, and left the cat where he was.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed at the back loom, and did not add to the story.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "2d the horn",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Monday's copper and the loaf",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "3d the meal",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Monday's copper and the loaf",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Monday's copper and the loaf",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Paid for the horn and sat to the board",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twopence for the horn",
+    "threepence for the board",
+    "the notch",
+    "Norwich still the answer"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The loaf wants a full thumb of the notch. Mark me, by Michaelmas we'll be eating the board"
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "If anybody asks, Gillis is from Norwich"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A king, Mistress. He talks. The room heard him through"
+    }
+  ]
+}

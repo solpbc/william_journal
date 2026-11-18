@@ -1,0 +1,44 @@
+{
+  "overview": "You counted from this Sunday to St Stephen and wrote one line in the almanac. Richmond is twenty-six days off. You did not add a time, a play, or a sum, and you did not mark this morning with anything but the feast.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Counted, and wrote the line once."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the almanac",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "twenty-six days",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "St Stephen",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the penny almanac",
+      "asset_type": "other",
+      "disposition": "Wrote twenty-six days against St Stephen"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-30",
+      "meaning": "Twenty-six days"
+    }
+  ],
+  "summary": "Wrote twenty-six days against St Stephen"
+}

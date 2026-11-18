@@ -1,0 +1,29 @@
+{
+  "narrative": "The February and March leaves of a penny almanac on the parlour table, under one candle. Two marks in his hand, and no third. John's sleeve at the edge of the board. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Marked the two dates."
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "context": "Stood at the table while the marks went in. His face is not on the page."
+    },
+    {
+      "type": "Tool",
+      "name": "the almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in The twentieth"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on almanac in The twentieth"
+    }
+  ]
+}

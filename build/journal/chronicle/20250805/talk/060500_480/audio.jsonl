@@ -1,0 +1,7 @@
+{"backend": "whisper", "duration": 480.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "bartholomew_hathaway", "start": "06:05:00", "text": "You are late for a sickle and early for a speech. Bind.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "06:05:14", "text": "From six till four. I was sent as a back, not as a sentence.", "timing": {"end": 28.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "bartholomew_hathaway", "start": "06:05:28", "text": "Short in the ear. The stooks stand with ground between them. That is this field.", "timing": {"end": 46.0, "start": 28.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "06:05:46", "text": "I'll bind. I will not count your crop for you.", "timing": {"end": 60.0, "start": 46.0}}
+{"sentence_id": 5, "speaker": "bartholomew_hathaway", "start": "06:06:00", "text": "Bind what is cut. Dinner is an hour, and I will say when the hour is.", "timing": {"end": 76.0, "start": 60.0}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "06:06:16", "text": "Call it, and I will stop. Until you call it, I am binding.", "timing": {"end": 86.0, "start": 76.0}}

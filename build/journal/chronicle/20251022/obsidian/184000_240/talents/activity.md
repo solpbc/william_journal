@@ -1,0 +1,1 @@
+You wrote a page that was not the lines. It said the bundle stayed tied, that the three rolls were not this page, and that the house had been given broth and not the day. It said she was alone, the door shut, and that you had not given her the drink. It said the lines, if they came, would go on a clean leaf, and that you meant to stop before she drank.

@@ -1,0 +1,49 @@
+{
+  "overview": "You read the Rose's bill before you left the Theatre. The title is Harry the Fifth. It names no author. You did not cross the river, and you did not treat the bill as a thing to attend.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the title, and did not start for the river."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the Rose bill",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Harry the Fifth",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "title only",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "not attended",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Harry the Fifth",
+      "asset_type": "other",
+      "disposition": "Read the Rose bill, Harry the Fifth"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-08",
+      "meaning": "Harry the Fifth"
+    }
+  ],
+  "summary": "Read the Rose bill, Harry the Fifth"
+}

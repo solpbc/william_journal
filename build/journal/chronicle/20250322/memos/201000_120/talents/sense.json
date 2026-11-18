@@ -1,0 +1,62 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At home you said the jacks leap to kiss the player's hand, and that a man stands envying dead wood. You said you are not asking her name. You stopped. You did not speak a line of verse.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the three sentences and did not speak the lines he meant to write.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "the lady of the parish",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in The jacks",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the virginals",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The jacks",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Spoke of the jacks and stopped",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the jacks",
+    "dead wood",
+    "no name"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The jacks leap to kiss the hand that plays."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Enough of the jacks."
+    }
+  ]
+}

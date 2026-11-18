@@ -1,0 +1,1 @@
+At dinner the penny loaf was still a finger short of the notch. Your board was threepence. Gib was on the stair and not on the book. You told the house you would write and that you would not send it. Hobbins had already gone with Thursday's packet.

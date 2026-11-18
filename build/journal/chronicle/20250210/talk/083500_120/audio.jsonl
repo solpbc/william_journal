@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "dorcas_ansell", "start": "08:35:00", "text": "You are out before dinner, and you are playing at two. Leave the desk as you mean to find it.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:35:16", "text": "I have an errand at Holborn. I will be back to eat. The leaf on the desk is not to be sent.", "timing": {"end": 34.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "alse_pinder", "start": "08:35:34", "text": "I do not read it. I dust round it.", "timing": {"end": 46.0, "start": 34.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "08:35:46", "text": "Dust round it. The loaf will keep. I am not asking it to grow.", "timing": {"end": 56.0, "start": 46.0}}

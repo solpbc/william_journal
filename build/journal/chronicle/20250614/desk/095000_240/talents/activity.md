@@ -1,0 +1,1 @@
+You wrote the prices in the commonplace book. Butter at threepence by the apprentices' law, fourpence by the constable's, fivepence by the sellers'. The loaf, a thumb. You did not change the penny. You did not add a share, or a name.

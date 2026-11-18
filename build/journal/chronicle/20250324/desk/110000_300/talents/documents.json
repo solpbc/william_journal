@@ -1,0 +1,44 @@
+{
+  "overview": "You had the chronicle open and the margin holds two words. Nothing under the column is a line for a man to speak. Brooke stays shut.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the column and stopped at the margin."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the open book",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the margin",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "not begun",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Holinshed, second volume",
+      "asset_type": "other",
+      "disposition": "Read the chronicle with the cloth folded back"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-24",
+      "meaning": "The cloth folded back"
+    }
+  ],
+  "summary": "Read the chronicle with the cloth folded back"
+}

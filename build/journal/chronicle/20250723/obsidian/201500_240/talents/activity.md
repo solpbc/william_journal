@@ -1,0 +1,1 @@
+Upstairs you wrote Anne five lines. The house goes dark on Saturday. You set out Monday, on foot, by Banbury, and you look to be at the bridge on Thursday, the last of July. Hobbins goes at first light and will be there four days before you. You commended her to the children and to your father and mother. You did not write that you had read her instruction not to come.

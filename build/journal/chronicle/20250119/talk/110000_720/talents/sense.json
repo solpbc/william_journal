@@ -1,0 +1,94 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You kept the bed. Mistress Ansell put the posset in your hands and told you she had been to church for the house, because you had walked in a frost at ten at night. Gilbert came as far as the chair with Anne's letter from Thursday's carrier. The children want shoes in one month, your father's cough is mild and cheerful, and she would know about Lent. He told you to answer the last one first. You did not answer it. Sixpence and twopence were Thursday's, already paid.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Drank the posset, read the letter, and did not answer it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the sermon home and kept the stair.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the bolster, took the bowl down, and did not touch the writing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gilbert Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the letter from the Bell and said to answer the last question first.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the posset",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The posset, and the last question",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "sixpence and twopence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The posset, and the last question",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Drank the posset and read the letter",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "William Shakespeare",
+    "Gilbert Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the posset",
+    "the sermon brought home",
+    "the letter",
+    "Lent"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A man may be a poet and still drink his posset while it is hot."
+    },
+    {
+      "speaker": "gilbert_shakespeare",
+      "text": "Answer the last one first, brother."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The shoes are not a poem."
+    }
+  ]
+}

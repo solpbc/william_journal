@@ -1,0 +1,116 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Garnish held up the pasteboard and read it scene by scene. Burbage is the king and needs no roll. You are Gaunt. Phillips is Bolingbroke, Heminges York, Bryan Northumberland, Sly Mowbray, Pope the gardener, Sincler the Groom. The Parliament is off the plot. The jig at the foot is Kemp's.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Stood by the door. His name is on the plot as Gaunt.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the plot scene by scene.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Named as the king. Not yet in the room's talk.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Named as Bolingbroke.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Named as York.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Named as Northumberland.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Named as the gardener.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "John Sincler",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Named as the Groom.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "William Sly",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Named as Mowbray in the lists.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Named at the foot, for the jig.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard the Second",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The pasteboard",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read the plot before the rolls went out",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the pasteboard",
+    "the rolls",
+    "the Parliament off it",
+    "the jig"
+  ],
+  "quotes": []
+}

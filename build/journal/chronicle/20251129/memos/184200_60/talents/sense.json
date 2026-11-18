@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You said the day was one line and two locks. The tradesmen can wait. Nobody has asked for the next page, and you are not writing one to feel ready. The nights are named. The joke is crossed. Five mornings, and then the sixth.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the line, the locks, and the wait.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the tradesmen",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nobody has asked",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Shut the book on the week",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one line",
+    "the tradesmen waiting",
+    "five mornings"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Nobody has asked for the next page, and I am not writing one to feel ready."
+    }
+  ]
+}

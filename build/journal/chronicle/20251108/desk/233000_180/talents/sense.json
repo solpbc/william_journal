@@ -1,0 +1,44 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At half past eleven the sheet shows the vault line and, under it, the dagger given its sheath and the families not fetched. The space below is blank. The candle is still burning. You did not dip the pen again.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the stop, and did not fetch the families.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in A feasting presence",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote as far as the dagger",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the vault line",
+    "the dagger",
+    "the blank",
+    "the candle still burning"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,49 @@
+{
+  "overview": "You wrote Item, cloves, ij d., a pennyworth on the way home and another for the night. You did not open the coffer. You wrote till ten on nothing but stubbornness, and the page did not become a scene.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the line, wrote till ten, and stopped."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "cloves",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "twopence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "stubbornness",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the coffer shut",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "twopence",
+      "asset_type": "other",
+      "disposition": "Wrote Item, cloves, ij d."
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-09",
+      "meaning": "Item, cloves, ij d."
+    }
+  ],
+  "summary": "Wrote Item, cloves, ij d."
+}

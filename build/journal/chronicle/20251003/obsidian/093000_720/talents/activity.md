@@ -1,0 +1,1 @@
+You wrote a father who names Thursday and does not ask the girl. You struck the speech that explained a feeling the yard has already seen, eleven lines, and left her one turn and fewer words. The margin still says to trust the boy. You did not write a dawn, a cup, or a tomb, and you did not copy a printed line. No part was handed to anyone.

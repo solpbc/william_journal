@@ -1,0 +1,23 @@
+{
+  "narrative": "On the pine trestle a horn stands open beside the lead weight. Three long parchment strips lie pinned at their corners. Humphrey's hand works the tail of York's roll, where the shortened cue stood. No face. Humphrey's secretary hand sets the full closing words onto York's strip, repeats them at the head of the Queen's entrance, and sets the small winter sign in the corner of each of the three rolls. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Checked the wording at Humphrey's elbow as each roll was marked."
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "mentioned",
+      "context": "Set the full closing words and the winter sign onto all three rolls."
+    },
+    {
+      "type": "Tool",
+      "name": "the three rolls",
+      "role": "mentioned",
+      "context": "Shown on part in Humphrey's pen across the three rolls"
+    }
+  ]
+}

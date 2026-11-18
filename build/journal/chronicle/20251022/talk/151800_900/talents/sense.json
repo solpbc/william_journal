@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "After Kemp went on, the rope stayed on the bench and the tale went with him. You kept the rule about the door. Nick stayed off the crack of it. Pope said John had not come to count you yet.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stayed off after Kemp went back on",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stayed off after Kemp went back on",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stayed off after Kemp went back on",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the rope",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Stayed off after Kemp went back on",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Came in for the afternoon play",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Pope",
+    "William Shakespeare",
+    "Nick Sorrell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the rope left behind",
+    "the inner door",
+    "an empty mouth"
+  ],
+  "quotes": [
+    {
+      "speaker": "nick_sorrell",
+      "text": "The cloth can do the listening."
+    }
+  ]
+}

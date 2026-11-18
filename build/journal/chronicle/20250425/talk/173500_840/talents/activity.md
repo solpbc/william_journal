@@ -1,0 +1,1 @@
+At the Jackdaw you gave Burbage four sheets over fish and eggs at sixpence each. He laughed when the ten years became six, and said the king does it because he can. He took the long speech and read it to the fire. Agnes stopped with the jug. He asked who would play the other man, and you ate the eggs cold and named nobody. The slate was two sixpences.

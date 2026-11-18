@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Upstairs, low, you said you keep a house in each place and live in neither, and then you took it back. You said you live here, and you told yourself to hold to it. You still do not know whose the great house is, and you are not going to ask on the road. You ended on sixteen shillings, the back, and six in the morning.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Corrected himself once, and ended on the morning.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the great house by the chapel",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in I live here",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Chose this house to live in",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two houses",
+    "I live here",
+    "no asking on the road"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Two houses. I keep one in each and live in neither."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I live here. I said so. Hold to it."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "John called from Aldermanbury after going through the book with Garnish. You have written four ladies and a dairymaid, and he has three boys, and one of the three is the page. You offered to cut the dairymaid. Kemp has already seen her, so she stays. Two boys out of Pope's parish at three shillings the week each stand as Maria and Katharine, and are not paid tonight. Sincler, in black, is the messenger, since he needs no padding to look like bad news. John takes the schoolmaster. His wife says Nick is growing through his sleeves. He said the Princess wants a gown, and he is not buying it tonight.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Offered to cut the dairymaid, accepted the hiring, and left the gown.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the ladies, set the boys and the messenger and the schoolmaster, and said the Princess wants a gown.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in Four ladies, and a dairymaid",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in Four ladies, and a dairymaid",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in Four ladies, and a dairymaid",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "John Sincler",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in Four ladies, and a dairymaid",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in Four ladies, and a dairymaid",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Four ladies, and a dairymaid",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Settled the ladies on John's call",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the ladies",
+    "the dairymaid",
+    "the two boys at three shillings",
+    "Sincler",
+    "the schoolmaster",
+    "the gown"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Will? John Heminges. From Aldermanbury"
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "You've written four ladies and a dairymaid, and I have three boys, and one of the three is the page"
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "The Princess wants a gown"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "And you;"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "narrative": "The new plot hangs on its peg in the tiring-house. A brazier burns inside the door. Beyond the door the stage is rimed with frost. Garnish's hand has just left the board. Nothing in the margin is circled, because nothing in the margin has been tried. The lower edge of the same board. No sum. No hall. No second plot beside it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the plot and left it on the peg."
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "context": "Had hung it, and had not yet timed the morning."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on plot in The plot on its peg"
+    }
+  ]
+}

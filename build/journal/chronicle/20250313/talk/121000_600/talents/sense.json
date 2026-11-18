@@ -1,0 +1,103 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You boarded at her table, one meal at threepence, inside the two or three she allows in a week. The penny loaf sat short of the old notch, and she said you need not make a sermon of a loaf. She said four young men swear off women and keep it till dinner, and that she believes that. Alse said Gib is on the book again, on the page you said you need. Quiet after nine still stands. You did not rehearse on the stair.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat, looked at the notch, and did not rehearse.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the threepence, refused a proverb, and named her hours.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the herring and the loaf, and reported the cat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Preferred the table to the loom for the length of the meal, then went back.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "3d a meal",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Under the notch",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the bread-board",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Under the notch",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Under the notch",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Sat one meal and let the short loaf be",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "threepence",
+    "the notch",
+    "four young men",
+    "the cat on the book",
+    "quiet after nine"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "If you are sitting, it is threepence, and it counts."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Four young men swear off women and keep it till dinner. That I believe."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It was a meal."
+    }
+  ]
+}

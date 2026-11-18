@@ -1,0 +1,1 @@
+Master Thwaite read the Lord Mayor's precept against blue starch and preached on it. The glass was turned once, and again. The Mayor sat ten yards off in a white ruff and did not speak. A draper's wife in the north aisle was blue at the band. Alse's band was white.

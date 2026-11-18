@@ -1,0 +1,1 @@
+You added a postscript to Sunday's sheet, which has not yet gone. You asked whether the frame in Chapel Street is truly finished, and what the plasterer asked. You wrote that rebuilt can hide a deal of work still owing.

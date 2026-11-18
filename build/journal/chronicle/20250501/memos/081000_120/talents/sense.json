@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Back at the lodging you set down the scene that walked up with you. An old woman asks an old man for revenge and gets patience. You will play the old man. The tables line is God's is the quarrel. You did not write the scene out under it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the line and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in God's is the quarrel",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote that God's is the quarrel",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the old man",
+    "patience",
+    "the tables line"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "God's is the quarrel."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will play the old man."
+    }
+  ]
+}

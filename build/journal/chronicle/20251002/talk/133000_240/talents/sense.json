@@ -1,0 +1,85 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At half past one Garnish locked the looking-glass in the property chest. It has no business in the play. Richard put it on the seat and would not say why. You asked once whether it stayed, and you did not ask the why a second time. The deposing is only reported. The key stays with Garnish.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked once, and let the chest end it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Would not say why, and did not stop the locking.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Locked the glass away at half past one, and kept the key.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "In the room, and not needed for a key.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the looking-glass",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Locked at half past one",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Let Garnish lock the glass",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "Richard Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "half past one",
+    "the chest",
+    "no reason given",
+    "the cut scene"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "I put it on the seat. I will not say why."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "I am locking it in the property chest."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Nothing is an answer."
+    }
+  ]
+}

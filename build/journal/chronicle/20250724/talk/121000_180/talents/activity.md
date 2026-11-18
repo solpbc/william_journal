@@ -1,0 +1,1 @@
+About noon a neighbour's journeyman came to the street door with an account of the morning. You did not go down. You sent Alse to say you were at your work. You were not. The account did not come up the stair.

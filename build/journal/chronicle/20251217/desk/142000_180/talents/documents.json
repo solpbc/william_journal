@@ -1,0 +1,44 @@
+{
+  "overview": "At two you played, and the strip did not name the part. You did not copy a speech into the margin, and you did not add a line. You went on.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Played, and did not name the part on the strip."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the afternoon roll",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no name on the strip",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no new line",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Taming of the Shrew",
+      "asset_type": "other",
+      "disposition": "Played the afternoon from the cues"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-17",
+      "meaning": "In it, and not named"
+    }
+  ],
+  "summary": "Played the afternoon from the cues"
+}

@@ -1,0 +1,156 @@
+{
+  "daily_coverage": {
+    "maintenance": {
+      "identity": {
+        "day": "",
+        "name": "daily_schedule"
+      },
+      "evidence_revision": "31004c22128ba7817af9c61712e3f3330bcbf184761312eab1601d1107199e1b",
+      "contract_digest": "ee026c5cb5ebd3cc3d9091f9d6e63f569afac1051df96440693eb3e9489975a1",
+      "state": "outstanding",
+      "reason_code": null,
+      "owed_by": "never_made"
+    },
+    "day": "20250405",
+    "as_of_ms": 1794975930628,
+    "state": "outstanding",
+    "units": [
+      {
+        "identity": {
+          "day": "20250405",
+          "name": "morning_briefing"
+        },
+        "evidence_revision": "60bc607eb345edd714143a2a98e9c5d47b21c7569bfbd3c91aea2dc4862dd84b",
+        "contract_digest": "40f6ec89fd8b80947c2d431fca4955ff05f86b2beb2696d6671808af2e4f75d1",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250405",
+          "name": "entities:entities_review",
+          "facet": "stratford"
+        },
+        "evidence_revision": "3f73ec0f4291dd299d7708ce8cda8ad76ec100ef50205072846d2dd410610ee5",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250405",
+          "name": "entities:entities_review",
+          "facet": "writing"
+        },
+        "evidence_revision": "9bac122374eeff8b6bb6ccb9343c6e20aa28d60d8f61640bc9edc7859e578a57",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250405",
+          "name": "entities:entity_observer",
+          "facet": "stratford"
+        },
+        "evidence_revision": "6ad485cd1caa885ffba8e05debcc7439c47642e55fc9af741035037fa7a29ad9",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250405",
+          "name": "entities:entity_observer",
+          "facet": "writing"
+        },
+        "evidence_revision": "a4b207d81207b4d4713a5c093909cc952663700104511b5f486425d880681f2f",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250405",
+          "name": "entities:entity_suggest",
+          "facet": "stratford"
+        },
+        "evidence_revision": "b5975f2eff95f96abdec985dc431a5607e1a70fbf84cfedd50a81bf814e0ff29",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250405",
+          "name": "entities:entity_suggest",
+          "facet": "writing"
+        },
+        "evidence_revision": "e8635fc12b9a3fd2a271fed752f0463cc6a63424b4a939aa83cff957b0e8e772",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      }
+    ]
+  },
+  "schema_version": 10,
+  "stats": {
+    "transcript_sessions": 5,
+    "transcript_segments": 49,
+    "transcript_duration": 618.0,
+    "transcript_ranges": 5,
+    "percept_sessions": 3,
+    "percept_frames": 4,
+    "percept_duration": 70.0,
+    "percept_ranges": 3,
+    "browser_segments": 0,
+    "pending_segments": 0,
+    "segments_pending_think": 0,
+    "outputs_processed": 0,
+    "outputs_pending": 7,
+    "day_bytes": 937889,
+    "segment_fold_failed": false
+  },
+  "agent_data": {
+    "media": {
+      "count": 2,
+      "minutes": 2.0
+    },
+    "social": {
+      "count": 4,
+      "minutes": 24.0
+    },
+    "writing": {
+      "count": 2,
+      "minutes": 3.0
+    }
+  },
+  "facet_data": {
+    "stratford": {
+      "count": 6,
+      "minutes": 26.0
+    },
+    "writing": {
+      "count": 2,
+      "minutes": 3.0
+    }
+  },
+  "heatmap_data": {
+    "weekday": 5,
+    "hours": {
+      "13": 3.0,
+      "14": 5.0,
+      "15": 15.0,
+      "16": 3.0,
+      "19": 2.0,
+      "21": 1.0
+    }
+  }
+}

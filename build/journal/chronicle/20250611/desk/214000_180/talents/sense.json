@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You marked the full moon and wrote nothing else on the line. There was no cross. You did not go back to the sheets.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Marked the moon and left the rest of the line empty.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the almanac",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The full moon",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Marked the moon and stopped",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the full moon",
+    "the almanac",
+    "no other mark"
+  ],
+  "quotes": []
+}

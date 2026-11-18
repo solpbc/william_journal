@@ -1,0 +1,1 @@
+You played Gaunt in the public book. The margin still said the deposition is not in this roll. You spoke "inkie blots, and rotten parchment bonds" to the yard. You did not send for the glass. The three leaves stayed shut away. The parliament was not played.

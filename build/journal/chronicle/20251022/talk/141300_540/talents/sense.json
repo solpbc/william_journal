@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You came back from the post and stayed inside. John said the flag and the ground were not your business yet. Margery said the tireman could wait. You left the morning's stitch as the only news on the coat.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Came back from the post into the tiring-house",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Came back from the post into the tiring-house",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Came back from the post into the tiring-house",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the afternoon coat",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Came back from the post into the tiring-house",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Came in for the afternoon play",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "John Heminges",
+    "Goodwife Margery Pell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "back inside",
+    "the flag",
+    "the brush not yet"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not ready to be a face for the yard."
+    }
+  ]
+}

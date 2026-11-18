@@ -1,0 +1,1 @@
+You wrote a short page and left it on the board. The loaf is a full thumb short of the notch, and you have not boarded. Gib is on the Golding. Brooke stays on the shelf. You have heard no order shutting the house. Monday is a meeting, and nothing more than that yet.

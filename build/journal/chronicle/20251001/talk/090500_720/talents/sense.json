@@ -1,0 +1,85 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "You bought a quire of Rochelle crown paper at the trade price, fourpence halfpenny, out of the purse. Field showed you a forme with one turned letter and a dropped line: the forme unlocked, the line lifted, the page justified again, a sheet pulled. He said it before you could. \"Thou changest a word and some poor devil copies three pages. Here it's my journeyman's morning.\" Jacqueline, with an armful of quires, said that if both of you had finished discussing paper, one of you might move it. You moved the pile. The talk got less grand and more useful. You did not rule the coffer again.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid the trade price, held the sheet without improving it, and lifted the pile.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed the turned letter, said the sentence, and would not call the price a courtesy.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Jacqueline Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Pointed at the blocked passage, and made them move it.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "Rochelle crown",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A fault no reader will thank",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "4\u00bdd",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A fault no reader will thank",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Paid the trade price and moved the pile",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Field",
+    "William Shakespeare",
+    "Jacqueline Field"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "fourpence halfpenny",
+    "a turned letter",
+    "three pages",
+    "the pile in the passage"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_field",
+      "text": "Thou changest a word and some poor devil copies three pages."
+    },
+    {
+      "speaker": "jacqueline_field",
+      "text": "If both of you have finished discussing paper, one of you may move it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Fourpence halfpenny. I have it in the purse, not in a book."
+    }
+  ]
+}

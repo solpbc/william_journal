@@ -1,0 +1,4 @@
+# The journal's identity key is not distributed (see README.md, "the identity key").
+build/journal/link/ca/private.pem
+__pycache__/
+.pytest_cache/

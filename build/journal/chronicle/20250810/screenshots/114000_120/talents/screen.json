@@ -1,0 +1,29 @@
+{
+  "narrative": "The nave of Holy Trinity from a pew, August light coming green off the river side. Two women in dark gowns stand at the end of the pew, their backs to the frame, one cuff still undone on the nearer wrist. No faces. No children.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "In The nave, from the pew"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "context": "Stood at the end of the pew, her back to the frame."
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "mentioned",
+      "context": "Stood beside her. The undone cuff was on the nearer wrist."
+    },
+    {
+      "type": "Project",
+      "name": "Holy Trinity",
+      "role": "mentioned",
+      "context": "In photo: The nave, from the pew"
+    }
+  ]
+}

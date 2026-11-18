@@ -1,0 +1,1 @@
+At the door Anne said she had written don't come. You said her letter said come for harvest, and that the horse was dear. She looked at your feet and sat you down. She dressed two burst blisters with plantain leaf and mutton tallow, in a tub of cold well-water.

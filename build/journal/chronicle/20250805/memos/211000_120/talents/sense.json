@@ -1,0 +1,46 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "After they had gone you said the question again, and the answer, which was none. The prices were his. The ear stays for the plays. You did not put a sum on what you can give.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said it, and did not add a sum.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Repeated the answer from the table",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "paid none",
+    "his figures",
+    "the ear"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Which price have you paid, for what, and where. And I had none"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "My lord's ear stays for the plays"
+    }
+  ]
+}

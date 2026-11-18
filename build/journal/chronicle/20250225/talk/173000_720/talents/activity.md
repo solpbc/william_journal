@@ -1,0 +1,1 @@
+At supper you paid threepence. You told the house the post was damp, that the knife went in two inches, and that the ground falls back to Giles Allen on the thirteenth of April, 1597. You named no price. You said you would give two mornings in March and leave the law to the family. Master Verbeke sat at the table and did not speak. The Sunday letter stayed folded for Thursday.

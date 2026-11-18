@@ -1,0 +1,1 @@
+You came down after the house was already at work. Joan had nothing to praise you for. Anne had looked at the bench and had not touched the sheet. You said you would look and not sit down to it. The bread waited until you had been out.

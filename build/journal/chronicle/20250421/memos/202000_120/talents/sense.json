@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Alone, you kept the wide stage, the hush, and the clear note. You did not write two thousand down as money, and you did not make a picture of the nuts.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the hush and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The hush",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Named the house and the song",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the wide stage",
+    "the hush",
+    "the clear note"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Two thousand is a house. It is not a sum I am writing down."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Sam sang, and the note was clear."
+    }
+  ]
+}

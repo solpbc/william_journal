@@ -1,0 +1,97 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the Jackdaw you gave Burbage four sheets over fish and eggs at sixpence each. He laughed when the ten years became six, and said the king does it because he can. He took the long speech and read it to the fire. Agnes stopped with the jug. He asked who would play the other man, and you ate the eggs cold and named nobody. The slate was two sixpences.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the four sheets, refused a name, and ate the eggs cold.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the long speech, read it to the fire, and asked who plays the other man.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Agnes Tipping",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Served fish and eggs at sixpence each, and stopped with the jug while he read.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Give it to me",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "sixpence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Give it to me",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Jackdaw",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Give it to me",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Let Burbage take the speech at the Jackdaw",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Agnes Tipping",
+    "William Shakespeare",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "four sheets",
+    "ten years made six",
+    "the eggs gone cold",
+    "no name"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "He does it because he can."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Give me the long one again. No, don't read it, give it to me."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "He's pleased with every word he says. I know that man. Write me the rest."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not name him tonight."
+    }
+  ]
+}

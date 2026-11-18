@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250202",
+    "end": "20250208"
+  },
+  "generated_at": "2025-02-08T22:00:00Z",
+  "days": [
+    {
+      "day": "20250202",
+      "state": "memory",
+      "memory_id": "m-20250202-0"
+    },
+    {
+      "day": "20250203",
+      "state": "memory",
+      "memory_id": "m-20250203-1"
+    },
+    {
+      "day": "20250204",
+      "state": "memory",
+      "memory_id": "m-20250204-2"
+    },
+    {
+      "day": "20250205",
+      "state": "memory",
+      "memory_id": "m-20250205-3"
+    },
+    {
+      "day": "20250206",
+      "state": "memory",
+      "memory_id": "m-20250206-4"
+    },
+    {
+      "day": "20250207",
+      "state": "memory",
+      "memory_id": "m-20250207-5"
+    },
+    {
+      "day": "20250208",
+      "state": "memory",
+      "memory_id": "m-20250208-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250202-0",
+      "key": "mem_20250202_0",
+      "day": "20250202",
+      "text": "You wrote the twins, who are ten. The carrier is Thursday.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250202/talents/morning_briefing",
+        "briefing_day": "20250202",
+        "refs": [
+          "sol://facets/stratford/activities/20250202#frame_082000_180",
+          "sol://facets/household/activities/20250202#meeting_095000_360",
+          "sol://facets/household/activities/20250202#meeting_121500_600"
+        ]
+      }
+    },
+    {
+      "id": "m-20250203-1",
+      "key": "mem_20250203_1",
+      "day": "20250203",
+      "text": "Played in Titus. Heminges will call from Cheapside when the mercer names a price for the gown.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250203/talents/morning_briefing",
+        "briefing_day": "20250203",
+        "refs": [
+          "sol://facets/household/activities/20250203#meeting_091000_480",
+          "sol://facets/company/activities/20250203#frame_140500_120",
+          "sol://facets/company/activities/20250203#meeting_161000_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20250204-2",
+      "key": "mem_20250204_2",
+      "day": "20250204",
+      "text": "You left Field's chronicle on the shelf. The gown is fifty shillings on credit, against the Queen's twenty pounds.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250204/talents/morning_briefing",
+        "briefing_day": "20250204",
+        "refs": [
+          "sol://facets/writing/activities/20250204#meeting_083000_240",
+          "sol://facets/company/activities/20250204#meeting_092000_720",
+          "sol://facets/writing/activities/20250204#note_112000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250205-3",
+      "key": "mem_20250205_3",
+      "day": "20250205",
+      "text": "You read Mahomet on the post by the Bull. The folder still has two leaves.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250205/talents/morning_briefing",
+        "briefing_day": "20250205",
+        "refs": [
+          "sol://facets/company/activities/20250205#frame_084500_120",
+          "sol://facets/company/activities/20250205#meeting_085000_240",
+          "sol://facets/writing/activities/20250205#note_104000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250206-4",
+      "key": "mem_20250206_4",
+      "day": "20250206",
+      "text": "The groats are on the road. Your father is mending.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250206/talents/morning_briefing",
+        "briefing_day": "20250206",
+        "refs": [
+          "sol://facets/company/activities/20250206#meeting_090500_720",
+          "sol://facets/writing/activities/20250206#frame_094000_180",
+          "sol://facets/company/activities/20250206#photo_094500_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250207-5",
+      "key": "mem_20250207_5",
+      "day": "20250207",
+      "text": "By one candle you fair-copied a sonnet. The folder has three leaves.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250207/talents/morning_briefing",
+        "briefing_day": "20250207",
+        "refs": [
+          "sol://facets/household/activities/20250207#meeting_130000_360",
+          "sol://facets/writing/activities/20250207#frame_200000_300",
+          "sol://facets/writing/activities/20250207#note_202000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250208-6",
+      "key": "mem_20250208_6",
+      "day": "20250208",
+      "text": "You sat the reckoning. The gown's fifty shillings and Edith's eight shillings are still owed, and the twopence is yours.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250208/talents/morning_briefing",
+        "briefing_day": "20250208",
+        "refs": [
+          "sol://facets/company/activities/20250208#meeting_091000_840",
+          "sol://facets/household/activities/20250208#meeting_122000_180",
+          "sol://facets/company/activities/20250208#meeting_165000_720"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250202-0",
+      "key": "said_20250202_0",
+      "day": "20250202",
+      "quote": "The pump in the close. Did it run? I would know the house is well before I write that it is.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250202#meeting_121500_600"
+      }
+    },
+    {
+      "id": "s-20250202-1",
+      "key": "said_20250202_1",
+      "day": "20250202",
+      "quote": "They are ten today. The paper knows it, and the paper is still in this room.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250202#memo_212000_120"
+      }
+    },
+    {
+      "id": "s-20250204-2",
+      "key": "said_20250204_2",
+      "day": "20250204",
+      "quote": "Books are more patient than lenders.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250204#meeting_083000_240"
+      }
+    },
+    {
+      "id": "s-20250204-3",
+      "key": "said_20250204_3",
+      "day": "20250204",
+      "quote": "Could France be poorer, and still be France?",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250204#call_121000_240"
+      }
+    },
+    {
+      "id": "s-20250206-4",
+      "key": "said_20250206_4",
+      "day": "20250206",
+      "quote": "Keep it. I had buried the answer under my own commas.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250206#meeting_090500_720"
+      }
+    },
+    {
+      "id": "s-20250206-5",
+      "key": "said_20250206_5",
+      "day": "20250206",
+      "quote": "The two groats are within. One to each twin.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250206#meeting_172000_840"
+      }
+    },
+    {
+      "id": "s-20250206-6",
+      "key": "said_20250206_6",
+      "day": "20250206",
+      "quote": "Mending. I will not improve the word because I want a better house.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250206#memo_211500_60"
+      }
+    },
+    {
+      "id": "s-20250208-7",
+      "key": "said_20250208_7",
+      "day": "20250208",
+      "quote": "I was at the desk. The play went on. It did not need me in it to go on.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250208#meeting_165000_720"
+      }
+    }
+  ]
+}

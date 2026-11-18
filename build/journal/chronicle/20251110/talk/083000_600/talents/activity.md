@@ -1,0 +1,1 @@
+Mistress Ansell filled the brass horn from the Monday copper, galls and copperas and gum, browner than the March ink, at twopence. You paid it. You sat at the board at threepence and left the firing in the sixpence already paid. You said you would open as Egeon and be idle after. The book upstairs stayed shut until after supper. Gib was left on the Chaucer.

@@ -1,0 +1,59 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "On two leaves you had the purse and the nights apart. The received leaf is my lord's four pounds, for hose, in eight parts of ten shillings, of which yours is ten. The expected leaf is the Queen's three nights, not yet had. An office is still empty. Twelfth Day is written as the day you are looked for again. You did not add the two leaves into one sum.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Kept the page to the two leaves and did not add a total.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not at the page. The division was already his.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Henry Carey, 1st Lord Hunsdon",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not at the page. The purse was his.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Queen Elizabeth",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not at the page. Her nights stayed expected.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Wrote the purse on one leaf and the three nights on the other",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two leaves",
+    "ten shillings",
+    "the three nights expected"
+  ],
+  "quotes": []
+}

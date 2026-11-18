@@ -1,0 +1,23 @@
+{
+  "narrative": "The leaf idle in the early afternoon light. No new stroke. The red knot at the far side. No face. He is not writing. The apples on the sill. The church porch soft beyond the glass. The leaf waits, unchanged, when the look returns. No face. The tables closed. The stylus beside them, not in a pocket. The bundle unopened. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Sat with the leaf and then shut it"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Sat with the leaf and then shut it"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "context": "Shown on tables in Sat with the leaf and then shut it"
+    }
+  ]
+}

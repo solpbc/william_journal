@@ -1,0 +1,23 @@
+{
+  "narrative": "Two black-letter bills on the post before the morning's work. Each has a title and the company under it. No author's name on either. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the two bills and did not look for a name under either title."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on bill in Two bills, and no author"
+    },
+    {
+      "type": "Project",
+      "name": "The Grecian Comedy",
+      "role": "mentioned",
+      "context": "Shown on bill in Two bills, and no author"
+    }
+  ]
+}

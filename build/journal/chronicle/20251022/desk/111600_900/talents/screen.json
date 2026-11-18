@@ -1,0 +1,23 @@
+{
+  "narrative": "The tables open on the board upstairs. The red bundle is at the far side, still knotted. Gib is on the shut book, out of this leaf. No face. He writes under the three words and stops. The bundle is not opened. No face. The stylus is down. He does not add a name, a sum, or a line of a play. The knot is in the same place. No face. He looks up. Three apples on the sill, the same bruise. The leaf is unchanged when he looks back. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the one line, left the bundle knotted, and did not turn the hour into a speech."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Wrote on a loose leaf beside the tied bundle"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "context": "Shown on tables in Wrote on a loose leaf beside the tied bundle"
+    }
+  ]
+}

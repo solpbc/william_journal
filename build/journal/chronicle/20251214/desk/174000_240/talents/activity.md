@@ -1,0 +1,1 @@
+The board held the crude sketch and three margin words: his father, canvas and paste, and light. You did not copy the waking speech onto this leaf. You did not start the queen. The cat was already off it.

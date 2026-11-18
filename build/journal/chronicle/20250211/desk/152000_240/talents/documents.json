@@ -1,0 +1,45 @@
+{
+  "overview": "You wrote the forty sail onto Sunday's unsent letter and left the leaf on the desk. You added that Davy said the Queen had blessed them, and that you had not seen it. You did not write a smaller number. You did not send the letter.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the three lines and left the letter where it was."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Is still the person the leaf addresses, and is not in the room."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Sunday's leaf",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "forty sail",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "still unsent",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-02-11",
+      "meaning": "Forty sail, under Sunday's date"
+    }
+  ],
+  "summary": "Added the forty sail to Sunday's letter"
+}

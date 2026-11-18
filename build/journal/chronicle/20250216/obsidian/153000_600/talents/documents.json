@@ -1,0 +1,63 @@
+{
+  "overview": "You answered Anne's January question first, as Gilbert had told you to. You will come at Lent, before Mid-Lent Sunday, and you named no day. You told her the playing stops on Shrove Tuesday, that the Queen's money may be mid-March, and the comedy in four lines. The sheet is dated the 16th of February 1594. It waits in the room for the carrier of the 27th.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the letter, dated it the 16th of February 1594, and did not give it to a carrier."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Is the person addressed, and is not in the room."
+    },
+    {
+      "name": "Gilbert Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Gilbert Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Is named as the one who bid him answer the last question first, and is not in the room."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the Lent answer",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no named day",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the comedy in four lines",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the carrier of the 27th",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Wrote Anne of coming before Mid-Lent Sunday"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-02-16",
+      "meaning": "The answer about Lent"
+    }
+  ],
+  "summary": "Wrote Anne of coming before Mid-Lent Sunday"
+}

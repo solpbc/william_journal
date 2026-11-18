@@ -1,0 +1,1 @@
+At night the jaw was hot to the hand, and it did not ease. You had said after Thursday, and you meant the king. Four shillings and eighteenpence stayed where John had said them. You did not open the coffer. Love's Labour's Won is when this king is buried.

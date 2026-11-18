@@ -1,0 +1,49 @@
+{
+  "overview": "At half past eleven the sheet shows the vault line and, under it, the dagger given its sheath and the families not fetched. The space below is blank. The candle is still burning. You did not dip the pen again.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the stop, and did not fetch the families."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the vault line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the dagger",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the blank",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the candle still burning",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the lovers' play",
+      "asset_type": "other",
+      "disposition": "Wrote as far as the dagger"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-08",
+      "meaning": "A feasting presence"
+    }
+  ],
+  "summary": "Wrote as far as the dagger"
+}

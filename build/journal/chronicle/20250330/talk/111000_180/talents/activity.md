@@ -1,0 +1,1 @@
+At the porch your mother said, once, that it was good you came at Lent and not only wrote it. You answered with the letter and the coming. She said she would not say it twice. Anne sent you both on after the children. No second sentence was added.

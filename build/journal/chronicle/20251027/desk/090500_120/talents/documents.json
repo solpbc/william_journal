@@ -1,0 +1,44 @@
+{
+  "overview": "When the bell stopped you wrote one line on the tables. A duke to be married, four days, the old moon. The line is the Knight's Tale. You did not hang a play on it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Entered the line from the tale and left it there."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the tables",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "four days",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the old moon",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Wrote one line of the Knight's Tale"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-27",
+      "meaning": "Four days, the old moon"
+    }
+  ],
+  "summary": "Wrote one line of the Knight's Tale"
+}

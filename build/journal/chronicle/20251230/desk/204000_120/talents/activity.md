@@ -1,0 +1,1 @@
+By the fire the morning's leaf was open. The bellows-mender's line and the queen's question were both there. The blank under the question was still blank. You had not added a punishment since morning.

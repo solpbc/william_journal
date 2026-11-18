@@ -1,0 +1,1 @@
+You came across the Bridge for the first time since August and paid your penny. The bill on the post says a new play, Harry the Fifth, and it names no author. You know an English king of that name, and you do not know the play past the title. Henslowe is at the door with his lips moving. He does not speak to you. The Theatre is playing Fair Em without you.

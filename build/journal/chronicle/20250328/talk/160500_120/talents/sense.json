@@ -1,0 +1,42 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "A boy held the bay while you wrung the cloak. You kept the sword and the ribbons dry. He would not argue with the horse.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Wrung the cloak and named what had to stay dry.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Wrung the cloak",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the boy",
+    "the cloak",
+    "the dry gifts"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The sword stays dry, and the ribbons. That is the whole of the care."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Nick stopped at the girl's entrance and did not speak her verse. He said she knows nothing of the boy, and of the man only a name and a face across a hall, and that she is careful, not shy. You wrote it down. Kemp played the servant straight and did not ask for a song. Burbage said the boy had read too many sonnets, and you said he had. Pope liked the old man better. You did not let Kemp see that you were pleased.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked what she knows, and wrote the answer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the boy talks like a man who has read too many sonnets.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Played the napkin straight, and asked for no song.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped at the entrance, and named her careful.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the old man, and liked him better than the young one.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put the ink away with nothing copied.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in She's only careful",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote down that she is careful",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Nick Sorrell",
+    "Will Kemp",
+    "Richard Burbage",
+    "Thomas Pope",
+    "Abel Garnish"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "her entrance",
+    "careful not shy",
+    "the napkin",
+    "too many sonnets",
+    "the old man"
+  ],
+  "quotes": [
+    {
+      "speaker": "nick_sorrell",
+      "text": "Then she's not shy, master. She's only careful."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "The boy at the feast talks like a man who has read too many sonnets."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Still no copy."
+    }
+  ]
+}

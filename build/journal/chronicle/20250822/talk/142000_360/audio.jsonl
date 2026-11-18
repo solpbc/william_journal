@@ -1,0 +1,11 @@
+{"backend": "whisper", "duration": 360.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "14:20:08", "text": "James has been busy.", "timing": {"end": 12.0, "start": 8.0}}
+{"sentence_id": 2, "speaker": "abel_garnish", "start": "14:20:12", "text": "James has been spending. Mind the posts. They are marble until they are dry.", "timing": {"end": 22.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "abel_garnish", "start": "14:20:22", "text": "Behind the arras. Every part of the king's in rolls, tied and named, and the plot ruled on its pasteboard.", "timing": {"end": 36.0, "start": 22.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "14:20:36", "text": "You have not wasted August.", "timing": {"end": 40.0, "start": 36.0}}
+{"sentence_id": 5, "speaker": "abel_garnish", "start": "14:20:40", "text": "Nobody here has wasted August but you. Gaunt.", "timing": {"end": 50.0, "start": 40.0}}
+{"sentence_id": 6, "speaker": "abel_garnish", "start": "14:20:50", "text": "Six weeks to get a dying man's England by heart.", "timing": {"end": 58.0, "start": 50.0}}
+{"sentence_id": 7, "speaker": "william_shakespeare", "start": "14:20:58", "text": "In another man's hand. My own lines, and I would not know them in the street.", "timing": {"end": 68.0, "start": 58.0}}
+{"sentence_id": 8, "speaker": "abel_garnish", "start": "14:21:08", "text": "You would know them in the street. You would not know them on the stage, which is why you have the roll.", "timing": {"end": 80.0, "start": 68.0}}
+{"sentence_id": 9, "speaker": "william_shakespeare", "start": "14:21:20", "text": "And the king's?", "timing": {"end": 84.0, "start": 80.0}}
+{"sentence_id": 10, "speaker": "abel_garnish", "start": "14:21:24", "text": "The king's roll would reach from here to the Curtain. Burbage had it on Monday.", "timing": {"end": 94.0, "start": 84.0}}

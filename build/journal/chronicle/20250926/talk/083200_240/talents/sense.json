@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Before the dress began, Burbage laid the pearwood glass on the seat of the throne, face up, and said he takes it off only when he must sit. You said nobody was asking. He left it. Garnish had the plot on the peg. James Burbage stood in the lords' room with his arms folded and did not call down. You were to be carried on with the beard chalked, speaking round a clove.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the glass face up, and would not ask.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Laid it on the seat, and took the silence as leave to keep it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Pointed him at the peg, and at the door for the rest.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Stood in the lords' room with his arms folded. He did not speak.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Let the glass stay face up on the throne",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Burbage",
+    "William Shakespeare",
+    "Abel Garnish"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the glass face up",
+    "nobody asked",
+    "the chalk"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "Face up, till I must sit."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Nobody is asking thee."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "That is why it will stay."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+At the porch you put two shillings of your own into the box and did not speak. A churchwarden named the sum. Mistress Ansell was watching, and she said there had been no show. No name was entered at the dish.

@@ -1,0 +1,67 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote a short page and left it on the board. The loaf is a full thumb short of the notch, and you have not boarded. Gib is on the Golding. Brooke stays on the shelf. You have heard no order shutting the house. Monday is a meeting, and nothing more than that yet.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the page and left the poem on the shelf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Lay along the Golding and was not shifted.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thumb, and the shelf",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Brooke's Romeus and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thumb, and the shelf",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Golding",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thumb, and the shelf",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Wrote a short page, with Brooke still on the shelf",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the notch",
+    "Brooke still up",
+    "Monday unmet"
+  ],
+  "quotes": []
+}

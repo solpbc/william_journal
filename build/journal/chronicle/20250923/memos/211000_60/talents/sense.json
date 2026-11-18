@@ -1,0 +1,58 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At home you said he was happy, and that you never heard him so. The drawer has verse in it, and not a leaf would fit a pair of gloves for a lady he did not name. You are his to command, and you said so in print. You wrote nothing for it tonight.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he was happy, and wrote nothing for the gloves.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Henry Wriothesley, 3rd Earl of Southampton",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the house. The ask is his, and the night is not.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Did not write for the gloves",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "he was happy",
+    "the drawer",
+    "nothing tonight"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "He was happy. I never heard him so."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have a drawer of that ware, and not a leaf of it would fit."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am his to command. I said so in print."
+    }
+  ]
+}

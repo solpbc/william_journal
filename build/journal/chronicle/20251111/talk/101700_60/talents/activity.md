@@ -1,0 +1,1 @@
+At the foot of the stair she asked if it was done, and who was punished. You said it was done, and that all of them were. She nodded, as if the count had come out even. Alse was below at the rushlights. Verbeke was in the house and did not come into the question.

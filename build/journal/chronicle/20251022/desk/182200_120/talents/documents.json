@@ -1,0 +1,49 @@
+{
+  "overview": "You wrote three lines on the tables: that the bundle was not this, that there would be one leaf, and that the house had not been told. You did not write the death, a title, or a sum. You did not untie the bundle.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote three lines on the tables"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the tables",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "one leaf",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the house not told",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Wrote three lines on the tables"
+    },
+    {
+      "name": "the red bundle",
+      "asset_type": "other",
+      "disposition": "Wrote three lines on the tables"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-22",
+      "meaning": "Wrote three lines on the tables"
+    }
+  ],
+  "summary": "Wrote three lines on the tables"
+}

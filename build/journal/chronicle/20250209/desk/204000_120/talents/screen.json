@@ -1,0 +1,17 @@
+{
+  "narrative": "The penny almanac open at the week. One line added in the Monday space, in his hand. Candle. No face. The same Monday space. The afternoon line was already there from Saturday. He does not touch it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the lodge hour and did not open the sealed paper onto the page."
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "context": "Shown on almanac in Ten of the clock, and forty"
+    }
+  ]
+}

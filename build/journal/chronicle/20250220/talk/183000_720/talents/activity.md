@@ -1,0 +1,1 @@
+The four of you supped on the strength of the boxes. Heminges named seven pound eleven, and he named the fifty shillings and Edith's eight shillings as still unpaid. You said you were pleased and would not turn it into Saturday's arithmetic. The letter to Anne was already written and still waiting. Nobody brought news from Westminster in this sitting.

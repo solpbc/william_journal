@@ -1,0 +1,1 @@
+From behind the players' entrance you saw forty candles, a screen, and a chair by the fire with a small still figure in it. The figure was slight, and a little crooked in the shoulder. The floor was cleared. The guests were not yet settled to the play.

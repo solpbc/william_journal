@@ -1,0 +1,1 @@
+At dinner Judith gave the sermon in the vicar's voice. Your father said the aim was poor: a wheelwright, two weavers and a widow unroofed, and every great malt-loft in the High Street still dry. Your mother said his name once. The children kept the burned row for Thursday. You said you had not promised Quiney the shop.

@@ -1,0 +1,81 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "In Paul's Walk the tale was a third smaller. The phrase was with little riches. Stones that may be ore, a river as wide as a sea, a golden city one nation further up, and men whose heads grow beneath their shoulders. You asked if anyone had spoken with a man off the ship. Nobody had. The court had had it yesterday. Drayton had looked for his own name on the Cambridge leaf first. You had seen it on Thursday and had not bought the book. Of Raleigh he said eight months, and a story. You said it was a living. You bought the quire for fivepence. The stall-keeper was not a man you named.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the second gold, answered Drayton, and bought the quire.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Michael Drayton",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Confessed the order of the names, and gave Raleigh eight months and a story.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Would not buy the tall tale, and walked on toward the Theatre.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "fivepence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in With little riches",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Kept the small tale and paid fivepence",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "George Bryan",
+    "Michael Drayton"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "little riches",
+    "the court on Sunday",
+    "fivepence",
+    "the Cambridge leaf"
+  ],
+  "quotes": [
+    {
+      "speaker": "michael_drayton",
+      "text": "Eight months, and he comes home with a story."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It's a living."
+    },
+    {
+      "speaker": "michael_drayton",
+      "text": "I looked along the leaf for my own name before I looked for yours."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Fivepence. I'll take it whole."
+    }
+  ]
+}

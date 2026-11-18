@@ -1,0 +1,1 @@
+George Peele passed with a roll of paper. He said he has a poem on the tilt, and that every horse in it rhymes. He asked whether Titus still gets the laugh in the wrong place. You did not mend it for him. He asked a groat. You did not give it. You had already paid twelve pence at the gate. You stayed. He went on.

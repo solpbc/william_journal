@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You tried to give the objection from last night, that a twelvemonth and a day is too long for a play, and you struck it as too bald. You left a rougher line under it and left the messenger's half-line empty. You did not write a song. You did not write the last line. The comedy is not finished.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Struck two lines and left the half-line empty.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the room. The struck phrase is the one he gave you last night.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Too long for a play",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Struck the bald line and wrote a shorter one",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the fifth act",
+    "the struck objection",
+    "the empty half-line"
+  ],
+  "quotes": []
+}

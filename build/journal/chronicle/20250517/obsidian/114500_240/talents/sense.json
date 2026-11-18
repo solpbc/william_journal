@@ -1,0 +1,34 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At home you copied that one sentence into the commonplace book and ruled a line under it, so the author's words stayed apart from your own. You wrote no answer under the rule. You thought no kinship.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Copied the sentence, ruled the line, and wrote nothing under it.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Copied the sentence and ruled a line under it",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one sentence copied",
+    "the answer blank"
+  ],
+  "quotes": []
+}

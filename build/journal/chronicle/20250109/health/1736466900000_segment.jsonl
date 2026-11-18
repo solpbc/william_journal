@@ -1,0 +1,14 @@
+{"day": "20250109", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "092000_240", "stream": "desk", "ts": 1736466900000}
+{"change_class": "substantive", "day": "20250109", "event": "sense.change_detect", "mode": "segment", "segment": "092000_240", "stream": "desk", "ts": 1736466900001}
+{"day": "20250109", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "092000_240", "stream": "desk", "ts": 1736466900002}
+{"day": "20250109", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "092000_240", "stream": "desk", "ts": 1736466900003}
+{"day": "20250109", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "142000_300", "stream": "desk", "ts": 1736466900010}
+{"change_class": "substantive", "day": "20250109", "event": "sense.change_detect", "mode": "segment", "segment": "142000_300", "stream": "desk", "ts": 1736466900011}
+{"day": "20250109", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "142000_300", "stream": "desk", "ts": 1736466900012}
+{"day": "20250109", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "142000_300", "stream": "desk", "ts": 1736466900013}
+{"day": "20250109", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "165000_840", "stream": "talk", "ts": 1736466900020}
+{"change_class": "substantive", "day": "20250109", "event": "sense.change_detect", "mode": "segment", "segment": "165000_840", "stream": "talk", "ts": 1736466900021}
+{"day": "20250109", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "165000_840", "stream": "talk", "ts": 1736466900022}
+{"day": "20250109", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "201000_60", "stream": "memos", "ts": 1736466900030}
+{"change_class": "substantive", "day": "20250109", "event": "sense.change_detect", "mode": "segment", "segment": "201000_60", "stream": "memos", "ts": 1736466900031}
+{"day": "20250109", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "201000_60", "stream": "memos", "ts": 1736466900032}

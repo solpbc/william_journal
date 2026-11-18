@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You woke again at three, on the same side. You did not send for a barber, and you did not get up to write.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Woke at three, and did not write.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the pillow",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Woke at three and stayed down",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three",
+    "the same side",
+    "no barber"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Three. The same side."
+    }
+  ]
+}

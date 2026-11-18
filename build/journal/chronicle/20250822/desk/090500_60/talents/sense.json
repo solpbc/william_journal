@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "idle",
+  "activity_summary": "Gib is asleep on the cloth that is on the Holinshed. He has plainly been there since July. The title is covered. You did not shift him, and you did not take the book back.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Looked, and did not take the book back.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Stayed on the cloth.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Holinshed",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The cat on the cloth",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Left the book under the cat",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Gib",
+    "the cloth",
+    "the Holinshed not taken back"
+  ],
+  "quotes": []
+}

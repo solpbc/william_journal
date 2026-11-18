@@ -1,0 +1,43 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "The page holds the queen, the two men, the apricocks and the weeds, the caterpillars and the cut, and the curse left in. The deposing is named as already written behind it. The prison is not on the page. The end is not on the page.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the page and stopped before the prison and the end.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The curse stays",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Stopped after the queen's curse",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the page",
+    "the curse",
+    "the play unfinished"
+  ],
+  "quotes": []
+}

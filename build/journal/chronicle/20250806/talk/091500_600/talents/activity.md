@@ -1,0 +1,1 @@
+You sorted stall bundles with your father, Richard, and Joan, and Hamnet sorted windfalls. When the rush-gatherer came to the wicket you reached for your belt. Your father stopped your hand and had Anne settle the house's payment from her own bag. No coin was named. The burned row stayed tomorrow's.

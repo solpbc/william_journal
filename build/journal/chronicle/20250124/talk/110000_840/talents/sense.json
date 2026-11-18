@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Tilney read with a pen in his hand and struck two oaths, By my holidame and God's me, and nothing else. Elsewhere, by Jove serves. His men were stitching for Sunday's wedding. You told him Navarre was only the name, in the air. He smiled once at Armado's melancholy. You told him no French lord glanced at a living ambassador. He signed the last leaf. Heminges counted seven shillings onto the table, company coin. No part was given out.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted the two cuts, answered the two questions, and did not mend the ending.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Tilney",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Struck two oaths, smiled once, and signed the last leaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted out seven shillings of company coin and kept the parts in Abel's hands.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in By Jove",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard the two oaths struck and saw the fee counted",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Edmund Tilney",
+    "William Shakespeare",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the two oaths",
+    "Navarre",
+    "the seven shillings"
+  ],
+  "quotes": [
+    {
+      "speaker": "edmund_tilney",
+      "text": "The Queen's ladies may hear God's name in church, Master Shakespeare. Elsewhere, 'by Jove' serves."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Only the name. It was in the air."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Seven shillings."
+    }
+  ]
+}

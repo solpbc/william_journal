@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "You looked at the mended wheel on the shop bench. The leather shim showed at the hub, and the turn was not even. A boy's hands reached in at the edge of the frame. No face was in it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "attendee in The wheel on the bench",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Reached in at the edge for the wheel.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Hamnet's wooden wheel",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The wheel on the bench",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Looked at the mended wheel as a boy's hands reached in",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the wheel",
+    "the leather shim",
+    "the bench"
+  ],
+  "quotes": []
+}

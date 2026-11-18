@@ -1,0 +1,17 @@
+{
+  "narrative": "The black-letter folio open on the board under the west window. He is on his feet. The slip is still in the gutter. No face. The same opening, a little further down the column. Two young men, and one lady seen through a window. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the Knight's Tale standing, and did not begin a page."
+    },
+    {
+      "type": "Project",
+      "name": "the Chaucer",
+      "role": "mentioned",
+      "context": "Shown on book in Standing, at the Knight"
+    }
+  ]
+}

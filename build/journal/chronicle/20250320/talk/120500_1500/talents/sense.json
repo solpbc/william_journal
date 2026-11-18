@@ -1,0 +1,97 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Hobbins brought six horses and your mother's hose. You gave him four lines and twopence. You leave on Wednesday the twenty-sixth, by Oxford, and you look to be at the bridge on Friday by dusk. He leaves Saturday and is there two days before you. Gilbert said they would have time to sweep, and he sent a paper of pins, not a parcel and not at sixpence. You kept sixty shillings in the canvas. Hobbins gave the road: drying in this wind, foul beyond Wycombe, the river up at Shipston, twelve hours to Wycombe at his pace, and nine on the bay. The long letter did not go.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Wrote the day into four lines, paid twopence, and kept the canvas.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the letter and the pins, refused the canvas, and gave the road.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gilbert Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave them the sweep, and added the pins without making a parcel.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "2d a letter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Then it'll be safe twice",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "60s in canvas",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Then it'll be safe twice",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the bay at 12d",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Then it'll be safe twice",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Sent the four lines and kept the sixty shillings",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Hobbins",
+    "William Shakespeare",
+    "Gilbert Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "four lines",
+    "twopence",
+    "sixty shillings kept",
+    "twelve hours to Wycombe"
+  ],
+  "quotes": [
+    {
+      "speaker": "gilbert_shakespeare",
+      "text": "Then they'll have time to sweep."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Then it'll be safe twice."
+    },
+    {
+      "speaker": "thomas_hobbins",
+      "text": "Twelve hours to Wycombe at my pace."
+    },
+    {
+      "speaker": "thomas_hobbins",
+      "text": "On that bay? Nine, and he'll argue every mile."
+    }
+  ]
+}

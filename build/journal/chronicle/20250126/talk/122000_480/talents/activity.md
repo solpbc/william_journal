@@ -1,0 +1,1 @@
+At her board the loaf was a finger short of the notch. You paid threepence. Firing and washing were named at sixpence the week until Lady Day, and not taken. Nothing went to the Bell. The sentence to Anne stayed on the desk. Supper is at the Burbages'.

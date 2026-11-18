@@ -1,0 +1,45 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "A water-bearer said apprentices had fetched a silkweaver out of the hospital, and that he had seen the end of the running, as you had. He said the talk was that the Lord Mayor had put the man in for words at his door about the dearth, and that he himself had not been at the door. You said you had seen the gate, the cap and the backs, and not a man brought out. You left the Mayor's part as talk.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the hearsay as hearsay, and went on.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the dearth",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A man who was not at the door",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Told what you had seen and went on to the Theatre",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a silkweaver",
+    "talk about the Mayor",
+    "a door you did not stand at"
+  ],
+  "quotes": []
+}

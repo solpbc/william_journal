@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You came out again after you had been home, and found the proclamation nailed at Bishopsgate. The ink still smells. Gillis read it twice, slower than you. It says nothing of strangers. You named apprentices, vagrants, and any company gathered. He called that a forgetting, and the best thing a law can do. Two citizens argued whether a wedding counts, and neither had read past the heading. You did not tell them about a playhouse. Sir Thomas Wilford is named provost marshal. The sheet was given at Greenwich this fourth of July. Mistress Ansell came as far as the lane's mouth and would not have a knot. A mounted man looked, and you went in under the arch one at a time. If asked, Gillis is from Norwich.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the pain and the marshal, and kept the yard unsaid.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read twice, claimed the forgetting, and went first with Norwich ready if asked.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came to the lane's mouth, forbade a knot, and went in ahead of the argument.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the 4 July proclamation",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nothing of strangers",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Read the heading at Bishopsgate",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Gillis Verbeke",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the proclamation",
+    "strangers not named",
+    "the arch one at a time"
+  ],
+  "quotes": [
+    {
+      "speaker": "gillis_verbeke",
+      "text": "It says nothing of strangers"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No. Apprentices, vagrants, any company gathered"
+    },
+    {
+      "speaker": "gillis_verbeke",
+      "text": "Then for once we are forgotten. It is the best thing a law can do to us;"
+    }
+  ]
+}

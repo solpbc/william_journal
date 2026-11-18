@@ -1,0 +1,230 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250413",
+    "end": "20250419"
+  },
+  "generated_at": "2025-04-19T22:00:00Z",
+  "days": [
+    {
+      "day": "20250413",
+      "state": "memory",
+      "memory_id": "m-20250413-0"
+    },
+    {
+      "day": "20250414",
+      "state": "memory",
+      "memory_id": "m-20250414-1"
+    },
+    {
+      "day": "20250415",
+      "state": "memory",
+      "memory_id": "m-20250415-2"
+    },
+    {
+      "day": "20250416",
+      "state": "memory",
+      "memory_id": "m-20250416-3"
+    },
+    {
+      "day": "20250417",
+      "state": "memory",
+      "memory_id": "m-20250417-4"
+    },
+    {
+      "day": "20250418",
+      "state": "memory",
+      "memory_id": "m-20250418-5"
+    },
+    {
+      "day": "20250419",
+      "state": "memory",
+      "memory_id": "m-20250419-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250413-0",
+      "key": "mem_20250413_0",
+      "day": "20250413",
+      "text": "No palms at church. The almanac said the day was cold. You did not write the answer on the tables.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250413/talents/morning_briefing",
+        "briefing_day": "20250413",
+        "refs": [
+          "sol://facets/household/activities/20250413#meeting_090500_720",
+          "sol://facets/household/activities/20250413#meeting_111800_240",
+          "sol://facets/household/activities/20250413#frame_114200_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250414-1",
+      "key": "mem_20250414_1",
+      "day": "20250414",
+      "text": "Sam was clear. The loaf is a finger and a half, and a penny. Threepence is paid.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250414/talents/morning_briefing",
+        "briefing_day": "20250414",
+        "refs": [
+          "sol://facets/company/activities/20250414#meeting_091000_720",
+          "sol://facets/household/activities/20250414#meeting_122000_480",
+          "sol://facets/household/activities/20250414#frame_211000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250415-2",
+      "key": "mem_20250415_2",
+      "day": "20250415",
+      "text": "Bought Daniel for two shillings. You wrote no total. You sent nothing to Joan.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250415/talents/morning_briefing",
+        "briefing_day": "20250415",
+        "refs": [
+          "sol://facets/company/activities/20250415#meeting_092000_480",
+          "sol://facets/writing/activities/20250415#frame_110500_360",
+          "sol://facets/writing/activities/20250415#meeting_112000_600"
+        ]
+      }
+    },
+    {
+      "id": "m-20250416-3",
+      "key": "mem_20250416_3",
+      "day": "20250416",
+      "text": "The word came, a little thick. You did not rule a sheet.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250416/talents/morning_briefing",
+        "briefing_day": "20250416",
+        "refs": [
+          "sol://facets/company/activities/20250416#meeting_091500_720",
+          "sol://facets/writing/activities/20250416#memo_210500_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250417-4",
+      "key": "mem_20250417_4",
+      "day": "20250417",
+      "text": "Showed Kemp an empty sleeve. Wrote sixty lines. He likes to hear himself.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250417/talents/morning_briefing",
+        "briefing_day": "20250417",
+        "refs": [
+          "sol://facets/writing/activities/20250417#frame_053000_360",
+          "sol://facets/writing/activities/20250417#memo_055000_120",
+          "sol://facets/company/activities/20250417#meeting_091000_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20250418-5",
+      "key": "mem_20250418_5",
+      "day": "20250418",
+      "text": "Wrote two notes at Verona. You sat still.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250418/talents/morning_briefing",
+        "briefing_day": "20250418",
+        "refs": [
+          "sol://facets/writing/activities/20250418#frame_081500_360",
+          "sol://facets/household/activities/20250418#meeting_090800_720",
+          "sol://facets/writing/activities/20250418#note_150500_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20250419-6",
+      "key": "mem_20250419_6",
+      "day": "20250419",
+      "text": "Sam was stopped, and he does not know there was a second boy. You said the king is talking. You shut Daniel.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250419/talents/morning_briefing",
+        "briefing_day": "20250419",
+        "refs": [
+          "sol://facets/company/activities/20250419#meeting_091000_720",
+          "sol://facets/company/activities/20250419#call_160000_180",
+          "sol://facets/writing/activities/20250419#frame_193000_240"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250413-0",
+      "key": "said_20250413_0",
+      "day": "20250413",
+      "quote": "Holinshed has a king who comes in behind another man, and dust thrown on his head. That is mine.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250413#meeting_090500_720"
+      }
+    },
+    {
+      "id": "s-20250414-1",
+      "key": "said_20250414_1",
+      "day": "20250414",
+      "quote": "One answer is still two words. I am not writing the third.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250414#memo_212000_60"
+      }
+    },
+    {
+      "id": "s-20250415-2",
+      "key": "said_20250415_2",
+      "day": "20250415",
+      "quote": "I have bought his kings. I have not bought a quarrel with you.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250415#meeting_112000_600"
+      }
+    },
+    {
+      "id": "s-20250416-3",
+      "key": "said_20250416_3",
+      "day": "20250416",
+      "quote": "And Dick, when thou answerest on the twelvemonth and a day, give her the plain voice, not the sonnet voice.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250416#meeting_091500_720"
+      }
+    },
+    {
+      "id": "s-20250417-4",
+      "key": "said_20250417_4",
+      "day": "20250417",
+      "quote": "Ould Iohn of Gaunt time honoured Lancaster. That is the King's mouth, not mine.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250417#memo_055000_120"
+      }
+    },
+    {
+      "id": "s-20250418-5",
+      "key": "said_20250418_5",
+      "day": "20250418",
+      "quote": "Three things on one board. A king, two houses, and Easter. Sit still.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250418#memo_154000_60"
+      }
+    },
+    {
+      "id": "s-20250419-6",
+      "key": "said_20250419_6",
+      "day": "20250419",
+      "quote": "The owl may be a judgment and the cuckoo cannot.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250419#call_160000_180"
+      }
+    }
+  ]
+}

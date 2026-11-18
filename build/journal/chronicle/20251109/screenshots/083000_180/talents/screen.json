@@ -1,0 +1,17 @@
+{
+  "narrative": "The board under the west window in the early light. One candle, cold, burned down. The sheet stopped after the dagger, the space below it blank. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and left the page for later."
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "context": "In photo: The candle, cold"
+    }
+  ]
+}

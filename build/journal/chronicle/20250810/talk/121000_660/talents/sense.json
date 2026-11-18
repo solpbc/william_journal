@@ -1,0 +1,137 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Dinner was at the bakehouse by the Cross. Hamnet Sadler set a penny loaf on the board, unasked, and said he was not the villain of a small loaf. You said that in Southwark they blamed the butter-wives, and whipped the boys who said so. Judith Sadler asked what they blame you for in London, and she laughed when you said the Lord Mayor blames you for the boys. Over the cheese, Tuesday was settled: the frame at seven, twelve men, ale after at the cousin's charge. Anne looked at your hands, then at Sadler's, and said nothing at all.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Dinner at the Sadlers'",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Sadler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Dinner at the Sadlers'",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Sadler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Dinner at the Sadlers'",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Dinner at the Sadlers'",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Dinner at the Sadlers'",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Dinner at the Sadlers'",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Dinner at the Sadlers'",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Dinner at the Sadlers'",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "wheat at six-and-thirty shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Dinner at the Sadlers'",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the cousin's barn-frame",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Dinner at the Sadlers'",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Ate dinner at the Sadlers'",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Judith Sadler",
+    "William Shakespeare",
+    "Judith Shakespeare",
+    "Hamnet Shakespeare",
+    "Susanna Shakespeare",
+    "Anne Shakespeare",
+    "Hamnet Sadler"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the penny loaf",
+    "the butter-wives",
+    "twelve men at seven",
+    "the cousin's ale"
+  ],
+  "quotes": [
+    {
+      "speaker": "hamnet_sadler",
+      "text": "You'll have heard in London that bakers are thieves."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "In Southwark they blamed the butter-wives, and whipped the boys who said so."
+    },
+    {
+      "speaker": "judith_sadler",
+      "text": "And what do they blame you for, in London?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The Lord Mayor blames us for the boys."
+    },
+    {
+      "speaker": "hamnet_sadler",
+      "text": "Ale after, at my cousin's charge."
+    }
+  ]
+}

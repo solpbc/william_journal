@@ -1,0 +1,133 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You were the tenth, on a stool from the shop. Joan asked about paint, and you said some do. Your father counted the gloves three stitches to the inch too few, and said they smell like a duchess, and Anne put them on. Edmund asked how Master Burbage dies. You showed it with a spoon and told him to finish school. Hamnet kept to the hinge. Judith did your father's walk once, and was not rebuked. Richard passed the salt and said nothing. The food was pottage, salt fish, and new bread.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered Joan, showed the death with a spoon, and sent Edmund back to school.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put the gloves on, kept the meal to the food, and left Susanna unread.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the stitch, recognised his own knee, and did not punish it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the bread, and did not take a speech.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked about paint, and refused to carry Edmund's ambition to the kitchen.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Passed the salt, and said nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the death, and was told to finish school.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat with yesterday's book, and was not asked to read it out.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Followed the spoon's hinge, and left the dying to Edmund.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Did her grandfather's walk once, and stopped at the rule she had set.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Sat tenth at the Lenten table",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Joan Shakespeare",
+    "William Shakespeare",
+    "John Shakespeare",
+    "Anne Shakespeare",
+    "Edmund Shakespeare",
+    "Hamnet Shakespeare",
+    "Judith Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the tenth place",
+    "the gloves",
+    "the spoon",
+    "the knee"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_shakespeare",
+      "text": "Three to the inch too few. But they smell like a duchess."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "I'll put them on."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Thou wilt finish school, Edmund."
+    },
+    {
+      "speaker": "john_shakespeare",
+      "text": "By St George, that is my own knee."
+    }
+  ]
+}

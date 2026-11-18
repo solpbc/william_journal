@@ -1,0 +1,99 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Michael Drayton brought a writing-master's specimen to the hall, and you did not go to Paul's to see it. Two writing-masters are contending for a pen of gold. He asked if you would enter. You said it was the only prize-fight you could win, and then only if they judged by speed. You called fine handwriting a neighbouring trade, no more a proof of fine thinking than a good saddle is of a good horse. Mistress Ansell took twenty shillings and told the silver twice. From today firing and washing are sixpence the week. She named the rate and did not take the coin. The first fire is laid and not lit. The loaf wants a thumb and the breadth of a nail of the notch. By dinner the close knows it will not be Spencer. No one at the table supplied the next name.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid the twenty shillings, refused the contest, and would not name a successor.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the rent twice, showed the notch, and named sixpence without taking it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Michael Drayton",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the sheet from the stall to the hall, and asked if he would enter.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Golden Pen",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twenty shillings, and the speed of a pen",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "twenty shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twenty shillings, and the speed of a pen",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "sixpence the week",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twenty shillings, and the speed of a pen",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Paid twenty shillings",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Michael Drayton",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the pen of gold",
+    "speed",
+    "twenty shillings",
+    "sixpence not paid",
+    "the notch",
+    "not Spencer"
+  ],
+  "quotes": [
+    {
+      "speaker": "michael_drayton",
+      "text": "Would you enter?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It's the only prize-fight I could win, and then only if they judged by speed."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "It wants a thumb and the breadth of a nail."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "It will not be Spencer."
+    }
+  ]
+}

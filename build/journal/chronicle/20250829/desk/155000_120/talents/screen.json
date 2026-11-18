@@ -1,0 +1,23 @@
+{
+  "narrative": "The tables open against the timber post, one line just written. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the line against the post."
+    },
+    {
+      "type": "Project",
+      "name": "Richard the Second",
+      "role": "mentioned",
+      "context": "Shown on tables in All is, all seems"
+    },
+    {
+      "type": "Project",
+      "name": "Longshanks",
+      "role": "mentioned",
+      "context": "Shown on tables in All is, all seems"
+    }
+  ]
+}

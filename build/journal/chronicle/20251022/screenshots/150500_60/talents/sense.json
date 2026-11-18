@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "Between your exits you looked at a rope's end left on the bench. There was no dog with it. You did not pick it up.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Looked, and left the bench alone.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the rope",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in A rope's end on the bench",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Saw a rope's end on the bench",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the rope",
+    "the empty bench",
+    "no dog"
+  ],
+  "quotes": []
+}

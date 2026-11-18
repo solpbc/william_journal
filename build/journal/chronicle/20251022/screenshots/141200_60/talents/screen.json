@@ -1,0 +1,17 @@
+{
+  "narrative": "The Theatre yard before the doors, from inside the tiring-house door. The flag is up on its pole, the white swan on it, against grey October cloud. Backs and hats in the ground, nutshells already underfoot, wet cloaks. No one turned toward the door. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked from the door and did not go into the yard."
+    },
+    {
+      "type": "Company",
+      "name": "the Theatre yard",
+      "role": "mentioned",
+      "context": "In photo: The yard before the doors"
+    }
+  ]
+}

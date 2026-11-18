@@ -1,0 +1,38 @@
+{
+  "overview": "The book took the quire at fourpence halfpenny and nothing else. You did not enter six hundred. You did not open the coffer.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the quire and shut the book on the sum."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the quire entered",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the hall not entered",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the coffer shut",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-19",
+      "meaning": "The book without the hall"
+    }
+  ],
+  "summary": "Wrote the quire in the book"
+}

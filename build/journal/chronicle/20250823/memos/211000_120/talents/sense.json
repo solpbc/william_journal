@@ -1,0 +1,59 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You started from Anne's order, that when you write you should say something. You have a list, and a list is not a letter. The something is the friar saying Susanna's verdict and not being heeded, and it is not sealed. You did not put a sum on the house. You did not shorten the strap. Tomorrow is the fair, and Monday is the opening, and neither is a part of today's page. You stopped before it became the letter.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Started the sentence Anne asked for, and did not send it.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the great house by the chapel",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not the letter",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Stopped before the letter",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "say something",
+    "the list is not a letter",
+    "no sum",
+    "the strap unshortened"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "She said, when you write, say something."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A list is not a letter."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The letter is not this."
+    }
+  ]
+}

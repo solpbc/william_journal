@@ -1,0 +1,57 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Before you went down you ate little. You are in the old Hamlet. The Rose has the second Tamburlaine, and you are not going.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate little and went to the play.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the old Hamlet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Little, before the ghost",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "2 Tamburlaine",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Little, before the ghost",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate little and went down to the ghost",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a small meal",
+    "the afternoon's cry"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Sheet, flour, and one cry, when the light is going;"
+    }
+  ]
+}

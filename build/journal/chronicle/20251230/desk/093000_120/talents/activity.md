@@ -1,0 +1,1 @@
+You looked at the finished leaf in the daylight. The bellows-mender's line and the queen's question were both there. The blank under the last sentence was still blank. You laughed without a sound, and you had not added a punishment.

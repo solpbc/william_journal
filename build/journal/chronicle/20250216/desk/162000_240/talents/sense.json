@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You cut a London story out of last Sunday's draft and did not copy it into the letter. The tale had forty sail in it, and you had it only from a waterman. The sheet still waits for the carrier of the 27th.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Cut the story and left the letter for the twenty-seventh.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Struck the story out of the letter",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the struck London story",
+    "forty sail unsent",
+    "the carrier of the 27th"
+  ],
+  "quotes": []
+}

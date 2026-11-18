@@ -1,0 +1,17 @@
+{
+  "narrative": "Golding's Ovid open on the desk, Gib asleep across the right-hand page. The lines under the cat are covered. No face. No hand writing. The same page. The cat has not moved. No words have been copied onto a sheet beside the book.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked at the covered page and copied nothing."
+    },
+    {
+      "type": "Project",
+      "name": "Ovid",
+      "role": "mentioned",
+      "context": "Shown on book in Gib, on the book"
+    }
+  ]
+}

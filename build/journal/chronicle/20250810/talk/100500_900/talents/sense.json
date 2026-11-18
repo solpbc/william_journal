@@ -1,0 +1,77 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You stayed down in the pew through the first singing. Your mother had the cuff buttoned and would not open the empty place again. You did not try to fill it. Anne kept the lesson as the next thing, and dinner after that.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stayed in the pew for the first singing",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stayed in the pew for the first singing",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stayed in the pew for the first singing",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Holy Trinity",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Stayed in the pew for the first singing",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Sat the service at Holy Trinity",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mary Shakespeare",
+    "William Shakespeare",
+    "Anne Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the pew",
+    "the cuff buttoned",
+    "the empty place",
+    "the lesson coming"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have nothing to put in the empty place."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "The lesson is the next work."
+    },
+    {
+      "speaker": "mary_shakespeare",
+      "text": "I have said the other thing once."
+    }
+  ]
+}

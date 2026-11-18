@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "At the bridge, in the dawn, Richard's hands put a parcel up onto a pack-saddle. The leader's bells were in the same look. No face was in it. He did not speak.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "attendee in The parcel and the bells",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Handed the parcel up, and did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the pack",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The parcel and the bells",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Let the parcel go up",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "dawn",
+    "the parcel",
+    "the leader's bells"
+  ],
+  "quotes": []
+}

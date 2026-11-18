@@ -1,0 +1,17 @@
+{
+  "narrative": "The plot on the peg by the tiring-house door. The hour under the title, and his side named on it. No face. A second paper, read and not taken down. Two titles, and no road across the water on it. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Played the King of Navarre, and did not cross the water."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on plot in Navarre, and the Rose's two bills"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At dusk you said the tyrant was gone, and no bigger than a pea. You said you had given a king a better speech at his going. You did not add a moral, and you did not call the jaw healed.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the two sentences and did not go on.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said the tyrant was gone",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the tyrant gone",
+    "a king's speech"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Gone. A month's tyrant, and no bigger than a pea."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I gave a king a better speech at his going."
+    }
+  ]
+}

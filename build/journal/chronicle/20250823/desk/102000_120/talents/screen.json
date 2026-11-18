@@ -1,0 +1,23 @@
+{
+  "narrative": "Brooke open on the desk, the commonplace book beside it at the old heading. Gib is not on this book. A hand is on the margin, and no face is in it. The couplets are not copied onto the leaf. The same opening, the pen not taken up. The book stays open a moment and is left.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Opened the book, read his own margin, and closed nothing into a new speech."
+    },
+    {
+      "type": "Tool",
+      "name": "Brooke",
+      "role": "mentioned",
+      "context": "Shown on book in Brooke, still on the shelf"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on book in Brooke, still on the shelf"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "narrative": "A creased sheet held flat under your right hand, the ink on the forefinger at the margin. Beside the sheet, not yet wrapped, a cake of hard soap and a skein of Coventry blue thread. Candlelight. No second surface. Your thumb under that one phrase. The rest of the sheet asks for three small things and does not make the third plainer than this.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the letter through and stayed on the unmatched phrase."
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "context": "Wrote the letter before Christmas. She is not in the room."
+    },
+    {
+      "type": "Tool",
+      "name": "hard soap",
+      "role": "mentioned",
+      "context": "Shown on letter in The letter from before Christmas"
+    },
+    {
+      "type": "Tool",
+      "name": "Coventry blue thread",
+      "role": "mentioned",
+      "context": "Shown on letter in The letter from before Christmas"
+    }
+  ]
+}

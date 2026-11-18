@@ -1,0 +1,39 @@
+{
+  "overview": "You read the Rose's title at home. Long Meg. There was no author and no price. You did not see the play.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the title at home."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Long Meg",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the title only",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Long Meg",
+      "asset_type": "other",
+      "disposition": "Read Long Meg and stopped"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-19",
+      "meaning": "Long Meg"
+    }
+  ],
+  "summary": "Read Long Meg and stopped"
+}

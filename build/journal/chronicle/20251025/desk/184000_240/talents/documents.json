@@ -1,0 +1,49 @@
+{
+  "overview": "At home you entered thirty-eight shillings as received. You left the Christmas line as expected, with no sum. You did not write a coffer figure, and you did not add the two lines into one total.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Entered 38s and closed the book on a blank."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "thirty-eight shillings received",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "expected with no sum",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no balance",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the account book",
+      "asset_type": "other",
+      "disposition": "Entered thirty-eight shillings"
+    },
+    {
+      "name": "thirty-eight shillings",
+      "asset_type": "other",
+      "disposition": "Entered thirty-eight shillings"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-25",
+      "meaning": "Two lines in the book"
+    }
+  ],
+  "summary": "Entered thirty-eight shillings"
+}

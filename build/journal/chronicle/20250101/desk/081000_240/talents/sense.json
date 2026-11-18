@@ -1,0 +1,60 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Under the Queen's line you noted Two Gentlemen on St Stephen's night and Errors on Innocents' Day, and you counted the coffer at twenty-four pound ten. You set down three winter marks: finish the comedy before Shrovetide, keep clear of tavern scores, carry silver home at Lent. Mistress Ansell dropped a pan below. You added a private line, that the year begins with demands from below.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the rest of the leaf, and the line after the pan.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the account book",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Under the first line",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Two Gentlemen of Verona",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Under the first line",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Under the first line",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Filled the leaf under the first line",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the two Christmas plays",
+    "the coffer",
+    "the three winter marks",
+    "the pan"
+  ],
+  "quotes": []
+}

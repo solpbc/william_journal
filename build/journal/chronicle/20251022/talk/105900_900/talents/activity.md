@@ -1,0 +1,1 @@
+Gib was asleep on the shut Holinshed. The red bundle was still tied, and Alse had looked once. You said the fair copy stayed shut, and that anything you wrote tonight would be on a loose leaf. You asked for an hour with a leaf that was neither the bundle nor the cat's book. The broth stayed downstairs.

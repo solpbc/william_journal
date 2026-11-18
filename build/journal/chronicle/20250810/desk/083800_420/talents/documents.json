@@ -1,0 +1,44 @@
+{
+  "overview": "You read the answer under the vow, and the line you had decided to leave. You squared the sheets. You did not mend them.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the foul sheets on the bench"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the vow's answer",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the line left in",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the sheets squared",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the orchard scene",
+      "asset_type": "other",
+      "disposition": "Read the foul sheets on the bench"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-10",
+      "meaning": "Read the lines and squared the sheets"
+    }
+  ],
+  "summary": "Read the foul sheets on the bench"
+}

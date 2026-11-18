@@ -1,0 +1,64 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the door, in the grey, Anne told you to mend the back, and to say something when you write. You said you would mend what a road can mend, and that you would not bring a price or a prettier no. You did not wake the children. Richard already had the pack. You did not promise a day for coming back, and you did not promise the house.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted the two orders, and refused a date and a house.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the orders, and would not add the house to them.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the great house by the chapel",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Mend the back",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard Anne say mend the back and write",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the back",
+    "something said",
+    "the door",
+    "no house at a door"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Mend the back. And when you write, say something."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I'll mend what a road can mend."
+    }
+  ]
+}

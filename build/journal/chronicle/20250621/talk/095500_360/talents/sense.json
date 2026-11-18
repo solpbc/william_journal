@@ -1,0 +1,67 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Mistress Ansell came up with a dish and said you had been walking before the house was up. She asked if it was the lovers. You said no. She did not ask again. The loaf was still a thumb short of the notch, and still a penny. You did not tell her what the morning's pages were.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said no, and did not tell the plot.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the dish, asked once, and took the no.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not the lovers",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate, and told Mistress Ansell it was not the lovers",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "breakfast",
+    "the lovers",
+    "the penny loaf"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Was it the lovers again?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The loaf is still a thumb short of the notch, and it is still a penny."
+    }
+  ]
+}

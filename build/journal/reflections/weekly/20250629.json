@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250629",
+    "end": "20250705"
+  },
+  "generated_at": "2025-07-05T22:00:00Z",
+  "days": [
+    {
+      "day": "20250629",
+      "state": "memory",
+      "memory_id": "m-20250629-0"
+    },
+    {
+      "day": "20250630",
+      "state": "memory",
+      "memory_id": "m-20250630-1"
+    },
+    {
+      "day": "20250701",
+      "state": "memory",
+      "memory_id": "m-20250701-2"
+    },
+    {
+      "day": "20250702",
+      "state": "memory",
+      "memory_id": "m-20250702-3"
+    },
+    {
+      "day": "20250703",
+      "state": "memory",
+      "memory_id": "m-20250703-4"
+    },
+    {
+      "day": "20250704",
+      "state": "memory",
+      "memory_id": "m-20250704-5"
+    },
+    {
+      "day": "20250705",
+      "state": "memory",
+      "memory_id": "m-20250705-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250629-0",
+      "key": "mem_20250629_0",
+      "day": "20250629",
+      "text": "You helped bar the street door. The candle upstairs is yours.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250629/talents/morning_briefing",
+        "briefing_day": "20250629",
+        "refs": [
+          "sol://facets/household/activities/20250629#meeting_111000_900",
+          "sol://facets/household/activities/20250629#note_161000_360",
+          "sol://facets/household/activities/20250629#meeting_213000_1500"
+        ]
+      }
+    },
+    {
+      "id": "m-20250630-1",
+      "key": "mem_20250630_1",
+      "day": "20250630",
+      "text": "You read the king at James's table. The forty leaves are at Dick's. The book goes to the Master whole.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250630/talents/morning_briefing",
+        "briefing_day": "20250630",
+        "refs": [
+          "sol://facets/company/activities/20250630#frame_081500_300",
+          "sol://facets/company/activities/20250630#meeting_091500_1500",
+          "sol://facets/writing/activities/20250630#frame_102000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250701-2",
+      "key": "mem_20250701_2",
+      "day": "20250701",
+      "text": "The forty leaves are with Garnish. Six days. Seven shillings is set by.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250701/talents/morning_briefing",
+        "briefing_day": "20250701",
+        "refs": [
+          "sol://facets/company/activities/20250701#meeting_091500_1200",
+          "sol://facets/writing/activities/20250701#frame_114000_360",
+          "sol://facets/stratford/activities/20250701#frame_123000_300"
+        ]
+      }
+    },
+    {
+      "id": "m-20250702-3",
+      "key": "mem_20250702_3",
+      "day": "20250702",
+      "text": "You played Two Gentlemen. Brooke stayed on the shelf. The letter is still in the room.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250702/talents/morning_briefing",
+        "briefing_day": "20250702",
+        "refs": [
+          "sol://facets/company/activities/20250702#frame_084500_300",
+          "sol://facets/company/activities/20250702#meeting_161500_1080",
+          "sol://facets/writing/activities/20250702#memo_201500_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250703-4",
+      "key": "mem_20250703_4",
+      "day": "20250703",
+      "text": "You played the old man through. The yard heard every word. Brooke is at the front of the shelf.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250703/talents/morning_briefing",
+        "briefing_day": "20250703",
+        "refs": [
+          "sol://facets/company/activities/20250703#meeting_090500_1200",
+          "sol://facets/company/activities/20250703#meeting_162000_720",
+          "sol://facets/writing/activities/20250703#frame_211000_300"
+        ]
+      }
+    },
+    {
+      "id": "m-20250704-5",
+      "key": "mem_20250704_5",
+      "day": "20250704",
+      "text": "The heading is on your tables. Alone you said a yard is two thousand gathered by a flag.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250704/talents/morning_briefing",
+        "briefing_day": "20250704",
+        "refs": [
+          "sol://facets/household/activities/20250704#meeting_181000_900",
+          "sol://facets/company/activities/20250704#frame_182800_180",
+          "sol://facets/household/activities/20250704#photo_183500_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250705-6",
+      "key": "mem_20250705_6",
+      "day": "20250705",
+      "text": "Ten shillings, received. Ninety lines of the brawl. You came home by Bishopsgate Street.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250705/talents/morning_briefing",
+        "briefing_day": "20250705",
+        "refs": [
+          "sol://facets/writing/activities/20250705#frame_042000_300",
+          "sol://facets/writing/activities/20250705#frame_053000_240",
+          "sol://facets/writing/activities/20250705#frame_081500_240"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250629-0",
+      "key": "said_20250629_0",
+      "day": "20250629",
+      "quote": "Remember this dark. When I come to the two houses, begin there.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250629#memo_222000_120"
+      }
+    },
+    {
+      "id": "s-20250630-1",
+      "key": "said_20250630_1",
+      "day": "20250630",
+      "quote": "And tell sad stories of the death of Kings.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250630#meeting_091500_1500"
+      }
+    },
+    {
+      "id": "s-20250630-2",
+      "key": "said_20250630_2",
+      "day": "20250630",
+      "quote": "This room has spent what jest it had, and I am not sorry for the spending.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250630#meeting_111500_1800"
+      }
+    },
+    {
+      "id": "s-20250701-3",
+      "key": "said_20250701_3",
+      "day": "20250701",
+      "quote": "Early is a different fault from late, and it is still a fault.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250701#meeting_091500_1200"
+      }
+    },
+    {
+      "id": "s-20250702-4",
+      "key": "said_20250702_4",
+      "day": "20250702",
+      "quote": "A hot lane. Two men with bucklers, each of them sure he is the whole town. That is the picture.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250702#memo_201500_120"
+      }
+    },
+    {
+      "id": "s-20250703-5",
+      "key": "said_20250703_5",
+      "day": "20250703",
+      "quote": "They heard me. That is the fact I mean to keep, and the only one.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250703#meeting_162000_720"
+      }
+    },
+    {
+      "id": "s-20250704-6",
+      "key": "said_20250704_6",
+      "day": "20250704",
+      "quote": "A playhouse yard is two thousand people gathered by a flag.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250704#memo_191000_120"
+      }
+    },
+    {
+      "id": "s-20250705-7",
+      "key": "said_20250705_7",
+      "day": "20250705",
+      "quote": "They jest first. Then somebody's out. That's the order of it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250705#memo_104000_120"
+      }
+    }
+  ]
+}

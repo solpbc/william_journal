@@ -1,0 +1,73 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Davy gave the week's news as six Spanish galleys off the north coast of Cornwall. Four has been heard. Nobody in the boat believed either figure. You did not correct him, and you did not pick the number.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused to correct the number.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Davy Gannet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Shouted six.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sent the boat on.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Cuthbert Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had heard four, and believed it no more.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard six galleys, and heard four",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Davy Gannet",
+    "Cuthbert Burbage",
+    "James Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "six galleys",
+    "four",
+    "nobody's belief"
+  ],
+  "quotes": [
+    {
+      "speaker": "davy_gannet",
+      "text": "Six Spanish galleys, off the north coast of Cornwall"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not correcting it"
+    }
+  ]
+}

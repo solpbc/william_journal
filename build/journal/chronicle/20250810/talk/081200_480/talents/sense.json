@@ -1,0 +1,63 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At the orchard door Anne showed you the bench as she had left it, and she did not stay to see you be careful. You said you would not sit. She went back to the loaf.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Looked at the bench from the orchard door",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Looked at the bench from the orchard door",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the orchard bench",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Looked at the bench from the orchard door",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came down and went out to the bench",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the orchard door",
+    "the bench untouched",
+    "the loaf"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "There it is. As I left it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not sit down to it."
+    }
+  ]
+}

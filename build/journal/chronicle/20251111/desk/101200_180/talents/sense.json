@@ -1,0 +1,43 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "At a quarter past ten you wrote the Prince's last couplet and ruled a line under it. The two lines shut the book. You did not add a word under the rule.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the couplet and ruled it.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in A rule at a quarter past ten",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Ruled the last couplet",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the last couplet",
+    "the rule",
+    "a quarter past ten"
+  ],
+  "quotes": []
+}

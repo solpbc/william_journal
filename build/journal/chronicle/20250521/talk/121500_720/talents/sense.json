@@ -1,0 +1,106 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You ate at threepence. The king was off the wall, and the ground had no speech yet. The loaf was a penny and a finger and a half short, and it was not measured. You said there is no fool in the play, and that Kemp has not been told. Gib stayed on Field's open chronicle. You did not send the book back.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told the descent, refused the fool's news, and left the chronicle open.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Priced dinner at threepence, named the loaf, and left the cat on the book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked about the fall and the fool, and did not measure the bread.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Compared the descent to cloth lowered, and let the hard part wait.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Stayed on the open chronicle.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Threepence, and the short end",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Holinshed",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Threepence, and the short end",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Threepence, and the short end",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate the short loaf and reported the king on the ground",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "threepence",
+    "the penny loaf",
+    "no fool",
+    "Field's book"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "There is no fool in this one."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A finger and a half short of the notch, and a penny, and you will not measure it either."
+    }
+  ]
+}

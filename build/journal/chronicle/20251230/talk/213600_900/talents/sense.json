@@ -1,0 +1,64 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You put the fold under the cloak, writing inward. Jacqueline kept the cups on the oak until the door should shut. Field said the lantern was one, and then the lane, and then your own dark.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Put the pages under the cloak",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Put the pages under the cloak",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Jacqueline Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Put the pages under the cloak",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read the pages by Field's fire",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Jacqueline Field",
+    "William Shakespeare",
+    "Richard Field"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the fold under the cloak",
+    "one lantern",
+    "the lane"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not leaving a leaf on the settle to be kinder than a closed packet."
+    },
+    {
+      "speaker": "richard_field",
+      "text": "A lane, and then thy own dark."
+    }
+  ]
+}

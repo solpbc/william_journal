@@ -1,0 +1,1 @@
+You read it again, slower. By the tenth line Phillips's lips were moving. Burbage asked what he says while all that is said. You told him: Peace, once. He said it was enough. Agnes said an alderman would have you shut. The notes stayed notes. The two lines at the top stayed the size of her.

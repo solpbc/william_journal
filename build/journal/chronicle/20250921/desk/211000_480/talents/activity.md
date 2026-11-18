@@ -1,0 +1,1 @@
+After supper you wrote one blow. The yard has seen the sword. You struck the line that explained the boy in the middle, and you left the foot of the leaf empty. You did not start a speech for the Prince. The earlier leaf, with the square and the ladder, stayed in the folder.

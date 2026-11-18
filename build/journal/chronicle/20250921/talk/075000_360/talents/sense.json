@@ -1,0 +1,92 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "The loaf was a penny and still a thumb short, and she would not measure it again. You put the clove in and ate the soft of the loaf. Alse left Gib on the lent book. You did not call the jaw a cure, and you did not give the parish a story.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put the clove in, ate, and left the book under the cat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a second measuring, and limited what he might tell the parish.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the clove, and left Gib where he was.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "On the Holinshed. Nobody moved him.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "a penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The clove, and a penny",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The clove, and a penny",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Put the clove in and ate the soft of the loaf",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the loaf",
+    "the clove",
+    "church at nine"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The loaf is a penny. It is still a thumb short of the notch."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The clove is going in. The jaw is the jaw."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "If the parish asks after your face, you may tell them it is a tooth."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "You gave Garnish fifty clean leaves before the king was played. He found the Wife, the Mother, and the Lady to be one woman, and you said one, the Lady. The fan-carrier is entered as Kemp, and the roll will be headed with his own name, because he would like it better. Heminges asked only for the count: twenty-odd parts, and three boys. Garnish made the two hours into three and called it a lie. You said a sonnet is allowed one. The rolls are not out. The company has not read the play. The fee was not this morning's line. You will not cross for the first Tamburlaine.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Handed the book, answered the faults, and refused a new tally.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read standing, named the faults, and kept the fifty leaves.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked the count, and held the fee off today's line.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Fifty leaves",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the first Tamburlaine",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Fifty leaves",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Fifty leaves",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Handed over fifty leaves",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "William Shakespeare",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "fifty leaves",
+    "one Lady",
+    "Kemp's own name",
+    "twenty-odd parts",
+    "three boys",
+    "the sonnet's lie"
+  ],
+  "quotes": [
+    {
+      "speaker": "abel_garnish",
+      "text": "You have a Wife, a Mother, and a Lady in the margin, and I take them for one woman."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It's a sonnet, Abel. They're allowed one."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Twenty-odd, and three."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "The fee on this book is not today's line."
+    }
+  ]
+}

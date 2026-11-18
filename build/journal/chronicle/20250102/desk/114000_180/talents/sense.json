@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Between the rehearsal and the play you wrote one sentence for Berowne, that he tells them the oath will not live, and that he has not yet said it in words that will stand. You folded the sheet to carry. You marked it for under your arm, and not for the tiring-room.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the two lines and folded the sheet.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Berowne, not good enough to keep",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Folded Berowne for the walk back",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Berowne",
+    "the oath",
+    "the sheet under the arm"
+  ],
+  "quotes": []
+}

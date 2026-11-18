@@ -1,0 +1,1 @@
+You said afterward that the sermon had reached fourteenthly while you were still on the messenger. You left the half-line empty on purpose. You were well, and you said the nose was clear. The cold has not begun.

@@ -1,0 +1,1 @@
+You came back before noon. Alse had not cut the loaf and had not set the basin. Gib had left the stair and was lying on the shut Holinshed. You left the red bundle tied, and you did not take the broth upstairs.

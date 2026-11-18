@@ -1,0 +1,52 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At home you wrote the two hearings of the vault cue and did not choose. One hearing has the cressets already up. The other has the fire on the word light. Thursday's copy is to keep one of them. You set the apparel's two hours and fifty minutes beside the court cut of two hours and a half, and you did not mix them. You wrote no price under the hall.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the fault down, and did not price the hall.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two hearings",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "two hours and fifty minutes",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two hearings",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote both hearings of the vault cue",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two hearings",
+    "the word light",
+    "two hours and fifty",
+    "no price"
+  ],
+  "quotes": []
+}

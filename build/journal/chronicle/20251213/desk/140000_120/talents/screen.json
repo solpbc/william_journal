@@ -1,0 +1,17 @@
+{
+  "narrative": "A black-letter bill, title only, in the tiring-house before the afternoon. No author's name. He does not turn toward the river. The peg is as far as the sheet goes. The bill is on the peg. His own afternoon is already the other house. He does not carry the title downstairs.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the title, and did not start for the river."
+    },
+    {
+      "type": "Project",
+      "name": "Seven Days",
+      "role": "mentioned",
+      "context": "Shown on bill in Seven Days"
+    }
+  ]
+}

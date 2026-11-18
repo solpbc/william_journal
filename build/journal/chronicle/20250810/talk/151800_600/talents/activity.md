@@ -1,0 +1,1 @@
+You came back inside the middle of the afternoon. The corner of pie was still a corner. Joan took the three, as she had said she would. Susanna did not ask her question again, and you did not make a second answer. The boats went on the step, not into the hall. The knife was back. You and Anne went for the field path, and the arch was not a message you were taking with you.

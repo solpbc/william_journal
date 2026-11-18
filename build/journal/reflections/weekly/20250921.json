@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250921",
+    "end": "20250927"
+  },
+  "generated_at": "2025-09-27T22:00:00Z",
+  "days": [
+    {
+      "day": "20250921",
+      "state": "memory",
+      "memory_id": "m-20250921-0"
+    },
+    {
+      "day": "20250922",
+      "state": "memory",
+      "memory_id": "m-20250922-1"
+    },
+    {
+      "day": "20250923",
+      "state": "memory",
+      "memory_id": "m-20250923-2"
+    },
+    {
+      "day": "20250924",
+      "state": "memory",
+      "memory_id": "m-20250924-3"
+    },
+    {
+      "day": "20250925",
+      "state": "memory",
+      "memory_id": "m-20250925-4"
+    },
+    {
+      "day": "20250926",
+      "state": "memory",
+      "memory_id": "m-20250926-5"
+    },
+    {
+      "day": "20250927",
+      "state": "memory",
+      "memory_id": "m-20250927-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250921-0",
+      "key": "mem_20250921_0",
+      "day": "20250921",
+      "text": "At the sermon you lost the thread at fourteenthly. The blow is on the leaf.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250921/talents/morning_briefing",
+        "briefing_day": "20250921",
+        "refs": [
+          "sol://facets/household/activities/20250921#meeting_075000_360",
+          "sol://facets/household/activities/20250921#meeting_092000_480",
+          "sol://facets/writing/activities/20250921#frame_211000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250922-1",
+      "key": "mem_20250922_1",
+      "day": "20250922",
+      "text": "With little riches. Fivepence for a blank quire. You played Navarre at two.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250922/talents/morning_briefing",
+        "briefing_day": "20250922",
+        "refs": [
+          "sol://facets/company/activities/20250922#meeting_083500_480",
+          "sol://facets/writing/activities/20250922#meeting_091500_840",
+          "sol://facets/writing/activities/20250922#frame_093400_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250923-2",
+      "key": "mem_20250923_2",
+      "day": "20250923",
+      "text": "One word on the tables. Southampton asked for fourteen lines. Mistress Vernon, once.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250923/talents/morning_briefing",
+        "briefing_day": "20250923",
+        "refs": [
+          "sol://facets/writing/activities/20250923#frame_082000_360",
+          "sol://facets/writing/activities/20250923#call_104000_180",
+          "sol://facets/company/activities/20250923#frame_140500_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250924-3",
+      "key": "mem_20250924_3",
+      "day": "20250924",
+      "text": "The word is still the one word. Out of the gown by four.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250924/talents/morning_briefing",
+        "briefing_day": "20250924",
+        "refs": [
+          "sol://facets/writing/activities/20250924#frame_090000_240",
+          "sol://facets/household/activities/20250924#meeting_123000_360",
+          "sol://facets/company/activities/20250924#frame_140500_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250925-4",
+      "key": "mem_20250925_4",
+      "day": "20250925",
+      "text": "Four shillings, and eighteenpence. After Thursday. When this king is buried. The jaw is hot.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250925/talents/morning_briefing",
+        "briefing_day": "20250925",
+        "refs": [
+          "sol://facets/company/activities/20250925#meeting_091000_480",
+          "sol://facets/household/activities/20250925#meeting_113000_300",
+          "sol://facets/company/activities/20250925#call_121000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250926-5",
+      "key": "mem_20250926_5",
+      "day": "20250926",
+      "text": "The glass face up. A grain in the boy's voice. Kemp says it wants a dog. Faustus was over the water.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250926/talents/morning_briefing",
+        "briefing_day": "20250926",
+        "refs": [
+          "sol://facets/company/activities/20250926#meeting_083200_240",
+          "sol://facets/company/activities/20250926#photo_084800_60",
+          "sol://facets/company/activities/20250926#frame_085200_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250927-6",
+      "key": "mem_20250927_6",
+      "day": "20250927",
+      "text": "Eleven lines struck. Trust the boy. Thirty-four shillings. The coffer stands at twenty pound fifteen.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250927/talents/morning_briefing",
+        "briefing_day": "20250927",
+        "refs": [
+          "sol://facets/writing/activities/20250927#frame_064500_720",
+          "sol://facets/writing/activities/20250927#note_091500_120",
+          "sol://facets/company/activities/20250927#frame_140500_120"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250921-0",
+      "key": "said_20250921_0",
+      "day": "20250921",
+      "quote": "It sits on me like a title I did not buy, and I am not easy.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250921#memo_214000_60"
+      }
+    },
+    {
+      "id": "s-20250922-1",
+      "key": "said_20250922_1",
+      "day": "20250922",
+      "quote": "Hold your boat, Davy. I am not buying the gold.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250922#meeting_083500_480"
+      }
+    },
+    {
+      "id": "s-20250922-2",
+      "key": "said_20250922_2",
+      "day": "20250922",
+      "quote": "The river sold me a ship of gold. Paul's sold me little riches and a blank quire at fivepence. I bought the quire.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250922#meeting_101000_480"
+      }
+    },
+    {
+      "id": "s-20250923-3",
+      "key": "said_20250923_3",
+      "day": "20250923",
+      "quote": "My lord, I have a friar who bids his lovers love moderately. He is not much heeded.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250923#call_104000_180"
+      }
+    },
+    {
+      "id": "s-20250923-4",
+      "key": "said_20250923_4",
+      "day": "20250923",
+      "quote": "I have a drawer of that ware, and not a leaf of it would fit.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250923#memo_211000_60"
+      }
+    },
+    {
+      "id": "s-20250925-5",
+      "key": "said_20250925_5",
+      "day": "20250925",
+      "quote": "The jaw is hot to the hand tonight. It does not come down with the dark.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250925#memo_211500_60"
+      }
+    },
+    {
+      "id": "s-20250926-6",
+      "key": "said_20250926_6",
+      "day": "20250926",
+      "quote": "Over the water it is Faustus. I am staying on this bank.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250926#meeting_092000_720"
+      }
+    },
+    {
+      "id": "s-20250927-7",
+      "key": "said_20250927_7",
+      "day": "20250927",
+      "quote": "The toothache is not a charge. Count it plain. I will not dance for it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250927#meeting_170000_720"
+      }
+    }
+  ]
+}

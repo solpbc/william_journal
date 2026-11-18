@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "At home the Plutarch lay unbound under a board. Daniel's third book was left for tomorrow. The Holinshed was still out. You copied no sentence.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Left the Plutarch flat, and did not open a sentence out of it.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Left the Plutarch on the shelf",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Plutarch unbound",
+    "Daniel tomorrow",
+    "the Holinshed still out"
+  ],
+  "quotes": []
+}

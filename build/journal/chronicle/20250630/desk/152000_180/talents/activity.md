@@ -1,0 +1,1 @@
+Back at the lodging, you wrote the day on your tables in three lines. No play. The bill was struck this morning. The king was read, and the leaves are with Dick. You did not write what the struck bill had been called.

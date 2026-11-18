@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At the window, at dusk, you said you had heard the bells, and that this was all you knew and all you would say you knew. You had five, and no name. You had butter at threepence, a pillory, and a court that called it war. You remembered a gentleman at Clerkenwell a fortnight since, and a line you wrote on a Saturday and thought was only a line. You stopped at enough. You did not describe a thing you had not seen.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the bells, the five, and enough.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Enough",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said the bells were all, and stopped at enough",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the bells",
+    "five without names",
+    "enough"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I heard the bells. That's all I know of it, and all I'll say I know."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Enough."
+    }
+  ]
+}

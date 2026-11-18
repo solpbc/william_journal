@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At home you entered the pound received and the two pounds to the brief. You wrote that one pound is still owed. You did not put a total under the lines. You shut both locks. Michaelmas remains the last count, because you did not make another.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the two lines and shut both locks.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "one pound still owed",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Two items, and no total",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "two pounds to the brief",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Two items, and no total",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Entered the pound back and the two pounds given",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two items",
+    "one pound still owed",
+    "no new total"
+  ],
+  "quotes": []
+}

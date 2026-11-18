@@ -1,0 +1,1 @@
+At dinner you said you were not going up. Thomas has the king at two, and you were not there at nine. You did not send anyone to ask how it went. You ate the soft of what was set down. The jaw is still tender, and you did not call it healed. The board was threepence, as on Sunday. You stayed in.

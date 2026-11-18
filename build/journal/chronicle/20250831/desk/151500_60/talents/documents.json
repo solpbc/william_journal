@@ -1,0 +1,58 @@
+{
+  "overview": "You sealed the letter and wrote Anne's direction on the outside, at Henley Street in Stratford, by Thomas Hobbins, the eleventh of September. The sheet stayed on the chest. You did not give it to anyone today.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Sealed the sheet and wrote the direction."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Named on the outside. Not present."
+    },
+    {
+      "name": "Thomas Hobbins",
+      "role": "mentioned",
+      "formal_term": "Thomas Hobbins",
+      "appointment_tier": "not_applicable",
+      "context": "Named as the carrier. Not in the house."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the seal",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Henley Street",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the eleventh",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the eleventh of September",
+      "asset_type": "other",
+      "disposition": "Sealed Anne's letter for the eleventh"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-31",
+      "meaning": "Sealed for the eleventh"
+    }
+  ],
+  "summary": "Sealed Anne's letter for the eleventh"
+}

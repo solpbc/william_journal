@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250907",
+    "end": "20250913"
+  },
+  "generated_at": "2025-09-13T22:00:00Z",
+  "days": [
+    {
+      "day": "20250907",
+      "state": "memory",
+      "memory_id": "m-20250907-0"
+    },
+    {
+      "day": "20250908",
+      "state": "memory",
+      "memory_id": "m-20250908-1"
+    },
+    {
+      "day": "20250909",
+      "state": "memory",
+      "memory_id": "m-20250909-2"
+    },
+    {
+      "day": "20250910",
+      "state": "memory",
+      "memory_id": "m-20250910-3"
+    },
+    {
+      "day": "20250911",
+      "state": "memory",
+      "memory_id": "m-20250911-4"
+    },
+    {
+      "day": "20250912",
+      "state": "memory",
+      "memory_id": "m-20250912-5"
+    },
+    {
+      "day": "20250913",
+      "state": "memory",
+      "memory_id": "m-20250913-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250907-0",
+      "key": "mem_20250907_0",
+      "day": "20250907",
+      "text": "Field wants the second volume, and a cat keeps it. You did not tell Phillips.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250907/talents/morning_briefing",
+        "briefing_day": "20250907",
+        "refs": [
+          "sol://facets/household/activities/20250907#photo_090500_60",
+          "sol://facets/household/activities/20250907#meeting_091800_840",
+          "sol://facets/household/activities/20250907#meeting_123000_900"
+        ]
+      }
+    },
+    {
+      "id": "m-20250908-1",
+      "key": "mem_20250908_1",
+      "day": "20250908",
+      "text": "The loaf is a penny, a full thumb short of the notch. You played Fair Em. The part was not named. The letter is still sealed.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250908/talents/morning_briefing",
+        "briefing_day": "20250908",
+        "refs": [
+          "sol://facets/writing/activities/20250908#note_075000_480",
+          "sol://facets/household/activities/20250908#meeting_084000_360",
+          "sol://facets/company/activities/20250908#frame_141000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250909-2",
+      "key": "mem_20250909_2",
+      "day": "20250909",
+      "text": "You chose the clove. The tooth is black at the neck. Cloves are twopence.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250909/talents/morning_briefing",
+        "briefing_day": "20250909",
+        "refs": [
+          "sol://facets/company/activities/20250909#frame_092000_180",
+          "sol://facets/company/activities/20250909#meeting_112500_900",
+          "sol://facets/company/activities/20250909#frame_140500_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250910-3",
+      "key": "mem_20250910_3",
+      "day": "20250910",
+      "text": "You woke at one and at three. You played The Shrew. The part was not named. The seal is still whole.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250910/talents/morning_briefing",
+        "briefing_day": "20250910",
+        "refs": [
+          "sol://facets/household/activities/20250910#memo_011000_120",
+          "sol://facets/household/activities/20250910#memo_032000_120",
+          "sol://facets/company/activities/20250910#frame_141000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250911-4",
+      "key": "mem_20250911_4",
+      "day": "20250911",
+      "text": "Burbage sat, and Phillips bowed. Anne wants the money when it falls. The parcel is still tied.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250911/talents/morning_briefing",
+        "briefing_day": "20250911",
+        "refs": [
+          "sol://facets/company/activities/20250911#meeting_091000_1080",
+          "sol://facets/company/activities/20250911#meeting_101500_1080",
+          "sol://facets/company/activities/20250911#photo_104200_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250912-5",
+      "key": "mem_20250912_5",
+      "day": "20250912",
+      "text": "Alice ended the knot in one stroke. The slip says whom, in Susanna's hand. You would not name the child.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250912/talents/morning_briefing",
+        "briefing_day": "20250912",
+        "refs": [
+          "sol://facets/writing/activities/20250912#frame_082000_180",
+          "sol://facets/company/activities/20250912#frame_140500_120",
+          "sol://facets/stratford/activities/20250912#meeting_183500_900"
+        ]
+      }
+    },
+    {
+      "id": "m-20250913-6",
+      "key": "mem_20250913_6",
+      "day": "20250913",
+      "text": "The letter asks. It is not an order. The share is thirty-three shillings. Kemp said tour. The room did not agree. The coffer stands at twenty pound fifteen.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250913/talents/morning_briefing",
+        "briefing_day": "20250913",
+        "refs": [
+          "sol://facets/company/activities/20250913#call_121500_180",
+          "sol://facets/company/activities/20250913#frame_140500_120",
+          "sol://facets/company/activities/20250913#meeting_170000_900"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250907-0",
+      "key": "said_20250907_0",
+      "day": "20250907",
+      "quote": "It's safe. A cat keeps it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250907#meeting_123000_900"
+      }
+    },
+    {
+      "id": "s-20250908-1",
+      "key": "said_20250908_1",
+      "day": "20250908",
+      "quote": "The notch has not moved. The loaf has. I can see which.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250908#meeting_084000_360"
+      }
+    },
+    {
+      "id": "s-20250909-2",
+      "key": "said_20250909_2",
+      "day": "20250909",
+      "quote": "Pottage. I have had one crust today, and it introduced itself.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250909#meeting_181000_900"
+      }
+    },
+    {
+      "id": "s-20250910-3",
+      "key": "said_20250910_3",
+      "day": "20250910",
+      "quote": "I am not breaking the wax to put a tooth into a letter.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250910#memo_204000_180"
+      }
+    },
+    {
+      "id": "s-20250911-4",
+      "key": "said_20250911_4",
+      "day": "20250911",
+      "quote": "The loss is in the room before a word comes to explain it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250911#meeting_101500_1080"
+      }
+    },
+    {
+      "id": "s-20250911-5",
+      "key": "said_20250911_5",
+      "day": "20250911",
+      "quote": "Rope. A ladder of rope. Hm.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250911#memo_181000_120"
+      }
+    },
+    {
+      "id": "s-20250912-6",
+      "key": "said_20250912_6",
+      "day": "20250912",
+      "quote": "Susanna's hand. Nothing on it but whom.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250912#meeting_183500_900"
+      }
+    },
+    {
+      "id": "s-20250913-7",
+      "key": "said_20250913_7",
+      "day": "20250913",
+      "quote": "The Mayor writes of June. We are about to answer him with a play in which a king is put down.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250913#meeting_170000_900"
+      }
+    }
+  ]
+}

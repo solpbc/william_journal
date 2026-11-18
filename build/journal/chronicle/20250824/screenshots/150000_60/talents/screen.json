@@ -1,0 +1,17 @@
+{
+  "narrative": "A pig turning on a spit over charcoal, a puppet booth's striped canvas, and a sea of hats.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Took the picture. His face is not in it."
+    },
+    {
+      "type": "Project",
+      "name": "Bartholomew Fair",
+      "role": "mentioned",
+      "context": "In photo: Pig, booth, hats"
+    }
+  ]
+}

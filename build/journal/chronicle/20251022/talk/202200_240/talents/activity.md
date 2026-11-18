@@ -1,0 +1,1 @@
+After the page, Mistress Ansell spoke from her own bed. She could see the one light, and she did not come up. You told her the bundle was still tied, and that the girl had not drunk. You did not read her the lines. You did not tell her of the earl. She said good night.

@@ -1,0 +1,29 @@
+{
+  "narrative": "The board at the White Greyhound, at the height of a man's chest. Two books lie on it, one thinner and more handled, one thicker and cleaner. Harrison's hand is on the thicker one. No face is in the picture. No other book has been taken off the board.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "In Two books on the board"
+    },
+    {
+      "type": "Person",
+      "name": "John Harrison",
+      "role": "mentioned",
+      "context": "His hand is on the thicker book. His face is not in the picture."
+    },
+    {
+      "type": "Project",
+      "name": "Venus and Adonis",
+      "role": "mentioned",
+      "context": "In photo: Two books on the board"
+    },
+    {
+      "type": "Project",
+      "name": "Lucrece",
+      "role": "mentioned",
+      "context": "In photo: Two books on the board"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "project": "william-journal",
+  "solstone_journal_repo": "https://github.com/solpbc/solstone-journal",
+  "pinned_commit": "bc0c3c81bb098354fb538df0181894b742c7076d",
+  "solstone_journal_version": "journal (solstone) 2.0.81",
+  "framework_baseline_commit": "14e0c17",
+  "verified_at": "2026-11-16",
+  "verified_references": {
+    "write_sense_and_change": "core/crates/solstone-core-think-cli/src/segment.rs:3107-3290",
+    "publish_segment_topics": "core/crates/solstone-core-think-cli/src/segment.rs:3389-3469",
+    "evaluate_topics": "core/crates/solstone-core-think-cli/src/topics.rs:309-478",
+    "contract_bundle": "core/payload/solstone/talent/journal/contract/bundle.json",
+    "sense_schema": "core/payload/solstone/talent/sense.schema.json",
+    "screen_schema": "core/payload/solstone/talent/screen.schema.json",
+    "documents_schema": "core/payload/solstone/talent/documents.schema.json",
+    "story_schema": "core/payload/solstone/talent/story.schema.json",
+    "participation_schema": "core/payload/solstone/talent/participation.schema.json",
+    "pulse_schema": "core/payload/solstone/talent/pulse.schema.json",
+    "morning_briefing_schema": "core/payload/solstone/talent/morning_briefing.schema.json",
+    "audio_format": "core/crates/solstone-core-format/src/content/audio.rs:83-99,150-154",
+    "who_spoke": "core/crates/solstone-core-transcripts/src/who_spoke.rs:180,314-319,451-508",
+    "raw_screen": "core/crates/solstone-core-format/src/content/raw_screen.rs:39-145",
+    "screen_text": "core/crates/solstone-core-format/src/content/screen_text.rs:19-160",
+    "calendar_format": "core/crates/solstone-core-format/src/calendar.rs:43-62,402-520",
+    "calendar_streams": "core/crates/solstone-core-segment/src/calendar.rs:19-41",
+    "system_health_completion": "core/crates/solstone-core-system-health/src/completion.rs:18-45",
+    "system_health_progress": "core/crates/solstone-core-system-health/src/progress.rs:148-281",
+    "system_health_event": "core/crates/solstone-core-system-health/src/event.rs:32-120",
+    "pulse_reader": "core/crates/solstone-core-home/src/pulse.rs:38-120",
+    "briefing_reader": "core/crates/solstone-core-home/src/briefing.rs:39-195",
+    "weekly_reflection": "core/crates/solstone-core-home/src/weekly.rs:185-531",
+    "location_records": "core/crates/solstone-core-location/src/record.rs:110-210",
+    "location_places": "core/crates/solstone-core-location/src/places.rs:38-41,290-437",
+    "body_records": "core/crates/solstone-core-format/src/content/body_records.rs:14-120"
+  },
+  "drift_from_14e0c17": [
+    {
+      "file": "core/crates/solstone-core-think-cli/src/segment.rs",
+      "baseline_lines": "2989-3154",
+      "current_lines": "3107-3290",
+      "summary": "write_sense_and_change shifted down due to sense_continuation and every_screen_carried_whole helpers added above it; publish_segment_topics is at 3389-3469. Output projections (activity.md, facets.json, density.json, sense.md, speakers.json, change.json, topics.md) are unchanged."
+    },
+    {
+      "file": "core/crates/solstone-core-format/src/content/audio.rs",
+      "baseline_lines": "132-139",
+      "current_lines": "83-99,150-154",
+      "summary": "Speaker label formatting extracted into speaker_label and audio_speaker_label helpers at lines 83-99 and invoked at 150-154. Behavior for string and integer speaker fields is unchanged."
+    },
+    {
+      "file": "core/crates/solstone-core-system-health/src/change_detection.rs",
+      "baseline_lines": "166-177",
+      "current_lines": "166-177",
+      "summary": "TRANSCRIPT_WORD_DELTA_FLOOR constant removed in compare_transcript; any word delta now triggers transcript change detection unless sense.complete is at or after input mtimes."
+    },
+    {
+      "file": "core/crates/solstone-core-location/src/asset.rs",
+      "baseline_lines": "26",
+      "current_lines": "26",
+      "summary": "AREA_TIER_SHA256 updated to a5977d89ce67b439aba186d7d84a6de9a421fb5176804c4bfad81fdf836a47c1."
+    },
+    {
+      "file": "core/crates/solstone-core-transcripts/src/who_spoke.rs",
+      "baseline_lines": "180,314-319",
+      "current_lines": "180,314-319",
+      "summary": "Framework note: speaker_labels.json is read from <segment>/talents/speaker_labels.json (via TALENTS_SUBDIR at line 180) and its labels field is an array of {sentence_id, speaker, method, confidence} objects (lines 314-319)."
+    }
+  ]
+}

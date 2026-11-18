@@ -1,0 +1,1 @@
+You told Heminges at once that yesterday's country justice was Lord Hunsdon. You gave him the three nights and the refusal of the king. He will write the nights on the promised side. Nothing has been received. The old play is not chosen. Nobody named the man with the hole in his heel.

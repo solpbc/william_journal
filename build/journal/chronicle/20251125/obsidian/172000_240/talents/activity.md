@@ -1,0 +1,1 @@
+At home you wrote that the lovers stand as the pages stand. A small fierce girl against a tall one: Nick, and Arthur. Arthur has the lines by heart, in case, and nobody tells Nick. The king's chest stayed shut, and this note is not that chest. The ass is not written. You have not written the head.

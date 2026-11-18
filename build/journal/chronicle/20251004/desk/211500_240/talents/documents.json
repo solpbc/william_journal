@@ -1,0 +1,44 @@
+{
+  "overview": "At home you entered forty-five shillings as your share, without a jest. You did not rule the coffer again. You did not write a remainder, a June figure, or a division of Thursday's box.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Entered the line without a jest, and did not count the box again."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "forty-five shillings",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no new coffer total",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no jest",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "45s",
+      "asset_type": "other",
+      "disposition": "Entered the share and shut the book"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-04",
+      "meaning": "Item, my share"
+    }
+  ],
+  "summary": "Entered the share and shut the book"
+}

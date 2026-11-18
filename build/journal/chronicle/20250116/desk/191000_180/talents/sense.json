@@ -1,0 +1,59 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote the sixpence and the twopence on the tables. Under them the older line is still there, Edith's eight shillings owing till Lady Day. You did not write a sum for the coffer. You did not rule a column for what you expect and a column for what you have had. You did not enter a week's share.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the two payments under the old line.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Named on the old line. Not present. Not paid.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Eightpence on the tables",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Edith's 8s",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Eightpence on the tables",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Wrote the eightpence on the tables",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the eightpence",
+    "Edith's eight shillings",
+    "no new total"
+  ],
+  "quotes": []
+}

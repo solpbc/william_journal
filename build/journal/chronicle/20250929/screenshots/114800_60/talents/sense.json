@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "The specimen sheet lies on the cloth for a minute after the rent. Three hands are on it. Your own is not, and would look like hen-tracks beside them.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Looked, and did not write on the sheet.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Michael Drayton",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Had brought it, and left it for the minute.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the specimen sheet",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Three hands on one sheet",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Looked at the three hands",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the specimen sheet",
+    "three hands"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,44 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You unlocked both locks and counted. With the four shillings you brought back, the coffer was \u00a319 6s. The journey went down as four lines: horse, fodder and inns, 38s; carried home, 60s; for your father, 58s more; \u00a37 16s out of the coffer since Lady Day. The leaf is dated the tenth of April 1595. Anne's list lay beside the book and was still unread aloud. You did not start another page. You were asleep by eight.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Counted, wrote the four lines and the total, and did not continue.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the coffer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The tenth of April, 1595",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Counted the coffer and cast the journey in four lines",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "\u00a319 6s",
+    "the four lines",
+    "10 April 1595",
+    "both locks"
+  ],
+  "quotes": []
+}

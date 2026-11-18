@@ -1,0 +1,84 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "At the post by the Bull, Ralph Raye gave you the Rose's Mahomet in a breath. Rant in the old Tamburlaine vein, fireworks, and a head that speaks. You asked what the head says. He said nothing worth the powder. He was going on to the company's Titus at the Cross Keys. He was not hired at the Rose. You went back up toward the desk. You did not learn what the house took.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked, and turned back to the lodging.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the bill in a breath and went on to the company's Titus.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Mahomet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nothing worth the powder",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Tamburlaine",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nothing worth the powder",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Titus Andronicus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nothing worth the powder",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Ralph on Mahomet and went back to the desk",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Blackwage, Ralph Raye, Richard Hoope",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the bill",
+    "the head",
+    "the powder",
+    "the desk"
+  ],
+  "quotes": [
+    {
+      "speaker": "hired_men",
+      "text": "Rant, in the old Tamburlaine vein. Fireworks. And a head that speaks."
+    },
+    {
+      "speaker": "hired_men",
+      "text": "Nothing worth the powder."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Then London will tire of the noise before it tires of a face."
+    }
+  ]
+}

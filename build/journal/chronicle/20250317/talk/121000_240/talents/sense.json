@@ -1,0 +1,55 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Last, at the Bull, the ostler showed you a bay gelding, sound and a little sour, and you pretended to judge its teeth. You bespoke it from Wednesday the twenty-sixth at twelvepence a day and your own charge of fodder. Nothing was paid down.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Judged the teeth for form's sake, and paid nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the bay at 12d",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A sour bay",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Bespoke the bay",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a sour bay at twelvepence",
+    "the teeth",
+    "nothing in hand",
+    "the twenty-sixth"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Nothing in hand."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am looking at them as if I knew."
+    }
+  ]
+}

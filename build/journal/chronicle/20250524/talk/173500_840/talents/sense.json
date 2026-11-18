@@ -1,0 +1,111 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the Jackdaw, dinner was sixpence. You told Burbage they have a god in a lion's skin and that he shall have a looking-glass. You said the king has given up the crown, sends for a glass, looks, and breaks it. He asked for it, and you said when you have written how he gets there. Heminges said a glass is four shillings and that he will break one every time. He named no Rose sum. Garnish gave Kemp's interest as six days, nineteen lines, and a noise like a goose. Kemp was not there. You said he has not seen the book. You did not buy the glass.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told the glass, refused to buy it tonight, and kept the book unshown.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the break, and closed his hand as on a handle.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Priced the glass at four shillings, and stayed gloomy about giants without naming a Rose sum.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave six days as nineteen lines, and a noise like a goose, and would not read them aloud.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Agnes Tipping",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set dinner at sixpence, and sent the rest of the talk home.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "a looking-glass",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A looking-glass",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the second part of Hercules",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A looking-glass",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Promised Burbage the looking-glass",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Agnes Tipping",
+    "Richard Burbage",
+    "John Heminges",
+    "William Shakespeare",
+    "Abel Garnish"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a looking-glass",
+    "four shillings",
+    "nineteen lines",
+    "sixpence"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "They've a god in a lion's skin. You shall have a looking-glass."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Give it me. When?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "When I've written how he gets there."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "Kemp's interest, six days: nineteen lines, and a noise like a goose."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "A glass is four shillings, and he'll break one every time."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "overview": "You wrote the three notes he had given you. Tombs in the street, Mantua a day, heat. You did not add a coast.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the three notes."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the three notes",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no coast",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the tables",
+      "asset_type": "other",
+      "disposition": "Wrote the three notes"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-11",
+      "meaning": "Three notes"
+    }
+  ],
+  "summary": "Wrote the three notes"
+}

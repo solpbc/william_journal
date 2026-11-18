@@ -1,0 +1,29 @@
+{
+  "narrative": "The book open on Tilney's table among tilt-staves and painted paper. His pen is in his hand. The margin of the leaf is clean. No face. A later leaf. The same pen, still up. No stroke in the margin. The painted paper for Monday is stacked at the end of the table.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Sat, and saw no stroke."
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Tilney",
+      "role": "mentioned",
+      "context": "Read with the pen in his hand and did not use it."
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "context": "Sat with the fee not yet counted."
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "context": "Shown on book in The pen does not come down"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "narrative": "A ballad sheet in the seller's hand, not in his. A woodcut of a ship. The letters rubbed down. City side of the stair. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and did not take the sheet."
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "context": "Walked up with him. He did not buy it either."
+    },
+    {
+      "type": "Tool",
+      "name": "the ballad sheet",
+      "role": "mentioned",
+      "context": "Shown on pamphlet in The same ship"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "overview": "You wrote home on a clean sheet and did not defend the trade. You answered in her order: the children equally, that you are well and eating, the loaf at a penny and a finger and a half short, and the chamber still yours. At the bottom you sent the seamstress's part of Burbage's sleeve. You left the barn as a line for her to answer. You named no house and no illness. The sheet is to go on Thursday with the thimble.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the letter and stopped where her answer has to start."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Was not in the room. The sheet is addressed to her."
+    },
+    {
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "formal_term": "Richard Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Was not in the room. The sleeve in the letter is his."
+    },
+    {
+      "name": "Edith Kettlewood",
+      "role": "mentioned",
+      "formal_term": "Edith Kettlewood",
+      "appointment_tier": "not_applicable",
+      "context": "Was not in the room. The hands in the letter are hers."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "her order",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no defence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the sleeve",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the barn left blank",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-11",
+      "meaning": "The use of a clean sheet"
+    }
+  ],
+  "summary": "Wrote home and kept the barn line for her"
+}

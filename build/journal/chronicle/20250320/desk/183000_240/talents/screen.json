@@ -1,0 +1,17 @@
+{
+  "narrative": "The tables are open at the old leaf. One line has a stroke through it. No new sum is written under the stroke.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Confirmed the stroke and did not add a sum."
+    },
+    {
+      "type": "Tool",
+      "name": "8s from the stock",
+      "role": "mentioned",
+      "context": "Shown on tables in Struck"
+    }
+  ]
+}

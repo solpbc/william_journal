@@ -1,0 +1,68 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At rehearsal Phillips said the mornings had not begun, and that they begin this morning. Nobody is to price them, and nobody is to report them done. Nick called for the Nurse twice. The second was better, and it was not mended. You will not cut her, and you will not write her a line lower. You are Gaunt at two. He is the Queen, and that is a different part. You told him not to try the call in a stair. There is no price on the hour.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a lower line, and kept the morning out of Gaunt's part.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Opened the mornings, nursed the call, and would not report them done.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called twice, did not smile a mend, and went to be dressed as the Queen.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Began the mornings with Nick",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Augustine Phillips",
+    "William Shakespeare",
+    "Nick Sorrell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the first morning",
+    "the crack",
+    "no price"
+  ],
+  "quotes": [
+    {
+      "speaker": "augustine_phillips",
+      "text": "The mornings I asked for have not begun."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not write her a line lower."
+    },
+    {
+      "speaker": "nick_sorrell",
+      "text": "It still goes thin at the end."
+    }
+  ]
+}

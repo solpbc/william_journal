@@ -1,0 +1,66 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You said where the leaves are, and that you will not fetch them. The book goes whole, and the cutting is the Master's. John has asked for a written leave you do not have. The afternoon's bill stays unnamed on your tables. Kemp's door is another day. The horn is already filled.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said it through, and stopped at the ink.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "2d the horn of ink",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Whole, and not tonight",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Whole, and not tonight",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said the book goes whole to the Master",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the leaves at Dick's",
+    "the Master's cut still ahead",
+    "an unnamed bill"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Dick has the forty leaves"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Send it whole"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Kemp came at the end and wanted a door;"
+    }
+  ]
+}

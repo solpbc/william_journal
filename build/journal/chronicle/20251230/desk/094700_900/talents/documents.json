@@ -1,0 +1,38 @@
+{
+  "overview": "You sat with the finished leaf and did not pick the pen up. The older sheets stayed face down. Both lines were still as written.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the page from the workmen through to the queen"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the pen in the rest",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the pile unturned",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "both lines left",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-30",
+      "meaning": "Sat with the finished leaf and left the pen down"
+    }
+  ],
+  "summary": "Wrote the page from the workmen through to the queen"
+}

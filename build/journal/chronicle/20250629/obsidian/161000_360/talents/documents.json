@@ -1,0 +1,61 @@
+{
+  "overview": "You wrote a short page and left it on the board. The loaf is a full thumb short of the notch, and you have not boarded. Gib is on the Golding. Brooke stays on the shelf. You have heard no order shutting the house. Monday is a meeting, and nothing more than that yet.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the page and left the poem on the shelf."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Lay along the Golding and was not shifted."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the notch",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Brooke still up",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Monday unmet",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the penny loaf",
+      "asset_type": "other",
+      "disposition": "Wrote a short page, with Brooke still on the shelf"
+    },
+    {
+      "name": "Brooke's Romeus and Juliet",
+      "asset_type": "other",
+      "disposition": "Wrote a short page, with Brooke still on the shelf"
+    },
+    {
+      "name": "the Golding",
+      "asset_type": "other",
+      "disposition": "Wrote a short page, with Brooke still on the shelf"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-29",
+      "meaning": "Thumb, and the shelf"
+    }
+  ],
+  "summary": "Wrote a short page, with Brooke still on the shelf"
+}

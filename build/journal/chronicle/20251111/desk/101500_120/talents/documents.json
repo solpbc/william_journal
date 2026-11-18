@@ -1,0 +1,44 @@
+{
+  "overview": "In the account book you wrote that Verona ended this day, and that a pound of candles is fourpence. The firing stays in the sixpence a week. The coal is the house's.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the two lines with the same pen."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Verona ended",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "fourpence the candles",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the sixpence",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the account book",
+      "asset_type": "other",
+      "disposition": "Wrote that Verona ended, and a pound of candles at fourpence"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-11",
+      "meaning": "Verona ended this day"
+    }
+  ],
+  "summary": "Wrote that Verona ended, and a pound of candles at fourpence"
+}

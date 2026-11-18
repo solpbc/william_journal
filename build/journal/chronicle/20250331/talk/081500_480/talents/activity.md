@@ -1,0 +1,1 @@
+Anne kept the sword on the nail. Your father had spoken to the master: tomorrow morning is the leave, and the sword is not for school. You told Hamnet he is back at eleven. Judith put the ribbons under the same rule. You began to describe a cord, and Joan stopped you. Richard was already at the shop door.

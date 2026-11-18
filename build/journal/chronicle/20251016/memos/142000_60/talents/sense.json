@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At twenty past two you said Thomas had the king, and that you were in a cap. You said the custard was good. You did not say how the afternoon was going, because you did not know.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the two sentences and did not add a result.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the custard",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The custard was good",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said Thomas had the king",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two of the clock",
+    "the cap",
+    "yesterday's custard"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Two of the clock, and Thomas has it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The custard was good. Enough."
+    }
+  ]
+}

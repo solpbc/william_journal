@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At noon in Chipping Norton you said Long Compton had been dry and the stones clear on the ridge. You had ridden with the reins slack and the tables on the saddle, and you had written nothing. You were not going to start.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the blank day and did not open the tables.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Noon at Chipping Norton",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Baited at noon and named the dry hill",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "noon",
+    "Long Compton dry",
+    "nothing written"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have written nothing."
+    }
+  ]
+}

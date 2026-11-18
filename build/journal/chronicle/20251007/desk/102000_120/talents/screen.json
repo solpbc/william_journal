@@ -1,0 +1,17 @@
+{
+  "narrative": "Writing-tables open on a knee in the passage. A right hand has just finished two short sentences. The paring-knife is shut beside them. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the line and shut the tables."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in A direction is a guess"
+    }
+  ]
+}

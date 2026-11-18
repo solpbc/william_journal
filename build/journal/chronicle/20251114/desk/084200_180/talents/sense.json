@@ -1,0 +1,44 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "At Bishopsgate you read the Rose's new title twice. A Toy to Please Chaste Ladies. The bill names no author and no receipt. You did not cross the river. You are Egeon at two.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the title, and turned toward the Theatre.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "A Toy to Please Chaste Ladies",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in A Toy to Please Chaste Ladies",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read A Toy to Please Chaste Ladies twice",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Rose bill",
+    "the title",
+    "no author",
+    "not crossing"
+  ],
+  "quotes": []
+}

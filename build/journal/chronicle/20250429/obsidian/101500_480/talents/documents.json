@@ -1,0 +1,44 @@
+{
+  "overview": "Still at the board, you restored the three breaths. York runs short, Gaunt runs long, and the King never runs out. The sheet is cleaner for what you removed. You wrote on the tables that not all of them may sing, and you wrote nothing under the line.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Restored the three breaths and wrote the line."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the second pass",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the three breaths",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the tables line",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Gave the uncles their breaths back"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-29",
+      "meaning": "The breath given back"
+    }
+  ],
+  "summary": "Gave the uncles their breaths back"
+}

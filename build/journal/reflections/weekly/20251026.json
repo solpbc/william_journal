@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20251026",
+    "end": "20251101"
+  },
+  "generated_at": "2025-11-01T22:00:00Z",
+  "days": [
+    {
+      "day": "20251026",
+      "state": "memory",
+      "memory_id": "m-20251026-0"
+    },
+    {
+      "day": "20251027",
+      "state": "memory",
+      "memory_id": "m-20251027-1"
+    },
+    {
+      "day": "20251028",
+      "state": "memory",
+      "memory_id": "m-20251028-2"
+    },
+    {
+      "day": "20251029",
+      "state": "memory",
+      "memory_id": "m-20251029-3"
+    },
+    {
+      "day": "20251030",
+      "state": "memory",
+      "memory_id": "m-20251030-4"
+    },
+    {
+      "day": "20251031",
+      "state": "memory",
+      "memory_id": "m-20251031-5"
+    },
+    {
+      "day": "20251101",
+      "state": "memory",
+      "memory_id": "m-20251101-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20251026-0",
+      "key": "mem_20251026_0",
+      "day": "20251026",
+      "text": "The letter waits in the coffer lid for the carrier of the thirteenth. Likely is the word.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251026/talents/morning_briefing",
+        "briefing_day": "20251026",
+        "refs": [
+          "sol://facets/company/activities/20251026#memo_082500_60",
+          "sol://facets/household/activities/20251026#meeting_105000_480",
+          "sol://facets/stratford/activities/20251026#note_170000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20251027-1",
+      "key": "mem_20251027_1",
+      "day": "20251027",
+      "text": "The folio is lent. You read until the bell for nine.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251027/talents/morning_briefing",
+        "briefing_day": "20251027",
+        "refs": [
+          "sol://facets/writing/activities/20251027#meeting_083000_720",
+          "sol://facets/writing/activities/20251027#frame_085500_480",
+          "sol://facets/writing/activities/20251027#frame_090500_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20251028-2",
+      "key": "mem_20251028_2",
+      "day": "20251028",
+      "text": "You wrote one page. The friar's letter has miscarried.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251028/talents/morning_briefing",
+        "briefing_day": "20251028",
+        "refs": [
+          "sol://facets/company/activities/20251028#meeting_084500_360",
+          "sol://facets/company/activities/20251028#frame_085200_180",
+          "sol://facets/household/activities/20251028#meeting_121500_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20251029-3",
+      "key": "mem_20251029_3",
+      "day": "20251029",
+      "text": "The oriel is dark. You put a small cross in the almanac.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251029/talents/morning_briefing",
+        "briefing_day": "20251029",
+        "refs": [
+          "sol://facets/writing/activities/20251029#frame_091000_180",
+          "sol://facets/company/activities/20251029#meeting_103000_720",
+          "sol://facets/company/activities/20251029#photo_110500_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20251030-4",
+      "key": "mem_20251030_4",
+      "day": "20251030",
+      "text": "The mornings began. You were Gaunt. The page is still one page.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251030/talents/morning_briefing",
+        "briefing_day": "20251030",
+        "refs": [
+          "sol://facets/company/activities/20251030#meeting_090000_720",
+          "sol://facets/writing/activities/20251030#frame_114000_240",
+          "sol://facets/company/activities/20251030#memo_170500_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20251031-5",
+      "key": "mem_20251031_5",
+      "day": "20251031",
+      "text": "The friar's letter has miscarried. You played an old man in Titus.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251031/talents/morning_briefing",
+        "briefing_day": "20251031",
+        "refs": [
+          "sol://facets/writing/activities/20251031#frame_085000_180",
+          "sol://facets/writing/activities/20251031#note_091500_480",
+          "sol://facets/company/activities/20251031#memo_171000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20251101-6",
+      "key": "mem_20251101_6",
+      "day": "20251101",
+      "text": "Thirty-five shillings, received. The sermon was one glass. At supper she spoke of the bells and the ink.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251101/talents/morning_briefing",
+        "briefing_day": "20251101",
+        "refs": [
+          "sol://facets/household/activities/20251101#meeting_090000_720",
+          "sol://facets/writing/activities/20251101#frame_113000_180",
+          "sol://facets/company/activities/20251101#meeting_165000_720"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20251026-0",
+      "key": "said_20251026_0",
+      "day": "20251026",
+      "quote": "Friday, at the word Nurse, it went out from under him. A note that belongs to a man. Nobody laughed.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251026#memo_082500_60"
+      }
+    },
+    {
+      "id": "s-20251026-1",
+      "key": "said_20251026_1",
+      "day": "20251026",
+      "quote": "Likely. A small word to carry a hundred miles. Better small and true.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20251026#memo_173500_60"
+      }
+    },
+    {
+      "id": "s-20251027-2",
+      "key": "said_20251027_2",
+      "day": "20251027",
+      "quote": "It will not. I will not write my name in a loan.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251027#meeting_083000_720"
+      }
+    },
+    {
+      "id": "s-20251028-3",
+      "key": "said_20251028_3",
+      "day": "20251028",
+      "quote": "Let him go first. The road's wide.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251028#meeting_084500_360"
+      }
+    },
+    {
+      "id": "s-20251028-4",
+      "key": "said_20251028_4",
+      "day": "20251028",
+      "quote": "The friar's letter is sped for Mantua, and it miscarries. I do not know the cause. I am not writing the cause.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251028#memo_204000_120"
+      }
+    },
+    {
+      "id": "s-20251029-5",
+      "key": "said_20251029_5",
+      "day": "20251029",
+      "quote": "A hundred yards, and it weighed like the whole City. A lamp put out.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20251029#memo_171000_120"
+      }
+    },
+    {
+      "id": "s-20251030-6",
+      "key": "said_20251030_6",
+      "day": "20251030",
+      "quote": "You did not lose her. You lost the call. We will find the call by doing it, not by shortening her.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251030#meeting_090000_720"
+      }
+    }
+  ]
+}

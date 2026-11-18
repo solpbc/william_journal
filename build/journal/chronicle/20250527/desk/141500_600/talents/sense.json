@@ -1,0 +1,43 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "At home you put the queen at a hedge and left her there. The gardener is not yet a man with a name. You did not write a parliament, and you did not finish the day.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Added a few lines at the foot of Sunday's sheet and did not finish them.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Still at the hedge",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote the queen as far as the hedge",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the hedge",
+    "the unnamed gardener",
+    "the unfinished day"
+  ],
+  "quotes": []
+}

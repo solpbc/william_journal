@@ -1,0 +1,62 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Before church you spoke the crack again and left it where Friday left it. Phillips said on Saturday that the mornings have not begun. You will not cut her, and you will not see Nick today. You turned from that to the letter.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the refusal and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named, and not sent for.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named for Saturday's word, and not in the room.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Spoke the crack again before church",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the crack on Nurse",
+    "mornings not begun",
+    "the letter waiting"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not cut her. I will not write her a line lower."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Phillips said the mornings have not begun."
+    }
+  ]
+}

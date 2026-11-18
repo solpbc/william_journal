@@ -1,0 +1,1 @@
+At home you said he was happy, and that you never heard him so. The drawer has verse in it, and not a leaf would fit a pair of gloves for a lady he did not name. You are his to command, and you said so in print. You wrote nothing for it tonight.

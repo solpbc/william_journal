@@ -1,0 +1,35 @@
+{
+  "narrative": "The pocket tables open on the desk at the lodging, the leaves small and erasable, a stylus beside them. The old line for Edith is still there. Under it, one new line for the gown. No total. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the line and did not pay it."
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "context": "Named on the line as the man who brought the figure. He was not in the room."
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "mentioned",
+      "context": "Her eight shillings stayed where January had put them. She was not in the room."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Fifty shillings, on the tables"
+    },
+    {
+      "type": "Tool",
+      "name": "the Princess's gown",
+      "role": "mentioned",
+      "context": "Shown on tables in Fifty shillings, on the tables"
+    }
+  ]
+}

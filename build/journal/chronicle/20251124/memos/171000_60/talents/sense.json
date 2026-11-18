@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At home between the play and the supper you put two pounds in the purse. You had not heard whether the paper was granted. You said the line gets written if it is yes, and the money comes home if it is no. You said you are not lending on the stairs. The band was brushed.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted two pounds into the purse and stated the condition.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "two pounds",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two pounds in the purse",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Put two pounds in the purse",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two pounds in the purse",
+    "no answer yet",
+    "nothing lent on the stairs"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Two pounds in the purse. I have not heard yea or nay."
+    }
+  ]
+}

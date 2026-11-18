@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You looked at the ballad and did not take it. The sheet had a woodcut of a ship that has served for three other voyages, and the letters were rubbed down. You left it in the seller's hand.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Looked, and did not take the sheet.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Walked up with him. He did not buy it either.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the ballad sheet",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The same ship",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Saw the ship and the rubbed letters",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the woodcut ship",
+    "three other voyages",
+    "not bought"
+  ],
+  "quotes": []
+}

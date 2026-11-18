@@ -1,0 +1,59 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You looked at the roll after the two stops were moved. The speech was not copied onto the page. The marks said where the breath went. Sam was sitting to take the marks.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Looked at the marks he had just moved.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "The roll was his. He was still in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Sat to copy the marks, not the lines.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Princess's part",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Two stops, and no words",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Set down the two breath marks",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the roll",
+    "the two stops",
+    "the breath marks"
+  ],
+  "quotes": []
+}

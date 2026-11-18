@@ -1,0 +1,56 @@
+{
+  "overview": "You wrote the rates you already live by, and you did not count the coffer. A penny the loaf, twopence the horn of ink, sixpence the week for firing and washing till Lady Day, threepence the meal. The Queen's twenty pound is not yours and not had, and you did not put it in as if it were. There is no expected column and no received column.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the rates he already pays and did not count the box."
+    },
+    {
+      "name": "Mistress Dorcas Ansell",
+      "role": "mentioned",
+      "formal_term": "Mistress Dorcas Ansell",
+      "appointment_tier": "not_applicable",
+      "context": "Her notch, her ink, her board. Not in the room."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the standing rates",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no coffer total",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the twenty pound not yours",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the penny loaf",
+      "asset_type": "other",
+      "disposition": "Wrote the loaf, the ink, the sixpence, and the board"
+    },
+    {
+      "name": "the Queen's twenty pounds",
+      "asset_type": "other",
+      "disposition": "Wrote the loaf, the ink, the sixpence, and the board"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-10",
+      "meaning": "What things cost, and no total"
+    }
+  ],
+  "summary": "Wrote the loaf, the ink, the sixpence, and the board"
+}

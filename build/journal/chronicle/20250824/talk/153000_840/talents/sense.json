@@ -1,0 +1,126 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the puppet booth a wooden king lost his crown to a wooden devil, and had it set on again every quarter-hour. Burbage stood through it three times. A cut-purse was taken a yard from Arthur, who gave the arrest back in four voices. Kemp danced for nothing in a ring of two hundred, and bowed when he saw you. Gilbert, behind a stall of points and hat-bands, affected not to know any players. From the fourth hour the back complained. You bought three gingerbread men before you thought, one with gilt, and stood with them in your hand.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke to Gilbert, and bought three gingerbread men, one with gilt.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood through three shows of the crown knocked off and set on again.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Marked Kemp in the ring, and the back in the fourth hour.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said nobody liked to ask Burbage as whom, and sent the gingerbread home to Alse.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the arrest back in four voices.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Danced for nothing in a ring of two hundred, and bowed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gilbert Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood behind the points and hat-bands, and affected not to know any players.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Bartholomew Fair",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The wooden king",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "three gingerbread men",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The wooden king",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Stood at the booth, passed Gilbert, and bought three gingerbread men",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Augustine Phillips",
+    "Thomas Pope",
+    "Richard Burbage",
+    "William Shakespeare",
+    "Arthur Meeks",
+    "Will Kemp",
+    "Gilbert Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the wooden king",
+    "four voices",
+    "a ring of two hundred",
+    "Gilbert's stall",
+    "three gingerbread men"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_pope",
+      "text": "Up comes the wooden devil with his club, off goes the crown from the wooden king's head"
+    },
+    {
+      "speaker": "arthur_meeks",
+      "text": "I had every word of it in my ear, Master Shakespeare"
+    },
+    {
+      "speaker": "gilbert_shakespeare",
+      "text": "I know no players in Smithfield while my master's ledger is open on the board"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I had bought them before I thought"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Home, you said she had picked that house before you had the wit to want it. Three years had been a tidy offer, and she had not taken it. You still do not know whose it is, and you did not ask the price. The back was still with you.

@@ -1,0 +1,1 @@
+At the rehearsal you gave John the canvas and the line. Threescore shillings. His man will take them to the Bell. The man did not speak, and he was not named. You did not walk to Carter Lane. Kemp was in the room and was not told about the king.

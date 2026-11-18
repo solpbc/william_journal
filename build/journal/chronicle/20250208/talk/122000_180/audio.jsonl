@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "dorcas_ansell", "start": "12:20:00", "text": "You were out at the hour, and you are back. The loaf did not grow while you were gone.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "12:20:16", "text": "A finger short. I know it. The letter is gone. You need not look for it on the desk.", "timing": {"end": 32.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "alse_pinder", "start": "12:20:32", "text": "I looked for the string, not the letter. The string is gone with it. I swept the thread.", "timing": {"end": 48.0, "start": 32.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "12:20:48", "text": "Good. This afternoon is the Sins, and I am in them. No errand.", "timing": {"end": 58.0, "start": 48.0}}

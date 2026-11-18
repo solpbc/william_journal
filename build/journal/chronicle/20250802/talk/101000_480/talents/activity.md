@@ -1,0 +1,1 @@
+You gave Susanna the fables with woodcuts and no riddles, Judith the ballad, and Hamnet the chipped H. You sang the ballad once, badly, and Judith had the tune and the words. You yielded on whom. You told Susanna the queen steps into the shadow of the trees, and that she had had it right. Anne asked three weeks. You said till the eighteenth. She said hm.

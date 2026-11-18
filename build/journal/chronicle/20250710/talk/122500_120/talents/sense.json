@@ -1,0 +1,79 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "On the way home from St John's you stopped at the Theatre's stage door and told Richard that Tilney had cut the glass. He answered with the speech that was cut. You asked for the pearwood glass back, for the coffer, and he would not give it. John was there and said nothing.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told Richard of the cut, and asked for the glass back.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the lost speech and kept the pearwood glass.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Stood by, and did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the pearwood glass",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in At the stage door",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in At the stage door",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Told Richard the deposing was cut, and he kept the glass",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cut",
+    "the stage door",
+    "the pearwood glass"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "He has cut the glass."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Let him come up to Shoreditch and take it out of my hand."
+    }
+  ]
+}

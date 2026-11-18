@@ -1,0 +1,23 @@
+{
+  "narrative": "The chronicle on the shelf, a grey cloth over it, the cat asleep across the cloth. The title does not show. A hand is on the shelf and not on the cat. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and did not take the book back."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Stayed on the cloth."
+    },
+    {
+      "type": "Tool",
+      "name": "Holinshed",
+      "role": "mentioned",
+      "context": "Shown on book in The cat on the cloth"
+    }
+  ]
+}

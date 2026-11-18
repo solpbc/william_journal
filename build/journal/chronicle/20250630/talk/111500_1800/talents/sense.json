@@ -1,0 +1,121 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At the deposing, nobody moved. Then John asked, twice in the same breath, where it was written that you could play this king this week. James named the gallows at the Mayor's door. George said send the book to the Master whole, and the cutting his. The room agreed. Kemp, in from the doors and the news, heard the end and asked where he came in. You told him he was late, and that it was already done. You did not promise him a part today. Dick took the forty leaves home under his arm. Nothing of the king is to be billed this week. No one is carrying a book to the Master tonight.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read the end, agreed the book goes whole, and answered Kemp without a promise.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Would have played the king as read, and took the leaves home under his arm.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked where this week was written down as allowed, and sent the house home without a second round of news.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a crown taken off on his stage, and kept the afternoon struck.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a tiring-house mend, and wanted the gate to see a quiet house.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Moved that the Master do the cutting, and that no one carry the book tonight.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came from the news at the doors, heard the end, and asked where he entered.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Late, Will",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Agreed to send the king whole, and let the leaves go",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "John Heminges",
+    "James Burbage",
+    "George Bryan",
+    "Augustine Phillips",
+    "Richard Burbage",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the deposing",
+    "the Master's cutting",
+    "Kemp's late entrance",
+    "the leaves under an arm"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "I don't\u2014 I don't say we can't. Show me where it's written that we can, this week"
+    },
+    {
+      "speaker": "james_burbage",
+      "text": "They set a gallows at the Mayor's door on Friday, and you'd put a king down on my stage"
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "Send it to the Master whole, and let the cutting be his and not ours"
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "And where do I come in"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Late, Will. You've done it already;"
+    }
+  ]
+}

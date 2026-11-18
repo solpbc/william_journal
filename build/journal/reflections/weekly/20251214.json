@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20251214",
+    "end": "20251220"
+  },
+  "generated_at": "2025-12-20T22:00:00Z",
+  "days": [
+    {
+      "day": "20251214",
+      "state": "memory",
+      "memory_id": "m-20251214-0"
+    },
+    {
+      "day": "20251215",
+      "state": "memory",
+      "memory_id": "m-20251215-1"
+    },
+    {
+      "day": "20251216",
+      "state": "memory",
+      "memory_id": "m-20251216-2"
+    },
+    {
+      "day": "20251217",
+      "state": "memory",
+      "memory_id": "m-20251217-3"
+    },
+    {
+      "day": "20251218",
+      "state": "memory",
+      "memory_id": "m-20251218-4"
+    },
+    {
+      "day": "20251219",
+      "state": "memory",
+      "memory_id": "m-20251219-5"
+    },
+    {
+      "day": "20251220",
+      "state": "memory",
+      "memory_id": "m-20251220-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20251214-0",
+      "key": "mem_20251214_0",
+      "day": "20251214",
+      "text": "The pack goes on Thursday. Richmond is written plain. You did not name one thing for each of them.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251214/talents/morning_briefing",
+        "briefing_day": "20251214",
+        "refs": [
+          "sol://facets/stratford/activities/20251214#note_023000_840",
+          "sol://facets/stratford/activities/20251214#frame_025000_180",
+          "sol://facets/household/activities/20251214#meeting_104000_420"
+        ]
+      }
+    },
+    {
+      "id": "m-20251215-1",
+      "key": "mem_20251215_1",
+      "day": "20251215",
+      "text": "Sunday is a goose at Field's. You kept the second volume. There is more in it than one king.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251215/talents/morning_briefing",
+        "briefing_day": "20251215",
+        "refs": [
+          "sol://facets/stratford/activities/20251215#frame_081500_180",
+          "sol://facets/writing/activities/20251215#call_122000_180",
+          "sol://facets/company/activities/20251215#frame_140500_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20251216-2",
+      "key": "mem_20251216_2",
+      "day": "20251216",
+      "text": "Forty lines are out of the fourth act. Three books are signed for Richmond.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251216/talents/morning_briefing",
+        "briefing_day": "20251216",
+        "refs": [
+          "sol://facets/household/activities/20251216#meeting_074000_240",
+          "sol://facets/company/activities/20251216#meeting_092000_600",
+          "sol://facets/company/activities/20251216#frame_120500_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20251217-3",
+      "key": "mem_20251217_3",
+      "day": "20251217",
+      "text": "Two stale rolls are ash. The seam is let out. The queen's page is still the one you are saving.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251217/talents/morning_briefing",
+        "briefing_day": "20251217",
+        "refs": [
+          "sol://facets/company/activities/20251217#meeting_091000_720",
+          "sol://facets/company/activities/20251217#photo_095000_60",
+          "sol://facets/company/activities/20251217#frame_142000_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20251218-4",
+      "key": "mem_20251218_4",
+      "day": "20251218",
+      "text": "The quarter is on the road. Sunday's letter went as you wrote it. The pane was read twice.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251218/talents/morning_briefing",
+        "briefing_day": "20251218",
+        "refs": [
+          "sol://facets/company/activities/20251218#frame_091500_180",
+          "sol://facets/stratford/activities/20251218#meeting_120200_480",
+          "sol://facets/stratford/activities/20251218#photo_121800_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20251219-5",
+      "key": "mem_20251219_5",
+      "day": "20251219",
+      "text": "Cowley's part went before it was needed. James named six hundred pounds for the hall. The Queen is at Whitehall, and nobody can say why.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251219/talents/morning_briefing",
+        "briefing_day": "20251219",
+        "refs": [
+          "sol://facets/company/activities/20251219#frame_082000_720",
+          "sol://facets/writing/activities/20251219#frame_103200_120",
+          "sol://facets/company/activities/20251219#meeting_104500_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20251220-6",
+      "key": "mem_20251220_6",
+      "day": "20251220",
+      "text": "You refused a share. If she does not go Monday, you follow. The new moon is on the almanac.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251220/talents/morning_briefing",
+        "briefing_day": "20251220",
+        "refs": [
+          "sol://facets/company/activities/20251220#call_080000_180",
+          "sol://facets/company/activities/20251220#frame_141000_180",
+          "sol://facets/company/activities/20251220#meeting_165000_600"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20251214-0",
+      "key": "said_20251214_0",
+      "day": "20251214",
+      "quote": "I have told them I will not come at Christmas. We are looked for at Richmond.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20251214#meeting_104000_420"
+      }
+    },
+    {
+      "id": "s-20251215-1",
+      "key": "said_20251215_1",
+      "day": "20251215",
+      "quote": "There's more in it than one king, Richard.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251215#call_122000_180"
+      }
+    },
+    {
+      "id": "s-20251215-2",
+      "key": "said_20251215_2",
+      "day": "20251215",
+      "quote": "A shout comes back off the panelling meaner than it went.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251215#meeting_161000_480"
+      }
+    },
+    {
+      "id": "s-20251216-3",
+      "key": "said_20251216_3",
+      "day": "20251216",
+      "quote": "Forty. I am annoyed. It is better, and I would rather it were not.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251216#meeting_092000_600"
+      }
+    },
+    {
+      "id": "s-20251217-4",
+      "key": "said_20251217_4",
+      "day": "20251217",
+      "quote": "I answered what they asked. I made no new question. It was harder than a page.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251217#memo_212000_60"
+      }
+    },
+    {
+      "id": "s-20251218-5",
+      "key": "said_20251218_5",
+      "day": "20251218",
+      "quote": "The great house by the chapel lost another pane in the wind on St Nicholas' night. I tell you so that you may know it is getting cheaper.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20251218#meeting_120200_480"
+      }
+    },
+    {
+      "id": "s-20251219-6",
+      "key": "said_20251219_6",
+      "day": "20251219",
+      "quote": "It is a great deal of money. It's a great deal of roof.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251219#meeting_104500_480"
+      }
+    },
+    {
+      "id": "s-20251220-7",
+      "key": "said_20251220_7",
+      "day": "20251220",
+      "quote": "Then we follow the Queen, John, like everybody else.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251220#call_080000_180"
+      }
+    }
+  ]
+}

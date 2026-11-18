@@ -1,0 +1,93 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "On the stair Mistress Ansell had an aired chamber, a dull parish of two banns and one cracked pane, and Heminges's note for Friday at nine. The hired bag was to leave the passage tonight. Alse had failed to move Gib off Field's Holinshed. You told the cat the book was Master Field's. You unpacked Anne's list before your own notes, and you did not read the list aloud. Verbeke had kept his room and his own name.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the note, set the unpacking order, and spoke to the cat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Delivered the parish and the note, and set the bag's deadline at tonight.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the cat, the pane, and a quiet lodger.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Heard from the back room. He was not renamed.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Stayed on the Holinshed.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Holinshed",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in On the stair",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard Heminges's Friday note and unpacked Anne's list first",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the aired chamber",
+    "Friday at nine",
+    "the bag tonight",
+    "Gib on the Holinshed"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "That hired bag goes out tonight."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Friday, at nine, the Theatre. His hand, not mine."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Off Holinshed, sirrah. He's Master Field's, and Master Field counts."
+    }
+  ]
+}

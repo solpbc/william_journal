@@ -1,0 +1,51 @@
+{
+  "overview": "Before the dress you looked at the new plot on its peg. It names the apparel, the tiring-house door for the vault's mouth, and a trestle for a bier. It has not been walked. No price is written on it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the plot and left it on the peg."
+    },
+    {
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "formal_term": "Abel Garnish",
+      "appointment_tier": "not_applicable",
+      "context": "Had hung it, and had not yet timed the morning."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the new plot",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the peg",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the door and the trestle",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Romeo and Juliet",
+      "asset_type": "other",
+      "disposition": "Saw the plot before the apparel"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-03",
+      "meaning": "The plot on its peg"
+    }
+  ],
+  "summary": "Saw the plot before the apparel"
+}

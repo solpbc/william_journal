@@ -1,0 +1,13 @@
+{"day": "20250217", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "091000_720", "stream": "talk", "ts": 1739836500000}
+{"change_class": "substantive", "day": "20250217", "event": "sense.change_detect", "mode": "segment", "segment": "091000_720", "stream": "talk", "ts": 1739836500001}
+{"day": "20250217", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "091000_720", "stream": "talk", "ts": 1739836500002}
+{"day": "20250217", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "094000_720", "stream": "talk", "ts": 1739836500010}
+{"change_class": "substantive", "day": "20250217", "event": "sense.change_detect", "mode": "segment", "segment": "094000_720", "stream": "talk", "ts": 1739836500011}
+{"day": "20250217", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "094000_720", "stream": "talk", "ts": 1739836500012}
+{"day": "20250217", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "141000_180", "stream": "desk", "ts": 1739836500020}
+{"change_class": "substantive", "day": "20250217", "event": "sense.change_detect", "mode": "segment", "segment": "141000_180", "stream": "desk", "ts": 1739836500021}
+{"day": "20250217", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "141000_180", "stream": "desk", "ts": 1739836500022}
+{"day": "20250217", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "141000_180", "stream": "desk", "ts": 1739836500023}
+{"day": "20250217", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "181000_720", "stream": "talk", "ts": 1739836500030}
+{"change_class": "substantive", "day": "20250217", "event": "sense.change_detect", "mode": "segment", "segment": "181000_720", "stream": "talk", "ts": 1739836500031}
+{"day": "20250217", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "181000_720", "stream": "talk", "ts": 1739836500032}

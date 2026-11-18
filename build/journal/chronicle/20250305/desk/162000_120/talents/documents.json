@@ -1,0 +1,33 @@
+{
+  "overview": "You stood at evening prayer. The almanac had the day and the office, and nothing written under them. It was not a second reading of the morning. You added no word.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Stood the office and left the almanac blank under the line."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "evening prayer",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no second reading",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-05",
+      "meaning": "The office, and not a second reading"
+    }
+  ],
+  "summary": "Stood at evening prayer"
+}

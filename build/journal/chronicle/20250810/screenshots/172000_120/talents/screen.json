@@ -1,0 +1,23 @@
+{
+  "narrative": "The path through stubble toward the long thatched roof at Hewlands, her back a few paces ahead. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "In Her back on the path"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "context": "Walked a few paces ahead, her back to the frame."
+    },
+    {
+      "type": "Project",
+      "name": "Hewlands",
+      "role": "mentioned",
+      "context": "In photo: Her back on the path"
+    }
+  ]
+}

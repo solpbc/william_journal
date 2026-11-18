@@ -1,0 +1,1 @@
+You asked your father straight, before church, why he would not come. He said the bailiff's man stood at the porch with paper. You told him the paper was lighter. He blamed a fairy and refused the thanks. He did not come. Susanna asked whether it was paid or only promised. You did not say by whom. The sword stayed on the nail.

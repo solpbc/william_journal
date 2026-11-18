@@ -1,0 +1,49 @@
+{
+  "overview": "You looked at the red-tied bundle and did not open it. The one page has no new line under it. You did not start the tomb.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked, and left the knot."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the tied bundle",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "one page",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no tomb",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the red bundle",
+      "asset_type": "other",
+      "disposition": "Looked at the red bundle"
+    },
+    {
+      "name": "the one page",
+      "asset_type": "other",
+      "disposition": "Looked at the red bundle"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-31",
+      "meaning": "The bundle, still tied"
+    }
+  ],
+  "summary": "Looked at the red bundle"
+}

@@ -1,0 +1,72 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You came home with the back complaining from the fourth hour. The three gingerbread men went to Alse. Mistress Ansell said fairings rot the teeth.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave Alse the three gingerbread men, and went up.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said fairings rot the teeth, and saw the stair-post.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took them, and kept the gilt one for the shelf.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "three gingerbread men",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Fairings rot the teeth",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Gave the three gingerbread men to Alse",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Alse Pinder",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three gingerbread men",
+    "fairings rot the teeth",
+    "the back from the fourth hour"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Here, Alse. Three of them, out of Smithfield, and the middle one has gilt on him"
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Fairings rot the teeth"
+    }
+  ]
+}

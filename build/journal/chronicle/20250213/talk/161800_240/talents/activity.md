@@ -1,0 +1,1 @@
+You came out of Egeon. It was the second time this week. Garnish said nothing was bought and that the K had not been carried into the performance. You went toward home with tomorrow still to write, and with no total.

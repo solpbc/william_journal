@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:15:00", "text": "It went like a lute-string. Not a roar. A string. I lifted from the back, and Richard had told me the legs twice.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:15:16", "text": "I did not fall. That is the whole boast, and it is a small one.", "timing": {"end": 28.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:15:28", "text": "She was right at the plot, and right on the bed, and they were different rights.", "timing": {"end": 38.0, "start": 28.0}}

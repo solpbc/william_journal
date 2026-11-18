@@ -1,0 +1,23 @@
+{
+  "narrative": "Brooke is closed and squared at the side of the board. The commonplace lies open at a fresh leaf. One candle. The second volume is on the floor, still in both boards, not yet the night's page.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Closed the poem and left the new leaf empty for a moment."
+    },
+    {
+      "type": "Project",
+      "name": "Brooke's Romeus and Juliet",
+      "role": "mentioned",
+      "context": "Shown on book in Verona, closed"
+    },
+    {
+      "type": "Project",
+      "name": "Holinshed, second volume",
+      "role": "mentioned",
+      "context": "Shown on book in Verona, closed"
+    }
+  ]
+}

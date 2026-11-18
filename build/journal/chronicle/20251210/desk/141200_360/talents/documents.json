@@ -1,0 +1,68 @@
+{
+  "overview": "You spoke the prologue a second time. The line was \"Two housholds both alike in dignitie\". The yard was nearly as full as Saturday, and you did not count it. Nick was under the note. You did not change a cue. You did not ask what the boxes held.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Spoke the prologue, steady, and did not count the house."
+    },
+    {
+      "name": "Nick Sorrell",
+      "role": "visible",
+      "formal_term": "Nick Sorrell",
+      "appointment_tier": "not_applicable",
+      "context": "Waited under the note."
+    },
+    {
+      "name": "Richard Burbage",
+      "role": "visible",
+      "formal_term": "Richard Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Was already in the part, a pace off the opening."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the second prologue",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a full yard",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no count",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Nick under the note",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no new cue",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Romeo and Juliet",
+      "asset_type": "other",
+      "disposition": "Spoke the lovers' prologue again"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-10",
+      "meaning": "The prologue again"
+    }
+  ],
+  "summary": "Spoke the lovers' prologue again"
+}

@@ -1,0 +1,77 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You sat the opening of Master Thwaite on St Michael and the angels, with your hand on your face. He said the feast itself falls tomorrow. Sir John Spencer gave the litany its response and did not speak to you. The rest of the sermon is not in the journal. The parish's name for the hand is devotion, and you did not correct it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat with his hand on his face, and said he was attending.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Opened on St Michael, and told him the hand might stay.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Gave the litany its response, and did not speak to him.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "St Michael and the angels",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in St Michael and the angels",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Sat the St Michael opening with a hand on the face",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "William Shakespeare",
+    "Sir John Spencer"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "morning prayer",
+    "St Michael",
+    "the hand on the jaw",
+    "a response not addressed to you"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "The feast itself falls tomorrow."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am attending, Master Thwaite."
+    },
+    {
+      "speaker": "john_spencer",
+      "text": "Good Lord, deliver us."
+    }
+  ]
+}

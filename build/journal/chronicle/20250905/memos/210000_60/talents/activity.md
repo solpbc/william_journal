@@ -1,0 +1,1 @@
+The lane was noisy with people back from the other bank and the jokes still in them. You said you were not going over to learn the jokes. You shut the casement. The talker is still talking, and you do not know the how. You went to bed early, for first light.

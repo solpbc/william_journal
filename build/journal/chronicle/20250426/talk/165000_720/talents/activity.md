@@ -1,0 +1,1 @@
+John Heminges entered thirty-eight shillings as the share and refused to open a coffer. You called it Easter week's share, the best since February, and you did not state an old total or a new one. The afternoon's faults were not named. No Rose receipt was guessed. The book shut on the one figure.

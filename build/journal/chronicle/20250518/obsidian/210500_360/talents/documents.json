@@ -1,0 +1,70 @@
+{
+  "overview": "At home you entered breakfast at threepence and the loaf at a penny, a finger and a half short. You entered Alice's bill as two shillings and eightpence, and the jug, and you did not write a half. You noted the salt-fish, the theft, and how little you had said.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Entered the threepence, the loaf, and the undivided bill."
+    },
+    {
+      "name": "Thomas Nashe",
+      "role": "mentioned",
+      "formal_term": "Thomas Nashe",
+      "appointment_tier": "not_applicable",
+      "context": "Entered Alice's bill as one sum"
+    },
+    {
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "formal_term": "Will Kemp",
+      "appointment_tier": "not_applicable",
+      "context": "Entered Alice's bill as one sum"
+    },
+    {
+      "name": "Alice Brambleby",
+      "role": "mentioned",
+      "formal_term": "Alice Brambleby",
+      "appointment_tier": "not_applicable",
+      "context": "Entered Alice's bill as one sum"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "threepence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the undivided bill",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "scarcely spoken",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Split Hazel bill",
+      "asset_type": "other",
+      "disposition": "Entered Alice's bill as one sum"
+    },
+    {
+      "name": "the penny loaf",
+      "asset_type": "other",
+      "disposition": "Entered Alice's bill as one sum"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-18",
+      "meaning": "Scarcely spoken"
+    }
+  ],
+  "summary": "Entered Alice's bill as one sum"
+}

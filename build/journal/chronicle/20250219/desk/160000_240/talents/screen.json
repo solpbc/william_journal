@@ -1,0 +1,17 @@
+{
+  "narrative": "A part lies on the table in the chamber. The oath is the block of lines at the top. The rest of the sheet runs on and is not the thing he is looking at. No face. Under those three lines, in his own hand, a plain sentence that is not verse. The pen is capped. Gib is not in the frame. The corner of the same sheet. One line, the hour, nothing about a tally.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the three terms and the hour, and left the refusal where it was."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on part in The oath, on the roll"
+    }
+  ]
+}

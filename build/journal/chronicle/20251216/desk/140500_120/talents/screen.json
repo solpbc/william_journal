@@ -1,0 +1,23 @@
+{
+  "narrative": "A bill copied onto the back of a used plot-strip, the Rose's afternoon set down so the tiring-house can see it without going. He does not take up a cloak.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the bill and stayed in his own yard."
+    },
+    {
+      "type": "Person",
+      "name": "Philip Henslowe",
+      "role": "mentioned",
+      "context": "Not in the yard. His afternoon was on the board, and that was all."
+    },
+    {
+      "type": "Project",
+      "name": "Harry the Fifth",
+      "role": "mentioned",
+      "context": "Shown on bill in Harry the Fifth, not this yard"
+    }
+  ]
+}

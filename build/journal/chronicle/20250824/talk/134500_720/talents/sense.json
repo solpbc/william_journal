@@ -1,0 +1,112 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You walked the fair with Burbage, Phillips, Pope, Arthur and Sam. Pope bargained for a bolster and got the feathers thrown in. Sam had sixpence for one thing, and he chose a whistle after a long look at a knife. You ate sixpenny trenchers of pork with damson sauce. Phillips took the bone. You kept one hand on your purse whenever an elbow touched it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told Sam to take the whistle, ate the pork, and kept a hand on his purse.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the stalls, and the drum at the puppet booth.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the bone, and kept Sam between himself and Pope.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Bargained for a bolster and got the feathers thrown in.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Chose a whistle over a knife, and ate pig until Phillips took the bone.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood by Sam at the cutler's board, and minded the bolster at the grease-trough.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Bartholomew Fair",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sixpence for a whistle",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "sixpence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sixpence for a whistle",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Ate pork at the fair while Sam chose a whistle",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Pope",
+    "Augustine Phillips",
+    "Sam Latchet",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Arthur Meeks"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the bolster and the feathers",
+    "sixpence for a whistle",
+    "sixpenny trenchers",
+    "the hand on the purse"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_pope",
+      "text": "Throw the feathers in with the ticking, master, and you have my silver"
+    },
+    {
+      "speaker": "sam_latchet",
+      "text": "The knife has a horn haft, Master Phillips, and the whistle has three holes like a pipe"
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "Give me that bone, Sam"
+    }
+  ]
+}

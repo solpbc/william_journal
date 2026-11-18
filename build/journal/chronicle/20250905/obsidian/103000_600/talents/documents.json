@@ -1,0 +1,44 @@
+{
+  "overview": "You began the street, hot, at the end of the day. They come in already talking, and the one with the cold hand talks most. You wrote that you know he must go, and that you have known it since the book, and that you do not know how. You stopped while he was still talking.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the opening, and stopped before the how."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the street",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the talker",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the how not written",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the street",
+      "asset_type": "other",
+      "disposition": "Began the street while the talker went on"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-05",
+      "meaning": "Leave him talking"
+    }
+  ],
+  "summary": "Began the street while the talker went on"
+}

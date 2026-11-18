@@ -1,0 +1,60 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "At the desk, with the window open on the close, you wrote three beginnings in the old manner, all of them London, and you struck each one. The fourth you kept. It tells Anne you are come safe, that the back mends, and what you have counted: twenty pound fifteen shillings, and a share of six-and-twenty since. You do not promise. You say you work here and do not live here, and that the garden wants digging before the house wants glass. You ask her to say if three years is too long. You tell her you were told not to come, and came, and are glad of it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote four beginnings, struck three, and left the fourth.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Is the person the kept letter speaks to. She is not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "twenty pound fifteen shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The fourth, kept",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "six-and-twenty shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The fourth, kept",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Struck three beginnings, and kept the fourth",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three beginnings struck",
+    "the short letter",
+    "twenty pound fifteen",
+    "six-and-twenty"
+  ],
+  "quotes": []
+}

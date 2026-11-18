@@ -1,0 +1,7 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "hamnet_sadler", "start": "10:25:00", "text": "That's a kind morning's walk, Will.", "timing": {"end": 10.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "10:25:10", "text": "I am buying bread.", "timing": {"end": 18.0, "start": 10.0}}
+{"sentence_id": 3, "speaker": "hamnet_sadler", "start": "10:25:18", "text": "Aye. Eight loaves' worth.", "timing": {"end": 28.0, "start": 18.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "10:25:28", "text": "Bread is the word I brought. I am not mending the joke.", "timing": {"end": 40.0, "start": 28.0}}
+{"sentence_id": 5, "speaker": "hamnet_sadler", "start": "10:25:40", "text": "I am owed nothing. The loaf you eat is still a loaf.", "timing": {"end": 52.0, "start": 40.0}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "10:25:52", "text": "Then I am done crossing. Good morrow, Hamnet.", "timing": {"end": 62.0, "start": 52.0}}

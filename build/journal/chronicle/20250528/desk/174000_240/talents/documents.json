@@ -1,0 +1,56 @@
+{
+  "overview": "Before supper you looked at the precept the clerk had left. It is from Crosby Place, to be read in church on Sunday next, and it forbids blue starch in ruffs. It was not read today.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the sheet and did not add a word."
+    },
+    {
+      "name": "Mistress Dorcas Ansell",
+      "role": "mentioned",
+      "formal_term": "Mistress Dorcas Ansell",
+      "appointment_tier": "not_applicable",
+      "context": "Has the precept by heart by supper. She does not speak in this stretch."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Crosby Place",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Sunday next",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "blue starch",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "blue starch",
+      "asset_type": "other",
+      "disposition": "Read the precept before supper"
+    },
+    {
+      "name": "Crosby Place",
+      "asset_type": "other",
+      "disposition": "Read the precept before supper"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-28",
+      "meaning": "To be read on Sunday next"
+    }
+  ],
+  "summary": "Read the precept before supper"
+}

@@ -1,0 +1,23 @@
+{
+  "narrative": "The narrow book on the chest. The fresh line is still the only fresh line. The rolls are under the weight, out of the writing. No face. His finger rests under the line and does not draw a sum. The next rule stays empty. No face. The book stays open on the chest. A sleeve passes, not a hand writing. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Left the book on the one copying line"
+    },
+    {
+      "type": "Company",
+      "name": "eightpence",
+      "role": "mentioned",
+      "context": "Shown on ledger in Left the book on the one copying line"
+    },
+    {
+      "type": "Tool",
+      "name": "the company book",
+      "role": "mentioned",
+      "context": "Shown on ledger in Left the book on the one copying line"
+    }
+  ]
+}

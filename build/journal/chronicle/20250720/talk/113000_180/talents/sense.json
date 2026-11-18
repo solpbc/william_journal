@@ -1,0 +1,82 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At dinner the penny loaf was a thumb short of the notch. The price was still a penny. Verbeke named Norwich and then stopped. You did not change the price, and you did not write a new figure.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a new price.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the penny and the thumb, and told Verbeke to eat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the loaf against the board and said the pot was not short.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named Norwich, and said nothing further.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "a penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A thumb short of the notch",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate the short loaf at a penny",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "William Shakespeare",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the penny loaf",
+    "the notch",
+    "Norwich",
+    "pease"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A penny, and a thumb short of the notch."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I'm not marking a price that has not moved."
+    }
+  ]
+}

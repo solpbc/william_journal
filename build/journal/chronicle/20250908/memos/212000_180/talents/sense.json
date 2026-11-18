@@ -1,0 +1,59 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "The moon was full enough to find the latch. The letter stayed sealed, the tooth was quiet, and Phillips was still not told. Tomorrow is rehearsal at nine, and Errors at two.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came in by the moon, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Still unwarned. Not in the house.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Full enough to find the latch",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Found the latch",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the moon",
+    "the seal",
+    "the tooth quiet",
+    "tomorrow at nine"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The moon is up over the close, full enough to find the latch without a candle."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "narrative": "The two sheets on the board. No new line under the two at the top. The pen is dry. The candle is the ordinary one. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and did not write."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on draft in Nothing under the line"
+    }
+  ]
+}

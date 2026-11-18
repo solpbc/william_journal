@@ -1,0 +1,104 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "In the third week of rehearsal Kemp played the remuneration with three farthings. He weighed them, bit one, and tried to buy Sam. Sam refused. Each pass was two lines longer than the last, and nobody made a total. Kemp said the groundlings never paid a penny to hear what was set down. You asked, very courteously, which of the new lines were better, so that you might write them. Garnish wrote a K at the head of a margin and did not write a figure under it. Burbage took Berowne's speech on love to the stable wall. You said Hilary term ended today and that you were not going to Westminster. Pope said the gowns will thin.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked, courteously, which lines to write, and refused a figure under the K.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Weighed and bit the three farthings, tried to buy Sam, and grew the pass.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped the passes, headed the margin with a K, and wrote no sum.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took Berowne's speech on love to the stable wall.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said term was ending and the gowns would thin.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the three farthings and went back to the cue.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three farthings",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard the farthings at rehearsal",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "Will Kemp",
+    "Sam Latchet",
+    "Thomas Pope",
+    "Richard Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three farthings",
+    "two lines longer",
+    "the K",
+    "the stable wall"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "Set down, set down. The groundlings never paid a penny to hear what was set down."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Some of it is better than what I wrote."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "I am writing a K at the head of it. I am not writing a sum."
+    }
+  ]
+}

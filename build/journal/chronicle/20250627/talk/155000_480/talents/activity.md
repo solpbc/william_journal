@@ -1,0 +1,1 @@
+You had no part in Richard the Third. You were in the house, and the yard did not listen. By report, eighteen hundred had pulled two pillories down in Cheapside and gone against the Counter again, and timber was carried toward Bishopsgate. You were not in that crowd. John would not enter the number as his own count. Margery would not speak for a stair she had not stood.

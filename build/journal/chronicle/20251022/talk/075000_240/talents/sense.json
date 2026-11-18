@@ -1,0 +1,80 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "On the way down you stepped over Gib on the third tread. The chamber latch stuck in the damp, and you left it unmended. Alse turned your collar. Mistress Ansell called through the floor that you were eating the hour. You went down.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stepped over the cat and went down",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stepped over the cat and went down",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "heard in Stepped over the cat and went down",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "visible in Stepped over the cat and went down",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the chamber latch",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Stepped over the cat and went down",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Got the cloak and left for the Theatre",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "William Shakespeare",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the third tread",
+    "the latch",
+    "the grey cloak"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The latch is old."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "a hand of hers on a door is a bell."
+    }
+  ]
+}

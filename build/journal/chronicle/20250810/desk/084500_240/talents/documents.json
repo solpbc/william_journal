@@ -1,0 +1,49 @@
+{
+  "overview": "You looked at four lines you had already written, and at the one you had decided to leave in. You did not add a speech. You did not mend the girl. The sheet stayed foul.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the foul sheets on the bench"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the name",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the rose",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the moon",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the line left in",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the orchard scene",
+      "asset_type": "other",
+      "disposition": "Read the foul sheets on the bench"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-10",
+      "meaning": "Read the four lines again"
+    }
+  ],
+  "summary": "Read the foul sheets on the bench"
+}

@@ -1,0 +1,63 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Hobbins was in at the Bell. You gave him Susanna's letter, the one written on the twenty-sixth, at twopence. You sent no parcel and no money with it. He had nothing for you this time. No cheese, no glove, and no word for your hand.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the letter, paid twopence, and accepted an empty hand.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the letter at twopence, and had nothing to bring back.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "Susanna's letter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twopence, and nothing back",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Gave Hobbins Susanna's letter at twopence",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Hobbins",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twopence",
+    "Susanna's letter",
+    "nothing coming back"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_hobbins",
+      "text": "Twopence the letter."
+    },
+    {
+      "speaker": "thomas_hobbins",
+      "text": "And I have nothing for you this time."
+    }
+  ]
+}

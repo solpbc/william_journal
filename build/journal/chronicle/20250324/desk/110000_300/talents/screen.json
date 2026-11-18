@@ -1,0 +1,17 @@
+{
+  "narrative": "The chronicle is open on the board where the cloth was. The pen has touched the bottom margin and stopped. There is no speech under the column. Brooke is shut, on the shelf, in the edge of the frame.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the column and stopped at the margin."
+    },
+    {
+      "type": "Project",
+      "name": "Holinshed, second volume",
+      "role": "mentioned",
+      "context": "Shown on book in The cloth folded back"
+    }
+  ]
+}

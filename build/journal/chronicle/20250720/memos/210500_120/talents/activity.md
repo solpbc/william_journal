@@ -1,0 +1,1 @@
+At the window you said you had gone by the lane without meaning to, and that the upper shutter was up. You said that was twice, and that you would not go a third time. You said the sonnet did not need her in it. You did not say a name.

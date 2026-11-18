@@ -1,0 +1,83 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Pope told you your name is not on tomorrow's Shrew. Heminges told you the Rose has the first part of Hercules at two. You said you would go over.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he would cross for Hercules.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported that the Shrew plot has no Shakespeare on it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the Rose bill once, and did not send him.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Shrew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Hercules at two",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the first part of Hercules",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Hercules at two",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Hercules is at the Rose and chose to go",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Pope",
+    "William Shakespeare",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Shrew",
+    "Hercules at two"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_pope",
+      "text": "You are out of the Shrew tomorrow."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "The bill at the Rose is the first part of Hercules, at two."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Hercules at two. I am not in the Shrew."
+    }
+  ]
+}

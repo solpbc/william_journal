@@ -1,0 +1,39 @@
+{
+  "overview": "You entered one line. Sixty shillings are set by for Stratford, to go in your own hand. You did not cast a coffer total. The money was not given to Hobbins.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Entered the one line and did not add the coffer."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "sixty shillings set by",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no coffer total",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "60s in canvas",
+      "asset_type": "other",
+      "disposition": "Set sixty shillings by for Stratford"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-20",
+      "meaning": "Set by"
+    }
+  ],
+  "summary": "Set sixty shillings by for Stratford"
+}

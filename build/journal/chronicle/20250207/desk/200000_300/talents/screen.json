@@ -1,0 +1,17 @@
+{
+  "narrative": "A single leaf in the light of one candle. The top margin has no title and no number. No name in the corner or on the back. The folder lies open far enough to show the edges of two older leaves. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Copied the leaf and did not head it."
+    },
+    {
+      "type": "Project",
+      "name": "the sonnet folder",
+      "role": "mentioned",
+      "context": "Shown on draft in Weary with toyle"
+    }
+  ]
+}

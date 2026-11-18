@@ -1,0 +1,23 @@
+{
+  "narrative": "A scrap on the bed's edge, the wallet open, the gloves gone out of it. A short row of coins is not in the picture. The hand has written and stopped. No face. The same scrap. Two small lines under the nine. No sum of what remains in the belt. The Coventry side of the bed is only a blanket, not a man in the frame.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Ruled the nine shillings, and left the remainder unwritten."
+    },
+    {
+      "type": "Tool",
+      "name": "nine shillings",
+      "role": "mentioned",
+      "context": "Shown on ledger in Nine shillings, all told"
+    },
+    {
+      "type": "Tool",
+      "name": "two shillings",
+      "role": "mentioned",
+      "context": "Shown on ledger in Nine shillings, all told"
+    }
+  ]
+}

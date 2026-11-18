@@ -1,0 +1,1 @@
+At Holywell, Richard Burbage gave you the old lath stage-sword, the paint worn off the hilt, and said it killed four Richmonds, for you to tell the boy. You said you would tell him when you put it in his hand, and that is not this week.

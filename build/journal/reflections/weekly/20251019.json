@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20251019",
+    "end": "20251025"
+  },
+  "generated_at": "2025-10-25T22:00:00Z",
+  "days": [
+    {
+      "day": "20251019",
+      "state": "memory",
+      "memory_id": "m-20251019-0"
+    },
+    {
+      "day": "20251020",
+      "state": "memory",
+      "memory_id": "m-20251020-1"
+    },
+    {
+      "day": "20251021",
+      "state": "memory",
+      "memory_id": "m-20251021-2"
+    },
+    {
+      "day": "20251022",
+      "state": "memory",
+      "memory_id": "m-20251022-3"
+    },
+    {
+      "day": "20251023",
+      "state": "memory",
+      "memory_id": "m-20251023-4"
+    },
+    {
+      "day": "20251024",
+      "state": "memory",
+      "memory_id": "m-20251024-5"
+    },
+    {
+      "day": "20251025",
+      "state": "memory",
+      "memory_id": "m-20251025-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20251019-0",
+      "key": "mem_20251019_0",
+      "day": "20251019",
+      "text": "You ate the soft side of a short loaf. The jaw was quiet, the first Sunday since August. You tied the fair copy of the lovers with a red thread, and you left the rehearsal marks in. You did not write finished. You wrote Anne three lines before you corrected another word. The twopence for that letter waits until Thursday's carrier. Gib sat on the Holinshed.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251019/talents/morning_briefing",
+        "briefing_day": "20251019",
+        "refs": [
+          "sol://facets/household/activities/20251019#frame_092000_240",
+          "sol://facets/household/activities/20251019#meeting_114000_720",
+          "sol://facets/writing/activities/20251019#meeting_170500_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20251020-1",
+      "key": "mem_20251020_1",
+      "day": "20251020",
+      "text": "Kettleby called from Somerset House. The court removes to Richmond. You will be sent for, and pay is another office. You stayed home from the Shrew. After five the stock was named at six pounds, and you wrote expected, with no sum beside it.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251020/talents/morning_briefing",
+        "briefing_day": "20251020",
+        "refs": [
+          "sol://facets/company/activities/20251020#frame_081000_120",
+          "sol://facets/household/activities/20251020#meeting_084000_480",
+          "sol://facets/company/activities/20251020#call_110000_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20251021-2",
+      "key": "mem_20251021_2",
+      "day": "20251021",
+      "text": "Pope played old Capulet flat. Kemp found a pause, and you wrote that one word. Nick laughed. The jaw was tender for the last day, and the hole has closed. You stayed out of the afternoon's king play.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251021/talents/morning_briefing",
+        "briefing_day": "20251021",
+        "refs": [
+          "sol://facets/company/activities/20251021#meeting_090500_840",
+          "sol://facets/writing/activities/20251021#frame_104000_180",
+          "sol://facets/household/activities/20251021#meeting_114000_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20251022-3",
+      "key": "mem_20251022_3",
+      "day": "20251022",
+      "text": "You made three rolls of the king play agree, and eightpence went out of the stock for the copying. You played in the afternoon. George told you the Earl of Arundel had died in the Tower on Sunday. At night you wrote Juliet alone with the vial and the call for the Nurse, and you stopped before she drank. You said you do not know whether the story of his wife and son is true.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251022/talents/morning_briefing",
+        "briefing_day": "20251022",
+        "refs": [
+          "sol://facets/household/activities/20251022#photo_061500_120",
+          "sol://facets/household/activities/20251022#meeting_061800_840",
+          "sol://facets/writing/activities/20251022#frame_070000_840"
+        ]
+      }
+    },
+    {
+      "id": "m-20251023-4",
+      "key": "mem_20251023_4",
+      "day": "20251023",
+      "text": "You played Navarre and stayed for the comedy. At half past five, six horses were still steaming at the Bell. You added a line for Anne: the tooth is out, the king draws, and you are well. Hobbins read it back. Quiney still owes two pounds. At supper you declined the crust and ate the wardens. The two shillings were for April's book.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251023/talents/morning_briefing",
+        "briefing_day": "20251023",
+        "refs": [
+          "sol://facets/writing/activities/20251023#frame_091000_240",
+          "sol://facets/household/activities/20251023#meeting_114000_480",
+          "sol://facets/stratford/activities/20251023#meeting_173000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20251024-5",
+      "key": "mem_20251024_5",
+      "day": "20251024",
+      "text": "Nick spoke the two vial lines truly, and the call for the Nurse cracked into a man's note. Nobody laughed. You told him she has two acts and sleeps through some of it. Phillips will have him in the mornings. You did not cut the part.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251024/talents/morning_briefing",
+        "briefing_day": "20251024",
+        "refs": [
+          "sol://facets/company/activities/20251024#photo_090000_60",
+          "sol://facets/company/activities/20251024#meeting_091000_840",
+          "sol://facets/writing/activities/20251024#memo_112500_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20251025-6",
+      "key": "mem_20251025_6",
+      "day": "20251025",
+      "text": "You named the parents and the Nurse at the curtain, and you did not write the tomb. You played in the afternoon. The week's share was thirty-eight shillings. The king play stands for Thursday week. Christmas stayed expected, with no sum written under it.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251025/talents/morning_briefing",
+        "briefing_day": "20251025",
+        "refs": [
+          "sol://facets/writing/activities/20251025#note_103000_360",
+          "sol://facets/company/activities/20251025#meeting_165000_840",
+          "sol://facets/company/activities/20251025#frame_184000_240"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20251019-0",
+      "key": "said_20251019_0",
+      "day": "20251019",
+      "quote": "It is coherent. It is not finished.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251019#meeting_170500_720"
+      }
+    },
+    {
+      "id": "s-20251020-1",
+      "key": "said_20251020_1",
+      "day": "20251020",
+      "quote": "I was second on the Queen's paper once, Dick. It was the only time I was ever read aloud. I am not asking thee to put me second again.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251020#meeting_170500_840"
+      }
+    },
+    {
+      "id": "s-20251021-2",
+      "key": "said_20251021_2",
+      "day": "20251021",
+      "quote": "It was one word, and it belongs to a man who found a wait I had not written.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20251021#meeting_114000_720"
+      }
+    },
+    {
+      "id": "s-20251022-3",
+      "key": "said_20251022_3",
+      "day": "20251022",
+      "quote": "I have uses for other men's deaths. I do not want this one put ready for my hand.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251022#meeting_162000_360"
+      }
+    },
+    {
+      "id": "s-20251022-4",
+      "key": "said_20251022_4",
+      "day": "20251022",
+      "quote": "Leave the man his own death.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20251022#memo_214000_120"
+      }
+    },
+    {
+      "id": "s-20251023-5",
+      "key": "said_20251023_5",
+      "day": "20251023",
+      "quote": "The gardener is a way of saying in public what a chronicle says in a margin. I do not think I won by it. I think I was heard.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251023#meeting_184000_720"
+      }
+    },
+    {
+      "id": "s-20251024-6",
+      "key": "said_20251024_6",
+      "day": "20251024",
+      "quote": "I'll not cut her. I'll not write her a line lower.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251024#memo_112500_60"
+      }
+    }
+  ]
+}

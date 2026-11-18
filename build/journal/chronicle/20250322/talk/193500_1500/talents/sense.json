@@ -1,0 +1,80 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Morley brought you into the house in the lane off Bishopsgate, which is the house with the lit window of Twelfth Eve. His balletts are five voices, at the printer's this year. He would not name what the strings cost. A woman at the virginals played a strain exact, then the same strain faster, as if laughing at it. You knew the hand and did not ask her name. He did not make you known. A man of the parish asked for the air and did not supply a name either. Nothing passed but the music. She did not speak.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Recognised the window and the hand, refused a name, and wrote nothing in the room.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Morley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the hour on the music, withheld the price and the introduction, and sent the room out.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "the lady of the parish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Played the strain exact, and then faster, and did not speak.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Morley's balletts",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Exact, and then faster",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Heard the strain twice at Morley's",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Morley",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "five voices",
+    "the strings unpriced",
+    "the strain twice",
+    "no names"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_morley",
+      "text": "Five voices. The balletts are at the printer's this year."
+    },
+    {
+      "speaker": "thomas_morley",
+      "text": "You hear that? She takes the turn a hair late on purpose."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not asking anyone's name."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Nothing has passed but the music."
+    }
+  ]
+}

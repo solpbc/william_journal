@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Heminges said the reckoning was eight-and-twenty shillings, and that Monday had been the Queen's. You told him to say it once. Burbage would not make it a total for the house. Heminges said it is the reckoning and not the coffer. You did not repeat the figure.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard it once and would not have it said again.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named eight-and-twenty shillings and shut the book on the sum.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused to make it a house total.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "eight-and-twenty shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Eight-and-twenty",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard eight-and-twenty shillings, said once",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "eight-and-twenty shillings",
+    "said once",
+    "not the coffer"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Eight-and-twenty shillings. Monday was the Queen's."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "I am not making it a total for the house."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "It is the reckoning. It is not the coffer."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "narrative": "Her letter lies open on the board beside his. Her hand is square and black. His is crowded.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "The crowded hand is his."
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "context": "The square hand is hers. She was not in the room."
+    },
+    {
+      "type": "Tool",
+      "name": "her letter",
+      "role": "mentioned",
+      "context": "In photo: Two hands on the board"
+    }
+  ]
+}

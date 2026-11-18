@@ -1,0 +1,17 @@
+{
+  "narrative": "His roll for the afternoon, cues to the right of a rule, no speech copied out in his hand. The name of the part is not written at the head. He does not add it. He looks for a new instruction and does not write one. The red thread is on the Romeo bundle, not on this. He goes on with the strip as it is.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Played, and did not name the part on the strip."
+    },
+    {
+      "type": "Project",
+      "name": "The Taming of the Shrew",
+      "role": "mentioned",
+      "context": "Shown on part in In it, and not named"
+    }
+  ]
+}

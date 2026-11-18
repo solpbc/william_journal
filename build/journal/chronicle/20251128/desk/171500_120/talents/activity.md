@@ -1,0 +1,1 @@
+You came home by the Bridge at dusk. On the tables you wrote one line, "the cousin's son. they love him.", and nothing under it. You did not write a plot of the play, and you did not write a sum. Fair Em was at the Theatre without you. The yard pitied a king who loses and shouted for a king who wins.

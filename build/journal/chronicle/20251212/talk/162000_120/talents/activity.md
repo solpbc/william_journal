@@ -1,0 +1,1 @@
+After the king, James was in the yard in both cloaks. You said you did not hear a price. He said six fingers is not a price, and that he is not ready to say a sum. You did not make the neighbours into a verdict in the yard. No figure was spoken.

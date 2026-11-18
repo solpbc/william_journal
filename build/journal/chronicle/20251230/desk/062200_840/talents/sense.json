@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You set a clean sheet beside the almanac and wrote the place and her name. You left the day as xxx. You had not yet written the nights, and the coffer stayed shut.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the sheet, set the pen down, and got up without it.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Wrote Anne's letter on the sheet",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a clean sheet",
+    "the date left open",
+    "her name"
+  ],
+  "quotes": []
+}

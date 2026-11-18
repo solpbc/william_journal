@@ -1,0 +1,1 @@
+You had the three new cue-words on the roll, and the speeches left as they were. Larkham's copy of the second roll was beside it. These marks are for this morning's rehearsal of next week's Richard the Third. They are not a rewriting of the play.

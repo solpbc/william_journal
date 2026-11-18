@@ -1,0 +1,1 @@
+Master Thwaite kept the Sunday lesson plain and did not number his heads. Mistress Ansell had the book in one hand. You said you would write the sheet after church, not in the pew. Alse put you in the south aisle, as always.

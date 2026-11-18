@@ -1,0 +1,66 @@
+{
+  "overview": "You wrote Anne in the familiar way. The wash stands at fourpence a week, already paid. You set the Christmas money down as so much for the house, so much for the shop's debts, and so much she may spend without writing first. You did not write the figures. You asked whether the string-and-spool engine still works, or has been forbidden. The page does not argue. It has not been sent.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the fair page and left it on the board."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Had decided the wash. She was not in the room."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the wash",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "so much three times",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the engine",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "not sent",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "fourpence a week",
+      "asset_type": "other",
+      "disposition": "Wrote Anne about the wash and the Christmas money"
+    },
+    {
+      "name": "the Christmas money",
+      "asset_type": "other",
+      "disposition": "Wrote Anne about the wash and the Christmas money"
+    },
+    {
+      "name": "the string-and-spool engine",
+      "asset_type": "other",
+      "disposition": "Wrote Anne about the wash and the Christmas money"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-16",
+      "meaning": "The letter he can answer"
+    }
+  ],
+  "summary": "Wrote Anne about the wash and the Christmas money"
+}

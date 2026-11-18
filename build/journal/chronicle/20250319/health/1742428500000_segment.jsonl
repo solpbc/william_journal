@@ -1,0 +1,13 @@
+{"day": "20250319", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "103500_1200", "stream": "talk", "ts": 1742428500000}
+{"change_class": "substantive", "day": "20250319", "event": "sense.change_detect", "mode": "segment", "segment": "103500_1200", "stream": "talk", "ts": 1742428500001}
+{"day": "20250319", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "103500_1200", "stream": "talk", "ts": 1742428500002}
+{"day": "20250319", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "110500_1200", "stream": "talk", "ts": 1742428500010}
+{"change_class": "substantive", "day": "20250319", "event": "sense.change_detect", "mode": "segment", "segment": "110500_1200", "stream": "talk", "ts": 1742428500011}
+{"day": "20250319", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "110500_1200", "stream": "talk", "ts": 1742428500012}
+{"day": "20250319", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "201500_300", "stream": "desk", "ts": 1742428500020}
+{"change_class": "substantive", "day": "20250319", "event": "sense.change_detect", "mode": "segment", "segment": "201500_300", "stream": "desk", "ts": 1742428500021}
+{"day": "20250319", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "201500_300", "stream": "desk", "ts": 1742428500022}
+{"day": "20250319", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "201500_300", "stream": "desk", "ts": 1742428500023}
+{"day": "20250319", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "204000_600", "stream": "obsidian", "ts": 1742428500030}
+{"change_class": "substantive", "day": "20250319", "event": "sense.change_detect", "mode": "segment", "segment": "204000_600", "stream": "obsidian", "ts": 1742428500031}
+{"day": "20250319", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "204000_600", "stream": "obsidian", "ts": 1742428500032}

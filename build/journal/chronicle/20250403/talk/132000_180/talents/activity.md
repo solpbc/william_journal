@@ -1,0 +1,1 @@
+At home you gave Susanna the gingerbread that had come back in a paper. Judith had carried it unopened. Hamnet had already eaten his pennyworth. Anne sent them to wash. Susanna kept the paper until the board was clear.

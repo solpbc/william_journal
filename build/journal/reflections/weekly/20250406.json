@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250406",
+    "end": "20250412"
+  },
+  "generated_at": "2025-04-12T22:00:00Z",
+  "days": [
+    {
+      "day": "20250406",
+      "state": "memory",
+      "memory_id": "m-20250406-0"
+    },
+    {
+      "day": "20250407",
+      "state": "memory",
+      "memory_id": "m-20250407-1"
+    },
+    {
+      "day": "20250408",
+      "state": "memory",
+      "memory_id": "m-20250408-2"
+    },
+    {
+      "day": "20250409",
+      "state": "memory",
+      "memory_id": "m-20250409-3"
+    },
+    {
+      "day": "20250410",
+      "state": "memory",
+      "memory_id": "m-20250410-4"
+    },
+    {
+      "day": "20250411",
+      "state": "memory",
+      "memory_id": "m-20250411-5"
+    },
+    {
+      "day": "20250412",
+      "state": "memory",
+      "memory_id": "m-20250412-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250406-0",
+      "key": "mem_20250406_0",
+      "day": "20250406",
+      "text": "Your father stayed home and blamed a fairy. Joan told you to walk to Anne, then made the wheel turn. An even wheel is rarer than a true one.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250406/talents/morning_briefing",
+        "briefing_day": "20250406",
+        "refs": [
+          "sol://facets/stratford/activities/20250406#meeting_081500_480",
+          "sol://facets/stratford/activities/20250406#meeting_094000_480",
+          "sol://facets/stratford/activities/20250406#meeting_124000_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250407-1",
+      "key": "mem_20250407_1",
+      "day": "20250407",
+      "text": "One ask each. Half a catch, and it stopped. Four shillings should come home. The tables say one answer.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250407/talents/morning_briefing",
+        "briefing_day": "20250407",
+        "refs": [
+          "sol://facets/stratford/activities/20250407#meeting_092000_180",
+          "sol://facets/stratford/activities/20250407#meeting_153000_240",
+          "sol://facets/stratford/activities/20250407#meeting_190000_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20250408-2",
+      "key": "mem_20250408_2",
+      "day": "20250408",
+      "text": "She was in the door. Nothing was written. Her knot was retied at Shipston. The notes were less good, and you slept.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250408/talents/morning_briefing",
+        "briefing_day": "20250408",
+        "refs": [
+          "sol://facets/stratford/activities/20250408#meeting_051000_180",
+          "sol://facets/writing/activities/20250408#memo_054000_60",
+          "sol://facets/stratford/activities/20250408#meeting_094000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250409-3",
+      "key": "mem_20250409_3",
+      "day": "20250409",
+      "text": "You rode through Oxford. She asked for one answer. The horse governs the day. A line or two at the Catherine Wheel.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250409/talents/morning_briefing",
+        "briefing_day": "20250409",
+        "refs": [
+          "sol://facets/writing/activities/20250409#memo_071000_60",
+          "sol://facets/writing/activities/20250409#memo_112000_120",
+          "sol://facets/writing/activities/20250409#note_163000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250410-4",
+      "key": "mem_20250410_4",
+      "day": "20250410",
+      "text": "You came the long way into town. Sixteen days at twelvepence. The coffer is \u00a319 6s. Friday is at nine. The bag goes tonight.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250410/talents/morning_briefing",
+        "briefing_day": "20250410",
+        "refs": [
+          "sol://facets/writing/activities/20250410#memo_051500_60",
+          "sol://facets/writing/activities/20250410#meeting_111000_120",
+          "sol://facets/household/activities/20250410#meeting_150500_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250411-5",
+      "key": "mem_20250411_5",
+      "day": "20250411",
+      "text": "Three misses on a Latin tag. Your correction was on the wrong copy. The size was found before noon. The new end is \"and that is enough.\"",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250411/talents/morning_briefing",
+        "briefing_day": "20250411",
+        "refs": [
+          "sol://facets/company/activities/20250411#frame_081000_120",
+          "sol://facets/company/activities/20250411#meeting_091500_720",
+          "sol://facets/company/activities/20250411#meeting_102500_600"
+        ]
+      }
+    },
+    {
+      "id": "m-20250412-6",
+      "key": "mem_20250412_6",
+      "day": "20250412",
+      "text": "Against nature, and cheaper than a new player. A twelvemonth was short. The loaf is a finger and a half. Threepence.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250412/talents/morning_briefing",
+        "briefing_day": "20250412",
+        "refs": [
+          "sol://facets/company/activities/20250412#meeting_091500_600",
+          "sol://facets/household/activities/20250412#meeting_120500_600"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250406-0",
+      "key": "said_20250406_0",
+      "day": "20250406",
+      "quote": "The paper's lighter than it was, Father.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250406#meeting_081500_480"
+      }
+    },
+    {
+      "id": "s-20250407-1",
+      "key": "said_20250407_1",
+      "day": "20250407",
+      "quote": "It has killed the same man four times a year since before you were born.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250407#meeting_190000_720"
+      }
+    },
+    {
+      "id": "s-20250408-2",
+      "key": "said_20250408_2",
+      "day": "20250408",
+      "quote": "She is in the door. I am not writing the picture down.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250408#memo_054000_60"
+      }
+    },
+    {
+      "id": "s-20250409-3",
+      "key": "said_20250409_3",
+      "day": "20250409",
+      "quote": "Is London where you work or where you live. I said both. It's the answer of a man who'd like to be asked something else.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250409#memo_112000_120"
+      }
+    },
+    {
+      "id": "s-20250410-4",
+      "key": "said_20250410_4",
+      "day": "20250410",
+      "quote": "Off Holinshed, sirrah. He's Master Field's, and Master Field counts.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250410#meeting_154000_480"
+      }
+    },
+    {
+      "id": "s-20250411-5",
+      "key": "said_20250411_5",
+      "day": "20250411",
+      "quote": "That is my correction, sitting on the wrong copy.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250411#meeting_102500_600"
+      }
+    },
+    {
+      "id": "s-20250412-6",
+      "key": "said_20250412_6",
+      "day": "20250412",
+      "quote": "Nature has been told, and nature can write to me when she has a cheaper player.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250412#meeting_091500_600"
+      }
+    },
+    {
+      "id": "s-20250412-7",
+      "key": "said_20250412_7",
+      "day": "20250412",
+      "quote": "The elder girl corrects me. The younger mocks me. The boy outruns me.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250412#meeting_120500_600"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "overview": "At Beaconsfield, before you sat to supper, you wrote eleven pence for bread and bacon. You checked it against what was left in the belt. You did not write what was left. The boots were off before the supper.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote eleven pence, and closed the belt without a total."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "eleven pence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the check",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no new total",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "eleven pence",
+      "asset_type": "other",
+      "disposition": "Wrote eleven pence"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-20",
+      "meaning": "Eleven pence"
+    }
+  ],
+  "summary": "Wrote eleven pence"
+}

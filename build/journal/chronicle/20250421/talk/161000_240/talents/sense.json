@@ -1,0 +1,84 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "After the play Margery Pell said fifty-two shillings were in her gallery. James Burbage called two thousand a house at the messenger, not a receipt. You left both numbers as what they were. The trumpet had been at two, and the swan at noon.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused to turn her stair or the house into a receipt.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the gallery's fifty-two shillings and the crowd that paid them.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called the afternoon two thousand a house, and counted them as timber.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "fifty-two shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Fifty-two shillings",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "two thousand",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Fifty-two shillings",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Margery Pell's fifty-two shillings",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Goodwife Margery Pell",
+    "James Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "fifty-two shillings",
+    "two thousand as a house",
+    "the hush"
+  ],
+  "quotes": [
+    {
+      "speaker": "margery_pell",
+      "text": "'Prentices, sweethearts, six lawyers out of term and a midwife."
+    },
+    {
+      "speaker": "james_burbage",
+      "text": "Two thousand at the messenger."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Fifty-two is your stair, Margery."
+    }
+  ]
+}

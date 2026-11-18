@@ -1,0 +1,49 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At home you said the line about Fame and the hole in the hose, and you stopped. You did not turn it into a speech, and you did not take it back out.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the line once and did not add to it.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A hole in his hose",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said the line about Fame and the hole in the hose",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Fame",
+    "the hole in the hose"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "A king who opens his mouth on Fame had better not have a hole in his hose."
+    }
+  ]
+}

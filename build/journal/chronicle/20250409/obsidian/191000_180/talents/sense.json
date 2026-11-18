@@ -1,0 +1,44 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At the Catherine Wheel, with rain on the yard, a counting rhythm came to you, this and this and this. You wrote a line or two and stopped. You marked the lines as not hers. You did not begin the play, and you did not write the speech you do not have yet.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the short page and did not continue it into a speech.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in This, and this, and this",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote a line or two of the counting rhythm",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the rhythm",
+    "a line or two",
+    "rain on the yard",
+    "not hers"
+  ],
+  "quotes": []
+}

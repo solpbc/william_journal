@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At home the Candlemas packet was still on the desk. You did not write a price for the gown, because you had not been told one.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Looked at the desk and went no further.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Candlemas letter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Still on the desk",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Left the packet on the desk",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the packet",
+    "Thursday",
+    "the unnamed price"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The packet is where I left it. Thursday."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not write a sum I have not heard."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "narrative": "The almanac open on the table at Monday. Three lines in the day's hand. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the almanac at the table."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on almanac in Both lines in the almanac"
+    },
+    {
+      "type": "Company",
+      "name": "the Rose",
+      "role": "mentioned",
+      "context": "Shown on almanac in Both lines in the almanac"
+    }
+  ]
+}

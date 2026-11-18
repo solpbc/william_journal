@@ -1,0 +1,17 @@
+{
+  "narrative": "A ledger line in a small book, the day's price and nothing under it. No face. No running sum on the page.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the line and did not cast a total."
+    },
+    {
+      "type": "Tool",
+      "name": "the ledger",
+      "role": "mentioned",
+      "context": "Shown on ledger in Twelve pence to the barber"
+    }
+  ]
+}

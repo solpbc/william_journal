@@ -1,0 +1,17 @@
+{
+  "narrative": "The foul leaf on the trestle. In the margin, one word, in his hand. No face. No second word beside it. The same margin. The word stands alone. Nothing promises a repeat.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the word and closed the leaf."
+    },
+    {
+      "type": "Tool",
+      "name": "the pause",
+      "role": "mentioned",
+      "context": "Shown on draft in The word pause"
+    }
+  ]
+}

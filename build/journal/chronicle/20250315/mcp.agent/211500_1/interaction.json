@@ -1,0 +1,21 @@
+{
+  "schema": 3,
+  "agent_identity": "Claude",
+  "timestamp": "2025-03-15T21:15:00Z",
+  "tool_name": "search",
+  "connection": "oauth:Ui6UEpHGQomNbwmlyfxlsQ",
+  "request": {
+    "arguments": {
+      "query": "twenty pound warrant"
+    },
+    "permission": {
+      "generation": 1,
+      "categories": [
+        "transcripts",
+        "entities",
+        "facets"
+      ],
+      "scope": "whole_journal"
+    }
+  }
+}

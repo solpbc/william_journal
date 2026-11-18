@@ -1,0 +1,1 @@
+From the corner of Great St Helen's lane you saw Crosby Place's shut gate and one lit window in the oriel. You did not go to the gate. You did not look for a word from the house. You walked on into the close.

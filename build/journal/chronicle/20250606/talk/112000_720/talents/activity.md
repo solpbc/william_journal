@@ -1,0 +1,1 @@
+Rehearsal of Richard the Third began with the street still audible. You set the work on the company's drum, and you told them a noise from the road was not theirs. A shout came. Cowley said he heard it and was not going. Nobody turned to the lane on the second drum. Larkham's list stayed what it had been: people running toward the noise, and this company not among them.

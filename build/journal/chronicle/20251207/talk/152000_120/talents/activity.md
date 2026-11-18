@@ -1,0 +1,1 @@
+You sent the Ansells' errand-boy to Aldermanbury with four lines for Heminges. Tuesday. Canon Row. By water at five. The king, whole. He was not to add a name or a why. You did not pay him a coin for the running, and you did not give him the guest.

@@ -1,0 +1,23 @@
+{
+  "narrative": "The red-tied bundle, unopened. The one page from Tuesday lies apart, with no new line under it. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and left the knot."
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "context": "Shown on draft in The bundle, still tied"
+    },
+    {
+      "type": "Project",
+      "name": "the one page",
+      "role": "mentioned",
+      "context": "Shown on draft in The bundle, still tied"
+    }
+  ]
+}

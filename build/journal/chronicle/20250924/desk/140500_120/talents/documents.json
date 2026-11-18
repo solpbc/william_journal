@@ -1,0 +1,44 @@
+{
+  "overview": "At two the plot was Richard the Third at the Theatre. No name of a part was on it for you. You played, and you brought no name home. Across the water the Rose had Crack Me. You did not cross.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Played the afternoon, and brought no part-name away."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Richard the Third",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no name of a part",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Crack Me",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard the Third",
+      "asset_type": "other",
+      "disposition": "Played Richard the Third"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-24",
+      "meaning": "The crookback, no name of a side"
+    }
+  ],
+  "summary": "Played Richard the Third"
+}

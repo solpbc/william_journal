@@ -1,0 +1,44 @@
+{
+  "overview": "By candle you looked at the first line of tomorrow's play and did not copy past it. The line on the roll is \"Two housholds both alike in dignitie\". You left the rest of the sheet covered.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the one line, and covered the rest."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the first line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the chorus roll",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nothing copied past it",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Romeo and Juliet",
+      "asset_type": "other",
+      "disposition": "Read the first line and stopped"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-05",
+      "meaning": "The first words, by candle"
+    }
+  ],
+  "summary": "Read the first line and stopped"
+}

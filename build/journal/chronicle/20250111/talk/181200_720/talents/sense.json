@@ -1,0 +1,81 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the Jackdaw you read Burbage the fifth act as far as it goes: the Worthies, the messenger, the half-line still empty, the women's year. He was quiet for a full minute. Then he said he does not get her. You said not for a twelvemonth and a day. He said that is too long for a play. You looked to the middle distance and wrote the objection down, and it is Berowne's now. You did not strike it. Agnes said dinner is sixpence, wit is extra, and that was the first time she saw a player pay for a line. Sixpence from each of you. You did not give him a part. You did not write the last line.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read the act as far as it goes, wrote the objection as Berowne's, and left the half-line empty.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the act for the first time, waited a minute, and said the year was too long.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Agnes Tipping",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Served eggs and ling, and charged sixpence and the wit.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in And I get her not",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read the act and gave the objection to Berowne",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Agnes Tipping",
+    "William Shakespeare",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the fifth act read aloud",
+    "a full minute",
+    "a twelvemonth and a day",
+    "sixpence"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "And I get her not?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Not for a twelvemonth and a day."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "That's too long for a play."
+    },
+    {
+      "speaker": "agnes_tipping",
+      "text": "Dinner's sixpence, wit's extra, and that's the first time I saw a player pay for a line."
+    }
+  ]
+}

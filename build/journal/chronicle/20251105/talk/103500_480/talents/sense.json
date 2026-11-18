@@ -1,0 +1,85 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Paul's Walk was louder than the stalls. You heard that on Monday at Richmond the Queen showed Essex a book printed over sea, with his name at the front, and that he came out pale and has kept his chamber. Nobody had seen the book. One man said it reckons up how kings have been put by, with examples. You stood with Daniel's third book open and did not turn the leaf. You did not name your own play, and you did not say how many leaves it has.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the rumour, did not turn the leaf, and did not add his own example.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Harrison",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept to books he can show, and had not seen the new one.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had not seen it either, and would not own a title he had not printed.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Daniel's Civil Wars",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Louder than the stalls",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the succession book",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Louder than the stalls",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard the talk at Paul's",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Harrison",
+    "William Shakespeare",
+    "Richard Field"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "printed over sea",
+    "nobody has seen it",
+    "Daniel's third book",
+    "the leaf not turned"
+  ],
+  "quotes": [
+    {
+      "speaker": "(a prentice)",
+      "text": "Printed over sea."
+    },
+    {
+      "speaker": "john_harrison",
+      "text": "Nobody in Paul's has seen it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The leaf stays unturned."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "overview": "In the account book you wrote that the king ended this day and is not yet shown. You did not open the coffer. You did not write a total.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote that the king ended, and did not count the coffer."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the account book",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "not yet shown",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the coffer shut",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Wrote that the king ended this day"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-21",
+      "meaning": "Not yet shewn"
+    }
+  ],
+  "summary": "Wrote that the king ended this day"
+}

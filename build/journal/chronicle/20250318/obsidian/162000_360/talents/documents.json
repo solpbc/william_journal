@@ -1,0 +1,44 @@
+{
+  "overview": "You wrote the call down as it happened. The paper was received. Nothing more was said, and you did not ask. The proverb was not copied out and not sent to a printer. The chair is mended, and Master Kemp is not to sit on it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the note and left both the proverb and the chair where the morning had put them."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "nothing more",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the proverb uncopied",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the chair mended",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the paper left at the lodge",
+      "asset_type": "other",
+      "disposition": "Wrote down Florio's sentence"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-18",
+      "meaning": "Nothing more was asked"
+    }
+  ],
+  "summary": "Wrote down Florio's sentence"
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "A bigger labour followed the first. The yard counted them. You stayed by the post on the right. No sum was where you could read it. You told yourself it was well done, and you did not say so. You enjoyed it against your will.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Stayed at the post and kept the praise unsaid."
+    },
+    {
+      "name": "Edward Alleyn",
+      "role": "visible",
+      "formal_term": "Edward Alleyn",
+      "appointment_tier": "not_applicable",
+      "context": "Carried the bigger labour. He spoke no word to the post."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "a bigger labour",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the yard counting",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the right-hand post",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the first part of Hercules",
+      "asset_type": "other",
+      "disposition": "Stayed by the post while the yard counted"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-20",
+      "meaning": "A bigger labour"
+    }
+  ],
+  "summary": "Stayed by the post while the yard counted"
+}

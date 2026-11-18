@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You set down what you will say. There is a king coming, and it is long. Nothing is agreed. You did not price the timber, and you did not write home.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the memo, and stopped.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote that a king is coming and that it is long",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a king coming",
+    "nothing agreed",
+    "no letter"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Tell him I've a king coming. Tell him it's long. Nothing is agreed"
+    }
+  ]
+}

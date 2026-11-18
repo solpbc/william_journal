@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "(the woman)", "start": "10:15:00", "text": "Bread and cheese, if you are stopping. The town is grey, and the cheese is the same grey, and I am not improving either.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "10:15:14", "text": "Bread and cheese. I am stopped. Grey will do. I am not asking a wool town for a better colour.", "timing": {"end": 24.0, "start": 14.0}}

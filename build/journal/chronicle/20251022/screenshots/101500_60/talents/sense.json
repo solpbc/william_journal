@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "You left the three rolls under a weight so the ink would hold. The same cue had been altered three times. No one was in the frame.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Set the weight and stepped out of the frame.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the three part-rolls",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Three rolls under a weight",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Left the three rolls under a weight",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the weight",
+    "the three rolls",
+    "the altered cue"
+  ],
+  "quotes": []
+}

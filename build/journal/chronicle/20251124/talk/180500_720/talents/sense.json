@@ -1,0 +1,84 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Richard Quiney stood the wine because the brief is granted. He said granted, not gathered: the paper may go through the shires, and what comes back is another matter. Before the capon was carved he laid one pound on the board, part of the August two, for he would not sup on a debt. You counted it, and you said one pound is still owed. He gave the news of Henley Street, improved. Your father was up a ladder at the new barns, past sixty, giving orders, and the men obeyed. The elder girl reads to the Sadlers of a Sunday. The younger sang at the Hallowmas supper and was asked twice. The boy ran to Shottery and back while Quiney was still finding his hat. You said he had improved the story, and you did not add to it. The rest of the money waited until the capon was carved.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the pound, and refused to improve the story further.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Quiney",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood the wine, repaid one pound, and told the four heads of the house.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the brief",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Granted, before the capon",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "one pound still owed",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Granted, before the capon",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Henley Street",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Granted, before the capon",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Took one pound back and heard the Henley Street news",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Quiney",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "granted not gathered",
+    "one pound back",
+    "the ladder",
+    "the four heads of the house"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_quiney",
+      "text": "Granted. The paper may go through the shires now."
+    },
+    {
+      "speaker": "richard_quiney",
+      "text": "And I'll not sup on a debt."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "You have improved the story."
+    }
+  ]
+}

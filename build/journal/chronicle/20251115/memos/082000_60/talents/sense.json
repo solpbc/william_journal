@@ -1,0 +1,67 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You set his two hundred against the twenty you counted. You left the two pounds from August where they are, still owed, and you did not lend. The news of home was a little better in the telling. The supper has no day. Anne's letter is still unanswered.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said it, and did not go to the coffer.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the August loan",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The two pounds stay out",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Anne's letter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The two pounds stay out",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Said the two pounds stay out",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twenty against two hundred",
+    "the two pounds",
+    "the supper not dated",
+    "the letter unanswered"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The two pounds stay out. I did not ask them, and I will not lend."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The supper has no day."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The letter is still on the board. No answer."
+    }
+  ]
+}

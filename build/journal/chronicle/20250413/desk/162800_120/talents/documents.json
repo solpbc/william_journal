@@ -1,0 +1,44 @@
+{
+  "overview": "The tables still said one answer. You did not write the answer under it. You sent no letter.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the two words, and wrote none."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "one answer",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the tables",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no letter",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Looked at the two words on the tables"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-13",
+      "meaning": "One answer, still"
+    }
+  ],
+  "summary": "Looked at the two words on the tables"
+}

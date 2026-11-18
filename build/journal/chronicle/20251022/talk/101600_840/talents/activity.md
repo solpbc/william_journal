@@ -1,0 +1,1 @@
+Nick came in from the yard with the old line still unsaid. You told him to leave it in his head and not to forget it. Humphrey left the weight on the rolls. John sent you home to dinner and set paint for two. The eightpence stayed the only new line in the book.

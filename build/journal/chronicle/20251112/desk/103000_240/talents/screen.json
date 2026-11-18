@@ -1,0 +1,23 @@
+{
+  "narrative": "Garnish's plot-sheet on the book-keeper's board. Three lines already. The fifty leaves weighted with a stone. His hand is in the frame. No face of yours.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the plot and did not take it back."
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "context": "Had begun the boxes."
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "context": "Shown on plot in What Garnish will box"
+    }
+  ]
+}

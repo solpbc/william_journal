@@ -1,0 +1,1 @@
+You came out of St Helen's with the household into a hot morning. Master Thwaite had kept to three heads. A man at the porch asked Gillis his birth, and was told Norwich. Sir John left by his own door and said nothing. No order has shut the playhouse. You are to meet the fellows in the morning. Mistress Ansell wanted the front windows shut, and the weather left outside.

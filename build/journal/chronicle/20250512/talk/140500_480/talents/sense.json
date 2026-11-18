@@ -1,0 +1,95 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "James told Allen's figure himself. Four-and-twenty pound a year, where the company pays fourteen, for a term of two years less a month, with a clause about the house after five years that Allen would not explain. You said you have a king coming and that it is long. You did not curse Allen, and you have not seen him. Nothing was agreed. Heminges kept the figure off any sheet of money taken. You played Navarre after. The chest was not in the room.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named four-and-twenty against fourteen, and would pull the house down before paying to have the clause read.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused to call it a bargain, and sent you to be Navarre.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked the length, and would not carry an unread clause into the yard.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put the timber ahead of the curse, and kept the king's purse off Navarre's.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Offered a long king, cursed nobody, and agreed nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nothing agreed",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard four-and-twenty pound and offered a long king",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "James Burbage",
+    "John Heminges",
+    "Thomas Pope",
+    "Richard Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "four-and-twenty pound",
+    "fourteen",
+    "nothing agreed",
+    "a long king"
+  ],
+  "quotes": [
+    {
+      "speaker": "james_burbage",
+      "text": "Allen was civil. He named four-and-twenty pound a year"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have a king coming"
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Nothing is agreed"
+    }
+  ]
+}

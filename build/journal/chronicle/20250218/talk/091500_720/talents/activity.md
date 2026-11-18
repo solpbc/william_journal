@@ -1,0 +1,1 @@
+Nick walked in the watchet gown, sleeves long, and the fifty shillings stayed unpaid. Phillips took Sam through the cuckoo song on the breath. Sam forgot where to stand and kept every note. You set him left of Nick. Kemp stayed quiet for the song. Garnish wrote no total.

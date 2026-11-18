@@ -1,0 +1,44 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "Late in the morning you wrote three sheets and did not finish them. Six tradesmen meet to cast a play. The weaver asks if all the company is here. He would be the lover, and the lady, and then the lion. You wrote the lines you meant Kemp to meet, and you left the rest blank. The head is not on the paper. You did not take the sheets to the Theatre.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote three sheets and left the rest blank.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "three sheets",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three sheets, not finished",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote three sheets and stopped",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three sheets",
+    "the weaver",
+    "the lion",
+    "the head not written"
+  ],
+  "quotes": []
+}

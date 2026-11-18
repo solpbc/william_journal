@@ -1,0 +1,1 @@
+Late, the floor was rushes, sweet-flag, and dried rosemary. Sam was on his knees with a short candle, his back turned three-quarters, searching. A yeoman's scarlet hose stood at the edge of the light. Nothing glinted, and nothing was held up.

@@ -1,0 +1,1 @@
+You placed George two paces inside the pillars for the Worthies, and Heminges let you go at ten minutes to eleven so you could reach Paul's. You asked him to keep Sam out of the east wind. George asked you not to bring another Latin tag back from the churchyard. You said you would bring only English, and none of it for his roll.

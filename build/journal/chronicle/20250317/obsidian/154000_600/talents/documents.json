@@ -1,0 +1,59 @@
+{
+  "overview": "The book took six lines. The sword has no price. The riddle-book is twopence, the ribbons fivepence, and the gloves two shillings and fourpence, which is two shillings and elevenpence laid out. The bay is twelvepence a day and his fodder, and it is not yet had. Saturday's part was not entered again. You wrote no coffer total.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Entered the six lines and stopped."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "six lines",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "two shillings and elevenpence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the bay not yet had",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no coffer total",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "2d riddle-book",
+      "asset_type": "other",
+      "disposition": "Entered six lines in the book"
+    },
+    {
+      "name": "5d ribbons",
+      "asset_type": "other",
+      "disposition": "Entered six lines in the book"
+    },
+    {
+      "name": "2s 4d gloves",
+      "asset_type": "other",
+      "disposition": "Entered six lines in the book"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-17",
+      "meaning": "Six lines"
+    }
+  ],
+  "summary": "Entered six lines in the book"
+}

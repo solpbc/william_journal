@@ -1,0 +1,95 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Heminges named your share as eight-and-twenty shillings, against four-and-thirty last Saturday. James said the house stands, and that was the news. No extra was paid for the slippers. You did not count the chest. Nothing was said of Allen. You left in time to be home for the call.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named eight-and-twenty, refused extras, and shut the book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the house stood, and brought no other news.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused an average, and wanted supper.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Repeated the number, left the chest uncounted, and went home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the share, and kept a second bowl off the sheet.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Claimed the noise, took the same share, and left.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took eight-and-twenty shillings and heard the house stands",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "James Burbage",
+    "Thomas Pope",
+    "William Shakespeare",
+    "Augustine Phillips",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "eight-and-twenty shillings",
+    "last Saturday's four-and-thirty",
+    "the house standing"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Your share, Will, eight-and-twenty shillings"
+    },
+    {
+      "speaker": "james_burbage",
+      "text": "The house stands. That is the news"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not counting the chest in this room"
+    }
+  ]
+}

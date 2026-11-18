@@ -1,0 +1,1 @@
+At home you wrote the three prices you had already paid. Ninepence for the shoes and the heel-piece. Fourpence for the fables. Twopence for the pins. You drew no total, and you did not open the coffer.

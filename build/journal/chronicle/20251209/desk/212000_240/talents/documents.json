@@ -1,0 +1,75 @@
+{
+  "overview": "Burbage gave the crown away with his own hands and washed off his own balm. The three leaves were the ones no public house has heard. He sent for the glass, looked, and dashed it on the boards. The glass was four shillings, the first time and the only time. No one at the table stirred. Sir Robert did not move.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Stood in the scene, and did not prompt the table."
+    },
+    {
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "formal_term": "Richard Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Gave the crown with his own hands, and dashed the glass."
+    },
+    {
+      "name": "Sir Robert Cecil",
+      "role": "visible",
+      "formal_term": "Sir Robert Cecil",
+      "appointment_tier": "not_applicable",
+      "context": "Did not move when the glass broke."
+    },
+    {
+      "name": "Sir Edward Hoby",
+      "role": "visible",
+      "formal_term": "Sir Edward Hoby",
+      "appointment_tier": "not_applicable",
+      "context": "Had his boards dashed, and did not rise to them."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the three leaves",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the crown in his hands",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the glass",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "four shillings",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a still table",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Saw Burbage dash the glass"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-09",
+      "meaning": "Four shillings"
+    }
+  ],
+  "summary": "Saw Burbage dash the glass"
+}

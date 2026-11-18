@@ -1,0 +1,67 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At home you wrote that the lovers stand as the pages stand. A small fierce girl against a tall one: Nick, and Arthur. Arthur has the lines by heart, in case, and nobody tells Nick. The king's chest stayed shut, and this note is not that chest. The ass is not written. You have not written the head.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the pair, and left the head unwritten.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named, and not told.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named as the in case, and not sent for.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A small fierce girl",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the ass's head",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A small fierce girl",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote Nick and Arthur for himself",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Nick against Arthur",
+    "the in case untold",
+    "the head unwritten"
+  ],
+  "quotes": []
+}

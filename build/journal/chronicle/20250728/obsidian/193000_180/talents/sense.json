@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "In the loft you counted the parcels from yesterday and found them the same, the cheese eaten into and nothing added. The left heel was raw. You took the shoes off after the count.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Counted, and then unshod.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Verona sheets",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The same parcels",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Counted the parcels, then took the shoes off",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the same parcels",
+    "the heel",
+    "the shoes"
+  ],
+  "quotes": []
+}

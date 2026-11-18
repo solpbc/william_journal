@@ -1,0 +1,107 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "On the second bay you had the foot of a post with Richard. He lifted from the legs. You lifted from the back, and something in the small of it let go like a snapped lute-string. You did not fall. You stood with your hands on the post while the frame was braced, because it could not be put down again. Your father, from a ladder, asked if you were praying or lifting, and then he saw your face. Anne had been at the edge with a jug since eight. She said nothing kind. You started for home between Richard and Sadler, and you did not stay for the ale.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Lifted from the back, did not fall, and kept his hands on the post.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Lifted from the legs, then kept him on his feet and turned him toward home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called the hold from the ladder, then saw the face.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Sadler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the frame from coming down, and sent the ale to the other men.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said nothing kind, and named the showing off.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the second bay",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The second lift",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the cousin's ale",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The second lift",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Lifted the second bay from the back",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Shakespeare",
+    "William Shakespeare",
+    "Hamnet Sadler",
+    "John Shakespeare",
+    "Anne Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the second bay",
+    "the snapped string",
+    "Anne at the edge",
+    "the frame braced"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_shakespeare",
+      "text": "Hold her! Hold\u2014 Will, are you praying or lifting?"
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Thirty-one, and showing off to carpenters."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am on my feet. I did not fall."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "I have been at the edge since eight, with the jug."
+    }
+  ]
+}

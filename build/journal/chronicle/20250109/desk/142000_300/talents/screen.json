@@ -1,0 +1,17 @@
+{
+  "narrative": "The leaf from last night, in the afternoon light, the lodging quiet because you are not at the play. The half-line stops where it stopped. No new words have been fitted into it. Your hand is at the margin. A new line stands below the blank, not inside it. No song. No last line.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the sentence around the blank and did not fill the blank."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on draft in A twelvemonth, around a blank"
+    }
+  ]
+}

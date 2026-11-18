@@ -1,0 +1,17 @@
+{
+  "narrative": "The tables open on the desk at the lodging. Three lines in his hand. No sum is drawn under them. The coffer is not open, and nothing is packed.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the three lines and closed the book."
+    },
+    {
+      "type": "Tool",
+      "name": "the tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Three prices"
+    }
+  ]
+}

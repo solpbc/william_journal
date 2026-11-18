@@ -1,0 +1,49 @@
+{
+  "overview": "You looked at your part for the afternoon. You are in Two Gentlemen at two. The cues are clean. Brooke stays shut beside the roll. You did not write a line of the other story.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the cues and left the poem shut."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the part",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Two Gentlemen at two",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Brooke shut",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Two Gentlemen of Verona",
+      "asset_type": "other",
+      "disposition": "Checked the cues for Two Gentlemen"
+    },
+    {
+      "name": "Brooke's Romeus and Juliet",
+      "asset_type": "other",
+      "disposition": "Checked the cues for Two Gentlemen"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-02",
+      "meaning": "Two Verona plays on one board"
+    }
+  ],
+  "summary": "Checked the cues for Two Gentlemen"
+}

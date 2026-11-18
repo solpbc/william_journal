@@ -1,0 +1,1 @@
+You walked the close twice and came back to the door. You asked what kept the Mayor from sleeping. You tried one line aloud, heard how grand it sounded through the stopped nose, and laughed at it before you went in.

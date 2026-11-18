@@ -1,0 +1,1 @@
+From a rise in the afternoon you saw London's smoke lying flat and brown along the river, from Westminster to the Tower. Three weeks ago you walked out of it with your head down. Hobbins said she wants everything by Thursday. The string did not pause, and nor did you.

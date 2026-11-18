@@ -1,0 +1,1 @@
+You wrote that you are in the Shrew this afternoon and that the part's name is not going on the leaf. The king's page stays upstairs, away from Kemp. The comedy's book stays with Garnish through tomorrow.

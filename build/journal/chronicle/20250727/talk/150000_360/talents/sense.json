@@ -1,0 +1,98 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "You counted twenty-six pound and eight shillings. Six went into the belt, and twenty pound and eight stayed under two locks. The pack-list ended shorter than either first list. Mistress Ansell asked the plot of walking a hundred miles, and you said a man goes home. Verbeke tied the knot. Alse asked about players, and you said not this month.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted, chose the short list, and answered her.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave a light list, took offence at heavy, and allowed the plot if he arrives.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the list back by ear, and asked about players.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Tied the knot and spoke over it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat on the cloth over Holinshed.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Verona sheets",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Half of it is heavy",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Counted the money and closed the pack",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Sunday count",
+    "the belt and the locks",
+    "the short pack",
+    "the knot"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A hundred miles on your feet, and you with a share in a playhouse! What is the plot of that?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A man goes home, Mistress"
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Then see he arrives, and I'll allow it"
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "Are there players in Warwickshire, sir?"
+    }
+  ]
+}

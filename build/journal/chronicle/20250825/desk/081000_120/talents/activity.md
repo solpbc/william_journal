@@ -1,0 +1,1 @@
+At the lodging you read Monday's leaf. The new moon, then Love's Labour's Lost at the Theatre at two, and you play, and under it the Rose's Knack to know an honest man. You read the Rose's line first.

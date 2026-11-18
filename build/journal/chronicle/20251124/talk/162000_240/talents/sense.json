@@ -1,0 +1,85 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "After the close, John Heminges left the boxes shut until Saturday. You said you had a supper at six and did not want a sum first. Kemp said the jig was eight minutes and that the tally was not his interest today. Heminges said the tally stays shut. You told John you would speak to him in the morning, and you did not say the day out loud. He told you not to bring the boxes to the Bell.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a sum before supper, and put the morning greeting off until tomorrow.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the boxes shut and the tally shut.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named eight minutes, and sent him to one man.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Saturday's reckoning",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The boxes wait till Saturday",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Bell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The boxes wait till Saturday",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Left the boxes for Saturday",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "boxes shut",
+    "eight minutes of jig",
+    "the tally shut",
+    "six o'clock"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "I am not opening the boxes."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Eight minutes, and I am off the stage."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "The tally stays shut, Will."
+    }
+  ]
+}

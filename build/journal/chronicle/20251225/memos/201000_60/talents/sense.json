@@ -1,0 +1,62 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Alone, you set another table against this one. Nine sit at it. Your stool is back in your father's shop. A grey kerchief should have reached her by now, and you do not know whether it has. You did not write to ask. You stopped.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the nine and the kerchief, and slept on not knowing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not here. The kerchief is for her, and you do not know if it has arrived.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "John Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not here. The shop you named is his.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Thought of nine at the other table",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "nine at the table",
+    "the stool",
+    "the grey kerchief"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "A grey kerchief. It should be there by now. You do not know it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Remember: nine, and the kerchief unseen. \u2026Sleep."
+    }
+  ]
+}

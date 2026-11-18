@@ -1,0 +1,54 @@
+{
+  "overview": "You set thirty-four beside last Saturday's twenty-nine. You wrote that the coffer was not opened, and that it stands as ruled at twenty pound fifteen. You added nothing. Kemp had paid the share with the name. You did not make a new sum.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the share, and did not open the coffer."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "thirty-four",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "twenty-nine",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the coffer not opened",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "twenty pound fifteen",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "thirty-four shillings",
+      "asset_type": "other",
+      "disposition": "Set the share beside the last one"
+    },
+    {
+      "name": "twenty pound fifteen",
+      "asset_type": "other",
+      "disposition": "Set the share beside the last one"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-27",
+      "meaning": "Thirty-four beside twenty-nine"
+    }
+  ],
+  "summary": "Set the share beside the last one"
+}

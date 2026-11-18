@@ -1,0 +1,51 @@
+{
+  "overview": "You copied the heading, and not the body. The tables say unlawful assemblies, and Greenwich, and this fourth of July. The articles underneath stay on the post. Gillis is turned away toward the arch.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Copied two lines and stopped."
+    },
+    {
+      "name": "Gillis Verbeke",
+      "role": "visible",
+      "formal_term": "Gillis Verbeke",
+      "appointment_tier": "not_applicable",
+      "context": "Stood at the edge of the view, turned toward the arch."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the heading copied",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the body left on the post",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Copied the heading onto the tables"
+    },
+    {
+      "name": "the 4 July proclamation",
+      "asset_type": "other",
+      "disposition": "Copied the heading onto the tables"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-04",
+      "meaning": "The heading, on the tables"
+    }
+  ],
+  "summary": "Copied the heading onto the tables"
+}

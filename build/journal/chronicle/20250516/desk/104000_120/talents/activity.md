@@ -1,0 +1,1 @@
+Before you left the Theatre you wrote that a king who listens frights more than one who shouts, and that you are to use it. The three words from Tuesday were still on the tables. The new sentence did not replace them, and it did not become the speech.

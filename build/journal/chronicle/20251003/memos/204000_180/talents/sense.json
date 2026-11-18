@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "The jaw is no better for yesterday's house. You do not go to the barber. You do not name a day for going. Tonight is not the morning you will spend on it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the jaw was unchanged, and did not go.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the tooth",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No better for fame",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stayed in",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "no better for fame",
+    "not tonight",
+    "the jaw unchanged"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "No better for fame."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A hush is not a cure."
+    }
+  ]
+}

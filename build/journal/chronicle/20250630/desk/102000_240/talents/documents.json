@@ -1,0 +1,51 @@
+{
+  "overview": "The forty leaves are open at the hollow crown. The two lines are under your finger. Dick's hand is on the table beside the sheet, and it has not moved. You are reading, not mending.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Held the two lines under a finger and did not revise them."
+    },
+    {
+      "name": "Richard Burbage",
+      "role": "visible",
+      "formal_term": "Richard Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Left his hand flat beside the leaf."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the foul papers",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the two lines",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a hand on the cloth",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Kept the leaf open where the king sits on the ground"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-30",
+      "meaning": "Sit upon the ground"
+    }
+  ],
+  "summary": "Kept the leaf open where the king sits on the ground"
+}

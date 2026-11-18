@@ -1,0 +1,97 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "She had heard no walking for a fortnight, and she asked what you had done. You told the house the whole, since it is finished: a king who thinks the name is the thing, a cousin wronged who comes back and takes everything, a crown handed across, a prison, a coffin. She heard it with her knife down. The cousin reigns, uneasily. She called that indigestion, and a bad example, and she would not show it this month of all months. Verbeke asked who speaks at the end. A groom, and the man who had him killed. Alse asked why he broke the glass. It told him the truth, and she said it was a good glass and he should have kept it. The fellows have not heard it. Kemp was not in the room.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told the whole, and said it is not out of the house.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard it with the knife down, and called it a bad example.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked who speaks at the end, and kept it off the stair.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked about the glass, and said he should have kept it.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A bad example",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A bad example",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Told the house the king and heard it called a bad example",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Gillis Verbeke",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the king told",
+    "a bad example",
+    "the glass"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I have heard no walking for a fortnight."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "That is not punishment, that is indigestion."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A groom. And the man who had him killed."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "Then it was a good glass, and he should've kept it."
+    }
+  ]
+}

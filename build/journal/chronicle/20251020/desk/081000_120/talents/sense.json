@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You reread Friday's slip before you left the house. Sir Thomas is already dead. The question under his name is who pays. You did not answer it on the paper.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the slip and did not write a second line.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the slip",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The slip from Friday",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Reread Friday's slip",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Friday's slip",
+    "Sir Thomas Heneage",
+    "the question of pay"
+  ],
+  "quotes": []
+}

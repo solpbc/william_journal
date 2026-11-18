@@ -1,0 +1,44 @@
+{
+  "overview": "In the afternoon you had Brooke open at the first couplet. The notes were not written yet. A blank leaf lay beside the book, and you had not headed it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the couplet and did not begin the notes."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the first couplet",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a blank leaf",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no heading yet",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Romeus and Juliet",
+      "asset_type": "other",
+      "disposition": "Read the opening couplet"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-06",
+      "meaning": "The first couplet, and no notes yet"
+    }
+  ],
+  "summary": "Read the opening couplet"
+}

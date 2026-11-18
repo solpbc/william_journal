@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "16:10:00", "text": "Dead in the fourth act. The yard is still at it, and it is not at it for me.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:10:16", "text": "Two of the clock, and I was off. That will do for the day.", "timing": {"end": 26.0, "start": 16.0}}

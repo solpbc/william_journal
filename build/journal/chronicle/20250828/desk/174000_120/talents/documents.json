@@ -1,0 +1,49 @@
+{
+  "overview": "After Egeon you wrote Friday in the almanac. The Rose's bill is Longshanks, and under it you wrote that you mean the yard.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the two lines and shut the book."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the almanac",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Longshanks",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the yard",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Longshanks",
+      "asset_type": "other",
+      "disposition": "Marked Friday for the yard"
+    },
+    {
+      "name": "the Rose",
+      "asset_type": "other",
+      "disposition": "Marked Friday for the yard"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-28",
+      "meaning": "Friday, in the almanac"
+    }
+  ],
+  "summary": "Marked Friday for the yard"
+}

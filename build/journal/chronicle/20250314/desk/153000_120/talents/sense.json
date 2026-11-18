@@ -1,0 +1,48 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "The post at Bishopsgate carries one title, The Siege of London, and no author's name. You read the title. You do not cross the river.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the title.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Siege of London",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The Siege of London",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read The Siege of London on the post",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a bill",
+    "one title",
+    "no second bill"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The Siege of London"
+    }
+  ]
+}

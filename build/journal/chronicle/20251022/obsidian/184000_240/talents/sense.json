@@ -1,0 +1,51 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "You wrote a page that was not the lines. It said the bundle stayed tied, that the three rolls were not this page, and that the house had been given broth and not the day. It said she was alone, the door shut, and that you had not given her the drink. It said the lines, if they came, would go on a clean leaf, and that you meant to stop before she drank.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the page and left the clean leaf still clean.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the loose leaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Wrote a separate page from the morning's lines",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Wrote a separate page from the morning's lines",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote the stop before the drink",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a page apart",
+    "the door shut",
+    "stopping before the drink"
+  ],
+  "quotes": []
+}

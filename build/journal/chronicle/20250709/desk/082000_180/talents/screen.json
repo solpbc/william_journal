@@ -1,0 +1,17 @@
+{
+  "narrative": "The Italian book Field lent in June is in your hand at the top of the stair. The cover gives you nothing you are willing to say aloud. You are taking it down. You are not opening a play.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Carried the book, and did not name it."
+    },
+    {
+      "type": "Tool",
+      "name": "the Italian book",
+      "role": "mentioned",
+      "context": "Shown on book in Down to the stair, untitled"
+    }
+  ]
+}

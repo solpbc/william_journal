@@ -1,0 +1,145 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "In the yeomen's buttery, over hippocras, the night was told and not played again. You had gone in first on the line, in the paper crown and the old velvet, and you had not looked at the state, and you had seen the white staff and the stillness in the chair. She laughed once, at Pope's Armado, from deep in the chest. Kemp's Costard said what was set down and three lines over, to her face, and her hand lifted. Sincler came on in black at the last, and the hall stayed quiet through Tu-whit to-who until the chair stirred. Bryan said she kept her seat to the songs, as good as a purse and likelier. You refused the likeness as a sum. My lord clapped your shoulder hard enough to rattle what teeth you have left, and left without a word. Nothing was paid. Nick had held under the note.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the entrance and the not-looking, and refused a sum.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the purse as a likeness, and forbade a sentence for my lord.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Confirmed the line was not improved, and that Nick held.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Owned the three lines over and the lifted hand.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Owned the one laugh and did not ask for another.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Sincler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the quiet of the last, and the owl, and the chair stirring.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had a person in the chair, and had heard the laugh.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Henry Carey, 1st Lord Hunsdon",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Clapped the shoulder and left without a word.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Queen Elizabeth",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the buttery. Her laugh, her hand, and the chair were told.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the talk. He had held under the note.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in As good as a purse, and likelier",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Refused to write the night down as paid",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Pope",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Will Kemp",
+    "George Bryan",
+    "John Sincler",
+    "Sam Latchet"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one laugh",
+    "three lines over",
+    "the owl",
+    "no sum"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_pope",
+      "text": "She laughed. Once. Aloud, from deep in the chest, and it was at Armado."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Costard said what is set down. And three lines over, to her face. Her hand lifted."
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "She kept her seat to the songs. That's as good as a purse, and likelier."
+    },
+    {
+      "speaker": "john_sincler",
+      "text": "It stayed quiet through the owl, Tu-whit to-who, until the chair stirred."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Likelier is not a sum. I am not entering one."
+    }
+  ]
+}

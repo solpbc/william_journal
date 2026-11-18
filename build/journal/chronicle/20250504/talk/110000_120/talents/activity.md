@@ -1,0 +1,1 @@
+You stood in the porch with Mistress Ansell and Alse after a long sermon. She kept the one hawthorn bough she had allowed on May Day, and she would not have it improved. Alse had not brought a second. You did not count the heads of the sermon. The book under your cloak waited for the stair.

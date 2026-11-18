@@ -1,0 +1,41 @@
+{
+  "narrative": "The yard, left of the stage, a timber post to lean on. A fair house, not a great one. Henslowe at the stair-foot, eyes on the boxes. On the boards, under the gilt throne hung in the heavens in June, Alleyn in gilded mail. Drums, a pageant, blows given and taken from outside.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Paid a penny and stood left of the stage."
+    },
+    {
+      "type": "Person",
+      "name": "Edward Alleyn",
+      "role": "mentioned",
+      "context": "Played every inch of the first Edward, in gilded mail."
+    },
+    {
+      "type": "Person",
+      "name": "Philip Henslowe",
+      "role": "mentioned",
+      "context": "Stood at the stair-foot, eyes on the boxes."
+    },
+    {
+      "type": "Project",
+      "name": "Longshanks",
+      "role": "mentioned",
+      "context": "Shown on stage in Alleyn, from the yard"
+    },
+    {
+      "type": "Company",
+      "name": "the Rose",
+      "role": "mentioned",
+      "context": "Shown on stage in Alleyn, from the yard"
+    },
+    {
+      "type": "Tool",
+      "name": "a penny",
+      "role": "mentioned",
+      "context": "Shown on stage in Alleyn, from the yard"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+You stood at the tiring-house door for Phillips's jig of the slippers. Kemp had the stage for a quarter of an hour. Arthur was the scold, Sam the prentice who stole the shoes, Phillips the cittern, and a tabor boy beside him. The yard would not let Kemp off.

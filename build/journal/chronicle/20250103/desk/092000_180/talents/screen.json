@@ -1,0 +1,17 @@
+{
+  "narrative": "A foul sheet in the morning light, two lines and a wide blank under them. The pen set in the gutter of the sheet, the blank left blank.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the two lines and stopped."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on draft in What can be told"
+    }
+  ]
+}

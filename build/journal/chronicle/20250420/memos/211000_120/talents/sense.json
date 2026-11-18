@@ -1,0 +1,46 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Alone, you refused to improve the answer you gave on the fifth. You named no house and no sum. You sent no letter.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the refusal and stopped.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Did not improve the answer from the fifth",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the unanswered question",
+    "no house",
+    "no letter"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I did not answer well. I will not answer better tonight."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No house. No figure. The beef was good, and that is not a letter."
+    }
+  ]
+}

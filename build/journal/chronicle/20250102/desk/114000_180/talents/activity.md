@@ -1,0 +1,1 @@
+Between the rehearsal and the play you wrote one sentence for Berowne, that he tells them the oath will not live, and that he has not yet said it in words that will stand. You folded the sheet to carry. You marked it for under your arm, and not for the tiring-room.

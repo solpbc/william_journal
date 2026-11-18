@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At home you washed the flour off and refused the boast. You were more fearful a fortnight ago. Tonight you are not. The horses were real. The gallery was Richard's.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Washed, and would not invent a tremble.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in Flour, and not a boast",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Washed the flour off",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the flour washed off",
+    "the fortnight",
+    "no boast"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The fortnight had it, when the cold did;"
+    }
+  ]
+}

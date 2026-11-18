@@ -1,0 +1,104 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Still inside the morning, you ran the Muscovites. Nick and Arthur changed the favours and kept apart. The watchet was not on Nick, and the fifty shillings were still unpaid. Pope waited at the post for the Worthies. Garnish still had no total. You told Burbage to send the rhyme into the yard.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the space, refused the gown for today, and sent the rhyme outward.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Worked the wrong mask, and took the rhyme out of the hangings.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the glove, stood the shorter, and was not in the watchet.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the other favour, and did not stoop.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Waited at the post for the Worthies, shield in hand.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the book, named no line-count, and left the column empty.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Muscovites, and the glove",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed the Muscovites with the favours in the boys' hands",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "Richard Burbage",
+    "Nick Sorrell",
+    "Arthur Meeks",
+    "William Shakespeare",
+    "Thomas Pope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Muscovites",
+    "the favours",
+    "the unpaid gown",
+    "no total"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Fifty shillings is still the mercer's."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "The column beside Costard is still empty."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Let them laugh at the pedant before the messenger comes."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You waited with Alse and did not cut the loaf. You asked her to leave Mistress Ansell the pleasure of finding you early. You named nine, dinner, and the afternoon, and you offered no report of the work. The comb went down on the chest, and then she was on the stair.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Waited at the board before the loaf was cut",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Waited at the board before the loaf was cut",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "visible in Waited at the board before the loaf was cut",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Waited at the board before the loaf was cut",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came down to breakfast before the house was ready",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the uncut loaf",
+    "waiting",
+    "no report"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I would like her to have the pleasure of saying it."
+    }
+  ]
+}

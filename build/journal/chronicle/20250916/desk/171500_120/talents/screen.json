@@ -1,0 +1,23 @@
+{
+  "narrative": "The company book open on the tiring-house table. Heminges's hand has just left two words on a clean line. No sum under them. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Saw the two words go in, and left them."
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "context": "Wrote play on, and looked at it."
+    },
+    {
+      "type": "Tool",
+      "name": "the company book",
+      "role": "mentioned",
+      "context": "Shown on ledger in Two words in the book"
+    }
+  ]
+}

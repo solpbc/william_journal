@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250504",
+    "end": "20250510"
+  },
+  "generated_at": "2025-05-10T22:00:00Z",
+  "days": [
+    {
+      "day": "20250504",
+      "state": "memory",
+      "memory_id": "m-20250504-0"
+    },
+    {
+      "day": "20250505",
+      "state": "memory",
+      "memory_id": "m-20250505-1"
+    },
+    {
+      "day": "20250506",
+      "state": "memory",
+      "memory_id": "m-20250506-2"
+    },
+    {
+      "day": "20250507",
+      "state": "memory",
+      "memory_id": "m-20250507-3"
+    },
+    {
+      "day": "20250508",
+      "state": "memory",
+      "memory_id": "m-20250508-4"
+    },
+    {
+      "day": "20250509",
+      "state": "memory",
+      "memory_id": "m-20250509-5"
+    },
+    {
+      "day": "20250510",
+      "state": "memory",
+      "memory_id": "m-20250510-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250504-0",
+      "key": "mem_20250504_0",
+      "day": "20250504",
+      "text": "One bough, drooping. You left the comedy at Field's. Two words mended. The chronicle stays. You did not write England.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250504/talents/morning_briefing",
+        "briefing_day": "20250504",
+        "refs": [
+          "sol://facets/household/activities/20250504#meeting_110000_120",
+          "sol://facets/household/activities/20250504#meeting_112000_360",
+          "sol://facets/writing/activities/20250504#meeting_121500_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250505-1",
+      "key": "mem_20250505_1",
+      "day": "20250505",
+      "text": "Said there to a hedge. Read the Rose's bill on the post. Played Egeon.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250505/talents/morning_briefing",
+        "briefing_day": "20250505",
+        "refs": [
+          "sol://facets/writing/activities/20250505#memo_052500_120",
+          "sol://facets/company/activities/20250505#frame_060500_180",
+          "sol://facets/writing/activities/20250505#frame_112000_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250506-2",
+      "key": "mem_20250506_2",
+      "day": "20250506",
+      "text": "The book is back. The vowel sits in the front of the mouth. The loaf is a finger and a half short. The slippers are Thursday.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250506/talents/morning_briefing",
+        "briefing_day": "20250506",
+        "refs": [
+          "sol://facets/company/activities/20250506#meeting_091500_480",
+          "sol://facets/writing/activities/20250506#frame_122000_240",
+          "sol://facets/household/activities/20250506#meeting_125000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250507-3",
+      "key": "mem_20250507_3",
+      "day": "20250507",
+      "text": "A thin yard. A lion's skin, and nobody swore a height. Ten shillings the week, which is a number James knows. Under Of Kings, make the talking the labour.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250507/talents/morning_briefing",
+        "briefing_day": "20250507",
+        "refs": [
+          "sol://facets/writing/activities/20250507#frame_101500_240",
+          "sol://facets/company/activities/20250507#frame_170500_180",
+          "sol://facets/company/activities/20250507#meeting_172000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250508-4",
+      "key": "mem_20250508_4",
+      "day": "20250508",
+      "text": "They have Venice now, and Hercules. You went to none of them. Eleven set lines, two hundred bars, a quarter of an hour. The slippers are by the cittern.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250508/talents/morning_briefing",
+        "briefing_day": "20250508",
+        "refs": [
+          "sol://facets/company/activities/20250508#frame_084500_180",
+          "sol://facets/writing/activities/20250508#note_085500_120",
+          "sol://facets/company/activities/20250508#frame_093000_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250509-5",
+      "key": "mem_20250509_5",
+      "day": "20250509",
+      "text": "One speech, walked. Leased out, their word. She called it a hearse. You are the one, in the second act.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250509/talents/morning_briefing",
+        "briefing_day": "20250509",
+        "refs": [
+          "sol://facets/writing/activities/20250509#frame_044000_480",
+          "sol://facets/writing/activities/20250509#memo_051000_60",
+          "sol://facets/household/activities/20250509#meeting_122000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250510-6",
+      "key": "mem_20250510_6",
+      "day": "20250510",
+      "text": "The third act begun, half a sheet. Eight-and-twenty. The house stands. From Holywell, four-and-twenty pound where they pay fourteen. You agreed nothing. You did not write the letter.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250510/talents/morning_briefing",
+        "briefing_day": "20250510",
+        "refs": [
+          "sol://facets/writing/activities/20250510#frame_093000_180",
+          "sol://facets/company/activities/20250510#meeting_165000_480",
+          "sol://facets/company/activities/20250510#call_181000_180"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250504-0",
+      "key": "said_20250504_0",
+      "day": "20250504",
+      "quote": "I said Latin is the only property a player never has to hire. That is the letter.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250504#meeting_121500_480"
+      }
+    },
+    {
+      "id": "s-20250504-1",
+      "key": "said_20250504_1",
+      "day": "20250504",
+      "quote": "I took the sound out of a yard. A yard is a bad French house.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250504#meeting_132500_480"
+      }
+    },
+    {
+      "id": "s-20250505-2",
+      "key": "said_20250505_2",
+      "day": "20250505",
+      "quote": "There. That was to the hedge. The hedge did not answer. Good.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250505#memo_052500_120"
+      }
+    },
+    {
+      "id": "s-20250506-3",
+      "key": "said_20250506_3",
+      "day": "20250506",
+      "quote": "Nobody is punished in the telling I will give at a table. He is tired, and he is believed, and he stops.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250506#meeting_125000_480"
+      }
+    },
+    {
+      "id": "s-20250507-4",
+      "key": "said_20250507_4",
+      "day": "20250507",
+      "quote": "The afternoon was Titus, and I was not in it. A thin yard is no riddle if the river has a new giant.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250507#meeting_172000_480"
+      }
+    },
+    {
+      "id": "s-20250508-5",
+      "key": "said_20250508_5",
+      "day": "20250508",
+      "quote": "A man who cannot keep to eleven set lines keeps time to a hair for two hundred bars.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250508#meeting_172000_480"
+      }
+    },
+    {
+      "id": "s-20250509-6",
+      "key": "said_20250509_6",
+      "day": "20250509",
+      "quote": "I walked it because I will have to breathe it in October. The house was only the house, which is the right size for a breath.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250509#meeting_122000_480"
+      }
+    },
+    {
+      "id": "s-20250510-7",
+      "key": "said_20250510_7",
+      "day": "20250510",
+      "quote": "Tell him I've a king coming. Tell him it's long. Nothing is agreed.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250510#memo_211500_60"
+      }
+    }
+  ]
+}

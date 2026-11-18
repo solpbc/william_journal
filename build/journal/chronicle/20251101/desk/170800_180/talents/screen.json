@@ -1,0 +1,23 @@
+{
+  "narrative": "The account book open at the week. One sum in the received line. The Christmas line has words and no figure. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Entered thirty-five shillings and closed the book on a blank."
+    },
+    {
+      "type": "Company",
+      "name": "thirty-five shillings",
+      "role": "mentioned",
+      "context": "Shown on ledger in Received, and not a balance"
+    },
+    {
+      "type": "Tool",
+      "name": "the account book",
+      "role": "mentioned",
+      "context": "Shown on ledger in Received, and not a balance"
+    }
+  ]
+}

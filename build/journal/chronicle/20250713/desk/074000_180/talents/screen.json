@@ -1,0 +1,17 @@
+{
+  "narrative": "The letter to Anne is on the board, unfolded, as it was on Saturday. No day is written in it. The pen is not near it. The close outside is already bright.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and left it."
+    },
+    {
+      "type": "Tool",
+      "name": "the letter",
+      "role": "mentioned",
+      "context": "Shown on letter in The sheet, still unfolded"
+    }
+  ]
+}

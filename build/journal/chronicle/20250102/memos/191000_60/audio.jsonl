@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "19:10:00", "text": "Mark this. What they cannot out-bellow they will have to out-write.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "19:10:14", "text": "He got the height on a hamper, and the line quieted the room even mocked.", "timing": {"end": 32.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "19:10:32", "text": "Berowne stays under the arm. Not for Richard. Not tonight.", "timing": {"end": 48.0, "start": 32.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "19:10:48", "text": "\u2026", "timing": {"end": 58.0, "start": 48.0}}

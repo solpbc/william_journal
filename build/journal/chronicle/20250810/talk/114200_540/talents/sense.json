@@ -1,0 +1,72 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "On the lime walk Joan had the children at the gate, and Anne let them go ahead. You walked behind Anne and your mother. Nobody made a commentary of the service. Dinner at the Cross was the next thing.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Walked up the lime walk",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Walked up the lime walk",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Walked up the lime walk",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Sadlers' dinner",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Walked up the lime walk",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Sat the service at Holy Trinity",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare",
+    "Mary Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the lime walk",
+    "the children ahead",
+    "dinner next"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "I want ten paces of a path that is not a pie."
+    },
+    {
+      "speaker": "mary_shakespeare",
+      "text": "I am not arriving as a procession with a commentary."
+    }
+  ]
+}

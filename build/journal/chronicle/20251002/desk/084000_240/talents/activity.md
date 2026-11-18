@@ -1,0 +1,1 @@
+At the post by the Bull you read two titles and no author. You read the Rose's first, as you always do. The Disguises is new. Yours promises a king and a tragedy. You went on toward Shoreditch with half a mouth and a clove, not looking back. You do not know, and do not guess, what the Rose's new play brought in.

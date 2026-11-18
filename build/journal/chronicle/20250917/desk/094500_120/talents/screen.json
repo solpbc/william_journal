@@ -1,0 +1,23 @@
+{
+  "narrative": "Two bills on the Bishopsgate post, black-letter, title only, no maker's name on either. His eye has come back to the second. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the second title twice, and did not go across."
+    },
+    {
+      "type": "Project",
+      "name": "The New World's Tragedy",
+      "role": "mentioned",
+      "context": "Shown on bill in Two bills on one post"
+    },
+    {
+      "type": "Project",
+      "name": "Hamlet",
+      "role": "mentioned",
+      "context": "Shown on bill in Two bills on one post"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "overview": "That night you read Daniel against Holinshed with a finger in each. You copied no stanza. Gib stayed on the chronicle.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read with a finger in each, and copied nothing."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Stayed on the chronicle."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "a finger in each",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no stanza copied",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the cat on the chronicle",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Civil Wars",
+      "asset_type": "other",
+      "disposition": "Read Daniel and the chronicle together"
+    },
+    {
+      "name": "the chronicle",
+      "asset_type": "other",
+      "disposition": "Read Daniel and the chronicle together"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-15",
+      "meaning": "A finger in each"
+    }
+  ],
+  "summary": "Read Daniel and the chronicle together"
+}

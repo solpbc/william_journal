@@ -1,0 +1,17 @@
+{
+  "narrative": "The Rose yard before *Long Meg*: penny-standers pressing toward the stage, the flag up, winter afternoon light on the thatch.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Stood in the yard as the press moved toward the stage."
+    },
+    {
+      "type": "Project",
+      "name": "Long Meg of Westminster",
+      "role": "mentioned",
+      "context": "In photo: The yard before"
+    }
+  ]
+}

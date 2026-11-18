@@ -1,0 +1,51 @@
+{
+  "overview": "You wrote the music, the groom, and the men who come to kill him. He dies fighting, which you had not known he would. The coffin is brought to the cousin, who has what he wanted and must now wear it. Gib was still on the chronicle.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the death and the coffin, and did not plan the fight before the line."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Stayed on the Holinshed."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the groom",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the death",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the coffin",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Wrote him dying in a fight, and the coffin to the cousin"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-21",
+      "meaning": "He dies fighting"
+    }
+  ],
+  "summary": "Wrote him dying in a fight, and the coffin to the cousin"
+}

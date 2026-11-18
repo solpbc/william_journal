@@ -1,0 +1,77 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Anne kept the carrier at the eighteenth and did not turn it into a new promise. You said letters, not a chest. The play had stayed tied for nine days. The Monday list was the house, not the play. You meant to write nothing, and by morning you still had not.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the eighteenth, and said the nine days plainly.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the date already given, and did not ask for the bundle.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped the road being rehearsed over porridge.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Saw the knot, and kept the book she already had.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Left the carrier at the eighteenth for letters",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare",
+    "Joan Shakespeare",
+    "Susanna Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the eighteenth",
+    "letters not a chest",
+    "nine days"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The eighteenth. Letters, not a chest"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Nine days, and nothing of the play"
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "I have not grown it into a new promise"
+    }
+  ]
+}

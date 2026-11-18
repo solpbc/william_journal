@@ -1,0 +1,1 @@
+Back in the close the colliers were still unloading sea-coal beside the brine-tubs. You took a turn with a sack because it was there. The frost was on the casks. Alse had her hands on the rope. You are not in the picture.

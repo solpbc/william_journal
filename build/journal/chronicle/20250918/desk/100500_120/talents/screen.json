@@ -1,0 +1,29 @@
+{
+  "narrative": "A quarto open on the stall at the sign of the White Greyhound. Harrison's thumb at the corner of the leaf. Field's finger at the outer margin. Close type down the page. Two words in the margin large enough to take. The rest of the note too small. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the two words, and the names above and below, and the two words again."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "context": "Put the book in his hands, and kept a finger at the margin."
+    },
+    {
+      "type": "Person",
+      "name": "John Harrison",
+      "role": "attendee",
+      "context": "Found the leaf with a stubby thumb."
+    },
+    {
+      "type": "Tool",
+      "name": "Polimanteia",
+      "role": "mentioned",
+      "context": "Shown on book in Two words in the margin"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+You fair-copied a sonnet about a player at a keyboard onto one leaf. The first four lines were the scrap from March. You changed one word in the couplet, from the word that asks for a kiss to the word that refuses it. The leaf has no title, no number and no name. You put it in the folder with the other private leaves.

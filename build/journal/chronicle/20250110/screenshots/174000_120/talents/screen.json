@@ -1,0 +1,23 @@
+{
+  "narrative": "Edith's mended sleeve on the parlour table, the new seam finer than the old. No face. No hand in the square. The doublet's shoulder goes out of the frame. You are not in the picture.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Stood at the table. Not pictured."
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "mentioned",
+      "context": "Her work is the sleeve. Her face is not in the picture."
+    },
+    {
+      "type": "Tool",
+      "name": "the prince's sleeves",
+      "role": "mentioned",
+      "context": "In photo: The sleeve"
+    }
+  ]
+}

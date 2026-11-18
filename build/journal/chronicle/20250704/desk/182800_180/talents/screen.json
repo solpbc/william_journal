@@ -1,0 +1,29 @@
+{
+  "narrative": "The proclamation is on the post, the royal arms at its head. Your tables are open in your left hand. The stylus has the first line and not the articles below. Gillis is at the edge of the view, already turned toward the arch.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Copied two lines and stopped."
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "mentioned",
+      "context": "Stood at the edge of the view, turned toward the arch."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in The heading, on the tables"
+    },
+    {
+      "type": "Tool",
+      "name": "the 4 July proclamation",
+      "role": "mentioned",
+      "context": "Shown on tables in The heading, on the tables"
+    }
+  ]
+}

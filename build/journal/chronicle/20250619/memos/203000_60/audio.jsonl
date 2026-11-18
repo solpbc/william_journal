@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:30:00", "text": "The play at the Theatre was thin, and I was a duke in it.", "timing": {"end": 10.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:30:10", "text": "My father used to tell how on this day, when he was young, whole towns turned out to see the trades play Scripture on waggons, the glovers among them, Herod raging in the street.", "timing": {"end": 28.0, "start": 10.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:30:28", "text": "All gone before I could see it. He tells it as a man tells a fair he was at.", "timing": {"end": 42.0, "start": 28.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "20:30:42", "text": "And now players are a thing the Mayor writes letters about. Same trade. Different day.", "timing": {"end": 52.0, "start": 42.0}}

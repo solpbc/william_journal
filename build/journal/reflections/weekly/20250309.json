@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250309",
+    "end": "20250315"
+  },
+  "generated_at": "2025-03-15T22:00:00Z",
+  "days": [
+    {
+      "day": "20250309",
+      "state": "memory",
+      "memory_id": "m-20250309-0"
+    },
+    {
+      "day": "20250310",
+      "state": "memory",
+      "memory_id": "m-20250310-1"
+    },
+    {
+      "day": "20250311",
+      "state": "memory",
+      "memory_id": "m-20250311-2"
+    },
+    {
+      "day": "20250312",
+      "state": "memory",
+      "memory_id": "m-20250312-3"
+    },
+    {
+      "day": "20250313",
+      "state": "memory",
+      "memory_id": "m-20250313-4"
+    },
+    {
+      "day": "20250314",
+      "state": "memory",
+      "memory_id": "m-20250314-5"
+    },
+    {
+      "day": "20250315",
+      "state": "memory",
+      "memory_id": "m-20250315-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250309-0",
+      "key": "mem_20250309_0",
+      "day": "20250309",
+      "text": "Anne's letter mentioned your father's 14s 6d debt at the whittawer's in a postscript. You missed it in the Bell's yard and found it at the board in your lodging.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250309/talents/morning_briefing",
+        "briefing_day": "20250309",
+        "refs": [
+          "sol://facets/household/activities/20250309#meeting_093000_600",
+          "sol://facets/stratford/activities/20250309#frame_160000_360",
+          "sol://facets/stratford/activities/20250309#note_161000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250310-1",
+      "key": "mem_20250310_1",
+      "day": "20250310",
+      "text": "You did not measure the stage for Nick.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250310/talents/morning_briefing",
+        "briefing_day": "20250310",
+        "refs": [
+          "sol://facets/company/activities/20250310#meeting_083000_480",
+          "sol://facets/company/activities/20250310#meeting_094500_480",
+          "sol://facets/household/activities/20250310#meeting_172000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250311-2",
+      "key": "mem_20250311_2",
+      "day": "20250311",
+      "text": "The 14s 6d whittawer's bill on Gilbert's ticket is the same debt Anne mentioned in Sunday's postscript.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250311/talents/morning_briefing",
+        "briefing_day": "20250311",
+        "refs": [
+          "sol://facets/stratford/activities/20250311#frame_061500_180",
+          "sol://facets/writing/activities/20250311#frame_113000_480",
+          "sol://facets/writing/activities/20250311#note_134000_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20250312-3",
+      "key": "mem_20250312_3",
+      "day": "20250312",
+      "text": "Kemp's nine added lines went into the book, and his exit cue is now the cap on the ninth line.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250312/talents/morning_briefing",
+        "briefing_day": "20250312",
+        "refs": [
+          "sol://facets/company/activities/20250312#frame_100000_240",
+          "sol://facets/company/activities/20250312#meeting_101500_720",
+          "sol://facets/writing/activities/20250312#note_203000_300"
+        ]
+      }
+    },
+    {
+      "id": "m-20250313-4",
+      "key": "mem_20250313_4",
+      "day": "20250313",
+      "text": "The ticket is a hundred shillings, called near. It stayed in the sleeve.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250313/talents/morning_briefing",
+        "briefing_day": "20250313",
+        "refs": [
+          "sol://facets/writing/activities/20250313#frame_073000_300",
+          "sol://facets/household/activities/20250313#meeting_121000_600",
+          "sol://facets/writing/activities/20250313#note_211000_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20250314-5",
+      "key": "mem_20250314_5",
+      "day": "20250314",
+      "text": "Raye brought back three hundred and twenty-five elm boards, at twenty-four shillings, and the lime-tubs.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250314/talents/morning_briefing",
+        "briefing_day": "20250314",
+        "refs": [
+          "sol://facets/writing/activities/20250314#frame_082000_240",
+          "sol://facets/company/activities/20250314#frame_153000_120",
+          "sol://facets/company/activities/20250314#meeting_153500_600"
+        ]
+      }
+    },
+    {
+      "id": "m-20250315-6",
+      "key": "mem_20250315_6",
+      "day": "20250315",
+      "text": "The wherry was twopence a man. The bag held twenty pound. Your part is thirty-seven shillings and sixpence, entered as received.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250315/talents/morning_briefing",
+        "briefing_day": "20250315",
+        "refs": [
+          "sol://facets/company/activities/20250315#meeting_073000_480",
+          "sol://facets/company/activities/20250315#meeting_091000_600",
+          "sol://facets/company/activities/20250315#meeting_114000_420"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250309-0",
+      "key": "said_20250309_0",
+      "day": "20250309",
+      "quote": "Fourteen and six, and it need not trouble me. It's meant to.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250309#memo_164000_60"
+      }
+    },
+    {
+      "id": "s-20250310-1",
+      "key": "said_20250310_1",
+      "day": "20250310",
+      "quote": "It is the ink he objects to. Ink pins a man to Tuesday's joke on Thursday.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250310#meeting_094500_480"
+      }
+    },
+    {
+      "id": "s-20250311-2",
+      "key": "said_20250311_2",
+      "day": "20250311",
+      "quote": "Five pound is the ticket. Near is your word. I will keep both, and pay neither tonight.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250311#call_184000_300"
+      }
+    },
+    {
+      "id": "s-20250312-3",
+      "key": "said_20250312_3",
+      "day": "20250312",
+      "quote": "I will remember an empty house. Empty is an honest audience. It does not pay.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250312#meeting_101500_720"
+      }
+    },
+    {
+      "id": "s-20250313-4",
+      "key": "said_20250313_4",
+      "day": "20250313",
+      "quote": "A notch cut in a good year is a hard judge of March.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250313#meeting_121000_600"
+      }
+    },
+    {
+      "id": "s-20250314-5",
+      "key": "said_20250314_5",
+      "day": "20250314",
+      "quote": "A conscience needs no elm boards.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250314#meeting_153500_600"
+      }
+    },
+    {
+      "id": "s-20250315-6",
+      "key": "said_20250315_6",
+      "day": "20250315",
+      "quote": "Pay it by the share and we'll all go to dinner equally wronged.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250315#meeting_114000_420"
+      }
+    },
+    {
+      "id": "s-20250315-7",
+      "key": "said_20250315_7",
+      "day": "20250315",
+      "quote": "I've a king wants writing, and nowhere in Stratford to put him.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250315#meeting_114000_420"
+      }
+    }
+  ]
+}

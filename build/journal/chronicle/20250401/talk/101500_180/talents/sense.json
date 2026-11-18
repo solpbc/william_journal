@@ -1,0 +1,94 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Anne went by the baker's. Hamnet had the morning on his grandfather's word and walked backward, reciting Latin nouns to make Judith laugh. Susanna named two shop-signs that were new since last year. You told him the sword may cross the lane and must come home.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept Hamnet off the trough, and limited the sword to the walk.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Went by the baker's to meet them at the frames.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the two new signs.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Walked backward through the nouns for Judith.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Required the plural before she would count it.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the lath sword",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Leave from school",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Set out with the three children",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare",
+    "Hamnet Shakespeare",
+    "Judith Shakespeare",
+    "Susanna Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the morning's leave",
+    "Latin nouns",
+    "two new signs"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Meet me by the new frames, and keep out of the lime."
+    },
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "The shearman's board by the corner is new painted since last year"
+    },
+    {
+      "speaker": "hamnet_shakespeare",
+      "text": "I can say the whole table walking backward to the corner."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You walked the close twice and came back to the door. You asked what kept the Mayor from sleeping. You tried one line aloud, heard how grand it sounded through the stopped nose, and laughed at it before you went in.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the memo from the door, laughed, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named as the Mayor whose window was lit. Not seen and not addressed.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Crosby Place",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in What keeps him",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Laughed at a line and came in",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the walk",
+    "the Mayor's window",
+    "a line that sounded grand"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I walked the close twice."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "What keeps him from sleeping?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The nose made it grand. I laughed."
+    }
+  ]
+}

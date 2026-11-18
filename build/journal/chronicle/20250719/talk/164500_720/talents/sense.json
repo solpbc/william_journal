@@ -1,0 +1,120 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "The share was seventeen shillings, received. You wrote no total. Last Saturday's fourteen was not added. The five pound agreed on Thursday was not paid out of this share. John set next week: Monday and Wednesday Two Gentlemen, and you play; Tuesday rehearsal at nine and Love's Labour's Lost, and you play; Friday Love's Labour's Lost, and you play; Saturday Errors, and you play. Thursday was not set. James will not rest until he has seen the goldsmith's timber. You are going on the river. You will not land.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said received, and refused a total.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said seventeen once, and read the bills.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Would not rest until he had seen the building.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Cuthbert Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the five pound out of the seventeen, and refused a landing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the afternoon's man unnamed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left Thursday off the cloth.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Two Gentlemen of Verona",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Seventeen shillings",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Seventeen shillings",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Seventeen shillings",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Received seventeen shillings",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "James Burbage",
+    "Cuthbert Burbage",
+    "Richard Burbage",
+    "George Bryan"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "seventeen shillings",
+    "no total",
+    "next week's bills",
+    "the river"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Seventeen shillings. I will say the figure once"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Write it received. I am not writing a total under it"
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "No total. Last Saturday's fourteen stays last Saturday's"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+When the sign was on all three rolls, Nick spoke the new cue once, to the paper, too low for the words to carry. Humphrey said the mouthful matched what he had just written. John would not have it spoken again. The old line stayed in Nick's head. You sent him into the yard and told him not to gather a second opinion. The ink was left under the weight.

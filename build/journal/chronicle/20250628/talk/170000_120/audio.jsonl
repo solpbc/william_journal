@@ -1,0 +1,7 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "john_heminges", "start": "17:00:00", "text": "Two minutes. Eight shillings a share. I am not stretching a reckoning that has already come to its number.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "margery_pell", "start": "17:00:16", "text": "Eight shillings. I stood the stair. I am not putting a second figure beside that one.", "timing": {"end": 32.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "17:00:32", "text": "Eight shillings, received. I am not making it a total, and I am not opening a coffer in a tiring-house.", "timing": {"end": 48.0, "start": 32.0}}
+{"sentence_id": 4, "speaker": "john_heminges", "start": "17:00:48", "text": "Received. Not a balance. The two minutes are done.", "timing": {"end": 62.0, "start": 48.0}}
+{"sentence_id": 5, "speaker": "margery_pell", "start": "17:01:02", "text": "Then let them be done. I am still in the house if you need the stair. You do not need it for eight shillings.", "timing": {"end": 78.0, "start": 62.0}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "17:01:18", "text": "We do not. God give you the two minutes back. There is another matter, and it is not this one.", "timing": {"end": 88.0, "start": 78.0}}

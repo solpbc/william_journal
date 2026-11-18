@@ -1,0 +1,76 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You came down and ate. Mistress Ansell had a jug in her hand and asked only whether you were alive. You told her you were not in the Shrew and were not going, and that the king was not finished. You did not tell the plot. Alse asked for a line and did not get one.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate, refused a line to Alse, and stayed in.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Checked that he was alive, and did not press for the plot.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for a line and was refused.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Shrew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Dinner, and not the plot",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Dinner, and not the plot",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate and left the king upstairs",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "dinner",
+    "the Shrew",
+    "the plot kept back"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I asked if you were alive. Mark me, that was the question."
+    }
+  ]
+}

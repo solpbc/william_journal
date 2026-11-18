@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250608",
+    "end": "20250614"
+  },
+  "generated_at": "2025-06-14T22:00:00Z",
+  "days": [
+    {
+      "day": "20250608",
+      "state": "memory",
+      "memory_id": "m-20250608-0"
+    },
+    {
+      "day": "20250609",
+      "state": "memory",
+      "memory_id": "m-20250609-1"
+    },
+    {
+      "day": "20250610",
+      "state": "memory",
+      "memory_id": "m-20250610-2"
+    },
+    {
+      "day": "20250611",
+      "state": "memory",
+      "memory_id": "m-20250611-3"
+    },
+    {
+      "day": "20250612",
+      "state": "memory",
+      "memory_id": "m-20250612-4"
+    },
+    {
+      "day": "20250613",
+      "state": "memory",
+      "memory_id": "m-20250613-5"
+    },
+    {
+      "day": "20250614",
+      "state": "memory",
+      "memory_id": "m-20250614-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250608-0",
+      "key": "mem_20250608_0",
+      "day": "20250608",
+      "text": "Master Thwaite set the glass down after one turning, and then read a portion of the Homily against Disobedience and Wilful Rebellion.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250608/talents/morning_briefing",
+        "briefing_day": "20250608",
+        "refs": [
+          "sol://facets/household/activities/20250608#meeting_080500_480",
+          "sol://facets/household/activities/20250608#meeting_092000_720",
+          "sol://facets/writing/activities/20250608#meeting_123000_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20250609-1",
+      "key": "mem_20250609_1",
+      "day": "20250609",
+      "text": "Garnish stopped at fifteen. Margery said they laughed like men who mean to laugh at something else after. Richard shrugged. You kept her sentence.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250609/talents/morning_briefing",
+        "briefing_day": "20250609",
+        "refs": [
+          "sol://facets/household/activities/20250609#meeting_081500_360",
+          "sol://facets/company/activities/20250609#frame_111000_240",
+          "sol://facets/company/activities/20250609#meeting_160500_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20250610-2",
+      "key": "mem_20250610_2",
+      "day": "20250610",
+      "text": "The deposition is three sheets on the board.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250610/talents/morning_briefing",
+        "briefing_day": "20250610",
+        "refs": [
+          "sol://facets/writing/activities/20250610#frame_035000_240",
+          "sol://facets/writing/activities/20250610#frame_051500_240",
+          "sol://facets/writing/activities/20250610#note_074000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250611-3",
+      "key": "mem_20250611_3",
+      "day": "20250611",
+      "text": "Two Gentlemen was an ordinary house. You marked the full moon.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250611/talents/morning_briefing",
+        "briefing_day": "20250611",
+        "refs": [
+          "sol://facets/household/activities/20250611#meeting_082000_300",
+          "sol://facets/company/activities/20250611#frame_110000_180",
+          "sol://facets/company/activities/20250611#meeting_161000_300"
+        ]
+      }
+    },
+    {
+      "id": "m-20250612-4",
+      "key": "mem_20250612_4",
+      "day": "20250612",
+      "text": "The order is two sleeves, six shillings, payment on delivery. The sentence, if anyone asks, is Norwich. Nobody came.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250612/talents/morning_briefing",
+        "briefing_day": "20250612",
+        "refs": [
+          "sol://facets/company/activities/20250612#meeting_090500_720",
+          "sol://facets/company/activities/20250612#frame_104000_180",
+          "sol://facets/household/activities/20250612#meeting_123000_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20250613-5",
+      "key": "mem_20250613_5",
+      "day": "20250613",
+      "text": "By the telling that reached the window, about three hundred apprentices sold the sellers' butter at threepence and paid the money over.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250613/talents/morning_briefing",
+        "briefing_day": "20250613",
+        "refs": [
+          "sol://facets/household/activities/20250613#meeting_082000_300",
+          "sol://facets/writing/activities/20250613#frame_111500_240",
+          "sol://facets/company/activities/20250613#frame_141000_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250614-6",
+      "key": "mem_20250614_6",
+      "day": "20250614",
+      "text": "Leadenhall cried butter at fourpence. The loaf is a thumb short of the notch. The flag was up for the Shrew, and the yard was thin.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250614/talents/morning_briefing",
+        "briefing_day": "20250614",
+        "refs": [
+          "sol://facets/company/activities/20250614#call_073000_240",
+          "sol://facets/household/activities/20250614#photo_084000_180",
+          "sol://facets/household/activities/20250614#photo_093000_120"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250608-0",
+      "key": "said_20250608_0",
+      "day": "20250608",
+      "quote": "Forty pence is a hired man's supper and a week's regret.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250608#meeting_123000_720"
+      }
+    },
+    {
+      "id": "s-20250608-1",
+      "key": "said_20250608_1",
+      "day": "20250608",
+      "quote": "Whitsun. She looked, or she looked at the window. Leave it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250608#memo_214000_60"
+      }
+    },
+    {
+      "id": "s-20250609-2",
+      "key": "said_20250609_2",
+      "day": "20250609",
+      "quote": "The hush came late and broke early.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250609#memo_212000_120"
+      }
+    },
+    {
+      "id": "s-20250610-3",
+      "key": "said_20250610_3",
+      "day": "20250610",
+      "quote": "The cat has chosen the deposition. A critic.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250610#memo_211000_60"
+      }
+    },
+    {
+      "id": "s-20250612-4",
+      "key": "said_20250612_4",
+      "day": "20250612",
+      "quote": "That is fair. I am sorry I made a speech of it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250612#meeting_090500_720"
+      }
+    },
+    {
+      "id": "s-20250613-5",
+      "key": "said_20250613_5",
+      "day": "20250613",
+      "quote": "They paid. That's the thing. They didn't steal it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250613#memo_170000_120"
+      }
+    },
+    {
+      "id": "s-20250613-6",
+      "key": "said_20250613_6",
+      "day": "20250613",
+      "quote": "A just price sounds different depending on whether you buy or sell.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250613#memo_170000_120"
+      }
+    },
+    {
+      "id": "s-20250614-7",
+      "key": "said_20250614_7",
+      "day": "20250614",
+      "quote": "We play. An old comedy. Nothing with a crowd in it, and nothing with a crown.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250614#call_073000_240"
+      }
+    }
+  ]
+}

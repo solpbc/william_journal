@@ -1,0 +1,1 @@
+By the time the pane was grey the sheet had come down to the woes, and the nurse was at the door. Eighty lines. Your own candle was at the socket. No lark had sung. The noise outside was rooks. You did not copy the sheet fair, and you did not tie it.

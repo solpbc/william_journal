@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250824",
+    "end": "20250830"
+  },
+  "generated_at": "2025-08-30T22:00:00Z",
+  "days": [
+    {
+      "day": "20250824",
+      "state": "memory",
+      "memory_id": "m-20250824-0"
+    },
+    {
+      "day": "20250825",
+      "state": "memory",
+      "memory_id": "m-20250825-1"
+    },
+    {
+      "day": "20250826",
+      "state": "memory",
+      "memory_id": "m-20250826-2"
+    },
+    {
+      "day": "20250827",
+      "state": "memory",
+      "memory_id": "m-20250827-3"
+    },
+    {
+      "day": "20250828",
+      "state": "memory",
+      "memory_id": "m-20250828-4"
+    },
+    {
+      "day": "20250829",
+      "state": "memory",
+      "memory_id": "m-20250829-5"
+    },
+    {
+      "day": "20250830",
+      "state": "memory",
+      "memory_id": "m-20250830-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250824-0",
+      "key": "mem_20250824_0",
+      "day": "20250824",
+      "text": "The gingerbread went to Alse, one of them with gilt. Mistress Ansell said fairings rot the teeth. The back complained from the fourth hour. Tomorrow you play Navarre.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250824/talents/morning_briefing",
+        "briefing_day": "20250824",
+        "refs": [
+          "sol://facets/company/activities/20250824#meeting_134500_720",
+          "sol://facets/company/activities/20250824#photo_150000_60",
+          "sol://facets/company/activities/20250824#meeting_153000_840"
+        ]
+      }
+    },
+    {
+      "id": "m-20250825-1",
+      "key": "mem_20250825_1",
+      "day": "20250825",
+      "text": "Fifty-two shillings in Margery Pell's box, and the lawyers missed it. Fourteen lines, and a broken pen. Raye may bank on both sides of the water. The letter is still ahead.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250825/talents/morning_briefing",
+        "briefing_day": "20250825",
+        "refs": [
+          "sol://facets/company/activities/20250825#frame_081000_120",
+          "sol://facets/company/activities/20250825#frame_100300_60",
+          "sol://facets/company/activities/20250825#photo_140500_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250826-2",
+      "key": "mem_20250826_2",
+      "day": "20250826",
+      "text": "The strap is still long. You played Egeon. Nine in the morning is the king, and the afternoon's Titus is the company's.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250826/talents/morning_briefing",
+        "briefing_day": "20250826",
+        "refs": [
+          "sol://facets/company/activities/20250826#frame_083000_180",
+          "sol://facets/household/activities/20250826#meeting_122000_480",
+          "sol://facets/company/activities/20250826#frame_140500_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250827-3",
+      "key": "mem_20250827_3",
+      "day": "20250827",
+      "text": "Kemp took the jig as a groat in settlement of a pound. After the basket, you played Gaunt from a stool. You came home by every wall.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250827/talents/morning_briefing",
+        "briefing_day": "20250827",
+        "refs": [
+          "sol://facets/company/activities/20250827#frame_090000_180",
+          "sol://facets/company/activities/20250827#meeting_091000_720",
+          "sol://facets/company/activities/20250827#meeting_100500_840"
+        ]
+      }
+    },
+    {
+      "id": "m-20250828-4",
+      "key": "mem_20250828_4",
+      "day": "20250828",
+      "text": "Four lines that admired the window are out. You shut the casement, and the air went with the noise. You marked the Rose yard for Friday.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250828/talents/morning_briefing",
+        "briefing_day": "20250828",
+        "refs": [
+          "sol://facets/writing/activities/20250828#frame_082000_720",
+          "sol://facets/writing/activities/20250828#photo_085000_60",
+          "sol://facets/writing/activities/20250828#memo_091500_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250829-5",
+      "key": "mem_20250829_5",
+      "day": "20250829",
+      "text": "Their king is all is. Yours is all seems. Five weeks. You went to learn Alleyn's inches, and you saved the penny on the way home.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250829/talents/morning_briefing",
+        "briefing_day": "20250829",
+        "refs": [
+          "sol://facets/company/activities/20250829#frame_141500_480",
+          "sol://facets/writing/activities/20250829#frame_155000_120",
+          "sol://facets/company/activities/20250829#meeting_162000_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250830-6",
+      "key": "mem_20250830_6",
+      "day": "20250830",
+      "text": "The share is six-and-twenty shillings, the first since July, and the coffer is still twenty pound fifteen. Monday at two is The Shrew. You were in bed at nine.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250830/talents/morning_briefing",
+        "briefing_day": "20250830",
+        "refs": [
+          "sol://facets/stratford/activities/20250830#note_093000_120",
+          "sol://facets/company/activities/20250830#frame_140500_120",
+          "sol://facets/company/activities/20250830#meeting_165000_900"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250824-0",
+      "key": "said_20250824_0",
+      "day": "20250824",
+      "quote": "I had bought them before I thought.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250824#meeting_153000_840"
+      }
+    },
+    {
+      "id": "s-20250825-1",
+      "key": "said_20250825_1",
+      "day": "20250825",
+      "quote": "The oath is three years, and it sounded like a life.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250825#memo_173000_60"
+      }
+    },
+    {
+      "id": "s-20250825-2",
+      "key": "said_20250825_2",
+      "day": "20250825",
+      "quote": "The letter is still unwritten.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250825#memo_173000_60"
+      }
+    },
+    {
+      "id": "s-20250826-3",
+      "key": "said_20250826_3",
+      "day": "20250826",
+      "quote": "A long strap is an honest fault.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250826#meeting_122000_480"
+      }
+    },
+    {
+      "id": "s-20250827-4",
+      "key": "said_20250827_4",
+      "day": "20250827",
+      "quote": "There is no place in it, Will, where a man could laugh and the king still stand.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250827#meeting_091000_720"
+      }
+    },
+    {
+      "id": "s-20250828-5",
+      "key": "said_20250828_5",
+      "day": "20250828",
+      "quote": "I shut it. The words stopped. The air stopped with them. I want the air back, and I will not have the prentice with it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250828#memo_091500_120"
+      }
+    },
+    {
+      "id": "s-20250829-6",
+      "key": "said_20250829_6",
+      "day": "20250829",
+      "quote": "Their king is all is. Mine is all seems. Five weeks.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250829#memo_183000_120"
+      }
+    },
+    {
+      "id": "s-20250830-7",
+      "key": "said_20250830_7",
+      "day": "20250830",
+      "quote": "It is near nine. The week has been long. Tomorrow, after the bells, the letter.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250830#memo_204500_60"
+      }
+    }
+  ]
+}

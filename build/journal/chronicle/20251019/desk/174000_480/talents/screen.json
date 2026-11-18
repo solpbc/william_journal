@@ -1,0 +1,23 @@
+{
+  "narrative": "A fair leaf on the board, candlelight, the red thread lying ready and not yet knotted. No face. The same leaf, lower. The hand is not in the frame. A cross sits in the margin where a speech still wants the actors, and the word finished is not written. The cross, and no other word beside it. The leaf is fair. The mark is a rehearsal mark. The private-verse folder pushed to the far edge of the board. The fair leaves are squared on the near side. Nothing crosses the gap.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Faired the lines and left the rehearsal mark where it was needed."
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' dawn",
+      "role": "mentioned",
+      "context": "Shown on draft in Fair, and not the last"
+    },
+    {
+      "type": "Tool",
+      "name": "the folder of private verse",
+      "role": "mentioned",
+      "context": "Shown on draft in Fair, and not the last"
+    }
+  ]
+}

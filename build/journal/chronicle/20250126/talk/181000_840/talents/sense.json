@@ -1,0 +1,141 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Over Sunday mutton at Holywell, the table had Derby's wedding at Greenwich, the Queen there, the match put off a week while Tilney's office sewed. Bryan gave a great-house night as masque, banquet, and the hall cleared at midnight. Richard asked who plays. Cuthbert said Derby has his own men. You said a wedding wants a play as a feast wants a fool, something light to get the company to bed. James said a wedding wants paying for. Kemp called a wedding an excellent occasion for paying players who have already been paid. Bryan called that an unusual definition of excellent, and said it was the match Southampton was said to have paid dearly to refuse. Nothing was written down.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said a wedding wants a play as a feast wants a fool, and would not write it down.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked who plays, and told you to leave the sentence on the road.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said a wedding wants paying for, and named the twenty pound still not had.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Cuthbert Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said Derby has his own men.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the order of the night, and the Southampton rumour, without a sum.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called it an excellent occasion for paying players who have already been paid.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Tilney",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in A wedding wants paying for",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Queen Elizabeth",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in A wedding wants paying for",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Henry Wriothesley, 3rd Earl of Southampton",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in A wedding wants paying for",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in A wedding wants paying for",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Christmas warrant",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A wedding wants paying for",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Supped at Holywell",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "James Burbage",
+    "Cuthbert Burbage",
+    "George Bryan",
+    "Richard Burbage",
+    "Will Kemp",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Greenwich wedding",
+    "Derby's men",
+    "a play not written",
+    "the unpaid warrant",
+    "Southampton's refusal"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "A wedding wants a play as a feast wants a fool, Dick"
+    },
+    {
+      "speaker": "james_burbage",
+      "text": "A wedding wants paying for"
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "A wedding is an excellent occasion for paying players who have already been paid"
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "That is an unusual definition of excellent;"
+    }
+  ]
+}

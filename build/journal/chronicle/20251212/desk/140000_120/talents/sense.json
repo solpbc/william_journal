@@ -1,0 +1,44 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You read the Rose's bill at the Theatre. The title was New World's Tragedy. It named no author. You did not cross. Your own afternoon was the king, in the book the yard is allowed.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the title, and did not start for the river.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "New World's Tragedy",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in New World's Tragedy",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read New World's Tragedy and stayed for the king",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Rose bill",
+    "New World's Tragedy",
+    "title only",
+    "the cut king waiting"
+  ],
+  "quotes": []
+}

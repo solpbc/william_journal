@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "18:50:00", "text": "Flour off. The sheet is the company's, and the cough in the stable was real.", "timing": {"end": 10.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "18:50:10", "text": "Kemp wanted a tremble. The fortnight had it, when the cold did. I have not got it tonight, and I am not inventing one on the stair. ...Enough.", "timing": {"end": 20.0, "start": 10.0}}

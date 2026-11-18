@@ -1,0 +1,1 @@
+By one candle you wrote the boy's line for her face, then the drug, the kiss, and five words you did not copy out. You wrote her waking, the Friar's fear, the watch, and the dagger given its sheath. You stopped with the families still to be fetched. You did not walk. Gib was in the room and not on the sheet.

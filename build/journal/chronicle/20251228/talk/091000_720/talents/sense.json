@@ -1,0 +1,141 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You kept morning prayer at the inn's long table. You named the night as the old play, once, a year to the day, and you refused to improve Egeon. Kemp started the Greenwich dog and Bryan stopped him with the old sentence. Phillips kept Nick under the note. No jig has been left yet. Heminges has no purse and no sum, and the two cloaks are still waiting on a yeoman and a light.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the year and the one night, and refused to improve the tale.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept prayer in its place, and stopped the dog.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Started the dog, and then held it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the old play once, and would not help the laugh.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept Nick under the note, and kept the morning from becoming a chorus.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told you to give the tale and come off.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a receipt, and kept the cloaks for a real count.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "In the room, under the note, and not singing.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named as carrying what he is given, and not searching.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Henry Carey, 1st Lord Hunsdon",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the room. His content has not arrived.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Morning prayer at the inn",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Kept morning prayer at the table and named the old play once",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "George Bryan",
+    "Will Kemp",
+    "Thomas Pope",
+    "Augustine Phillips",
+    "Richard Burbage",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "morning prayer",
+    "the one Sunday",
+    "the old play once",
+    "no purse yet"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "A year to the day. Tonight is the old play, once."
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "She heard the dog at Greenwich. One does not tell her Majesty the same dog twice."
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "Happiness is still not a licence."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "If my lord is content he will send a man. He has not sent one."
+    }
+  ]
+}

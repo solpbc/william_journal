@@ -1,0 +1,49 @@
+{
+  "overview": "At two you played Egeon in The Comedy of Errors, the third time this week. He opens, and he sits until the end. The reckoning is after.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Played Egeon at two."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "The Comedy of Errors",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Egeon",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the reckoning after",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Comedy of Errors",
+      "asset_type": "other",
+      "disposition": "Played Egeon before the reckoning"
+    },
+    {
+      "name": "the Theatre",
+      "asset_type": "other",
+      "disposition": "Played Egeon before the reckoning"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-30",
+      "meaning": "Errors, then the cloth"
+    }
+  ],
+  "summary": "Played Egeon before the reckoning"
+}

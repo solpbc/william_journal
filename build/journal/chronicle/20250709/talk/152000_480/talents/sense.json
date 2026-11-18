@@ -1,0 +1,84 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Dead by the fourth act, you stood at the tiring-house door. Margery had twenty-six shillings in her stair and will not see a black gown till Michaelmas. Sly had the Admiral's men in Kent or the west and would not choose. You kept tomorrow at ten, and you did not follow the mules.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named tomorrow at ten, and chose no shire.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted twenty-six shillings, and kept them.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Sly",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Offered Kent or the west, and refused to marry them.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Titus Andronicus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twenty-six, and a shire he will not choose",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "St John's",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twenty-six, and a shire he will not choose",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Margery's twenty-six shillings and kept tomorrow at ten",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Goodwife Margery Pell",
+    "William Sly",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twenty-six shillings",
+    "Kent or the west",
+    "tomorrow at ten"
+  ],
+  "quotes": [
+    {
+      "speaker": "margery_pell",
+      "text": "Twenty-six shillings in mine, and I'll not see a black gown till Michaelmas"
+    },
+    {
+      "speaker": "will_sly",
+      "text": "The Admiral's men are in Kent by now, or else the west"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Tomorrow at ten. That is the only hour I am keeping."
+    }
+  ]
+}

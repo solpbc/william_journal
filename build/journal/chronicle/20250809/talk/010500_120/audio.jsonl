@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "01:05:00", "text": "Will. Who are you talking to?", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "01:05:12", "text": "A girl at a window.", "timing": {"end": 24.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "anne_shakespeare", "start": "01:05:24", "text": "Is she like to be long?", "timing": {"end": 36.0, "start": 24.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "01:05:36", "text": "She's not fourteen. She's quick.", "timing": {"end": 48.0, "start": 36.0}}
+{"sentence_id": 5, "speaker": "anne_shakespeare", "start": "01:05:48", "text": "Then let her be quick, and come to bed.", "timing": {"end": 58.0, "start": 48.0}}

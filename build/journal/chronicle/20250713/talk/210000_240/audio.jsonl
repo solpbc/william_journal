@@ -1,0 +1,7 @@
+{"backend": "whisper", "duration": 240.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:00:00", "text": "I have a pain in the head. I am going.", "timing": {"end": 10.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "thomas_nashe", "start": "21:00:10", "text": "Where?", "timing": {"end": 14.0, "start": 10.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:00:14", "text": "Behind the eyes. It's full of gnats.", "timing": {"end": 24.0, "start": 14.0}}
+{"sentence_id": 4, "speaker": "thomas_nashe", "start": "21:00:24", "text": "Then you have caught them, and you are welcome to the swarm. I had a fourth pint in mind.", "timing": {"end": 38.0, "start": 24.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "21:00:38", "text": "The fourth can wait for a night with fewer of them. The shilling is paid.", "timing": {"end": 50.0, "start": 38.0}}
+{"sentence_id": 6, "speaker": "thomas_nashe", "start": "21:00:50", "text": "Paid, and eaten. Go. I will not call for it.", "timing": {"end": 60.0, "start": 50.0}}

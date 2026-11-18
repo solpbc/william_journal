@@ -1,0 +1,1 @@
+Before the others came you looked at the roll Garnish had recopied. Nine of the added lines are in a fair hand. Two are struck. The cue is not written yet. Kemp's jokes are not on the page for anyone else to learn.

@@ -1,0 +1,44 @@
+{
+  "overview": "That night you put a small cross beside the fifth in the almanac and wrote no word next to it. The leaf does not say whose window it was. You do not know.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Made the cross and did not gloss it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the cross",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the fifth",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no word",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the penny almanac",
+      "asset_type": "other",
+      "disposition": "Marked the fifth with a cross"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-05",
+      "meaning": "A cross and no word"
+    }
+  ],
+  "summary": "Marked the fifth with a cross"
+}

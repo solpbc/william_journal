@@ -1,0 +1,17 @@
+{
+  "narrative": "Saturday's leaf. Sunday's three words, leave it, still in the margin, not struck. The pen is on the next stretch of the same descent. No glass on the board. No candle. The pen stops short of a speech for the ground. The margin is otherwise empty. The chronicle is open on the far side of the table, and the cat is on it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the descent as far as the ground, and put the pen down."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in Off the wall"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "narrative": "The Verona page on the desk, daylight, the pen capped. The line ends, and the rest of that line is empty. No new ink. No face. Lower on the same page, the last note as it was left last night. No speech written under the little plan of houses. The days are still an open mark.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the blank and the stop, and capped the pen without using it."
+    },
+    {
+      "type": "Project",
+      "name": "Romeus and Juliet",
+      "role": "mentioned",
+      "context": "Shown on draft in The blank, still blank"
+    }
+  ]
+}

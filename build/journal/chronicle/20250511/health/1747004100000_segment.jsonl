@@ -1,0 +1,13 @@
+{"day": "20250511", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "092000_120", "stream": "talk", "ts": 1747004100000}
+{"change_class": "substantive", "day": "20250511", "event": "sense.change_detect", "mode": "segment", "segment": "092000_120", "stream": "talk", "ts": 1747004100001}
+{"day": "20250511", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "092000_120", "stream": "talk", "ts": 1747004100002}
+{"day": "20250511", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "121000_360", "stream": "talk", "ts": 1747004100010}
+{"change_class": "substantive", "day": "20250511", "event": "sense.change_detect", "mode": "segment", "segment": "121000_360", "stream": "talk", "ts": 1747004100011}
+{"day": "20250511", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "121000_360", "stream": "talk", "ts": 1747004100012}
+{"day": "20250511", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "160000_480", "stream": "obsidian", "ts": 1747004100020}
+{"change_class": "substantive", "day": "20250511", "event": "sense.change_detect", "mode": "segment", "segment": "160000_480", "stream": "obsidian", "ts": 1747004100021}
+{"day": "20250511", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "160000_480", "stream": "obsidian", "ts": 1747004100022}
+{"day": "20250511", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "162000_120", "stream": "desk", "ts": 1747004100030}
+{"change_class": "substantive", "day": "20250511", "event": "sense.change_detect", "mode": "segment", "segment": "162000_120", "stream": "desk", "ts": 1747004100031}
+{"day": "20250511", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "162000_120", "stream": "desk", "ts": 1747004100032}
+{"day": "20250511", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "162000_120", "stream": "desk", "ts": 1747004100033}

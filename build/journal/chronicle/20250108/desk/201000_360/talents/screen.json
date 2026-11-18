@@ -1,0 +1,23 @@
+{
+  "narrative": "The desk, one candle, the six steps of the chamber between you and the door. The leaf has the entrance. The half-line stops. Below it the rest of the line is empty on purpose. No song. No last line of the play. You are on your feet, pacing. The pen is down. What carries through the floor would be a murmur, not the line. Mistress Ansell is below. She is not being told.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the entrance and left the blank."
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "mentioned",
+      "context": "Below. Heard a murmur, if she heard anything. Not spoken to."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on draft in The half-line left blank"
+    }
+  ]
+}

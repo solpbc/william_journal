@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "The picture is two shrunken penny loaves on a brass assize-pan, with a wedge of cheese beside them.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Not in the picture.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Two loaves and a wedge",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "cheese",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Two loaves and a wedge",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Saw two shrunken penny loaves and a wedge of cheese",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two loaves",
+    "the assize-pan",
+    "a wedge of cheese"
+  ],
+  "quotes": []
+}

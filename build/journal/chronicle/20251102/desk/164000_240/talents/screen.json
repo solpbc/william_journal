@@ -1,0 +1,17 @@
+{
+  "narrative": "One sheet of the other play on the board, where it already was. No new line under it. The pen is not in the ink. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and added nothing."
+    },
+    {
+      "type": "Project",
+      "name": "the other play",
+      "role": "mentioned",
+      "context": "Shown on draft in The one page, still one page"
+    }
+  ]
+}

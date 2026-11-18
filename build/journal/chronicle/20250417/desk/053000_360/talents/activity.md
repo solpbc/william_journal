@@ -1,0 +1,1 @@
+At first light you headed a clean sheet and wrote the King's address to his uncle, then the old man's four words. There were no blots on the two lines. The quarrel was not on this sheet yet. You will play the old man.

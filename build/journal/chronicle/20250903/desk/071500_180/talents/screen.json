@@ -1,0 +1,17 @@
+{
+  "narrative": "A foul sheet on the desk, the morning copy. A basket drawn once in the margin and crossed into a word. A hand at the edge of the sheet. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Copied, and left the line as it stood."
+    },
+    {
+      "type": "Project",
+      "name": "the friar",
+      "role": "mentioned",
+      "context": "Shown on draft in Going down fair"
+    }
+  ]
+}

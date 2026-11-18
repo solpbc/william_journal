@@ -1,0 +1,23 @@
+{
+  "narrative": "Hamnet's wooden wheel on the shop bench, mended unevenly with a leather shim, a boy's hands reaching in at the edge of the frame. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "In The wheel on the bench"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "context": "Reached in at the edge for the wheel."
+    },
+    {
+      "type": "Tool",
+      "name": "Hamnet's wooden wheel",
+      "role": "mentioned",
+      "context": "In photo: The wheel on the bench"
+    }
+  ]
+}

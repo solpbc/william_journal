@@ -1,0 +1,1 @@
+Alone, you said what a playhouse yard is: two thousand people gathered by a flag. You did not say it to Gillis or to Mistress Ansell. The heading is on your tables. Tomorrow you come from Shoreditch by Bishopsgate Street, not by the fields. Nothing is decided about closing, or about the roads, and you have not told John the number.

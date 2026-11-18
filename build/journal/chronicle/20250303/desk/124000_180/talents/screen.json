@@ -1,0 +1,17 @@
+{
+  "narrative": "A part on the desk, the Duke's name at the head, nothing copied under it. Daylight. No face. The same heading. No cue written beneath it. The pen is capped.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Kept the heading on the part and did not write a line under it."
+    },
+    {
+      "type": "Project",
+      "name": "The Two Gentlemen of Verona",
+      "role": "mentioned",
+      "context": "Shown on part in The Duke's name"
+    }
+  ]
+}

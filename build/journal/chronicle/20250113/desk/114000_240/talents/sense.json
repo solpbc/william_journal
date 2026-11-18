@@ -1,0 +1,60 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "By noon the fifth-act sheet held fourteen lines. You cut off the corner where you sneezed with the pen loaded, using your father's glover's paring-knife, so you would not keep looking at the blot. Forsworn stands three times in the last four lines. Gib was asleep on the Golding, and you did not move him.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Cut the corner and left the fourteen lines as they stood.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Asleep on the Golding.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Fourteen lines and a cut corner",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Golding's Ovid",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Fourteen lines and a cut corner",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Cut the blot off and kept forsworn three times",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "fourteen lines",
+    "the cut corner",
+    "forsworn",
+    "the cat on the Golding"
+  ],
+  "quotes": []
+}

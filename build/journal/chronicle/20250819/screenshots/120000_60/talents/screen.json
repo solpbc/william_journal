@@ -1,0 +1,23 @@
+{
+  "narrative": "A string of packhorses on the road, bells on the leader, Hobbins's back, dust hanging.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "In The string, and his back"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "mentioned",
+      "context": "Led, and did not turn."
+    },
+    {
+      "type": "Tool",
+      "name": "the spare nag",
+      "role": "mentioned",
+      "context": "In photo: The string, and his back"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+After the play Margery Pell said fifty-two shillings were in her gallery. James Burbage called two thousand a house at the messenger, not a receipt. You left both numbers as what they were. The trumpet had been at two, and the swan at noon.

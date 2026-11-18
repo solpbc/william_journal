@@ -1,0 +1,95 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At the morning rehearsal Garnish kept the tally at twenty-four and refused to tick a scrap Kemp sang at a bench. You agreed the song, if it was a song, belonged to the afternoon yard. Nick had the watchet gown and the Princess's old words, and you gave him nothing new. Burbage told you to leave the ending. You left the new lines unwritten.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the tally at twenty-four and gave Nick no new line.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Tried a scrap and was told to wait for the yard.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Would not tick a parlour tune, and said twenty-four once more.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Defended the hour, and told you to leave the last page.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed the watchet, said the voice still held, and agreed not to decorate.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not a parlour tune",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Left the tally at twenty-four",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "Will Kemp",
+    "Richard Burbage",
+    "William Shakespeare",
+    "Nick Sorrell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twenty-four",
+    "a parlour tune",
+    "the watchet",
+    "the last of the bill"
+  ],
+  "quotes": [
+    {
+      "speaker": "abel_garnish",
+      "text": "Twenty-four stands. I had it at breakfast and I have it now."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "Bring it to the yard this afternoon, whole, in front of the holiday"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Twenty-four is the tally until the yard changes it."
+    }
+  ]
+}

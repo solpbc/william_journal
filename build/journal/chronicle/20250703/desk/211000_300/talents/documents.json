@@ -1,0 +1,49 @@
+{
+  "overview": "You brought Brooke to the front of the shelf and left it shut. Holinshed is still Field's, pushed back, not returned. A clean sheet is out. You did not write a line.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Brought Brooke forward, shut, and left the sheet blank."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Brooke forward",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Holinshed still on loan",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no line",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Brooke's Romeus and Juliet",
+      "asset_type": "other",
+      "disposition": "Brought Brooke to the front of the shelf"
+    },
+    {
+      "name": "Holinshed",
+      "asset_type": "other",
+      "disposition": "Brought Brooke to the front of the shelf"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-03",
+      "meaning": "Brooke brought forward"
+    }
+  ],
+  "summary": "Brought Brooke to the front of the shelf"
+}

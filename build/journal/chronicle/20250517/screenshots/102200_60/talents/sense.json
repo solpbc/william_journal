@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "The book is open in your two hands at the epistle. The awning's edge is above. The light is plain daylight. No face is in the picture.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Held the book. The picture has the hands and not the face.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Left a picture of the epistle in both hands",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the open epistle",
+    "the awning",
+    "daylight"
+  ],
+  "quotes": []
+}

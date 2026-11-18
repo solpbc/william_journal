@@ -1,0 +1,103 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At Holy Trinity the vicar preached the fire as judgment on a town that malts on the Sabbath. He said the hand had come down twice in fourteen months. You told the pew to let it come whole. You did not improve it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard it, and refused to mend it there.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told Susanna to sit, and kept the pew still.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the barley was still the town's work.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard fourteen as a count, and kept the three heads.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Saw Judith storing the voice for dinner.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat in the pew and kept the voice.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Saw the count made on the fingers.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Heard the fire preached as judgment",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Susanna Shakespeare",
+    "Anne Shakespeare",
+    "William Shakespeare",
+    "Mary Shakespeare",
+    "Joan Shakespeare",
+    "Hamnet Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the sermon",
+    "the Sabbath malt",
+    "fourteen months"
+  ],
+  "quotes": [
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "He said fourteen. He said it as a count"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Let it come whole. I will not mend it in the pew"
+    },
+    {
+      "speaker": "mary_shakespeare",
+      "text": "The barley is still the town's work, whatever he makes of the day it is done"
+    }
+  ]
+}

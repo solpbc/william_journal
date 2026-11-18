@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "The morning rehearsal had no clothes in it. Heminges would not try the crown today. Garnish had you down for Egeon in the afternoon, opening and then idle. You said the voice was thick. You were to be heard at the back. The plot for tomorrow was not on the peg yet. You did not give Love's Labour's Won a new answer before the call.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the thick voice, and did not move the other play.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the apparel for tomorrow, and asked to be heard at the back.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set Egeon for the afternoon, and would not hang tomorrow's plot early.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No clothes this morning",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed Egeon",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Abel Garnish"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "no clothes",
+    "Egeon this afternoon",
+    "heard at the back"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "No clothes this morning. The apparel is tomorrow"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The voice is thick. I am not pretending otherwise."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "Egeon this afternoon, and he opens, and then he waits."
+    }
+  ]
+}

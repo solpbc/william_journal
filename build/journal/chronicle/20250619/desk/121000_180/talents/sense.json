@@ -1,0 +1,43 @@
+{
+  "density": "idle",
+  "content_type": "reading",
+  "activity_summary": "At home you opened the almanac. It still prints Corpus Christi, for leases and reckonings. Nobody is keeping the day. You did not make a lease of it, and you did not copy it down.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the almanac and shut it.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the almanac",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Still printed, not kept",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Read Corpus Christi in the almanac",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Corpus Christi",
+    "the almanac",
+    "no lease"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,72 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You washed at the kitchen door and did not sit to the bread. Anne held the order she had already given: the bench first. Joan had already sent Susanna back to the shelf. You went out to look.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Washed at the kitchen door",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Washed at the kitchen door",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Washed at the kitchen door",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the orchard bench",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Washed at the kitchen door",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came down and went out to the bench",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Joan Shakespeare",
+    "William Shakespeare",
+    "Anne Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the kitchen door",
+    "the bread held back",
+    "the book on the shelf"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "The bread is after that, as I said."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will look, and I will come back fit to be fed."
+    }
+  ]
+}

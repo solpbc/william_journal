@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250713",
+    "end": "20250719"
+  },
+  "generated_at": "2025-07-19T22:00:00Z",
+  "days": [
+    {
+      "day": "20250713",
+      "state": "memory",
+      "memory_id": "m-20250713-0"
+    },
+    {
+      "day": "20250714",
+      "state": "memory",
+      "memory_id": "m-20250714-1"
+    },
+    {
+      "day": "20250715",
+      "state": "memory",
+      "memory_id": "m-20250715-2"
+    },
+    {
+      "day": "20250716",
+      "state": "memory",
+      "memory_id": "m-20250716-3"
+    },
+    {
+      "day": "20250717",
+      "state": "memory",
+      "memory_id": "m-20250717-4"
+    },
+    {
+      "day": "20250718",
+      "state": "memory",
+      "memory_id": "m-20250718-5"
+    },
+    {
+      "day": "20250719",
+      "state": "memory",
+      "memory_id": "m-20250719-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250713-0",
+      "key": "mem_20250713_0",
+      "day": "20250713",
+      "text": "Two turns of the glass, a shilling supper, and a line on the tables that stayed small.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250713/talents/morning_briefing",
+        "briefing_day": "20250713",
+        "refs": [
+          "sol://facets/household/activities/20250713#frame_074000_180",
+          "sol://facets/household/activities/20250713#meeting_092000_720",
+          "sol://facets/household/activities/20250713#meeting_113000_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20250714-1",
+      "key": "mem_20250714_1",
+      "day": "20250714",
+      "text": "Egeon, a loaf a thumb short, and a knot tied four times.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250714/talents/morning_briefing",
+        "briefing_day": "20250714",
+        "refs": [
+          "sol://facets/company/activities/20250714#meeting_140500_240",
+          "sol://facets/household/activities/20250714#meeting_180000_840",
+          "sol://facets/writing/activities/20250714#note_190000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250715-2",
+      "key": "mem_20250715_2",
+      "day": "20250715",
+      "text": "A sixpenny dinner, two readings, and one word for Burbage.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250715/talents/morning_briefing",
+        "briefing_day": "20250715",
+        "refs": [
+          "sol://facets/writing/activities/20250715#frame_073000_180",
+          "sol://facets/company/activities/20250715#meeting_091000_240",
+          "sol://facets/company/activities/20250715#meeting_112000_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20250716-3",
+      "key": "mem_20250716_3",
+      "day": "20250716",
+      "text": "You were in the old play. The loaf stayed where Monday had measured it.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250716/talents/morning_briefing",
+        "briefing_day": "20250716",
+        "refs": [
+          "sol://facets/company/activities/20250716#meeting_141000_240",
+          "sol://facets/household/activities/20250716#meeting_173000_300",
+          "sol://facets/writing/activities/20250716#frame_204000_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250717-4",
+      "key": "mem_20250717_4",
+      "day": "20250717",
+      "text": "A call, a five-pound answer, and a half-sheet that prefers whom.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250717/talents/morning_briefing",
+        "briefing_day": "20250717",
+        "refs": [
+          "sol://facets/company/activities/20250717#meeting_090500_240",
+          "sol://facets/household/activities/20250717#frame_113000_120",
+          "sol://facets/company/activities/20250717#call_122000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250718-5",
+      "key": "mem_20250718_5",
+      "day": "20250718",
+      "text": "The feast sonnet, the Nurse's break, and a day at the lodging.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250718/talents/morning_briefing",
+        "briefing_day": "20250718",
+        "refs": [
+          "sol://facets/writing/activities/20250718#frame_053000_240",
+          "sol://facets/writing/activities/20250718#frame_062000_360",
+          "sol://facets/writing/activities/20250718#frame_071000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250719-6",
+      "key": "mem_20250719_6",
+      "day": "20250719",
+      "text": "Seventeen shillings, a ring of green oak, and two numbers of galleys from the boat.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250719/talents/morning_briefing",
+        "briefing_day": "20250719",
+        "refs": [
+          "sol://facets/company/activities/20250719#meeting_164500_720",
+          "sol://facets/company/activities/20250719#meeting_173500_240",
+          "sol://facets/company/activities/20250719#meeting_184000_840"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250713-0",
+      "key": "said_20250713_0",
+      "day": "20250713",
+      "quote": "Behind the eyes. It's full of gnats.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250713#meeting_210000_240"
+      }
+    },
+    {
+      "id": "s-20250714-1",
+      "key": "said_20250714_1",
+      "day": "20250714",
+      "quote": "Two great houses, in one town. Alike in everything. A quarrel so old nobody knows the cause.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250714#meeting_180000_840"
+      }
+    },
+    {
+      "id": "s-20250715-2",
+      "key": "said_20250715_2",
+      "day": "20250715",
+      "quote": "The parson's tithe-pig comes in here. I will not soften the pig.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250715#meeting_112000_720"
+      }
+    },
+    {
+      "id": "s-20250717-3",
+      "key": "said_20250717_3",
+      "day": "20250717",
+      "quote": "On the thirty-first of April, John. You shall have a king at Michaelmas, cut to the Master's measure.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250717#call_122000_480"
+      }
+    },
+    {
+      "id": "s-20250717-4",
+      "key": "said_20250717_4",
+      "day": "20250717",
+      "quote": "You wrote who and it should be whom. Master Aspinall says so.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250717#meeting_180000_480"
+      }
+    },
+    {
+      "id": "s-20250717-5",
+      "key": "said_20250717_5",
+      "day": "20250717",
+      "quote": "A queen would hear the gardeners only if she hid. For servants say everything, but not to your face.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250717#meeting_180000_480"
+      }
+    },
+    {
+      "id": "s-20250718-6",
+      "key": "said_20250718_6",
+      "day": "20250718",
+      "quote": "She's laughing at him. Good. Let him not hear it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250718#memo_082000_60"
+      }
+    },
+    {
+      "id": "s-20250719-7",
+      "key": "said_20250719_7",
+      "day": "20250719",
+      "quote": "Wider than the Rose from here, and wider than the Theatre. I have the eye for that. You have the trade.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250719#meeting_184000_840"
+      }
+    }
+  ]
+}

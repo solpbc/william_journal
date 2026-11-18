@@ -1,0 +1,17 @@
+{
+  "narrative": "The reckoning book open on the table. One line is new. No sum for the day is written under it. The chest is shut.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the line and did not add a sum."
+    },
+    {
+      "type": "Tool",
+      "name": "the reckoning book",
+      "role": "mentioned",
+      "context": "Shown on ledger in The line in the book"
+    }
+  ]
+}

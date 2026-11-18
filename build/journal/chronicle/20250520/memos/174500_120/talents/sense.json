@@ -1,0 +1,58 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At home you said they have spent heavily, and that the money was not wasted. You set a looking-glass against the giant. You named no sum of theirs.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the glass to himself and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "a looking-glass",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in None of it was wasted",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Set a looking-glass against the giant",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "spent heavily",
+    "the money not wasted",
+    "a looking-glass"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "They have spent heavily."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The money was not wasted."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A looking-glass against a giant."
+    }
+  ]
+}

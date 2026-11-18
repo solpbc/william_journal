@@ -1,0 +1,1 @@
+At the window you said the 14s 6d was meant to trouble you, and that you had missed it in a hurry at the Bell. The harsh page went into the candle. Nothing was paid, and the letter you kept is still unsent.

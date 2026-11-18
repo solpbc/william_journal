@@ -1,0 +1,17 @@
+{
+  "narrative": "The penny almanac open on the board. One line is printed under the date. The margin is empty. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the line and shut the almanac."
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in Term begins"
+    }
+  ]
+}

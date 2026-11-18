@@ -1,0 +1,17 @@
+{
+  "narrative": "The Verona page on the desk, daylight, the pen capped. One name in the list stands as it was written last night. No new couplet under it. No speech. No face. Empty paper under the name. Further down, the days are still an open mark. No new ink.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked at the name already on the page and did not add a line."
+    },
+    {
+      "type": "Project",
+      "name": "Romeus and Juliet",
+      "role": "mentioned",
+      "context": "Shown on draft in The friar's name"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You left the grass with three boats and the knife in your belt. Hamnet was saving the arch for a board. Susanna walked with the book shut. You did not add anything to what the bank had already finished.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the grass with the three boats",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the grass with the three boats",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the grass with the three boats",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the grass with the three boats",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the paring-knife",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Left the grass with the three boats",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the three bark boats",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Left the grass with the three boats",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Started the three boats",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Judith Shakespeare",
+    "Hamnet Shakespeare",
+    "Susanna Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three boats counted",
+    "the knife in the belt",
+    "the walk off the grass"
+  ],
+  "quotes": [
+    {
+      "speaker": "judith_shakespeare",
+      "text": "Nobody left a hull for the arches to keep."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The knife is in the belt."
+    }
+  ]
+}

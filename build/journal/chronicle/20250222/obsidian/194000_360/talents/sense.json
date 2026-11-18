@@ -1,0 +1,45 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At the lodging, by one candle, you wrote that the share in the purse is thirty shillings. You did not set down what the coffer holds. You noted Edith's eight shillings and the mercer's fifty as not settled. You had no pleasure in the count.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Counted, wrote no coffer-sum, and stopped.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Counted the coffer and wrote the share",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "thirty shillings in the purse",
+    "the coffer not set down",
+    "one candle",
+    "no pleasure"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I do not set the sum down."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No pleasure in it tonight."
+    }
+  ]
+}

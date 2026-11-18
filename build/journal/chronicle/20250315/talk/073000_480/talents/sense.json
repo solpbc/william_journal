@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Gannet took you from Old Swan on the flood, twopence each, paid by each man. He has Raleigh crowned in Guiana already, and you did not correct him. He will land you at the outer stair and no further. If the tide turns while you are inside, Kemp will not pay it to turn back.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid his own fare and named the outer stair as the end of the ride.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid, sat first, and would not buy a tide that had turned.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat, and accepted the walk if the river changed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Davy Gannet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took three twopences, and no one further than the outer stair.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "2d the wherry",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Westward ho",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Paid twopence and heard Gannet on Raleigh",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Davy Gannet",
+    "Will Kemp",
+    "Richard Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twopence a man",
+    "the flood",
+    "Raleigh uncrowned in your silence",
+    "the outer stair"
+  ],
+  "quotes": [
+    {
+      "speaker": "davy_gannet",
+      "text": "Twopence a man, and each man his own."
+    },
+    {
+      "speaker": "davy_gannet",
+      "text": "Crowned, and the gold already tired of being gold."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Outer stair at Whitehall, and no further."
+    }
+  ]
+}

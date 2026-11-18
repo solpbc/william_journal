@@ -1,0 +1,44 @@
+{
+  "overview": "You looked at Egeon's roll. He opens the play, then he is idle till the end. You did not count anyone else's lines. The king's leaf stayed face down.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the roll and put it down."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Egeon",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "both ends",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no one else's total",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Errors",
+      "asset_type": "other",
+      "disposition": "Read that Egeon opens the play and is idle till the end"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-24",
+      "meaning": "Egeon, at both ends"
+    }
+  ],
+  "summary": "Read that Egeon opens the play and is idle till the end"
+}

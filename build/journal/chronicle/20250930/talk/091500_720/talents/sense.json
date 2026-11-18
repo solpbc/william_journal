@@ -1,0 +1,99 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Garnish hung the plot and walked the hired men through the lists until they could find their feet. Burbage ran the prison speech twice, for nobody: \"I wasted time, and now doth time waste me.\" Nick asked whether the gown shows. It does not. Kemp, passing, said \"Sweet Master Shakespeare. How does the sweet tooth?\" You did not give him a roll, and he did not ask for one in the play. You told him the dance is where he is saved.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the second reading, refused a third, and left Kemp off the plot.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Walked the lists, and confirmed Kemp is not on the plot.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the prison speech twice to an empty house.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked after the gown, and was told it does not show.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked after the sweet tooth, and kept to you, not thou.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twice, for nobody",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Burbage say the prison speech twice",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "Richard Burbage",
+    "William Shakespeare",
+    "Nick Sorrell",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the plot",
+    "the prison speech twice",
+    "the gown",
+    "the sweet tooth"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "I wasted time, and now doth time waste me."
+    },
+    {
+      "speaker": "nick_sorrell",
+      "text": "Does the gown show, sir?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It does not show."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Sweet Master Shakespeare. How does the sweet tooth?"
+    }
+  ]
+}

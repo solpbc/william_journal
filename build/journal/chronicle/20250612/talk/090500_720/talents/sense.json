@@ -1,0 +1,81 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Before any news from the river, Edith asked for a cloak and two sleeves for the autumn. Her terms were payment on delivery, and no more accounts. You began to describe the uncertainty of the season. Kemp said that uncertainty was her point. John accepted the terms and cut the order to the sleeves and not the cloak, at six shillings. Edith told him to pay her in coin and the weather in promises. The work is not delivered, and it is not paid.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Began on the uncertainty of the season, and then agreed the sleeves would do.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named payment on delivery, and refused to sew a hope.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted the terms and cut the order to the sleeves at six shillings.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the uncertainty was her point, and stood with her.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "six shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sleeves, not the cloak",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Cut the order to the sleeves",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Edith Kettlewood",
+    "John Heminges",
+    "William Shakespeare",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the sleeves",
+    "six shillings",
+    "payment on delivery"
+  ],
+  "quotes": [
+    {
+      "speaker": "edith_kettlewood",
+      "text": "Pay me in coin, Master Heminges, and you may pay the weather in promises."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "The sleeves, and not the cloak. Six shillings."
+    }
+  ]
+}

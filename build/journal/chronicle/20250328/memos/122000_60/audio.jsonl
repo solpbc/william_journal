@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "12:20:00", "text": "The stones are off to the left, somewhere in the rain.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "12:20:12", "text": "I am not turning aside.", "timing": {"end": 22.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "12:20:22", "text": "...Enough.", "timing": {"end": 32.0, "start": 22.0}}

@@ -1,0 +1,1 @@
+You set thirty-four beside last Saturday's twenty-nine. You wrote that the coffer was not opened, and that it stands as ruled at twenty pound fifteen. You added nothing. Kemp had paid the share with the name. You did not make a new sum.

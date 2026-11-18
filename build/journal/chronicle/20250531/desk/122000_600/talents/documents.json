@@ -1,0 +1,44 @@
+{
+  "overview": "You worked the garden again and did not finish it. She has heard him. He is still binding. There is no exit, and the act is not ruled off.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the continuation and stopped above the blank."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the open garden",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no exit",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "an act not finished",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Added a few lines to the garden"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-31",
+      "meaning": "The garden, still open"
+    }
+  ],
+  "summary": "Added a few lines to the garden"
+}

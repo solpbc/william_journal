@@ -1,0 +1,114 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "After Titus, in the parlour, Burbage said your voice had held. The cold is gone. Kemp was civil and did not ask for a new laugh. You and Burbage counted seventeen days to Thursday the twentieth for Berowne, which is not three weeks. Heminges will take Nick to a Cheapside mercer tomorrow and call you when the man has named a price. He did not name one today. The Queen's twenty pounds are still not had. Edith's eight shillings stay unpaid, and they are not your purse. You mean to ask Field in the morning about a chronicle for Lent, and not to take it yet.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the days and set the chronicle aside until Lent.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the voice and named the seventeen days.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed civil and stayed off the new play's ending.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Promised the Cheapside errand and refused to invent a price.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named as the boy to be measured tomorrow. He was not in the parlour.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Titus Andronicus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in After Titus",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Berowne",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in After Titus",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Queen's twenty pounds",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in After Titus",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Heminges will call with the mercer's price",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Burbage",
+    "William Shakespeare",
+    "Will Kemp",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the voice back",
+    "seventeen days",
+    "the mercer tomorrow",
+    "the unpaid eight"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "Thou hast thy voice back, Will."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Seventeen days to the twentieth, Will."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "I will call you, Will, when the man has named his figure."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The chronicle waits on Lent."
+    }
+  ]
+}

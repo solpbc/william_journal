@@ -1,0 +1,1 @@
+By dinner the contraption worked. Judith had removed the weight Hamnet thought essential, and it went slightly better. She counted three arrivals out of four. Hamnet insisted he had intended the removal from the first. Susanna allowed him the intention and not the credit. You left both versions in the room, and you did not take the working one for London either.

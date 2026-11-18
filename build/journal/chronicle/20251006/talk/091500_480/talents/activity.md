@@ -1,0 +1,1 @@
+At the Theatre you set Titus at two, and yourself done in the fourth act, an old Roman and not a long one. Thomas does not wait on the death and does not take up a failed word. The eleven lines stay at the lodging. Thomas had read the Rose bill, Seven Days and Wise Man, on a post, and had not gone nearer. You did not go either.

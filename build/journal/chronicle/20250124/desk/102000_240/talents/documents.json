@@ -1,0 +1,51 @@
+{
+  "overview": "Tilney had the book open and a pen in red ink on the leaf. The prose line was the line on that page. His men were stitching masquing cloth for Sunday's wedding. Your hands were empty.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Waited, and did not lean over the page."
+    },
+    {
+      "name": "Edmund Tilney",
+      "role": "attendee",
+      "formal_term": "Edmund Tilney",
+      "appointment_tier": "not_applicable",
+      "context": "Read with the pen in his hand."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the pen",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the prose line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the masquing cloth",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Waited while Tilney read"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-24",
+      "meaning": "A pen on the page"
+    }
+  ],
+  "summary": "Waited while Tilney read"
+}

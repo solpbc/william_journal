@@ -1,0 +1,17 @@
+{
+  "narrative": "The cue-roll lies along the table at the lodging. Dinner is cleared. His thumb is on the speech he already knows, and beside the roll is the old tables-note he made when he was learning to breathe it. He does not write an author on the roll. The hat for the afternoon is on the chest. He rolls the paper and stands up.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the fragment and did not mark the roll."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on part in Brazen tombs"
+    }
+  ]
+}

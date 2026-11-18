@@ -1,0 +1,1 @@
+Daylight was on the close and the kennel was still white. Mistress Ansell held dinner to the one call she had already offered. You said the clean sheet was still untouched. You went back up and left the crust.

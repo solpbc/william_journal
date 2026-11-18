@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At night the two plays were over without you. The sentence is still unsent. You did not write the packet, and you did not set anything beside the horn for Sunday.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the packet and refused to set Sunday's gift out early.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in Not the packet",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Did not write the packet or set anything beside the horn",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the unsent sentence",
+    "the packet",
+    "nothing set out"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Not the packet. The packet is not this;"
+    }
+  ]
+}

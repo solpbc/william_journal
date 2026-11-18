@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 360.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "15:06:20", "text": "There is a rope's end on the bench. I am looking at it. I am not picking it up, and I am not asking it what it was for.", "timing": {"end": 100.0, "start": 20.0}}
+{"sentence_id": 2, "speaker": "thomas_pope", "start": "15:07:40", "text": "Then look, and be done. A property that is lying still is doing its work. You have a habit of promoting them.", "timing": {"end": 200.0, "start": 100.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "15:09:20", "text": "Not this one. It can lie. If someone comes off with a story about it, the story can arrive on its own feet.", "timing": {"end": 290.0, "start": 200.0}}
+{"sentence_id": 4, "speaker": "thomas_pope", "start": "15:10:50", "text": "Someone will. They always do, when the yard has made a noise. Keep your hands in your lap until he has spent it.", "timing": {"end": 300.0, "start": 290.0}}

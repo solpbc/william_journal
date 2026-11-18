@@ -1,0 +1,17 @@
+{
+  "narrative": "A playbill in the hand at the lodging, the title large, and the river not in the picture.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read it, and did not go."
+    },
+    {
+      "type": "Project",
+      "name": "Crack Me",
+      "role": "mentioned",
+      "context": "Shown on bill in Crack Me, read and left"
+    }
+  ]
+}

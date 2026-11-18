@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote one sentence to Anne and did not send it. You do not know the day, and you will not write a yes to be rid of the question. Nothing went to the Bell. You did not copy a part.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the sentence and left it unsent.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "the Bell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in One plain sentence",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Wrote Anne one sentence",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the unsent sentence",
+    "the shoes",
+    "the cough"
+  ],
+  "quotes": []
+}

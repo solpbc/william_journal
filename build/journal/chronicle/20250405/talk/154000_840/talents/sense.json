@@ -1,0 +1,72 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You told her the comedy is off the stage, that the Queen's twenty pounds was the company's and not your wage, and that the Lord Mayor has never spoken to you. You gave her the canvas sewn, eighteen shillings and not sixty, and you named the three shops inside the five pounds. She weighed it unopened and named malt, corn, and shoes, one pair fewer. She said it is the one leather. You did not name a house.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told the comedy, the Queen's money, the Mayor, and the eighteen, and named no house.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Weighed the canvas, named the uses, and made the shoemakers one leather.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the Lady Day canvas",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Eighteen, not sixty",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Gave her eighteen shillings and heard malt, corn, and shoes",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Anne Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the eighteen shillings",
+    "the three shops",
+    "the one leather",
+    "no house"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Your father's shoemaker or ours, Will, it's the one leather."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Eighteen shillings, not sixty."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Shoes, one pair fewer than the sixty would have bought."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not adding a house to either sentence."
+    }
+  ]
+}

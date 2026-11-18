@@ -1,0 +1,63 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "George Bryan stopped at the stage door on his way west. Eleven lines of the comedy had been asked for in a fair copy, and he needed the current reading. You began on the two readings, saw that he needed a choice, and chose the shorter. You marked the sheet with a cross. He was gone before a second improvement could undo it. You did not write that improvement.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Chose the shorter reading, marked the cross, and did not add the improvement.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for one current reading, took the cross, and left.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the comedy",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A cross, not an essay",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Chose the shorter reading and marked a cross",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "George Bryan",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "eleven lines",
+    "the shorter reading",
+    "a cross"
+  ],
+  "quotes": [
+    {
+      "speaker": "george_bryan",
+      "text": "Eleven lines. A fair copy."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The shorter. Take that."
+    }
+  ]
+}

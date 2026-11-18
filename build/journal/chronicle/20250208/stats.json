@@ -1,0 +1,155 @@
+{
+  "daily_coverage": {
+    "maintenance": {
+      "identity": {
+        "day": "",
+        "name": "daily_schedule"
+      },
+      "evidence_revision": "31004c22128ba7817af9c61712e3f3330bcbf184761312eab1601d1107199e1b",
+      "contract_digest": "ee026c5cb5ebd3cc3d9091f9d6e63f569afac1051df96440693eb3e9489975a1",
+      "state": "outstanding",
+      "reason_code": null,
+      "owed_by": "never_made"
+    },
+    "day": "20250208",
+    "as_of_ms": 1794975930628,
+    "state": "outstanding",
+    "units": [
+      {
+        "identity": {
+          "day": "20250208",
+          "name": "morning_briefing"
+        },
+        "evidence_revision": "3af98b4b3d83d77794a5faf651d63d4bc7c3c2211f68ae57d3d285915eb4a4d7",
+        "contract_digest": "40f6ec89fd8b80947c2d431fca4955ff05f86b2beb2696d6671808af2e4f75d1",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250208",
+          "name": "entities:entities_review",
+          "facet": "company"
+        },
+        "evidence_revision": "a8ba22dd16d60c4749207949c58af367a802aafce3f4ed08f3cfb45a1c08ac80",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250208",
+          "name": "entities:entities_review",
+          "facet": "household"
+        },
+        "evidence_revision": "0cf7be7a012a343d616c3c615f213e0c818449c2db4ae3e36188547e078e7c5c",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250208",
+          "name": "entities:entity_observer",
+          "facet": "company"
+        },
+        "evidence_revision": "34535957bfc428e4824b3d08bfaeaf920a5cb8b6982b4a938a9e491910b24c20",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250208",
+          "name": "entities:entity_observer",
+          "facet": "household"
+        },
+        "evidence_revision": "c664286973393ea25b919733c7810fe42da6688def8762d220a4ae24ba43112e",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250208",
+          "name": "entities:entity_suggest",
+          "facet": "company"
+        },
+        "evidence_revision": "2195478a6fd39215193f0d81a8daf5ee68d8f07d44d872574c7fc970e0619870",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250208",
+          "name": "entities:entity_suggest",
+          "facet": "household"
+        },
+        "evidence_revision": "6d140901cf117ae8ba817f0d7b54853ec56800378bef8342668f7c1b056e7d27",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      }
+    ]
+  },
+  "schema_version": 10,
+  "stats": {
+    "transcript_sessions": 4,
+    "transcript_segments": 57,
+    "transcript_duration": 868.0,
+    "transcript_ranges": 4,
+    "percept_sessions": 0,
+    "percept_frames": 0,
+    "percept_duration": 0.0,
+    "percept_ranges": 0,
+    "browser_segments": 0,
+    "pending_segments": 0,
+    "segments_pending_think": 0,
+    "outputs_processed": 0,
+    "outputs_pending": 7,
+    "day_bytes": 105595,
+    "segment_fold_failed": false
+  },
+  "agent_data": {
+    "meeting": {
+      "count": 2,
+      "minutes": 26.0
+    },
+    "planning": {
+      "count": 1,
+      "minutes": 1.0
+    },
+    "social": {
+      "count": 1,
+      "minutes": 3.0
+    }
+  },
+  "facet_data": {
+    "company": {
+      "count": 3,
+      "minutes": 27.0
+    },
+    "household": {
+      "count": 1,
+      "minutes": 3.0
+    }
+  },
+  "heatmap_data": {
+    "weekday": 5,
+    "hours": {
+      "9": 14.0,
+      "12": 3.0,
+      "16": 10.0,
+      "17": 2.0,
+      "18": 1.0
+    }
+  }
+}

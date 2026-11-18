@@ -1,0 +1,1 @@
+You were still in the house, dressed to walk. The shoes were new-soled, the hat was the broad one, and the wallet was on your back. You were leaving the close at ten past four. The cheese stayed shut.

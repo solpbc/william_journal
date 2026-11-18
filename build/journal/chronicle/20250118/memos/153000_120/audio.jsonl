@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "15:30:00", "text": "They are at the Keys. I cannot hear a word of it. I do not want a report when it is over.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "15:30:16", "text": "The morning is the loss. I had a page, and I could not tell the good line from the bad.", "timing": {"end": 30.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "15:30:30", "text": "The fever may have the afternoon. It already had the work.", "timing": {"end": 42.0, "start": 30.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "15:30:42", "text": "The Rose has a Caesar. I am not going. \u2026No.", "timing": {"end": 52.0, "start": 42.0}}

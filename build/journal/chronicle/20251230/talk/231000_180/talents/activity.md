@@ -1,0 +1,1 @@
+Alse found Gib on Field's book and put him on the Chaucer. She did not touch the letter. You told her to leave the sheet, and that it was not going out. She had come up both turnings and would not come up a third. You did not call anyone else.

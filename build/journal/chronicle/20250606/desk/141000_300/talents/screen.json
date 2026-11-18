@@ -1,0 +1,17 @@
+{
+  "narrative": "The afternoon's sheet, the hour and the company, no author's name at the foot. Blank under the player's name.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the plot and played the bill."
+    },
+    {
+      "type": "Project",
+      "name": "Richard III",
+      "role": "mentioned",
+      "context": "Shown on plot in A king, and no author"
+    }
+  ]
+}

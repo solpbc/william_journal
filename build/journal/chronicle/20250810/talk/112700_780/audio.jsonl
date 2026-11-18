@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 780.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "11:27:40", "text": "Keep with me. The aisle is full of people who would like a word, and I am not giving them one.", "timing": {"end": 200.0, "start": 40.0}}
+{"sentence_id": 2, "speaker": "mary_shakespeare", "start": "11:30:20", "text": "If a neighbour asks how thou kept the lesson, thou kept it. That is the whole answer. I will not have a recital at the door.", "timing": {"end": 410.0, "start": 200.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "11:33:50", "text": "Then I kept it. I have no recital. The street is where we are going, and the street is short.", "timing": {"end": 580.0, "start": 410.0}}
+{"sentence_id": 4, "speaker": "anne_shakespeare", "start": "11:36:40", "text": "Dinner is at the Cross. Smile if thou must, and do not stop to be thanked for coming home.", "timing": {"end": 730.0, "start": 580.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "11:39:10", "text": "I am not stopping. The pew is behind us.", "timing": {"end": 740.0, "start": 730.0}}

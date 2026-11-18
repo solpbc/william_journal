@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "alse_pinder", "start": "23:10:00", "text": "He is on Master Field's book, sir. I am putting him on the Chaucer. I am not making a speech, and I am not touching the sheet on your board.", "timing": {"end": 18.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "23:10:18", "text": "Put him there. Leave the sheet. It is not going out tonight.", "timing": {"end": 34.0, "start": 18.0}}
+{"sentence_id": 3, "speaker": "alse_pinder", "start": "23:10:34", "text": "I came up both turnings, and I am not coming up a third for a cat. I cannot read your letter, so I am in no danger of carrying it by mistake.", "timing": {"end": 50.0, "start": 34.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "23:10:50", "text": "Both turnings is the whole of the errand. Good night.", "timing": {"end": 60.0, "start": 50.0}}

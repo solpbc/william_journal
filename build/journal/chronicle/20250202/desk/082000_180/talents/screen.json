@@ -1,0 +1,23 @@
+{
+  "narrative": "The almanac open on the desk, one short line in the margin of the second of February. Two groats and a twist of comfits sit beside the inkhorn. No letter is begun. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the line and did not begin the letter."
+    },
+    {
+      "type": "Tool",
+      "name": "the almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in Twins' day"
+    },
+    {
+      "type": "Tool",
+      "name": "the two groats",
+      "role": "mentioned",
+      "context": "Shown on almanac in Twins' day"
+    }
+  ]
+}

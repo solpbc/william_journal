@@ -1,0 +1,46 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You went to evening prayer at Holy Trinity. The prayers were the ordinary ones. Your feet had already been in salt water. You walked back to the house.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Attended, and walked back to Henley Street.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Stood the ordinary prayers and walked back",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "evening prayer",
+    "the salt water already done",
+    "the walk back"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Evening prayer. The ordinary prayers, and then out again"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "They will do for the walk back"
+    }
+  ]
+}

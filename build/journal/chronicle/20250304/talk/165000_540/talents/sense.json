@@ -1,0 +1,100 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "After the third playing Garnish gave the tally as thirty-five lines in three days, and one whole song. You told him to say it and not to copy the lines into the book today. The company drank my lord's health and did not add his age. Heminges had the trestles stacked, and said they were the inn's. You heard a harder, hungrier edge in the lads' voices than in a cheap-bread year, and you did not answer them.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted the spoken tally, forbade a copying, and would not answer the yard.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the third time had held, and told you not to argue with the holiday.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Claimed the faces and the song, and lifted the trestle.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ticked one whole song, said thirty-five, and kept the newest lines out of the play-book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the health without a number of years, and stacked the inn's trestles.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in One whole song",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard thirty-five lines and one song",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "Will Kemp",
+    "William Shakespeare",
+    "Richard Burbage",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "thirty-five lines",
+    "one whole song",
+    "my lord's health",
+    "the inn's trestles",
+    "the yard still loud"
+  ],
+  "quotes": [
+    {
+      "speaker": "abel_garnish",
+      "text": "Thirty-five lines in three days, and one whole song."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "My lord's health. We drink it here, and we do not count the years at this table."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Say the tally. I am not copying the lines into the book today."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Stack the trestles. They are the inn's, not the company's."
+    }
+  ]
+}

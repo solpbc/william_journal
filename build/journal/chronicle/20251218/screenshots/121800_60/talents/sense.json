@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "The pack is in the frame, with the spices, the oranges, the cloth, and the holland for Joan. The remittance list is in your hand. Your face is not.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Held the list at the edge of the pack.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Saw the pack and the list in the hand",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the pack",
+    "the holland",
+    "the list in his hand"
+  ],
+  "quotes": []
+}

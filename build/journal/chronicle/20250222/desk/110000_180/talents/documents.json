@@ -1,0 +1,45 @@
+{
+  "overview": "You looked at the Sunday letter and did not give it to anyone. It is still dated the 16th of February 1594, and it still goes with the carrier of the 27th. You set it aside from the afternoon's part. You did not open the coffer.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the date and the carrier's line, and put the letter aside."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Is the person the letter is for, and is not in the room."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the unsent letter",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the 27th",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the old date",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-02-22",
+      "meaning": "The letter, still for Thursday"
+    }
+  ],
+  "summary": "Left the letter for the twenty-seventh"
+}

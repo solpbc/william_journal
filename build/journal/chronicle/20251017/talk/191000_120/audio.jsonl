@@ -1,0 +1,10 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "dorcas_ansell", "start": "19:10:00", "text": "A great man is dead, from the sound of you on the stair. Did he make a good end?", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "19:10:14", "text": "I was told he died this day at the Savoy. I was not told the manner of the end.", "timing": {"end": 28.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "dorcas_ansell", "start": "19:10:28", "text": "Then the manner is not yours to invent at my table.", "timing": {"end": 38.0, "start": 28.0}}
+{"sentence_id": 4, "speaker": "alse_pinder", "start": "19:10:38", "text": "Shall I take a candle up?", "timing": {"end": 44.0, "start": 38.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "19:10:44", "text": "One candle. I have one line to write, and then I am done.", "timing": {"end": 54.0, "start": 44.0}}
+{"sentence_id": 6, "speaker": "dorcas_ansell", "start": "19:10:54", "text": "Write the line. Do not write a grief you do not have. The house can be sorry for a house without your pretending to more.", "timing": {"end": 70.0, "start": 54.0}}
+{"sentence_id": 7, "speaker": "william_shakespeare", "start": "19:11:10", "text": "I am not pretending. The line is for Heminges, and it is short.", "timing": {"end": 80.0, "start": 70.0}}
+{"sentence_id": 8, "speaker": "alse_pinder", "start": "19:11:20", "text": "Then I will leave the candle and come down. I do not read what you write.", "timing": {"end": 90.0, "start": 80.0}}
+{"sentence_id": 9, "speaker": "dorcas_ansell", "start": "19:11:30", "text": "Down when it is done, Master Shakespeare. Supper is not a vigil.", "timing": {"end": 100.0, "start": 90.0}}

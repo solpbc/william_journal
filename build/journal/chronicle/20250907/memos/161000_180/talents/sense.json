@@ -1,0 +1,67 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You came home with the bells still going at four. Field had looked up and had not asked. The letter stayed sealed for the eleventh. Phillips was still not told.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came in at four and left both things where they were.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Remembered as the man who looked up and did not ask.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Still unwarned. Not in the house.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the eleventh",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Still going at four",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Named the bells, the look, and the seal",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the bells at four",
+    "the house not asked",
+    "the seal",
+    "Phillips"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "He looked up, and he did not ask."
+    }
+  ]
+}

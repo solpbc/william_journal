@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At breakfast Mistress Ansell said she was going to the Theatre in her church hat. She had never been inside a playhouse. Alse was to sit beside her and not to ask a further question. Gillis Verbeke stayed at the loom. You named no price for the seat. She said she was not discussing a second time. You left before them.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the price unspoken, and went ahead of them.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Decided on the church hat and one visit, and refused a procession.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Agreed to sit beside her, and stopped a second question.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed with the loom, and left the kitchen able to receive them.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Before one",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard Mistress Ansell decide to see the play",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the church hat",
+    "the lower gallery",
+    "no price named",
+    "one time not two"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I am going, Master Shakespeare. Church hat."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Once is a thing I have decided. I am not discussing a second time at breakfast."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not naming a price for your seat."
+    }
+  ]
+}

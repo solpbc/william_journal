@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:15:00", "text": "The press can want a third poem. I have not got one.", "timing": {"end": 8.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:15:08", "text": "A duke. Four lovers. A weaver. None of them is a book for his Friday.", "timing": {"end": 18.0, "start": 8.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:15:18", "text": "The king is played. The book is not done with me. Sunday is a goose.", "timing": {"end": 28.0, "start": 18.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "21:15:28", "text": "Enough.", "timing": {"end": 38.0, "start": 28.0}}

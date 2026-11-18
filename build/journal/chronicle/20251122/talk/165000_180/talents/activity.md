@@ -1,0 +1,1 @@
+Heminges said the reckoning was eight-and-twenty shillings, and that Monday had been the Queen's. You told him to say it once. Burbage would not make it a total for the house. Heminges said it is the reckoning and not the coffer. You did not repeat the figure.

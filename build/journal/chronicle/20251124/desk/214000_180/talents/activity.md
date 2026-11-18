@@ -1,0 +1,1 @@
+At home you entered the pound received and the two pounds to the brief. You wrote that one pound is still owed. You did not put a total under the lines. You shut both locks. Michaelmas remains the last count, because you did not make another.

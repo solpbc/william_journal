@@ -1,0 +1,63 @@
+{
+  "overview": "You wrote that you were in the Shrew and did not name the part. You put the company's word for never on the tables, under yesterday's line. Kemp has the proverb. He does not have the king's page. Gib was upstairs with it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the phrase and left the name off."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Stayed with the page upstairs."
+    },
+    {
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "formal_term": "Will Kemp",
+      "appointment_tier": "not_applicable",
+      "context": "Has the proverb in his mouth, and does not have the page."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the unnamed part",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the proverb",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the page left upstairs",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Taming of the Shrew",
+      "asset_type": "other",
+      "disposition": "Wrote the word for never"
+    },
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Wrote the word for never"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-30",
+      "meaning": "The word for never"
+    }
+  ],
+  "summary": "Wrote the word for never"
+}

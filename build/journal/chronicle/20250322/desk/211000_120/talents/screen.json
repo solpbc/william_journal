@@ -1,0 +1,17 @@
+{
+  "narrative": "The almanac is open at March. A small cross sits beside the day. Nothing is written next to the cross. No name.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Made the mark and wrote nothing beside it."
+    },
+    {
+      "type": "Tool",
+      "name": "the almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in A cross, and no word"
+    }
+  ]
+}

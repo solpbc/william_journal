@@ -1,0 +1,1 @@
+You stood in the doorway because the cough would not let you sleep. The close was hard frost, each stone rimmed white, with one lit window in Crosby Place and a cat's prints the only other tracks. The puddle by the gate was frozen white and opaque. You were not in the picture.

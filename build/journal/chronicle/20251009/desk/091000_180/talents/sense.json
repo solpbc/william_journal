@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You read the two bills. Yours is the comedy, by the Lord Chamberlain his servants. The Rose has The Grecian Comedy, by the Lord Admiral his servants. No author on either. You did not cross the water.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the two bills and did not look for a name under either title.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Two bills, and no author",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Grecian Comedy",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Two bills, and no author",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read the comedy bill and The Grecian Comedy",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the comedy",
+    "The Grecian Comedy",
+    "no author"
+  ],
+  "quotes": []
+}

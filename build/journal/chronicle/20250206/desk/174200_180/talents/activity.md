@@ -1,0 +1,1 @@
+You read Anne's letter in the yard. The pan is mended. The ladle was where your father swore he had never put it. The well had been a quarrel over a turn, and it was done. She wrote that he is mending. There was no day for Lent in it.

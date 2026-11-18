@@ -1,0 +1,76 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "In the dark hour you said his sentence over as you would a cue. You asked whether \"it can be done\" meant that a man can be made to pity a king put down, or that a king can be put down. You called them the same four words. You had looked at the hand, not the face. You tried the sentence as praise, as warning, and as a habit of saying nothing in a full sentence. You did not choose. You said that he saw the three leaves, that Hunsdon's daughter saw them, and that the Master cut them. Yesterday the lovers played a second time to a house nearly as full, and you said the Prologue with a steady heart. You stopped on Sleep.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Construed the sentence, refused it a verdict, and went back toward sleep.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Very well penned",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Very well penned",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said his sentence over and left it standing",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the sentence as a cue",
+    "the same four words",
+    "the hand not the face",
+    "no verdict",
+    "the second prologue"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "It is very well penned, Master Shakespeare. I had not thought to be made to pity him; I shall remember that it can be done."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "That what can be done? That a man can be made to pity a king put down. Or that a king can be put down. The same four words."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Very well penned. He looked at the hand, not the face. They all know me by the hand."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Two nights since I had forty candles and the Queen's own councillor, and I'm lying here construing him like Ovid."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Yesterday the lovers played a second time, to a house nearly as full, and I said the Prologue with a steady heart."
+    }
+  ]
+}

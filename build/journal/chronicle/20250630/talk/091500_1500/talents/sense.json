@@ -1,0 +1,104 @@
+{
+  "density": "active",
+  "content_type": "reading",
+  "activity_summary": "You sat at James Burbage's long table with the fellows, Kemp not yet in. The streets up had been swept and silent, and the gate had looked at every face. John said the almanac says no play, and that the afternoon bill was struck this morning. You began the forty leaves. At the hollow crown you read the two lines, and Dick's hand went flat on the table and stayed. You did not take the hand away. The harder page is still ahead of you. Nothing has been agreed yet except to hear the king out.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the forty leaves and began to read every voice.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked what was brought, and left his hand flat at the hollow crown.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the almanac and the struck afternoon, and told the reading to go on.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Shut the door, and heard a king at his table without calling it a play.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Noted Saturday's second lock, and that Kemp was not yet in.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called the table the Monday you had agreed to meet, and kept you reading.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Every voice, at the long table",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Began the king and Dick's hand stayed flat on the table",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "James Burbage",
+    "William Shakespeare",
+    "John Heminges",
+    "Augustine Phillips",
+    "George Bryan",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Holywell gate",
+    "no play",
+    "the forty leaves",
+    "the hollow crown"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "For Gods sake let vs sit vpon the ground"
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Quieter, and empty of a play at two. The almanac says no play"
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Leave thy hand out of it. No. Leave mine. I am not done with the line;"
+    }
+  ]
+}

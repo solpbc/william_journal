@@ -1,0 +1,146 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "After supper each child asked one thing from London. Susanna wanted a book with no riddles. Judith wanted a song nobody in Stratford has. Hamnet asked whether the sword was ever in a real fight, and you told him it had killed the same man four times a year since before he was born. He was satisfied. Edmund asked to come to London and was told that fifteen is for school. Your father sang half a catch, the words he had, and forgot the rest. Anne sent them up. Mary, Joan, and Richard were in the room and did not speak. Seven voices, and no more.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the asks, answered the sword, and told Edmund fifteen is for school.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sent the children up.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sang the half he had and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for an English book with no riddles.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for a song nobody in Stratford has, and named the catch as half.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked about the sword and was satisfied.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked to begin in London, and was refused.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat by the hearth and did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "In the room. She did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat by the door and did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the lath sword",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in One thing from London",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Heard each child ask one thing, and half a catch",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Shakespeare",
+    "William Shakespeare",
+    "Susanna Shakespeare",
+    "Judith Shakespeare",
+    "Hamnet Shakespeare",
+    "Edmund Shakespeare",
+    "Anne Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a book with no riddles",
+    "a song the lane does not have",
+    "the sword",
+    "fifteen for school",
+    "half a catch"
+  ],
+  "quotes": [
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "A book in English, with no riddles in it."
+    },
+    {
+      "speaker": "judith_shakespeare",
+      "text": "I want a song nobody in Stratford has."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It has killed the same man four times a year since before you were born."
+    },
+    {
+      "speaker": "edmund_shakespeare",
+      "text": "I did not say I would be a chief player. I said I would begin."
+    },
+    {
+      "speaker": "john_shakespeare",
+      "text": "Jack boy, ho boy, news, the cat is in the well."
+    }
+  ]
+}

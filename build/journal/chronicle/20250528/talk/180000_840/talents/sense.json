@@ -1,0 +1,89 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "The clerk had left a precept from Crosby Place, to be read on Sunday next: no blue starch in ruffs. Mistress Ansell had it by heart. She said starch is good wheat boiled to vanity, and blue is vanity dyed. You asked if the Mayor had found the dearth in our collars. She said you may laugh, and that he is a hard man and right about ruffs. Alse owns one band starched blue, bought at Whitsun last. She was allowed to wash it white. At the table the loaf was a finger and a half short, and a penny.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked the question about collars, and kept the loaf at a finger and a half.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had the precept by heart, gave the two sentences, and allowed the washing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat still, owned the one band, and took leave to wash it white.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "blue starch",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Good wheat, boiled to vanity",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Good wheat, boiled to vanity",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Crosby Place",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Good wheat, boiled to vanity",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard the blue-starch precept and that Alse may wash the band white",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the precept",
+    "blue starch",
+    "Alse's band",
+    "a finger and a half"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Starch is good wheat boiled to vanity, and blue is vanity dyed."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "You may laugh. He is a hard man and he is right about ruffs."
+    }
+  ]
+}

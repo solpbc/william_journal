@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "After the house was done with you, Garnish gave you the licensed book and not the foul papers. Tomorrow it goes under your cloak, to be read with the door shut. Heminges is not entering it as a loss. The chronicle stays. The king stays.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Loosed the licensed book and kept the terms.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took it for Sunday and left the chronicle.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept it off the losses.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The licensed book",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took the licensed book of the comedy",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "William Shakespeare",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the licensed book",
+    "the shut door",
+    "not a loss"
+  ],
+  "quotes": [
+    {
+      "speaker": "abel_garnish",
+      "text": "The licensed book. Take it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Tomorrow it goes under my cloak to Blackfriars."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "It is not a loss."
+    }
+  ]
+}

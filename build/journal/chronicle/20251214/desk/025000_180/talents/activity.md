@@ -1,0 +1,1 @@
+You left the letter open on the table. The date is the fourteenth of December 1595. You did not write the things you are holding back, and you did not seal the sheet. The private leaves stayed under the canvas.

@@ -1,0 +1,29 @@
+{
+  "narrative": "The spilled silver heap beside the opened boxes, Cuthbert's hand still on a lid.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and did not touch the lid."
+    },
+    {
+      "type": "Person",
+      "name": "Cuthbert Burbage",
+      "role": "mentioned",
+      "context": "His hand is the one in the picture."
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "context": "The baize under the silver is his. He is not the hand."
+    },
+    {
+      "type": "Tool",
+      "name": "the boxes",
+      "role": "mentioned",
+      "context": "In photo: The silver, and a hand on a lid"
+    }
+  ]
+}

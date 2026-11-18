@@ -1,0 +1,109 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Before six the shoe went on. Anne sent bread, and dinner at Bartholomew's call. Your father wanted a back at a sickle and no sermon in the field. You left the play on the shelf, and you left the burned row for Thursday.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put the shoe on and accepted the hours.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Required the shoe, and set dinner at Bartholomew's call.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sent a back to the sickle, and kept barley's price for the table.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put the bread in the cloth and the wide stall in reach.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "hewlands_shottery",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The shoe goes on",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "richard_quiney",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The shoe goes on",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "abraham_sturley",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The shoe goes on",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "bartholomew_hathaway",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The shoe goes on",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Put the shoe on and named six till four",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare",
+    "John Shakespeare",
+    "Joan Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the shoe",
+    "six till four",
+    "the row left for Thursday"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "The shoe goes on. Hewlands will not take a bare foot"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Six till four. I have it"
+    },
+    {
+      "speaker": "john_shakespeare",
+      "text": "And no sermon in a field"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "After the Shrew, which you were not in, two Gray's Inn men brought wine to the parlour door and told the twenty-eighth of December. The hall was thronged, the Templars' ambassador left in dudgeon, the dancing was ruined, and a company of base and common fellows played. Kemp asked for that in writing and offered to have been the sorcerer. Heminges's book says Greenwich in the afternoon and Gray's Inn that night. Kemp says the night before. Burbage remembers the cold on the river, and what a clerk will make of two houses in one night. You did not enter the hall. You promised him the fifth act at the Jackdaw on Saturday, after the reckoning. He has not heard it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a verdict, stayed out of the hall, and promised the Jackdaw.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took base and common as praise, asked for it in writing, and swore the night before.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the cold on the river, laughed at the clerk to come, and claimed Saturday.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the book as written, and did not lend it.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Base and common fellows",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "Gray's Inn",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Base and common fellows",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Base and common fellows",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard the Gray's Inn men at the door and refused a verdict",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Will Kemp",
+    "William Shakespeare",
+    "John Heminges",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the twenty-eighth of December",
+    "base and common",
+    "the sorcerer",
+    "the book against the river",
+    "Saturday at the Jackdaw"
+  ],
+  "quotes": [
+    {
+      "speaker": "(first_student)",
+      "text": "a company of base and common fellows was brought in, to crown the confusion with a play."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "It was the night before."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Greenwich in the afternoon, and Gray's Inn that night."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "I remember the cold on the river."
+    }
+  ]
+}

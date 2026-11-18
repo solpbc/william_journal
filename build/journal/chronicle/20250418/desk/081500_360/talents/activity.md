@@ -1,0 +1,1 @@
+Before church you read the chronicle on the King's last days and wrote one question beside it. The question was the difference between a thing done and the account that survives it. You did not take yesterday's sheets out, and you did not add a speech.

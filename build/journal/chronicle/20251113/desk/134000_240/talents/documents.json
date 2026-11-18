@@ -1,0 +1,61 @@
+{
+  "overview": "At home you read Anne's letter. A woman from Bridge Street is to do the great wash through the winter at fourpence a week, and she has paid it already out of the Michaelmas money. You were told, not asked. You did not write the answer.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the letter and did not answer it."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Had written the decision. She was not in the room."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the great wash",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "fourpence a week",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Michaelmas money",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "told not asked",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "fourpence a week",
+      "asset_type": "other",
+      "disposition": "Read that the wash was already paid"
+    },
+    {
+      "name": "the Michaelmas money",
+      "asset_type": "other",
+      "disposition": "Read that the wash was already paid"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-13",
+      "meaning": "On the stair"
+    }
+  ],
+  "summary": "Read that the wash was already paid"
+}

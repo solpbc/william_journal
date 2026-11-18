@@ -1,0 +1,94 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You brought the parcel to the Hazel, and Kemp tried the knot with his fingers, his teeth, a fork, and a speech. You would not say which child tied it. Alice ended it with a knife in one stroke. Inside were two pairs of knitted hose, your mother's cake, and a slip in Susanna's hand with nothing but whom.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the parcel, refused the child's name, and read the slip.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Tried fingers, teeth, a fork, and a speech, and did not get the name.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alice Brambleby",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Produced a knife without being asked, and ended it in one stroke.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Her hand on the slip, and nothing on it but whom.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "The cake is hers. She is not at the table.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "two pairs of knitted hose",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The knot, and then a knife",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Alice ended the knot with a knife",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Will Kemp",
+    "William Shakespeare",
+    "Alice Brambleby"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the knot",
+    "the fork",
+    "the knife",
+    "whom",
+    "two pairs of hose"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not say which."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Susanna's hand. Nothing on it but whom."
+    },
+    {
+      "speaker": "alice_brambleby",
+      "text": "There. One stroke."
+    }
+  ]
+}

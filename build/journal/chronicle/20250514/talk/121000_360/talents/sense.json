@@ -1,0 +1,85 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Mistress Ansell asked if this was the king who was dying or a new trouble. You said the dying was the second act, and that he has come ashore in Wales and puts his hand to the earth. She hoped the ground is not the point, and she did not say who takes the crown. You said you wrote a little more this morning and are done until the speech. The loaf was a penny and a finger and a half short. Board was threepence because you sat. You did not ask who puts him down. She did not offer that verdict.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked with the jug in her hand, and hoped the ground was not the point.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the threepence, and left the three words alone.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the greeting as not a grave, and kept his name off the act.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he is ashore, refused the larger verdict, and sat.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The ground is not the point",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Paid threepence, and Mistress Ansell hoped the ground is not the point",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "ashore",
+    "the ground is not the point",
+    "threepence"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I hope the ground is not the point"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The dying was the second act"
+    },
+    {
+      "speaker": "gillis_verbeke",
+      "text": "Then the ground is a greeting, and not a grave"
+    }
+  ]
+}

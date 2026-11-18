@@ -1,0 +1,1 @@
+You stayed at the lodging. The king was at the Theatre at two, and you were not in it. Dinner at her table was the standing threepence. You did not invent a part for an afternoon the bill had already settled.

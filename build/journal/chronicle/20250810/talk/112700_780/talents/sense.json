@@ -1,0 +1,76 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You came out of the pew with Anne and your mother and did not stop for a word in the aisle. Your mother allowed one answer if a neighbour asked, and no recital. You kept the lesson as kept, and you went on toward a short street and dinner.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the pew and went toward dinner",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the pew and went toward dinner",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the pew and went toward dinner",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Sadlers' dinner",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Left the pew and went toward dinner",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Sat the service at Holy Trinity",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "Mary Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the aisle",
+    "no recital",
+    "dinner at the Cross"
+  ],
+  "quotes": [
+    {
+      "speaker": "mary_shakespeare",
+      "text": "I will not have a recital at the door."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "do not stop to be thanked for coming home."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The pew is behind us."
+    }
+  ]
+}

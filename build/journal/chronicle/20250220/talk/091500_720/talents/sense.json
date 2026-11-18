@@ -1,0 +1,114 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "On the morning of the first playing you kept the margin blank. Two of the clock stayed the hour. Burbage was told not to soften the refusal. Kemp was told that anything he added would be seen and was not given a number. Nick had the gown on. Sincler kept the half-line small. You went to look at the bill.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a morning tally and kept the refusal where he had marked it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Agreed not to marry the ending, and stopped the list from being said again.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Wore the gown and left the paper crown untouched on the stool.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the pin and no stroke, and would not take a number before the play.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the yard would want more than was set down, and was not licensed a figure.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Sincler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the half-line, and said he would be black when William was paper.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left Sam's song alone and told Nick to spend the voice on the last scene.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The morning of it",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Named two of the clock for the first playing",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "William Shakespeare",
+    "Nick Sorrell",
+    "Richard Burbage",
+    "Will Kemp",
+    "John Sincler",
+    "Augustine Phillips"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "no total yet",
+    "two of the clock",
+    "the refusal",
+    "the gown",
+    "the paper crown"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Leave the refusal, Dick."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "A number is a thing I do not have yet."
+    },
+    {
+      "speaker": "john_sincler",
+      "text": "Slower in. Then nothing."
+    }
+  ]
+}

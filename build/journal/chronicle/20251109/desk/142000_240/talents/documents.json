@@ -1,0 +1,44 @@
+{
+  "overview": "In the afternoon you looked at the vault line and at the blank under it. The families are still not fetched. You did not dip the pen. You did not give the Friar his length, and you did not give the Prince his close.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the line, and did not write."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the vault line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the blank",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the pen not dipped",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the lovers' play",
+      "asset_type": "other",
+      "disposition": "Read the vault line"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-09",
+      "meaning": "The families not fetched"
+    }
+  ],
+  "summary": "Read the vault line"
+}

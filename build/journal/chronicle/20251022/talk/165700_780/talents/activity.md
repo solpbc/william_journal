@@ -1,0 +1,1 @@
+You washed the paint off in cold water. Mistress Ansell stayed out of the passage. The coat went on the peg. Alse did not look at the bundle a second time. You went toward the table with your own face.

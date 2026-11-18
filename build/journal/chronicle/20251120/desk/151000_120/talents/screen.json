@@ -1,0 +1,29 @@
+{
+  "narrative": "The stage in the afternoon, Navarre's gown on, and a tally-book somewhere off the stage still open. No line is struck in it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Played, and copied nothing."
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "context": "Was not handed a page. The tally stayed open."
+    },
+    {
+      "type": "Project",
+      "name": "Navarre",
+      "role": "mentioned",
+      "context": "Shown on stage in Navarre, and the book still open"
+    },
+    {
+      "type": "Project",
+      "name": "Wonder of a Woman",
+      "role": "mentioned",
+      "context": "Shown on stage in Navarre, and the book still open"
+    }
+  ]
+}

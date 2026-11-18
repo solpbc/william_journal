@@ -1,0 +1,51 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "A little before ten you wrote the last couplet and ruled a line under it. It is sixty-odd days since Gaunt's four words. You did not write another line beneath the rule. Gib stayed on the Holinshed.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the couplet and ruled the line.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Stayed on the chronicle, off the sheet.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in A line ruled under",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Ruled the line under the couplet",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the last couplet",
+    "the rule",
+    "sixty-odd days"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,17 @@
+{
+  "narrative": "His part for the old man in Errors, open at the top of the roll and blank of any later cue he would need. A chair back, the side of the stage, his hand at the margin. His face is not on the page.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Opened the play and stayed idle after it."
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "context": "Shown on part in He opens"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "narrative": "The packet held at the chest, the cloak over it. The writing is turned inward. The tables are still open on the desk behind. A last look at the letter. The pen is in the rest. No wafer. The hand is not on the sheet. The chamber door, the lantern not yet lit. The letter is a pale rectangle on the desk, staying.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Put the packet under the cloak"
+    }
+  ]
+}

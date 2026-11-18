@@ -1,0 +1,1 @@
+You stood in the south aisle at St Helen's. Master Thwaite told the parish to keep the day and their counsel. You did not answer him. Mistress Ansell kept her stories for her own table. You left the page shut until you were home.

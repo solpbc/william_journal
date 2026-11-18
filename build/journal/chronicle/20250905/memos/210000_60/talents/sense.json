@@ -1,0 +1,55 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "The lane was noisy with people back from the other bank and the jokes still in them. You said you were not going over to learn the jokes. You shut the casement. The talker is still talking, and you do not know the how. You went to bed early, for first light.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Shut the window, named what he does not know, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the lane",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Casement shut",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Shut the casement and went to bed early",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the lane",
+    "the casement",
+    "the how unknown",
+    "first light"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The lane is full of them, back from the other bank"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The talker is still talking. I don't know the how."
+    }
+  ]
+}

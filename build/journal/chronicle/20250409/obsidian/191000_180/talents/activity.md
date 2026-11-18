@@ -1,0 +1,1 @@
+At the Catherine Wheel, with rain on the yard, a counting rhythm came to you, this and this and this. You wrote a line or two and stopped. You marked the lines as not hers. You did not begin the play, and you did not write the speech you do not have yet.

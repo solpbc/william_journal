@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At five Will Sly brought word from Bankside that Henslowe had opened to a house you could have counted. Burbage said they have been in Kent, and Kent has kept the taste.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the fair against it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Sly",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the word.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the reason, and enjoyed it.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "the Rose",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Kent has kept the taste",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Sly's news from Bankside and Burbage's answer",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Sly",
+    "Richard Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Rose's reopening",
+    "a thin house",
+    "Kent"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "They've been in Kent. Kent has kept the taste."
+    }
+  ]
+}

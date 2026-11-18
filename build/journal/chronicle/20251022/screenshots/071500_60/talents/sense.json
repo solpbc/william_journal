@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "You left the loaf where Alse had measured it. It was still a thumb short of the notch. You saw the gap, and you saw the hand at the edge of the board.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Looked, and left the board as Alse had set it.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The loaf and the notch",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Looked at the short loaf",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the notch",
+    "the short loaf",
+    "the kitchen light"
+  ],
+  "quotes": []
+}

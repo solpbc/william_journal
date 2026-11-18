@@ -1,0 +1,98 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "After the boats had been told, the board went back to being a board. Hamnet left the arch where he had told it. Judith ate. You did not bring the path in, and Anne kept it out.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Ate on after the boats were told",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Ate on after the boats were told",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Ate on after the boats were told",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Ate on after the boats were told",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Ate on after the boats were told",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Ate on after the boats were told",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the three bark boats",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Ate on after the boats were told",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Sat down to supper",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Joan Shakespeare",
+    "Hamnet Shakespeare",
+    "Judith Shakespeare",
+    "William Shakespeare",
+    "Anne Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cups",
+    "the arch left told",
+    "the path kept out"
+  ],
+  "quotes": [
+    {
+      "speaker": "hamnet_shakespeare",
+      "text": "The arch can stay where I left it, which is told."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not opening my mouth for a path."
+    }
+  ]
+}

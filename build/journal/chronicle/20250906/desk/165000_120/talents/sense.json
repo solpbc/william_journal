@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At the reckoning you wrote the share as one-and-thirty shillings. You wrote that the coffer was not opened, and that it stands as ruled, at twenty pound fifteen shillings. You did not make a new total.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the share, and did not open the coffer.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "one-and-thirty shillings",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in One-and-thirty",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "twenty pound fifteen shillings",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in One-and-thirty",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Wrote one-and-thirty beside the old ruling",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one-and-thirty shillings",
+    "the coffer not opened",
+    "twenty pound fifteen"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Against the fourteenth, a small cross and no word, the first since June. Nothing else was written. The jaw had a pulse in it, and you let that be the reason.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Set the cross, and left the rest of the table empty.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the almanac",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Against the fourteenth",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Set a cross against the fourteenth",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cross",
+    "no word",
+    "the jaw"
+  ],
+  "quotes": []
+}

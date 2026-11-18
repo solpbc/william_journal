@@ -1,0 +1,1 @@
+You wrote to Quiney about the town's certificate. Woburn burned on Saturday, and a tract is already in the press. You asked him to send the paper. You set no sum on the letter. You dated it the nineteenth of September 1595. The words were hard, and these are the ones you found.

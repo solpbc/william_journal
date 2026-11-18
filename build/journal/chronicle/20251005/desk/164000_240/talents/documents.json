@@ -1,0 +1,56 @@
+{
+  "overview": "In the afternoon you had Brooke open under the brass weight, and a clean sheet beside it with nothing written. Gib slept on the cloth over Holinshed. You did not start the girl's night today.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Pinned the book and left the folio blank."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Slept on the cloth over the chronicle."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Brooke",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a clean sheet",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the cat on the chronicle",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Brooke's Romeus and Juliet",
+      "asset_type": "other",
+      "disposition": "Read Brooke under the weight"
+    },
+    {
+      "name": "Holinshed",
+      "asset_type": "other",
+      "disposition": "Read Brooke under the weight"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-05",
+      "meaning": "Brooke, and the cat on the chronicle"
+    }
+  ],
+  "summary": "Read Brooke under the weight"
+}

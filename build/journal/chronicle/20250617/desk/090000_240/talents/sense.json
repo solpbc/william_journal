@@ -1,0 +1,43 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "After the call you tried to set down a private account of the week's disturbances. You crossed out a sentence that would have sounded well in an alderman's mouth. What remained was a list of things heard. Pell, two hundred. Verbeke, a silkweaver, English. Alse, Ludgate. You left it a list. It was no scene of any play.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Crossed the sentence and stopped at the list.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "two hundred",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in A phrase crossed out",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Crossed out the alderman's sentence and kept the list",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the crossed sentence",
+    "the list",
+    "no scene"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,23 @@
+{
+  "narrative": "The tiring-house. The gown for the opening is the one he wore on Monday. Nothing new is pinned to it. The plot on the peg is the comedy. He stands where Egeon begins. The yard is filling. The plot names the play. The gown does not name the man.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Played Egeon."
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "context": "Shown on stage in Egeon, and no new name"
+    },
+    {
+      "type": "Project",
+      "name": "Egeon",
+      "role": "mentioned",
+      "context": "Shown on stage in Egeon, and no new name"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Cuthbert called from a scrivener's in Cheapside. The Mayor's letter to the Council, against plays, came as hearsay from a Guildhall clerk. It names the Bankside and also Middlesex, which is his father's house and two miles of fields. His man could not swear the Theatre was named. You were to say nothing until the play was done.

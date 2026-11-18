@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At home you wrote the three marks and wrote that the glass was promised yesterday and struck off today's sheet. You noted that blue starch had been spoken of and that no paper had come. You did not start another scene.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the page and did not start another sheet.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three names, and the glass still out",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "blue starch",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three names, and the glass still out",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote the three marks and the glass off the sheet",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the three marks",
+    "the struck glass",
+    "blue starch not yet paper"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "timestamp": "2025-01-03T21:15:00Z",
+  "outcome": "served",
+  "reason": null,
+  "result": {
+    "count": 1,
+    "targets": [
+      "facets/company/activities/20250103.jsonl#meeting_120500_480"
+    ],
+    "digest": "88769bcf8649bbd70483142da0db0d93c0c7f3ddaece54b9af526edbe8c7a7c3"
+  }
+}

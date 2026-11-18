@@ -1,0 +1,44 @@
+{
+  "overview": "At home you wrote the Christmas line in your book. You set expected against received, and you struck received. You wrote no sum. You wrote no coffer figure.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the line and struck the sum he had not written."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "expected",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a struck word",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no sum",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Christmas line",
+      "asset_type": "other",
+      "disposition": "Wrote expected and struck received"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-20",
+      "meaning": "Expected, and received"
+    }
+  ],
+  "summary": "Wrote expected and struck received"
+}

@@ -1,0 +1,47 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Alone, you set Monday as the condition, the following as the other, and the fourth time as done. You left the deposit without a figure and the week without a line. You stopped.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the condition and stopped.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Set Monday, and following the Queen, then stopped",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Monday",
+    "follow the Queen",
+    "the fourth time",
+    "no line"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "If she does not go, we follow the Queen, like everybody else."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No line under the week."
+    }
+  ]
+}

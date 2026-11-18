@@ -1,0 +1,23 @@
+{
+  "narrative": "A narrow leaf in the account book, a ruled line, the brass inkhorn just recovered, and a short row of coins at the edge of the page. A hand is on the coins. No face. The same leaf, the rule drawn under the sixteen shillings, the coins gone back to the purse. The jar of bay grease is beside the book, not entered.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Counted the purse once, and ruled it off."
+    },
+    {
+      "type": "Tool",
+      "name": "sixteen shillings",
+      "role": "mentioned",
+      "context": "Shown on ledger in Sixteen shillings"
+    },
+    {
+      "type": "Tool",
+      "name": "two shillings",
+      "role": "mentioned",
+      "context": "Shown on ledger in Sixteen shillings"
+    }
+  ]
+}

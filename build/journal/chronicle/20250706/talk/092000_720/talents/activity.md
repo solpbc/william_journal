@@ -1,0 +1,1 @@
+You stood in the porch after a sermon of one turn. Master Thwaite had read the heads of Friday's proclamation. The Mayor's pew had halberds and a new man behind. You saw the empty pew in the north aisle and said you would put no cross in the almanac. A neighbour said half the better sort had gone out of the City. Sir John spoke only the responses.

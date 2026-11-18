@@ -1,0 +1,93 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Before church you sat at the board. The loaf was still a thumb short of the notch, and still a penny. Yesterday's butter had been fourpence, where the constable stood, and Mistress Ansell would not have it improved. Verbeke was coming to church with the house, because not to come would be noticed. If he were asked, the answer was Norwich. You did not spend that sentence where nobody had asked it. You carried no book to the pew.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate, and did not spend the Norwich sentence where nobody had asked.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put the loaf on the board, named yesterday's fourpence, and kept the cover for the door.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the loaf out and did not carry the notch into the lane.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he would come with the house, and that if asked he is from Norwich.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The short loaf, before the bells",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "fourpence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The short loaf, before the bells",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate the short loaf",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "William Shakespeare",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the penny loaf",
+    "fourpence",
+    "Norwich if asked"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "It is still a thumb short of the notch, and it is still a penny."
+    },
+    {
+      "speaker": "gillis_verbeke",
+      "text": "I come with the house. Not to come would be noticed."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Yesterday's butter was fourpence, where the constable stood."
+    }
+  ]
+}

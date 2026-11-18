@@ -1,0 +1,68 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Quiney sat on the bed-foot and talked of the town's brief, the bailiff, and what a word from a great lord's servant might do, because you could not get up and leave. You gave him one sentence: strike judgment, leave the malt. The two gentlemen who will certify the fires stayed unnamed, and they were not in the room. You promised no errand. Of the two pounds he said nothing at all.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Struck judgment from the brief, and promised no word to a lord.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Quiney",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the bailiff's fair copy and the servant's possible word, and left the debt unsaid.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the town's brief",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The brief, and nothing else",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Gave Quiney one sentence on the brief",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Quiney",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the brief",
+    "the bailiff",
+    "two unnamed gentlemen",
+    "a great lord's servant"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Strike judgment. Leave the malt. That is the sentence."
+    },
+    {
+      "speaker": "richard_quiney",
+      "text": "A word from a great lord's servant might do what a second letter from a bailiff will not."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have no such errand."
+    }
+  ]
+}

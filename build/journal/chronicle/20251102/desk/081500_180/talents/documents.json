@@ -1,0 +1,44 @@
+{
+  "overview": "Before church you had the almanac open. The leaf for the day prints no feast. You did not write one in.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the leaf, and left it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the almanac",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no feast",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "before church",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the almanac",
+      "asset_type": "other",
+      "disposition": "Read the day's leaf in the almanac"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-02",
+      "meaning": "No feast in the book"
+    }
+  ],
+  "summary": "Read the day's leaf in the almanac"
+}

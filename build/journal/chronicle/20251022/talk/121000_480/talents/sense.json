@@ -1,0 +1,93 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At midday the jaw was healed and you ate a crust. The loaf was still a penny and a full thumb short of the notch. You said you are in the afternoon play, and you did not name a part. The red bundle stays tied. You have no story yet to bring home. Mistress Ansell still does not go to a playhouse.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate the end piece, kept the bundle shut, and promised no play at the table.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Tested the jaw, restated the threepence and the one candle, and did not ask the title.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Returned the crust to the board and measured the loaf again.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Moved from the book to the brick.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Ate a crust once the jaw had healed",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Ate a crust once the jaw had healed",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate dinner, and the jaw took the crust",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a healed jaw",
+    "the crust",
+    "the short loaf",
+    "the tied bundle"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The jaw is healed."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "The loaf is still a penny, and it is still a full thumb short of the notch."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The red bundle stays tied."
+    }
+  ]
+}

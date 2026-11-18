@@ -1,0 +1,80 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You stayed in for the afternoon. The Knave went on without you. The loaf was still a finger short. The board was threepence. You told them the leaf upstairs was still not to be sent.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he was not in the afternoon's play and stayed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the board at threepence and kept the letter off any carrier.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed the loaf still short of the notch.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Knave",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not going back",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not going back",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate and stayed in",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Knave",
+    "the loaf",
+    "the unsent leaf"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not in it. I am not going back."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "It is still a finger short."
+    }
+  ]
+}

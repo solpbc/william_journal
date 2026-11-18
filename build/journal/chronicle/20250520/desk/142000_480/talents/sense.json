@@ -1,0 +1,51 @@
+{
+  "density": "active",
+  "content_type": "media",
+  "activity_summary": "The bill said the first part of Hercules, and it named no author. Alleyn came through a door in a lion's skin, taller than the door, and the voice filled the house. You were by the right-hand post.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the bill and stayed by the right-hand post.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edward Alleyn",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Came through the door in the lion's skin. He did not speak to the yard.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the first part of Hercules",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in A labour",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Stood by the post for Alleyn in a lion's skin",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the bill",
+    "the lion's skin",
+    "a labour"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,1 @@
+After the play Kemp brought a scrap that made him the Nurse's man with a fan. You wrote, on a drum, three minutes of Peter and the musicians beside the bed. The fiddlers' names come out of their catgut, and you did not spell them. Cowley's wage is ten shillings a week, and the insult is not a second wage. Kemp called it a crust and took it. You did not write the vault.

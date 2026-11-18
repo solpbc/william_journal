@@ -1,0 +1,85 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You ate at the lodging and said you were in the comedy at two. The loaf was still shrunk on the pan. Verbeke said the close had been quiet on his way to the loom. You did not open a book.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he was in the comedy, and that he would want supper rather than dinner.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sent him off without a speech about the price.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Remembered the landlady's old verdict on the comedy, and was told to let it lie.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the close had been quiet on the way to the loom.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the comedy",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A playing day, before noon",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A playing day, before noon",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Said the comedy was at two",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Whit Monday",
+    "the comedy",
+    "the penny loaf"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Shrunk on the pan, and a penny, and still not a text."
+    }
+  ]
+}

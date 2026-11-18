@@ -1,0 +1,51 @@
+{
+  "overview": "You tried to give the objection from last night, that a twelvemonth and a day is too long for a play, and you struck it as too bald. You left a rougher line under it and left the messenger's half-line empty. You did not write a song. You did not write the last line. The comedy is not finished.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Struck two lines and left the half-line empty."
+    },
+    {
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "formal_term": "Richard Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Not in the room. The struck phrase is the one he gave you last night."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the fifth act",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the struck objection",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the empty half-line",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Struck the bald line and wrote a shorter one"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-12",
+      "meaning": "Too long for a play"
+    }
+  ],
+  "summary": "Struck the bald line and wrote a shorter one"
+}

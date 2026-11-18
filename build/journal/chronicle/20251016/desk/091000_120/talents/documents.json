@@ -1,0 +1,44 @@
+{
+  "overview": "At nine you were still in the lodging. The almanac had the day. You did not go up to the Theatre. You did not write that the hour had failed. You wrote only that it was not you.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Stayed at the table and did not go out."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "nine o'clock",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the lodging",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "not you",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the penny almanac",
+      "asset_type": "other",
+      "disposition": "Stayed in at nine"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-16",
+      "meaning": "The nine o'clock, unkept by him"
+    }
+  ],
+  "summary": "Stayed in at nine"
+}

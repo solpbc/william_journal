@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "17:45:00", "text": "They have spent heavily.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "17:45:12", "text": "The money was not wasted.", "timing": {"end": 24.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "17:45:24", "text": "A looking-glass against a giant.", "timing": {"end": 34.0, "start": 24.0}}

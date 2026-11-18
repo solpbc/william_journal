@@ -1,0 +1,113 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "At the Theatre door the eightpence was paid and the carter sent off. Nick asked if the stage was twice the inn's breadth. You had not paced it, and you did not invent the feet. Heminges told you not to look back at the yard, and nobody did. Garnish put the chest under two locks. The nine lines are still at the lodging, and you have not cut any yet.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered Nick without a measurement, and left the nine lines uncut.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid the eightpence and told the yard not to be looked at.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Turned both locks, and would not copy a joke twice.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked the breadth, and did not look back.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked after a loft, and was told the stage was dark.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the eightpence at the door.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "8d cart",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in At the Theatre door",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the company's chest",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in At the Theatre door",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard the eightpence paid at the Theatre door",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Blackwage, Ralph Raye, Richard Hoope",
+    "John Heminges",
+    "Nick Sorrell",
+    "William Shakespeare",
+    "Abel Garnish",
+    "Sam Latchet"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "eightpence at the door",
+    "the unpaced stage",
+    "nobody looks back",
+    "two locks",
+    "foul lines still at home"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have not paced it."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Then don't look."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Ink pins a man to Tuesday's joke on Thursday."
+    }
+  ]
+}

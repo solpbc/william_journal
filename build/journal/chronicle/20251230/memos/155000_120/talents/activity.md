@@ -1,0 +1,1 @@
+You said it was thirty yards across the close and the light was going. Gresham's chest was as plain as it was at Easter, and you were not staying. You said the blank under the queen was yours, and a stone does not tell you how to fill it. The letter was still on the board.

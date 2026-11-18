@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At home you wrote, under Of Kings, that they have Hercules and you have a man who talks, and that the talking is to be the labour. You added no height, no receipt, and no second part.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the sentence under Of Kings.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "1 Hercules",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Of Kings",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Of Kings",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote of their Hercules and of a man who talks",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Of Kings",
+    "the talking as the labour",
+    "no receipt"
+  ],
+  "quotes": []
+}

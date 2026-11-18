@@ -1,0 +1,17 @@
+{
+  "narrative": "A part on a bench in the tiring-room, the King of Navarre's name at the head, a paper crown set beside it, old velvet under the paper. No speech copied. Daylight from the yard. No face. The same heading. The crown stays on the bench. The pen is not out. The yard noise is outside the door.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Kept the heading and the crown, and did not copy a speech."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on part in Ferdinand, and the paper crown"
+    }
+  ]
+}

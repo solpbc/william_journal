@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20251005",
+    "end": "20251011"
+  },
+  "generated_at": "2025-10-11T22:00:00Z",
+  "days": [
+    {
+      "day": "20251005",
+      "state": "memory",
+      "memory_id": "m-20251005-0"
+    },
+    {
+      "day": "20251006",
+      "state": "memory",
+      "memory_id": "m-20251006-1"
+    },
+    {
+      "day": "20251007",
+      "state": "memory",
+      "memory_id": "m-20251007-2"
+    },
+    {
+      "day": "20251008",
+      "state": "memory",
+      "memory_id": "m-20251008-3"
+    },
+    {
+      "day": "20251009",
+      "state": "memory",
+      "memory_id": "m-20251009-4"
+    },
+    {
+      "day": "20251010",
+      "state": "memory",
+      "memory_id": "m-20251010-5"
+    },
+    {
+      "day": "20251011",
+      "state": "memory",
+      "memory_id": "m-20251011-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20251005-0",
+      "key": "mem_20251005_0",
+      "day": "20251005",
+      "text": "You kept the parish hour. She called the king a bad example. Eleven pound six was the box. Forty-five shillings was the share.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251005/talents/morning_briefing",
+        "briefing_day": "20251005",
+        "refs": [
+          "sol://facets/household/activities/20251005#frame_091500_240",
+          "sol://facets/household/activities/20251005#meeting_123000_720",
+          "sol://facets/writing/activities/20251005#frame_164000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20251006-1",
+      "key": "mem_20251006_1",
+      "day": "20251006",
+      "text": "Eleven lines of night are on her sheet. The first sixpence is paid. You were done in the fourth. The Rose bill was Seven Days and Wise Man.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251006/talents/morning_briefing",
+        "briefing_day": "20251006",
+        "refs": [
+          "sol://facets/household/activities/20251006#frame_053200_180",
+          "sol://facets/writing/activities/20251006#memo_054000_60",
+          "sol://facets/writing/activities/20251006#frame_064000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20251007-2",
+      "key": "mem_20251007_2",
+      "day": "20251007",
+      "text": "The direction is out of the roll. The king was played the second time, and you were dead by the middle. Three candles belonged to the tooth.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251007/talents/morning_briefing",
+        "briefing_day": "20251007",
+        "refs": [
+          "sol://facets/company/activities/20251007#meeting_090500_840",
+          "sol://facets/writing/activities/20251007#frame_102000_120",
+          "sol://facets/company/activities/20251007#memo_154000_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20251008-3",
+      "key": "mem_20251008_3",
+      "day": "20251008",
+      "text": "The sheet is still Monday's. The cloves were two pence. You kept the old Roman. Yesterday was four weeks from the ninth of September.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251008/talents/morning_briefing",
+        "briefing_day": "20251008",
+        "refs": [
+          "sol://facets/household/activities/20251008#frame_083000_240",
+          "sol://facets/household/activities/20251008#meeting_121500_480",
+          "sol://facets/company/activities/20251008#meeting_141500_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20251009-4",
+      "key": "mem_20251009_4",
+      "day": "20251009",
+      "text": "The gowns came for the king and found the comedy. The speeches stay the company's. You copied one leaf and put it back.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251009/talents/morning_briefing",
+        "briefing_day": "20251009",
+        "refs": [
+          "sol://facets/household/activities/20251009#frame_074000_120",
+          "sol://facets/company/activities/20251009#frame_091000_180",
+          "sol://facets/company/activities/20251009#meeting_140000_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20251010-5",
+      "key": "mem_20251010_5",
+      "day": "20251010",
+      "text": "The villain is the lower left. Tuesday at ten, twelve pence then. The shrew was the afternoon. The first bran is on, and the wool is by the inkhorn.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251010/talents/morning_briefing",
+        "briefing_day": "20251010",
+        "refs": [
+          "sol://facets/household/activities/20251010#meeting_081500_600",
+          "sol://facets/company/activities/20251010#meeting_091500_480",
+          "sol://facets/household/activities/20251010#meeting_184000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20251011-6",
+      "key": "mem_20251011_6",
+      "day": "20251011",
+      "text": "They parted at sunrise. The share is thirty-eight shillings. Three leaves are under the account book. The jaw is not quiet.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251011/talents/morning_briefing",
+        "briefing_day": "20251011",
+        "refs": [
+          "sol://facets/writing/activities/20251011#frame_045000_120",
+          "sol://facets/writing/activities/20251011#frame_051500_480",
+          "sol://facets/writing/activities/20251011#photo_062000_60"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20251005-0",
+      "key": "said_20251005_0",
+      "day": "20251005",
+      "quote": "A king comes home from his wars. He takes a cousin's land. The cousin comes home and takes the crown. That is the plot, Mistress, and it is shorter than the play.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20251005#meeting_123000_720"
+      }
+    },
+    {
+      "id": "s-20251006-1",
+      "key": "said_20251006_1",
+      "day": "20251006",
+      "quote": "This year nothing goes, and it will not be missed, and that's the whole of the matter.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251006#memo_054000_60"
+      }
+    },
+    {
+      "id": "s-20251007-2",
+      "key": "said_20251007_2",
+      "day": "20251007",
+      "quote": "Less to look at, and more to believe.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251007#meeting_090500_840"
+      }
+    },
+    {
+      "id": "s-20251007-3",
+      "key": "said_20251007_3",
+      "day": "20251007",
+      "quote": "When I lie down, the gum hammers. When I walk, it only aches. So I walk.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20251007#memo_234000_120"
+      }
+    },
+    {
+      "id": "s-20251008-4",
+      "key": "said_20251008_4",
+      "day": "20251008",
+      "quote": "On its nail. I am not generous with a part I can still say.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251008#meeting_141500_480"
+      }
+    },
+    {
+      "id": "s-20251009-5",
+      "key": "said_20251009_5",
+      "day": "20251009",
+      "quote": "It is a question in a play, sir. Take it to the moot. I have an entrance. The entrance is not a judgment.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251009#meeting_140000_720"
+      }
+    },
+    {
+      "id": "s-20251010-6",
+      "key": "said_20251010_6",
+      "day": "20251010",
+      "quote": "The cloves have stopped answering. The left side of my face has belonged to someone else since the night before last.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20251010#meeting_081500_600"
+      }
+    },
+    {
+      "id": "s-20251011-7",
+      "key": "said_20251011_7",
+      "day": "20251011",
+      "quote": "There is no lark in Great St Helen's in October. There are rooks. She said it was the nightingale. She was lying, and then he stayed because she asked.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20251011#meeting_124000_480"
+      }
+    }
+  ]
+}

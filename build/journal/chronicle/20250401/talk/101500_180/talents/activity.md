@@ -1,0 +1,1 @@
+Anne went by the baker's. Hamnet had the morning on his grandfather's word and walked backward, reciting Latin nouns to make Judith laugh. Susanna named two shop-signs that were new since last year. You told him the sword may cross the lane and must come home.

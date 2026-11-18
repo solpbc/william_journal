@@ -1,0 +1,124 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "The reckoning is ten shillings. You were not at Two Gentlemen, and the book will say so. Margery calls it a better stair than Tuesday and not her box. Kemp wants the roads. James wants his doors open and does not get a vote. George will not answer a two-day-old paper by leaving, not this hour. John sets the question at Monday and refuses a new total. You take the ten as received. You tell them you are going home by Bishopsgate Street, and you do not tell them why. Nothing about the country is decided.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took ten shillings as received, and named the road home without the reason.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid the ten, refused a new total, and set the roads at Monday.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked if the morning was another king, and was told it was a street.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Wanted the doors open, accepted that there was no vote, and sent the room out.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused to answer the paper by leaving, this hour.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the roads, and settled for Monday and his boots.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Distinguished the share from her box, and refused to hear a plan.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "10s received",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Ten shillings, and Monday",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "2d the horn of ink",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Ten shillings, and Monday",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took ten shillings",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Goodwife Margery Pell",
+    "Will Kemp",
+    "James Burbage",
+    "George Bryan",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "ten shillings received",
+    "the roads parked at Monday",
+    "the street home"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Ten shillings. Sit, and do not make me say the figure twice"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Write it received. I was not at the comedy"
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "There is no new total on this sheet"
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "I say the roads;"
+    }
+  ]
+}

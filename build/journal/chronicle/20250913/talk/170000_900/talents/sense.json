@@ -1,0 +1,126 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "With the door shut and the boys gone, Cuthbert told the hearsay again and Bryan made him separate the letter from the clerk. James had eighty-four and two years on the ground, and did not march. Heminges said a letter asking is not an order granted, and that the reckoning is thirty-three shillings a share. Kemp said tour. The room did not agree to tour. You said the Mayor writes of June and a king is to be put down, and that my lord should hear it from you before the board. Heminges sends to Kettleby tonight. Monday is as billed. There is to be no talk of it at the Jackdaw.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said little, then said my lord should hear it from them before the board, and left the coffer shut.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Cuthbert Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told it again, and kept the Theatre unswearable by name.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Went purple over eighty-four, and did not march on Crosby Place.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called a letter asking short of an order, named thirty-three shillings, and took the sending to Kettleby.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said tour, and did not get it agreed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept Thursday fortnight, and said he would play the king in the street if they are shut on the first of October.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Separated the letter's words from the clerk's, and gave a mayor six weeks in the chain.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Ambrose Kettleby",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the room. Heminges sends to him tonight.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "thirty-three shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A letter asking is not an order",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Sent Heminges to Kettleby",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Cuthbert Burbage",
+    "George Bryan",
+    "James Burbage",
+    "Will Kemp",
+    "Richard Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "hearsay",
+    "thirty-three shillings",
+    "tour",
+    "Kettleby",
+    "the cut"
+  ],
+  "quotes": [
+    {
+      "speaker": "james_burbage",
+      "text": "Eighty-four! Fleetwood sent for me in 'eighty-four"
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Item. A letter asking is not an order granted."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "If they shut us on the first of October I'll play him in the street."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Cut or no, I would have my lord hear of this from us before he hears it at the board."
+    }
+  ]
+}

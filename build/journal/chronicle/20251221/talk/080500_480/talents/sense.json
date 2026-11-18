@@ -1,0 +1,69 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Before church, women of the parish came to the step for the gooding. Mistress Ansell gave wheat-meal and halfpence by name. Alse carried the bag and counted aloud. Margaret's loaf was short by two fingers and a thumb, at the same penny. You offered the bag and were refused. She said the door was hers and the church box was yours. She had had eleven before you came out, and twelve by the time the neck of the bag was shut.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Offered the bag, was refused, and agreed to walk over after.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave by name, kept the bag hers, and named the church box as yours.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Carried the bag and counted Margaret as eleven's next, which made twelve.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Offered the bag at the gooding and was refused",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the gooding",
+    "names at the door",
+    "a short loaf",
+    "the church box"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "It is not charity if you don't know whom you're giving it to."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Eleven at this door. You may count the church yourself, and you may do it without a speech."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "Twelve, if Margaret was the eleventh."
+    }
+  ]
+}

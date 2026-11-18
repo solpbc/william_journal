@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "19:25:00", "text": "I was here. I heard it nine days after, from a carter, and it was all out and counted by then. A man can't run a hundred miles to a fire.", "timing": {"end": 20.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "19:25:20", "text": "A year ago today. The middle of the town. The moon is full, and I am in London.", "timing": {"end": 36.0, "start": 20.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "19:25:36", "text": "Sleep.", "timing": {"end": 46.0, "start": 36.0}}

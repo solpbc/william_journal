@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 300.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "15:51:00", "text": "The hedge, while I can still see it. Thou hast had thy look at the step.", "timing": {"end": 200.0, "start": 60.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "15:53:20", "text": "I have had it. I am with thee. I am not taking the step along as a tale.", "timing": {"end": 210.0, "start": 200.0}}

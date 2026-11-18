@@ -1,0 +1,10 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "dorcas_ansell", "start": "13:10:00", "text": "Eat. The morning has had enough of your pen, and the house dines when I say it dines.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "13:10:12", "text": "I am eating. The page can wait upstairs.", "timing": {"end": 22.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "alse_pinder", "start": "13:10:22", "text": "The fair is cried for tomorrow, sir. Mistress says fairings are not a dinner.", "timing": {"end": 34.0, "start": 22.0}}
+{"sentence_id": 4, "speaker": "dorcas_ansell", "start": "13:10:34", "text": "Tomorrow is Smithfield, if you must go. Today is this table. I am not sending a penny out of the house for a gingerbread you have not yet seen.", "timing": {"end": 50.0, "start": 34.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "13:10:50", "text": "Tomorrow is the fair. Monday is the door. I am not playing today, and I am not buying today.", "timing": {"end": 64.0, "start": 50.0}}
+{"sentence_id": 6, "speaker": "dorcas_ansell", "start": "13:11:04", "text": "Then sit, and do not make the loaf into a speech. You had your look at it yesterday. I will not have it measured twice so a man can feel busy.", "timing": {"end": 80.0, "start": 64.0}}
+{"sentence_id": 7, "speaker": "william_shakespeare", "start": "13:11:20", "text": "I am not measuring it. I am eating it.", "timing": {"end": 88.0, "start": 80.0}}
+{"sentence_id": 8, "speaker": "alse_pinder", "start": "13:11:28", "text": "The cat is still on the book, sir. I did not move him to make room for a plate.", "timing": {"end": 100.0, "start": 88.0}}
+{"sentence_id": 9, "speaker": "william_shakespeare", "start": "13:11:40", "text": "Leave him. The book is not today's work either.", "timing": {"end": 110.0, "start": 100.0}}

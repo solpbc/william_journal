@@ -1,0 +1,16 @@
+{"day": "20250722", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "091000_480", "stream": "talk", "ts": 1753224900000}
+{"change_class": "substantive", "day": "20250722", "event": "sense.change_detect", "mode": "segment", "segment": "091000_480", "stream": "talk", "ts": 1753224900001}
+{"day": "20250722", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "091000_480", "stream": "talk", "ts": 1753224900002}
+{"day": "20250722", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "102000_480", "stream": "talk", "ts": 1753224900010}
+{"change_class": "substantive", "day": "20250722", "event": "sense.change_detect", "mode": "segment", "segment": "102000_480", "stream": "talk", "ts": 1753224900011}
+{"day": "20250722", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "102000_480", "stream": "talk", "ts": 1753224900012}
+{"day": "20250722", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "121500_240", "stream": "obsidian", "ts": 1753224900020}
+{"change_class": "substantive", "day": "20250722", "event": "sense.change_detect", "mode": "segment", "segment": "121500_240", "stream": "obsidian", "ts": 1753224900021}
+{"day": "20250722", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "121500_240", "stream": "obsidian", "ts": 1753224900022}
+{"day": "20250722", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "165000_480", "stream": "talk", "ts": 1753224900030}
+{"change_class": "substantive", "day": "20250722", "event": "sense.change_detect", "mode": "segment", "segment": "165000_480", "stream": "talk", "ts": 1753224900031}
+{"day": "20250722", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "165000_480", "stream": "talk", "ts": 1753224900032}
+{"day": "20250722", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "170500_120", "stream": "desk", "ts": 1753224900040}
+{"change_class": "substantive", "day": "20250722", "event": "sense.change_detect", "mode": "segment", "segment": "170500_120", "stream": "desk", "ts": 1753224900041}
+{"day": "20250722", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "170500_120", "stream": "desk", "ts": 1753224900042}
+{"day": "20250722", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "170500_120", "stream": "desk", "ts": 1753224900043}

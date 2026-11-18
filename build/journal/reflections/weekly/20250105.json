@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250105",
+    "end": "20250111"
+  },
+  "generated_at": "2025-01-11T22:00:00Z",
+  "days": [
+    {
+      "day": "20250105",
+      "state": "memory",
+      "memory_id": "m-20250105-0"
+    },
+    {
+      "day": "20250106",
+      "state": "memory",
+      "memory_id": "m-20250106-1"
+    },
+    {
+      "day": "20250107",
+      "state": "nothing_shared"
+    },
+    {
+      "day": "20250108",
+      "state": "memory",
+      "memory_id": "m-20250108-2"
+    },
+    {
+      "day": "20250109",
+      "state": "memory",
+      "memory_id": "m-20250109-3"
+    },
+    {
+      "day": "20250110",
+      "state": "memory",
+      "memory_id": "m-20250110-4"
+    },
+    {
+      "day": "20250111",
+      "state": "memory",
+      "memory_id": "m-20250111-5"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250105-0",
+      "key": "mem_20250105_0",
+      "day": "20250105",
+      "text": "You kept one sentence of the sermon, goods not yet in the hand, and marked the fifth with a cross.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250105/talents/morning_briefing",
+        "briefing_day": "20250105",
+        "refs": [
+          "sol://facets/household/activities/20250105#meeting_111500_480",
+          "sol://facets/household/activities/20250105#memo_114000_120",
+          "sol://facets/stratford/activities/20250105#note_151000_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20250106-1",
+      "key": "mem_20250106_1",
+      "day": "20250106",
+      "text": "Nick was king for the first time, and eleven pound eight is the sharers' side.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250106/talents/morning_briefing",
+        "briefing_day": "20250106",
+        "refs": [
+          "sol://facets/household/activities/20250106#meeting_084000_480",
+          "sol://facets/writing/activities/20250106#frame_110000_240",
+          "sol://facets/company/activities/20250106#meeting_161500_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250108-2",
+      "key": "mem_20250108_2",
+      "day": "20250108",
+      "text": "The messenger is in the work, as far as The king your father.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250108/talents/morning_briefing",
+        "briefing_day": "20250108",
+        "refs": [
+          "sol://facets/writing/activities/20250108#frame_112000_300",
+          "sol://facets/writing/activities/20250108#memo_171000_120",
+          "sol://facets/writing/activities/20250108#frame_201000_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20250109-3",
+      "key": "mem_20250109_3",
+      "day": "20250109",
+      "text": "Your legs say one day, and you promised Burbage the act for Saturday.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250109/talents/morning_briefing",
+        "briefing_day": "20250109",
+        "refs": [
+          "sol://facets/company/activities/20250109#frame_092000_240",
+          "sol://facets/writing/activities/20250109#frame_142000_300",
+          "sol://facets/company/activities/20250109#meeting_165000_840"
+        ]
+      }
+    },
+    {
+      "id": "m-20250110-4",
+      "key": "mem_20250110_4",
+      "day": "20250110",
+      "text": "You wrote Edith viij s. owing, Lady Day. It is not your debt.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250110/talents/morning_briefing",
+        "briefing_day": "20250110",
+        "refs": [
+          "sol://facets/company/activities/20250110#frame_085000_180",
+          "sol://facets/writing/activities/20250110#frame_113000_360",
+          "sol://facets/household/activities/20250110#note_154000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250111-5",
+      "key": "mem_20250111_5",
+      "day": "20250111",
+      "text": "Burbage has heard the act, the objection is Berowne's, and the latch sprang when you came in softly.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250111/talents/morning_briefing",
+        "briefing_day": "20250111",
+        "refs": [
+          "sol://facets/company/activities/20250111#meeting_165000_600",
+          "sol://facets/writing/activities/20250111#frame_180000_240",
+          "sol://facets/writing/activities/20250111#meeting_181200_720"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250105-0",
+      "key": "said_20250105_0",
+      "day": "20250105",
+      "quote": "Shoes. My father's small debts. A horse at Lent. That is the list I made instead of the sermon.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250105#meeting_111500_480"
+      }
+    },
+    {
+      "id": "s-20250105-1",
+      "key": "said_20250105_1",
+      "day": "20250105",
+      "quote": "Somebody plays as I'd like to write. Twice, and the second time laughing.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250105#memo_184300_60"
+      }
+    },
+    {
+      "id": "s-20250106-2",
+      "key": "said_20250106_2",
+      "day": "20250106",
+      "quote": "She had kept a slice of her own Twelfth-cake, and she stood over me while I ate it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250106#memo_220000_120"
+      }
+    },
+    {
+      "id": "s-20250107-3",
+      "key": "said_20250107_3",
+      "day": "20250107",
+      "quote": "I will be on it. Thou needst not threaten a man who has already agreed.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250107#meeting_091500_600"
+      }
+    },
+    {
+      "id": "s-20250108-4",
+      "key": "said_20250108_4",
+      "day": "20250108",
+      "quote": "And they don't marry. Not today. A twelvemonth. Let them earn it where we can't see.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250108#memo_171000_120"
+      }
+    },
+    {
+      "id": "s-20250109-5",
+      "key": "said_20250109_5",
+      "day": "20250109",
+      "quote": "My legs say one day. Let it stand. Two Errors in a day is a better tale than a clerk's slip.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250109#memo_201000_60"
+      }
+    },
+    {
+      "id": "s-20250110-6",
+      "key": "said_20250110_6",
+      "day": "20250110",
+      "quote": "No boy. No finer sentence. Eight shillings, Lady Day, and the purse stays shut.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250110#meeting_171500_600"
+      }
+    },
+    {
+      "id": "s-20250111-7",
+      "key": "said_20250111_7",
+      "day": "20250111",
+      "quote": "I am a thief of one sentence.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250111#meeting_181200_720"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "13:53:12", "text": "The bell is ahead of me. The white swan is up over the thatch.", "timing": {"end": 26.0, "start": 12.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "13:53:26", "text": "Holywell is thick with them. I am not naming what I put on. The door, and then the paint.", "timing": {"end": 36.0, "start": 26.0}}

@@ -1,0 +1,1 @@
+The jaw was too loud for Verona. You took a foul sheet some weeks old out of the folder and copied it fair on a single leaf. The leaf begins Farewell thou art too deare for my possessing. There is no title, no number, and no name. You put it back. In the almanac, against tomorrow morning, you wrote the look at the tooth. You addressed no one.

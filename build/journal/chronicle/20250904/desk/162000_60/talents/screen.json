@@ -1,0 +1,17 @@
+{
+  "narrative": "A gown on a peg. The plot still hung. A hand empty. The stage not in view. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Left the gown, and left the plot as the afternoon's."
+    },
+    {
+      "type": "Project",
+      "name": "Richard the Third",
+      "role": "mentioned",
+      "context": "Shown on plot in Out of the gown"
+    }
+  ]
+}

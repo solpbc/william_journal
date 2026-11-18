@@ -1,0 +1,17 @@
+{
+  "narrative": "The sheet on the board, the vault line dry, a blank under it where the families were not fetched. The pen is in the inkhorn. No face. The same blank. The pen has not been dipped. Gib is a weight on the stair and not in the frame.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the line, and did not write."
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "context": "Shown on draft in The families not fetched"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "In the afternoon the children staged a pageant by the rain-barrel. Judith would not be the woman after being the horse. Edmund roared into the barrel, and she crowned him with the colander. You laughed until you had to hold your side, spoke four lines to ransom him with two windfalls, and did not play him any ending. Tomorrow's walk up the row stayed theirs.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Laughed, spoke the four lines, and did not give an ending.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the woman's part, took the colander, and held the ransom.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the lath, and caught the wasp-apple in the ransom.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Roared into the barrel, and was heard as far as the barrel.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked what kind of piece it was, and kept tomorrow's count.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Got the colander back before the parsley became a household matter.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Laughed, and spoke four lines",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Edmund Shakespeare",
+    "Judith Shakespeare",
+    "Hamnet Shakespeare",
+    "William Shakespeare",
+    "Joan Shakespeare",
+    "Susanna Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the pageant",
+    "the colander",
+    "four lines",
+    "tomorrow's row"
+  ],
+  "quotes": [
+    {
+      "speaker": "judith_shakespeare",
+      "text": "Why must I be the woman? I was the horse yesterday"
+    },
+    {
+      "speaker": "edmund_shakespeare",
+      "text": "Holla, ye pampered jades of Asia! What, can ye draw but twenty miles a day?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Not the end, and not today"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Between the play and the evening you wrote a joke at home. A tailor cannot read his bill, and the others laugh because he cannot. The joke leans only on his being stupid. You mean to try it on Kemp. If it does not stand, it is crossed, and it is not copied. You did not take it to Field.

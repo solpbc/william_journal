@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "11:08:00", "text": "A city going hungry, and its magistrate at war with a colour.", "timing": {"end": 8.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:08:08", "text": "Keep it for a constable.", "timing": {"end": 14.0, "start": 8.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "11:08:14", "text": "\u2026Enough.", "timing": {"end": 24.0, "start": 14.0}}

@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:05:00", "text": "I went by the lane. Not by design.", "timing": {"end": 8.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:05:08", "text": "The shutter was up. The house had the look of people gone.", "timing": {"end": 18.0, "start": 8.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:05:18", "text": "That is twice. I'll not go for a third.", "timing": {"end": 28.0, "start": 18.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "21:05:28", "text": "Written to a shutter.", "timing": {"end": 36.0, "start": 28.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "21:05:36", "text": "Well. It's a sonnet. It doesn't need her in.", "timing": {"end": 46.0, "start": 36.0}}

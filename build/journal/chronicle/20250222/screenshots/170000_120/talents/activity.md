@@ -1,0 +1,1 @@
+At the reckoning you looked at the boxes broken open on the parlour table. Heminges's hands were sorting pennies and halfpence. Edith's folded account lay under the candlestick. Late snow was at the window. You were not in the frame.

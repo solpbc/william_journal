@@ -1,0 +1,17 @@
+{
+  "narrative": "Two sheets on the board, written since Saturday. The marks between the speeches are notes. The top of the first sheet holds two lines and no more of her size. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Left the two lines as the size."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on draft in Two lines, and the size of her"
+    }
+  ]
+}

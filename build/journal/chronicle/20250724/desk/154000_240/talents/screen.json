@@ -1,0 +1,17 @@
+{
+  "narrative": "The foul sheet of Mab on the board. Under the two lines already known, a new line has been begun and scratched until the words are gone. No fresh speech stands.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote a start and took it off the page."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on draft in A line that will not stay"
+    }
+  ]
+}

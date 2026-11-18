@@ -1,0 +1,1 @@
+After the Errors you came out of Egeon. Kemp was civil and did not offer you a line. You did not open a tally. Garnish said nothing was bought, and that the Rose had a Venetian comedy. You stayed at the Cross Keys and did not go over the water.

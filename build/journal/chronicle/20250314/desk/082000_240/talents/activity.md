@@ -1,0 +1,1 @@
+You looked at the list and left it. Costard is struck. The letter, the Queen's money, the horse, and the chronicle are still waiting. Egeon's roll is in the room and stays on the shelf. You are not cast today.

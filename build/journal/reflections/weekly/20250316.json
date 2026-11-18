@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250316",
+    "end": "20250322"
+  },
+  "generated_at": "2025-03-22T22:00:00Z",
+  "days": [
+    {
+      "day": "20250316",
+      "state": "memory",
+      "memory_id": "m-20250316-0"
+    },
+    {
+      "day": "20250317",
+      "state": "memory",
+      "memory_id": "m-20250317-1"
+    },
+    {
+      "day": "20250318",
+      "state": "memory",
+      "memory_id": "m-20250318-2"
+    },
+    {
+      "day": "20250319",
+      "state": "memory",
+      "memory_id": "m-20250319-3"
+    },
+    {
+      "day": "20250320",
+      "state": "memory",
+      "memory_id": "m-20250320-4"
+    },
+    {
+      "day": "20250321",
+      "state": "memory",
+      "memory_id": "m-20250321-5"
+    },
+    {
+      "day": "20250322",
+      "state": "memory",
+      "memory_id": "m-20250322-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250316-0",
+      "key": "mem_20250316_0",
+      "day": "20250316",
+      "text": "Master Thwaite stopped at seven heads and one turning of the glass, and Anne's letter is still on the board.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250316/talents/morning_briefing",
+        "briefing_day": "20250316",
+        "refs": [
+          "sol://facets/household/activities/20250316#meeting_091000_1200",
+          "sol://facets/household/activities/20250316#meeting_121000_1200",
+          "sol://facets/writing/activities/20250316#frame_162000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250317-1",
+      "key": "mem_20250317_1",
+      "day": "20250317",
+      "text": "The sword is yours to carry, the sum laid out is two shillings and elevenpence, and the bay is bespoken from Wednesday the twenty-sixth.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250317/talents/morning_briefing",
+        "briefing_day": "20250317",
+        "refs": [
+          "sol://facets/writing/activities/20250317#note_082000_480",
+          "sol://facets/company/activities/20250317#meeting_090500_120",
+          "sol://facets/household/activities/20250317#meeting_121000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250318-2",
+      "key": "mem_20250318_2",
+      "day": "20250318",
+      "text": "The chair is mended. Florio said the paper was received, and that my lord is glad you prosper.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250318/talents/morning_briefing",
+        "briefing_day": "20250318",
+        "refs": [
+          "sol://facets/company/activities/20250318#meeting_083500_2400",
+          "sol://facets/company/activities/20250318#photo_101000_60",
+          "sol://facets/writing/activities/20250318#call_110000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250319-3",
+      "key": "mem_20250319_3",
+      "day": "20250319",
+      "text": "Field lent the second volume, and the Verona page is closed.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250319/talents/morning_briefing",
+        "briefing_day": "20250319",
+        "refs": [
+          "sol://facets/writing/activities/20250319#meeting_103500_1200",
+          "sol://facets/writing/activities/20250319#meeting_110500_1200",
+          "sol://facets/writing/activities/20250319#frame_201500_300"
+        ]
+      }
+    },
+    {
+      "id": "m-20250320-4",
+      "key": "mem_20250320_4",
+      "day": "20250320",
+      "text": "The sixty shillings stay in the canvas, and Edith's eight shillings is paid from the stock.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250320/talents/morning_briefing",
+        "briefing_day": "20250320",
+        "refs": [
+          "sol://facets/stratford/activities/20250320#meeting_120500_1500",
+          "sol://facets/stratford/activities/20250320#note_133000_480",
+          "sol://facets/stratford/activities/20250320#frame_142000_300"
+        ]
+      }
+    },
+    {
+      "id": "m-20250321-5",
+      "key": "mem_20250321_5",
+      "day": "20250321",
+      "text": "You said the Verona names, and the night's word is not yet.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250321/talents/morning_briefing",
+        "briefing_day": "20250321",
+        "refs": [
+          "sol://facets/writing/activities/20250321#frame_094000_360",
+          "sol://facets/writing/activities/20250321#memo_160500_900",
+          "sol://facets/writing/activities/20250321#note_201000_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20250322-6",
+      "key": "mem_20250322_6",
+      "day": "20250322",
+      "text": "The balletts are five voices at the printer's this year. You wrote four lines and put a cross by the day.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250322/talents/morning_briefing",
+        "briefing_day": "20250322",
+        "refs": [
+          "sol://facets/household/activities/20250322#meeting_112000_1200",
+          "sol://facets/writing/activities/20250322#meeting_193500_1500",
+          "sol://facets/writing/activities/20250322#memo_201000_120"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250316-0",
+      "key": "said_20250316_0",
+      "day": "20250316",
+      "quote": "Seven I can carry home. I lost count last Sunday.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250316#meeting_091000_1200"
+      }
+    },
+    {
+      "id": "s-20250317-1",
+      "key": "said_20250317_1",
+      "day": "20250317",
+      "quote": "It is lath, and it has killed four Richmonds. He may shy at it with my blessing.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250317#meeting_121000_240"
+      }
+    },
+    {
+      "id": "s-20250318-2",
+      "key": "said_20250318_2",
+      "day": "20250318",
+      "quote": "The weak place is easier to see when a throne is humiliating itself.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250318#meeting_083500_2400"
+      }
+    },
+    {
+      "id": "s-20250319-3",
+      "key": "said_20250319_3",
+      "day": "20250319",
+      "quote": "A king, and more uncles than a scene would know what to do with. I am counting them. I am not writing them.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250319#meeting_110500_1200"
+      }
+    },
+    {
+      "id": "s-20250320-4",
+      "key": "said_20250320_4",
+      "day": "20250320",
+      "quote": "Then it'll be safe twice. Sixty shillings, sewn in the canvas, and they stay with me.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250320#meeting_120500_1500"
+      }
+    },
+    {
+      "id": "s-20250321-5",
+      "key": "said_20250321_5",
+      "day": "20250321",
+      "quote": "Mercutio. He has a cold hand in Brooke and nothing else. A man could be made out of a cold hand.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250321#memo_160500_900"
+      }
+    },
+    {
+      "id": "s-20250321-6",
+      "key": "said_20250321_6",
+      "day": "20250321",
+      "quote": "Tybalt is a cat's name. Good.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250321#memo_160500_900"
+      }
+    },
+    {
+      "id": "s-20250322-7",
+      "key": "said_20250322_7",
+      "day": "20250322",
+      "quote": "The jacks leap to kiss the hand that plays. Dead wood, and a man standing there envying it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250322#memo_201000_120"
+      }
+    }
+  ]
+}

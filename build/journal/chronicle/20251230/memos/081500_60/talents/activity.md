@@ -1,0 +1,1 @@
+You said the weaver's going and coming twice, the second time bigger, the way Kemp fills a yard. You said the feet would give you away before you did. You left the bellows-mender's line for the page, and you told yourself to write it and not to count.

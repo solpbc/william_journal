@@ -1,0 +1,76 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At St Helen's Master Thwaite said he would be brief, and reached fourteenthly. The sand-glass was turned twice. You caught yourself out of the pew and came back. Sir John Spencer sat three rows ahead and did not turn. You are not coughing.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Caught himself out of the sermon and returned.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Promised brevity, reached fourteenthly, and had the glass turned twice.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept him in the pew and named the amen.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat three rows ahead. He did not turn and he did not speak.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Sat Master Thwaite's sermon and came back into the pew",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "fourteenthly",
+    "the sand-glass",
+    "the Mayor's pew"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "We shall be brief, brethren"
+    },
+    {
+      "speaker": "josias_thwaite",
+      "text": "And fourteenthly"
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Sir John is three rows ahead;"
+    }
+  ]
+}

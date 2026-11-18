@@ -1,0 +1,77 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Alse had been out before four with wet shoes and three boughs. Mistress Ansell allowed one over the door, and no more, and no ribbon, and Alse will not bring a second. The bough will not be dressed up. You left Gib on the second volume. The loaf is a finger and a half short, at a penny, and the board is threepence. You went up to the gate with the old man already in your head.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came in before the gate with wet shoes, and brought three boughs down to one.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Allowed one bough, refused a ribbon, and refused a wood.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted the one, and went up with the old man in his head.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Stayed on the book and was not moved.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood by one bough and went up to the gate",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one bough",
+    "no ribbon",
+    "wet shoes",
+    "the penny loaf"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "One bough over the door, and no more."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "No ribbon. The parish may dress a gate."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "I will not bring a second in."
+    }
+  ]
+}

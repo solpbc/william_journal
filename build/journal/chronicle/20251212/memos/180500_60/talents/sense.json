@@ -1,0 +1,58 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You tried the waking twice in his cadence, once as a piece that makes the room wait and once slower, and both times it was still yours. The third time you stopped. No. His. It's his. The queen stays unwritten on top of the leaf. Not tonight.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Tried the cadence twice, kept the third, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "A Midsummer Night's Dream",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No. His. It's his.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Stopped on the third try and called the line Kemp's",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two tries in his cadence",
+    "the third in your own",
+    "the queen not tonight"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "That is his mouth. Too many of my joints in it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No. His. It's his."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The queen stays where she is. On top of this, when I get to her. Not tonight."
+    }
+  ]
+}

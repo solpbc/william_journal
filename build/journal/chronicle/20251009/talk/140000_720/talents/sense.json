@@ -1,0 +1,112 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the door the gowns were already in. Margery said every third man had asked when the king is played, and that she had said Thursday next. They shouted Remuneration at Kemp. A gentleman of Gray's Inn gave you the opening of Gaunt's England and asked if it would be printed. You said it was the company's, and sent him to the book-keeper. Abel told him to stand off the book, and looked at him as at a burglar. A gentleman of the Middle Temple had York's line about Hereford's rights, and meant to argue a dead man's will at a moot. You had not thought the line a lawyer's. The next king is Thursday the sixteenth. The Rose's bill was The Grecian Comedy. You did not go. You went up as Navarre, and the jaw did the vowels.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the speeches were the company's, and went on as Navarre.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the count, every third man, and kept Thursday next as the answer she had already given.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the inns, and named Thursday the sixteenth for the next king.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the shout of Remuneration, and stayed Sweet Master Shakespeare.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the sale, and looked at the quoting man as at a burglar.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in They came for the king",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in They came for the king",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Grecian Comedy",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in They came for the king",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Said Gaunt's England was the company's and went on as Navarre",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Goodwife Margery Pell",
+    "William Shakespeare",
+    "Will Kemp",
+    "Richard Burbage",
+    "Abel Garnish"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "every third man",
+    "Thursday next",
+    "the company's book",
+    "the sixteenth",
+    "Navarre"
+  ],
+  "quotes": [
+    {
+      "speaker": "margery_pell",
+      "text": "Every third man asked at my stair when the king is played."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It's the company's, sir. Ask the book-keeper."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "You have heard it. You do not buy it."
+    }
+  ]
+}

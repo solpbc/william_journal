@@ -1,0 +1,29 @@
+{
+  "narrative": "He is alone on the stage. The swan flag is stiff over a yard that was full by one. In the lower gallery, upright in her church hat with Alse beside her, Mistress Ansell sits. She has never been inside a playhouse. His mouth opens on the line and on nothing after it yet. He does not look long. The church hat is where he was told it would be. Alse is beside it and is not leaning over to translate. The yard is already quiet enough to be a yard.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Spoke the opening and stayed in the part."
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "mentioned",
+      "context": "Sat upright in the church hat."
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "mentioned",
+      "context": "Sat beside her."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on stage in Two housholds"
+    }
+  ]
+}

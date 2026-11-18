@@ -1,0 +1,1 @@
+Anne made the bargain plain. You will not promise a journey until it is arranged, and the only one arranged is the carrier on the eighteenth, at the horses' pace. She told you what cannot wait: you have not looked at a real house. She did not name one, and she named no price. You agreed to look when she shows you, and not to buy a house with your mouth from the floor.

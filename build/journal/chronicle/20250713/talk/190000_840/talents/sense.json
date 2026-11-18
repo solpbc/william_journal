@@ -1,0 +1,68 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You stood Nashe a shilling supper, roast mutton and a cup of Rhenish. He railed at Harvey, who will not die and will not stop printing. He did a sleeping alderman dreaming of thumb-rings, and night-sprites so small they are almost nothing: spokes of a gnat's wagon, a spinner's legs, blisters on a lady's lip. You did not split the shilling into a bill of dishes.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the shilling, and listened.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Nashe",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate, and made the sprites almost nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gabriel Harvey",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A shilling for the mutton",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Paid Nashe's shilling and heard the sprites made small",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Thomas Nashe"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a shilling supper",
+    "Harvey",
+    "thumb-rings",
+    "the size of the sprites"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "A shilling. Roast mutton, and a cup of Rhenish"
+    },
+    {
+      "speaker": "thomas_nashe",
+      "text": "Spokes of a gnat's wagon"
+    },
+    {
+      "speaker": "thomas_nashe",
+      "text": "So small they are almost nothing"
+    }
+  ]
+}

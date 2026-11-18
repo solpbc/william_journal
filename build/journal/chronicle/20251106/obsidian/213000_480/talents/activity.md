@@ -1,0 +1,1 @@
+At home you sat to the candle and struck a false start before her face. No approach to the monument remains on the sheet. The couplet is not written. You did not walk the room. You still do not know the man in the frieze cloak as anyone but Heminges's guess.

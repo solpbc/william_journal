@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "You rehearsed Two Gentlemen from the door, three times, with Augustine and Nick. The third was clean. You are in tomorrow's play. You are not in this afternoon's Shrew, and Augustine told you not to come back and be useful at it. The king's leaves are not in the theatre. You did not rehearse them, and you did not open a new play.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the cue, refused a fourth run, and claimed tomorrow rather than this afternoon.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the whistle, counted three, and told you to stay away from a play cast without you.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Missed the first by being early, and came clean on the third.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Two Gentlemen of Verona",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three times from the door",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed Two Gentlemen from the door three times",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Augustine Phillips",
+    "Nick Sorrell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "tomorrow's comedy",
+    "three times from the door",
+    "Shrew without you"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Tomorrow I am in this. This afternoon I am not in the other"
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "Three, and clean. Leave it"
+    },
+    {
+      "speaker": "nick_sorrell",
+      "text": "Through. Clean. I did not look at my feet;"
+    }
+  ]
+}

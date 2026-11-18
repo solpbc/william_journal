@@ -1,0 +1,67 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "You came across the Bridge for the first time since August and paid your penny. The bill on the post says a new play, Harry the Fifth, and it names no author. You know an English king of that name, and you do not know the play past the title. Henslowe is at the door with his lips moving. He does not speak to you. The Theatre is playing Fair Em without you.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Paid his penny and read the title.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Philip Henslowe",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Stood at the door with his lips moving, and did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Bridge",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in A new play, on the post",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Fair Em",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in A new play, on the post",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Harry the Fifth",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in A new play, on the post",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Paid a penny and read Harry the Fifth",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a penny",
+    "Harry the Fifth",
+    "no author on the bill"
+  ],
+  "quotes": []
+}

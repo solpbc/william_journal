@@ -1,0 +1,44 @@
+{
+  "overview": "You read the almanac by the candle. Tuesday and Wednesday were both marked no play. You did not add a title or an hour.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the two lines and left them."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the almanac",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no play",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the last day",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the penny almanac",
+      "asset_type": "other",
+      "disposition": "Read the almanac for the last two days"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-30",
+      "meaning": "Read Tuesday and Wednesday in the almanac"
+    }
+  ],
+  "summary": "Read the almanac for the last two days"
+}

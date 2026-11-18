@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "richard_burbage", "start": "16:10:00", "text": "A sober house.", "timing": {"end": 8.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:10:08", "text": "Then a sober king. I will not heat him for them.", "timing": {"end": 18.0, "start": 8.0}}
+{"sentence_id": 3, "speaker": "will_kemp", "start": "16:10:18", "text": "They did not pay to be heated. Give them the comedy as it stands.", "timing": {"end": 30.0, "start": 18.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "16:10:30", "text": "As it stands. I am not mending a king on a Friday.", "timing": {"end": 40.0, "start": 30.0}}

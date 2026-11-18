@@ -1,0 +1,69 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You came home past the one bough, still over the door and not improved, and you wrote Edmund one page. He is to finish school. Latin is the only property a player never has to hire. If at seventeen he still wants to hear how Burbage dies, he may come for a penny, like a Christian. You enclosed nothing. The sword's first owner commends its second. You told him the court went to Greenwich today, with my lord and Kettleby. The letter goes by the carrier of the fifteenth.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the page and sealed it with nothing in it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Was the brother addressed, and was not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Was the death Edmund may come to see, and the sword's first owner.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Ambrose Kettleby",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Was named as gone to Greenwich.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Henry Carey, 1st Lord Hunsdon",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Was my lord, gone with the court.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Wrote Edmund's letter",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "finish school",
+    "a penny",
+    "nothing enclosed",
+    "the fifteenth",
+    "the one bough"
+  ],
+  "quotes": []
+}

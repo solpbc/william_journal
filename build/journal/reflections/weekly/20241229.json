@@ -1,0 +1,190 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20241229",
+    "end": "20250104"
+  },
+  "generated_at": "2025-01-04T22:00:00Z",
+  "days": [
+    {
+      "day": "20241229",
+      "state": "nothing_shared"
+    },
+    {
+      "day": "20241230",
+      "state": "nothing_shared"
+    },
+    {
+      "day": "20241231",
+      "state": "nothing_shared"
+    },
+    {
+      "day": "20250101",
+      "state": "memory",
+      "memory_id": "m-20250101-0"
+    },
+    {
+      "day": "20250102",
+      "state": "memory",
+      "memory_id": "m-20250102-1"
+    },
+    {
+      "day": "20250103",
+      "state": "memory",
+      "memory_id": "m-20250103-2"
+    },
+    {
+      "day": "20250104",
+      "state": "memory",
+      "memory_id": "m-20250104-3"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250101-0",
+      "key": "mem_20250101_0",
+      "day": "20250101",
+      "text": "The book is headed 1594, the Queen is twenty pounds not yet had, and the coffer stands at twenty-four pound ten.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250101/talents/morning_briefing",
+        "briefing_day": "20250101",
+        "refs": [
+          "sol://facets/household/activities/20250101#frame_075000_120",
+          "sol://facets/household/activities/20250101#photo_080000_60",
+          "sol://facets/household/activities/20250101#frame_081000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250102-1",
+      "key": "mem_20250102_1",
+      "day": "20250102",
+      "text": "Errors is done, and you were Egeon.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250102/talents/morning_briefing",
+        "briefing_day": "20250102",
+        "refs": [
+          "sol://facets/company/activities/20250102#meeting_090500_480",
+          "sol://facets/writing/activities/20250102#frame_114000_180",
+          "sol://facets/company/activities/20250102#frame_140000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250103-2",
+      "key": "mem_20250103_2",
+      "day": "20250103",
+      "text": "The loaf is a finger short of the notch, and the Split Hazel was fourpence of your own.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250103/talents/morning_briefing",
+        "briefing_day": "20250103",
+        "refs": [
+          "sol://facets/writing/activities/20250103#frame_092000_180",
+          "sol://facets/company/activities/20250103#meeting_120500_480",
+          "sol://facets/household/activities/20250103#meeting_181000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250104-3",
+      "key": "mem_20250104_3",
+      "day": "20250104",
+      "text": "You stood among the backs at Crosby Place and lined four payments.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250104/talents/morning_briefing",
+        "briefing_day": "20250104",
+        "refs": [
+          "sol://facets/writing/activities/20250104#frame_085000_180",
+          "sol://facets/household/activities/20250104#photo_110500_60",
+          "sol://facets/household/activities/20250104#meeting_111000_180"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250101-0",
+      "key": "said_20250101_0",
+      "day": "20250101",
+      "quote": "A new leaf. It is still 1594.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250101#meeting_084000_180"
+      }
+    },
+    {
+      "id": "s-20250101-1",
+      "key": "said_20250101_1",
+      "day": "20250101",
+      "quote": "The light has failed, and the Worthies are only begun.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250101#memo_161000_60"
+      }
+    },
+    {
+      "id": "s-20250102-2",
+      "key": "said_20250102_2",
+      "day": "20250102",
+      "quote": "The laugh is yours. The waiting is mine.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250102#meeting_090500_480"
+      }
+    },
+    {
+      "id": "s-20250102-3",
+      "key": "said_20250102_3",
+      "day": "20250102",
+      "quote": "What they cannot out-bellow they will have to out-write.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250102#memo_191000_60"
+      }
+    },
+    {
+      "id": "s-20250103-4",
+      "key": "said_20250103_4",
+      "day": "20250103",
+      "quote": "There is my fourpence. Leave it where you can see it. I am not eating on a promise.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250103#meeting_120500_480"
+      }
+    },
+    {
+      "id": "s-20250103-5",
+      "key": "said_20250103_5",
+      "day": "20250103",
+      "quote": "I have written washing, Mistress. I have not written a washtub, and I will not pretend I have.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250103#meeting_181000_480"
+      }
+    },
+    {
+      "id": "s-20250104-6",
+      "key": "said_20250104_6",
+      "day": "20250104",
+      "quote": "They keep a better court than Navarre's.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250104#memo_135500_60"
+      }
+    },
+    {
+      "id": "s-20250104-7",
+      "key": "said_20250104_7",
+      "day": "20250104",
+      "quote": "I had the parlour, and a page. The page is not a share.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250104#meeting_164500_480"
+      }
+    }
+  ]
+}

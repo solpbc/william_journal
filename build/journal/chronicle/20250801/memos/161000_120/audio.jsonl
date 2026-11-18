@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "16:10:00", "text": "Evening prayer. The ordinary prayers, and then out again.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:10:14", "text": "The feet were in salt water before I came. They will do for the walk back.", "timing": {"end": 28.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "16:10:28", "text": "The house is the same house. I am going back to it.", "timing": {"end": 38.0, "start": 28.0}}

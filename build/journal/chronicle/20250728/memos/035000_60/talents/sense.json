@@ -1,0 +1,46 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You were still in the house, dressed to walk. The shoes were new-soled, the hat was the broad one, and the wallet was on your back. You were leaving the close at ten past four. The cheese stayed shut.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke three lines and left the close.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Dressed to leave the close at ten past four",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the shoes",
+    "the close",
+    "the shut cheese"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The shoes are new-soled"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Out of the close at ten past four"
+    }
+  ]
+}

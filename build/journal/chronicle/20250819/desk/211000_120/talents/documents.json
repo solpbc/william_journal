@@ -1,0 +1,44 @@
+{
+  "overview": "By the rush-light you read the orchard sheets once. The girl's line was there, and the rose. You found the sheets full of voices that are not in them: a moon with a candle, a boy who wants a ladder. You did not write those down. You put the sheets away before the light made the reading into mere persistence.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read once, wrote nothing, and put the sheets away."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the orchard sheets",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the voices not written",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the sheets put away",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the orchard scene",
+      "asset_type": "other",
+      "disposition": "Read the sheets once, and put them away"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-19",
+      "meaning": "The sheets, put away"
+    }
+  ],
+  "summary": "Read the sheets once, and put them away"
+}

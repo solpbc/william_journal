@@ -1,0 +1,1 @@
+At home you wrote that dedications have consequences, that you have signed two, and that you do not think your poems and a book about the crown are the same thing. You had not said it at supper. You did not write the number of cut leaves into a sentence anyone else will hear.

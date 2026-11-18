@@ -1,0 +1,51 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "At home you wrote that the lovers still stand as the pages stand, and that the first scene still bites a thumb. You have not cut it, and you have not copied it fair. The tradesmen stay in the chest. You will hear the three nights named before you mend a line. You did not go to the Theatre for the afternoon.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the state of the pages and mended nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The thumb still in",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the tradesmen's sheets",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The thumb still in",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read the lovers with the thumb still in",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the thumb still in",
+    "the tradesmen in the chest",
+    "three nights not yet named"
+  ],
+  "quotes": []
+}

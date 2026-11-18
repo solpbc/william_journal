@@ -1,0 +1,132 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "By candle, after Titus had ended without you, Heminges counted thirty-four shillings as the share. He said it had gone four. Last Saturday was thirty-five, and that sum is not this week's. The hired men's ten shillings were not taken out of the thirty-four. No coffer total was read. Next week is Errors on Monday, with you opening, the Two Gentlemen on Tuesday, and the king on Wednesday. The Rose title was Wise Man. There was no receipt. No fee was taken out of the share. You promised no errand and no unwritten line.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the thirty-four, and promised nothing unwritten.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the share, kept last week separate, and shut the book without a total.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Measured thirty-four against thirty-five, and stayed on you.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took his share, and left the court hours to Kettleby.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set Monday, Tuesday, and Wednesday, and set no errand.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Titus Andronicus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thirty-four, by candle",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Wise Man",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thirty-four, by candle",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thirty-four, by candle",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Two Gentlemen of Verona",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thirty-four, by candle",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thirty-four, by candle",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took thirty-four shillings",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Will Kemp",
+    "Richard Burbage",
+    "Abel Garnish"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "thirty-four shillings",
+    "at four by his candle",
+    "thirty-five last week",
+    "Wise Man",
+    "next week's bills"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "It has gone four."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Thirty-four shillings is the share."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Last Saturday was thirty-five, and the week was no prettier."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Wise Man. That is the title I was given."
+    }
+  ]
+}

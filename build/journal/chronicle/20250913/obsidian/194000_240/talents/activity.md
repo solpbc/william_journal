@@ -1,0 +1,1 @@
+You wrote the share as thirty-three shillings. You wrote that the coffer was not opened, and that it stands as ruled at twenty pound fifteen. Heminges sends to Kettleby tonight. Monday is as billed. Kemp said tour, and the room did not agree. You did not make a new total.

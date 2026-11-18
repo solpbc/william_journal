@@ -1,0 +1,72 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Jacqueline gave you bread and a hard cheese for the first day. Field gave you a worn piece of type for the boy, a capital H with a chipped foot, no use to a printer, and told you to say it has been in Plutarch. You left the Holinshed under the cloth.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sorted the parcels, and left Holinshed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Found the chipped H, and said it had been in Plutarch.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Jacqueline Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the bread and the hard cheese, and asked for one thanks.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "a chipped capital H",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A letter of lead",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Took the cheese and the chipped H",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Jacqueline Field",
+    "William Shakespeare",
+    "Richard Field"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "bread and cheese",
+    "a chipped H",
+    "Plutarch"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_field",
+      "text": "Tell him it has been in Plutarch."
+    },
+    {
+      "speaker": "jacqueline_field",
+      "text": "I have bread, and a hard cheese, for the first day."
+    }
+  ]
+}

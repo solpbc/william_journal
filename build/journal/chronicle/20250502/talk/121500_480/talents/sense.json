@@ -1,0 +1,78 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You sat the fish-day board and ate it. The loaf was a finger and a half short, at a penny, and the board was threepence. The firing sixpence stayed off the slate. Verbeke went to his own work under his own name. The one bough is still the allowance. You did not tell the table about Sunday.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Measured the loaf, kept the firing off the slate, and took the threepence in the eating.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate, and did not tell her about Sunday.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Laid the short loaf, and had not brought a second bough.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Went to his own work under his own name.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate the board and did not mention Sunday",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the fish",
+    "the penny loaf",
+    "the firing",
+    "the one bough"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not leaving it in the pot."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A finger and a half."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Sixpence stays where it sleeps."
+    }
+  ]
+}

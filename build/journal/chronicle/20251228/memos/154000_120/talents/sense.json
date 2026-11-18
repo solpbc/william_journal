@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "In the afternoon you said you would give Egeon's tale as it is, and that you would not improve it for a hall with cups in its hands. You left your nerves unsaid. You stopped.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke three sentences and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The tale, and the cups",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Refused to improve the tale",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Egeon's tale",
+    "the cups",
+    "nothing improved"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Egeon's tale, as it is."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The nerves can stay unsaid."
+    }
+  ]
+}

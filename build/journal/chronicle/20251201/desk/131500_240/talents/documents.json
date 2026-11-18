@@ -1,0 +1,44 @@
+{
+  "overview": "Before you walked back to the Theatre you had Navarre's roll open beside the old note of the first speech. The note still reads brazen tombs, cormorant Time, heirs of eternity. The afternoon bill is Love's Labour's Lost, and you play. You added no author's name.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the fragment and did not mark the roll."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Navarre's roll",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the tables fragment",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the afternoon bill",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Opened Navarre's roll and read the old fragment"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-01",
+      "meaning": "Brazen tombs"
+    }
+  ],
+  "summary": "Opened Navarre's roll and read the old fragment"
+}

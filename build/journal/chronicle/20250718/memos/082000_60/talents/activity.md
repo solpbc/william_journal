@@ -1,0 +1,1 @@
+Standing, for less than a minute, you tried her short answer in Nick's light dry voice. Nick was not there. You tried the boy's answer in Burbage's hush, and you did not keep those words. You laughed once. She is laughing at him, and he is not to hear it.

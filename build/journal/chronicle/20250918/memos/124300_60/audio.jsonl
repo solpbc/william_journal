@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "12:43:00", "text": "Sweet. \u2026Like a pippin. Like a child's physic.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "12:43:12", "text": "A man in Cambridge whom I never saw. Thirty-one years, and it comes in a margin.", "timing": {"end": 22.0, "start": 12.0}}

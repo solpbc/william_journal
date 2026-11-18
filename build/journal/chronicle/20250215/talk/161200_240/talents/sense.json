@@ -1,0 +1,72 @@
+{
+  "density": "low_change",
+  "content_type": "meeting",
+  "activity_summary": "You came out of the Two Gentlemen and did not name the part. Nothing was bought. The K was still only a K. You went on toward the reckoning with no number in the book.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came out of the part and kept the column empty of a figure.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Closed the play and did not ask the part's name.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Carried the book in with the K and without a number.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Two Gentlemen of Verona",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Out of the gentlemen",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Left the part and went to the reckoning",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Burbage",
+    "William Shakespeare",
+    "Abel Garnish"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the gentlemen",
+    "the K",
+    "the reckoning next"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I was in the gentlemen."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "The K is still a K."
+    }
+  ]
+}

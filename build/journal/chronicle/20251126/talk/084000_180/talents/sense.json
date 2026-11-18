@@ -1,0 +1,72 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You were not dressed for the afternoon. You told the house that Titus goes on without you, and that you go at five. Alse set dinner as if you were staying. Mistress Ansell kept the pot ordinary, and kept noon as hers. You had pages to read, and they were not the play the house was giving.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he was not in Titus, and that he would keep noon.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the pot ordinary and the noon hers.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set dinner for a man who was staying.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Titus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not dressed for it",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stayed home while Titus went on",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Titus without you",
+    "dinner in",
+    "five o'clock"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The house plays Titus. I am not in it."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Five is your affair. Noon is mine."
+    }
+  ]
+}

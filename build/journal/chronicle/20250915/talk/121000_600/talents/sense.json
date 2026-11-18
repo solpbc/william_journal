@@ -1,0 +1,101 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "She heard the stair, and you said the back was eased. The tooth was not. You ate three bites and left the rest. You gave her the Knave and no name of a side. You went as billed. No order had come.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the back was eased, ate three bites, and went as billed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the stair, kept her verdict, and sent him out with the crust uneaten.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the third tread from the copper, and left the water on the landing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "On the third tread, and stepped over. Not at the board.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Knave",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The stair",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "a penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The stair",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "a clove",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The stair",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate three bites and went to the Knave",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the eased back",
+    "three bites",
+    "the Knave",
+    "no order"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The back is eased. I am not going to make a feast of it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The Knave. At the Theatre. Two of the clock."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Then go as billed."
+    }
+  ]
+}

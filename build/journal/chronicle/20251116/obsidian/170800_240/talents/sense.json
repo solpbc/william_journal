@@ -1,0 +1,84 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "The column is what you have already promised. Twenty shillings for Mistress Ansell's Christmas quarter, not paid today. Sixty shillings for home, not sent. The hose my lord demanded, with no price. The journey up the river, with no fare. A brief for Stratford, with no sum. Two pounds lent to Richard Quiney on the seventh of August are not back. A house by the chapel is an address and no price. There is no total at the foot.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the column and did not add it up.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "The twenty shillings are her quarter. She was not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "The sixty shillings are for home. They were not sent.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Quiney",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Two pounds since August are still out. He was not asked.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "twenty shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in What is already spoken for",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "sixty shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in What is already spoken for",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "two pounds",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in What is already spoken for",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Wrote the column of what is spoken for",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twenty shillings not today",
+    "sixty shillings not sent",
+    "no price on the hose",
+    "two pounds still out"
+  ],
+  "quotes": []
+}

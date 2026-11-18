@@ -1,0 +1,17 @@
+{
+  "narrative": "The morning's leaf open on the trestle. Afternoon light, no candle. The pen is in the rest. The pile beside it is face down. The verse, dry now. No mark in the margin since morning. At the shelf, in the same light, the tall book standing. The Chaucer is flat and empty. The hand does not take the tall book down.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the leaf in the afternoon light and left the pen in the rest."
+    },
+    {
+      "type": "Project",
+      "name": "Holinshed's Chronicles",
+      "role": "mentioned",
+      "context": "Shown on draft in Read the open leaf and left the pen down"
+    }
+  ]
+}

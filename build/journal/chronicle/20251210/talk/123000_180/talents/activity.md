@@ -1,0 +1,1 @@
+At dinner you were upright, and that was the whole report of Tuesday night. You did not give the house a name or a king. The loaf was two fingers short of the notch, and the price was a penny. Alse did not ask again whether the one who dies is a boy. Mistress Ansell did not collect a guest to set beside the notch.

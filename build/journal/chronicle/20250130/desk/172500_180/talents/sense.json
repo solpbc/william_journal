@@ -1,0 +1,59 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You marked Thursday the twentieth of February, and Shrove Tuesday the fourth of March. You did not mark a third afternoon. The want of four was said at the table. The almanac shows the two days you were willing to name.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Marked the two dates.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Stood at the table while the marks went in. His face is not on the page.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the almanac",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The twentieth",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The twentieth",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Marked the twentieth and Shrove Tuesday",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the twentieth",
+    "Shrove Tuesday",
+    "the almanac"
+  ],
+  "quotes": []
+}

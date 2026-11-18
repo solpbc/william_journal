@@ -1,0 +1,62 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At night the jaw was hot to the hand, and it did not ease. You had said after Thursday, and you meant the king. Four shillings and eighteenpence stayed where John had said them. You did not open the coffer. Love's Labour's Won is when this king is buried.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the heat, and left both prices on Thursday's call.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "four shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Hot to the hand",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "eighteenpence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Hot to the hand",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Felt the jaw hot",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "hot to the hand",
+    "after Thursday",
+    "the coffer shut"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The jaw is hot to the hand tonight."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "After Thursday. I said so, and I meant the king."
+    }
+  ]
+}

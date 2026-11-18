@@ -1,0 +1,44 @@
+{
+  "overview": "On the tables you wrote that he likes to hear himself, and that you would let him. You did not add a line to the quarrel under that sentence.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the sentence, and stopped."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the tables",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "he likes to hear himself",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Wrote on the tables that he likes to hear himself"
+    },
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Wrote on the tables that he likes to hear himself"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-17",
+      "meaning": "He likes to hear himself"
+    }
+  ],
+  "summary": "Wrote on the tables that he likes to hear himself"
+}

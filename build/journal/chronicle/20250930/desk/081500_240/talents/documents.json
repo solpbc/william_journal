@@ -1,0 +1,54 @@
+{
+  "overview": "You read two bills on one post. The Rose has Longshanks again today. The Theatre's Thursday bill is up early, title only, the tragedy of King Richard the Second, by the Lord Chamberlain his Servants. No maker's name. You do not go to the Rose.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the Rose's bill and the Theatre's, and did not take either down."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "two bills",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Longshanks",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Thursday's title",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no maker's name",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Read the Rose's Longshanks and Thursday's Richard the Second"
+    },
+    {
+      "name": "Longshanks",
+      "asset_type": "other",
+      "disposition": "Read the Rose's Longshanks and Thursday's Richard the Second"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-30",
+      "meaning": "Two kings on one post"
+    }
+  ],
+  "summary": "Read the Rose's Longshanks and Thursday's Richard the Second"
+}

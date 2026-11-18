@@ -1,0 +1,23 @@
+{
+  "narrative": "The three deposition sheets on the board, nothing added since Saturday. An older leaf lies beside them. Field's Holinshed is shut at the side. No face. The lower half of the older leaf is blank. No prison. No end. The shut chronicle has not been opened. The same two leaves and the shut book. The pen is in the hand and has not marked the paper. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the margin, and did not begin the prison or the end."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in The mark, still in the margin"
+    },
+    {
+      "type": "Project",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "context": "Shown on draft in The mark, still in the margin"
+    }
+  ]
+}

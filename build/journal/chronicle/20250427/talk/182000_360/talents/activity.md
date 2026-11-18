@@ -1,0 +1,1 @@
+At supper you told Mistress Ansell the frame was roofed, the money had come safe with no sum, and the porch was the weather. You did not bring the children's lines down. The loaf was a finger and a half short, at a penny, and the board was threepence. Gib stayed on the second volume. You said you are not in tomorrow's play.

@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Margery Pell had the morning already, and her figure was two hundred, from talk on the stair, not from a count of coats in the road. Cowley had a boy's account: apprentices, one man, a gate, and no count. Larkham would not invent a third figure. The only sentence Cowley and Larkham both accepted was that people were running toward the noise. Cowley proposed going down to see which story was true. You would not. You had seen the open gate, the wrenched hasp, the cap and the backs, and not a man brought out. Nobody went.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused to go down, and named only what he had seen.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave two hundred as her figure from the stair, and sent them back to the house.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought a boy's account with no count, proposed going down, and stayed when you said no.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a third figure, and wrote the agreement as the running only.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Bedlam",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two hundred, and a road you will not take",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Made them say the one sentence they shared",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Goodwife Margery Pell",
+    "Humphrey Larkham",
+    "Richard Cowley",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two hundred",
+    "one account and no count",
+    "running toward the noise",
+    "not going down"
+  ],
+  "quotes": [
+    {
+      "speaker": "margery_pell",
+      "text": "Two hundred, if I am to put one figure on it."
+    },
+    {
+      "speaker": "richard_cowley",
+      "text": "Then someone should go down and see which story is true."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No."
+    }
+  ]
+}

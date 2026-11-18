@@ -1,0 +1,17 @@
+{
+  "narrative": "A second bill, black-letter, under the first. Title and house and hour. No author's name. No sum on the paper. No face. The servants named, and no figure, and no receipt. The paper is not folded for a pocket.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the title and stayed at the lodging."
+    },
+    {
+      "type": "Project",
+      "name": "The Seven Days of the Week",
+      "role": "mentioned",
+      "context": "Shown on bill in Seven Days, title only"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You left with the knife in your belt and the book in Susanna's hand. Joan held the beans for the return. Anne would not let the doorway become the afternoon. The three came with you.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Went to the river with the knife and the book",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Went to the river with the knife and the book",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Went to the river with the knife and the book",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Went to the river with the knife and the book",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Went to the river with the knife and the book",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Went to the river with the knife and the book",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the paring-knife",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Went to the river with the knife and the book",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Golding's Ovid",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Went to the river with the knife and the book",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came in from the lane",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "Joan Shakespeare",
+    "Hamnet Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the doorway",
+    "the knife in the belt",
+    "beans when they are back"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "The middle is not going to widen because you are fond of a doorway."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The knife is in the belt, and the book is in her hand."
+    }
+  ]
+}

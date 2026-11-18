@@ -1,0 +1,129 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "You had them bow, in advance, to a chair you would not name. Heminges had the boy's four lines and no fifth. The king is to be whole, on their floor, and the three leaves are not to be spoken in the yard. They have not been spoken since June. Nine players and two boys. Twelve at table. By water at five. Kemp is not among them. Nick keeps Saturday's note, lower for the panelling. Arthur keeps the Duchess. The glass is not rehearsed here. The purse is not guessed. Egeon is at two, and Gaunt is after, and the rolls are not to be mixed.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the name, the yard, and a new part for Kemp.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the bow, the nine, the two, and the twelve.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the four lines, and would not guess the purse or the cart.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted the leaves after dark, and kept the two words in the orchard.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept Nick to Saturday's note, and did not swap the boys.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he would go lower for the panelling, and not from fear.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Bow to the chair",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Bow to the chair",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "Canon Row",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Bow to the chair",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Had them bow to the chair by the fire",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "George Bryan",
+    "William Shakespeare",
+    "John Heminges",
+    "Richard Burbage",
+    "Augustine Phillips",
+    "Nick Sorrell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the unnamed chair",
+    "nine and two",
+    "the leaves after dark",
+    "Egeon then Gaunt",
+    "no guess at the purse"
+  ],
+  "quotes": [
+    {
+      "speaker": "george_bryan",
+      "text": "Bow to the chair by the fire, whoever is in it."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Item, the boy came. Four lines. Tuesday, Canon Row, by water at five, the king whole."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Not in this yard. Tonight, on their floor, and then back into the chest."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Kemp is not among the nine. He has no part in this king."
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "The note Nick has is the note he keeps."
+    }
+  ]
+}

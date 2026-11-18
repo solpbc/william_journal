@@ -1,0 +1,92 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "John called from the mercer's in Cheapside. The Princess's gown is watchet taffeta and copper lace that will pass for gold at ten paces. The mercer named fifty shillings and will take half down. The stock has eleven shillings in it till Saturday. You asked whether France could be poorer. John said not when the King of Navarre goes in his own old velvet. You took the fifty on credit against the Queen's twenty pounds, whenever that comes. The half was not paid. Nothing came from your purse, and nothing came out of the stock today. Nick was beside John, being measured. The sleeves must be long, because he has grown. You said God keep you both.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked whether France could be poorer, refused the half down, and bade God keep them both.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called from Cheapside, named the fifty and the eleven, and took the credit.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Stood to be measured and sent word that the sleeves must be long. He was not on your end of the call.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Princess's gown",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The Princess's gown",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Queen's twenty pounds",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The Princess's gown",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took the Princess's gown on credit for fifty shillings",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "watchet taffeta",
+    "fifty shillings",
+    "eleven shillings",
+    "the long sleeves"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Will? John. From the mercer's, in Cheapside, and I'd as soon be out of it."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "The\u2014 the stock has eleven shillings in it till Saturday."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Not when the King of Navarre goes in his own old velvet."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "He bids me say the sleeves must be long. He's grown."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "God keep you both."
+    }
+  ]
+}

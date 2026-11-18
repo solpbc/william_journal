@@ -1,0 +1,52 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "With cold rain on the casement and a woollen clout of aquavitae at the jaw, you copied three leaves fair. They are the scene struck from the king in July, the crown handed across and the glass called for. You folded them once and laid them in the coffer under the account book. Garnish's three stay locked in the chest at the Theatre. These are yours. You did not say why.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Copied the three leaves, folded them, and laid them under the account book.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the three leaves",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Three leaves under the book",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "aquavitae",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Three leaves under the book",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Copied the three leaves and put them away",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three leaves",
+    "the crown",
+    "the glass",
+    "the coffer"
+  ],
+  "quotes": []
+}

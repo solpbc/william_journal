@@ -1,0 +1,17 @@
+{
+  "narrative": "Two orchard sheets by a rush-light, the stone not here, a hand flat on the margin. No face. The same sheets, the rush-light lower, the second line as it was written in the garden. Nothing is added in this room. The sheets squared and set under the wallet. The rush-light still burning. The tables from midday are shut. No new line on either.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read once, wrote nothing, and put the sheets away."
+    },
+    {
+      "type": "Project",
+      "name": "the orchard scene",
+      "role": "mentioned",
+      "context": "Shown on draft in The sheets, put away"
+    }
+  ]
+}

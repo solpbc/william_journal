@@ -1,0 +1,69 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You ruled the two columns and entered the part as had: thirty-seven shillings and sixpence. The old expectation of twenty pound stays an expectation, and stays the company's. Edith's eight shillings is noted as the stock's, on Thursday, and is not paid. The horse has no price. You struck the Queen's money off the tables and left the letter, the horse, and the chronicle. You wrote no coffer total.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Ruled the columns, entered the part, and stopped before a total.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "37s 6d",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Had",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "8s to Edith",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Had",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the account book",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Had",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Entered thirty-seven shillings and sixpence as received",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "thirty-seven and six had",
+    "the columns",
+    "eight shillings not paid",
+    "no coffer total"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "of the Queen, my part, xxxvij s. vj d. had."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Not out of the xxxvij s. vj d. Not paid."
+    }
+  ]
+}

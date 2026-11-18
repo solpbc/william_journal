@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "judith_shakespeare", "start": "14:05:30", "text": "The book and the knife are on the board. That is almost a going, and it is not a boat yet.", "timing": {"end": 90.0, "start": 30.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "14:06:30", "text": "It is a knife and a book. The boats are at the water, when we are at the water.", "timing": {"end": 140.0, "start": 90.0}}
+{"sentence_id": 3, "speaker": "susanna_shakespeare", "start": "14:07:20", "text": "I take the book up when you take the knife. I am not leaving it for a wasp.", "timing": {"end": 150.0, "start": 140.0}}

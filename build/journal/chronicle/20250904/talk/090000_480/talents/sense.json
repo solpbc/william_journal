@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At the queen's garden, Sam asked why the book tells him to look frightened when nobody has told his lady anything yet. You began from the whole play. Phillips stopped you: answer from his entrance, because Sam has read his roll and not the play. You told Sam he has seen his lady not sleep, and that this is enough. He did his three lines from the door, and it was right. Nick, waiting as the queen, looked at his shoes and said a queen knows only what is in her roll. You said the correction, from the door and not the book, and that you would write it on the tables.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Started too far back, accepted the entrance, and named the correction.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked the question, and did the three lines from what he had seen.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped the whole-play answer, and held Sam to the roll.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Waited as the queen, and pretended not to enjoy the correction.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the queen's garden",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in From his entrance",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Answered Sam from the entrance",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Sam Latchet",
+    "William Shakespeare",
+    "Augustine Phillips",
+    "Nick Sorrell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Sam's three lines",
+    "the entrance",
+    "the lady not sleeping",
+    "the door not the book"
+  ],
+  "quotes": [
+    {
+      "speaker": "augustine_phillips",
+      "text": "Answer from his entrance, Will. He's not read the play. He's read his roll."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "From the door, not the book."
+    },
+    {
+      "speaker": "sam_latchet",
+      "text": "Why does the book tell me to look frightened when I come on?"
+    }
+  ]
+}

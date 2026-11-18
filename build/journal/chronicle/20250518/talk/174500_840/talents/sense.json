@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Nashe brought a grievance from Paul's that had dressed itself on the walk. Kemp turned a bladder of tallow into a salt-fish weeping brine, and Nashe stole the fish. You spoke enough to keep the image in the room. Alice set down two shillings and eightpence, and the jug. Nashe had not got the money, and he admired the paper. You did not divide the bill.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke to keep the fish in play, and would not divide the bill.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Nashe",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the grievance, stole the salt-fish, and admired a bill he had not got.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Replaced the tallow with a fish, and contested the theft.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alice Brambleby",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set down two shillings and eightpence, and the jug, and ended the louder half.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the Split Hazel bill",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The bill, and the jug",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Kept the supper going at the Split Hazel",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Nashe",
+    "Will Kemp",
+    "William Shakespeare",
+    "Alice Brambleby"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the salt-fish",
+    "the theft",
+    "two shillings and eightpence",
+    "the jug"
+  ],
+  "quotes": [
+    {
+      "speaker": "alice_brambleby",
+      "text": "Two shillings and eightpence, and the jug."
+    },
+    {
+      "speaker": "thomas_nashe",
+      "text": "I have not got it, and I admire it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Leave the paper where she put it."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "density": "active",
+  "content_type": "media",
+  "activity_summary": "Burbage gave the crown away with his own hands and washed off his own balm. The three leaves were the ones no public house has heard. He sent for the glass, looked, and dashed it on the boards. The glass was four shillings, the first time and the only time. No one at the table stirred. Sir Robert did not move.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Stood in the scene, and did not prompt the table.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Gave the crown with his own hands, and dashed the glass.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir Robert Cecil",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Did not move when the glass broke.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Sir Edward Hoby",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Had his boards dashed, and did not rise to them.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Four shillings",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Saw Burbage dash the glass",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the three leaves",
+    "the crown in his hands",
+    "the glass",
+    "four shillings",
+    "a still table"
+  ],
+  "quotes": []
+}

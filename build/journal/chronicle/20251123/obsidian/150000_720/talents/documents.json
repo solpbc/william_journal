@@ -1,0 +1,66 @@
+{
+  "overview": "At three, with two candles, you wrote the fairy king's bank and stopped at two lines. You set down where the flowers came from: thyme above Shottery, oxlips on the lane to Wilmcote, violets from anywhere. You wrote that it came almost too sweetly, and that you left it unstruck. You wrote that you do not trust it. You did not add a line after those two, and you did not touch Saturday's three sheets.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the two lines, left them unstruck, and wrote that he does not trust them."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "On the Chaucer. He did not move."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "two candles",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "two lines",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Shottery thyme",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "left unstruck",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Shottery brook",
+      "asset_type": "other",
+      "disposition": "Wrote a bank of wild thyme"
+    },
+    {
+      "name": "the lane to Wilmcote",
+      "asset_type": "other",
+      "disposition": "Wrote a bank of wild thyme"
+    },
+    {
+      "name": "Saturday's three sheets",
+      "asset_type": "other",
+      "disposition": "Wrote a bank of wild thyme"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-23",
+      "meaning": "A bank of wild thyme"
+    }
+  ],
+  "summary": "Wrote a bank of wild thyme"
+}

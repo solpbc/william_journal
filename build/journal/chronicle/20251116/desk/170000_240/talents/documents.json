@@ -1,0 +1,44 @@
+{
+  "overview": "Before candles you opened the coffer as if it were Saturday, both locks. You ruled a column and you did not put a figure at the foot. You liked the sum better before you began.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Opened the coffer and ruled the column."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "both locks",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a blank foot",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no total",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the coffer",
+      "asset_type": "other",
+      "disposition": "Opened both locks and ruled a column"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-16",
+      "meaning": "Both locks"
+    }
+  ],
+  "summary": "Opened both locks and ruled a column"
+}

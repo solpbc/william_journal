@@ -1,0 +1,1 @@
+You paid twenty shillings before noon and counted them twice. Mistress Ansell wrote the receipt in her late husband's law-hand. She said the quarter's candles had come to more than the quarter's bread, and that she had never before had a lodger of whom that was true. You did not argue it.

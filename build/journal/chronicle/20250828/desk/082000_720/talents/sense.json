@@ -1,0 +1,44 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "Seated, you drew the orchard as a stage. Twelve feet and a rail, a boy on the boards, a girl above, the Nurse behind the arras. The hurry is the house waking. You struck four lines of the boy's that admired the window. What you kept is a whisper the yard has to lean in to hear, and the rest said across the rail.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Drew the square and the arrow, and struck the four lines.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Twelve feet and a rail",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Cut the lines that admired the window",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twelve feet",
+    "the rail",
+    "four lines struck",
+    "the Nurse's arrow"
+  ],
+  "quotes": []
+}

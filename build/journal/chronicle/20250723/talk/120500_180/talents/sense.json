@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "By noon the street had cried tomorrow, on Tower Hill. You heard it from the stair and did not go down. Today's bill was still up. You left Verbeke at his thread.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the crier and the door.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked after today's bill, and left Verbeke at his work.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the cry up the stair.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Tower Hill",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Tomorrow, on Tower Hill",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard tomorrow cried on Tower Hill",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "William Shakespeare",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cry",
+    "Tower Hill",
+    "today's bill"
+  ],
+  "quotes": [
+    {
+      "speaker": "alse_pinder",
+      "text": "They're crying it in the street."
+    }
+  ]
+}

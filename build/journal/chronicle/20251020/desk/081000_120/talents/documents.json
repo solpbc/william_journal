@@ -1,0 +1,44 @@
+{
+  "overview": "You reread Friday's slip before you left the house. Sir Thomas is already dead. The question under his name is who pays. You did not answer it on the paper.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the slip and did not write a second line."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Friday's slip",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Sir Thomas Heneage",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the question of pay",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the slip",
+      "asset_type": "other",
+      "disposition": "Reread Friday's slip"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-20",
+      "meaning": "The slip from Friday"
+    }
+  ],
+  "summary": "Reread Friday's slip"
+}

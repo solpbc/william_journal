@@ -1,0 +1,93 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "When the sign was on all three rolls, Nick spoke the new cue once, to the paper, too low for the words to carry. Humphrey said the mouthful matched what he had just written. John would not have it spoken again. The old line stayed in Nick's head. You sent him into the yard and told him not to gather a second opinion. The ink was left under the weight.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Nick spoke the new cue once",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Nick spoke the new cue once",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Nick spoke the new cue once",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Nick spoke the new cue once",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the three rolls",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nick spoke the new cue once",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "eightpence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nick spoke the new cue once",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed the three rolls of the king play",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Nick Sorrell",
+    "Humphrey Larkham",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one speaking of the cue",
+    "wet ink",
+    "no second opinion"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Once, lad. The new cue, and then stop."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Once is what the stock paid for."
+    },
+    {
+      "speaker": "nick_sorrell",
+      "text": "The old one knocked, and I did not open."
+    }
+  ]
+}

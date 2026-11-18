@@ -1,0 +1,1 @@
+Four of you sat the settle. The capon was fourteen pence a head, and Agnes forgave the slate for one night. Richard gave the tapster the castle wall, and the tapster bent. Thomas drank to seven-and-twenty, and deposed already. You gave a looking-glass in a pearwood frame, two shillings and sixpence. Richard looked a long moment. It was not Richard who looked. Augustine sang.

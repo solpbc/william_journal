@@ -1,0 +1,73 @@
+{
+  "density": "low_change",
+  "content_type": "meeting",
+  "activity_summary": "At the morning rehearsal you ran Gaunt as the book is played. He dies in the second act. Nothing was put back into the play. You did not call the afternoon the sixth time before it had happened. Burbage takes the rest of the king from the tiring-house door.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept to Gaunt, and refused an early count.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the second act as the end of the part, and closed the rehearsal.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Confirmed the join, and kept the rest of the king from the door.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The jaw, and nothing restored",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed Gaunt as the book is played",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the second act",
+    "nothing restored",
+    "the join",
+    "not yet the sixth"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "The book as we play it. Nothing put back."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not call it the sixth until it has been the sixth."
+    }
+  ]
+}

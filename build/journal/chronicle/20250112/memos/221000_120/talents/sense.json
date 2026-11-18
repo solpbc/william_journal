@@ -1,0 +1,66 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You said afterward that the sermon had reached fourteenthly while you were still on the messenger. You left the half-line empty on purpose. You were well, and you said the nose was clear. The cold has not begun.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the memo and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named as the man who reached fourteenthly. Not present.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Fourteenthly",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Noted fourteenthly and stopped",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the sermon",
+    "the empty half-line",
+    "a clear nose"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The half-line is empty. I will not fill it tonight to be done."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am well. The nose is clear."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The third is not named."
+    }
+  ]
+}

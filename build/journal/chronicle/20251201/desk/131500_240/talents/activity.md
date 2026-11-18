@@ -1,0 +1,1 @@
+Before you walked back to the Theatre you had Navarre's roll open beside the old note of the first speech. The note still reads brazen tombs, cormorant Time, heirs of eternity. The afternoon bill is Love's Labour's Lost, and you play. You added no author's name.

@@ -1,0 +1,104 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "The children played Saturday night's orchard scene at the bedside, to an audience of one lying flat. Susanna was the girl, on a stool, and she read clear. Hamnet was the boy, at a gallop, and he stopped at the wings to ask for a ladder or a friend. Judith was Madam in three sizes, and she was also the moon, with a candle, and she would not be talked out of it. You laughed, and it hurt, and you laughed. Susanna said the girl is too quick to say yes. You answered with the line in which she says so herself, and you changed nothing. Anne, from the door, asked if this was the work. You said that was it. She said it was better than she had thought.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Was the audience, laughed, and changed nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read the girl, folded the sheets, and gave the verdict.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read at a gallop, and asked for a ladder or a friend.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said Madam in three sizes, and kept the candle.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the end from the door, and thought better of the work.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the orchard scene",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in She is too quick to say yes",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Let the children play the orchard scene",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Susanna Shakespeare",
+    "William Shakespeare",
+    "Hamnet Shakespeare",
+    "Judith Shakespeare",
+    "Anne Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the stool",
+    "the wings",
+    "Madam in three sizes",
+    "the candle moon",
+    "too quick"
+  ],
+  "quotes": [
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "She is too quick to say yes."
+    },
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "Saying you know it doesn't mend it."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Is that what you do for money?"
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "It's better than I thought."
+    },
+    {
+      "speaker": "hamnet_shakespeare",
+      "text": "With loues light wings did I orepearch these walls."
+    }
+  ]
+}

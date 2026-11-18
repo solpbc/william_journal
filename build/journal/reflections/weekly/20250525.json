@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250525",
+    "end": "20250531"
+  },
+  "generated_at": "2025-05-31T22:00:00Z",
+  "days": [
+    {
+      "day": "20250525",
+      "state": "memory",
+      "memory_id": "m-20250525-0"
+    },
+    {
+      "day": "20250526",
+      "state": "memory",
+      "memory_id": "m-20250526-1"
+    },
+    {
+      "day": "20250527",
+      "state": "memory",
+      "memory_id": "m-20250527-2"
+    },
+    {
+      "day": "20250528",
+      "state": "memory",
+      "memory_id": "m-20250528-3"
+    },
+    {
+      "day": "20250529",
+      "state": "memory",
+      "memory_id": "m-20250529-4"
+    },
+    {
+      "day": "20250530",
+      "state": "memory",
+      "memory_id": "m-20250530-5"
+    },
+    {
+      "day": "20250531",
+      "state": "memory",
+      "memory_id": "m-20250531-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250525-0",
+      "key": "mem_20250525_0",
+      "day": "20250525",
+      "text": "The loaf was a penny and a finger and a half short, the glass was struck, and the parish walked three marks.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250525/talents/morning_briefing",
+        "briefing_day": "20250525",
+        "refs": [
+          "sol://facets/household/activities/20250525#meeting_071000_720",
+          "sol://facets/writing/activities/20250525#frame_112000_720",
+          "sol://facets/household/activities/20250525#photo_151200_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250526-1",
+      "key": "mem_20250526_1",
+      "day": "20250526",
+      "text": "Susanna is twelve. The letter is written, for the fifth of June. You came in a line late as Navarre.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250526/talents/morning_briefing",
+        "briefing_day": "20250526",
+        "refs": [
+          "sol://facets/stratford/activities/20250526#frame_081000_240",
+          "sol://facets/writing/activities/20250526#frame_100000_480",
+          "sol://facets/company/activities/20250526#meeting_145000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250527-2",
+      "key": "mem_20250527_2",
+      "day": "20250527",
+      "text": "Cowley dried four times. You were thanked for eight lines, and the thanks were sarcastic. They broke at eleven.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250527/talents/morning_briefing",
+        "briefing_day": "20250527",
+        "refs": [
+          "sol://facets/company/activities/20250527#frame_090500_240",
+          "sol://facets/company/activities/20250527#meeting_092000_840",
+          "sol://facets/writing/activities/20250527#frame_141500_600"
+        ]
+      }
+    },
+    {
+      "id": "m-20250528-3",
+      "key": "mem_20250528_3",
+      "day": "20250528",
+      "text": "Bryan took the shorter reading and a cross. The precept is in the house. Alse may wash the band white.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250528/talents/morning_briefing",
+        "briefing_day": "20250528",
+        "refs": [
+          "sol://facets/company/activities/20250528#meeting_100000_360",
+          "sol://facets/writing/activities/20250528#note_101200_240",
+          "sol://facets/household/activities/20250528#frame_174000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250529-4",
+      "key": "mem_20250529_4",
+      "day": "20250529",
+      "text": "Cheese was 2d the pound. The penny loaf was hardly bigger than a fist. The garden on the draft is the apricocks.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250529/talents/morning_briefing",
+        "briefing_day": "20250529",
+        "refs": [
+          "sol://facets/household/activities/20250529#meeting_074000_360",
+          "sol://facets/household/activities/20250529#meeting_110500_480",
+          "sol://facets/household/activities/20250529#photo_112200_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250530-5",
+      "key": "mem_20250530_5",
+      "day": "20250530",
+      "text": "Cowley came through once and apologised to nobody. The eight lines held.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250530/talents/morning_briefing",
+        "briefing_day": "20250530",
+        "refs": [
+          "sol://facets/writing/activities/20250530#frame_092000_480",
+          "sol://facets/company/activities/20250530#meeting_151000_720",
+          "sol://facets/writing/activities/20250530#note_183000_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20250531-6",
+      "key": "mem_20250531_6",
+      "day": "20250531",
+      "text": "The book at Paul's has Pembroke's name. John left the bag open.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250531/talents/morning_briefing",
+        "briefing_day": "20250531",
+        "refs": [
+          "sol://facets/writing/activities/20250531#frame_103200_360",
+          "sol://facets/writing/activities/20250531#meeting_104200_120",
+          "sol://facets/writing/activities/20250531#frame_122000_600"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250525-0",
+      "key": "said_20250525_0",
+      "day": "20250525",
+      "quote": "The words were the old words. They sounded thinner. The prayer asked for the fruits, and the mouths were on the wheat.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250525#meeting_152200_840"
+      }
+    },
+    {
+      "id": "s-20250526-1",
+      "key": "said_20250526_1",
+      "day": "20250526",
+      "quote": "The king is two-thirds made.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250526#memo_165500_120"
+      }
+    },
+    {
+      "id": "s-20250527-2",
+      "key": "said_20250527_2",
+      "day": "20250527",
+      "quote": "Eight lines, and they thanked me as if rightness were a fault.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250527#memo_203000_120"
+      }
+    },
+    {
+      "id": "s-20250528-3",
+      "key": "said_20250528_3",
+      "day": "20250528",
+      "quote": "I will not let a precept stretch the bread.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250528#meeting_180000_840"
+      }
+    },
+    {
+      "id": "s-20250529-4",
+      "key": "said_20250529_4",
+      "day": "20250529",
+      "quote": "The penny is still a penny. The loaf is the thing that changed.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250529#meeting_110500_480"
+      }
+    },
+    {
+      "id": "s-20250531-5",
+      "key": "said_20250531_5",
+      "day": "20250531",
+      "quote": "My name on two poems and a tax. Not on a play.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250531#memo_163000_60"
+      }
+    },
+    {
+      "id": "s-20250531-6",
+      "key": "said_20250531_6",
+      "day": "20250531",
+      "quote": "I would rather a blank than a guess. A guess sits down and becomes a total if nobody contradicts it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250531#meeting_165000_840"
+      }
+    }
+  ]
+}

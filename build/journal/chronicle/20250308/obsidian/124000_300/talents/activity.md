@@ -1,0 +1,1 @@
+After the first walk you wrote two payments, a quire at fivepence and ink at twopence, both to Mistress Ansell. You noted that the coffer had been counted. You set down no sum. You ruled no new column. The head of the book still said 1594.

@@ -1,0 +1,1 @@
+You passed the shut stalls at Paul's. The White Greyhound had its boards up. You said Venus and Lucrece are there by day, and that tonight you were not buying a book and not stopping. The pages were for the fire at Blackfriars, and they were to come home after.

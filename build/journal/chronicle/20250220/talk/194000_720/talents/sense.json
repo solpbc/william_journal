@@ -1,0 +1,79 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "A young man of the Inner Temple came in to praise Berowne, and then said Southwell was tried at Westminster today before the Lord Chief Justice, for treason, and condemned. He said the priest had given his age as thirty-three, and that he was a poet. You were not at that trial. You asked, courteously, when it was to be, and you were told tomorrow. You rubbed your forefinger against your thumb. Bryan turned the talk to the unpaid gown. The table went on eating. You did not make a likeness, and you did not go to see.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked when it was to be, heard tomorrow, and stopped following the gown.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the supper and the debts in their own columns, and would not enter the news as an item.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Turned the talk to the watchet and to Edith's unpaid eight shillings.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told him not to make a likeness at the table, and saw that he was somewhere else.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Southwell was condemned and asked when it was to be",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Burbage",
+    "John Heminges",
+    "George Bryan",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the trial at Westminster",
+    "thirty-three",
+    "tomorrow",
+    "the gown turned to",
+    "the forefinger"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "When is it to be?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I thank you. You were good to come in about Berowne."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Tomorrow is tomorrow."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Through the afternoon, while the Shrew went up without you, you wrote the Capulet house getting ready for a wedding. You wrote the cooks, the father's orders, the curfew, and the baked meats. You left the margin empty. The pause was not in the leaf yet.

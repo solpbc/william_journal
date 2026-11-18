@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Between the rehearsal and the play you were at the lodging. You put two houses and a street on the tables, and the serving-men, and no words for them. Brooke stayed on the shelf. You did not write a line of the play.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote three lines on the tables and did not open the poem.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Put two houses, a street, and the serving-men on the tables",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two houses",
+    "no words yet",
+    "the hour before the play"
+  ],
+  "quotes": []
+}

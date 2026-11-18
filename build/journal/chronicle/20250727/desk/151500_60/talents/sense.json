@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "The short list was still on the tables. The pack beside it was already shut. Brooke was on the shelf, and Gib was on the cloth.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Looked at the leaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Stayed on the cloth.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Verona sheets",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The short list, still on the leaf",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Looked at the short list",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the short list",
+    "the shut pack",
+    "Brooke on the shelf"
+  ],
+  "quotes": []
+}

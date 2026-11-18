@@ -1,0 +1,45 @@
+{
+  "overview": "At nine you left the plot as it was. The note stays the note, and you did not write a new height for Nick. You did not make a new entrance.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Checked the plot and added nothing."
+    },
+    {
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "formal_term": "Nick Sorrell",
+      "appointment_tier": "not_applicable",
+      "context": "Named on the plot, and not given a higher note."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the morning plot",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the same note",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no new height",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-18",
+      "meaning": "The same note"
+    }
+  ],
+  "summary": "Read the plot and put Nick's note back on the peg"
+}

@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250216",
+    "end": "20250222"
+  },
+  "generated_at": "2025-02-22T22:00:00Z",
+  "days": [
+    {
+      "day": "20250216",
+      "state": "memory",
+      "memory_id": "m-20250216-0"
+    },
+    {
+      "day": "20250217",
+      "state": "nothing_shared"
+    },
+    {
+      "day": "20250218",
+      "state": "memory",
+      "memory_id": "m-20250218-1"
+    },
+    {
+      "day": "20250219",
+      "state": "memory",
+      "memory_id": "m-20250219-2"
+    },
+    {
+      "day": "20250220",
+      "state": "memory",
+      "memory_id": "m-20250220-3"
+    },
+    {
+      "day": "20250221",
+      "state": "memory",
+      "memory_id": "m-20250221-4"
+    },
+    {
+      "day": "20250222",
+      "state": "memory",
+      "memory_id": "m-20250222-5"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250216-0",
+      "key": "mem_20250216_0",
+      "day": "20250216",
+      "text": "You wrote Anne that you will come before Mid-Lent Sunday. The sheet waits for the carrier of the 27th.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250216/talents/morning_briefing",
+        "briefing_day": "20250216",
+        "refs": [
+          "sol://facets/household/activities/20250216#meeting_104000_720",
+          "sol://facets/household/activities/20250216#meeting_121500_720",
+          "sol://facets/stratford/activities/20250216#note_153000_600"
+        ]
+      }
+    },
+    {
+      "id": "m-20250218-1",
+      "key": "mem_20250218_1",
+      "day": "20250218",
+      "text": "Sincler has the half-line, slower, and then nothing. Sam kept the notes and lost the place.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250218/talents/morning_briefing",
+        "briefing_day": "20250218",
+        "refs": [
+          "sol://facets/company/activities/20250218#frame_090500_240",
+          "sol://facets/company/activities/20250218#meeting_091500_720",
+          "sol://facets/company/activities/20250218#meeting_102000_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20250219-2",
+      "key": "mem_20250219_2",
+      "day": "20250219",
+      "text": "Alse has never seen a play. She heard the oath and asked who cooks.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250219/talents/morning_briefing",
+        "briefing_day": "20250219",
+        "refs": [
+          "sol://facets/company/activities/20250219#meeting_092000_720",
+          "sol://facets/writing/activities/20250219#frame_160000_240",
+          "sol://facets/household/activities/20250219#meeting_203000_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20250220-3",
+      "key": "mem_20250220_3",
+      "day": "20250220",
+      "text": "The boxes held seven pound eleven, and the yard went out quiet. At supper you heard Southwell was condemned and asked when it was to be. The answer was tomorrow.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250220/talents/morning_briefing",
+        "briefing_day": "20250220",
+        "refs": [
+          "sol://facets/company/activities/20250220#meeting_091500_720",
+          "sol://facets/company/activities/20250220#photo_120000_120",
+          "sol://facets/writing/activities/20250220#frame_122000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250221-4",
+      "key": "mem_20250221_4",
+      "day": "20250221",
+      "text": "Three accounts of the hanging came before supper, and they did not match. You stayed in.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250221/talents/morning_briefing",
+        "briefing_day": "20250221",
+        "refs": [
+          "sol://facets/household/activities/20250221#meeting_123000_720",
+          "sol://facets/writing/activities/20250221#frame_160000_180",
+          "sol://facets/writing/activities/20250221#memo_211500_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250222-5",
+      "key": "mem_20250222_5",
+      "day": "20250222",
+      "text": "The share is thirty shillings. At home you counted the coffer and wrote the share.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250222/talents/morning_briefing",
+        "briefing_day": "20250222",
+        "refs": [
+          "sol://facets/household/activities/20250222#meeting_084000_720",
+          "sol://facets/stratford/activities/20250222#frame_110000_180",
+          "sol://facets/company/activities/20250222#frame_152000_240"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250216-0",
+      "key": "said_20250216_0",
+      "day": "20250216",
+      "quote": "They get the last word, which is a colder portion, and a better one.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250216#meeting_121500_720"
+      }
+    },
+    {
+      "id": "s-20250217-1",
+      "key": "said_20250217_1",
+      "day": "20250217",
+      "quote": "A tally of a rehearsal is a tally of air.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250217#meeting_091000_720"
+      }
+    },
+    {
+      "id": "s-20250218-2",
+      "key": "said_20250218_2",
+      "day": "20250218",
+      "quote": "Slower in. Then nothing. Let them do it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250218#meeting_102000_720"
+      }
+    },
+    {
+      "id": "s-20250219-3",
+      "key": "said_20250219_3",
+      "day": "20250219",
+      "quote": "She heard the oath and asked who cooks.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250219#memo_211000_120"
+      }
+    },
+    {
+      "id": "s-20250220-4",
+      "key": "said_20250220_4",
+      "day": "20250220",
+      "quote": "I am glad of the quiet. I am not going to explain it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250220#meeting_163500_720"
+      }
+    },
+    {
+      "id": "s-20250221-5",
+      "key": "said_20250221_5",
+      "day": "20250221",
+      "quote": "They hanged the Jesuit this morning. Southwell. I did not go. \u2026I was never going.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250221#memo_211500_120"
+      }
+    },
+    {
+      "id": "s-20250221-6",
+      "key": "said_20250221_6",
+      "day": "20250221",
+      "quote": "I was thinking of the voice. How long a voice may stay in words when the mouth is stopped. That is a fine thought, and so I distrust it a little.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250221#memo_211500_120"
+      }
+    },
+    {
+      "id": "s-20250221-7",
+      "key": "said_20250221_7",
+      "day": "20250221",
+      "quote": "I have been holding this pen all the while. There's no ink in it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250221#memo_211500_120"
+      }
+    }
+  ]
+}

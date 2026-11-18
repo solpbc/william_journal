@@ -1,0 +1,73 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Master Thwaite kept the Sunday lesson plain and did not number his heads. Mistress Ansell had the book in one hand. You said you would write the sheet after church, not in the pew. Alse put you in the south aisle, as always.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the text plain, and asked only that the pew be left as it was found.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted plain, with the book in one hand.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed the south aisle, and kept ink off the pew.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Went in, and left the sheet until after church.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard Master Thwaite's plain lesson",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a plain lesson",
+    "no count of heads",
+    "the sheet after church"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "The text is plain, and I shall keep it plain"
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I have the book in one hand and the door in the other"
+    }
+  ]
+}

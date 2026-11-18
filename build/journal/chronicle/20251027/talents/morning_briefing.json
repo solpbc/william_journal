@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "generated": "2025-10-28T06:00:00Z",
+    "model": "william-journal-generator",
+    "sources": {
+      "segments": 5
+    },
+    "gaps": [],
+    "coverage_preamble": "Today holds a loan, a standing read, one line on the tables, and a cat on the book."
+  },
+  "yesterday": [
+    "The folio is lent. Florio's slip stays with it.",
+    "You read until the bell for nine. Theseus, a queen to be wed, two young men, one lady at a window.",
+    "The tables say a duke to be married, four days, the old moon. That line is the Knight's Tale.",
+    "Gib is on the Chaucer. Holinshed has lost him for the day. Verona is still tied.",
+    "The horn is filled at twopence. That is the Monday rate."
+  ],
+  "needs_attention": []
+}

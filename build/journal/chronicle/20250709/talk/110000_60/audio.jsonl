@@ -1,0 +1,8 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "11:00:00", "text": "There is a thing about what a Master of the Revels can hear, and what he cannot.", "timing": {"end": 10.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "richard_field", "start": "11:00:10", "text": "Is this a thing written, a thing rumoured, or a thing thou knowest?", "timing": {"end": 20.0, "start": 10.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "11:00:20", "text": "It is a thing I fear.", "timing": {"end": 28.0, "start": 20.0}}
+{"sentence_id": 4, "speaker": "richard_field", "start": "11:00:28", "text": "And my Holinshed is neither written, rumoured nor known, but lent.", "timing": {"end": 40.0, "start": 28.0}}
+{"sentence_id": 5, "speaker": "dorcas_ansell", "start": "11:00:40", "text": "The printer is the only one of his friends who can be got rid of in under a minute.", "timing": {"end": 52.0, "start": 40.0}}
+{"sentence_id": 6, "speaker": "richard_field", "start": "11:00:52", "text": "The book is the small Italian one. I am not asking its title in the hall.", "timing": {"end": 62.0, "start": 52.0}}
+{"sentence_id": 7, "speaker": "william_shakespeare", "start": "11:01:02", "text": "There is no title I am giving it. Take it. The stair is yours to leave.", "timing": {"end": 68.0, "start": 62.0}}

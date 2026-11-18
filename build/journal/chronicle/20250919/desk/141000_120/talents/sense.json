@@ -1,0 +1,60 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "At two the plot was Titus at the Theatre. No name of a part was on the peg. You did not add one. The hired men had the name by this afternoon.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Played, and brought no part-name away.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "The name is his, from last night. He is not on this plot.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "They had the name by this afternoon.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Titus",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Titus, no name of a part",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Played Titus",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Titus",
+    "two of the clock",
+    "no name of a part",
+    "the name in the house"
+  ],
+  "quotes": []
+}

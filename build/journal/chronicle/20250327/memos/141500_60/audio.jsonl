@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "14:15:04", "text": "Gaunt.", "timing": {"end": 20.0, "start": 4.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "14:15:20", "text": "Gaunt.", "timing": {"end": 30.0, "start": 20.0}}

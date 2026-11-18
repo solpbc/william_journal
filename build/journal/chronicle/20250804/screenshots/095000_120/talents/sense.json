@@ -1,0 +1,35 @@
+{
+  "density": "idle",
+  "content_type": "media",
+  "activity_summary": "The two leaves lay on the table with the ink still dark. Your hand held the corner. The shoe was on the floor, empty, and the play bundle was still tied.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Held the page, and left the shoe where it was.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Left the list drying",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the two leaves",
+    "the wet ink",
+    "the empty shoe"
+  ],
+  "quotes": []
+}

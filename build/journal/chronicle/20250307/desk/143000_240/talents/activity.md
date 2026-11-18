@@ -1,0 +1,1 @@
+In the afternoon the Verona page was unchanged. The line after "alike in" was still empty. The note that the King comes first was still the stop. You did not write a speech under the plan, and you did not fill in the days.

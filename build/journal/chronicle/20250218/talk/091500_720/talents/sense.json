@@ -1,0 +1,114 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Nick walked in the watchet gown, sleeves long, and the fifty shillings stayed unpaid. Phillips took Sam through the cuckoo song on the breath. Sam forgot where to stand and kept every note. You set him left of Nick. Kemp stayed quiet for the song. Garnish wrote no total.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ordered the gown and the song first, set Sam left of Nick, and kept the column blank.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Walked in the watchet, and would not turn to find Sam.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Taught the song on the breath, not on the word, and named the loss a right one.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Forgot where to stand and remembered every note.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Entered Sam left of the Princess and wrote no total.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said a lost tune cannot be covered with talk.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed quiet for the song, and said so.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The watchet gown, and the song",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed the watchet gown and the cuckoo song",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "William Shakespeare",
+    "Nick Sorrell",
+    "Richard Burbage",
+    "Will Kemp",
+    "Augustine Phillips",
+    "Sam Latchet"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the watchet gown",
+    "fifty shillings unpaid",
+    "the cuckoo song",
+    "Sam's place",
+    "the open column"
+  ],
+  "quotes": [
+    {
+      "speaker": "augustine_phillips",
+      "text": "Sing it on the breath, Sam, not on the word. The word will come along."
+    },
+    {
+      "speaker": "sam_latchet",
+      "text": "I had the place and I lost it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Fifty shillings of it is still on the Cheapside book."
+    }
+  ]
+}

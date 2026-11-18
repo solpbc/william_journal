@@ -1,0 +1,101 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You had played the old man in Errors, and the yard heard every word. You called that worse. John is not asking for a shorter telling. Margery says today was not Tuesday's quiet, and she did not name a new sum. She left Tuesday's nine where she had said it. Garnish is in the middle of the king and will not report a page. The seven shillings stay set by. You are going home by the road. You have seen no paper nailed up.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the yard heard every word, and refused a new sum.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted the length, and kept the fee unspent and unseen.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Separated today's still house from Tuesday's thin one, and gave no new box.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a progress report, and kept the six days.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Every word",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "9s on Tuesday",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Every word",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "7s set by",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Every word",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Said the yard heard every word, and called that worse",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "John Heminges",
+    "Goodwife Margery Pell",
+    "Abel Garnish"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a yard that heard",
+    "no new box",
+    "the king still in the middle"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "They stayed. Twice in three days, a yard that hears every word, which is worse"
+    },
+    {
+      "speaker": "margery_pell",
+      "text": "Still is not the same as thin, and I am not naming a new box"
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "I am in the middle, and the middle is not a report"
+    }
+  ]
+}

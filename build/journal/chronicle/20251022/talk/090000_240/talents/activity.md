@@ -1,0 +1,1 @@
+You came into the tiring-house and found the three rolls already on the trestle. Humphrey would not start until John was in the room. Nick wanted the new cue in his mouth at once. You told him to wait. No one was painted yet. John was still in the yard.

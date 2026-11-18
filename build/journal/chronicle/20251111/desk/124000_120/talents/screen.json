@@ -1,0 +1,17 @@
+{
+  "narrative": "His tables, one new line. No price beside it. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the line."
+    },
+    {
+      "type": "Tool",
+      "name": "the household book",
+      "role": "mentioned",
+      "context": "Shown on tables in Bacon is a mystery"
+    }
+  ]
+}

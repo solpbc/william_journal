@@ -1,0 +1,1 @@
+At supper she said she had heard no walking at all, and she distrusted the quiet. You told her the afternoon was a letter home, three beginnings struck and the fourth kept, sealed for Hobbins on the eleventh. The loaf still wants a full thumb of the notch. The price of the board was threepence. She said a short letter to a wife has less room for lies in it.

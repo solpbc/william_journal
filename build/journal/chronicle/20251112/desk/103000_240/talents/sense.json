@@ -1,0 +1,52 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You looked at the plot he had started. One roll for the Lady. The fan-carrier's own name, because he would like it. Twenty-odd parts, and three boys. This is not a reading. The rolls are not out.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the plot and did not take it back.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Had begun the boxes.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in What Garnish will box",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read Garnish's plot",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the plot",
+    "the Lady",
+    "his own name",
+    "the count"
+  ],
+  "quotes": []
+}

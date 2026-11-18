@@ -1,0 +1,102 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "After morning prayer Master Thwaite would not put a feast into a book that does not have one. He had kept yesterday's sermon to one glass, and he would not say it again. Mistress Ansell left Saturday's supper where it was. Sir John Spencer sat his pew without a sword-bearer. You did not go to the gate. Dinner at her table is threepence. You did not start the tomb.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Agreed the almanac was blank, and left the vault for another day.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a second sermon, and named dinner at threepence.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held to yesterday's one glass, and would not write a feast in.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the Monday ink for Monday, and set three trenchers.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat his pew. He did not speak, and no sword-bearer stood behind him.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nothing sued for",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nothing sued for",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood through morning prayer and went in to dinner",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "no feast in the book",
+    "one glass yesterday",
+    "Sir John silent",
+    "threepence dinner"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "There is no feast in the book today."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "You will eat. It is short of the notch, and it is a penny, and I am not opening a baker on a Sunday."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "There is no play today. I am not going up the lane."
+    }
+  ]
+}

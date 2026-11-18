@@ -1,0 +1,1 @@
+At Uxbridge the first of the morning had been stiff, and you were walking. The corn was in. Women were gleaning, and they did not look up, and they did not speak. You did not ask for the spare. You left the field to its own work.

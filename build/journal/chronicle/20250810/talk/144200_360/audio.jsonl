@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 360.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "hamnet_shakespeare", "start": "14:42:50", "text": "Mine is in the reed with hers. I am getting her out before the river decides she lives there.", "timing": {"end": 150.0, "start": 50.0}}
+{"sentence_id": 2, "speaker": "judith_shakespeare", "start": "14:44:30", "text": "She was resting. A hand is a hand. It is not a rescue, and it is not a loss.", "timing": {"end": 260.0, "start": 150.0}}
+{"sentence_id": 3, "speaker": "susanna_shakespeare", "start": "14:46:20", "text": "I have the book. I am not opening it again on a bank. If the pie is still a pie, it is at home.", "timing": {"end": 320.0, "start": 260.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "14:47:20", "text": "Hands in, hulls out. We are going while the middle is still the middle I named.", "timing": {"end": 330.0, "start": 320.0}}

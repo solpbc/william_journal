@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "On the burned row your father directed from the fourth rung, and told them the other timber, not that one. The end plot was a maltster's barn, with a carpenter pricing oak. The frame goes up on Tuesday if it is pegged, and it wants a dozen men. You gave twenty shillings toward the timber, and your name for the dozen, before you had finished thinking the second. The children kept their own count, and the nail.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the twenty shillings and the name, and stepped off the plot.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Directed from the rung, and made the twenty audible.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the old nail, and refused a place in the dozen.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Matched the chimney and the weeds to what she had said.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held both judgments, smaller and worse, and kept twenty shillings apart from twenty houses.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Gave twenty shillings toward the timber and a name for the dozen",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Shakespeare",
+    "William Shakespeare",
+    "Susanna Shakespeare",
+    "Judith Shakespeare",
+    "Hamnet Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the fourth rung",
+    "twenty shillings",
+    "the dozen"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_shakespeare",
+      "text": "Not that one, the *other* one! Would you bring the street down?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Twenty shillings toward the timber"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "And my name for the dozen, if you are pegged by Tuesday"
+    }
+  ]
+}

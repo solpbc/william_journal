@@ -1,0 +1,39 @@
+{
+  "overview": "You wiped yesterday's list and wrote three words on the tables: sit, ground, stories.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wiped the list and wrote the three words."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "three words",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the tables wiped",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Wiped the tables and wrote three words"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-13",
+      "meaning": "Sit, ground, stories"
+    }
+  ],
+  "summary": "Wiped the tables and wrote three words"
+}

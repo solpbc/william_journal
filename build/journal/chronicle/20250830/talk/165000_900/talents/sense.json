@@ -1,0 +1,130 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Heminges set out six-and-twenty shillings to each sharer, the first share since July. You told Burbage what the Rose yard had been, gilded mail under the June throne, their king all is and yours all seems, five weeks. Heminges named Monday at two as The Shrew. You put the share in your purse and left the coffer at twenty pound fifteen. You said you were for your bed by nine.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took six-and-twenty into his purse, left the coffer shut, and named nine o'clock.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told the share, and named Monday at two as The Shrew.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted his six-and-twenty.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked to have his counted twice, and stayed on you.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the same pile, and went for the gate.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called it a Saturday, not a fortune.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked after the Rose, and named Monday's bill again on the way out.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "six-and-twenty shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Six-and-twenty",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "twenty pound fifteen shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Six-and-twenty",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Shrew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Six-and-twenty",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took six-and-twenty shillings and named Monday's Shrew",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Thomas Pope",
+    "Will Kemp",
+    "George Bryan",
+    "Augustine Phillips",
+    "Richard Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "six-and-twenty shillings",
+    "the first share since July",
+    "Monday's Shrew",
+    "the coffer shut",
+    "bed at nine"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Here is the first share since July on the cloth. Count your own: six-and-twenty shillings to each man"
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Monday at two is The Shrew"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am for my bed by nine tonight, John"
+    }
+  ]
+}

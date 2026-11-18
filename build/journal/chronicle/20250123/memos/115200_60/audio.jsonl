@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "11:52:00", "text": "They sell explanations by the sheet. So do I. Mine have jokes in.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:52:14", "text": "And his came back longer than he paid for.", "timing": {"end": 24.0, "start": 14.0}}

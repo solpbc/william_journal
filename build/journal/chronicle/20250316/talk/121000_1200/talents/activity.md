@@ -1,0 +1,1 @@
+You boarded at threepence, the first meal of the week. The penny loaf was short of the notch by a finger, and Mistress Ansell would not make a sermon of it. You gave her no new plot. The letter on the board has no day and was not sent. Alse still cannot read it. The firing sixpence was not collected. The horse is not hired.

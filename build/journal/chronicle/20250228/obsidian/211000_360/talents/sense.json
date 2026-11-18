@@ -1,0 +1,36 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "By one candle you fair-copied one line and gave the leaf no title, no number, and no name. You laid it in the folder. You did not give it to anyone, and you did not write a name on it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Fair-copied the leaf alone and left it unnamed.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Fair-copied one line",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one candle",
+    "one line",
+    "no title",
+    "no name"
+  ],
+  "quotes": []
+}

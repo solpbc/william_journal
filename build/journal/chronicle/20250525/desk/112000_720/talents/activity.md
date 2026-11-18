@@ -1,0 +1,1 @@
+You worked the sheet of the king's coming down and struck the order to send for a glass. The margin says the glass is promised and that he is not yet in a room where it can be brought. You added two lines about his quiet, and you stopped.

@@ -1,0 +1,49 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Home, you kept the wedding as a sentence that died on the walk. You did not write it down. James's line was the one you kept, and you are not making a play of it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the sentence was dead, and did not write it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in Nothing written down",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Came home from Holywell",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the unwritten sentence",
+    "the walk home"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Nothing written down;"
+    }
+  ]
+}

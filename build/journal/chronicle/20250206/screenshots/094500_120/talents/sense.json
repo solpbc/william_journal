@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You looked at the cue roll in Nick's hands over the cold boards. The two new stops were the only new marks. The speech was not on the page as words.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Looked, and did not add a word.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Held the roll. His face was not in it.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Princess's part",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in A cue roll in a boy's hands",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Looked at the cue roll in Nick's hands",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cue roll",
+    "the two stops",
+    "the cold boards"
+  ],
+  "quotes": []
+}

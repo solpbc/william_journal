@@ -1,0 +1,17 @@
+{
+  "narrative": "A line in the book. No new total under it. The coffer is not in the room. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote received, and did not write a total."
+    },
+    {
+      "type": "Project",
+      "name": "the coffer",
+      "role": "mentioned",
+      "context": "Shown on ledger in Received, not a total"
+    }
+  ]
+}

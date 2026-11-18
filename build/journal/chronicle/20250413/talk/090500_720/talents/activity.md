@@ -1,0 +1,1 @@
+Master Thwaite preached the entry into Jerusalem as the fickleness of crowds, and he looked at nobody. He said there had been no palms in that church these thirty years. You sat in the south aisle and wrote nothing. Sir John Spencer was in the full Mayor's pew and did not speak. You kept your mind on a king riding in behind another man, and on the dust thrown on his head.

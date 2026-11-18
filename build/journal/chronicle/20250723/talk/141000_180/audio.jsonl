@@ -1,0 +1,7 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "john_heminges", "start": "14:10:00", "text": "Thursday's bill comes down.", "timing": {"end": 8.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "14:10:08", "text": "No play.", "timing": {"end": 14.0, "start": 8.0}}
+{"sentence_id": 3, "speaker": "abel_garnish", "start": "14:10:14", "text": "I'll take it down. The almanac can have the two words.", "timing": {"end": 24.0, "start": 14.0}}
+{"sentence_id": 4, "speaker": "john_heminges", "start": "14:10:24", "text": "That is the dozen. Today still plays.", "timing": {"end": 34.0, "start": 24.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "14:10:34", "text": "Today plays. Tomorrow does not. I have nothing to add.", "timing": {"end": 44.0, "start": 34.0}}
+{"sentence_id": 6, "speaker": "abel_garnish", "start": "14:10:44", "text": "Two words, then. I will not write a cause under them.", "timing": {"end": 54.0, "start": 44.0}}

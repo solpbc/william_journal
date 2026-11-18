@@ -1,0 +1,1 @@
+The book took six lines. The sword has no price. The riddle-book is twopence, the ribbons fivepence, and the gloves two shillings and fourpence, which is two shillings and elevenpence laid out. The bay is twelvepence a day and his fodder, and it is not yet had. Saturday's part was not entered again. You wrote no coffer total.

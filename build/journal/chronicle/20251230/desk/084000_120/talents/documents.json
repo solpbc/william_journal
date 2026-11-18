@@ -1,0 +1,38 @@
+{
+  "overview": "You wiped the tables and left four lines: the letter unsent, no carrier, the weaver next, and do not count. You did not write a house, a sum, or a name under them.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the four lines and did not add a fifth."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the tables",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no carrier",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no count",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-30",
+      "meaning": "Wiped the tables and wrote four lines"
+    }
+  ],
+  "summary": "Wiped the tables down to four lines"
+}

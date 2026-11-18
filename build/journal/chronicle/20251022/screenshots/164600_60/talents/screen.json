@@ -1,0 +1,17 @@
+{
+  "narrative": "The tall stone oriel and dark timber gatehouse of Crosby Place seen from the corner of Great St Helen's lane at dusk on the evening of the new moon: one high mullioned window lit with yellow candlelight in the stone bay above, a link-boy's pitch torch smoking in the iron cresset by the shut gate below, the cobbles wet and dark. No hand and no face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked once from the corner and went on into the close."
+    },
+    {
+      "type": "Company",
+      "name": "Crosby Place",
+      "role": "mentioned",
+      "context": "In photo: Torchlight at Crosby Place gate"
+    }
+  ]
+}

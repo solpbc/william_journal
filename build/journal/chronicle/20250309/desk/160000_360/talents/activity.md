@@ -1,0 +1,1 @@
+You read Anne's letter through at the board, the children's news first, and then the postscript in the darker ink that you had skipped in the Bell's yard. The postscript says your father has a reckoning of fourteen shillings and sixpence at the whittawer's, and that it need not trouble you. The Lent list lies beside the sheet, still whole, and the letter is not folded to send.

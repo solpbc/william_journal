@@ -1,0 +1,133 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Kettleby came to the Feathers among the baskets, before the boat, and said my lord is content. The purse was my lord's own, not the Chamber's: four pounds, for hose. Heminges divided it on a barrel-head into eight parts of ten shillings and did not read the names. He put that purse on one leaf and the Queen's three nights on another, expected, not received. An office is still empty. You did not argue. You are looked for again at Twelfth Day. Two borrowed cloaks went back to a yeoman, counted, and he did not speak. Your ten shillings stayed in your purse.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the content, took the ten shillings, and did not argue.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Ambrose Kettleby",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the purse and the Twelfth Day, and went back to my lord.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Divided eight parts without reading names, and kept the two leaves apart.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Tried to put it on one leaf, was refused, and saved the ears for later.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Saw the two cloaks counted back in daylight.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept Nick off a song for the river.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took his ten shillings and made no speech.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "In the yard, and did not sing.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Henry Carey, 1st Lord Hunsdon",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the yard. Kettleby brought his word and his purse.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Queen Elizabeth",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the yard. Her three nights stayed expected.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard my lord is content and took ten shillings",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Ambrose Kettleby",
+    "William Shakespeare",
+    "John Heminges",
+    "Will Kemp",
+    "George Bryan",
+    "Augustine Phillips",
+    "Thomas Pope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "my lord's purse",
+    "eight parts of ten shillings",
+    "two leaves",
+    "two cloaks"
+  ],
+  "quotes": [
+    {
+      "speaker": "ambrose_kettleby",
+      "text": "My lord bids me say (and I soften it) that he is content."
+    },
+    {
+      "speaker": "ambrose_kettleby",
+      "text": "You will be sent for. Whether you will be paid for is a question for another office."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Four pounds. Eight parts of ten shillings."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not arguing the distinction."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You said the memo and stopped. Leased out is the Burbages' word, and you are keeping it. You put no sum on it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the sentence, and stopped.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Kept the Burbages' word, leased out",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "leased out",
+    "the Burbages' word",
+    "no sum"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Leased out. That's the Burbages' word. Keep it"
+    }
+  ]
+}

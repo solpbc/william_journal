@@ -1,0 +1,46 @@
+{
+  "density": "active",
+  "content_type": "productivity",
+  "activity_summary": "At home you called it a compliment to a hand, and not a licence. No letter has gone out. The king opens on his day. The house stays quiet. You are to trust what is not in writing.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said it once, and stopped.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Called it a compliment to a hand",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a compliment",
+    "not a licence",
+    "the king on his day"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Play on. A compliment to a hand, and not a licence."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Nothing of it is in writing. That is the part he means me to trust."
+    }
+  ]
+}

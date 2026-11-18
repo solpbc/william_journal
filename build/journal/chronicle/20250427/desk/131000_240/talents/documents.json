@@ -1,0 +1,77 @@
+{
+  "overview": "You read the sheet again after Gilbert had gone. The frame, the money, and the porch were the business. The three children's lines sat above a drawing of a man with his arms out, labelled by Susanna.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the opened letter a second time and did not answer it."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Had written the roof, the money, and the porch."
+    },
+    {
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Susanna Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Had written the correct line and the label."
+    },
+    {
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Hamnet Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Had reported the race."
+    },
+    {
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Judith Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Had drawn the man with his arms out."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the second reading",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the roofed frame",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the three lines",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the drawing",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Chapel Street",
+      "asset_type": "other",
+      "disposition": "Read the letter again after Gilbert left"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-27",
+      "meaning": "The second reading"
+    }
+  ],
+  "summary": "Read the letter again after Gilbert left"
+}

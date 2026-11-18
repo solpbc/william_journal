@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At Shipston, in the morning and not at noon, you retied the knot Anne had tied, after it walked. You would not let the ostler improve it. You bought the horse nothing extra. The rag stayed shut.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Retied the knot and stopped the ostler from bettering it.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Retied Anne's knot as she had tied it",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Anne's knot",
+    "a sour horse",
+    "no improvements"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The knot is my wife's. I'll tie it again as she tied it."
+    }
+  ]
+}

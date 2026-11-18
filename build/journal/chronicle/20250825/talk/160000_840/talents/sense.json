@@ -1,0 +1,137 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "In the tiring-house Margery Pell counted fifty-two shillings, prentices let off for the fair and their masters after them, and not one lawyer. The yard had been full by the second trumpet. You had walked on as Navarre, and the oath of three years had a new sound. Kemp had stored a month. Garnish ticked fourteen lines and broke a pen, and you left the fourteen in the margin. The half-wages had held. All five hired men answered. Heminges put them back on ten shillings, and said Raye may bank on both sides of the water.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the oath come out longer, and left the fourteen in the margin.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted fifty-two shillings, and not one lawyer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spent the stored month as Costard, and stayed on you.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ticked fourteen lines and broke a pen.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ended the half-wages in speech, and said Raye may bank on both sides.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the oath, and sent the room toward the door.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered for Raye. Five shillings held, ten ahead, both sides.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Fifty-two, and a dead pen",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Rose",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Fifty-two, and a dead pen",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "fifty-two shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Fifty-two, and a dead pen",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard fifty-two shillings and a pen broken on fourteen lines",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Goodwife Margery Pell",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Will Kemp",
+    "Abel Garnish",
+    "John Heminges",
+    "William Blackwage, Ralph Raye, Richard Hoope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "fifty-two shillings",
+    "fourteen lines",
+    "the half-wages",
+    "both sides of the water"
+  ],
+  "quotes": [
+    {
+      "speaker": "margery_pell",
+      "text": "Fifty-two shillings in mine"
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "Fourteen. One scene. I ticked them, and the pen died on the fourteenth"
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "All five answered the plot"
+    },
+    {
+      "speaker": "hired_men",
+      "text": "I was here for the five. I am here for the ten"
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "The oath had a new length in thy mouth"
+    }
+  ]
+}

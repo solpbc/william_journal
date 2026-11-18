@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "reading",
+  "activity_summary": "At the Bell, Hobbins put Anne's letter in your hand. You broke it in the yard. The fire was on Tuesday the fifteenth, at the north end beyond the Rother Market, about twenty houses and barns. Nobody in the house was hurt. Sadler's cousin lost his malt-barn, and Quiney is writing for a new brief before winter. The forty houses were an alehouse story from Wendover. She wrote not to come for the fire, and to come for harvest if you come. Her hand was steady.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Broke the seal and read the five lines aloud.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gilbert Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Corrected his own forty to her twenty, and kept his eye on the hand.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the letter to no one else, and split the bailiff's count from Wendover.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "a new brief",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The letter in the yard",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Sadler's cousin's malt-barn",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The letter in the yard",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Read the fire as Anne wrote it",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Hobbins",
+    "William Shakespeare",
+    "Gilbert Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Tuesday the fifteenth",
+    "twenty houses",
+    "the malt-barn",
+    "a new brief",
+    "harvest"
+  ],
+  "quotes": [
+    {
+      "speaker": "gilbert_shakespeare",
+      "text": "Twenty. Not forty. And the north end."
+    },
+    {
+      "speaker": "thomas_hobbins",
+      "text": "The twenty is the bailiff's count."
+    },
+    {
+      "speaker": "thomas_hobbins",
+      "text": "The forty was an alehouse at Wendover."
+    }
+  ]
+}

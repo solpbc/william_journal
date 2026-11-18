@@ -1,0 +1,95 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "On the empty stage Phillips played two measures of a minor Italian pavan and stopped. You counted sixteen bars for old Capulet's welcome and for Tybalt knowing a Montague's voice under the mask, and then the bass viol down so the fourteen lines float. Burbage and Nick spoke at half voice, palm to palm, and stopped when the music stopped. Phillips said nobody in the yard will hear the hautboys, and everybody will hear the pilgrims. Nick stayed under the note the whole way. The parts are not out. You did not copy the fourteen lines onto the margin.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the bars and kept the rehearsal to the feast.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Played two measures, set the sixteen, and stopped them at one pass.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke at half voice, palm to palm, and did not get a second time.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed under the note the whole way.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Capulet feast",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sixteen bars",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sixteen bars",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Counted sixteen bars and stopped",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Augustine Phillips",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Nick Sorrell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "sixteen bars",
+    "the pavan",
+    "half voice",
+    "under the note",
+    "the margin"
+  ],
+  "quotes": [
+    {
+      "speaker": "augustine_phillips",
+      "text": "There. Now nobody in the yard will hear the hautboys, and everybody will hear the pilgrims."
+    },
+    {
+      "speaker": "nick_sorrell",
+      "text": "I can hold it if I come in under the note, sir."
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "Sixteen bars. Old Capulet's welcome, and Tybalt knowing a Montague's voice under the mask."
+    }
+  ]
+}

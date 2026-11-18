@@ -1,0 +1,17 @@
+{
+  "narrative": "The line under the moon, from the night. The thumb keeps the corner. No new ink. The foot of the sheet. The leaving stands. The rest of the paper stays foul around it. No face. The sheets squared back into one pile. The pen is still in the knot-hole with the inkhorn. No hand writes.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Read the lines and squared the sheets"
+    },
+    {
+      "type": "Project",
+      "name": "the orchard scene",
+      "role": "mentioned",
+      "context": "Shown on draft in Read the lines and squared the sheets"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "narrative": "The narrow book open at the week's receipts. One line is already dry. No new total is ruled under it. A grey cat's ear crosses the lower corner. No face, and no pen in the hand that holds the book. The same book, now closed. The tie of the purse is beside it and not opened. The cat remains on the table, off the book.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the line, wrote nothing, and shut the book."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Lay at the corner of the table while the book was open, and stayed when it shut."
+    },
+    {
+      "type": "Tool",
+      "name": "45s",
+      "role": "mentioned",
+      "context": "Shown on ledger in Saturday's line, and the book shut"
+    }
+  ]
+}

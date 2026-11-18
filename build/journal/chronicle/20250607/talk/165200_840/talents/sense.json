@@ -1,0 +1,77 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Heminges shut the bag and named twelve shillings the share. He said last Saturday's bag had not been shut, and that no share had been named then. He said the twenty-fourth of May had been thirty-six, and he did not subtract one from the other. You did not add the twelve to a coffer. Nothing was sent home. He had no Rose figure beside it. The house had played The Two Gentlemen at two, and you were not in it. The twelve neither grew nor shrank for that. The Monday holiday stayed the comedy already set.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted twelve, refused a coffer-count, and kept the chronicle off tomorrow's table.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named twelve shillings, shut the bag, and set no Rose figure beside it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted twelve into his hand, and refused a rumour from the other house.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Two Gentlemen of Verona",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twelve shillings",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took twelve shillings and heard the bag shut",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Augustine Phillips",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twelve shillings",
+    "the bag shut",
+    "last Saturday unnamed",
+    "thirty-six in May"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Twelve shillings. That is the share."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "The twenty-fourth of May was thirty-six."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not adding it to a coffer while I stand here."
+    }
+  ]
+}

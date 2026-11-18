@@ -1,0 +1,23 @@
+{
+  "narrative": "The public roll of the king lies on the trestle. Larkham's pen is at the cue, and his small sign is going into the corner. The chest behind him is shut. Nick is already at the lute, out of the ink's way. The two words are on the roll. They are not said into the room. Above the fresh cue, a line in the margin is already dry. It was written on Thursday. Nobody is striking it out. The three leaves are not on this roll, and this morning does not put them there. The book and the two rolls take the same mark. He does not open the chest to compare them with the leaves that have not been spoken since June.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Saw the cue entered, and left the cut where it was."
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "attendee",
+      "context": "Marked the book and both rolls, signed the corner, and did not open the chest."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on part in The king, still cut"
+    }
+  ]
+}

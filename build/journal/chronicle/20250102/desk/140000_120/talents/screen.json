@@ -1,0 +1,17 @@
+{
+  "narrative": "A black-letter bill on the post by the Cross Keys yard, title only, the pen not in the picture. The second bill beside it, the same black letter, the river not in the picture.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the two titles and did not leave the inn."
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "context": "Shown on bill in Two titles, and you do not cross"
+    }
+  ]
+}

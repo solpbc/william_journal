@@ -1,0 +1,1 @@
+Alleyn came out by the tiring-house stair in his own clothes and asked if you had come to count his inches. You said you had come to learn them. Each of you was polite, and each of you knew the other had been measuring. Henslowe was still at the stair-foot.

@@ -1,0 +1,230 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250511",
+    "end": "20250517"
+  },
+  "generated_at": "2025-05-17T22:00:00Z",
+  "days": [
+    {
+      "day": "20250511",
+      "state": "memory",
+      "memory_id": "m-20250511-0"
+    },
+    {
+      "day": "20250512",
+      "state": "memory",
+      "memory_id": "m-20250512-1"
+    },
+    {
+      "day": "20250513",
+      "state": "memory",
+      "memory_id": "m-20250513-2"
+    },
+    {
+      "day": "20250514",
+      "state": "memory",
+      "memory_id": "m-20250514-3"
+    },
+    {
+      "day": "20250515",
+      "state": "memory",
+      "memory_id": "m-20250515-4"
+    },
+    {
+      "day": "20250516",
+      "state": "memory",
+      "memory_id": "m-20250516-5"
+    },
+    {
+      "day": "20250517",
+      "state": "memory",
+      "memory_id": "m-20250517-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250511-0",
+      "key": "mem_20250511_0",
+      "day": "20250511",
+      "text": "A plain lesson. Threepence. You said the second act is shut. You did not tell the third act at the table. The sheet answers in her order. The sleeve is the seamstress's. You left the barn line for her.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250511/talents/morning_briefing",
+        "briefing_day": "20250511",
+        "refs": [
+          "sol://facets/household/activities/20250511#meeting_092000_120",
+          "sol://facets/household/activities/20250511#meeting_121000_360",
+          "sol://facets/household/activities/20250511#note_160000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250512-1",
+      "key": "mem_20250512_1",
+      "day": "20250512",
+      "text": "You added nothing to Saturday's sheet. Four-and-twenty pound where they pay fourteen. You agreed nothing. A long king. A thimble at two shillings and sixpence. You wrote no name.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250512/talents/morning_briefing",
+        "briefing_day": "20250512",
+        "refs": [
+          "sol://facets/writing/activities/20250512#frame_064000_180",
+          "sol://facets/company/activities/20250512#meeting_140500_480",
+          "sol://facets/household/activities/20250512#frame_165500_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250513-2",
+      "key": "mem_20250513_2",
+      "day": "20250513",
+      "text": "Wrote sit, ground, stories on the tables. Continued Saturday's half-sheet. Struck a greeting shorter. Candles, fourpence. Read the Theatre's bill and the Rose's bill. Launce played to an empty rope. Gilbert from St Bride's said the girl's day is the twenty-sixth. Heard the fire nine days after, from a carter.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250513/talents/morning_briefing",
+        "briefing_day": "20250513",
+        "refs": [
+          "sol://facets/writing/activities/20250513#frame_051000_240",
+          "sol://facets/writing/activities/20250513#frame_054000_360",
+          "sol://facets/writing/activities/20250513#frame_073000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250514-3",
+      "key": "mem_20250514_3",
+      "day": "20250514",
+      "text": "One page. The men have gone home. She hoped the ground is not the point. Threepence. The three words on the tables stayed as they were.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250514/talents/morning_briefing",
+        "briefing_day": "20250514",
+        "refs": [
+          "sol://facets/writing/activities/20250514#frame_081000_300",
+          "sol://facets/household/activities/20250514#meeting_121000_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20250515-4",
+      "key": "mem_20250515_4",
+      "day": "20250515",
+      "text": "Fourteen shillings. You promised nothing. It acquires company. Tenpence. The mark is the Monday after Rogation Sunday. Walked north. Egeon in Errors.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250515/talents/morning_briefing",
+        "briefing_day": "20250515",
+        "refs": [
+          "sol://facets/company/activities/20250515#meeting_090500_60",
+          "sol://facets/writing/activities/20250515#frame_102000_120",
+          "sol://facets/writing/activities/20250515#photo_103200_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250516-5",
+      "key": "mem_20250516_5",
+      "day": "20250516",
+      "text": "Let him finish. The empty yard changed more than the louder reading. The Plutarch is unbound. The afternoon bill is Richard III.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250516/talents/morning_briefing",
+        "briefing_day": "20250516",
+        "refs": [
+          "sol://facets/company/activities/20250516#meeting_090500_480",
+          "sol://facets/writing/activities/20250516#frame_104000_120",
+          "sol://facets/writing/activities/20250516#frame_121000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250517-6",
+      "key": "mem_20250517_6",
+      "day": "20250517",
+      "text": "Sixpence. You copied a sentence and wrote no answer under the rule. Forty shillings. Sat and wrote the speech. Flint, and a king coming down. Stopped the praise.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250517/talents/morning_briefing",
+        "briefing_day": "20250517",
+        "refs": [
+          "sol://facets/writing/activities/20250517#frame_100500_180",
+          "sol://facets/writing/activities/20250517#photo_102200_60",
+          "sol://facets/writing/activities/20250517#frame_103500_60"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250511-0",
+      "key": "said_20250511_0",
+      "day": "20250511",
+      "quote": "I will send her hands, not his glory.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250511#meeting_121000_360"
+      }
+    },
+    {
+      "id": "s-20250512-1",
+      "key": "said_20250512_1",
+      "day": "20250512",
+      "quote": "I am not cursing a man I have not seen. I have a king coming.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250512#meeting_140500_480"
+      }
+    },
+    {
+      "id": "s-20250513-2",
+      "key": "said_20250513_2",
+      "day": "20250513",
+      "quote": "I was here. I heard it nine days after, from a carter, and it was all out and counted by then.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250513#memo_192500_60"
+      }
+    },
+    {
+      "id": "s-20250514-3",
+      "key": "said_20250514_3",
+      "day": "20250514",
+      "quote": "I will not put the loaf into the play to make the king wiser.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250514#meeting_121000_360"
+      }
+    },
+    {
+      "id": "s-20250515-4",
+      "key": "said_20250515_4",
+      "day": "20250515",
+      "quote": "I am not drafting a play out of Caesar. I am reading him where he hangs.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250515#meeting_104000_480"
+      }
+    },
+    {
+      "id": "s-20250516-5",
+      "key": "said_20250516_5",
+      "day": "20250516",
+      "quote": "The empty yard changed more than it did under the louder reading.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250516#meeting_090500_480"
+      }
+    },
+    {
+      "id": "s-20250517-6",
+      "key": "said_20250517_6",
+      "day": "20250517",
+      "quote": "I'll not write better this year.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250517#memo_010000_60"
+      }
+    }
+  ]
+}

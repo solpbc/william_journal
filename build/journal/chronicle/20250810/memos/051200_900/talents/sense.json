@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You stayed upstairs while the house was still quiet. You kept the night as you had already told it: the girl was quick, and you had come up. You left the sheet under the stone, and you did not go down while the house was still.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stayed upstairs before the house woke",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the orchard bench",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Stayed upstairs before the house woke",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Spoke upstairs before the light",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the quiet house",
+    "the girl at the window",
+    "the stone on the sheet"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not going to be the first sound in it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not going down while the house is still."
+    }
+  ]
+}

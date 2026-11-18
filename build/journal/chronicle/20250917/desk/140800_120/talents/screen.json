@@ -1,0 +1,23 @@
+{
+  "narrative": "A part-roll in the left hand, the cue at the top of the side. A clove in the cheek, bulking it. No other name written on the slip. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Played the afternoon, and brought no other name home."
+    },
+    {
+      "type": "Project",
+      "name": "Hamlet",
+      "role": "mentioned",
+      "context": "Shown on part in Revenge, through a clove"
+    },
+    {
+      "type": "Tool",
+      "name": "a clove",
+      "role": "mentioned",
+      "context": "Shown on part in Revenge, through a clove"
+    }
+  ]
+}

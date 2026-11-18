@@ -1,0 +1,81 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At the reckoning Heminges would not rule a line under the week. You let the fourth time be written, and you refused a share. Three Richmond nights are looked for and not received. Eleven pair of hose were called drying, not money. The deposit and the second deposit stayed unspoken figures. Two cloaks stay out until Innocents' night. The sixty shillings were a sending on Thursday, not a balance. The new moon was given no hour. The coffer was not counted.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Forbade a total, and left the book open.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a figure for the share, the deposit, and the moon.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked, accepted an unruled week, and stopped at the fourth time.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "the quarter's sixty shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No line under it",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Refused a share and called the sixty a sending",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Augustine Phillips"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "no line under the week",
+    "three nights not received",
+    "no share",
+    "the moon without an hour"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "I am not ruling a line under this week."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Then do not invent one for the sake of a clean page."
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "And no sum at the foot."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Drying is not a sum."
+    }
+  ]
+}

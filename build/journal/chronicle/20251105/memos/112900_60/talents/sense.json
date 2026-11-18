@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Setting off home by Cheapside, out of the churchyard, you said that in June it was a chronicle and in November it is a pamphlet, and that you wrote it in between and never moved. You did not say the number of leaves.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke, and stopped before the number.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in I wrote it in between",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said June was a chronicle and November a pamphlet",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "chronicle and pamphlet",
+    "the number unsaid",
+    "the walk home"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "In June it was a chronicle. In November it's a pamphlet. I wrote it in between and never moved."
+    }
+  ]
+}

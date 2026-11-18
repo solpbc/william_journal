@@ -1,0 +1,77 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the corner of Bishopsgate Street the bonfire was going and the steeples were ringing. Mistress Ansell let Alse out to it. She said that is how you light a fire, for something. Alse asked who fell, and whether the Queen was there. You said you were too far down to count a fall, and that the Queen was a stillness behind glass. You did not tell the rest. You did not say why you had gone. When the log fell in, she took you both inside.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Would not make a story of the distance or of the Queen.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Allowed the fire, named what it was for, and ended it when the log fell.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Looked, asked two questions, and came in.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the bonfire",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in For something",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood at the corner fire with Alse",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the corner fire",
+    "for something",
+    "no story of the tilt",
+    "one candle"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "That is how you light a fire. For something."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A stillness behind glass. That is all I had of her."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "One candle."
+    }
+  ]
+}

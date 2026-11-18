@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "18:40:00", "text": "The page stays unpaid. Fifty, and eight, and my own twopence where it belongs.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "18:40:16", "text": "I am not going out again. Sunday can be Sunday when it is Sunday.", "timing": {"end": 26.0, "start": 16.0}}

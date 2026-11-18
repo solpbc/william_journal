@@ -1,0 +1,106 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Mistress Ansell met you on the stair with a jug in her hand. The chamber had been aired. She had not been in the coffer. Your letters were where you left them. The latch had shut the first time, and she will not take money for it. Gib was on the Chaucer, moved off Field's Holinshed. No player had slept on the floor. Supper at the house is at six. You said you would put my lord's ten shillings behind both locks and not count the rest. You did not ask her to name the parish day by day.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the promises, refused a parish chronicle, and took the ten shillings upstairs uncounted.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the jug, gave the promises, and set supper at six.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had put the water in the aired chamber, and did not ask for the play.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the loom and the room, and went back to his own.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "On the Chaucer, and left there.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the house. His Holinshed was kept off the cat.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Holinshed's Chronicles",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The stair",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard Mistress Ansell's promises on the stair",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "William Shakespeare",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the promises",
+    "the mended latch",
+    "ten shillings uncounted",
+    "supper at six"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I have not been in the coffer."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not counting the rest."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Supper is at six."
+    },
+    {
+      "speaker": "gillis_verbeke",
+      "text": "The loom is in Norton Folgate. The room is here."
+    }
+  ]
+}

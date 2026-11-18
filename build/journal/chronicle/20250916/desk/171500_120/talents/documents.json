@@ -1,0 +1,46 @@
+{
+  "overview": "Heminges wrote play on in the company book, and looked at it. There is no sum under the words.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Saw the two words go in, and left them."
+    },
+    {
+      "name": "John Heminges",
+      "role": "attendee",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote play on, and looked at it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "play on",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the company book",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the company book",
+      "asset_type": "other",
+      "disposition": "Let Heminges write play on in the company book"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-16",
+      "meaning": "Two words in the book"
+    }
+  ],
+  "summary": "Let Heminges write play on in the company book"
+}

@@ -1,0 +1,49 @@
+{
+  "overview": "Upstairs you opened the tables again. The morning's three words were still there. You added one line under them, that the other work was after the yard and not before it. You did not open the red bundle. You did not write a speech. Gib stayed on the shut book.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the one line, left the bundle knotted, and did not turn the hour into a speech."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "one more line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the bundle unopened",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "after the yard",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Wrote that the other work could wait until after the yard"
+    },
+    {
+      "name": "the red bundle",
+      "asset_type": "other",
+      "disposition": "Wrote that the other work could wait until after the yard"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-22",
+      "meaning": "Wrote on a loose leaf beside the tied bundle"
+    }
+  ],
+  "summary": "Wrote that the other work could wait until after the yard"
+}

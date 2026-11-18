@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 360.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "hamnet_shakespeare", "start": "12:04:40", "text": "I am sat. The corner can hear me better from a bench.", "timing": {"end": 130.0, "start": 40.0}}
+{"sentence_id": 2, "speaker": "judith_sadler", "start": "12:06:10", "text": "The corner can wait, as I said. Hands off the board until the peel comes.", "timing": {"end": 220.0, "start": 130.0}}
+{"sentence_id": 3, "speaker": "judith_shakespeare", "start": "12:07:40", "text": "I can wait if the crust is still the crust I was promised. I am not inventing a new one.", "timing": {"end": 290.0, "start": 220.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "12:08:50", "text": "We are sat. We are not a second oven. The shoulder can take its own time.", "timing": {"end": 330.0, "start": 290.0}}
+{"sentence_id": 5, "speaker": "anne_shakespeare", "start": "12:09:30", "text": "Let the oven finish. They have the bench, which is what they asked for.", "timing": {"end": 340.0, "start": 330.0}}

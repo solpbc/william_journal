@@ -1,0 +1,122 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Sincler came in in black among the colours and said the half-line. Nick answered. The ostlers stopped forking straw. Kemp did not add a word. You said only to come slower, then nothing, and to let them do it. They did it again, and Garnish entered no addition.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said only to come slower, then nothing, and to let them do it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Sincler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Walked on in black, said the half-line, and did not mend it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered, the second time after the black had arrived.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed left of the nail and did not bring the song into the entrance.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped them helping the moment, and kept it small.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Added nothing, and said he was proud of the quiet.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept Berowne out of it, and would not licence a longer speech.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Entered the messenger with no addition in the margin.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Slower in, then nothing",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Told Sincler to come slower, then nothing",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "John Sincler",
+    "Nick Sorrell",
+    "Augustine Phillips",
+    "Sam Latchet",
+    "Will Kemp",
+    "Richard Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the messenger in black",
+    "the half-line",
+    "Kemp quiet",
+    "no addition"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Slower in. Then nothing. Let them do it."
+    },
+    {
+      "speaker": "john_sincler",
+      "text": "The King your father."
+    },
+    {
+      "speaker": "nick_sorrell",
+      "text": "Dead for my life."
+    }
+  ]
+}

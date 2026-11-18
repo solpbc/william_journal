@@ -1,0 +1,49 @@
+{
+  "overview": "On the Bishopsgate post you read the Theatre's bill for The Two Gentlemen of Verona beside the Rose's bill for Long Meg of Westminster, and you went on.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the two bills and left the post."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the Bishopsgate post",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Two Gentlemen",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Long Meg",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Two Gentlemen of Verona",
+      "asset_type": "other",
+      "disposition": "Read the Theatre's bill and the Rose's bill"
+    },
+    {
+      "name": "Long Meg of Westminster",
+      "asset_type": "other",
+      "disposition": "Read the Theatre's bill and the Rose's bill"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-13",
+      "meaning": "Two bills on one post"
+    }
+  ],
+  "summary": "Read the Theatre's bill and the Rose's bill"
+}

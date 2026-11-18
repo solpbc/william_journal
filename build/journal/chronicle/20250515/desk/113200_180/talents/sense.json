@@ -1,0 +1,43 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "You marked the thimble's paper for Susanna, not before the Monday after Rogation Sunday, and that day is the twenty-sixth. Two letters at twopence and the parcel at sixpence came to tenpence, which is the standing rate and not a new one. Edmund's letter went as it was written. Gilbert's parcel came back with you. Hobbins handed up Anne's short letter. You were due to speak Egeon at two.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Took the packet and handed up Anne's letter. He was not given a speech.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Paid tenpence, marked the thimble, and kept Edmund's letter as it was.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Marked the thimble for Susanna and paid tenpence",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "tenpence",
+    "the thimble marked",
+    "Egeon at two"
+  ],
+  "quotes": []
+}

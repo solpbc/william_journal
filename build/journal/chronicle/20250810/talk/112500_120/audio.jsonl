@@ -1,0 +1,7 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "11:25:00", "text": "Up. They are moving.", "timing": {"end": 8.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:25:08", "text": "I am up.", "timing": {"end": 14.0, "start": 8.0}}
+{"sentence_id": 3, "speaker": "mary_shakespeare", "start": "11:25:14", "text": "You slept the lesson. If you heard anything after it, keep it. I do not want it at the door.", "timing": {"end": 28.0, "start": 14.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "11:25:28", "text": "I will not tell you that I heard it.", "timing": {"end": 36.0, "start": 28.0}}
+{"sentence_id": 5, "speaker": "anne_shakespeare", "start": "11:25:36", "text": "Leave the cuff. The street is short, and the Sadlers have seen ink. Dinner is the next thing, and it is not a speech.", "timing": {"end": 50.0, "start": 36.0}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "11:25:50", "text": "Then we go. This pew is finished. Dinner is at noon, and I am not making a courtesy of the door.", "timing": {"end": 60.0, "start": 50.0}}

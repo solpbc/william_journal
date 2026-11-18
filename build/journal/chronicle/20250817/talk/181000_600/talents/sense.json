@@ -1,0 +1,159 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Supper was ten at the table, and a cold pie. Judith asked for a ballad with a murder in the Christmas pack. Susanna asked for the answer on too quick, written, so she could keep it. You told her she was right and that you had not mended the girl. Hamnet asked if a player's sword is sharp. You told him it is no sharper than the lath one, and a deal heavier. Edmund asked to come. You told him to finish school, and when he said you had not, you said to look at you, walking home at thirty-one. You said nothing is arranged for him in London, and that admiring a play is not a living. Joan said you might take the back and leave the rest. Your father raised the cup to your lord, and put the twenty shillings and the spine in the same sentence, and the table let it pass for a jest. Your mother put a jar of the bay grease in the pack and did not speak. Richard was there and did not speak. Anne was there and did not speak.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered the three children and Edmund, and did not improve the toast.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Raised the cup, and made the barn and the spine into a blessing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put the jar in the pack, and did not speak.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told him to take the back and leave the rest.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked to come, and heard that nothing is arranged.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat the table, and did not speak. The pack was already his to bring down.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat the table, and let the toast pass.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the verdict in writing, not the prettier line.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for a ballad with a murder in it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked about the sword, and was told the lath one.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Christmas pack",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Ten at the pie",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the lath sword",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Ten at the pie",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "twenty shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Ten at the pie",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Sat ten at the cold pie",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Shakespeare",
+    "William Shakespeare",
+    "Judith Shakespeare",
+    "Susanna Shakespeare",
+    "Hamnet Shakespeare",
+    "Edmund Shakespeare",
+    "Joan Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "ten at table",
+    "the ballad",
+    "too quick in writing",
+    "the lath sword",
+    "nothing arranged",
+    "the twenty shillings"
+  ],
+  "quotes": [
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "I want your answer on too quick, written"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Nothing is arranged for you in London."
+    },
+    {
+      "speaker": "john_shakespeare",
+      "text": "He's put twenty shillings in a neighbour's barn"
+    },
+    {
+      "speaker": "joan_shakespeare",
+      "text": "Take the back to London, brother"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "overview": "At two you open Errors as Egeon. The roll says you open the play, then you are idle till the end. You do not pretend the afternoon is longer than that.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Opened the play and stayed idle after it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Egeon",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the opening",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the long wait",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Comedy of Errors",
+      "asset_type": "other",
+      "disposition": "Opened Errors as Egeon and then waited"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-30",
+      "meaning": "He opens"
+    }
+  ],
+  "summary": "Opened Errors as Egeon and then waited"
+}

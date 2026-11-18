@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20251102",
+    "end": "20251108"
+  },
+  "generated_at": "2025-11-08T22:00:00Z",
+  "days": [
+    {
+      "day": "20251102",
+      "state": "memory",
+      "memory_id": "m-20251102-0"
+    },
+    {
+      "day": "20251103",
+      "state": "memory",
+      "memory_id": "m-20251103-1"
+    },
+    {
+      "day": "20251104",
+      "state": "memory",
+      "memory_id": "m-20251104-2"
+    },
+    {
+      "day": "20251105",
+      "state": "memory",
+      "memory_id": "m-20251105-3"
+    },
+    {
+      "day": "20251106",
+      "state": "memory",
+      "memory_id": "m-20251106-4"
+    },
+    {
+      "day": "20251107",
+      "state": "memory",
+      "memory_id": "m-20251107-5"
+    },
+    {
+      "day": "20251108",
+      "state": "memory",
+      "memory_id": "m-20251108-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20251102-0",
+      "key": "mem_20251102_0",
+      "day": "20251102",
+      "text": "You stood through morning prayer. The other play is still one page. The Friar's letter is the question you left. You are in the Navarre comedy tomorrow.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251102/talents/morning_briefing",
+        "briefing_day": "20251102",
+        "refs": [
+          "sol://facets/household/activities/20251102#frame_081500_180",
+          "sol://facets/household/activities/20251102#meeting_105000_480",
+          "sol://facets/writing/activities/20251102#frame_164000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20251103-1",
+      "key": "mem_20251103_1",
+      "day": "20251103",
+      "text": "The horn is twopence. Kemp has three minutes beside the bed.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251103/talents/morning_briefing",
+        "briefing_day": "20251103",
+        "refs": [
+          "sol://facets/household/activities/20251103#meeting_121500_480",
+          "sol://facets/company/activities/20251103#frame_141000_180",
+          "sol://facets/company/activities/20251103#meeting_165000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20251104-2",
+      "key": "mem_20251104_2",
+      "day": "20251104",
+      "text": "Juliet stays a third under the note. Two-and-thirty mornings to the sixth of December. The vault was struck. Tomorrow is Paul's.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251104/talents/morning_briefing",
+        "briefing_day": "20251104",
+        "refs": [
+          "sol://facets/company/activities/20251104#meeting_090500_480",
+          "sol://facets/writing/activities/20251104#frame_102000_180",
+          "sol://facets/company/activities/20251104#frame_104500_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20251105-3",
+      "key": "mem_20251105_3",
+      "day": "20251105",
+      "text": "The book was printed over sea. The king is Shoreditch only. June was a chronicle and November is a pamphlet.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251105/talents/morning_briefing",
+        "briefing_day": "20251105",
+        "refs": [
+          "sol://facets/company/activities/20251105#meeting_103500_480",
+          "sol://facets/writing/activities/20251105#frame_111500_120",
+          "sol://facets/writing/activities/20251105#memo_112900_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20251106-4",
+      "key": "mem_20251106_4",
+      "day": "20251106",
+      "text": "It was the sixth time, and the jaw held. A man in a frieze cloak paid for three.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251106/talents/morning_briefing",
+        "briefing_day": "20251106",
+        "refs": [
+          "sol://facets/company/activities/20251106#meeting_092000_240",
+          "sol://facets/company/activities/20251106#meeting_165000_480",
+          "sol://facets/writing/activities/20251106#note_213000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20251107-5",
+      "key": "mem_20251107_5",
+      "day": "20251107",
+      "text": "Three nights are commanded at Richmond. Antwerp was said today. You told Heminges who the cloak was.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251107/talents/morning_briefing",
+        "briefing_day": "20251107",
+        "refs": [
+          "sol://facets/writing/activities/20251107#frame_100000_180",
+          "sol://facets/company/activities/20251107#call_165000_180",
+          "sol://facets/company/activities/20251107#meeting_171000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20251108-6",
+      "key": "mem_20251108_6",
+      "day": "20251108",
+      "text": "The share is thirty-four shillings. The dagger is in its sheath.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251108/talents/morning_briefing",
+        "briefing_day": "20251108",
+        "refs": [
+          "sol://facets/writing/activities/20251108#frame_114500_240",
+          "sol://facets/household/activities/20251108#photo_140000_120",
+          "sol://facets/company/activities/20251108#meeting_165000_480"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20251102-0",
+      "key": "said_20251102_0",
+      "day": "20251102",
+      "quote": "If a man may not pray for them he may still steal from them.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251102#memo_201500_120"
+      }
+    },
+    {
+      "id": "s-20251103-1",
+      "key": "said_20251103_1",
+      "day": "20251103",
+      "quote": "The insult is the part. It is not a second wage.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251103#meeting_165000_480"
+      }
+    },
+    {
+      "id": "s-20251104-2",
+      "key": "said_20251104_2",
+      "day": "20251104",
+      "quote": "Two-and-thirty mornings. No new speech. She is fourteen, and the words stand.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251104#meeting_090500_480"
+      }
+    },
+    {
+      "id": "s-20251105-3",
+      "key": "said_20251105_3",
+      "day": "20251105",
+      "quote": "In June it was a chronicle. In November it's a pamphlet. I wrote it in between and never moved.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251105#memo_112900_60"
+      }
+    },
+    {
+      "id": "s-20251106-4",
+      "key": "said_20251106_4",
+      "day": "20251106",
+      "quote": "Then it was clapping. I am not making a patron of a fist.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251106#meeting_165000_480"
+      }
+    },
+    {
+      "id": "s-20251107-5",
+      "key": "said_20251107_5",
+      "day": "20251107",
+      "quote": "The frieze cloak was my lord. He has just said so. He stood at the back like a carter.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251107#meeting_171000_240"
+      }
+    },
+    {
+      "id": "s-20251108-6",
+      "key": "said_20251108_6",
+      "day": "20251108",
+      "quote": "He gets it wrong by a minute. One minute. That's all the villainy there is in it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251108#memo_000000_60"
+      }
+    }
+  ]
+}

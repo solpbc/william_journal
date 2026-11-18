@@ -1,0 +1,44 @@
+{
+  "overview": "You opened a sheet where a parliament would be, and you did not write it. The deposition is not drafted. The glass is not in the room.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Left the sheet almost empty, on purpose."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the empty parliament",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the deposition not drafted",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the glass still out",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Headed the parliament sheet"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-31",
+      "meaning": "An empty block"
+    }
+  ],
+  "summary": "Headed the parliament sheet"
+}

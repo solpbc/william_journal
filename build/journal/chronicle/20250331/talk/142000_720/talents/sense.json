@@ -1,0 +1,95 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "In the hall you gave Anne Mistress Ansell's opinion in the landlady's words: four young men swear off women and keep it till dinner. You told the rest of the plot, the messenger and the year, and you did not sing the song. Anne said the ladies were right to make them wait, and a twelvemonth was short. You said you would carry that sentence back word for word. You did not write a line of the play.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told the opinion and the ending, and promised to report Anne's sentence word for word.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Judged the twelvemonth short, and closed the errand.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted three shirts, and kept the trade out of it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the opinion for him to carry back, and brought the bread.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked whether anyone married, and whether a second play followed.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A twelvemonth was short",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Told Anne the opinion and heard that a twelvemonth was short",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Anne Shakespeare",
+    "Joan Shakespeare",
+    "Mary Shakespeare",
+    "Susanna Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Mistress Ansell's opinion",
+    "the forsworn gentlemen",
+    "a twelvemonth",
+    "no second play"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Four young men swear off women and keep it till dinner. That she believes."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "The ladies were right to make them wait, and a twelvemonth was short."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No second play, Susanna."
+    }
+  ]
+}

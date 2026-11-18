@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the Cross the new wheat was six-and-thirty shillings the quarter, and you did not buy it. A woman at the sacks asked who was buying the barley, and for what. You had paid none, and you said so again. Joan kept the glove stall. You went toward the row with the children. Anne said she would meet you by the bakehouse.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the price, kept the belt shut, and turned to the row.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the wheat, and went toward a ladder.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sold at the glove stall, and would not make a speech of the rushes.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the gloves undescribed, and kept the board.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sent you north, and set the bakehouse as the way back.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Heard the wheat at six-and-thirty shillings",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Shakespeare",
+    "William Shakespeare",
+    "Joan Shakespeare",
+    "Richard Shakespeare",
+    "Anne Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "six-and-thirty",
+    "the glove stall",
+    "the row"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_shakespeare",
+      "text": "The new wheat is six-and-thirty the quarter, and that is loud enough without me"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have paid none for barley"
+    },
+    {
+      "speaker": "joan_shakespeare",
+      "text": "The rushes for the house are already in"
+    }
+  ]
+}

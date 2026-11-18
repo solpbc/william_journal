@@ -1,0 +1,1 @@
+After Errors you stood at the reckoning long enough to hear that today's gallery is not all in. Heminges left Monday's eleven pound eight where it was and struck no new share. You did not count the coffer. Edith's eight shillings stayed a promise till Lady Day, and you did not mix it into the cloth. You left with Burbage for the Jackdaw before any new sum existed.

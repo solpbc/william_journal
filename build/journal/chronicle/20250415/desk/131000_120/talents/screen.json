@@ -1,0 +1,23 @@
+{
+  "narrative": "The ledger is open under the lamp. One new line is entered. No total is struck under it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the line, and stopped."
+    },
+    {
+      "type": "Tool",
+      "name": "two shillings",
+      "role": "mentioned",
+      "context": "Shown on ledger in Daniel ij s"
+    },
+    {
+      "type": "Project",
+      "name": "Civil Wars",
+      "role": "mentioned",
+      "context": "Shown on ledger in Daniel ij s"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At St Helen's you stood morning prayer. Master Thwaite turned the sand-glass twice and stopped when the prayer was said. Sir John Spencer gave two short responses from his pew and did not speak to you. Mistress Ansell came away with you across the wet close.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the two turns and left when the prayer was said.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read the prayer, turned the sand-glass twice, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood the pew with him and took him back across the close.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Gave the responses, short and cold, and did not speak to William.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood the prayer while the sand-glass turned twice",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Sir John Spencer",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "morning prayer",
+    "the sand-glass",
+    "the Mayor's pew",
+    "the wet close"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "Morning prayer, brethren. I shall not keep you past the second glass."
+    },
+    {
+      "speaker": "john_spencer",
+      "text": "Lord, have mercy upon us."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "He is not speaking to me."
+    }
+  ]
+}

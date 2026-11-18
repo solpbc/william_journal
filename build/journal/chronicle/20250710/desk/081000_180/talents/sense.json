@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Before you left, you looked at the seven shillings set by on the first of July. They are not spent yet. You did not open the coffer and you did not write a total.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the line, and shut the book.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the Revels fee",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Set by, not spent",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Looked at the seven shillings set by on the first of July",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "seven shillings set by",
+    "no coffer total"
+  ],
+  "quotes": []
+}

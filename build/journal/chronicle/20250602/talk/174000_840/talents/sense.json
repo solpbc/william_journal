@@ -1,0 +1,104 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Bryan asked whether a play of a king put down will pass the Master. You said it is in the chronicle. Kemp asked what part he has in the king. You said the parts are not cast. Heminges asked how much of the summer's takings may be kept back if playing grows uncertain. Nobody liked the question, and everybody agreed, and nobody named a sum. Trinity term opens on the twentieth, eighteen days off. Heminges shut the almanac on that map.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said it is in the chronicle, said the parts are not cast, and named no sum.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked about keeping takings back, took the agreement without a figure, and shut the almanac.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the king at Michaelmas, and refused to fill the eighteen days with another Errors.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked what part he has, was told nothing is cast, and accepted that nothing was being hidden.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Disliked the keeping-back and agreed to it, and read Trinity term off the almanac.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked about the Master, and agreed to the keeping-back while saying he disliked it.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Eighteen days, and no part",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Told Bryan the matter is in the chronicle",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "George Bryan",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Will Kemp",
+    "John Heminges",
+    "Augustine Phillips"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Master",
+    "parts not cast",
+    "takings kept back",
+    "eighteen days"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "It's in the chronicle."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The parts are not cast."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "The twentieth. Eighteen days off."
+    }
+  ]
+}

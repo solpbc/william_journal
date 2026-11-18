@@ -1,0 +1,59 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "Standing, as you read everything, you had the book in your hands. Harrison found the leaf. In the margin, small, two words: Sweet Shakspeare. You read them, and the names above and below, and you read them again. What stood round the two words was too small to take.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the two words, and the names above and below, and the two words again.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Put the book in his hands, and kept a finger at the margin.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Harrison",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Found the leaf with a stubby thumb.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "Polimanteia",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Two words in the margin",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read Sweet Shakspeare standing",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two words",
+    "the margin",
+    "the stall"
+  ],
+  "quotes": []
+}

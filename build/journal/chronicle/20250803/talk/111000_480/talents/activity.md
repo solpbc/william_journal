@@ -1,0 +1,1 @@
+In the porch Richard Quiney took your hand in both of his and asked you as far as his shop, for the town. Anne put dinner ahead of the shop. You heard him, and you did not say yes. Tuesday at half past six is his coming to your father's table with Alderman Sturley, and the shop stays unpromised.

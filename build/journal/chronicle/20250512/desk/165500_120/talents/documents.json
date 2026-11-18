@@ -1,0 +1,38 @@
+{
+  "overview": "You entered a silver thimble at two shillings and sixpence. You wrote no name on the line and no day on the paper. You wrote no total. You did not open the chest.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the one line, and did not open the chest."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "two shillings and sixpence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no name",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no total",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-12",
+      "meaning": "Two shillings and sixpence, and no name"
+    }
+  ],
+  "summary": "Entered a silver thimble at two shillings and sixpence"
+}

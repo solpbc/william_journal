@@ -1,0 +1,54 @@
+{
+  "overview": "Before you walked home you read the afternoon's bill, Richard III, and you are not in it. The Rose's title was Wonder of a Woman. You did not cross.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the two titles, and left."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Richard III",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "not cast",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Wonder of a Woman",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard III",
+      "asset_type": "other",
+      "disposition": "Read Richard III and Wonder of a Woman, and went home"
+    },
+    {
+      "name": "Wonder of a Woman",
+      "asset_type": "other",
+      "disposition": "Read Richard III and Wonder of a Woman, and went home"
+    },
+    {
+      "name": "the Rose",
+      "asset_type": "other",
+      "disposition": "Read Richard III and Wonder of a Woman, and went home"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-04",
+      "meaning": "Two titles, and not his afternoon"
+    }
+  ],
+  "summary": "Read Richard III and Wonder of a Woman, and went home"
+}

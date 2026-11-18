@@ -1,0 +1,99 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "John would not name a share while the bag was unshut. You recalled last Saturday as six-and-thirty and did not ask him to better it. Pope said Titus went and that you were not in it. You said you were at the board, and the bill was left as a bill. The Rose's bill for today is marked paid, the Revels' fee, and John would not add a sum. Burbage asked after the glass. You said the line is struck and none is bought. You left without a figure.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named last Saturday's 36s, refused a guess, and kept the glass struck.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Withheld tonight's share and any Rose sum he had not got.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for a number, said Titus went without Will, and did not invent one on the road.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the bill and the board as two truths, and waited on the glass.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the share",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The bag is not shut",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Titus Andronicus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The bag is not shut",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "a looking-glass",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The bag is not shut",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Left the bag open at the reckoning",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Thomas Pope",
+    "William Shakespeare",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the unshut bag",
+    "six-and-thirty last Saturday",
+    "Titus",
+    "the Revels' fee",
+    "the struck glass"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "The bag is not shut. I will not name a share while it is open."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "It is marked paid. It is the Revels' fee."
+    }
+  ]
+}

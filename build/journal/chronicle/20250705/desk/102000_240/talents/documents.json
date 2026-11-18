@@ -1,0 +1,51 @@
+{
+  "overview": "By half past ten the first sheet is full. Ninety lines, and no blots. The Prince has stopped it with a sentence of death for the next offence, and that sentence is not copied here. The margin says ninety, and no blot. The room is hot. The blank you left in Lent is still a blank. Gib slept through it on the Golding.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Finished the ninety and wrote the count in the margin."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Slept on the Golding through the whole of it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "ninety lines",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Prince unquoted",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the room hot",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Romeo and Juliet",
+      "asset_type": "other",
+      "disposition": "Wrote ninety lines of the brawl"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-05",
+      "meaning": "Ninety, and not the Prince's words"
+    }
+  ],
+  "summary": "Wrote ninety lines of the brawl"
+}

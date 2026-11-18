@@ -1,0 +1,114 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "You rehearsed the comedy once more and Garnish still had no total. Kemp wanted room for tomorrow and was not given a number. Burbage kept the refusal. Sincler kept the half-line small. You said you are not in this afternoon's Shrew. Nick was released until two of the clock tomorrow.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a tally, kept the pause, and said he is not in the afternoon play.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read no figure, and shut the book with the margin still blank.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked again for the underfed word, and was told to wait for a yard.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the ending unmarried, and named two of the clock.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the song as learned, and spent Nick's voice once.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed he can wait for the black, and was released for the day.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Sincler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the half-line, and did not ask for a larger death.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Once more, and no total",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed again at the Cross Keys",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "William Shakespeare",
+    "Will Kemp",
+    "Richard Burbage",
+    "Augustine Phillips",
+    "Nick Sorrell",
+    "John Sincler"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "no total",
+    "the refusal",
+    "two of the clock",
+    "The Shrew not his",
+    "the half-line"
+  ],
+  "quotes": [
+    {
+      "speaker": "abel_garnish",
+      "text": "The column beside Costard is open."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Leave the refusal."
+    },
+    {
+      "speaker": "john_sincler",
+      "text": "Slower in. Then nothing."
+    }
+  ]
+}

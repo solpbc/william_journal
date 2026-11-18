@@ -1,0 +1,44 @@
+{
+  "overview": "At the lodging you smelled the Monday ink and copied the two lines you already had. You did not buy a horn. You did not start the quarrel again.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Copied the two lines he already had, and stopped."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Monday's ink",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the two lines",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the quarrel already begun",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Copied the two lines onto the sheet"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-21",
+      "meaning": "Ink, and the two lines already written"
+    }
+  ],
+  "summary": "Copied the two lines onto the sheet"
+}

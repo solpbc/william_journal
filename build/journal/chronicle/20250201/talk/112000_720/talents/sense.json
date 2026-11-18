@@ -1,0 +1,87 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "On Tower Hill the Gray's Inn prince came up from Greenwich in fifteen barges, with music, trumpets and guns, and landed at the Tower to ride through the City. A man in front insisted on describing it. Kemp's account of the people trying to see round that man was the better one. Richard studied how a man in borrowed majesty gets out of a boat, chin up, the waterman's elbow taken on trust. Augustine hummed the trumpet tucket to steal for an entrance. You kept an oar lifted almost upright, sparing another boat. You did not name the student. You are back for Errors. You are not going to the first Caesar.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the upright oar, and refused the student a name.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Studied the step out of the boat, and took you off the hill.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered the man in front with the crowd trying to see round him.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Hummed the tucket and kept it for a later entrance.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "Gray's Inn",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Round him",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Stood on Tower Hill for the fifteen barges",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Will Kemp",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Augustine Phillips"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "fifteen barges",
+    "the man in front",
+    "borrowed majesty",
+    "the tucket",
+    "the upright oar"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "That is how a man in borrowed majesty gets out of a boat"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "One oar is lifted almost upright, to let the gilt pass without a splash on the velvet"
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "Give me a king's entrance in the spring and I will set that tucket behind the door, two trumpets, and no one will know it came off a river;"
+    }
+  ]
+}

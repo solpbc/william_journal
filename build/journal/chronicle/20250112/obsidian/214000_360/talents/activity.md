@@ -1,0 +1,1 @@
+You tried to give the objection from last night, that a twelvemonth and a day is too long for a play, and you struck it as too bald. You left a rougher line under it and left the messenger's half-line empty. You did not write a song. You did not write the last line. The comedy is not finished.

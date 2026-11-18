@@ -1,0 +1,10 @@
+{"backend": "whisper", "duration": 240.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "thomas_hobbins", "start": "11:50:00", "text": "You are later than your brother. Gilbert was here at opening. He is gone back to St Bride's.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:50:12", "text": "I was at Clerkenwell. Is the letter of the 26th gone down?", "timing": {"end": 22.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "thomas_hobbins", "start": "11:50:22", "text": "It is in the bag. Twopence the letter, and he paid it when he put it in. I do not take a letter twice.", "timing": {"end": 34.0, "start": 22.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "11:50:34", "text": "Then it is paid. Did you bring one from home?", "timing": {"end": 42.0, "start": 34.0}}
+{"sentence_id": 5, "speaker": "thomas_hobbins", "start": "11:50:42", "text": "I brought one. It is on your stair at St Helen's. I do not fish a wife's letter back out of a house to hand it across a table.", "timing": {"end": 56.0, "start": 42.0}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "11:50:56", "text": "On the stair. Then I have not read it, and I will not have it read to me here.", "timing": {"end": 68.0, "start": 56.0}}
+{"sentence_id": 7, "speaker": "thomas_hobbins", "start": "11:51:08", "text": "No more will I read it. The 26th is in the bag. We are done.", "timing": {"end": 78.0, "start": 68.0}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "11:51:18", "text": "God speed the bag.", "timing": {"end": 84.0, "start": 78.0}}
+{"sentence_id": 9, "speaker": "thomas_hobbins", "start": "11:51:24", "text": "The bag is sped when the horses are fed. Twopence is already in my book. Good day, Master Shakespeare.", "timing": {"end": 94.0, "start": 84.0}}

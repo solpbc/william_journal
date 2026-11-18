@@ -1,0 +1,1 @@
+The sheet has a bitten thumb on it, and the citizens' cry. Two houses are already in the street. Nothing is struck. Gib has not woken. You are not copying Brooke. You are writing the quarrel as it starts.

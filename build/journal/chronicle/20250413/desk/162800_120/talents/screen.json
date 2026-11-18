@@ -1,0 +1,17 @@
+{
+  "narrative": "The writing-tables lie open beside the almanac. Two words are already there from the week away. No new word is under them.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the two words, and wrote none."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in One answer, still"
+    }
+  ]
+}

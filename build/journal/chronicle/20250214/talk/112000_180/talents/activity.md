@@ -1,0 +1,1 @@
+Before you went out you said you had no valentine to send. You were not in the Knave. You were taking a penny to the Rose, and you left dinner. The moon was full by the almanac. The letter stayed on the desk.

@@ -1,0 +1,1 @@
+In the forenoon the house heard a bell from All Hallows by the Tower, faint on the wind to the south-east, and then others. You said south-east was all you had. Mistress Ansell would not make the noise a guest. Verbeke would not name a church he could not see. Alse left the casement shut. None of the four of you said what the bells were for.

@@ -1,0 +1,1 @@
+At the Bear, by half past five, you read the spring notes and found them less good than they had seemed before you left home. They are images from the fortnight: buds, a grey gown ten paces off, three answers at a brook. You did not add a line. They are not a play.

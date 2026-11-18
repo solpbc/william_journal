@@ -1,0 +1,1 @@
+You looked at the nine added lines and left them in your own hand. Two of them you do not yet trust. They are not copied into the book, and the Lent list is not wiped. Nothing on the sheet is a line for anyone else to learn tonight.

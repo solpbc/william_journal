@@ -1,0 +1,51 @@
+{
+  "overview": "The morning rehearsal was the play you are in this afternoon. You are Navarre. No new name was given to anyone. Nothing in the book was mended.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Took Navarre as written."
+    },
+    {
+      "name": "Richard Burbage",
+      "role": "visible",
+      "formal_term": "Richard Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Was in the rehearsal, and no new name was put on him."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Navarre",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no new name",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the book unmended",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Navarre",
+      "asset_type": "other",
+      "disposition": "Rehearsed Navarre"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-20",
+      "meaning": "The street, and no new name"
+    }
+  ],
+  "summary": "Rehearsed Navarre"
+}

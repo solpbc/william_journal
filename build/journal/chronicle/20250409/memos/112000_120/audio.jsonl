@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "11:20:00", "text": "Is London where you work or where you live. I said both. It's the answer of a man who'd like to be asked something else.", "timing": {"end": 22.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:20:22", "text": "A man may take the name of a thing for the thing. He's called a husband, so he thinks he is one. He's called a king.", "timing": {"end": 52.0, "start": 22.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "11:20:52", "text": "That's not hers. That's the other business. Keep them apart.", "timing": {"end": 64.0, "start": 52.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "11:21:04", "text": "She asked for one answer. Go back with one.", "timing": {"end": 74.0, "start": 64.0}}

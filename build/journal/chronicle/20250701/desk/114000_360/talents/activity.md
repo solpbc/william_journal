@@ -1,0 +1,1 @@
+Between the rehearsal and the play you were at the lodging. You put two houses and a street on the tables, and the serving-men, and no words for them. Brooke stayed on the shelf. You did not write a line of the play.

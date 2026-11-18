@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "09:55:10", "text": "Past the stair. The porch is the next thing, and I am not stopping in Chapel Street to improve a Sunday.", "timing": {"end": 36.0, "start": 10.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "09:55:36", "text": "I have stepped past it. The porch is in front of us. I am not turning my head.", "timing": {"end": 70.0, "start": 36.0}}
+{"sentence_id": 3, "speaker": "susanna_shakespeare", "start": "09:56:10", "text": "Hamnet is off the block. We are a line again.", "timing": {"end": 88.0, "start": 70.0}}
+{"sentence_id": 4, "speaker": "hamnet_shakespeare", "start": "09:56:28", "text": "I was only looking at the white. The white is not a lesson.", "timing": {"end": 98.0, "start": 88.0}}

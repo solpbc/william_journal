@@ -1,0 +1,17 @@
+{
+  "narrative": "After: gatherers carrying the boxes to the tiring-house, a boy sweeping nutshells in the yard at dusk.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked from the door, and did not step into the sweep."
+    },
+    {
+      "type": "Tool",
+      "name": "the boxes",
+      "role": "mentioned",
+      "context": "In photo: Nutshells at the end"
+    }
+  ]
+}

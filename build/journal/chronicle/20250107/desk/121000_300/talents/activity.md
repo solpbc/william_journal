@@ -1,0 +1,1 @@
+Between rehearsal and the play you pushed the Worthies a page further and left them tripping on their names. Nothing follows the laugh. No messenger is written. The lines are foul paper, not a finished text.

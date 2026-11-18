@@ -1,0 +1,82 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "You rehearsed Two Gentlemen with Phillips, Cowley and Pope. Cowley showed the tally, sums outward. You stopped him. Pope kept the tally in his belt and put the play's letter in Cowley's hand at the door, on the third entrance, on the word \"letter.\" The bill is two of the clock.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped the tally, gave the fault an owner, and sent them to eat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the third entrance on the word \"letter,\" and kept the speech dry.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed the tally by mistake, then took the cue from Pope's hand.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put the play's letter at the door, and kept the tally in his belt.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Two Gentlemen of Verona",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The tally and the letter",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Had Pope put the letter in Cowley's hand",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Augustine Phillips",
+    "Thomas Pope",
+    "Richard Cowley",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the tally",
+    "the third entrance",
+    "Pope's hand",
+    "two of the clock"
+  ],
+  "quotes": [
+    {
+      "speaker": "augustine_phillips",
+      "text": "Third entrance. You come from that door with the letter already in your hand."
+    },
+    {
+      "speaker": "thomas_pope",
+      "text": "I will keep the tally in my belt, so it cannot become the right paper by lying near it."
+    }
+  ]
+}

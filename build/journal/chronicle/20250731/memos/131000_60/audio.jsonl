@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "13:10:00", "text": "The heel is bound in a strip of shirt. Both feet are in the brook. I shaved by feel.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "13:10:14", "text": "The air is washed. Edge Hill is behind me. The bridge is still to come.", "timing": {"end": 26.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "13:10:26", "text": "The strip will hold as far as the arches. I am not rebinding it in the water.", "timing": {"end": 36.0, "start": 26.0}}

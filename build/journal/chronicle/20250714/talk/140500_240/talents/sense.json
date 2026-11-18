@@ -1,0 +1,81 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At the door you were Egeon, who opens the play and waits. You did not rewrite the speech on the way in. Nobody named a sum. You played, and the middle of it did not need you.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a new sentence, and went on.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the shape of the part, and refused a figure.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sent you off until the close.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the twins for the middle.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Egeon, and then he waits",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Played Egeon and waited through the middle",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Egeon",
+    "the wait",
+    "no sum at the door"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "You open it. The play goes on without you until the close"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not improving it in a doorway"
+    }
+  ]
+}

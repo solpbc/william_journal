@@ -1,0 +1,1 @@
+Mistress Ansell reckoned the ringing as ale and as a charge. Alse asked whether every noise must be put down as a charge, and was told that in this parish it is. At fourteenthly the glass was turned. The Mayor, in the chain, gave the responses as a man reads a bill of lading. Seven weeks of him remain. He did not speak to you.

@@ -1,0 +1,44 @@
+{
+  "overview": "You looked at the three sheets and added nothing. They stayed on the board. You did not put them in the coffer. The prison was not begun, and the end was not begun. A crowd was not on the page.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked at the three sheets and left them on the board."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the three sheets",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the board",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the prison unwritten",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Left the sheets where they were"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-13",
+      "meaning": "Three sheets, still on the board"
+    }
+  ],
+  "summary": "Left the sheets where they were"
+}

@@ -1,0 +1,64 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Before you went out you told the house the leaf on the desk was not to be sent. Alse said she would dust round it and not read it. You named an errand at Holborn and said you would be back to eat before the Errors.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the leaf stayed, and went.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told him to leave the desk as he meant to find it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said she would dust round the leaf and not read it.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Went out to the lodge at Holborn",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the unsent leaf",
+    "Holborn",
+    "the loaf"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The leaf on the desk is not to be sent."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "I dust round it."
+    }
+  ]
+}

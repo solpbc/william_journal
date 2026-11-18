@@ -1,0 +1,73 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You stood in the south aisle at St Helen's. Master Thwaite told the parish to keep the day and their counsel. You did not answer him. Mistress Ansell kept her stories for her own table. You left the page shut until you were home.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood in the south aisle and left the page for home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told them to keep the day and their counsel.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept her answer for her own table.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood, and left Gib on the book at home.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood in the south aisle at St Helen's",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the south aisle",
+    "counsel",
+    "the page left shut"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "Keep the day, brethren, and keep your counsel."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not answering from this aisle."
+    }
+  ]
+}

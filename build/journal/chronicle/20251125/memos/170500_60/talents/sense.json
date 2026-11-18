@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At home you said Gaunt was done and the three leaves had stayed under the book. You did not play them. The boy was not in the room. Tomorrow the three nights are named, and you are still promising no surprise.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the leaves had stayed under the book.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "three leaves",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The chest stayed shut",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Came home with the leaves still under the book",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Gaunt done",
+    "three leaves unplayed",
+    "no surprise"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The three leaves stayed under the book. I did not play them."
+    }
+  ]
+}

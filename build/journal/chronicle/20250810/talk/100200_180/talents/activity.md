@@ -1,0 +1,1 @@
+You sat in the usual pew with Anne and your mother. Your father was not there. Your mother told you to button the cuff, where Saturday's ink still showed, and she would not discuss the empty place. Anne said dinner was after, and that this part was only the sitting down.

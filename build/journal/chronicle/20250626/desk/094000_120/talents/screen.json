@@ -1,0 +1,17 @@
+{
+  "narrative": "A black-letter bill, title only, no author's name, no price. It does not say last. No face. The same bill. No second line under the title. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the title and did not cross."
+    },
+    {
+      "type": "Company",
+      "name": "the Rose",
+      "role": "mentioned",
+      "context": "Shown on bill in The second Caesar"
+    }
+  ]
+}

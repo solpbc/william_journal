@@ -1,0 +1,42 @@
+{
+  "density": "idle",
+  "content_type": "reading",
+  "activity_summary": "At the Cross Keys you read the bill for the afternoon. The title was Titus Andronicus. There was no author's name on it and no price. You were in the play.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the title and did not look for an author.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Titus Andronicus",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The bill, title only",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read Titus Andronicus on the bill and went in",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the bill",
+    "the title"
+  ],
+  "quotes": []
+}

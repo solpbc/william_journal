@@ -1,0 +1,23 @@
+{
+  "narrative": "Pasteboard on the peg, ruled into boxes, the hand a copyist's. Four boxes are near enough to read. The rest of the board is smaller than he bothers with. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the four boxes, and did not unpeg the board."
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "context": "The hand is his. He was not beside the peg for this."
+    },
+    {
+      "type": "Project",
+      "name": "Richard the Second",
+      "role": "mentioned",
+      "context": "Shown on plot in Four boxes"
+    }
+  ]
+}

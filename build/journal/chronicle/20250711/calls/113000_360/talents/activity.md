@@ -1,0 +1,1 @@
+You asked Florio for a town. He gave you Verona with a warning about a sea-coast, then the river, the stone playing-place, the tombs in the street, Mantua a day off, and the swords in the heat. Of the earl he said only that he is with the court. He offered you a map. The earl did not speak.

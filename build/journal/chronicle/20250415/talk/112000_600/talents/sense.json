@@ -1,0 +1,89 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You bought Daniel's book for two shillings, and you called it the dearest since Golding. You had stood in it four times since March, and today you were still standing when you paid. Harrison repeated that you might read it and might not wear it out. Drayton said you would not find a laugh in four books. You talked about five minutes of home and of sonnets. You would not give him a number, and you did not envy Daniel. You sent nothing else out of London.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid two shillings while still on his feet, refused the number, and refused the envy.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Michael Drayton",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the lack of a laugh, asked the number, and did not get it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Harrison",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Repeated the March warning, and left the book to the chamber.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Civil Wars",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sam's kings",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "two shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sam's kings",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Bought Daniel's book for two shillings",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "John Harrison",
+    "Michael Drayton"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two shillings",
+    "no laugh in four books",
+    "five minutes of home",
+    "the number unsaid"
+  ],
+  "quotes": [
+    {
+      "speaker": "michael_drayton",
+      "text": "Sam's kings. You'll not find a laugh in four books, Will."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It is the dearest book since Golding."
+    },
+    {
+      "speaker": "john_harrison",
+      "text": "You may read it, Master Shakespeare, but you may not wear it out."
+    },
+    {
+      "speaker": "michael_drayton",
+      "text": "How many have you?"
+    }
+  ]
+}

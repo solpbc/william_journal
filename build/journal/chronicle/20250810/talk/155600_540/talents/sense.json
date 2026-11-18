@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You walked the last of the lane with Anne. She did not want it told. You kept it as the way to the hedge, and then you were done with it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Walked the last of the lane with Anne",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Walked the last of the lane with Anne",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came home from the bridge",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the end of the lane",
+    "the path next"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "I want the path."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The lane is the way to the hedge"
+    }
+  ]
+}

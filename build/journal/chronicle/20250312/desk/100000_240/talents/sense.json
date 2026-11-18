@@ -1,0 +1,56 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Before the others came you looked at the roll Garnish had recopied. Nine of the added lines are in a fair hand. Two are struck. The cue is not written yet. Kemp's jokes are not on the page for anyone else to learn.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Checked the fair hand against the two cuts.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Had recopied the roll, and marked it so.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "Kemp's roll",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Into the book",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Looked at the roll before it was read aloud",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "nine lines in fair hand",
+    "two cut",
+    "Garnish's roll"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "nine, fair. two struck."
+    }
+  ]
+}

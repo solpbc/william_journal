@@ -1,0 +1,56 @@
+{
+  "overview": "You wrote Anne six lines for Thursday's carrier. You told her the margin, which is to trust the boy. You told her that you have a tooth, and nothing of what the tooth does. You told her the king is played on Thursday. You did not mention the Mayor's letter. You hoped the children were well.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the six lines and did not add a seventh."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Not in the room. The page is for her."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "six lines",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the margin",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the tooth",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Thursday's king",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Thursday's carrier",
+      "asset_type": "other",
+      "disposition": "Wrote six lines and stopped"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-28",
+      "meaning": "Six lines for the carrier"
+    }
+  ],
+  "summary": "Wrote six lines and stopped"
+}

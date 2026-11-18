@@ -1,0 +1,49 @@
+{
+  "overview": "You tried a second line and rubbed it out. The first line stayed. You did not open the bundle to compare the leaf with the fair copy.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the girl alone with the vial"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "a rubbed line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the first line kept",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the knot unopened",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the loose leaf",
+      "asset_type": "other",
+      "disposition": "Wrote the girl alone with the vial"
+    },
+    {
+      "name": "the red bundle",
+      "asset_type": "other",
+      "disposition": "Wrote the girl alone with the vial"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-22",
+      "meaning": "Rubbed out a second line and kept the first"
+    }
+  ],
+  "summary": "Wrote the girl alone with the vial"
+}

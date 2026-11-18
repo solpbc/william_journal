@@ -1,0 +1,53 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "At half past seven you headed a page Verona and copied two couplets out of Brooke. You struck Romeus and Capilet, left the days blank, and drew two houses with a street between them. You noted a first meeting and a letter that goes astray, and a torch brought into a vault. You wrote that it is not yet, and that the King comes first. The only payment on the page is the book at sixpence. You wrote no speech and no scene. Gib was already on the book.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Made the Verona page and did not turn it into a scene.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat on the book while the page was written.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Romeus and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Verona",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote notes on Verona",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two houses alike",
+    "two names struck",
+    "the days left open",
+    "a torch in a vault",
+    "not yet"
+  ],
+  "quotes": []
+}

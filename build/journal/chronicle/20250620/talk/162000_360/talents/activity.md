@@ -1,0 +1,1 @@
+After Fair Em, Raye said the yard was thin and the watchmen at the gate were looking at faces. He had not counted them. He said the Rose was thinner, and that the bill was Antony and Valia. He had seen the bill and not the play, and he brought no receipt. You did not ask for a sum, and you did not cross.

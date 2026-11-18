@@ -1,0 +1,49 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "After the talk you said three words and stopped. A late entrance. You did not add the face, and you did not add the groom.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the three words, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A late entrance",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Named a late entrance and stopped",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three words",
+    "the late entrance"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "A late entrance."
+    }
+  ]
+}

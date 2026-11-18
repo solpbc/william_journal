@@ -1,0 +1,1 @@
+After the play Kemp asked if the slippers were now. Phillips said Thursday. You said the Wise Man on the other bill was not a place you were going, and that the dance was not this afternoon. You went home.

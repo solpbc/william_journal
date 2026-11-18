@@ -1,0 +1,71 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At home the letter stayed on the nail, unfolded, with no day. The loaf stayed under the cloth. Nobody put it to the notch. Dinner was the board, and the sheet was not a guest at it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left both where they were.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a measuring, and called dinner.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the loaf under the cloth.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the letter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The notch stays shut",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Sat down to dinner",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the letter still on the nail",
+    "the loaf not measured"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "There is no day in it"
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Monday is soon enough to tell a penny loaf it is short"
+    }
+  ]
+}

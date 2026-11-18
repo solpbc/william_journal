@@ -1,0 +1,54 @@
+{
+  "overview": "You were in the afternoon's play. It was Two Gentlemen. The gown had no name on it. You did not write a part for yourself in any note. The Rose had a Toy. You did not go. You copied nothing when you came home.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Played the afternoon, and wrote no name."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the gown",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no name",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Two Gentlemen",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nothing copied",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Two Gentlemen",
+      "asset_type": "other",
+      "disposition": "Played Two Gentlemen"
+    },
+    {
+      "name": "a Toy",
+      "asset_type": "other",
+      "disposition": "Played Two Gentlemen"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-21",
+      "meaning": "In the gown he already had"
+    }
+  ],
+  "summary": "Played Two Gentlemen"
+}

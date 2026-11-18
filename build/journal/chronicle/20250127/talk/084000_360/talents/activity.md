@@ -1,0 +1,1 @@
+Mistress Ansell boiled the ink and you paid twopence for the horn. You stayed in. Titus at two is not yours. The Rose's bill is the first Tamburlaine, and you are not going. You went up to begin a leaf with no name at the head.

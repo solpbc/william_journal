@@ -1,0 +1,23 @@
+{
+  "narrative": "A boy's roll on the table, a fresh mark in the margin, and no second hand reaching for it. The boy's face is down.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Did not ask."
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "context": "Marked the roll and asked nothing."
+    },
+    {
+      "type": "Tool",
+      "name": "the roll",
+      "role": "mentioned",
+      "context": "Shown on part in He marks it"
+    }
+  ]
+}

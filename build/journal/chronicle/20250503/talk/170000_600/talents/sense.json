@@ -1,0 +1,77 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Burbage had split a seam at the elbow in the gesture he uses for Richard of Gloucester. Edith made him do it again, slowly, and showed him with her two hands how much cloth it takes. You moved the entrance a step later. She said a changed direction is cheaper than a changed sleeve only if she is told before the cutting. He did the gesture a third time, smaller, and liked it better. Sam stood through the measuring.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Measured the cloth with her two hands, required notice before a cutting, and took the sleeve.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Did the gesture a third time, smaller, and liked it better.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood through the measuring, and was glad of a principal corrected in cloth.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Changed the entrance and stopped.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Moved an entrance and gave the sleeve to Edith",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Edith Kettlewood",
+    "Richard Burbage",
+    "Sam Latchet",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two hands",
+    "the third gesture",
+    "the later entrance"
+  ],
+  "quotes": [
+    {
+      "speaker": "edith_kettlewood",
+      "text": "Look at my two hands."
+    },
+    {
+      "speaker": "edith_kettlewood",
+      "text": "Changing a direction is cheaper than changing a sleeve, Master Shakespeare, only if somebody tells me before the cutting."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "I like it better so."
+    }
+  ]
+}

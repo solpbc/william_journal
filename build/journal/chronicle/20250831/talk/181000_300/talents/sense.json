@@ -1,0 +1,76 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At supper she said she had heard no walking at all, and she distrusted the quiet. You told her the afternoon was a letter home, three beginnings struck and the fourth kept, sealed for Hobbins on the eleventh. The loaf still wants a full thumb of the notch. The price of the board was threepence. She said a short letter to a wife has less room for lies in it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the afternoon was the letter, and that the short one took the time.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Distrusted the quiet, priced the board, and measured the loaf.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "threepence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No walking since dinner",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the notch",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No walking since dinner",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Told her the afternoon was a letter home",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "no walking",
+    "the sealed letter",
+    "threepence",
+    "the loaf"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I have heard no walking at all"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I made three beginnings and struck them"
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A short letter to a wife has less room for lies in it"
+    }
+  ]
+}

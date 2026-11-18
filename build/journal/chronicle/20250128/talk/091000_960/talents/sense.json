@@ -1,0 +1,142 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "At the long table, Abel brought seventeen parts copied in six days. You had said on Saturday that Abel reads. This morning you read the whole book, every voice, and you read Costard badly so Kemp would mend him. Pope tried Armado's first letter, lost the third word, and the table was helpless. Kemp unrolled his part against Richard's on the floor, and neither called a winner. Augustine asked for the songs by Friday. You promised a pointing, not a new copy. Nick asked whether the Princess weeps after the news of her father. You said she governs, and he marked his roll. The gown was repeated as John's words from last night. John was not in the room.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read the whole play, read Costard badly on purpose, and said she governs.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept his hands off Berowne until the reading was done, and refused to judge the two rolls.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the bait, and unrolled his part against Richard's without calling a winner.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Lost the third word of the letter, and did not invent it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the songs by Friday, and accepted a pointing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought seventeen parts copied in six days.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked the one question, marked his roll, and repeated the gown as already said.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in You said Abel",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in You said Abel",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Taming of the Shrew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in You said Abel",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Set at Maw",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in You said Abel",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read the book and gave out the rolls",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "Will Kemp",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Thomas Pope",
+    "Augustine Phillips",
+    "Nick Sorrell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the first reading",
+    "Costard read badly",
+    "the songs by Friday",
+    "the Princess",
+    "the gown already said"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "You said Abel reads"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No. She governs"
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "Let me have them by Friday"
+    },
+    {
+      "speaker": "nick_sorrell",
+      "text": "John said last night, the Princess wants a gown;"
+    }
+  ]
+}

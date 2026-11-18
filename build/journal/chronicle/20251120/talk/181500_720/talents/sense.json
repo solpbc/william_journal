@@ -1,0 +1,94 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At supper the loaf was two fingers short of the notch, and a penny. You asked Verbeke what a weaver is proudest of. He said the shuttle thrown true, then the beam, the reed, and the thrum, the waste end on the loom. The core you wind the thread on is a bottom, a bottom of thread, and a man who winds well is half a weaver. He tied the weaver's knot twice on packthread and made you tie it. He gave you three words of his own tongue, for bread, for thread, and for good evening. You did not write the letters. July's three were thread, the shuttle, and the knot, and these were not those. Mistress Ansell was told a duke's wedding, tradesmen who make a play, and fairies in the wood. She called it a satire upon players and approved it, and she called the fairies popery. Alse asked if the weaver is in the play. You said he wants to be all of it. There is no page.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked, tied the knot, and refused to write the play or the letters.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the shuttle, the beam, the reed, the thrum, and the bottom, and said three words he would not have written.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Judged the loaf, heard the plot, and approved a satire.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked whether the weaver is in it, and saw the notch.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A bottom of thread",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "packthread",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A bottom of thread",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Learned a bottom of thread at supper",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Gillis Verbeke",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two fingers and a penny",
+    "a bottom of thread",
+    "three words not written",
+    "no page"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Two fingers short of the notch. It is a penny."
+    },
+    {
+      "speaker": "gillis_verbeke",
+      "text": "A clew of yarn is a bottom of thread. A man who winds well is half a weaver."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Tradesmen playing! Then it is a satire upon players, and I approve it. The fairies are popery."
+    }
+  ]
+}

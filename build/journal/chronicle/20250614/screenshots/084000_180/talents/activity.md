@@ -1,0 +1,1 @@
+You walked the two hundred yards to Leadenhall before you went north. Butter firkins were out on a stall, with a market measure and a mended shutter, and a constable with a bill leaning by them, bored. The price was cried at fourpence. Nobody argued with the bill. You were not looking at a riot. You had not crossed the river.

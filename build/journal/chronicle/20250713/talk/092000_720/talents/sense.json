@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You stood in the porch through two turns of the glass. Fourteenthly was his heading, and you did not bring a sermon home. Sir John was in his pew and added nothing. You said the book would gain no cross for today. Mistress Ansell counted the turns and took you toward dinner.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the mark, and went.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Turned the glass twice, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the turns, and aimed you at dinner.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat his pew, and added nothing.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood through two turns of the glass",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two turns of the glass",
+    "fourteenthly",
+    "no cross"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "Two turns of the glass, and fourteenthly is where I am bound"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The book at home has no cross for today"
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Two turns. I counted them so I would know when to stand."
+    }
+  ]
+}

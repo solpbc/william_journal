@@ -1,0 +1,75 @@
+{
+  "overview": "You wrote the fuller answer to Thursday's letter and struck the supper-story out of it. Daniel and the cold marble are not what you send. You heard by her letter that the brook at Shottery is undammed, thanked Hamnet, and told him not to begin on the Avon. Christmas will likely keep you at court. My lord's gentleman says you will be sent for, and you will know more when my lord says so. You promised no surprise and no Twelfth Night ride. You set down no sum. The page waits in the coffer lid for the carrier of the thirteenth.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the letter and left it for the coffer lid."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Named, and not yet in receipt of the paper."
+    },
+    {
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Hamnet Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Thanked, and told not to begin on the Avon."
+    },
+    {
+      "name": "Samuel Daniel",
+      "role": "mentioned",
+      "formal_term": "Samuel Daniel",
+      "appointment_tier": "not_applicable",
+      "context": "Named in the lines you struck, and not sent."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the struck story",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the brook",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the word likely",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the letter",
+      "asset_type": "other",
+      "disposition": "Wrote the word likely and crossed out the supper-story"
+    },
+    {
+      "name": "the coffer",
+      "asset_type": "other",
+      "disposition": "Wrote the word likely and crossed out the supper-story"
+    },
+    {
+      "name": "Shottery brook",
+      "asset_type": "other",
+      "disposition": "Wrote the word likely and crossed out the supper-story"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-26",
+      "meaning": "Struck, for strangers"
+    }
+  ],
+  "summary": "Wrote the word likely and crossed out the supper-story"
+}

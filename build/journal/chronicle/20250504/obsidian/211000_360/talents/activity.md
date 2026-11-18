@@ -1,0 +1,1 @@
+You dated a night page the fourth of May 1595 and did not reopen the England speech. The tables already say that not all of them may sing, York short, Gaunt long, the king without an end. You left the foot of the page empty.

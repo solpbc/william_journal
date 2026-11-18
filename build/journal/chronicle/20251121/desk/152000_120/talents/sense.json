@@ -1,0 +1,52 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "You were in the afternoon's play. It was Two Gentlemen. The gown had no name on it. You did not write a part for yourself in any note. The Rose had a Toy. You did not go. You copied nothing when you came home.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Played the afternoon, and wrote no name.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Two Gentlemen",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the gown he already had",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "a Toy",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the gown he already had",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Played Two Gentlemen",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the gown",
+    "no name",
+    "Two Gentlemen",
+    "nothing copied"
+  ],
+  "quotes": []
+}

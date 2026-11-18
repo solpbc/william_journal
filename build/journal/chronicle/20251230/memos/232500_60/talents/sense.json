@@ -1,0 +1,46 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Last, you said the letter was still on the board and that you had named no one to take it. You were not opening the coffer, and you were not counting. The cat had been moved. You stopped.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke once and stopped.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Ended the night with the letter on the board",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the letter still there",
+    "the coffer shut",
+    "no count"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The sheet is still on the board."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A difference is not a sum until it is counted, and I am not counting."
+    }
+  ]
+}

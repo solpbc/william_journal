@@ -1,0 +1,82 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "After the sermon you told Mistress Ansell, in the porch, that you will not be at her table on Christmas Day. You are looked for at Richmond. The letter is unsealed and goes Thursday with Hobbins. You named the russet she chose, and that it is paid for, and you did not name Joan's. She will not bake on a rumour, and she will not say her playhouse sentence again. Master Thwaite had reached fourteenthly and would not give you the rest of it in a porch. He did not ask what the letter said.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told the house, in the porch, that Christmas is Richmond.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the one candle, refused a rumour pie, and took him home to the meat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reached fourteenthly and left the letter unread.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the russet remnant",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No pie on a rumour",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Told Mistress Ansell Christmas is at Richmond",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "William Shakespeare",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the porch",
+    "Richmond told plain",
+    "Thursday's carrier",
+    "one candle",
+    "the russet"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I will not bake a pie on a rumour. Mark me. The carrier is Thursday."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No door there is to stay unlatched for me."
+    },
+    {
+      "speaker": "josias_thwaite",
+      "text": "And fourteenthly, Master Shakespeare, is where I left it."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I have already spent that sentence, in my own kitchen, before church last Sunday."
+    }
+  ]
+}

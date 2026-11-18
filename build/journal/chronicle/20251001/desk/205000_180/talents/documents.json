@@ -1,0 +1,44 @@
+{
+  "overview": "You entered the sending and the hand that carried it. Sent to Stratford, sixty shillings, by Gilbert. You did not write a remainder. You did not rule the coffer again.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the line, and did not do the subtraction."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the ledger line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "by Gilbert",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no remainder",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "60s",
+      "asset_type": "other",
+      "disposition": "Entered sixty shillings sent by Gilbert"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-01",
+      "meaning": "Sent by G."
+    }
+  ],
+  "summary": "Entered sixty shillings sent by Gilbert"
+}

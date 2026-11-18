@@ -1,0 +1,1 @@
+You cut a London story out of last Sunday's draft and did not copy it into the letter. The tale had forty sail in it, and you had it only from a waterman. The sheet still waits for the carrier of the 27th.

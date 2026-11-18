@@ -1,0 +1,1 @@
+You ate breakfast at threepence after a night that went to one. Gib stayed on the thin book, and you left the blank under the rule. You said the king was still coming down, and that you would not open the page before church. The loaf was a penny and a finger and a half short. Mistress Ansell did not measure it again. She sent you to wash yesterday's ink off your finger.

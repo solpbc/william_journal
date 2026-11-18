@@ -1,0 +1,60 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "By candle, on a fresh quire of Field's Rochelle paper, you wrote a page that belongs to no play you own. A queen of no country tells her lord their quarrel has put the year out of joint. You ruled no head on the sheet. The margin asks who these two are, whose wedding, what lovers, what workmen, and how many boys. You wrote no answer and named no occasion. Last Saturday's thirty-eight shillings is copied on the leaf as last Saturday's part. It is not a new receipt. Your jaw is whole.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the page and stopped at the questions.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named on the paper line, and not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Field's Rochelle paper",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A queen of no country",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "tallow",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A queen of no country",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote one page by candle",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one page",
+    "no head",
+    "the margin questions",
+    "last Saturday's part"
+  ],
+  "quotes": []
+}

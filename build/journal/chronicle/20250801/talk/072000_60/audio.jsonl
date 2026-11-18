@@ -1,0 +1,7 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "joan_shakespeare", "start": "07:20:00", "text": "Thou art down late. The house has been at it this hour.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "joan_shakespeare", "start": "07:20:12", "text": "Thy feet are a disgrace to the family, brother.", "timing": {"end": 22.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "anne_shakespeare", "start": "07:20:22", "text": "The bread is cut. Sit when thou hast it.", "timing": {"end": 32.0, "start": 22.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "07:20:32", "text": "They will take a basin later. They will not take a lecture before bread.", "timing": {"end": 44.0, "start": 32.0}}
+{"sentence_id": 5, "speaker": "joan_shakespeare", "start": "07:20:44", "text": "I am not lecturing. I am telling thee what they look like on my floor.", "timing": {"end": 56.0, "start": 44.0}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "07:20:56", "text": "Then the floor has seen them. Where is the bread?", "timing": {"end": 62.0, "start": 56.0}}

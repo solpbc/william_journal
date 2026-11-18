@@ -1,0 +1,1 @@
+Gilbert came after church with the packet unopened, three days in his other doublet. You read the roofed frame, the money with no sum, and the porch, and you answered him with your father's sentence. Susanna's line is correct, Hamnet won a race, and Judith's drawing is labelled by her sister. He left before you read the sheet again. Mistress Ansell kept the letter off her pot.

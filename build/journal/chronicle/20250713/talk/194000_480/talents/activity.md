@@ -1,0 +1,1 @@
+Over the third cup he went quiet, and then he remembered Kit laughing in a garden at Scadbury, two summers gone. He did not stay there. He talked of something else very fast, and the something else was the cup and Harvey, not a further life of Kit.

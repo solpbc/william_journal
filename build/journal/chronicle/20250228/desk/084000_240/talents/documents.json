@@ -1,0 +1,50 @@
+{
+  "overview": "From the desk under the west window you saw the Friday litany let out. A woman came down the step with an older woman, a music-book under her arm. Dark hair under the hood, and when she looked up at the rooks, very dark eyes. She crossed toward the lane. You did not go down. You did not speak to her. The leaf in front of you was blank.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked up from a blank leaf and did not leave the chair."
+    },
+    {
+      "name": "the lady of the parish",
+      "role": "visible",
+      "formal_term": "the lady of the parish",
+      "appointment_tier": "not_applicable",
+      "context": "Came down the step with an older woman, looked up at the rooks, and crossed toward the lane. She did not speak."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the west window",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the church step",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a music-book",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a blank leaf",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-02-28",
+      "meaning": "The porch, from the desk"
+    }
+  ],
+  "summary": "Saw a woman with dark eyes from the west window"
+}

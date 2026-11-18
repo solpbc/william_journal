@@ -1,0 +1,1 @@
+You sat the opening of Master Thwaite on St Michael and the angels, with your hand on your face. He said the feast itself falls tomorrow. Sir John Spencer gave the litany its response and did not speak to you. The rest of the sermon is not in the journal. The parish's name for the hand is devotion, and you did not correct it.

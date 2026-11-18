@@ -1,0 +1,66 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At breakfast there was snow, and you said the afternoon play was still two of the clock. The letter stayed for the carrier of the 27th. Board was threepence. The loaf was a penny and a finger short. You would not talk of yesterday. Mistress Ansell would not count a player's share on her board.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named two of the clock, kept the letter back, and would not talk of yesterday.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Fed him, refused to carry the letter, and refused to count a share.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Offered the fire for his boots, and reported the loaf a finger short.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate breakfast",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "snow",
+    "two of the clock",
+    "the unsent letter",
+    "threepence",
+    "the short loaf"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The snow can thin a yard. It does not change the hour."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I do not count players' shares."
+    }
+  ]
+}

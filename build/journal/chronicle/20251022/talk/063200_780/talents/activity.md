@@ -1,0 +1,1 @@
+You waited with Alse and did not cut the loaf. You asked her to leave Mistress Ansell the pleasure of finding you early. You named nine, dinner, and the afternoon, and you offered no report of the work. The comb went down on the chest, and then she was on the stair.

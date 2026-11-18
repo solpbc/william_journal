@@ -1,0 +1,125 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "You rehearsed the comedy with the door shut and no bill up. Heminges counted seven days to Easter Monday. Garnish refused another paste. Sam sang the cuckoo clear. Kemp wanted a laugh and did not get one. Arthur's two hooks were still split, and Edith was not sent for. You did not let a hem down, and you did not open any other play.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept one book, refused a hem, and left the morning on Navarre.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted seven days, no bill, and no seamstress.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for a laugh and a hat, and got neither.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set Sam on the breath, and stopped him when clear was enough.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sang the cuckoo clear, and stood quiet when told.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named two split hooks and agreed to turn slower.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused another version and kept the plot where it hung.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned. She was not sent for, and she did not let a hem down.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Seven days",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed the comedy",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Will Kemp",
+    "Abel Garnish",
+    "Augustine Phillips",
+    "Sam Latchet",
+    "Arthur Meeks"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "seven days",
+    "one book",
+    "the clear cuckoo",
+    "the split hooks"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Easter Monday is seven days from this morning, and seven is a date."
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "Sing it on the breath, not on the word."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "The slip is on. One book."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not calling for a hem."
+    }
+  ]
+}

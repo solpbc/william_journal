@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Mistress Ansell asked if the king was still dying, and you said the second act is shut and that the third was begun yesterday on half a sheet, and not told at this table. The loaf was a penny and a finger and a half short of the notch, and not put on a pan. Board was threepence because you sat. She told you not to defend the trade, to answer in Anne's order, and to send the seamstress's part of the sleeve. You left the barn as the line that needs an answer. She gave no verdict on a king she had not been told.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked with the jug in her other hand, priced the loaf, and sent the seamstress rather than the man who tore the sleeve.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the threepence, and cut what she was given.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the shut act as a clean board, and did not ask for the third.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the second act is shut and the third was begun yesterday, refused a defence of the trade, and left the barn for her.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Threepence, and the act shut",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Said the second act is shut and paid threepence",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the second act shut",
+    "threepence",
+    "a finger and a half",
+    "the barn left open"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The loaf first. It is a penny"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The second act is shut"
+    },
+    {
+      "speaker": "gillis_verbeke",
+      "text": "A shut act is a clean board"
+    }
+  ]
+}

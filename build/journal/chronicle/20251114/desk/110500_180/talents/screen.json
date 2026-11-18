@@ -1,0 +1,17 @@
+{
+  "narrative": "The feast leaf on a bench. Fresh counts in the margin. No speech copied beside them. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the counts and did not add a speech."
+    },
+    {
+      "type": "Project",
+      "name": "the Capulet feast",
+      "role": "mentioned",
+      "context": "Shown on draft in The count in the margin"
+    }
+  ]
+}

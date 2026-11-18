@@ -1,0 +1,1 @@
+You set his two hundred against the twenty you counted. You left the two pounds from August where they are, still owed, and you did not lend. The news of home was a little better in the telling. The supper has no day. Anne's letter is still unanswered.

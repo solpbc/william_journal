@@ -1,0 +1,44 @@
+{
+  "overview": "You read the afternoon's bill at the Theatre. Errors was at two. You were not in it. You went home, and you did not come back for it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the title and left the Theatre."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Errors",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the bill",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "going home",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Comedy of Errors",
+      "asset_type": "other",
+      "disposition": "Read the Errors bill and went home"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-12",
+      "meaning": "Errors, and he is not in it"
+    }
+  ],
+  "summary": "Read the Errors bill and went home"
+}

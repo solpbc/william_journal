@@ -1,0 +1,1 @@
+You came home between the rehearsal and the call and did not sit the meal. The loaf was a penny. You took a crust. Alse was not sent to a shop. You were due back at the Theatre by noon. Monday's price of the board was left where she had said it.

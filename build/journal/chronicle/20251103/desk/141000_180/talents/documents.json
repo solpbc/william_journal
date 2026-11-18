@@ -1,0 +1,54 @@
+{
+  "overview": "At the Theatre the bill was Love's Labour's Lost, and you were in it. The Rose's bill was New World's Tragedy. You read the title and did not cross.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read both titles, and stayed for his own."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the Navarre bill",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Rose title",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no crossing",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Read the Rose bill and played Love's Labour's Lost"
+    },
+    {
+      "name": "New World's Tragedy",
+      "asset_type": "other",
+      "disposition": "Read the Rose bill and played Love's Labour's Lost"
+    },
+    {
+      "name": "the Rose",
+      "asset_type": "other",
+      "disposition": "Read the Rose bill and played Love's Labour's Lost"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-03",
+      "meaning": "Not today"
+    }
+  ],
+  "summary": "Read the Rose bill and played Love's Labour's Lost"
+}

@@ -1,0 +1,23 @@
+{
+  "narrative": "The writing-tables open under the black-letter bill. One title added among the Rose's bills. No sum beside it. No author's name. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the title and shut the tables."
+    },
+    {
+      "type": "Project",
+      "name": "Barnardo and Fiammetta",
+      "role": "mentioned",
+      "context": "Shown on tables in Among the Rose's bills"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Among the Rose's bills"
+    }
+  ]
+}

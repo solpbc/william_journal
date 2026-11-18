@@ -1,0 +1,17 @@
+{
+  "narrative": "The west window with the candle out. The close beyond the glass is black. The church porch does not show. No moon. A dark wick and a thumb of cold tallow on the candlestick. No hand. No face. No reflection.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Pinched the flame and turned from the window."
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "context": "In photo: The close, with the candle out"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Garnish pasted the slip and said you had mended the play to fit the player, which was against nature. You said it was cheaper than a new player. Cowley heard "and that is enough" and claimed it. Heminges counted one slip and one player kept. Burbage asked for nothing new. There was no bill, and the house was not opened. Larkham did not copy a second book.

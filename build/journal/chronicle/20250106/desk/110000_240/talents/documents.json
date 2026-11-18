@@ -1,0 +1,44 @@
+{
+  "overview": "Before dinner you set four labels on a working sheet and wrote the problem under them: four men, each forsworn, each with a rhyme, and no way to bring them on without four scenes. You did not solve it. No messenger is on the leaf. The lines are foul paper.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the knot and did not untie it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "four men",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "four rhymes",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "an unsolved entrance",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Set down four forsworn men"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-06",
+      "meaning": "Four men, and no way on"
+    }
+  ],
+  "summary": "Set down four forsworn men"
+}

@@ -1,0 +1,1 @@
+At dinner the loaf was a penny and short by a finger. You paid threepence for the meal and sixpence for the week's firing and washing, once. The Sunday letter stayed folded for Thursday's carrier. Mistress Ansell said she would count the spoons after dinner. Master Verbeke sat at the end of the bench and did not speak.

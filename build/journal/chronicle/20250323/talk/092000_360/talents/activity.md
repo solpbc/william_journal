@@ -1,0 +1,1 @@
+You sat the morning sermon. Master Thwaite preached the prodigal and promised to be brief. Mistress Ansell called an hour and a half timely, and waited for the want. You did not put your own road into it. He did not name a purse.

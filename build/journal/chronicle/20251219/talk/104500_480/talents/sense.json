@@ -1,0 +1,80 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At the printing-house door, in a thin snow, James put a carpenter's rule out from under his cloak and swore the secret on a hot gill. The Upper Frater can be had outright for six hundred pounds, come the spring, when the money is found. You said it was a great deal of money. He said it was a great deal of roof. Dick did not speak. You looked at the lancets and did not talk of the neighbours. You promised the sum would not reach Field or a tiring-house. Nothing was bought, and no timber was to be pulled.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the oath, named the sum once, and refused the book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed the rule, named six hundred and the roof, and cursed Allen in the same breath as the winter.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Did not speak. He looked as if he had heard it every night for a month.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Upper Frater",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A great deal of roof",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard six hundred pounds for the Upper Frater",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "James Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the oath on the gill",
+    "six hundred pounds",
+    "the Upper Frater",
+    "Dick's silence"
+  ],
+  "quotes": [
+    {
+      "speaker": "james_burbage",
+      "text": "Six hundred pounds, come the spring, when the money's found."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It is a great deal of money."
+    },
+    {
+      "speaker": "james_burbage",
+      "text": "It's a great deal of roof."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Six fingers, then, and not shillings."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+At the Keys, before eleven, you and Richard left for the hill, and Kemp and Augustine came too. Augustine already has the pointing and is not handing it about. You are back for Errors at two. You are not going to the first Caesar.

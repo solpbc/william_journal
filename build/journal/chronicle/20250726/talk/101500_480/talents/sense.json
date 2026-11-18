@@ -1,0 +1,77 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You came for a quire and stayed for the noise. A clerk read a copy of a letter that named no town. Field, pale, would not have the blank improved. You had already read Thursday the 24 of July on the sheet, standing, and you did not buy it or turn the leaf. A grocer told the pillar that if they can burn Cornwall unopposed then the Armada is not dead history but only resting. Harrison said it will sell. You bought the quire for fivepence. Nobody could name the place in Cornwall.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Bought the quire, and did not turn the leaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood pale, and refused an invented parish.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Harrison",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the sheet will sell, and took fivepence for the quire.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Armada",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in It will sell",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Bought a quire for fivepence",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Field",
+    "John Harrison",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "no town",
+    "the unbought sheet",
+    "fivepence",
+    "the Armada resting"
+  ],
+  "quotes": [
+    {
+      "speaker": "(the grocer)",
+      "text": "If they can burn Cornwall unopposed then the Armada is not dead history but only resting."
+    },
+    {
+      "speaker": "john_harrison",
+      "text": "The quire you came for is fivepence."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Thursday the 24 of July."
+    }
+  ]
+}

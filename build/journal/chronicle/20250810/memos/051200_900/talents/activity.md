@@ -1,0 +1,1 @@
+You stayed upstairs while the house was still quiet. You kept the night as you had already told it: the girl was quick, and you had come up. You left the sheet under the stone, and you did not go down while the house was still.

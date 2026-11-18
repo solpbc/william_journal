@@ -1,0 +1,60 @@
+{
+  "density": "active",
+  "content_type": "media",
+  "activity_summary": "You died as Gaunt close enough to a skirt to smell the orris. You gave the line to the air a foot past Sir Robert's ear. He sat about three yards from your boots and did not move. The words were \"inkie blots, and rotten parchment bonds\".",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Died as Gaunt, and gave the line to the air.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir Robert Cecil",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Sat three yards off, and did not move.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Margaret, Lady Hoby",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Stayed seated. The orris was in the cloth beside the death.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in A foot past his ear",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Spoke Gaunt's line past Sir Robert's ear",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Gaunt",
+    "the orris",
+    "three yards",
+    "the line past his ear"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:15:00", "text": "After Thursday.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:15:14", "text": "The king first. Then the tooth, and welcome to it.", "timing": {"end": 32.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:15:32", "text": "Not before. A man cannot speak an uncle's dying and spare the same mouth for a barber on the morning of it.", "timing": {"end": 42.0, "start": 32.0}}

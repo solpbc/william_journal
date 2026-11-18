@@ -1,0 +1,51 @@
+{
+  "density": "idle",
+  "content_type": "reading",
+  "activity_summary": "You stopped writing. The tables stayed open on the four lines. You looked at the knot and at the cat on the shut book, and you did not reach for either. Someone called from the stair at the end of it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "attendee in Stopped at the tables and left the bundle knotted",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Stopped at the tables and left the bundle knotted",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Stopped at the tables and left the bundle knotted",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote that the other work could wait until after the yard",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the idle leaf",
+    "the knot",
+    "the cat's book"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,44 @@
+{
+  "overview": "You wrote that the friar's letter has miscarried on the way to Mantua, and that you do not have the paper. You do not know the cause, and you did not write one. The vault is not this leaf. There is no song at the door. The red thread stays tied.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the five lines and stopped."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the miscarried letter",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no cause",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the tied thread",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the friar's letter",
+      "asset_type": "other",
+      "disposition": "Wrote that the friar's letter miscarried"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-31",
+      "meaning": "The paper he has not"
+    }
+  ],
+  "summary": "Wrote that the friar's letter miscarried"
+}

@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:15:00", "text": "The dead I talk to are in books. Old Ovid, daily. Kit Marlowe every time the Rose hangs out the Scythian, and they will again before the month's out. Tom Kyd, whose Spaniard still fills a yard. Greene, who called me a crow, whenever I pass the sign of the Jackdaw. I owe every one of them a line and have paid none.", "timing": {"end": 28.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:15:28", "text": "If a man may not pray for them he may still steal from them. It comes to a kind of remembrance.", "timing": {"end": 42.0, "start": 28.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:15:42", "text": "My mother's mother baked soul-cakes at Hallowtide, spiced. My mother never baked them for us. She knows the words, though.", "timing": {"end": 56.0, "start": 42.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "20:15:56", "text": "And at the end of it she says \u2014", "timing": {"end": 62.0, "start": 56.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "20:16:02", "text": "\u2026Enough. The Friar's letter. Why it never came.", "timing": {"end": 72.0, "start": 62.0}}

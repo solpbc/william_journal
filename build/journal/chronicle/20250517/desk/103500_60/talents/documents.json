@@ -1,0 +1,33 @@
+{
+  "overview": "The stallman's elbow had moved you. You paid sixpence and said no word. The book went inside the doublet. You claimed no kinship.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Paid, and did not speak."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "sixpence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no word said",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-17",
+      "meaning": "Sixpence, and no word"
+    }
+  ],
+  "summary": "Paid sixpence for the thin book"
+}

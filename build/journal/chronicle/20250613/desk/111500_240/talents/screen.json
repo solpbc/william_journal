@@ -1,0 +1,17 @@
+{
+  "narrative": "The three sheets on the board, as on Wednesday night. No new line. The prison is not begun. The coffer is shut across the room and is not opened. No face. The glass, still the last thing written. The margin is unchanged. No face. The sheets stay in the light. Nothing is folded into the coffer. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked at the three sheets and left them on the board."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in Three sheets, still on the board"
+    }
+  ]
+}

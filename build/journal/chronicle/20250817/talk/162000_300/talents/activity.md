@@ -1,0 +1,1 @@
+The inkhorn had been missing an hour, and it was inside Hamnet's string-and-spool machine. Judith had heard it knock twice. Susanna told you not to make the finding into a tale while you were still getting it out. You said it was your ink, and that was the end of the story. You did not take it to London as a joke. You put the horn back toward the pack yourself.

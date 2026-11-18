@@ -1,0 +1,51 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "You let the Prince come into the square and gave him no speech. The friend is already off the page. Phillips is not on the leaf, and you did not tell him.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the entrance, and stopped before a speech.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not on the leaf, and not told.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the square",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The Prince comes in",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote the Prince into the square",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the square",
+    "the Prince",
+    "Phillips not on the leaf"
+  ],
+  "quotes": []
+}

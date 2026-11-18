@@ -1,0 +1,64 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At Uxbridge the first of the morning had been stiff, and you were walking. The corn was in. Women were gleaning, and they did not look up, and they did not speak. You did not ask for the spare. You left the field to its own work.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Walked through the stiffness, and left the gleaners to the field.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the spare, and kept the pace.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the spare nag",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in They do not look up",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Passed the gleaning on foot",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Thomas Hobbins"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the stiff morning",
+    "gleaning",
+    "the corn in",
+    "no spare"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "They are gleaning, and they do not look up."
+    },
+    {
+      "speaker": "thomas_hobbins",
+      "text": "Middlesex has had its harvest."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "overview": "At home you opened the almanac. It still prints Corpus Christi, for leases and reckonings. Nobody is keeping the day. You did not make a lease of it, and you did not copy it down.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the almanac and shut it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Corpus Christi",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the almanac",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no lease",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the almanac",
+      "asset_type": "other",
+      "disposition": "Read Corpus Christi in the almanac"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-19",
+      "meaning": "Still printed, not kept"
+    }
+  ],
+  "summary": "Read Corpus Christi in the almanac"
+}

@@ -1,0 +1,1 @@
+At home you entered breakfast at threepence and the loaf at a penny, a finger and a half short. You entered Alice's bill as two shillings and eightpence, and the jug, and you did not write a half. You noted the salt-fish, the theft, and how little you had said.

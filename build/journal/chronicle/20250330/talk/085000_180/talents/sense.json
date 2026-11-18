@@ -1,0 +1,92 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At the Henley Street door Anne went ahead with the three children. Your father stayed behind the shut shop door. You gave your mother your arm. She said it was two years since she had had it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Offered his mother his arm and left the shop door shut.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took his arm at the threshold and named the two years.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Went ahead with the children.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Walked ahead with Anne.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Walked ahead with Anne, her cuff in Susanna's hand.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Walked ahead with Anne.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Gave Mother an arm at the Henley Street door",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare",
+    "Mary Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the shut shop door",
+    "the arm",
+    "two years"
+  ],
+  "quotes": [
+    {
+      "speaker": "mary_shakespeare",
+      "text": "Leave the shop door as it stands, Will."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Take my arm. It is two years since I walked you this way."
+    },
+    {
+      "speaker": "mary_shakespeare",
+      "text": "It is two years since I had it."
+    }
+  ]
+}

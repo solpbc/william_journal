@@ -1,0 +1,81 @@
+{
+  "density": "active",
+  "content_type": "reading",
+  "activity_summary": "You read the pages by Field's sea-coal fire. You called them a dozen leaves, no title, no last act. He kept a straight face through the casting and lost it at the bellows-mender's line, and he said you had put all Warwickshire into Athens. Jacqueline asked if the queen is punished for loving an ass. You said not yet. She said don't. Field asked if you had been paid. You said no, not yet, and he called that more useful than a flourish. He asked whether his chronicle is to see the new year in at Great St Helen's. You said it is. The pages came home again, unset.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read, refused an ending, and answered the pay and the chronicle plainly.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Lost his straight face, preferred a plain no to a flourish, and blessed you and the book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Jacqueline Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked the question, forbade the punishment, and kept the count honest.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Holinshed's Chronicles",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Read the pages at Field's fire",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read the pages by Field's fire",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Field",
+    "William Shakespeare",
+    "Jacqueline Field"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a dozen leaves",
+    "Warwickshire in Athens",
+    "not yet",
+    "the chronicle still out"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_field",
+      "text": "Thou hast put all Warwickshire into Athens, Will. Thistles, weavers, asses and moonshine."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Not yet. I haven't got that far."
+    },
+    {
+      "speaker": "jacqueline_field",
+      "text": "Then don't."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No, not yet."
+    }
+  ]
+}

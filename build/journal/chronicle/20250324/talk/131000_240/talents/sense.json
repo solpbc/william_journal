@@ -1,0 +1,97 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You told them you are reading and not beginning. The loaf is a finger short of the notch. The horse is Wednesday, at the Bull, at first light. Tomorrow is the quarter, and the chamber was not settled over the loaf. You put down threepence for the meal. She let you the room, and not the weather on the stair. Brooke stays. The chronicle goes back under the cloth. The bay is still not taken.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the reading, the horse, and the cloth going back.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked with the loaf in her hands, and kept the chamber for tomorrow.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked after the horse, and offered the cat a message he will not take.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "20s the quarter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The short loaf",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "3d the meal",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The short loaf",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Holinshed, second volume",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The short loaf",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Named Wednesday for the horse and tomorrow for the quarter",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "not beginning",
+    "a finger short",
+    "Wednesday's horse",
+    "the quarter tomorrow"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am reading. I am not beginning."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Wednesday, at first light, from the Bull."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I let you the room, Master Shakespeare. I did not undertake that the weather should remain outside the stair."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Here is the threepence for the meal."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+At the lodging you had the oath on the part in three plain terms: three years' study, one meal a day, and no woman within a mile of the court. You noted to say it plain if the door opened. You wrote Thursday at two, and that the refusal stays.

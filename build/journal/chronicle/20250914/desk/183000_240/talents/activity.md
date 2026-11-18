@@ -1,0 +1,1 @@
+Walking for the sake of your back, you came through the lane off Bishopsgate Street. The shutter was open. A pavan was taken slowly, with a hard place in the left hand that was stopped, and gone over, and played through. Then the lid shut. You stood no longer than a man might to get a stone out of his shoe. The leaf stayed blank.

@@ -1,0 +1,50 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "Between Aylesbury and Waddesdon you said the barley was to a man's knee, and that you would tell her the horse was dear when that was not why. You spoke a boy under a wall who must not answer too soon. You spoke no finished line. You meant to say the four words again before Grendon.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke while walking, and kept the scene unfinished.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Spoke of the boy under the wall",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "short barley",
+    "why you walked",
+    "the boy under the wall"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "She'll ask why I walked. I'll say the horse was dear"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "That's the whole of it. She thinks she's alone"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I shall lose this before Grendon"
+    }
+  ]
+}

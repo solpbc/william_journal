@@ -1,0 +1,93 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "After the afternoon you were out of the Two Gentlemen, and you did not name the part. Garnish said nothing was bought and that the K was unchanged. The Rose had a Wise Man. You did not go. Kemp kept the morning's terms. You still had no figure for his lines. Burbage had left the love speech at the stable wall.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named no part, kept the column numberless, and stayed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Closed the afternoon and left the speech at the stable wall.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the K unchanged and the Rose's bill.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the morning's courtesy and noted that Sam had taken no farthings.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Two Gentlemen of Verona",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in In the gentlemen",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Wise Man",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in In the gentlemen",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Came out of the Two Gentlemen",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Burbage",
+    "William Shakespeare",
+    "Abel Garnish",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the gentlemen",
+    "the K unchanged",
+    "the Wise Man"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I was in the gentlemen."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "The K is as I left it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "There is no figure, Will."
+    }
+  ]
+}

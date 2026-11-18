@@ -1,0 +1,85 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Cuthbert called from Holywell before his father was up. James had gone on Wednesday to a hall in the Blackfriars, the old friars' dining-room, stone, roofed, dry, and out of the Lord Mayor's reach. He came home walking like a man of thirty. He will not say what is asked. He holds up six fingers, and Cuthbert prays they are shillings. There is nothing to speak of. You did not name a price. He asked what manner of neighbours your printer keeps. You said respectable people, who like quiet, a sermon, and to be in bed by nine. He said you would be as welcome as a drum in Lent. You had not said so. You told him to tell his father that the king is at two, and to wear both cloaks.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a price, described the neighbours, and did not make a verdict.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Cuthbert Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called before his father was up, prayed the fingers were shillings, and kept the sum unsaid.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "the Blackfriars hall",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Six fingers",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard of a dry hall in the Blackfriars",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Cuthbert Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the hall",
+    "six fingers",
+    "no price",
+    "quiet neighbours",
+    "both cloaks"
+  ],
+  "quotes": [
+    {
+      "speaker": "cuthbert_burbage",
+      "text": "Master Shakespeare? Cuthbert Burbage. From Holywell, before my father is up."
+    },
+    {
+      "speaker": "cuthbert_burbage",
+      "text": "He'll not tell me what's asked. He holds up six fingers and I pray it's shillings."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Respectable. They like quiet, and a sermon, and to be abed by nine."
+    },
+    {
+      "speaker": "cuthbert_burbage",
+      "text": "Then we'd be as welcome as a drum in Lent."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I didn't say so."
+    },
+    {
+      "speaker": "cuthbert_burbage",
+      "text": "You didn't need to. God keep you."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "And you. Tell him the king's at two, and to wear both cloaks."
+    }
+  ]
+}

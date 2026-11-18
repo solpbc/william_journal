@@ -1,0 +1,1 @@
+At home you wrote that the lovers still stand as the pages stand, and that the first scene still bites a thumb. You have not cut it, and you have not copied it fair. The tradesmen stay in the chest. You will hear the three nights named before you mend a line. You did not go to the Theatre for the afternoon.

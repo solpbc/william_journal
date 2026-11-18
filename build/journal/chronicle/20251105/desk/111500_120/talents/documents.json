@@ -1,0 +1,44 @@
+{
+  "overview": "On the tables you wrote that the king stays in Shoreditch, and that you are to say nothing of the three leaves. You did not say the line aloud.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the line, and closed his hand on the tables."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the tables",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Shoreditch only",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the three leaves unsaid",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Wrote that the king stays in Shoreditch"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-05",
+      "meaning": "Say nothing of the three"
+    }
+  ],
+  "summary": "Wrote that the king stays in Shoreditch"
+}

@@ -1,0 +1,100 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "You told Garnish the morning was not a reading, and he copied nothing. You tried the street only as far as the first anger, then read two lines of Mab yourself. Nick waited, and did not speak the girl. Kemp was told to keep the napkin until the room would not clear.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a fair copy, and read the two lines.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the street hold, and saw the alderman's finger before the dream.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked which pages, and kept the napkin for later.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Waited, and did not speak her.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the street, and called two lines a thin breakfast.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought ink, and was told to copy nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not a reading",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Tried the street to the first anger and read two lines of Mab",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Will Kemp",
+    "Thomas Pope",
+    "Nick Sorrell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "not a reading",
+    "the street",
+    "two lines of Mab",
+    "no copy"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "This is not a reading."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "In shape no bigger then an Agot stone"
+    }
+  ]
+}

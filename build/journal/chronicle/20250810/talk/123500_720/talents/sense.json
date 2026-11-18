@@ -1,0 +1,98 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "After the children had gone into the lane, Anne put the penny loaf on the scale. It met the assize. She said so, and she would not say it prettier. She had already looked at the two pairs of hands and said nothing, and she left that as nothing. You did not explain it. Tuesday was not opened again: seven of the clock, twelve men, the ale on the cousin. You said you were taking the children to the water toward the middle of the afternoon. Judith Sadler saw the ink on your cuff and let it go when Anne said your mother had already named it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in The penny loaf met the assize",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in The penny loaf met the assize",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Sadler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in The penny loaf met the assize",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Sadler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in The penny loaf met the assize",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The penny loaf met the assize",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the cousin's ale",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The penny loaf met the assize",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Ate dinner at the Sadlers'",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "Hamnet Sadler",
+    "Judith Sadler",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the scale",
+    "four at the board",
+    "the cuff left alone",
+    "the middle of the afternoon"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "It meets the assize. That is the rest."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "I have said the scale, and I have said nothing about the hands"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Toward the middle of the afternoon I am taking the three of them to the water."
+    },
+    {
+      "speaker": "hamnet_sadler",
+      "text": "Seven of the clock. Twelve men. You are one."
+    }
+  ]
+}

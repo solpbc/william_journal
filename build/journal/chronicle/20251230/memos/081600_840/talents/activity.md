@@ -1,0 +1,1 @@
+You said the weaver's going and coming again, bigger, as if the wall were the yard. You said the feet would give the plot away before dinner. You kept the bellows-mender's line off your tongue until it was written.

@@ -1,0 +1,29 @@
+{
+  "narrative": "Brooke's octavo pinned open under a brass weight on the chamber board. A clean sheet lies to the right of it, with no ink. Gib is curled on the woollen cloth over the second volume of Holinshed. No face. The weight has not moved. The clean sheet is still blank. The paring-knife lies by the inkhorn. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Pinned the book and left the folio blank."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Slept on the cloth over the chronicle."
+    },
+    {
+      "type": "Tool",
+      "name": "Brooke's Romeus and Juliet",
+      "role": "mentioned",
+      "context": "Shown on book in Brooke, and the cat on the chronicle"
+    },
+    {
+      "type": "Tool",
+      "name": "Holinshed",
+      "role": "mentioned",
+      "context": "Shown on book in Brooke, and the cat on the chronicle"
+    }
+  ]
+}

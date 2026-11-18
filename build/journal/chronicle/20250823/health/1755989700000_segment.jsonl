@@ -1,0 +1,13 @@
+{"day": "20250823", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "102000_120", "stream": "desk", "ts": 1755989700000}
+{"change_class": "substantive", "day": "20250823", "event": "sense.change_detect", "mode": "segment", "segment": "102000_120", "stream": "desk", "ts": 1755989700001}
+{"day": "20250823", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "102000_120", "stream": "desk", "ts": 1755989700002}
+{"day": "20250823", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "102000_120", "stream": "desk", "ts": 1755989700003}
+{"day": "20250823", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "110000_120", "stream": "obsidian", "ts": 1755989700010}
+{"change_class": "substantive", "day": "20250823", "event": "sense.change_detect", "mode": "segment", "segment": "110000_120", "stream": "obsidian", "ts": 1755989700011}
+{"day": "20250823", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "110000_120", "stream": "obsidian", "ts": 1755989700012}
+{"day": "20250823", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "131000_180", "stream": "talk", "ts": 1755989700020}
+{"change_class": "substantive", "day": "20250823", "event": "sense.change_detect", "mode": "segment", "segment": "131000_180", "stream": "talk", "ts": 1755989700021}
+{"day": "20250823", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "131000_180", "stream": "talk", "ts": 1755989700022}
+{"day": "20250823", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "211000_120", "stream": "memos", "ts": 1755989700030}
+{"change_class": "substantive", "day": "20250823", "event": "sense.change_detect", "mode": "segment", "segment": "211000_120", "stream": "memos", "ts": 1755989700031}
+{"day": "20250823", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "211000_120", "stream": "memos", "ts": 1755989700032}

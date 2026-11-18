@@ -1,0 +1,108 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "At the inn you named the lovers as ten days short of a month, and yourself as the man who walks out between the degrees. Phillips put Nick under every note, grave and low, and refused him the note even if he is glad. A whisper in that hall is a speech. Burbage said he will not look away. Pope will do with the Nurse what my lord said a nurse would do, and he would not rehearse the sentence over breakfast. Heminges left last night's likeness out of the book. You told Sam that nine and about ten both still stand, and that indoors every hour is night. You did not call it a jig.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the age of the piece, the degrees, and the indoor night.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept Nick under the note and kept Sam off yesterday's feet.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Promised not to look away, and told you not to help the prologue.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the Nurse as the thing my lord named, and not as a breakfast speech.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused last night's likeness as a receipt, and kept the baskets.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked the two hours again, and was given a place rather than a choice.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Nodded, and did not sing.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Named the lovers as ten days short of a month",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Augustine Phillips",
+    "Richard Burbage",
+    "Thomas Pope",
+    "John Heminges",
+    "Sam Latchet"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "ten days short of a month",
+    "under the note",
+    "the prologue",
+    "no sum"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Ten days short of a month. That is the age of the lovers."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "I will not look away. Not once."
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "A whisper in that hall is a speech."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "A likeness is not a receipt."
+    }
+  ]
+}

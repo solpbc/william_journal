@@ -1,0 +1,39 @@
+{
+  "overview": "You looked at the letter and left it on the nail. It is still unfolded. It still names no day. You did not take it down to carry anywhere.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked, and left it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the letter still unfolded",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no day in it",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the letter",
+      "asset_type": "other",
+      "disposition": "Looked at the letter on the nail"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-13",
+      "meaning": "The sheet, still unfolded"
+    }
+  ],
+  "summary": "Looked at the letter on the nail"
+}

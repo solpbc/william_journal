@@ -1,0 +1,17 @@
+{
+  "narrative": "A short roll in his hand. The yard is filling beyond the door. The roll shut in the hand. He goes through the door.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Played the afternoon."
+    },
+    {
+      "type": "Project",
+      "name": "Richard III",
+      "role": "mentioned",
+      "context": "Shown on part in In the afternoon bill"
+    }
+  ]
+}

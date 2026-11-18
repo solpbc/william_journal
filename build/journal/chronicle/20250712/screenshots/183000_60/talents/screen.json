@@ -1,0 +1,17 @@
+{
+  "narrative": "The cup on the board, half-raised, Kemp's hand on it, the window behind going gold.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked at the cup."
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "context": "His hand is on the cup. He is not drinking."
+    }
+  ]
+}

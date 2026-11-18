@@ -1,0 +1,13 @@
+{"day": "20250715", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "073000_180", "stream": "desk", "ts": 1752620100000}
+{"change_class": "substantive", "day": "20250715", "event": "sense.change_detect", "mode": "segment", "segment": "073000_180", "stream": "desk", "ts": 1752620100001}
+{"day": "20250715", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "073000_180", "stream": "desk", "ts": 1752620100002}
+{"day": "20250715", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "073000_180", "stream": "desk", "ts": 1752620100003}
+{"day": "20250715", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "091000_240", "stream": "talk", "ts": 1752620100010}
+{"change_class": "substantive", "day": "20250715", "event": "sense.change_detect", "mode": "segment", "segment": "091000_240", "stream": "talk", "ts": 1752620100011}
+{"day": "20250715", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "091000_240", "stream": "talk", "ts": 1752620100012}
+{"day": "20250715", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "112000_720", "stream": "talk", "ts": 1752620100020}
+{"change_class": "substantive", "day": "20250715", "event": "sense.change_detect", "mode": "segment", "segment": "112000_720", "stream": "talk", "ts": 1752620100021}
+{"day": "20250715", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "112000_720", "stream": "talk", "ts": 1752620100022}
+{"day": "20250715", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "115000_720", "stream": "talk", "ts": 1752620100030}
+{"change_class": "substantive", "day": "20250715", "event": "sense.change_detect", "mode": "segment", "segment": "115000_720", "stream": "talk", "ts": 1752620100031}
+{"day": "20250715", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "115000_720", "stream": "talk", "ts": 1752620100032}

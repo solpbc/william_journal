@@ -1,0 +1,17 @@
+{
+  "narrative": "The penny almanac open at Friday. A printed line sits in the day's space. The pen has not touched it. Candle. No face. One line added beneath the printed moon. No sum beside it. No second house. The rest of the Friday space is blank. The pen is set in the gutter. Sunday's letter is at the edge of the desk, unfolded, and not in the almanac.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the Rose into Friday and did not write a sum."
+    },
+    {
+      "type": "Project",
+      "name": "Long Meg of Westminster",
+      "role": "mentioned",
+      "context": "Shown on almanac in To the yard"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Before the afternoon you opened Gaunt's roll at the speech the house already knows. The line on the paper is "This royall throne of Kings, this sceptred Ile,". Your margin says the deposition is not in this roll. You did not restore it.

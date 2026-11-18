@@ -1,0 +1,83 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "On the first free morning in six weeks you read standing at three stalls and bought nothing. Harrison told you the Venus moves and the Lucrece is respected, and that he has scarce a dozen Lucrece left before the lawyers come in. You said you had been busy with a comedy. He looked as a man looks who has been told of an illness. The Walk was all of a wedding at Greenwich on Sunday. You left it as news.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read standing, bought nothing, and did not promise a third poem.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Harrison",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said how the two poems sell, and named the dozen Lucrece he has left.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Venus and Adonis",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Venus moves",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Lucrece",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Venus moves",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Venus moves",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Heard how the two poems go",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Harrison",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the two poems",
+    "a third poem",
+    "the wedding as news"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_harrison",
+      "text": "Your Venus moves, Master Shakespeare. The Lucrece is\u2026 respected."
+    },
+    {
+      "speaker": "john_harrison",
+      "text": "They ask for the poem. That is the better sort of asking."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have been busy with a comedy."
+    }
+  ]
+}

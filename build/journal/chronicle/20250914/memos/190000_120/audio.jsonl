@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "19:00:00", "text": "Home, then.", "timing": {"end": 8.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "19:00:08", "text": "She goes over the hard place till it isn't one.", "timing": {"end": 18.0, "start": 8.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "19:00:18", "text": "I know no one else who does that. I know one.", "timing": {"end": 28.0, "start": 18.0}}

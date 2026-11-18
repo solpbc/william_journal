@@ -1,0 +1,29 @@
+{
+  "narrative": "A narrow day-book lies open on the counter at the White Greyhound. Harrison's finger is on a fresh line. The churchyard beyond the stall-board is bright and thin of black gowns. The same line, closer. The ink is darker than the lines above it. There is no seal and no second hand. It is a bookseller's note of what he was told.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the note and left it on the counter."
+    },
+    {
+      "type": "Person",
+      "name": "John Harrison",
+      "role": "mentioned",
+      "context": "Held the day-book open at the fresh line."
+    },
+    {
+      "type": "Project",
+      "name": "Edward III",
+      "role": "mentioned",
+      "context": "Shown on book in A title, and no name"
+    },
+    {
+      "type": "Tool",
+      "name": "6d the Hall",
+      "role": "mentioned",
+      "context": "Shown on book in A title, and no name"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{"accuracy":"full","fix_count":3,"gap":false,"kind":"location","platform":"ios","schema":"solstone.location.segment/1","source":"location","tier":"balanced"}
+{"alt":null,"course":null,"h_acc":10.0,"lat":52.1945,"lon":-1.7068,"schema":"solstone.location.fix/1","speed":null,"stationary":true,"t":"2025-08-12T06:00:00Z","v_acc":null}
+{"alt":null,"course":null,"h_acc":10.0,"lat":52.1945,"lon":-1.7068,"schema":"solstone.location.fix/1","speed":null,"stationary":true,"t":"2025-08-12T06:02:00Z","v_acc":null}
+{"alt":null,"course":null,"h_acc":10.0,"lat":52.1945,"lon":-1.7068,"schema":"solstone.location.fix/1","speed":null,"stationary":true,"t":"2025-08-12T06:04:00Z","v_acc":null}
+{"arrival":"2025-08-12T06:00:00Z","departure":"2025-08-12T09:40:00Z","h_acc":12,"lat":52.1945,"lon":-1.7068,"schema":"solstone.location.visit/1"}

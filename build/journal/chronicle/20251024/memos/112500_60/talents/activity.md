@@ -1,0 +1,1 @@
+At the lodging door, home from the Theatre, you said you would not cut her and you would not write her a line lower. Six weeks is the time you named. You did not turn it into a date. You told the boy to hold. You were not in a street.

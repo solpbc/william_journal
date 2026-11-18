@@ -1,0 +1,1 @@
+You were not in the shrew. You told John the hour, Tuesday at ten, and the twelve pence, and you said the twelve pence does not come off the share. Cowley did not take a part, and he did not ask which cut stands. John had read The Disguises on the Rose bill. You did not go. You went home for the bran. Tomorrow you are in Titus.

@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At dusk you said two days. Let it hold till Thursday. Then Yaxley may have the tooth, and welcome. You did not go, and you did not name any day but Thursday.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the memo through a thick jaw, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the tooth",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Let it hold",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Gave the tooth two days",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two days",
+    "Thursday",
+    "Yaxley after"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Let it hold till Thursday. Then let Yaxley have it, and welcome."
+    }
+  ]
+}

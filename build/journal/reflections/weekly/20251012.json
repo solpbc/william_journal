@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20251012",
+    "end": "20251018"
+  },
+  "generated_at": "2025-10-18T22:00:00Z",
+  "days": [
+    {
+      "day": "20251012",
+      "state": "memory",
+      "memory_id": "m-20251012-0"
+    },
+    {
+      "day": "20251013",
+      "state": "memory",
+      "memory_id": "m-20251013-1"
+    },
+    {
+      "day": "20251014",
+      "state": "memory",
+      "memory_id": "m-20251014-2"
+    },
+    {
+      "day": "20251015",
+      "state": "memory",
+      "memory_id": "m-20251015-3"
+    },
+    {
+      "day": "20251016",
+      "state": "memory",
+      "memory_id": "m-20251016-4"
+    },
+    {
+      "day": "20251017",
+      "state": "memory",
+      "memory_id": "m-20251017-5"
+    },
+    {
+      "day": "20251018",
+      "state": "memory",
+      "memory_id": "m-20251018-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20251012-0",
+      "key": "mem_20251012_0",
+      "day": "20251012",
+      "text": "Soft food, and a laugh with a hand on the jaw. Evening prayer was already said at the table. Bed by eight, and the jaw woke you in the night.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251012/talents/morning_briefing",
+        "briefing_day": "20251012",
+        "refs": [
+          "sol://facets/household/activities/20251012#frame_091000_240",
+          "sol://facets/household/activities/20251012#meeting_160000_480",
+          "sol://facets/household/activities/20251012#photo_161500_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20251013-1",
+      "key": "mem_20251013_1",
+      "day": "20251013",
+      "text": "Eleven lines struck in the Friar's cell. The second cut stands. Gilbert is twenty-nine. The cheese stays with him. Yaxley at ten.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251013/talents/morning_briefing",
+        "briefing_day": "20251013",
+        "refs": [
+          "sol://facets/writing/activities/20251013#frame_064000_360",
+          "sol://facets/company/activities/20251013#meeting_090000_360",
+          "sol://facets/stratford/activities/20251013#call_183000_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20251014-2",
+      "key": "mem_20251014_2",
+      "day": "20251014",
+      "text": "One word, weaver. The tooth is out. Twelve pence to the barber. Alse went up once with salt water.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251014/talents/morning_briefing",
+        "briefing_day": "20251014",
+        "refs": [
+          "sol://facets/writing/activities/20251014#memo_021500_120",
+          "sol://facets/writing/activities/20251014#frame_022000_60",
+          "sol://facets/household/activities/20251014#meeting_100500_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20251015-3",
+      "key": "mem_20251015_3",
+      "day": "20251015",
+      "text": "Pope has Thursday. A king and a custard. The Rose has a woman and a wonder.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251015/talents/morning_briefing",
+        "briefing_day": "20251015",
+        "refs": [
+          "sol://facets/company/activities/20251015#meeting_113000_480",
+          "sol://facets/company/activities/20251015#frame_115000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20251016-4",
+      "key": "mem_20251016_4",
+      "day": "20251016",
+      "text": "You stayed in. Thomas has the king. The jaw is tender.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251016/talents/morning_briefing",
+        "briefing_day": "20251016",
+        "refs": [
+          "sol://facets/company/activities/20251016#frame_091000_120",
+          "sol://facets/household/activities/20251016#meeting_123000_360",
+          "sol://facets/writing/activities/20251016#memo_142000_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20251017-5",
+      "key": "mem_20251017_5",
+      "day": "20251017",
+      "text": "You shut a dawn already written. Sir Thomas died this day. The line asks who pays. The Chaucer waits.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251017/talents/morning_briefing",
+        "briefing_day": "20251017",
+        "refs": [
+          "sol://facets/writing/activities/20251017#frame_100000_240",
+          "sol://facets/company/activities/20251017#call_190000_180",
+          "sol://facets/household/activities/20251017#meeting_191000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20251018-6",
+      "key": "mem_20251018_6",
+      "day": "20251018",
+      "text": "Thirty-six shillings. Three galleries. The hem is muddy. The cat was on your feet.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251018/talents/morning_briefing",
+        "briefing_day": "20251018",
+        "refs": [
+          "sol://facets/company/activities/20251018#meeting_162000_480",
+          "sol://facets/household/activities/20251018#meeting_171000_480",
+          "sol://facets/household/activities/20251018#frame_174000_120"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20251012-0",
+      "key": "said_20251012_0",
+      "day": "20251012",
+      "quote": "And the apple is split, and it steams, and it is soft as a compliment. I am tired of being spared.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20251012#meeting_160000_480"
+      }
+    },
+    {
+      "id": "s-20251012-1",
+      "key": "said_20251012_1",
+      "day": "20251012",
+      "quote": "Laughing is not the thing that hurts.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20251012#meeting_160000_480"
+      }
+    },
+    {
+      "id": "s-20251013-2",
+      "key": "said_20251013_2",
+      "day": "20251013",
+      "quote": "The Friar was irritable at first light, and I was worse. I struck eleven lines. I kept none.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251013#meeting_090000_360"
+      }
+    },
+    {
+      "id": "s-20251014-3",
+      "key": "said_20251014_3",
+      "day": "20251014",
+      "quote": "And then one figure that is all three. A weaver who will play the lover and the lady and the lion, with an ass's head on him, very solemn about it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251014#memo_021500_120"
+      }
+    },
+    {
+      "id": "s-20251014-4",
+      "key": "said_20251014_4",
+      "day": "20251014",
+      "quote": "Gone. A month's tyrant, and no bigger than a pea.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251014#memo_174000_60"
+      }
+    },
+    {
+      "id": "s-20251015-5",
+      "key": "said_20251015_5",
+      "day": "20251015",
+      "quote": "Let them. We've a king and a custard.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251015#meeting_113000_480"
+      }
+    },
+    {
+      "id": "s-20251017-6",
+      "key": "said_20251017_6",
+      "day": "20251017",
+      "quote": "I will not pretend I have lost a friend. A name has gone off a paper. That is what I have lost.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251017#call_190000_180"
+      }
+    },
+    {
+      "id": "s-20251018-7",
+      "key": "said_20251018_7",
+      "day": "20251018",
+      "quote": "Then leave it unsaid. An unsaid thing is more use than a false comfort.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251018#meeting_162000_480"
+      }
+    }
+  ]
+}

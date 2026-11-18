@@ -1,0 +1,45 @@
+{
+  "overview": "You wrote four lines and no name over them, no number, and no title. They begin How oft when thou my musike musike playst. You did not set a name on the leaf, and you did not speak the lines in the room where she played.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the four lines and did not sign them."
+    },
+    {
+      "name": "the lady of the parish",
+      "role": "mentioned",
+      "formal_term": "the lady of the parish",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote four lines under the date"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "four lines",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no name",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no title",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-22",
+      "meaning": "Four lines, unaddressed"
+    }
+  ],
+  "summary": "Wrote four lines under the date"
+}

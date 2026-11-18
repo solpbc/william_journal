@@ -1,0 +1,13 @@
+{"day": "20250427", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "123000_480", "stream": "talk", "ts": 1745794500000}
+{"change_class": "substantive", "day": "20250427", "event": "sense.change_detect", "mode": "segment", "segment": "123000_480", "stream": "talk", "ts": 1745794500001}
+{"day": "20250427", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "123000_480", "stream": "talk", "ts": 1745794500002}
+{"day": "20250427", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "131000_240", "stream": "desk", "ts": 1745794500010}
+{"change_class": "substantive", "day": "20250427", "event": "sense.change_detect", "mode": "segment", "segment": "131000_240", "stream": "desk", "ts": 1745794500011}
+{"day": "20250427", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "131000_240", "stream": "desk", "ts": 1745794500012}
+{"day": "20250427", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "131000_240", "stream": "desk", "ts": 1745794500013}
+{"day": "20250427", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "182000_360", "stream": "talk", "ts": 1745794500020}
+{"change_class": "substantive", "day": "20250427", "event": "sense.change_detect", "mode": "segment", "segment": "182000_360", "stream": "talk", "ts": 1745794500021}
+{"day": "20250427", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "182000_360", "stream": "talk", "ts": 1745794500022}
+{"day": "20250427", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "212000_360", "stream": "obsidian", "ts": 1745794500030}
+{"change_class": "substantive", "day": "20250427", "event": "sense.change_detect", "mode": "segment", "segment": "212000_360", "stream": "obsidian", "ts": 1745794500031}
+{"day": "20250427", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "212000_360", "stream": "obsidian", "ts": 1745794500032}

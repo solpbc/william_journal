@@ -1,0 +1,34 @@
+{
+  "density": "idle",
+  "content_type": "reading",
+  "activity_summary": "You looked at the foot of the leaf until the fire settled, and then you looked toward the press-room. You had not written under the question.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "attendee in Looked at the blank under the queen's question",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Held the morning's leaf open by the fire",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the foot of the leaf",
+    "the dark press-room"
+  ],
+  "quotes": []
+}

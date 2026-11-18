@@ -1,0 +1,23 @@
+{
+  "narrative": "From the tiring-house door. Kemp as Launce, a rope's end in his hand, nothing tied to it. The yard is beyond the door. The rope's end against the stage. No animal. He is still in the door.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Stood in the door, and did not go on."
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "context": "Played Launce to an empty rope. He was not spoken with."
+    },
+    {
+      "type": "Project",
+      "name": "The Two Gentlemen of Verona",
+      "role": "mentioned",
+      "context": "Shown on stage in An empty rope"
+    }
+  ]
+}

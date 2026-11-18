@@ -1,0 +1,60 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Between the rent and the play you went down to Old Swan in the sleet. You held the canvas and Gannet knotted it over the tilt-boat's hoops. He confirmed Wednesday's flood, six oars and himself. He also had it that she will not go to Richmond at all, that the river freezes by Friday, and that the Spaniard is coming. You told him three stories made him wrong by a third, and you did not yet know which third. Your cloak was soaked on the weather side.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the canvas, named the paper, and refused to sort the three stories yet.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Davy Gannet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Knotted the lashing, confirmed the flood, and delivered three stories.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Held the canvas while Gannet knotted it on the tilt-boat",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Davy Gannet",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the tilt-boat",
+    "Wednesday's flood",
+    "six oars",
+    "three stories"
+  ],
+  "quotes": [
+    {
+      "speaker": "davy_gannet",
+      "text": "Wednesday's flood, six oars, and myself at the stern. If the Queen leaves any water in the river."
+    },
+    {
+      "speaker": "davy_gannet",
+      "text": "She will not go to Richmond at all. The river freezes by Friday. The Spaniard has heard of the weather and is coming."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Three stories, Davy. You are wrong by a third, and I do not yet know which third."
+    }
+  ]
+}

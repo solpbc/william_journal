@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You said the eleven pounds are his joy, and that you are not writing them. Nobody startles the boy. Tomorrow is three plays, and no surprise from you. The leaves stay where they are until you have seen the book.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the line, and named tomorrow.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "eleven pounds",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not a line in the book",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Left John's eleven pounds out of the book",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "eleven pounds unwritten",
+    "the boy not startled",
+    "three plays"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Eleven pound of a Thursday is his joy. I am not writing it."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+At home you left the reckoning as it was written. The fifty shillings and the eight shillings stay unpaid. The twopence stays yours. You did not turn the evening into tomorrow's walk or tomorrow's church.

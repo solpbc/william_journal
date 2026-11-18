@@ -1,0 +1,59 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You left Saturday's sheet at home because you play this afternoon. The glass in its cloth is for the Jackdaw. Mistress Ansell's copper is on, and you do not buy the ink.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Left the sheet, and did not buy the ink.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Had the copper on. She did not come up.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The street stays on the board",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the pearwood glass",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The street stays on the board",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Left Saturday's sheet at home and set the glass aside",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the sheet left home",
+    "the glass in a cloth",
+    "Monday's copper"
+  ],
+  "quotes": []
+}

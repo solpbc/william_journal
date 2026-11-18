@@ -1,0 +1,45 @@
+{
+  "overview": "The almanac says Edmund is fifteen today. You read the square in the morning. The letter is for tonight, after the house.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the age and shut the almanac."
+    },
+    {
+      "name": "Edmund Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Edmund Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Is fifteen today, and was not in the room."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Edmund's day",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "fifteen",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the letter not yet",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-03",
+      "meaning": "Edmund, xv"
+    }
+  ],
+  "summary": "Read Edmund's day in the almanac"
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "With both locks open you wrote two lines and nothing under them. Thirty-seven shillings for the week's playing. Twelve shillings and sixpence of Sir Edward's, beside it. You did not add them. You did not count the coffer. You did not give the glass a line.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the two lines, and did not cast a total."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "both locks",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "two lines",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no total",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the coffer uncounted",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-13",
+      "meaning": "Two lines, and no underneath"
+    }
+  ],
+  "summary": "Wrote the two lines and stopped"
+}

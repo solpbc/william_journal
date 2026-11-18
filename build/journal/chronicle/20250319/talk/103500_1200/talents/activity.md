@@ -1,0 +1,1 @@
+In the shop Field told you that plays are a waste, and a waste with a crowd in it. He used you. Jacqueline moved a wet quire off your sleeve and would not carry the lecture upstairs. You did not defend the playhouse on the shop floor. Daniel at two shillings stayed unbought. The second volume is a loan, not a gift, and you had not held it yet.

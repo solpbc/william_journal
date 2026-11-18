@@ -1,0 +1,23 @@
+{
+  "narrative": "A player's roll opened on the book-keeper's desk behind the arras. A fair secretary hand that is not yours. Cue-words ranged right after a long rule, the speech under it. The name at the head is Gaunt. One surface.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read his own lines in another hand."
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "context": "Named by the copy. Not pictured."
+    },
+    {
+      "type": "Project",
+      "name": "Richard the Second",
+      "role": "mentioned",
+      "context": "Shown on part in Gaunt, in another man's hand"
+    }
+  ]
+}

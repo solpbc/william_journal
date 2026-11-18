@@ -1,0 +1,17 @@
+{
+  "narrative": "The foul sheet on the bench in apple-shade, the stone lifted off the first lines and set on the plank. No pen in a hand. No face. The paper shifted under a thumb at the corner. The inkhorn stays in the knot-hole. No new stroke in the margin. Two further sheets turned and left open on a blot. The hand does not take the pen from the knot-hole. No face. Lower on the first sheet again. The moon line is clear. Nothing is struck and nothing is added.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read what was already written, and did not take up the pen."
+    },
+    {
+      "type": "Project",
+      "name": "the orchard scene",
+      "role": "mentioned",
+      "context": "Shown on draft in Read the foul sheets"
+    }
+  ]
+}

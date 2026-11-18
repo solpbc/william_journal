@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote the pause as one word in the margin. You did not add a second mark, and you did not add a promise.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the word and closed the leaf.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the pause",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The word pause",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote one word in the margin",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the margin",
+    "the one word"
+  ],
+  "quotes": []
+}

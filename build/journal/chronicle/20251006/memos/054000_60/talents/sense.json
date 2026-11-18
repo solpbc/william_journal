@@ -1,0 +1,55 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At the window you said two-and-twenty, and that nothing goes this year, and that it will not be missed. Then you corrected yourself. The matter is the girl waiting for night, and Shoreditch by nine. You named no one. You sent nothing.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke at the window, named no one, and sent nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Holborn",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nothing goes",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said two-and-twenty, and named the girl and nine",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two-and-twenty",
+    "nothing sent",
+    "the girl",
+    "nine at Shoreditch"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Two-and-twenty today, at Holborn or wherever the court lies."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No. The whole of the matter is that I've a girl waiting for night in the third act and must be at Shoreditch by nine."
+    }
+  ]
+}

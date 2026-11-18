@@ -1,0 +1,12 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "cuthbert_burbage", "start": "08:10:00", "text": "Master Shakespeare? Cuthbert Burbage. From Holywell.", "timing": {"end": 8.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:10:08", "text": "Master Burbage. I hear you. What is the matter?", "timing": {"end": 16.0, "start": 8.0}}
+{"sentence_id": 3, "speaker": "cuthbert_burbage", "start": "08:10:16", "text": "My father was up half the night, walking round the playhouse with a lantern. The matter is wood. A timber house in the fields, and a city in this temper.", "timing": {"end": 32.0, "start": 16.0}}
+{"sentence_id": 4, "speaker": "cuthbert_burbage", "start": "08:10:32", "text": "Two hired men are to sleep in the tiring-house from tonight, at sixpence each. The yard gates are to be chained after the play.", "timing": {"end": 46.0, "start": 32.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "08:10:46", "text": "Two men, and a chain. That is plain enough. And the flag?", "timing": {"end": 54.0, "start": 46.0}}
+{"sentence_id": 6, "speaker": "cuthbert_burbage", "start": "08:10:54", "text": "My father would fly it higher. I would have it down on days there is trouble, since a white swan is a thing to throw at.", "timing": {"end": 68.0, "start": 54.0}}
+{"sentence_id": 7, "speaker": "william_shakespeare", "start": "08:11:08", "text": "Keep it up. A house that hides looks guilty.", "timing": {"end": 76.0, "start": 68.0}}
+{"sentence_id": 8, "speaker": "cuthbert_burbage", "start": "08:11:16", "text": "That's my father's opinion. I didn't think to hear it from the poet.", "timing": {"end": 86.0, "start": 76.0}}
+{"sentence_id": 9, "speaker": "william_shakespeare", "start": "08:11:26", "text": "It was Heminges's first.", "timing": {"end": 92.0, "start": 86.0}}
+{"sentence_id": 10, "speaker": "cuthbert_burbage", "start": "08:11:32", "text": "Then it's three to one. God keep you.", "timing": {"end": 100.0, "start": 92.0}}
+{"sentence_id": 11, "speaker": "william_shakespeare", "start": "08:11:40", "text": "And you.", "timing": {"end": 110.0, "start": 100.0}}

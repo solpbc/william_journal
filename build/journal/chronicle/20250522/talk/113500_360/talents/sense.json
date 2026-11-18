@@ -1,0 +1,64 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Mistress Ansell would not let you sit floured. You told her the book is old and you play the dead king at two. She made you wash the hand that eats and left the hair until after the play. Dinner is threepence. Alse said she would sweep the step and not the king.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Washed the hand and took the floured hair back out.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused him a chair in that state, and priced dinner at threepence.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Offered to sweep the step and not the man.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Washed the eating hand and kept the flour in the hair",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "flour on the stair",
+    "the hand that eats",
+    "threepence"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Wash the hand that eats."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The hair goes back as it is."
+    }
+  ]
+}

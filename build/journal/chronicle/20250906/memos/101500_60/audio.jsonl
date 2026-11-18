@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "10:15:00", "text": "In July I said they jest first and then somebody's out. I didn't know it would be him.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "10:15:14", "text": "Phillips will never forgive me. Best part in it, and dead by three o'clock.", "timing": {"end": 24.0, "start": 14.0}}

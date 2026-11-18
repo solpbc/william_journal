@@ -1,0 +1,69 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Yaxley sat you by the window and looked. The villain is lower left, dug in like a cellar. The gum is proud, and matter is gathering. He will not draw it while the swelling is hot. Hot bran for two nights, salt water, and Tuesday at ten. Twelve pence, thanked after and not during. You asked for Lent. It could wait. You could not. You are not cast on Tuesday, and you took the hour. You did not pay him. You came yourself. Nobody had sent you.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for today and for Lent, accepted Tuesday at ten, and did not pay.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Barnaby Yaxley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the villain, refused the hot drawing, and set the price and the hour.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "twelve pence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The villain, lower left",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard Yaxley refuse to draw the tooth, and took Tuesday at ten",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Barnaby Yaxley",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "lower left",
+    "the cellar",
+    "Tuesday at ten",
+    "twelve pence",
+    "two nights of bran"
+  ],
+  "quotes": [
+    {
+      "speaker": "barnaby_yaxley",
+      "text": "There's your villain. Lower left, and he's dug himself a cellar."
+    },
+    {
+      "speaker": "barnaby_yaxley",
+      "text": "Twelve pence, and you'll thank me after."
+    },
+    {
+      "speaker": "barnaby_yaxley",
+      "text": "It could. You couldn't."
+    }
+  ]
+}

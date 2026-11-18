@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Leaving the Bear, you named thirty-six miles to High Wycombe and decided not to bait at Oxford. You did not name a price for the bed or the provender.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Chose the through ride, and did not price the night behind him.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Left the Bear and set the ride through Oxford",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Bear",
+    "thirty-six miles",
+    "no bait at Oxford"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not bait at Oxford."
+    }
+  ]
+}

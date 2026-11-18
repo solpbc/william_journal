@@ -1,0 +1,44 @@
+{
+  "overview": "You read the old Roman's part at home. He is dead by the fourth act, and he does not come on again. You did not add a line.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the part and put it down."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "an old Roman",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the fourth act",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "an exit",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Titus",
+      "asset_type": "other",
+      "disposition": "Read the old Roman's part that ends in the fourth act"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-19",
+      "meaning": "An old Roman"
+    }
+  ],
+  "summary": "Read the old Roman's part that ends in the fourth act"
+}

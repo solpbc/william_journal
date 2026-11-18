@@ -1,0 +1,111 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Master Thwaite gave All Saints in one glass, because the wardens had spoken to him. The saints are a cloud of witnesses, to be followed and not sued to. He will not say it again at evening prayer. Sir John sat his pew and did not speak, and there was no sword-bearer. You are Egeon at two. You have not been down to the gate. The loaf is a penny and a full thumb short of the notch. You did not argue it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted one glass, named Egeon, and refused the gate and the loaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Preached once, to the wardens' length, and would not say it again.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept supper off the porch, named the empty sword-place, and priced the loaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the ink for Monday and did not collect a conversation.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the upper window was dark and there were no halberds.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat his pew, did not speak, and had no sword-bearer.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in One glass",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in One glass",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard All Saints in one glass",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "William Shakespeare",
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one glass",
+    "the cloud of witnesses",
+    "no sword-bearer",
+    "Egeon at two"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "A cloud of witnesses, to be followed. Not sued to."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "There is no sword-bearer at the end of it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have not been down to the gate."
+    }
+  ]
+}

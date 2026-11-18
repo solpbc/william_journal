@@ -1,0 +1,35 @@
+{
+  "narrative": "The stage in the morning, the book open on a stool, and no new paper beside it. Gaunt's place is the chair. Nothing is pinned over yesterday's cue.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Brought nothing new to the book."
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "context": "Kept the book as it was."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "context": "Kept the king, and is in the picture only as the man the cues belong to."
+    },
+    {
+      "type": "Project",
+      "name": "Gaunt",
+      "role": "mentioned",
+      "context": "Shown on stage in Gaunt, as the book stands"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "context": "Shown on stage in Gaunt, as the book stands"
+    }
+  ]
+}

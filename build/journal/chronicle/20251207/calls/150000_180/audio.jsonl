@@ -1,0 +1,14 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "ambrose_kettleby", "start": "15:00:00", "text": "Master Shakespeare? Kettleby. From Somerset House, and on the Sabbath, for which I ask your pardon and not my lord's.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "15:00:14", "text": "You have the pardon, sir. Say the errand.", "timing": {"end": 22.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "ambrose_kettleby", "start": "15:00:22", "text": "My lord's son-in-law, Sir Edward Hoby, keeps a supper on Tuesday at his house in Canon Row, for a guest he is particular to please. He has written this day to bid you.", "timing": {"end": 40.0, "start": 22.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "15:00:40", "text": "To bid the company, or to bid me?", "timing": {"end": 46.0, "start": 40.0}}
+{"sentence_id": 5, "speaker": "ambrose_kettleby", "start": "15:00:46", "text": "The company, after supper, with the king play.", "timing": {"end": 54.0, "start": 46.0}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "15:00:54", "text": "The king, sir? My lord said in plain words\u2014", "timing": {"end": 62.0, "start": 54.0}}
+{"sentence_id": 7, "speaker": "ambrose_kettleby", "start": "15:01:02", "text": "My lord said not at court. This is a gentleman's parlour, behind a gentleman's door, and the gentleman is his daughter's husband.", "timing": {"end": 86.0, "start": 62.0}}
+{"sentence_id": 8, "speaker": "ambrose_kettleby", "start": "15:01:26", "text": "Sir Edward has heard there is more of the play than Shoreditch has been let see. He desires it whole.", "timing": {"end": 100.0, "start": 86.0}}
+{"sentence_id": 9, "speaker": "william_shakespeare", "start": "15:01:40", "text": "Whole.", "timing": {"end": 104.0, "start": 100.0}}
+{"sentence_id": 10, "speaker": "ambrose_kettleby", "start": "15:01:44", "text": "I repeat a word; I do not advise upon it. Come by water at five. Twelve at table, and a small room.", "timing": {"end": 120.0, "start": 104.0}}
+{"sentence_id": 11, "speaker": "william_shakespeare", "start": "15:02:00", "text": "Does my lord know whose guest it is?", "timing": {"end": 128.0, "start": 120.0}}
+{"sentence_id": 12, "speaker": "ambrose_kettleby", "start": "15:02:08", "text": "My lord knows whose house it is. God keep you.", "timing": {"end": 136.0, "start": 128.0}}
+{"sentence_id": 13, "speaker": "william_shakespeare", "start": "15:02:16", "text": "And you, sir.", "timing": {"end": 146.0, "start": 136.0}}

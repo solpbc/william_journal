@@ -1,0 +1,56 @@
+{
+  "overview": "You began on a clean sheet, in the street, with a serving-man's boast. One speech is down. There is no blot. Brooke is still open. The Lent blank is still blank. Gib is still on the Golding.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the opening line on a clean sheet."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Stayed asleep on the Golding."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the first speech",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no blot",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the blank still open",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Romeo and Juliet",
+      "asset_type": "other",
+      "disposition": "Started with a serving-man's boast"
+    },
+    {
+      "name": "Brooke's Romeus and Juliet",
+      "asset_type": "other",
+      "disposition": "Started with a serving-man's boast"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-05",
+      "meaning": "Gregorie"
+    }
+  ],
+  "summary": "Started with a serving-man's boast"
+}

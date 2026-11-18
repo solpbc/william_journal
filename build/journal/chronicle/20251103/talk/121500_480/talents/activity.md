@@ -1,0 +1,1 @@
+Mistress Ansell boiled the Monday ink from galls, copperas, and gum, and filled the horn at twopence. You ate at the board for threepence. You told her only that a letter in the play never came. Gib stayed on the Holinshed. You did not open Field's book. You were cast in the Navarre comedy at two.

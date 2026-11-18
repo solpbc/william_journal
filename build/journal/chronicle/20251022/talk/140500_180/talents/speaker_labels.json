@@ -1,0 +1,22 @@
+{
+  "labels": [
+    {
+      "sentence_id": 1,
+      "speaker": "william_shakespeare",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 2,
+      "speaker": "margery_pell",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 3,
+      "speaker": "john_heminges",
+      "method": "user_assigned",
+      "confidence": "high"
+    }
+  ]
+}

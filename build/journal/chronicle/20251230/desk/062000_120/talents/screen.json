@@ -1,0 +1,17 @@
+{
+  "narrative": "The penny almanac open on the desk beside the candle. One printed day. His mark beside it is short. No hour is written by the hand. The next leaf is the last of the year. The same short mark. He does not add a title.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the two lines and left them."
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in Read Tuesday and Wednesday in the almanac"
+    }
+  ]
+}

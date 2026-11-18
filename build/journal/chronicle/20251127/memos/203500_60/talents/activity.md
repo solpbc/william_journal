@@ -1,0 +1,1 @@
+At home you said that tomorrow the Theatre plays Fair Em, and that you are not in it. You mean to stand in the Rose yard. The bill is a king of that name. The joke is crossed. The men stay men. You did not light another page.

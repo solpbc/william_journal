@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "With the lid down you said six words. Kept. Not given. That's a kind. You did not name anyone. You did not untie the tape.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the six words, and stopped.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Shut the lid and called the leaves kept",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "six words",
+    "kept",
+    "not given",
+    "the lid down"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Kept. Not given. That's a kind."
+    }
+  ]
+}

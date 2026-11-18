@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At early church Alse showed the band washed white. Mistress Ansell looked at the fold and was satisfied. You did not stay for a sermon in the porch.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the one band and left the sermon unmade.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Checked the fold and took them in.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed the washed band.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the blue band",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The band is white",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Saw the band white",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the white band",
+    "Ascension morning",
+    "no sermon in the porch"
+  ],
+  "quotes": [
+    {
+      "speaker": "alse_pinder",
+      "text": "It is white, mistress. I washed it before we came."
+    }
+  ]
+}

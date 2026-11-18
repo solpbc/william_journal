@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:10:00", "text": "Tell her mine opinion. I said I would.", "timing": {"end": 10.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:10:10", "text": "I have been saying the rest of it to the plaster.", "timing": {"end": 22.0, "start": 10.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:10:22", "text": "The plaster has not got anyone to answer.", "timing": {"end": 32.0, "start": 22.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "21:10:32", "text": "...Enough.", "timing": {"end": 42.0, "start": 32.0}}

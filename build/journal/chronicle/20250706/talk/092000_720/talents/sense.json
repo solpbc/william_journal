@@ -1,0 +1,85 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You stood in the porch after a sermon of one turn. Master Thwaite had read the heads of Friday's proclamation. The Mayor's pew had halberds and a new man behind. You saw the empty pew in the north aisle and said you would put no cross in the almanac. A neighbour said half the better sort had gone out of the City. Sir John spoke only the responses.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Looked once, and refused the mark.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read the heads and stopped when the glass was done.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Let you look once, and took you toward dinner.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Stood behind the halberds and gave the responses. He did not speak to you.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the proclamation",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in One turning of the glass",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood through one turn of the sermon",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one turn of the glass",
+    "the proclamation's heads",
+    "an empty pew",
+    "no cross"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "The heads, and then one turning"
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "You may look once"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No cross. The mark is for a day I see her"
+    }
+  ]
+}

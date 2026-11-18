@@ -1,0 +1,1 @@
+Three books lay signed for Richmond: the twenty-sixth, the twenty-seventh, and the twenty-eighth. Love's Labour's Lost, the lovers, and the Errors. No book of the king was on the table, and you did not put one there.

@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "(a yeoman)", "start": "09:40:00", "text": "Twelve pence, and in behind the barrier. You will see the splinters. You will not see the faces.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "09:40:14", "text": "Twelve pence. I am not come for a face.", "timing": {"end": 24.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "(a yeoman)", "start": "09:40:24", "text": "Far down. The staves stay crosswise. Do not lean on them.", "timing": {"end": 34.0, "start": 24.0}}

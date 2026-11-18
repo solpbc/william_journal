@@ -1,0 +1,17 @@
+{
+  "narrative": "A foul sheet on the board, the top drier than the tail. The chronicle is shut at the left, clear of the cat. No glass in the room. Under the last speech a line is struck once. The quill slipped. The struck words can still be read. The right forefinger is inked. The right margin, in a smaller hand, a cross beside it, empty paper under the cross. Two new lines under the cross, then the pen set in the fold. Nothing below them.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote, struck one line, and put the pen down before the leaf was full."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in Down off the wall, and no glass"
+    }
+  ]
+}

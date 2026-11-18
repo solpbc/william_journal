@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Yaxley set you on a joined stool, with a boy to hold your shoulders, and told you to hold the stool and think on your sins. You named pride, and you got as far as the second sin and no further. He showed you the tooth, three roots like a small black claw, and you would not keep it. The price was twelve pence. You left with a clout at the jaw.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the stool, refused the tooth, and paid the twelve pence.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Barnaby Yaxley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Drew the tooth, showed the three roots, and charged twelve pence.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the pelican",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Hold the stool",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the joined stool",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Hold the stool",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Held the stool while Yaxley drew the tooth",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Barnaby Yaxley",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the joined stool",
+    "the second sin",
+    "three roots",
+    "twelve pence"
+  ],
+  "quotes": [
+    {
+      "speaker": "barnaby_yaxley",
+      "text": "Hold the stool, sir, and think on your sins."
+    },
+    {
+      "speaker": "barnaby_yaxley",
+      "text": "Three roots, like a small black claw."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At night you kept three things. The loaf was a penny, and the wheat was six-and-thirty. You had stopped the tale, and she had heard the stop. The eighteenth is the carrier, at the horses' pace, and you will carry the pack, the sheets, and the inkhorn.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said it low, and stopped on the inkhorn.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the carrier on the eighteenth",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Said the loaf, the stop, and the carrier",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Said the loaf, the stop, and the eighteenth",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the penny loaf",
+    "the stop",
+    "the eighteenth"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The loaf was a penny, and small."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The eighteenth. The bridge. A horse's pace."
+    }
+  ]
+}

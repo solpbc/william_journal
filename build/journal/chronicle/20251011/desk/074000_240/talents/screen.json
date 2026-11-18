@@ -1,0 +1,17 @@
+{
+  "narrative": "The sheet is full to the foot. The pane is grey. The candle is at the socket. Rooks are the noise in the close, and no other bird. No face. The last of the sheet. A speech heading, and the nurse's place at the door. The candle is a stub. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Finished the stretch at the nurse's door and did not make a fair copy."
+    },
+    {
+      "type": "Project",
+      "name": "Verona",
+      "role": "mentioned",
+      "context": "Shown on draft in The woes, and the nurse at the door"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "overview": "You laid Thursday's sheets face down and did not copy a line. Daniel's book was shut. The chronicle stayed under the cat. You added nothing to the king and nothing to Verona.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Laid the sheets by, shut Daniel, and copied nothing."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Lay on the open chronicle."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the sheets laid by",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Daniel shut",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the chronicle under the cat",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Laid Thursday's sheets face down"
+    },
+    {
+      "name": "Civil Wars",
+      "asset_type": "other",
+      "disposition": "Laid Thursday's sheets face down"
+    },
+    {
+      "name": "the chronicle",
+      "asset_type": "other",
+      "disposition": "Laid Thursday's sheets face down"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-19",
+      "meaning": "Laid by"
+    }
+  ],
+  "summary": "Laid Thursday's sheets face down"
+}

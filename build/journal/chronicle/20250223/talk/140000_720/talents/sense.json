@@ -1,0 +1,74 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "After dinner Mistress Ansell was one spoon short. She accused nobody, and she wondered which caller had a taste for pewter. You asked which caller could make a profit from one. Alse found it among the ink-things, black to the neck, used for the galls and the copperas. Mistress Ansell said it had been put there to be found. She set it on the board beside the ink-pot. She said the house had an ordinary quarrel, and she did not make it into Friday.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked which caller could profit by a spoon, and took the kitchen as the answer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted one short, accused nobody, and said the spoon had been put there to be found.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Found it among the ink-things, black to the neck, and set it on the board beside the pot.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Asked which caller could profit by a spoon",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one spoon short",
+    "no accusation",
+    "black to the neck",
+    "galls and copperas",
+    "the board beside the ink-pot"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "One short."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Which caller, Mistress, is thought capable of making a profit from a spoon?"
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "It was put there to be found."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "Black to the neck."
+    }
+  ]
+}

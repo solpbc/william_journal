@@ -1,0 +1,38 @@
+{
+  "overview": "You read the foot of the leaf and the letter's heading behind it. You did not add a word, and you did not number the edges of the pile.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the morning's leaf again in the afternoon"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the blank unchanged",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the letter behind",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the unnumbered edges",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-30",
+      "meaning": "Read the foot of the leaf while the light held"
+    }
+  ],
+  "summary": "Read the morning's leaf again in the afternoon"
+}

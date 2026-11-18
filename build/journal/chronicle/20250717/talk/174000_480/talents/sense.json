@@ -1,0 +1,56 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Hobbins was in after eight days. Dust to the fetlock. Oats dearer at every bait, with no price set on them. No rain since Aylesbury. He had a packet from Henley Street, unopened. You took it into the yard to read.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a price, and took the packet.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the road in his usual coin.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Heard the eight days and took the packet",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Hobbins",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "eight days",
+    "dust",
+    "oats dearer",
+    "the packet"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_hobbins",
+      "text": "Dust to the fetlock, and the dust the same colour"
+    },
+    {
+      "speaker": "thomas_hobbins",
+      "text": "Oats dearer at every bait"
+    }
+  ]
+}

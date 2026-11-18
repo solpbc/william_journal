@@ -1,0 +1,17 @@
+{
+  "narrative": "A sheet with the three breaths already standing, and a clean space under the last line.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Left the foot empty."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in Nothing under the line"
+    }
+  ]
+}

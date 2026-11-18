@@ -1,0 +1,29 @@
+{
+  "narrative": "A small book lies shut on the desk. No stylus is on it, and no line is marked. The heavy chronicle stays open where the cat is lying. Nothing new is written in the margin.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and copied nothing."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Lay on the open chronicle."
+    },
+    {
+      "type": "Project",
+      "name": "Civil Wars",
+      "role": "mentioned",
+      "context": "Shown on book in Daniel shut, the chronicle under the cat"
+    },
+    {
+      "type": "Project",
+      "name": "the chronicle",
+      "role": "mentioned",
+      "context": "Shown on book in Daniel shut, the chronicle under the cat"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "After sermon you ate Jacqueline's goose at Blackfriars. Field asked nothing about the second volume, and you told him that the not-asking was worse. Jacqueline said a man going to court should take a second shirt, and she made it two shirts, not a speech about one. You said the chronicle stays in the room. You still had Monday as the day the Queen goes, and Wednesday as the boat, if Monday holds. There was enough at the table for three.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the not-asking, accepted two shirts, and left the chronicle in the room.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked nothing about the volume, and told you he had heard you last week.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Jacqueline Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Served the goose and required a second shirt.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "Holinshed's second volume",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A second shirt",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate Jacqueline's goose, and she named a second shirt",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Jacqueline Field",
+    "William Shakespeare",
+    "Richard Field"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the goose",
+    "a second shirt",
+    "the volume not asked",
+    "Monday and Wednesday"
+  ],
+  "quotes": [
+    {
+      "speaker": "jacqueline_field",
+      "text": "A man going to court should take a second shirt."
+    },
+    {
+      "speaker": "richard_field",
+      "text": "I did not ask for the chronicle."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I know. That is worse."
+    },
+    {
+      "speaker": "jacqueline_field",
+      "text": "Take a second. Two shirts, Will. Not a speech about one."
+    }
+  ]
+}

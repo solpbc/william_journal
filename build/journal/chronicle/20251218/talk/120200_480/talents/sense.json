@@ -1,0 +1,72 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Hobbins read the pack back before he corded it. The quarter's sixty shillings went in canvas, with the sugar and the raisins, the prunes and the ballad, the grey kerchief with no verse, the oranges, the sugar-loaf, the cinnamon, the holland, the russet, the book with no riddles, the ballad-sheet, the ball, and three groats. He would not sing the tune in the yard. Anne's letter came south. You heard two faults, the street, the sword, and the porch, and you did not add a line to Sunday's letter. You read the cheaper pane twice and laughed with your shoulders. Nobody shouted down the yard. You did not count a coffer.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Confirmed the list, refused an added line, and read the pane twice.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read every item, handed over her letter, and corded the pack.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "the quarter's sixty shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Read it back",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Heard Hobbins read the list back",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Hobbins",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the list read back",
+    "the quarter in canvas",
+    "Anne's letter",
+    "the cheaper pane"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_hobbins",
+      "text": "Sixty shillings, in canvas. The quarter."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not adding a line."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The great house by the chapel lost another pane in the wind on St Nicholas' night. I tell you so that you may know it is getting cheaper."
+    },
+    {
+      "speaker": "thomas_hobbins",
+      "text": "The boy would know whether the Queen will see the sword that killed four Richmonds."
+    }
+  ]
+}

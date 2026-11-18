@@ -1,0 +1,1 @@
+You ate at the table. The fair is tomorrow, and you did not spend anything toward it. Monday is the opening, and today is not a playing day. Mistress Ansell told you not to measure the loaf again. You did not. Gib was still on the book, and you left him there.

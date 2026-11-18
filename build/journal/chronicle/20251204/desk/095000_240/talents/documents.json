@@ -1,0 +1,51 @@
+{
+  "overview": "You looked at the mended cue on Romeo's roll. The kept line is that the light comes when he says light, and not before. The hearing that had the cressets already up is struck.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the kept cue and did not add to it."
+    },
+    {
+      "name": "Humphrey Larkham",
+      "role": "attendee",
+      "formal_term": "Humphrey Larkham",
+      "appointment_tier": "not_applicable",
+      "context": "Had struck the rejected hearing and signed the corner."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the kept cue",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the struck hearing",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Larkham's sign",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Romeo and Juliet",
+      "asset_type": "other",
+      "disposition": "Saw the light cue kept and the other struck"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-04",
+      "meaning": "Fire on the word"
+    }
+  ],
+  "summary": "Saw the light cue kept and the other struck"
+}

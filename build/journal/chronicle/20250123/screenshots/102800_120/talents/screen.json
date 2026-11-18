@@ -1,0 +1,23 @@
+{
+  "narrative": "A forest of black caps and parchment under the hammer-beam roof. The sheets are in fists and under arms. Bryan's shoulder is at the edge of the picture, in a plain coat among the gowns. No face is turned toward the picture.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "In Under the hammer-beam"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "mentioned",
+      "context": "His shoulder is at the edge. His face is not turned toward the picture."
+    },
+    {
+      "type": "Company",
+      "name": "Westminster Hall",
+      "role": "mentioned",
+      "context": "In photo: Under the hammer-beam"
+    }
+  ]
+}

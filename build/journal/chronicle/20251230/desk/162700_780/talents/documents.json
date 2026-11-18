@@ -1,0 +1,38 @@
+{
+  "overview": "You stood at the desk and did not open the packet again. The note stayed at two sentences. You had not lit a candle.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the two sentences on the note"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the note unchanged",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the packet shut",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no candle",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-30",
+      "meaning": "Left the note at two sentences"
+    }
+  ],
+  "summary": "Read the two sentences on the note"
+}

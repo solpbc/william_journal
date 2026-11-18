@@ -1,0 +1,77 @@
+{
+  "density": "active",
+  "content_type": "reading",
+  "activity_summary": "Upstairs Field used thou. The second volume was heavy as a hearthstone and opened at the second Richard. You read four columns standing: a king, his uncles, a cousin banished, a landing, and a crown handed across. Jacqueline put a stool behind your knees. Field said it is lent, Lent in Lent, and he will see the gap every morning until it is home. You named no day. She set a stack of quires where you stood, and that ended the visit. You took the book in both arms.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read four columns on your feet, named no return day, and carried the book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke thou, lent the volume, and kept the gap as his morning fact.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Jacqueline Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the stool, and then set the quires in the place where you stood.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Holinshed, second volume",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Heavy as a hearthstone",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read four columns and carried the book",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Field",
+    "William Shakespeare",
+    "Jacqueline Field"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "thou",
+    "four columns",
+    "the gap on the shelf",
+    "the quires that ended it"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_field",
+      "text": "Heavy as a hearthstone, and lent."
+    },
+    {
+      "speaker": "richard_field",
+      "text": "Lent in Lent, and I'll see the gap on that shelf every morning till it's home."
+    },
+    {
+      "speaker": "jacqueline_field",
+      "text": "These quires go where your feet are."
+    }
+  ]
+}

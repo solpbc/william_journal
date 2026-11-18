@@ -1,0 +1,17 @@
+{
+  "narrative": "The red-tied bundle squared on the board, the folder of private verse at the far edge, his own hand flat on the bundle. The marks in the margins are still unresolved. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "mentioned",
+      "context": "Laid his hand flat on the bundle and did not open it again."
+    },
+    {
+      "type": "Project",
+      "name": "the fair Romeo bundle",
+      "role": "mentioned",
+      "context": "In photo: Red thread on the bundle"
+    }
+  ]
+}

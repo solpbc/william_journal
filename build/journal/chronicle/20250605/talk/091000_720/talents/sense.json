@@ -1,0 +1,82 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "You rehearsed The Comedy of Errors. The music had come in four bars early, and Cowley with it. Phillips set the entrance on the fifth bar. Cowley counted the four bars of nothing inside his fist and came on the fifth without a hand to help him. The bill is two of the clock.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the entrance for the fifth bar, and sent them to eat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the fifth bar, gave his hand once, and refused to rescue it at two.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came early, then counted four bars in his fist and came on the fifth.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Waited with the sword, and refused to count the bars for Cowley.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Four bars early",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Moved the entrance to the fifth bar",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Augustine Phillips",
+    "Richard Cowley",
+    "Thomas Pope",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "four bars",
+    "the fifth bar",
+    "a counted rest",
+    "two of the clock"
+  ],
+  "quotes": [
+    {
+      "speaker": "augustine_phillips",
+      "text": "The music came in four bars early."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Two of the clock. The fifth bar. The first four belong to the music and to nobody's feet."
+    }
+  ]
+}

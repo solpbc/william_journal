@@ -1,0 +1,17 @@
+{
+  "narrative": "Morning light on the almanac at the second week of March. Your mark is in the margin. No folded letter sits beside it. The horn and the pen are still.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Marked the almanac and left the pen dry."
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in Richard, twenty-one"
+    }
+  ]
+}

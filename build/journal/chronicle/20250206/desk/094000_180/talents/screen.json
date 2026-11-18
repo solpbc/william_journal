@@ -1,0 +1,29 @@
+{
+  "narrative": "A boy's roll on the parlour table. The speech itself is not taken down. Two stops are moved in a darker ink. A smaller boy sits to copy the marks and not the lines. Cold light from the yard. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked at the marks he had just moved."
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "context": "The roll was his. He was still in the room."
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "mentioned",
+      "context": "Sat to copy the marks, not the lines."
+    },
+    {
+      "type": "Project",
+      "name": "the Princess's part",
+      "role": "mentioned",
+      "context": "Shown on part in Two stops, and no words"
+    }
+  ]
+}

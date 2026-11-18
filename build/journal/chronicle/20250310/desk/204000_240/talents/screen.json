@@ -1,0 +1,23 @@
+{
+  "narrative": "Nine short passages in your hand, still loose, the candle at the left. The company's book is not in the room. You turn the top sheet. Nothing is struck. The writing-tables are shut on the shelf.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Counted the sheets and left them unbound."
+    },
+    {
+      "type": "Tool",
+      "name": "Kemp's nine lines",
+      "role": "mentioned",
+      "context": "Shown on draft in Nine lines, not yet in the book"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on draft in Nine lines, not yet in the book"
+    }
+  ]
+}

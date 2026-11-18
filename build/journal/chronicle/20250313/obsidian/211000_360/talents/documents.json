@@ -1,0 +1,49 @@
+{
+  "overview": "You stayed on the Verona heading and added no speech. Sunday to Thursday is only a guess at the blank, and you do not trust it in March. The torch in the vault is still only an image, which is what you wrote. The chronicle is not here. The king is not open.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote on the same page and stopped before anyone spoke."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the same heading",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the days still blank",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a torch in a vault",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no chronicle",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Brooke's Romeus and Juliet",
+      "asset_type": "other",
+      "disposition": "Added the torch in the vault to the Verona page"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-13",
+      "meaning": "The same opening"
+    }
+  ],
+  "summary": "Added the torch in the vault to the Verona page"
+}

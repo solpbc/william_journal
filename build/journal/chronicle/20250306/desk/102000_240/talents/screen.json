@@ -1,0 +1,23 @@
+{
+  "narrative": "A worn octavo on a stall board in Paul's Churchyard. The last leaf but one is gone. A man at the next board does not speak. Daylight. No face. The same book in his hand. The sixpence is gone from the palm. No second leaf missing. The man at the next board is still there, and still silent.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Checked the lack, paid sixpence, and took the book."
+    },
+    {
+      "type": "Person",
+      "name": "John Harrison",
+      "role": "mentioned",
+      "context": "Stood in the churchyard and did not speak."
+    },
+    {
+      "type": "Project",
+      "name": "Romeus and Juliet",
+      "role": "mentioned",
+      "context": "Shown on book in Sixpence, and the leaf it lacks"
+    }
+  ]
+}

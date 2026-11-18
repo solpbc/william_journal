@@ -1,0 +1,1 @@
+At St Helen's you sat through Candlemas beside Mistress Ansell. Master Thwaite preached on a candle that is spent. He said he would be brief, and he was not. You caught yourself on the owl, and she named it. Sir John Spencer stayed in the Mayor's pew, three rows ahead, and did not speak to you. You went to the table.

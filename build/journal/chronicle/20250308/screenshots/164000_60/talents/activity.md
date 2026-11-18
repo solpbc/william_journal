@@ -1,0 +1,1 @@
+You looked at the cleared board. The comedy's foul sheets were tied on the shelf, Brooke was on the left, and the fresh quire, the cut pens, and the new horn of ink were set out. No face was in the picture, and the cat was not on the board.

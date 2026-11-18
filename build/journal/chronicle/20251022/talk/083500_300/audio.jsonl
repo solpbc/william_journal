@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 300.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "08:35:20", "text": "I am through. Dinner when you cut. I will not make you send it looking.", "timing": {"end": 80.0, "start": 20.0}}
+{"sentence_id": 2, "speaker": "dorcas_ansell", "start": "08:36:20", "text": "See that you do not. The cloth stays in my arms, which is the goodbye you are getting.", "timing": {"end": 160.0, "start": 80.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "08:37:40", "text": "It is the right goodbye. Paper this morning. The yard after. I can tell them apart in the street, where you will not have to hear me do it.", "timing": {"end": 250.0, "start": 160.0}}
+{"sentence_id": 4, "speaker": "dorcas_ansell", "start": "08:39:10", "text": "Then do it in the street. And come back hungry, not interesting.", "timing": {"end": 260.0, "start": 250.0}}

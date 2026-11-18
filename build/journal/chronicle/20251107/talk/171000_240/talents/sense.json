@@ -1,0 +1,85 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "You told Heminges at once that yesterday's country justice was Lord Hunsdon. You gave him the three nights and the refusal of the king. He will write the nights on the promised side. Nothing has been received. The old play is not chosen. Nobody named the man with the hole in his heel.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named yesterday's justice, and refused to choose the old play.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set three nights down as promised, with nothing received.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the ban on the king, and did not guess the heel.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Yesterday's justice",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Yesterday's justice",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Told Heminges yesterday's country justice was Lord Hunsdon",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "John Heminges",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "yesterday's justice",
+    "three nights",
+    "nothing received",
+    "the old play unchosen"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The frieze cloak was my lord."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Nothing has come in."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Not chosen. He said something old."
+    }
+  ]
+}

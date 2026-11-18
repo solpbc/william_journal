@@ -1,0 +1,39 @@
+{
+  "overview": "You wrote her question at the top of the sheet, and the rose under it. The boy was made to wait. You did not give him the opening.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote her lines before his."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the name",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the rose",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the orchard scene",
+      "asset_type": "other",
+      "disposition": "Let her speak first"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-09",
+      "meaning": "She speaks first"
+    }
+  ],
+  "summary": "Let her speak first"
+}

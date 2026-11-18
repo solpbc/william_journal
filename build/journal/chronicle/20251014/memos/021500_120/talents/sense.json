@@ -1,0 +1,55 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You paced the chamber with oil of cloves on the gum. Your head went to the constable at Grendon, to the cloth-workers' old arguments, to Golding's lovers speaking through a wall, and then to one figure who would play the lover and the lady and the lion, solemn, with an ass's head. You laughed into the shawl until the jaw stopped you. You marked it to sleep. You did not make a page of it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the night's path, refused the head, and sent himself to sleep.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "Golding's Pyramus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A head like no",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Laughed into the shawl, and marked it to sleep",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "clove oil",
+    "Grendon",
+    "Golding's wall",
+    "one solemn figure"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "A man with a head like\u2014 no. A man who'd play the wall if you let him."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Clove's working. Mark it, and sleep."
+    }
+  ]
+}

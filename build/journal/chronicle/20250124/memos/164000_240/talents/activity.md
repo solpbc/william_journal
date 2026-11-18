@@ -1,0 +1,1 @@
+You were home. The two oaths were out and the book was signed. The seven shillings had been counted at the priory and were the company's. Richard the Third and Faustus went on without you. The letter was still unanswered.

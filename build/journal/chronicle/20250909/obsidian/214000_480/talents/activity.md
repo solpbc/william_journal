@@ -1,0 +1,1 @@
+You wrote Item, cloves, ij d., a pennyworth on the way home and another for the night. You did not open the coffer. You wrote till ten on nothing but stubbornness, and the page did not become a scene.

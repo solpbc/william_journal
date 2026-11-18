@@ -1,0 +1,17 @@
+{
+  "narrative": "Home between the morning and the call. The old letter is on the board, unfolded. No day is written in it. He does not take it down. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Left it on the nail."
+    },
+    {
+      "type": "Tool",
+      "name": "the letter",
+      "role": "mentioned",
+      "context": "Shown on letter in Still on the nail"
+    }
+  ]
+}

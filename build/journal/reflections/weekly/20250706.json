@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250706",
+    "end": "20250712"
+  },
+  "generated_at": "2025-07-12T22:00:00Z",
+  "days": [
+    {
+      "day": "20250706",
+      "state": "memory",
+      "memory_id": "m-20250706-0"
+    },
+    {
+      "day": "20250707",
+      "state": "memory",
+      "memory_id": "m-20250707-1"
+    },
+    {
+      "day": "20250708",
+      "state": "memory",
+      "memory_id": "m-20250708-2"
+    },
+    {
+      "day": "20250709",
+      "state": "memory",
+      "memory_id": "m-20250709-3"
+    },
+    {
+      "day": "20250710",
+      "state": "memory",
+      "memory_id": "m-20250710-4"
+    },
+    {
+      "day": "20250711",
+      "state": "memory",
+      "memory_id": "m-20250711-5"
+    },
+    {
+      "day": "20250712",
+      "state": "memory",
+      "memory_id": "m-20250712-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250706-0",
+      "key": "mem_20250706_0",
+      "day": "20250706",
+      "text": "One turn of the sermon, the pew in the north aisle, and the letter on the board.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250706/talents/morning_briefing",
+        "briefing_day": "20250706",
+        "refs": [
+          "sol://facets/household/activities/20250706#meeting_092000_720",
+          "sol://facets/household/activities/20250706#frame_112000_180",
+          "sol://facets/writing/activities/20250706#memo_142000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250707-1",
+      "key": "mem_20250707_1",
+      "day": "20250707",
+      "text": "Play on till the twenty-sixth, open again on the twenty-fifth of August, and a glass at two shillings and sixpence.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250707/talents/morning_briefing",
+        "briefing_day": "20250707",
+        "refs": [
+          "sol://facets/writing/activities/20250707#frame_084000_240",
+          "sol://facets/company/activities/20250707#meeting_171000_720",
+          "sol://facets/company/activities/20250707#frame_182000_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250708-2",
+      "key": "mem_20250708_2",
+      "day": "20250708",
+      "text": "Gregory left, Sampson right, Tybalt late, and the wives keeping the swords.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250708/talents/morning_briefing",
+        "briefing_day": "20250708",
+        "refs": [
+          "sol://facets/writing/activities/20250708#frame_082000_300",
+          "sol://facets/writing/activities/20250708#note_094000_480",
+          "sol://facets/writing/activities/20250708#memo_110500_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250709-3",
+      "key": "mem_20250709_3",
+      "day": "20250709",
+      "text": "Field's Italian book returned in a minute, and Margery's twenty-six shillings.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250709/talents/morning_briefing",
+        "briefing_day": "20250709",
+        "refs": [
+          "sol://facets/writing/activities/20250709#frame_082000_180",
+          "sol://facets/writing/activities/20250709#meeting_110000_60",
+          "sol://facets/company/activities/20250709#meeting_152000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250710-4",
+      "key": "mem_20250710_4",
+      "day": "20250710",
+      "text": "Tilney cut the deposing, the foul papers stayed in the coffer, and Richard has the pearwood glass.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250710/talents/morning_briefing",
+        "briefing_day": "20250710",
+        "refs": [
+          "sol://facets/company/activities/20250710#frame_081000_180",
+          "sol://facets/company/activities/20250710#meeting_101500_720",
+          "sol://facets/company/activities/20250710#photo_114000_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250711-5",
+      "key": "mem_20250711_5",
+      "day": "20250711",
+      "text": "Tombs in the street, Mantua a day, heat. The moon was full, and the town was inland.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250711/talents/morning_briefing",
+        "briefing_day": "20250711",
+        "refs": [
+          "sol://facets/writing/activities/20250711#call_113000_360",
+          "sol://facets/writing/activities/20250711#frame_115000_180",
+          "sol://facets/writing/activities/20250711#frame_204000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250712-6",
+      "key": "mem_20250712_6",
+      "day": "20250712",
+      "text": "Fourteen shillings received, a smaller pause, and the moon at Old Swan stairs.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250712/talents/morning_briefing",
+        "briefing_day": "20250712",
+        "refs": [
+          "sol://facets/writing/activities/20250712#frame_092000_240",
+          "sol://facets/company/activities/20250712#meeting_165000_720",
+          "sol://facets/company/activities/20250712#meeting_174000_600"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250706-0",
+      "key": "said_20250706_0",
+      "day": "20250706",
+      "quote": "No cross. The mark is for a day I see her, or hear her.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250706#meeting_092000_720"
+      }
+    },
+    {
+      "id": "s-20250706-1",
+      "key": "said_20250706_1",
+      "day": "20250706",
+      "quote": "I am writing a boy who's sick for a woman who never comes on the stage.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250706#memo_142000_120"
+      }
+    },
+    {
+      "id": "s-20250707-2",
+      "key": "said_20250707_2",
+      "day": "20250707",
+      "quote": "In the head. There's a city in it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250707#meeting_210000_240"
+      }
+    },
+    {
+      "id": "s-20250708-3",
+      "key": "said_20250708_3",
+      "day": "20250708",
+      "quote": "The old men want their swords and their wives won't give them. Keep that.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250708#memo_110500_120"
+      }
+    },
+    {
+      "id": "s-20250709-4",
+      "key": "said_20250709_4",
+      "day": "20250709",
+      "quote": "There is a thing about what a Master of the Revels can hear, and what he cannot.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250709#meeting_110000_60"
+      }
+    },
+    {
+      "id": "s-20250710-5",
+      "key": "said_20250710_5",
+      "day": "20250710",
+      "quote": "He has cut the glass.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250710#meeting_122500_120"
+      }
+    },
+    {
+      "id": "s-20250711-6",
+      "key": "said_20250711_6",
+      "day": "20250711",
+      "quote": "The moon is full. I have not put a sea on the town.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250711#memo_211000_60"
+      }
+    },
+    {
+      "id": "s-20250712-7",
+      "key": "said_20250712_7",
+      "day": "20250712",
+      "quote": "Nobody at this table has said they are afraid. I am noticing the fact, and I am not improving it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250712#meeting_174000_600"
+      }
+    }
+  ]
+}

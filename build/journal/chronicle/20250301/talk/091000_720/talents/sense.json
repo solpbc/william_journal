@@ -1,0 +1,71 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At breakfast the moon was new. The loaf was a penny and short by a finger. You paid threepence. Mistress Ansell said the fast was Wednesday and would not salt the day ahead of it. The letter was gone with Hobbins. The cough was gone, and you did not read the sheet again. Edith's eight shillings and the mercer's fifty stayed unpaid. You did not guess the week's share. Last Saturday's thirty shillings stayed last Saturday's. Twenty-four stayed a tally of lines.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept last week's thirty as last week's, and refused to marry it to twenty-four lines.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the new moon, took threepence, and would not start Lent at breakfast.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the finger short, and asked which kind of number thirty was.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate breakfast",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the new moon",
+    "a finger short",
+    "threepence",
+    "no fish ahead of Wednesday",
+    "thirty shillings last week",
+    "twenty-four lines"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The moon is new"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Thirty shillings was the share, last Saturday"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Twenty-four is lines, and the lines are Kemp's"
+    }
+  ]
+}

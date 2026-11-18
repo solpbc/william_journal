@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "On the way up to the Theatre you said your name is on two poems and a tax, and not on a play. Then you asked whose the plays are: the stationer's, the clown's, the boy's who says them.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the memo and walked on.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The True Tragedie of Richard Duke of Yorke",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Whose are they, then",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Asked whose the plays are",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "his name",
+    "the plays",
+    "who owns them"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "My name on two poems and a tax. Not on a play."
+    }
+  ]
+}

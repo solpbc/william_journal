@@ -1,0 +1,39 @@
+{
+  "overview": "A bill in the house gave the Rose's title as French Comedy, by the Lord Admiral his Servants. No author, no sum. You did not cross the river.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the title and did not cross."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "French Comedy",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no sum",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Rose",
+      "asset_type": "other",
+      "disposition": "Read the title French Comedy"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-24",
+      "meaning": "French Comedy"
+    }
+  ],
+  "summary": "Read the title French Comedy"
+}

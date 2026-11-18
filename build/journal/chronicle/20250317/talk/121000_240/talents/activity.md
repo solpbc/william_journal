@@ -1,0 +1,1 @@
+Last, at the Bull, the ostler showed you a bay gelding, sound and a little sour, and you pretended to judge its teeth. You bespoke it from Wednesday the twenty-sixth at twelvepence a day and your own charge of fodder. Nothing was paid down.

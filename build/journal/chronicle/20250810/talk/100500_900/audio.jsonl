@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 900.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "mary_shakespeare", "start": "10:08:40", "text": "The cuff is done. Leave it done. I have said the other thing once, and I am looking at the desk, not at thee.", "timing": {"end": 430.0, "start": 220.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "10:12:10", "text": "I am sat. I have nothing to put in the empty place, and I am not going to find something during a psalm.", "timing": {"end": 640.0, "start": 430.0}}
+{"sentence_id": 3, "speaker": "anne_shakespeare", "start": "10:15:40", "text": "Good. The lesson is the next work. Thou mayst be in the pew for it without beginning early.", "timing": {"end": 800.0, "start": 640.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "10:18:20", "text": "I am in the pew. Dinner is after. I have not forgotten the order of the day.", "timing": {"end": 810.0, "start": 800.0}}

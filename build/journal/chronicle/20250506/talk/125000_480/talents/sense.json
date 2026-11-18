@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Mistress Ansell set the loaf a finger and a half short of the notch, at a penny, and not on a pan. You did not argue it. She called forty lines a length and not yet a play, and she would not give a verdict without a plot. The board was three pence. Alse was not given a side. The jig stayed out of the kitchen. The comedy is back from Field's.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Measured the loaf, refused a verdict, and kept the three pence.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named forty lines and a sitting-down, and would not tell the plot.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked after a shirt, and was not given a side.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Compared the walk to a shuttle, and went to his door.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Kept the stool, and declined the end of the loaf.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate the loaf a finger and a half short of the notch",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a finger and a half",
+    "a penny",
+    "three pence",
+    "no verdict"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The loaf is a finger and a half short of the notch"
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "It is not a thumb. It is not on a pan"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The book came back this morning"
+    }
+  ]
+}

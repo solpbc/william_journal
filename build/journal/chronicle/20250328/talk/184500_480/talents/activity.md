@@ -1,0 +1,1 @@
+Anne said you had come, and that you had said Friday in a letter. Your mother said you are thin. Your father asked the horse who he was. The sword went to Hamnet, three colours of ribbon to Judith, the riddle-book to Susanna, who thanked you and opened it. You had no speech to put on the day. The gifts came out separately, and the quarrel did not.

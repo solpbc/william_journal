@@ -1,0 +1,1 @@
+Walking back east by the Strand, you said the Hall sells explanations by the sheet, and so do you, with jokes in. Then you thought of the client whose grievance came back longer than he had paid to have it.

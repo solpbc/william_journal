@@ -1,0 +1,1 @@
+The ink had held. Humphrey told you to look, Gaunt's roll first, and would not describe the sign. John shut the book on the one line and told you the king was Thursday week, not this afternoon. You said you were looking so a stale cue would not be the thing you carried out.

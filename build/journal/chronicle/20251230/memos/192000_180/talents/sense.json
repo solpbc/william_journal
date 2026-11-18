@@ -1,0 +1,62 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You passed the shut stalls at Paul's. The White Greyhound had its boards up. You said Venus and Lucrece are there by day, and that tonight you were not buying a book and not stopping. The pages were for the fire at Blackfriars, and they were to come home after.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke as he walked and did not stop.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Venus and Adonis",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Passed the shut bookstalls at Paul's",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Lucrece",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Passed the shut bookstalls at Paul's",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Passed the shut stalls at Paul's",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the shut stalls",
+    "the White Greyhound",
+    "the pages for the fire"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The White Greyhound has its boards up."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "These pages are for that hearth. They come home after."
+    }
+  ]
+}

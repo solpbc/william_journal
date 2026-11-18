@@ -1,0 +1,59 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You paid twenty shillings before noon and counted them twice. Mistress Ansell wrote the receipt in her late husband's law-hand. She said the quarter's candles had come to more than the quarter's bread, and that she had never before had a lodger of whom that was true. You did not argue it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the twenty shillings twice and took the receipt.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Wrote the receipt, and said the candles had outrun the bread.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Paid twenty shillings and counted them twice",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twenty shillings",
+    "the receipt",
+    "the candles"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Twenty shillings on the board. Count them, and then count them again."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The candles this quarter came to more than the quarter's bread."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "You have the twenty shillings."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "overview": "Brooke was still on the shelf, and you opened it. You looked at your own old note, that the two houses are alike, and at the line that says not yet. You did not copy a couplet out. You did not make it today's page. The cat was not on this book.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Opened the book, read his own margin, and closed nothing into a new speech."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Brooke",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "two houses alike",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "not today's page",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Brooke",
+      "asset_type": "other",
+      "disposition": "Opened Brooke"
+    },
+    {
+      "name": "Romeo and Juliet",
+      "asset_type": "other",
+      "disposition": "Opened Brooke"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-23",
+      "meaning": "Brooke, still on the shelf"
+    }
+  ],
+  "summary": "Opened Brooke"
+}

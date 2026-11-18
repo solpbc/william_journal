@@ -1,0 +1,98 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "You came down for a roll and found Edith with the mended doublet and eight shillings still owing for a prince's sleeves. You praised the seam. She took the praise and did not let it settle the bill. Heminges named Lady Day as the latest he can promise. Kemp said a prince who cannot pay for his sleeves should keep his arms inside his coat. She did not laugh until you had written Edith viij s. owing. Lady Day. It is not your debt, and it was not paid.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Praised the repair, then wrote the debt, and did not pay it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused to let praise settle the bill, and laughed only after the line.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named Lady Day and kept the coin out of the parlour.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told them to pay her, gave the prince his line, and took the late laugh.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "His basket was the errand. He was not in the parlour.",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "Edith's eight shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Eight shillings, and the seam",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Wrote Edith's eight shillings",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Edith Kettlewood",
+    "John Heminges",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "eight shillings",
+    "the seam",
+    "Lady Day",
+    "a debt that is not yours"
+  ],
+  "quotes": [
+    {
+      "speaker": "edith_kettlewood",
+      "text": "I have made him a prince. The prince still owes eight shillings."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "A prince who cannot pay for his sleeves should keep his arms inside his coat."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Lady Day is the latest I can promise."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Edith viij s. owing. Lady Day."
+    }
+  ]
+}

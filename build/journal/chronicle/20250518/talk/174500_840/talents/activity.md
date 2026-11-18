@@ -1,0 +1,1 @@
+Nashe brought a grievance from Paul's that had dressed itself on the walk. Kemp turned a bladder of tallow into a salt-fish weeping brine, and Nashe stole the fish. You spoke enough to keep the image in the room. Alice set down two shillings and eightpence, and the jug. Nashe had not got the money, and he admired the paper. You did not divide the bill.

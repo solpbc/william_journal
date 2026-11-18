@@ -1,0 +1,118 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the Bull, close on nine, Nashe was still at war with Harvey, who was not in the room. You told him he was the page, not the pedant and not the braggart. Phillips got one verse out of him. Burbage got a penny for one cup. Heminges said the company had come through its first winter without a quarrel over the purse, and he touched the table. The supper was tenpence a head. You left on the purse.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the page, lent nothing, and left on the purse.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Nashe",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came uninvited, spent the room on Harvey, sang one verse, and paid a penny.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Made Nashe pay for one cup, and told you to go before you lent him anything.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Got one verse, and refused a second.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate through the argument, and kept the fast outside the parlour.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked to fast from explanations, and stayed with the marrow.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named tenpence a head, reported a winter without a purse-quarrel, and touched the table.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The page, and a penny",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Told Nashe he was the page",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Nashe",
+    "Will Kemp",
+    "Thomas Pope",
+    "John Heminges",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Augustine Phillips"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "tenpence a head",
+    "the page",
+    "one verse",
+    "a penny cup",
+    "the purse"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_pope",
+      "text": "May a man fast from another man's explanations?"
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "We have come through our first winter as a company without one quarrel over the purse."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It is close on nine. I am in pain."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "In the purse. It's catching."
+    }
+  ]
+}

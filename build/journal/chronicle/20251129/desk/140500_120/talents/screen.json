@@ -1,0 +1,17 @@
+{
+  "narrative": "The tiring-house, a little before two. The plot on the peg is Titus. The gown is on. Nothing pinned to it names a part. He is on the side the plot has given him. The yard is filling. The plot names the play. The gown does not name the man.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Was in Titus. The part was not named."
+    },
+    {
+      "type": "Project",
+      "name": "Titus",
+      "role": "mentioned",
+      "context": "Shown on stage in In it, and not named"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+# The season
+
+Which house, which dark stretch, and which play has joined the stock. The afternoon bill is a confirmed `company_play` line in [`../../../calendar/merged/calendar.json`](../../../calendar/merged/calendar.json). [`repertory.json`](../../../calendar/merged/repertory.json) is the raw sequence that calendar was built from. Do not play a week from it.
+
+Recounted 2026-11-16 from the current calendar, after the corrections at `b8c71c159c7` and `196f6decdfa` (the editor updated this paragraph and the 6–22 Dec row for the second). Confirmed `company_play` lines whose title starts `Play:` (the words after `Play:` up to the first comma): Errors 51, Shrew 36, Two Gents 35, Titus 30, LLL 21, Richard III 18, Knave 12, Fair Em 11, Richard II 11, Hamlet 5, Seven Deadly Sins 4, Romeo and Juliet 4. That is 238 afternoons. Seven further confirmed lines are `No play`. One further confirmed line does not start `Play:`: 9 Dec, Canon Row, *Richard II* whole. Court nights are a `court` layer. Romeo's four are the public afternoons. 27 Dec is court.
+
+The same count, run on the calendar before that correction, was Errors 50, Shrew 38, Two Gents 37, Titus 28, LLL 19, and the rest as now, and it found no same title on consecutive dates. The correction is what puts *Errors* on both 17 and 18 Jan. That pair is the only one. He plays on the 17th (S007). Cowley plays on the 18th (G006). Do not "fix" the 18th to a different title. The nineteen same-title pairs in `repertory.json` are still not a bill.
+
+30 Jun is `No play` (cal-0406). An *Errors* bill for that afternoon is `cancelled` (cal-0407). There is no clash to print.
+
+Week-table prose in § 5 abbreviates. It is not the daily bill. Mon 17 Nov is `No play` (cal-0685). Do not invent a tilt-day bill.
+
+Hired men are on 10s, and on 5s only through the dark weeks of 28 Jul–23 Aug. William plays about four afternoons in six: Navarre, Egeon, Gaunt, Chorus and Prince, and the Ghost in the old *Hamlet* on 29 Jan and 22 May, and on the calendar's other *Hamlet* afternoons, 16 and 19 Jul and 17 Sep (corrected by the editor 2026-11-17: the frozen casting marks all five; found by the 13 Jul merge). He is not cast on 1 Jan. He is not cast on 28 Oct (*Shrew* plays; he does not).
+
+| from | to | state | true now | not yet | entries |
+|---|---|---|---|---|---|
+| 2025-01-01 | 2025-02-19 | Cross Keys, old stock | The winter house is the Cross Keys. *Love's Labour's Lost* is not in the bill. The stock is the old one. 17 and 18 Jan are both *Errors*, the only back-to-back same title in the year. He plays the 17th. Cowley plays the 18th. | No *LLL* performance. No Theatre. Lent has not begun. Do not separate those two *Errors* afternoons. | S001, S007, G006 |
+| 2025-02-20 | 2025-03-04 | the comedy is in the winter bill | *LLL* joined the Cross Keys bill on 20 Feb. It is still the winter house. The last of these performances is Shrove Tuesday, 4 Mar. | The Lent dark has not begun. The Theatre has not opened. | W015 |
+| 2025-03-05 | 2025-04-10 | dark | No public playing. The Rose plays into Lent and stops after Fri 14 Mar. Rehearsals have not resumed. | Do not open the Theatre. Do not bill a play. | § 5.1 |
+| 2025-04-11 | 2025-04-20 | rehearsal, still dark | Rehearsals resumed on 11 Apr at the Theatre (S033). There is still no public bill. | Easter Monday has not opened the house. | S033 |
+| 2025-04-21 | 2025-06-29 | the Theatre | The house opened on 21 Apr with *LLL*. *Richard II* and *Romeo* are not in the bill. In this stretch a confirmed title does not repeat on back-to-back days. | 30 Jun is a dark afternoon. *Richard* is not yet a bill. | S036 |
+| 2025-06-30 | 2025-06-30 | the reading, and no play | On the morning of 30 Jun he read *Richard* to the fellows (W053). Kemp comes in at the fourth act. The afternoon is no play (cal-0406). An *Errors* bill for that afternoon was struck (cal-0407). Do not play it. | *Richard* is not licensed yet, and not in the public stock. | W053 |
+| 2025-07-01 | 2025-07-23 | still the Theatre | They are playing. The Rose is dark after 26 Jun. *Richard* is licensed with the deposition cut on 10 Jul and is still not in the public bill. | No dark weeks yet. 24 Jul is the day with no play. | W056 |
+| 2025-07-24 | 2025-07-24 | no play | The calendar's line is no play (cal-0443). § 5 agrees. He does not go to Tower Hill. | The house is not yet into the August dark. They play again on the 25th and the 26th. | S077 |
+| 2025-07-25 | 2025-07-26 | the last two public days | They are playing. Sat 26 Jul is *Errors*, the last public day before the break. | The dark has not started. | S076 |
+| 2025-07-27 | 2025-07-27 | Sunday | No public playing, as on every Sunday but one at the end of the year. | The hired men are not yet on 5s. | § 5.1 |
+| 2025-07-28 | 2025-08-23 | dark | No public bill. Hired men on 5s. The Rose is dark too. | Do not reopen. Do not bill *Richard*. | S072 |
+| 2025-08-24 | 2025-08-24 | the Sunday between | The dark stretch ended yesterday. Today is Sunday. Bartholomew Fair is not a play. | Both houses open tomorrow. | S082 |
+| 2025-08-25 | 2025-10-01 | open, old stock plus the comedy | Both houses reopened on 25 Aug (S083). *Richard II* is not yet in the bill. *Romeo* is not. | Do not bill the king play. | S083 |
+| 2025-10-02 | 2025-12-05 | the king play is in the stock | *Richard II* was first played on 2 Oct at the Theatre, the cut book. It stays in the stock. *Romeo* is not in the bill. Next winter is the Theatre, not an inn. 28 Oct is *Shrew*, and he is not cast. 4 Dec is *Richard II* in the afternoon (cal-0733). The morning entry that day does not name the bill. | Do not bill *Romeo*. Do not restore the deposition to a public afternoon. Do not call 28 Oct *Errors*. | W085, S100 |
+| 2025-12-06 | 2025-12-22 | *Romeo* is in the stock | *Romeo* was first played on 6 Dec. The public stock now holds the comedy, the king play, and *Romeo*. 9 Dec has *Errors* at two in Shoreditch (cal-0744, S112a), then Canon Row in the evening, the whole *Richard II* (cal-0745). The last public afternoon is Mon 22 Dec, *Errors*. | Do not drop the 9 Dec afternoon. Do not add a public bill after the 22nd. The 23rd is no play. Richmond is court, and it has not begun. | W100, S112a |
+| 2025-12-23 | 2025-12-25 | dark, and not yet at court | No public bill. The 23rd is no play (cal-0775). The court plays have not been given. | Do not bill Richmond as a public afternoon. | § 5.1 |
+| 2025-12-26 | 2025-12-26 | *LLL* at Richmond | They play *LLL* tonight, by command (S115a). It is a court line, not a public afternoon. | *Romeo* at court is tomorrow. They are not paid. | S115a |
+| 2025-12-27 | 2025-12-27 | *Romeo* at Richmond | They play *Romeo* tonight (S115b). It is a court line, not a public afternoon. | *Errors* at court is tomorrow. They are not paid. | S115b |
+| 2025-12-28 | 2025-12-28 | *Errors* at Richmond | They play *Errors* tonight, the one Sunday (S115c). It is a court line, not a public afternoon. | They are not paid this year. | S115c |
+| 2025-12-29 | 2025-12-31 | the year is shut | He is home. No public bill. The *Dream* is not a play they can put up. | Do not invent a Twelfth Day performance. That lies outside this year. | W108 |

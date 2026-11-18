@@ -1,0 +1,1 @@
+Before light you opened the third act where the first act opened, in the street, at the hot end of the day. You wrote the line: for now these hot days, is the mad blood stirring. The talker is still talking, and still has a jest. You know he goes. You wrote that on this leaf you do not yet know the how.

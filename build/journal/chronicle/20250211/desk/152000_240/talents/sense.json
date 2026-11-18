@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote the forty sail onto Sunday's unsent letter and left the leaf on the desk. You added that Davy said the Queen had blessed them, and that you had not seen it. You did not write a smaller number. You did not send the letter.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the three lines and left the letter where it was.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Is still the person the leaf addresses, and is not in the room.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Added the forty sail to Sunday's letter",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Sunday's leaf",
+    "forty sail",
+    "still unsent"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,1 @@
+On the facing leaf you wrote what is owed of the Queen, what has been made and left unended, and a list in no column. Under Words you wrote that Nick's voice went at Richmond on the twenty-eighth, and that the next wants a different music. The workmen are to be men before they are asses. You did not write a reason beside any of the money.

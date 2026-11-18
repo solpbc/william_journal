@@ -1,0 +1,1 @@
+In the afternoon you read the first line of the prologue, and you did not read the next. Your hand stayed over the rest. The line is the one you will speak between the degrees, and you did not copy it out again for comfort.

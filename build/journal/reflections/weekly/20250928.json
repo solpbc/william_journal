@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250928",
+    "end": "20251004"
+  },
+  "generated_at": "2025-10-04T22:00:00Z",
+  "days": [
+    {
+      "day": "20250928",
+      "state": "memory",
+      "memory_id": "m-20250928-0"
+    },
+    {
+      "day": "20250929",
+      "state": "memory",
+      "memory_id": "m-20250929-1"
+    },
+    {
+      "day": "20250930",
+      "state": "memory",
+      "memory_id": "m-20250930-2"
+    },
+    {
+      "day": "20251001",
+      "state": "memory",
+      "memory_id": "m-20251001-3"
+    },
+    {
+      "day": "20251002",
+      "state": "memory",
+      "memory_id": "m-20251002-4"
+    },
+    {
+      "day": "20251003",
+      "state": "memory",
+      "memory_id": "m-20251003-5"
+    },
+    {
+      "day": "20251004",
+      "state": "memory",
+      "memory_id": "m-20251004-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250928-0",
+      "key": "mem_20250928_0",
+      "day": "20250928",
+      "text": "The jaw was a quince, the shilling waits, and the margin Anne heard is trust the boy.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250928/talents/morning_briefing",
+        "briefing_day": "20250928",
+        "refs": [
+          "sol://facets/household/activities/20250928#meeting_092000_240",
+          "sol://facets/household/activities/20250928#meeting_130000_480",
+          "sol://facets/stratford/activities/20250928#note_162000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250929-1",
+      "key": "mem_20250929_1",
+      "day": "20250929",
+      "text": "Twenty shillings, told twice, and the coffer ruled at twenty-three pound ten.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250929/talents/morning_briefing",
+        "briefing_day": "20250929",
+        "refs": [
+          "sol://facets/company/activities/20250929#meeting_091000_720",
+          "sol://facets/household/activities/20250929#meeting_113000_840",
+          "sol://facets/writing/activities/20250929#photo_114800_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250930-2",
+      "key": "mem_20250930_2",
+      "day": "20250930",
+      "text": "The prison speech was said twice to an empty house, and the tooth has until Thursday.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250930/talents/morning_briefing",
+        "briefing_day": "20250930",
+        "refs": [
+          "sol://facets/company/activities/20250930#frame_081500_240",
+          "sol://facets/company/activities/20250930#meeting_082000_180",
+          "sol://facets/company/activities/20250930#meeting_091500_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20251001-3",
+      "key": "mem_20251001_3",
+      "day": "20251001",
+      "text": "Fourpence halfpenny for the paper, and sixty shillings went to the Bell by Gilbert.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251001/talents/morning_briefing",
+        "briefing_day": "20251001",
+        "refs": [
+          "sol://facets/writing/activities/20251001#meeting_090500_720",
+          "sol://facets/writing/activities/20251001#photo_094000_60",
+          "sol://facets/company/activities/20251001#frame_191000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20251002-4",
+      "key": "mem_20251002_4",
+      "day": "20251002",
+      "text": "The boxes held eleven pound six, and the yard was quiet.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251002/talents/morning_briefing",
+        "briefing_day": "20251002",
+        "refs": [
+          "sol://facets/company/activities/20251002#frame_084000_240",
+          "sol://facets/company/activities/20251002#meeting_091500_720",
+          "sol://facets/company/activities/20251002#photo_130000_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20251003-5",
+      "key": "mem_20251003_5",
+      "day": "20251003",
+      "text": "Kings pay the same as carters, and sooner, and you had rather the house were like a wedding.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251003/talents/morning_briefing",
+        "briefing_day": "20251003",
+        "refs": [
+          "sol://facets/writing/activities/20251003#note_093000_720",
+          "sol://facets/company/activities/20251003#meeting_121000_840",
+          "sol://facets/writing/activities/20251003#frame_151000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20251004-6",
+      "key": "mem_20251004_6",
+      "day": "20251004",
+      "text": "The share was forty-five shillings, the best week.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251004/talents/morning_briefing",
+        "briefing_day": "20251004",
+        "refs": [
+          "sol://facets/company/activities/20251004#meeting_171000_840",
+          "sol://facets/company/activities/20251004#photo_175000_60",
+          "sol://facets/household/activities/20251004#frame_211500_240"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250928-0",
+      "key": "said_20250928_0",
+      "day": "20250928",
+      "quote": "I am not paying him today. The king has this week. The tooth can wait upon a Thursday, which is more patience than it has shown me.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250928#meeting_130000_480"
+      }
+    },
+    {
+      "id": "s-20250929-1",
+      "key": "said_20250929_1",
+      "day": "20250929",
+      "quote": "It's the only prize-fight I could win, and then only if they judged by speed.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250929#meeting_113000_840"
+      }
+    },
+    {
+      "id": "s-20250929-2",
+      "key": "said_20250929_2",
+      "day": "20250929",
+      "quote": "A man should know what he is not, once a quarter, and Michaelmas will do for the date.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250929#meeting_113000_840"
+      }
+    },
+    {
+      "id": "s-20250930-3",
+      "key": "said_20250930_3",
+      "day": "20250930",
+      "quote": "Not tonight. Not because I am brave. Because the king is still in the mouth, and I will not evict him for a shilling's worth of quiet.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250930#memo_184000_180"
+      }
+    },
+    {
+      "id": "s-20251001-4",
+      "key": "said_20251001_4",
+      "day": "20251001",
+      "quote": "I have been living as if a fault were a mood. I should like to see a fault that has weight.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251001#meeting_090500_720"
+      }
+    },
+    {
+      "id": "s-20251002-5",
+      "key": "said_20251002_5",
+      "day": "20251002",
+      "quote": "A quiet yard is a strange thanks. I will take it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251002#meeting_162000_720"
+      }
+    },
+    {
+      "id": "s-20251003-6",
+      "key": "said_20251003_6",
+      "day": "20251003",
+      "quote": "Fame is a poor poultice.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251003#meeting_121000_840"
+      }
+    },
+    {
+      "id": "s-20251004-7",
+      "key": "said_20251004_7",
+      "day": "20251004",
+      "quote": "I can hear both and marry neither.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251004#meeting_171000_840"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "narrative": "Inside the gate, yesterday's paper is under a new sheet. Two black-letter bills stand side by side in the wind. Titles only. No maker's name on either. No face is in the frame. His eye goes to the Theatre's bill second, which is his habit with a rival post. The clove is not in this picture. The jaw is, only as the way he holds his head.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the Rose's bill and the Theatre's, and did not take either down."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on bill in Two kings on one post"
+    },
+    {
+      "type": "Project",
+      "name": "Longshanks",
+      "role": "mentioned",
+      "context": "Shown on bill in Two kings on one post"
+    }
+  ]
+}

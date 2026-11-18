@@ -1,0 +1,51 @@
+{
+  "overview": "You looked at Juliet's roll after the singing. No word was struck. The pitch stays a third under.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the roll, and changed nothing."
+    },
+    {
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "formal_term": "Nick Sorrell",
+      "appointment_tier": "not_applicable",
+      "context": "Named as the voice of the roll. Not in the frame."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the roll",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no word struck",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a third under",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the lovers' play",
+      "asset_type": "other",
+      "disposition": "Read Juliet's roll after the singing"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-04",
+      "meaning": "Juliet's roll"
+    }
+  ],
+  "summary": "Read Juliet's roll after the singing"
+}

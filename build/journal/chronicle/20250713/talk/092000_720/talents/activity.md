@@ -1,0 +1,1 @@
+You stood in the porch through two turns of the glass. Fourteenthly was his heading, and you did not bring a sermon home. Sir John was in his pew and added nothing. You said the book would gain no cross for today. Mistress Ansell counted the turns and took you toward dinner.

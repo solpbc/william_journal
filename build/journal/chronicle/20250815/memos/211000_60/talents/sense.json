@@ -1,0 +1,66 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At night you kept the bargain small. The eighteenth is the only journey you will claim. You did not name a house into the dark. The six pairs were carried, not walked, and you let that stand.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said it low, and stopped on the word.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the carrier on the eighteenth",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No house from a floor",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "six pairs of sheep skins",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No house from a floor",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Named the eighteenth and kept the bargain",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the eighteenth",
+    "no house named",
+    "the six pairs carried"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The eighteenth is set. That is the journey."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "She did not name a house."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Six pairs. Carried. Not walked."
+    }
+  ]
+}

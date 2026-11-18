@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At night, still flat, you named the snap as a lute-string. You had lifted from the back. You had not fallen. You kept both of Anne's sentences, the unkind and the kind, and you did not call the back mended.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke it to the dark over the hall, and ended.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the barn frame",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The lute-string",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Named the snap as a lute-string",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the lute-string",
+    "the back",
+    "Anne's two sentences"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "It went like a lute-string."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I did not fall. That is the whole boast, and it is a small one."
+    }
+  ]
+}

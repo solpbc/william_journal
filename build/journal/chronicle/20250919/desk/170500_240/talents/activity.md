@@ -1,0 +1,1 @@
+After the play the clove did less than it had done during it, and you did not call that a cure. You took an unnamed leaf out of the folder. You put thy where my was, waited, and put my back. The leaf ends as it began. You put it away face down. You did not give it to anyone.

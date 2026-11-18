@@ -1,0 +1,1 @@
+You left the account book shut. The three leaves were not opened into the page. You did not write a new sum. The sixpence for firing and washing is the standing charge from Michaelmas, and it was not entered again this morning.

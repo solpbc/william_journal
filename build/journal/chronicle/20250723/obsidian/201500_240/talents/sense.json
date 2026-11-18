@@ -1,0 +1,44 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "Upstairs you wrote Anne five lines. The house goes dark on Saturday. You set out Monday, on foot, by Banbury, and you look to be at the bridge on Thursday, the last of July. Hobbins goes at first light and will be there four days before you. You commended her to the children and to your father and mother. You did not write that you had read her instruction not to come.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote five lines and sealed them.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the walk home",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Five lines to Anne",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Wrote Anne five lines",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "five lines",
+    "Saturday",
+    "Banbury",
+    "the bridge"
+  ],
+  "quotes": []
+}

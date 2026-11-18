@@ -1,0 +1,1 @@
+Garnish held up the pasteboard and read it scene by scene. Burbage is the king and needs no roll. You are Gaunt. Phillips is Bolingbroke, Heminges York, Bryan Northumberland, Sly Mowbray, Pope the gardener, Sincler the Groom. The Parliament is off the plot. The jig at the foot is Kemp's.

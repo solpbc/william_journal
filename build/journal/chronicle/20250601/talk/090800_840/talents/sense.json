@@ -1,0 +1,90 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Master Thwaite read the Lord Mayor's precept against blue starch and preached on it. The glass was turned once, and again. The Mayor sat ten yards off in a white ruff and did not speak. A draper's wife in the north aisle was blue at the band. Alse's band was white.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the glass, the pews, and one neck, and said the blue band aloud.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read the precept and preached on vanity, starch, and the loaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat in his pew in a white ruff, ten yards off, and did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told you to count without a voice, and told Alse she was inside the precept.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said her band was white, washed on Wednesday.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the precept against blue starch",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The precept, read with feeling",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard the precept against blue starch",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "William Shakespeare",
+    "Mistress Dorcas Ansell",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the precept",
+    "blue starch",
+    "the glass turned twice",
+    "a white ruff"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "No blue starch in ruffs."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Ten yards. White as a christening."
+    }
+  ]
+}

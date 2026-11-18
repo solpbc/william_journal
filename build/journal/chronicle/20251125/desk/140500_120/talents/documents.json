@@ -1,0 +1,49 @@
+{
+  "overview": "You played Gaunt at two in the gown you already wear for him. The afternoon was Richard II, in the cut book. The plot named the play. Three leaves were not on the peg and not in the gown. The chest stayed shut. You did not leave the house before Gaunt was done. When the part was done you stood where a man stands who is finished and the play is not.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Played Gaunt in the cut book."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Gaunt",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the cut book",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the chest shut",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Played Gaunt through"
+    },
+    {
+      "name": "Gaunt",
+      "asset_type": "other",
+      "disposition": "Played Gaunt through"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-25",
+      "meaning": "Gaunt, in the cut book"
+    }
+  ],
+  "summary": "Played Gaunt through"
+}

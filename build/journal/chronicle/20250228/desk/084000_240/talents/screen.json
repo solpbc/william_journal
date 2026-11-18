@@ -1,0 +1,17 @@
+{
+  "narrative": "A clean leaf on the desk under the west window, the inkhorn capped, no words on the paper. Through the glass, the church porch, the litany letting out. No face of his. Beyond the blank leaf, a woman on the step with an older woman, a music-book under her arm, dark hair under the hood. She looks up toward the rooks. The leaf is still blank. She has crossed toward the lane the window looks on. The door to the stair is shut. He is still in the chair. The leaf has no mark.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked up from a blank leaf and did not leave the chair."
+    },
+    {
+      "type": "Person",
+      "name": "the lady of the parish",
+      "role": "mentioned",
+      "context": "Came down the step with an older woman, looked up at the rooks, and crossed toward the lane. She did not speak."
+    }
+  ]
+}

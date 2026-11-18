@@ -1,0 +1,51 @@
+{
+  "overview": "You looked at the letter after the talk and copied the place and the two days. You did not copy a number of the dead. You kept the line that Tyrone was trained in the English manner, and you left the rest folded.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Copied no figure."
+    },
+    {
+      "name": "William Sly",
+      "role": "mentioned",
+      "formal_term": "William Sly",
+      "appointment_tier": "not_applicable",
+      "context": "Had brought the letter. He was not in this stretch. The sheet was his cousin's."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the letter",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no figure",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the English manner",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the cousin's letter",
+      "asset_type": "other",
+      "disposition": "Copied the place and the two days"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-18",
+      "meaning": "No figure follows"
+    }
+  ],
+  "summary": "Copied the place and the two days"
+}

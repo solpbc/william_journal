@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At home, late, you said one sentence and stopped. You did not add a name, a place, or an account. You did not go back to the king.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the sentence and left it.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Said one sentence, and stopped",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Whitsun",
+    "the one sentence",
+    "the chamber"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Whitsun. She looked, or she looked at the window. Leave it."
+    }
+  ]
+}

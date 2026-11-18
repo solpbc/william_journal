@@ -1,0 +1,13 @@
+{"day": "20251130", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "111500_480", "stream": "talk", "ts": 1764546900000}
+{"change_class": "substantive", "day": "20251130", "event": "sense.change_detect", "mode": "segment", "segment": "111500_480", "stream": "talk", "ts": 1764546900001}
+{"day": "20251130", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "111500_480", "stream": "talk", "ts": 1764546900002}
+{"day": "20251130", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "151000_120", "stream": "memos", "ts": 1764546900010}
+{"change_class": "substantive", "day": "20251130", "event": "sense.change_detect", "mode": "segment", "segment": "151000_120", "stream": "memos", "ts": 1764546900011}
+{"day": "20251130", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "151000_120", "stream": "memos", "ts": 1764546900012}
+{"day": "20251130", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "160000_720", "stream": "obsidian", "ts": 1764546900020}
+{"change_class": "substantive", "day": "20251130", "event": "sense.change_detect", "mode": "segment", "segment": "160000_720", "stream": "obsidian", "ts": 1764546900021}
+{"day": "20251130", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "160000_720", "stream": "obsidian", "ts": 1764546900022}
+{"day": "20251130", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "164000_240", "stream": "desk", "ts": 1764546900030}
+{"change_class": "substantive", "day": "20251130", "event": "sense.change_detect", "mode": "segment", "segment": "164000_240", "stream": "desk", "ts": 1764546900031}
+{"day": "20251130", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "164000_240", "stream": "desk", "ts": 1764546900032}
+{"day": "20251130", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "164000_240", "stream": "desk", "ts": 1764546900033}

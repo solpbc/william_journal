@@ -1,0 +1,94 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Mistress Ansell boiled the oak-gall ink on the Monday copper from your receipt: galls, copperas and gum. The new horn was twopence on Saturday and is not paid again. Board, if you take it, is threepence, two or three times in a week. You left the fresh boil in the kitchen.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the receipt, and refused a second twopence.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Boiled it on the Monday copper, and restated the threepence.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted a hundred stirs, and left the new ink downstairs.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "2d the horn",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Monday's ink",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "3d a meal",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Monday's ink",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "oak-gall ink",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Monday's ink",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood out of the steam while the ink boiled",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Monday's ink",
+    "galls copperas and gum",
+    "twopence the horn",
+    "threepence at the table",
+    "quiet after nine"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Galls, copperas, and gum. That is the receipt."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Twopence the horn, and he had a new one on Saturday."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "If you board, it is threepence, and you do not board every night."
+    }
+  ]
+}

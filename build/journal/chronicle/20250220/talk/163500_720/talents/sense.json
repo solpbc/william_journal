@@ -1,0 +1,130 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "In the tiring-parlour the boxes held seven pound eleven shillings. Margery said the yard went out quiet, and that she had never known a comedy do it. Garnish had ticked eleven lines of Kemp's and would not round them. Burbage had ridden Berowne until the black came in. Pope had stopped the play twice. Nick and Arthur had sent the Muscovites back, and Nick had governed the last scene. Sincler's half-line put the laugh out. You had gone on first in a paper crown, and you did not explain the quiet.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the two figures plain, and refused a finer account of the quiet.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave seven pound eleven and said the yard went out quiet.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported eleven ticks and refused to round them.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Owned the eleven lines and did not apologise.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he stopped riding Berowne when the black came in.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he and Arthur sent the Muscovites back, and that the Princess governed the last scene.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Owned the two stops, and left the messenger's stop as the one that mattered.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Sincler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood by in the black he had worn, and was not asked to tell it again.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood by Nick, and was named for the blunders he had batted back.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in They went out quiet",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard seven pound eleven, and the yard went out quiet",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Goodwife Margery Pell",
+    "William Shakespeare",
+    "Abel Garnish",
+    "Will Kemp",
+    "Richard Burbage",
+    "Thomas Pope",
+    "Nick Sorrell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "seven pound eleven",
+    "eleven lines",
+    "the quiet exit",
+    "the Muscovites",
+    "the messenger"
+  ],
+  "quotes": [
+    {
+      "speaker": "margery_pell",
+      "text": "They went out quiet. I never knew a comedy send them out quiet."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "Eleven. I ticked every one of Master Kemp's as he said it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The sum is seven pound eleven."
+    }
+  ]
+}

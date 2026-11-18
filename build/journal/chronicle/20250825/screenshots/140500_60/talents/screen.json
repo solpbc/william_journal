@@ -1,0 +1,17 @@
+{
+  "narrative": "The heavens blue above the stage door, the posts painted over like marble, and a hand on the doorpost. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked up, coming in."
+    },
+    {
+      "type": "Company",
+      "name": "the Theatre",
+      "role": "mentioned",
+      "context": "In photo: The heavens blue"
+    }
+  ]
+}

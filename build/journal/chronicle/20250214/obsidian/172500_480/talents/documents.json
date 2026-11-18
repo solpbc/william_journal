@@ -1,0 +1,51 @@
+{
+  "overview": "At home you wrote the afternoon in two halves. The useful half was where the laugh starts, how attention comes back, and what a body can carry. The other half was one sentence, that Alleyn is easy because the part is smaller than he is and the yard cannot tell. You were ashamed of that sentence because he had been cordial, and you left it on the page. You noted the post on the left, the penny, the day, and the full moon. You did not write a receipt.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the page, named the bad sentence, and did not strike it."
+    },
+    {
+      "name": "Edward Alleyn",
+      "role": "mentioned",
+      "formal_term": "Edward Alleyn",
+      "appointment_tier": "not_applicable",
+      "context": "Is the man the bad sentence is about, and is not in the room."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the stride",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the bad sentence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the post on the left",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Long Meg of Westminster",
+      "asset_type": "other",
+      "disposition": "Wrote both halves and kept the bad sentence"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-02-14",
+      "meaning": "Half, and half"
+    }
+  ],
+  "summary": "Wrote both halves and kept the bad sentence"
+}

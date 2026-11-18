@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You heard John at the outer door and stayed on the inner side. Pope would not walk you at the last cue. Nick kept from practicing a smile. You waited to be called.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Heard John at the outer door and waited",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Heard John at the outer door and waited",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Heard John at the outer door and waited",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "the tiring-house",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Heard John at the outer door and waited",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Came in for the afternoon play",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Nick Sorrell",
+    "William Shakespeare",
+    "Thomas Pope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the outer door",
+    "the last cue",
+    "no practice"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_pope",
+      "text": "The call will not be prettier for being waited on."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "You looked along the board at roast, a mustard pot, manchet crusts, and pewter. The board was scarred. No face was in the picture.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Sat at the scarred board and looked at what was set on it.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Looked along the board",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "roast",
+    "mustard",
+    "manchet",
+    "pewter"
+  ],
+  "quotes": []
+}

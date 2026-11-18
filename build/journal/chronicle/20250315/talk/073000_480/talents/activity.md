@@ -1,0 +1,1 @@
+Gannet took you from Old Swan on the flood, twopence each, paid by each man. He has Raleigh crowned in Guiana already, and you did not correct him. He will land you at the outer stair and no further. If the tide turns while you are inside, Kemp will not pay it to turn back.

@@ -1,0 +1,1 @@
+Jacqueline gave you bread and a hard cheese for the first day. Field gave you a worn piece of type for the boy, a capital H with a chipped foot, no use to a printer, and told you to say it has been in Plutarch. You left the Holinshed under the cloth.

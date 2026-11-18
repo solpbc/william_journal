@@ -1,0 +1,81 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Before church Alse said the loaf was two fingers short and that she had paid the penny. Mistress Ansell kept the price, and said the house would not pay tuppence. You did not argue it. You said Monday at six is the Bell, and that nothing is paid today. You did not carry the brief to church. The pot is ordinary.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted the penny, and said nothing is paid today.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the price, and sent him to the pew.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the loaf and brought the cloak.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "a penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two fingers, and a penny",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Bell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two fingers, and a penny",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard the loaf was a penny",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two fingers",
+    "a penny",
+    "Monday at six",
+    "nothing paid"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Two fingers, and a penny."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Nothing is paid today."
+    }
+  ]
+}

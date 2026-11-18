@@ -1,0 +1,1 @@
+Standing, with the pen still in your hand, you said that in July you had said they jest first and then somebody is out, and that you had not known it would be him. You said Phillips will never forgive you. It is the best part in the play, and he is dead by three o'clock. You did not go and tell him.

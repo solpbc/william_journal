@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:10:00", "text": "The loaf was a penny, and small. He made the wheat say it. Six-and-thirty. I am not the villain of that either.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:10:16", "text": "I had her stile turned into a tale, and I heard it, and I stopped. She heard the stop.", "timing": {"end": 30.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:10:30", "text": "The eighteenth. The bridge. A horse's pace. The pack, the sheets, the inkhorn.", "timing": {"end": 40.0, "start": 30.0}}

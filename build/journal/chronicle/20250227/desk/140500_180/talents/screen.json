@@ -1,0 +1,17 @@
+{
+  "narrative": "The same roll as Tuesday, the name at the top, the margin note still in the side. No new stroke. No face. The note beside the loss, unchanged. The rest of the part runs out of the frame.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Left the margin as he had written it and played the opening."
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "context": "Shown on part in The same part"
+    }
+  ]
+}

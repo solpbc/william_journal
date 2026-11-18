@@ -1,0 +1,190 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20251228",
+    "end": "20260103"
+  },
+  "generated_at": "2026-01-03T22:00:00Z",
+  "days": [
+    {
+      "day": "20251228",
+      "state": "memory",
+      "memory_id": "m-20251228-0"
+    },
+    {
+      "day": "20251229",
+      "state": "memory",
+      "memory_id": "m-20251229-1"
+    },
+    {
+      "day": "20251230",
+      "state": "memory",
+      "memory_id": "m-20251230-2"
+    },
+    {
+      "day": "20251231",
+      "state": "memory",
+      "memory_id": "m-20251231-3"
+    },
+    {
+      "day": "20260101",
+      "state": "nothing_shared"
+    },
+    {
+      "day": "20260102",
+      "state": "nothing_shared"
+    },
+    {
+      "day": "20260103",
+      "state": "nothing_shared"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20251228-0",
+      "key": "mem_20251228_0",
+      "day": "20251228",
+      "text": "You kept morning prayer at the inn and played the old comedy before the Queen. Nick came in on the note, his voice dropped a fifth, and he stopped and bowed. Arthur took the next verse. You told him it had come. Phillips barred a song in the boat, and Nick agreed.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251228/talents/morning_briefing",
+        "briefing_day": "20251228",
+        "refs": [
+          "sol://facets/company/activities/20251228#meeting_000500_480",
+          "sol://facets/company/activities/20251228#meeting_091000_720",
+          "sol://facets/writing/activities/20251228#memo_154000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20251229-1",
+      "key": "mem_20251229_1",
+      "day": "20251229",
+      "text": "My lord's man brought four pounds for hose, in eight parts of ten shillings. You put your ten behind both locks. At the Bull, Kemp told the button story at last.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251229/talents/morning_briefing",
+        "briefing_day": "20251229",
+        "refs": [
+          "sol://facets/company/activities/20251229#meeting_083000_720",
+          "sol://facets/company/activities/20251229#note_085200_240",
+          "sol://facets/company/activities/20251229#meeting_140000_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20251230-2",
+      "key": "mem_20251230_2",
+      "day": "20251230",
+      "text": "Before the house was up you wrote Anne the brook sentence and the coffer as nine pounds more than at New Year, and you left the letter open on the board. You wrote the page that joins the workmen to the queen who wakes. At Field's fire you read a dozen leaves, and you stayed until the leaf was shut.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251230/talents/morning_briefing",
+        "briefing_day": "20251230",
+        "refs": [
+          "sol://facets/household/activities/20251230#photo_055000_60",
+          "sol://facets/stratford/activities/20251230#memo_060500_60",
+          "sol://facets/company/activities/20251230#frame_062000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20251231-3",
+      "key": "mem_20251231_3",
+      "day": "20251231",
+      "text": "The loaf was a penny and two fingers short. After supper you counted the coffer twice, at thirty-three pounds ten. The Queen's three nights are still expected, and they are not in that figure. You lit a fresh candle and took up the twelfth leaf.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251231/talents/morning_briefing",
+        "briefing_day": "20251231",
+        "refs": [
+          "sol://facets/household/activities/20251231#meeting_082000_720",
+          "sol://facets/household/activities/20251231#memo_155000_60",
+          "sol://facets/writing/activities/20251231#note_203000_840"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20251228-0",
+      "key": "said_20251228_0",
+      "day": "20251228",
+      "quote": "I am not writing a better Egeon while they laugh. I was younger. The tale can bear being younger.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251228#meeting_220500_600"
+      }
+    },
+    {
+      "id": "s-20251228-1",
+      "key": "said_20251228_1",
+      "day": "20251228",
+      "quote": "It's come, Nick. Sly shall teach thee to fence.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251228#meeting_225500_720"
+      }
+    },
+    {
+      "id": "s-20251229-2",
+      "key": "said_20251229_2",
+      "day": "20251229",
+      "quote": "If the story finds the button, the story is a lie.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251229#meeting_143500_1080"
+      }
+    },
+    {
+      "id": "s-20251229-3",
+      "key": "said_20251229_3",
+      "day": "20251229",
+      "quote": "A house that repeats itself is a house I can come back to.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20251229#meeting_161500_600"
+      }
+    },
+    {
+      "id": "s-20251230-4",
+      "key": "said_20251230_4",
+      "day": "20251230",
+      "quote": "An ending would be a lie at this table, and I have spent the morning not writing one.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20251230#meeting_122000_720"
+      }
+    },
+    {
+      "id": "s-20251230-5",
+      "key": "said_20251230_5",
+      "day": "20251230",
+      "quote": "Pages. Not a play. A dozen leaves, no title, and no last act.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251230#meeting_194500_840"
+      }
+    },
+    {
+      "id": "s-20251231-6",
+      "key": "said_20251231_6",
+      "day": "20251231",
+      "quote": "A year can be counted without an audience.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20251231#meeting_082000_720"
+      }
+    },
+    {
+      "id": "s-20251231-7",
+      "key": "said_20251231_7",
+      "day": "20251231",
+      "quote": "Counted. \u2026Tired. Not done. Good.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251231#memo_211200_60"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote Anne a letter shorter than the Christmas one, and with no paragraph for your father and mother. You told her the three nights were liked, that the Queen laughed once at Pope, and that the pay waits on an office. You set down the sentence from Shottery brook as you owed it. You gave the coffer as nine pounds more than at New Year, after the carrier, and you did not write the total. You have asked nobody a house price. Each child got a paragraph of the same length. The sheet is still in the house. You did not name a carrier.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the letter at the table and did not give it to a carrier.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the house. The sheet is for her, and it waits.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named, and asked for the two faults in the book.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named, and the tune left unnamed.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named. The ball is for the yard. No sword was asked for at court.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Wrote Anne's letter at the desk",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the letter",
+    "nine pounds more",
+    "no house price",
+    "three children"
+  ],
+  "quotes": []
+}

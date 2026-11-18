@@ -1,0 +1,125 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "The first rehearsal on the big stage was the comedy for Easter Monday. The yard was three times the Cross Keys. Garnish had a new plot by the stage door. Cowley missed Dull's entrance three times because the cue was a Latin tag he could not hear from behind the arras. Nick was sound and did not shout. Arthur's hooks had split and were left. You said you would take the roll home. No bill was up. Larkham was in the yard and did not speak.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the fault as his own and took the roll home in promise.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Demanded the length of the boards for Berowne.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Missed the entrance three times and asked for a hearable word.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called an unheard tag a private joke, and said the house was not open.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Arrived as the Princess without swelling the voice.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed the split hooks and did not get a hem written.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Hung the new plot, and refused to prompt from two truths.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Heard. He was not asked to copy.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the comedy",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three times the yard",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Cowley miss Dull's entrance three times",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Richard Cowley",
+    "John Heminges",
+    "Nick Sorrell",
+    "Arthur Meeks"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three times the yard",
+    "three missed entrances",
+    "the Latin tag",
+    "the split hooks"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The yard is three times the Cross Keys."
+    },
+    {
+      "speaker": "richard_cowley",
+      "text": "I cannot hear it from behind the arras."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "There is no bill on the door."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The tag is satis quod sufficit."
+    }
+  ]
+}

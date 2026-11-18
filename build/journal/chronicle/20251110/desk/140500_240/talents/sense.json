@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "productivity",
+  "activity_summary": "At two you opened The Comedy of Errors as Egeon and were idle until the end. You did not stay in the play. You brought no plot and no second name away from the door.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Opened as Egeon, and was idle after.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Egeon, then idle",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Opened Errors as Egeon",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Egeon",
+    "the opening",
+    "idle till the end"
+  ],
+  "quotes": []
+}

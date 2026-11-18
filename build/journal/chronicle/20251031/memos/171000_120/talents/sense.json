@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "After the play you had been an old man in Titus, and you did not name the part. The page is still one page. The letter is still missing. You did not open the tomb to fill the evening.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a name, and did not open the evening into a new page.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Titus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in An old man, and no name",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Came home from an old man's part in Titus",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Titus",
+    "no name",
+    "the page left"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "An old man. I am not giving him a name tonight."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The page is still one page."
+    }
+  ]
+}

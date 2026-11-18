@@ -1,0 +1,1 @@
+Burbage came at the Welsh shore too loud, fighting Phillips, and would not hold the roll or have Garnish in his ear. He said give him the long one again, and not to read it. You gave it, and then told him half the voice, and to watch it as from a gallery, as if it were happening to someone he was sorry for. Kemp was not called.

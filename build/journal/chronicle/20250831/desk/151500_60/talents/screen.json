@@ -1,0 +1,29 @@
+{
+  "narrative": "A folded sheet on the chest, wax on it, a hand still near the seal. The window is open on the close. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Sealed the sheet and wrote the direction."
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "context": "Named on the outside. Not present."
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "mentioned",
+      "context": "Named as the carrier. Not in the house."
+    },
+    {
+      "type": "Tool",
+      "name": "the eleventh of September",
+      "role": "mentioned",
+      "context": "Shown on letter in Sealed for the eleventh"
+    }
+  ]
+}

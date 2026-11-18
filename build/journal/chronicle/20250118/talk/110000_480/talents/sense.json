@@ -1,0 +1,81 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Cowley came as far as the chair, with Egeon already learned, and asked which correction was current. You told him the second, Ephesus rather than Epidamnum at the third speech, and you tried to give the reason. He refused the reason. Mistress Ansell set bread and broth between you and kept him to the chair. You stayed in bed. The afternoon was not treated as a sacrifice.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the current correction, stayed in bed, and did not make a virtue of it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had the part learned, took the word, and refused the reason.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped him at the chair and set bread and broth between them.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Which correction is current",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Told Cowley Ephesus at the third speech and stayed in bed",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Cowley",
+    "William Shakespeare",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the current correction",
+    "Ephesus",
+    "bread and broth",
+    "the chair as the limit"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_cowley",
+      "text": "I have learned your part. You may now recover at your leisure."
+    },
+    {
+      "speaker": "richard_cowley",
+      "text": "A reason will not help an entrance."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "say Ephesus, not Epidamnum"
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Bread, and broth."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+You went to check Daniel's third book, and the line stood as your own copy had it. On the stall was Saint Peters Complaint, with other poems, 1595, with no author named. You read the epistle standing, The Author to his loving Cosen, including the sentence on a poet, a lover, and a liar. You copied no stanza of Daniel. You claimed no kinship and thought none.

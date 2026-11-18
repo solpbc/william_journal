@@ -1,0 +1,69 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "A carter stopped at the nearer bill and told his boy it was a king play on Thursday. The boy asked which king. You let the title stand. Garnish and Kemp were at the gate with you, and neither of them corrected the carter. The town has named the play before seeing it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Let the title do the work, and did not add the plot.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the bill succeed with a stranger, and moved them on.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted two kings and none of them his, and was content.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A king play, Thursday",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard a carter call it a king play",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Abel Garnish",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the carter",
+    "a king play",
+    "Thursday",
+    "the gate"
+  ],
+  "quotes": [
+    {
+      "speaker": "(the carter)",
+      "text": "A king play. Thursday."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "12:10:00", "text": "Chipping Norton, and noon. Long Compton was dry under the hoof, and the stones stood clear on the ridge.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "12:10:14", "text": "The tables have been on the bow since Shipston. The reins are slack. I have written nothing.", "timing": {"end": 26.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "12:10:26", "text": "Not a word. The leaf stays blank till the Bear.", "timing": {"end": 36.0, "start": 26.0}}

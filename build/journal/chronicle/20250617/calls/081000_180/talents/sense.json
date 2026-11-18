@@ -1,0 +1,92 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Cuthbert Burbage called from Holywell. His father had walked the playhouse half the night with a lantern. Two hired men are to sleep in the tiring-house from tonight at sixpence each, and the yard gates are to be chained after the play. Cuthbert would have had the flag down on a trouble day, since a white swan is a thing to throw at. You said keep it up, because a house that hides looks guilty. He said that was his father's opinion. You said it was Heminges's first. He called it three to one.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the house should not hide, and named Heminges as the first of the three.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Cuthbert Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called from Holywell, set the two men at sixpence and the chain after the play, and yielded on the flag.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Walked the playhouse with a lantern. He was not on the call. His son reported him.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not on the call. You said the flag had been his opinion first.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Theatre",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A white swan is a thing to throw at",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "sixpence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A white swan is a thing to throw at",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Kept the flag up",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Cuthbert Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the timber house",
+    "sixpence",
+    "the flag",
+    "three to one"
+  ],
+  "quotes": [
+    {
+      "speaker": "cuthbert_burbage",
+      "text": "since a white swan is a thing to throw at."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Keep it up. A house that hides looks guilty."
+    },
+    {
+      "speaker": "cuthbert_burbage",
+      "text": "Then it's three to one. God keep you."
+    }
+  ]
+}

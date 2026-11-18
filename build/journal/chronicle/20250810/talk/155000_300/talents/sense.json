@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You left the step with Anne. She wanted the hedge while the light still showed it. You went with her, and you did not make a tale of the boats.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Set off with Anne toward the hedge",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Set off with Anne toward the hedge",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came home from the bridge",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the hedge",
+    "the step left behind"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "The hedge, while I can still see it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not taking the step along as a tale."
+    }
+  ]
+}

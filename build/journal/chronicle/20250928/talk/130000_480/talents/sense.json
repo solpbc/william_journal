@@ -1,0 +1,104 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the board Mistress Ansell called the jaw a quince and named Master Yaxley at a shilling. You said after Thursday, and you meant the king. She told you a face like a pudding would serve you both right. Verbeke offered a thread, a door, and a friend willing to shut it. Alse left, and came back with sops. You said Saturday's thirty-four shillings was the best since Whitsun, and that you would give half of it to chew. You did not name the half as a sum. The Mayor's letter stays out of what you will write.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said after Thursday, named the king, and kept the shilling in his pocket.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called the jaw a quince, priced the drawing at a shilling, and sent him upstairs to write.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Offered the Ghent door, and did not offer to be the friend who shuts it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left at the mention of the door, and brought the sops back.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Master Yaxley",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A jaw like a quince",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "thirty-four shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A jaw like a quince",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard the jaw called a quince and said after Thursday",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Gillis Verbeke",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the quince",
+    "a shilling",
+    "after Thursday",
+    "the door",
+    "sops",
+    "thirty-four shillings"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Look at him. A jaw like a quince."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A man who can walk a hundred miles for a barn can walk forty yards for a tooth."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "After Thursday, Mistress."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Then you will speak his uncle's dying with a face like a pudding, and it will serve you both right."
+    },
+    {
+      "speaker": "gillis_verbeke",
+      "text": "In Ghent they tie a thread to the tooth and the other end to a door."
+    }
+  ]
+}

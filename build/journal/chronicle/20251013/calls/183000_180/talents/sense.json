@@ -1,0 +1,81 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You spoke to Gilbert from Great St Helen's and gave him joy of the day. He was at his lodging in St Bride's. The money had gone down safe by the carrier of the second. A wool-man at the Bell on Saturday had brought that word, and a whole cheese of your mother's make, half of it yours. He said you could not chew, and that he would eat your half and call it his birthday. The frame raised in August is thatched. Your father says it is the first thing a player ever held up. You told him the tooth comes out tomorrow at ten, at twelve pence. He would have done it for six with the shop pliers. You asked him to keep you the rind. The cheese stays with him.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Opened from Great St Helen's, left the cheese where it was, and named ten o'clock and twelve pence.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gilbert Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the carrier's word, the cheese, the father's sentence, and the offer of the shop pliers. He kept the rind.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the cheese",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in God give you joy of the day",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the August frame",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in God give you joy of the day",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Gave Gilbert joy of his day and the cheese",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Gilbert Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "his twenty-nine",
+    "the carrier of the second",
+    "the cheese",
+    "the thatched frame",
+    "twelve pence"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Gilbert? Will. From Great St Helen's, with a face like a pudding."
+    },
+    {
+      "speaker": "gilbert_shakespeare",
+      "text": "You can't chew. I'll eat your half and call it my birthday."
+    },
+    {
+      "speaker": "gilbert_shakespeare",
+      "text": "Father says it's the first thing a player ever held up."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "And you. Keep me the rind."
+    }
+  ]
+}

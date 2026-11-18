@@ -1,0 +1,1 @@
+The share was fourteen shillings. You were not in the Knave. John set next week's bills and left you out of Friday's Richard the Third. You wrote received, and you did not write a total. Last Saturday's ten was not added. The carrier on Thursday was already on the book. Nobody folded a letter.

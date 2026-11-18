@@ -1,0 +1,64 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You read a little more of the workmen to the fire, not to the press. Field told you not to promise a book while the bar was cold. Jacqueline left the cups. You stopped where the morning's page stops.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Read the workmen to the fire and stopped",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Read the workmen to the fire and stopped",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Jacqueline Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Read the workmen to the fire and stopped",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read the pages by Field's fire",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Richard Field",
+    "Jacqueline Field"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "reading to the fire",
+    "the cold bar",
+    "the cups left"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_field",
+      "text": "The bar is cold. It can stay cold."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am stopping where I stopped this morning."
+    }
+  ]
+}

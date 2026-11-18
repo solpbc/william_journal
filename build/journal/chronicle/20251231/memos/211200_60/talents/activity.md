@@ -1,0 +1,1 @@
+With the book already shut, you said how the year's work is divided, and that you know which is which. You named twenty pounds not to be spent, and then you refused the leaf and refused the reason. You ended on counted, tired, not done, good.

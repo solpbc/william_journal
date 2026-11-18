@@ -1,0 +1,72 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "Alse brought the water and stayed. You tried the garden's idea on her, not today's sheet. A girl at a window says a rose would smell the same called anything. Alse said it would not sell the same, not if you cried them in Cheap for stinkweed. You told her the boy is under the window the whole while, and that the girl does not know. She said that was hard on her, asked if even the girl is a boy, and said then it is hard on him.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told the window, the war of the houses, and the boy underneath, and reached for the tables.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered with stinkweed, and with the hardness on her and then on him.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the rose",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Cried for stinkweed",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Tried the rose on Alse and heard stinkweed",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the rose",
+    "stinkweed",
+    "the boy under the window",
+    "the boy who plays her"
+  ],
+  "quotes": [
+    {
+      "speaker": "alse_pinder",
+      "text": "But it wouldn't *sell* the same. Not if you cried them in Cheap for stinkweed."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "He's under the window the whole while."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "And she don't know? Oh, sir. That's hard on her."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "Then it's hard on *him*."
+    }
+  ]
+}

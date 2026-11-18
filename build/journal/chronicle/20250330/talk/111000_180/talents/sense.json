@@ -1,0 +1,64 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the porch your mother said, once, that it was good you came at Lent and not only wrote it. You answered with the letter and the coming. She said she would not say it twice. Anne sent you both on after the children. No second sentence was added.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered with Friday's letter, and gave his arm.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the sentence once, and said she had finished.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put them on the lane, and kept dinner from becoming a speech.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Heard the Lent sentence once",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mary Shakespeare",
+    "William Shakespeare",
+    "Anne Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the porch",
+    "the one sentence",
+    "the lane"
+  ],
+  "quotes": [
+    {
+      "speaker": "mary_shakespeare",
+      "text": "It is good you came at Lent and not only wrote it."
+    },
+    {
+      "speaker": "mary_shakespeare",
+      "text": "I have said the one thing. I will not say it twice."
+    }
+  ]
+}

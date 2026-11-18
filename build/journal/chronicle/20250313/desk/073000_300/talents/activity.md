@@ -1,0 +1,1 @@
+You looked at Verona again and did not write a scene. The month is struck. The days are still a blank. Gib's flank covered the outer margin of the page. You did not write a speech, and you are not opening a king. The pen was not taken up.

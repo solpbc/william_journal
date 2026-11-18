@@ -1,0 +1,116 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At the reckoning John refused to call a hope a coin. Pell said Wednesday's Titus had a full stair, that you were not on it, and that she brought no figure. Edith's eight shillings for the prince's sleeves were written and unpaid, and nobody paid them from the stock or from your purse. The gown's fifty shillings were unpaid, on credit against the Queen's twenty pounds, which have not come. Half down would have been twenty-five shillings, and it was not paid. You did not turn Tuesday's eleven shillings into a new stock. John would not count the coffer or name a share. Your twopence to the carrier stayed out of the company book. Kemp was not set down beside any of it. Nothing was bought.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a new figure and kept the twopence personal.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Itemised the two unpaid sums and named no share.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the Wednesday stair and brought no figure.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the eight shillings visible and unpaid.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the fifty and said nothing was bought.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept his name off the page.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Princess's gown",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Unpaid, on purpose",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Titus Andronicus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Unpaid, on purpose",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Sat the reckoning and heard both debts still owed",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Goodwife Margery Pell",
+    "William Shakespeare",
+    "Edith Kettlewood",
+    "Abel Garnish",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the reckoning",
+    "the fifty shillings",
+    "Edith's eight",
+    "no share"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "We are here to see what is owed, and not to call a hope a coin."
+    },
+    {
+      "speaker": "edith_kettlewood",
+      "text": "The prince's sleeves are still eight shillings."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "I have no third item that is a share."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The carrier was twopence, from my hand, for my own letter."
+    }
+  ]
+}

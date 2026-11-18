@@ -1,0 +1,13 @@
+{"day": "20250706", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "092000_720", "stream": "talk", "ts": 1751842500000}
+{"change_class": "substantive", "day": "20250706", "event": "sense.change_detect", "mode": "segment", "segment": "092000_720", "stream": "talk", "ts": 1751842500001}
+{"day": "20250706", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "092000_720", "stream": "talk", "ts": 1751842500002}
+{"day": "20250706", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "112000_180", "stream": "desk", "ts": 1751842500010}
+{"change_class": "substantive", "day": "20250706", "event": "sense.change_detect", "mode": "segment", "segment": "112000_180", "stream": "desk", "ts": 1751842500011}
+{"day": "20250706", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "112000_180", "stream": "desk", "ts": 1751842500012}
+{"day": "20250706", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "112000_180", "stream": "desk", "ts": 1751842500013}
+{"day": "20250706", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "142000_120", "stream": "memos", "ts": 1751842500020}
+{"change_class": "substantive", "day": "20250706", "event": "sense.change_detect", "mode": "segment", "segment": "142000_120", "stream": "memos", "ts": 1751842500021}
+{"day": "20250706", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "142000_120", "stream": "memos", "ts": 1751842500022}
+{"day": "20250706", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "185000_600", "stream": "talk", "ts": 1751842500030}
+{"change_class": "substantive", "day": "20250706", "event": "sense.change_detect", "mode": "segment", "segment": "185000_600", "stream": "talk", "ts": 1751842500031}
+{"day": "20250706", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "185000_600", "stream": "talk", "ts": 1751842500032}

@@ -1,0 +1,1 @@
+You kept morning prayer at the inn's long table. You named the night as the old play, once, a year to the day, and you refused to improve Egeon. Kemp started the Greenwich dog and Bryan stopped him with the old sentence. Phillips kept Nick under the note. No jig has been left yet. Heminges has no purse and no sum, and the two cloaks are still waiting on a yeoman and a light.

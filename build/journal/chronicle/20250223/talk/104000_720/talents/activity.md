@@ -1,0 +1,1 @@
+At St Helen's Master Thwaite turned the sand-glass twice. He said the fast was ten days off, and that Ash Wednesday was the fifth of March. Sir John Spencer sat three rows ahead and did not speak. You came out with the house for dinner.

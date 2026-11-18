@@ -1,0 +1,1 @@
+You read the Rose's bill first and your own second. The Grecian Comedy, and Fair Em. Black-letter, title only, no author on either. The corner of yours was already torn for a pipe-light. You do not know the Rose's takings. You are not cast, and you went back to the desk.

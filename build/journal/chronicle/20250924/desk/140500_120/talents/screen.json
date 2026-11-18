@@ -1,0 +1,17 @@
+{
+  "narrative": "The plot on the peg. The title and the hour. No name of a part beside his. No face. A paper read at the door and not taken down. One title. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Played the afternoon, and brought no part-name away."
+    },
+    {
+      "type": "Project",
+      "name": "Richard the Third",
+      "role": "mentioned",
+      "context": "Shown on plot in The crookback, no name of a side"
+    }
+  ]
+}

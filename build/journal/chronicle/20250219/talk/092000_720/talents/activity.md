@@ -1,0 +1,1 @@
+You rehearsed the comedy once more and Garnish still had no total. Kemp wanted room for tomorrow and was not given a number. Burbage kept the refusal. Sincler kept the half-line small. You said you are not in this afternoon's Shrew. Nick was released until two of the clock tomorrow.

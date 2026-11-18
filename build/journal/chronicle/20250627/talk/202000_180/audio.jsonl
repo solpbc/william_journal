@@ -1,0 +1,7 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "dorcas_ansell", "start": "20:20:00", "text": "They are saying twenty are taken. I have it from the stair, not from the lane. Later than the frame.", "timing": {"end": 18.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:20:18", "text": "Then it is later, and it is heard. I did not see them taken.", "timing": {"end": 32.0, "start": 18.0}}
+{"sentence_id": 3, "speaker": "gillis_verbeke", "start": "20:20:32", "text": "Heard. Not seen. I am in this room. The street door is not barred. You have not asked me to bar it.", "timing": {"end": 50.0, "start": 32.0}}
+{"sentence_id": 4, "speaker": "dorcas_ansell", "start": "20:20:50", "text": "I am not asking. The shutter is the bar I made. Twenty is the number they are saying. I will not improve it.", "timing": {"end": 68.0, "start": 50.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "20:21:08", "text": "Twenty, heard later. That is enough to take upstairs. I am not going out again.", "timing": {"end": 84.0, "start": 68.0}}
+{"sentence_id": 6, "speaker": "gillis_verbeke", "start": "20:21:24", "text": "And I am not. Good night to the number.", "timing": {"end": 94.0, "start": 84.0}}

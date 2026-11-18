@@ -1,0 +1,54 @@
+{
+  "overview": "Before church you wrote one line in the almanac, that it is Candlemas and the twins' day. You set two groats and a twist of comfits beside the inkhorn. You had not started the letter.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the line and did not begin the letter."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the almanac",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Candlemas",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the twins",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the groats",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the almanac",
+      "asset_type": "other",
+      "disposition": "Marked the twins' day and set the groats out"
+    },
+    {
+      "name": "the two groats",
+      "asset_type": "other",
+      "disposition": "Marked the twins' day and set the groats out"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-02-02",
+      "meaning": "Twins' day"
+    }
+  ],
+  "summary": "Marked the twins' day and set the groats out"
+}

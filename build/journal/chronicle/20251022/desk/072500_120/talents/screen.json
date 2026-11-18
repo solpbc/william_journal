@@ -1,0 +1,17 @@
+{
+  "narrative": "The pocket tables open on the bed's edge. Three short lines in his hand. A stylus beside them. The grey cloak is on the peg by the door. No face. The rest of the leaf is rubbed pale from yesterday. He does not write a sum, a title, or an hour for the moon. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Wrote nine, the rolls, and one word"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Wrote nine, the rolls, and one word"
+    }
+  ]
+}

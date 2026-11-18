@@ -1,0 +1,1 @@
+At the lodging you looked at three cues on the afternoon's roll: Lord Hastings, my liege, and madam. You set no name over them. The comedy stayed shut, with the refusal still marked. You went out to play at two.

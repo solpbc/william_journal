@@ -1,0 +1,1 @@
+You read the Rose bill at the lodging and did not go. The title was A Knack to Know an Honest Man, at two, by the Lord Admiral his servants. There was no sum on it. At two you were due at the Theatre.

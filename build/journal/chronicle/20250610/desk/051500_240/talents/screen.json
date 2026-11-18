@@ -1,0 +1,17 @@
+{
+  "narrative": "A fresh sheet, a few lines only, the crown not yet a speech. The shut chronicle is still at the edge. No face. One image written under the place. The sheet is not a quarter full. The pen is down. One line more, under the buckets. The rest of the sheet is empty. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the first sheet's opening and stopped inside it."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in Two buckets"
+    }
+  ]
+}

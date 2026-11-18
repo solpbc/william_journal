@@ -1,0 +1,102 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Gilbert was on the mounting-block. He said you look like Father. The walking was folly, the barn was vanity, and the twenty shillings was right. You paid Hobbins the two shillings for the pack and the saddle. You gave Gilbert the gloves your mother sent. Then the three weeks, in turns: the Spaniard three days in Cornwall and gone, parishes counting pikes, the marshal's men off the gates since the first week of August, the Queen at Whitehall on Monday and into Surrey this morning, bread no better, bills up at the Rose and the Theatre for Monday, Bartholomew Fair cried for Sunday, and Gilbert behind a stall whether he likes it. Your father owes Sadler. He had told you nothing. You did not pay it. You took a shared bed for twopence, with a man from Coventry, and you did not walk the last mile.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid the two shillings, gave the gloves, and refused the baker's debt for tonight.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gilbert Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Judged the walk, delivered the three weeks, and named Sadler.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the two shillings, and left him the twopence bed.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "two shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in You look like Father",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Rose",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in You look like Father",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Theatre",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in You look like Father",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Bartholomew Fair",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in You look like Father",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Paid Hobbins the two shillings and heard Gilbert's three weeks",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Gilbert Shakespeare",
+    "William Shakespeare",
+    "Thomas Hobbins"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "you look like Father",
+    "two shillings",
+    "three weeks of news",
+    "Sadler",
+    "twopence for the bed"
+  ],
+  "quotes": [
+    {
+      "speaker": "gilbert_shakespeare",
+      "text": "Brother. You look like Father."
+    },
+    {
+      "speaker": "gilbert_shakespeare",
+      "text": "Sadler. He told thee nothing of it, I'll be bound"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "He told me nothing. I am not paying it tonight."
+    }
+  ]
+}

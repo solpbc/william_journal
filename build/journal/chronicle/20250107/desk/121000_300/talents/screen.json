@@ -1,0 +1,17 @@
+{
+  "narrative": "The half sheet from yesterday, brought home between rehearsal and two o'clock. The ink is wet at the foot. No man in black. No messenger. The cat is off the leaf. Your forefinger under a line that stops. The space below it is blank.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the trip and did not write a follower."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on draft in The show trips, and nothing follows"
+    }
+  ]
+}

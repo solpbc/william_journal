@@ -1,0 +1,29 @@
+{
+  "narrative": "Burbage's hands on the property crown. Edith pinning the king's sleeve at the elbow. He holds still for her. The boards under them are bare. No face turned toward the yard.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "context": "Held the crown, and held still."
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "mentioned",
+      "context": "Pinned the sleeve at the elbow."
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked, and kept his face out of the picture."
+    },
+    {
+      "type": "Tool",
+      "name": "the property crown",
+      "role": "mentioned",
+      "context": "In photo: The crown and the sleeve"
+    }
+  ]
+}

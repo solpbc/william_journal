@@ -1,0 +1,1 @@
+You looked at Brooke and did not write a speech. The page still holds two houses and blank days. The tables beside the book still have Costard struck, the Queen's money struck, the letter unsent, and the horse unpriced. The chronicle is not in the room.

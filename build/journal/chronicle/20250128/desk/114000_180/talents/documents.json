@@ -1,0 +1,46 @@
+{
+  "overview": "Nick's roll carries his own mark in the margin. The words are the answer you gave him. No speech of the play is copied under them.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked at the marked roll."
+    },
+    {
+      "name": "Nick Sorrell",
+      "role": "visible",
+      "formal_term": "Nick Sorrell",
+      "appointment_tier": "not_applicable",
+      "context": "His mark is in the margin. His face is not over the page."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Nick's mark",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Princess's roll",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Looked at the mark on Nick's roll"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-28",
+      "meaning": "She governs"
+    }
+  ],
+  "summary": "Looked at the mark on Nick's roll"
+}

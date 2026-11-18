@@ -1,0 +1,33 @@
+{
+  "overview": "You entered a stray payment for candles, fourpence.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the one line."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "candles",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "fourpence",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-13",
+      "meaning": "Candles, fourpence"
+    }
+  ],
+  "summary": "Entered the candles"
+}

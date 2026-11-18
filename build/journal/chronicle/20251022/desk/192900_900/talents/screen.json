@@ -1,0 +1,17 @@
+{
+  "narrative": "The two plain lines have a single stroke through them. They are still readable. Nothing is written underneath. No face. The plain lines are a smear. The leaf is nearly blank again. Ink on the right forefinger. The bundle unopened. No face. In the margin, small, not as a speech. The centre of the leaf is empty. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Rubbed the trial lines pale"
+    },
+    {
+      "type": "Project",
+      "name": "the loose leaf",
+      "role": "mentioned",
+      "context": "Shown on draft in Rubbed the trial lines pale"
+    }
+  ]
+}

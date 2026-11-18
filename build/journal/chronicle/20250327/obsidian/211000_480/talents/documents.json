@@ -1,0 +1,44 @@
+{
+  "overview": "You tied the parcel again and wrote three questions. Who stands by when a crown changes hands. What the old man is called before he is given words. Whether a comedy ends at the marriages or at the broken oaths. You wrote no line for anyone to speak.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Tied the parcel and left the questions as questions."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the parcel",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "three questions",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no line",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Holinshed, second volume",
+      "asset_type": "other",
+      "disposition": "Wrote three questions and retied the parcel"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-27",
+      "meaning": "Questions, not a speech"
+    }
+  ],
+  "summary": "Wrote three questions and retied the parcel"
+}

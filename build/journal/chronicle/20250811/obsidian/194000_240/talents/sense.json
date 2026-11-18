@@ -1,0 +1,60 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "After supper you wrote the prices down so you would not improve them in talk. New wheat at six-and-thirty shillings the quarter, the penny loaf as the size of that, the six pairs still on the bench, and the twenty shillings already out of the belt. You set Wednesday as the day of the walk. You did not add a total.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote it plain, and did not add a sum of his own.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "36s the quarter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in What the quarter costs",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "six pairs of sheep",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in What the quarter costs",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "20s in the timber",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in What the quarter costs",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Wrote the prices down and set the walk for Wednesday",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "wheat at thirty-six shillings",
+    "the penny loaf",
+    "six pairs",
+    "the twenty shillings"
+  ],
+  "quotes": []
+}

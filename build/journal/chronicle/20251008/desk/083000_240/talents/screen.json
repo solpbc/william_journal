@@ -1,0 +1,17 @@
+{
+  "narrative": "Morning light on the chamber board. The penny almanac lies open at the eighth. Beside it sit three candlesticks burned down into the grease, and the closed sheet from Monday. No face. A hand sets the three sockets at the corner of the table. The sheet under them is still the girl's heading and Monday's lines. Nothing has been added. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked at the eighth in the almanac and left the sheet closed."
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in Full moon, and the sheet untouched"
+    }
+  ]
+}

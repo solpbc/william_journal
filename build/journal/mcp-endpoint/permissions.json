@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "permissions": [
+    {
+      "connection": "oauth:Ui6UEpHGQomNbwmlyfxlsQ",
+      "schema": 1,
+      "generation": 1,
+      "evaluation": "enforce",
+      "read": {
+        "categories": [
+          "transcripts",
+          "entities",
+          "facets"
+        ],
+        "scope": {
+          "kind": "whole_journal"
+        }
+      }
+    }
+  ]
+}

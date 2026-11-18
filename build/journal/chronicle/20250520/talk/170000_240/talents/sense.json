@@ -1,0 +1,59 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the bridge foot Henslowe was counting, and he knew you. He asked whether the wit pays. You said by the share. He pays by the play, six pound, and he never argues the jig. You took the bridge toward home, and you did not tell him what you had come to.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he is paid by the share, and took the bridge toward home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Philip Henslowe",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Knew him, asked whether wit pays, and named six pound and the jig.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Told Henslowe the pay is by the share",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Philip Henslowe",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "by the share",
+    "six pound",
+    "the jig"
+  ],
+  "quotes": [
+    {
+      "speaker": "philip_henslowe",
+      "text": "You've a pretty wit, Master Shakespeare. Does it pay?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "By the share."
+    },
+    {
+      "speaker": "philip_henslowe",
+      "text": "Ah. I pay by the play. Six pound, and I never argue the jig."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "18:30:00", "text": "Over the Bridge for the first time since May, slowly, and home by the Bridge again to save the penny.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "18:30:16", "text": "This king never doubts. He stands under the June gilt throne in his gilded mail and fills the house like water in a jug, and the yard loves it.", "timing": {"end": 34.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "18:30:34", "text": "Their king is all is. Mine is all seems. Five weeks.", "timing": {"end": 44.0, "start": 34.0}}

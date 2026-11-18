@@ -1,0 +1,93 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "After the play, with the baskets roped and the brazier sinking, you tried the next pages of the tradesmen on Kemp, Phillips, and Larkham. The pages had not been tried before tonight. One joke leaned only on a tailor being stupid. Kemp stopped it. A man may get a play wrong and want with his whole heart to get it right. You crossed the joke while he was in the room. Phillips has known a joiner who sang bass in the waits for twenty years and never once came in on the beat, and wept at every carol. Your notes turned from the cheap laugh to earnest labour, vanity, and a sort of courage: men who will stand in front of a duke with a wall made of a man. Larkham asked how many there are. You said six, and a lion. He is to copy the six and the lion, and not the tailor's shame. The head is not written. The ass is not written. There is no song and no ending. Field has not heard the pages. Kemp, going, told you to let them be men first, and then make them asses.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Tried the joke, crossed it, and counted six and a lion.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped the fool, and told him to make men before asses.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the joiner, and kept the lute in the case.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked the number, and refused to copy wet ink or a bad joke.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the tradesmen",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Men first, then asses",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "a joiner",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Men first, then asses",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Struck out the tailor joke while Kemp was in the room",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Will Kemp",
+    "Augustine Phillips",
+    "Humphrey Larkham"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the joke crossed",
+    "a joiner in the wrong bar",
+    "six and a lion"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "No. Thou'st a tailor there who can't read"
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Thou'lt let them be men first. Then make them asses."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Six. And a lion."
+    }
+  ]
+}

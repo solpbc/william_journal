@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 600.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "16:31:40", "text": "Joan has them. I can walk as if this path were mine for an hour, and I mean to use the hour for walking.", "timing": {"end": 310.0, "start": 100.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:35:10", "text": "The stubble is short. I am with thee. I am not starting a speech at a hedge.", "timing": {"end": 510.0, "start": 310.0}}
+{"sentence_id": 3, "speaker": "anne_shakespeare", "start": "16:38:30", "text": "Then do not start one. The yard is at the end of this. The walking is the part I came out for.", "timing": {"end": 520.0, "start": 510.0}}

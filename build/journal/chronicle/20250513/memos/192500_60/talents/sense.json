@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You said you were here, and that you heard the fire nine days after, from a carter, when it was already out and counted. A man cannot run a hundred miles to a fire. It is a year ago today. The middle of the town burned. The moon is full. You are in London.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the memo at the window, and stayed in.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Said the fire was heard nine days after, from a carter",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a year since the fire",
+    "nine days after",
+    "a full moon"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I was here. I heard it nine days after, from a carter, and it was all out and counted by then"
+    }
+  ]
+}

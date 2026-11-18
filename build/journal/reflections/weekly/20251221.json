@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20251221",
+    "end": "20251227"
+  },
+  "generated_at": "2025-12-27T22:00:00Z",
+  "days": [
+    {
+      "day": "20251221",
+      "state": "memory",
+      "memory_id": "m-20251221-0"
+    },
+    {
+      "day": "20251222",
+      "state": "memory",
+      "memory_id": "m-20251222-1"
+    },
+    {
+      "day": "20251223",
+      "state": "memory",
+      "memory_id": "m-20251223-2"
+    },
+    {
+      "day": "20251224",
+      "state": "memory",
+      "memory_id": "m-20251224-3"
+    },
+    {
+      "day": "20251225",
+      "state": "memory",
+      "memory_id": "m-20251225-4"
+    },
+    {
+      "day": "20251226",
+      "state": "memory",
+      "memory_id": "m-20251226-5"
+    },
+    {
+      "day": "20251227",
+      "state": "memory",
+      "memory_id": "m-20251227-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20251221-0",
+      "key": "mem_20251221_0",
+      "day": "20251221",
+      "text": "Two shillings went into the porch box. The chronicle stays in the room. Monday was still the day she goes.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251221/talents/morning_briefing",
+        "briefing_day": "20251221",
+        "refs": [
+          "sol://facets/household/activities/20251221#meeting_080500_480",
+          "sol://facets/household/activities/20251221#photo_091500_60",
+          "sol://facets/household/activities/20251221#meeting_092800_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20251222-1",
+      "key": "mem_20251222_1",
+      "day": "20251222",
+      "text": "The quarter is paid. The latch was her mending. She goes tomorrow. The tilt-boat stands.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251222/talents/morning_briefing",
+        "briefing_day": "20251222",
+        "refs": [
+          "sol://facets/company/activities/20251222#memo_021000_60",
+          "sol://facets/household/activities/20251222#photo_094000_60",
+          "sol://facets/household/activities/20251222#meeting_111500_600"
+        ]
+      }
+    },
+    {
+      "id": "m-20251223-2",
+      "key": "mem_20251223_2",
+      "day": "20251223",
+      "text": "Twenty-six shillings of hose. The court went up this morning. The pages of the wood stay.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251223/talents/morning_briefing",
+        "briefing_day": "20251223",
+        "refs": [
+          "sol://facets/company/activities/20251223#meeting_093000_720",
+          "sol://facets/household/activities/20251223#frame_143000_120",
+          "sol://facets/household/activities/20251223#meeting_164000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20251224-3",
+      "key": "mem_20251224_3",
+      "day": "20251224",
+      "text": "Nine shillings are out. The rest was thirty-three pounds. You are three to a bed.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251224/talents/morning_briefing",
+        "briefing_day": "20251224",
+        "refs": [
+          "sol://facets/household/activities/20251224#frame_062000_120",
+          "sol://facets/company/activities/20251224#photo_080000_60",
+          "sol://facets/company/activities/20251224#meeting_082000_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20251225-4",
+      "key": "mem_20251225_4",
+      "day": "20251225",
+      "text": "Nick sang three notes. The ale stopped at six. The answer worth having is tomorrow at about ten.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251225/talents/morning_briefing",
+        "briefing_day": "20251225",
+        "refs": [
+          "sol://facets/company/activities/20251225#meeting_131000_720",
+          "sol://facets/household/activities/20251225#photo_183000_60",
+          "sol://facets/stratford/activities/20251225#memo_201000_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20251226-5",
+      "key": "mem_20251226_5",
+      "day": "20251226",
+      "text": "She laughed once. You refused to enter the night as paid. My lord clapped your shoulder and went out.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251226/talents/morning_briefing",
+        "briefing_day": "20251226",
+        "refs": [
+          "sol://facets/company/activities/20251226#photo_101000_60",
+          "sol://facets/company/activities/20251226#meeting_103500_480",
+          "sol://facets/company/activities/20251226#frame_153000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20251227-6",
+      "key": "mem_20251227_6",
+      "day": "20251227",
+      "text": "Nick held the dagger. Sam searched the rushes for half an hour. The aside waits for the inn.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251227/talents/morning_briefing",
+        "briefing_day": "20251227",
+        "refs": [
+          "sol://facets/company/activities/20251227#meeting_111000_600",
+          "sol://facets/company/activities/20251227#frame_162000_120",
+          "sol://facets/company/activities/20251227#photo_234000_60"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20251221-0",
+      "key": "said_20251221_0",
+      "day": "20251221",
+      "quote": "Twelve at a door is a parish.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20251221#meeting_080500_480"
+      }
+    },
+    {
+      "id": "s-20251221-1",
+      "key": "said_20251221_1",
+      "day": "20251221",
+      "quote": "I will come back with two shirts, one of them dirty, and the book still in my room.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20251221#meeting_125000_600"
+      }
+    },
+    {
+      "id": "s-20251222-2",
+      "key": "said_20251222_2",
+      "day": "20251222",
+      "quote": "Three stories, Davy. You are wrong by a third, and I do not yet know which third.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251222#meeting_122000_480"
+      }
+    },
+    {
+      "id": "s-20251223-3",
+      "key": "said_20251223_3",
+      "day": "20251223",
+      "quote": "The chair is a chair until she sits in it, and thou wilt bow to it empty if thou must.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251223#meeting_093000_720"
+      }
+    },
+    {
+      "id": "s-20251224-4",
+      "key": "said_20251224_4",
+      "day": "20251224",
+      "quote": "A year ago, Greenwich. Same cloak.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251224#memo_162000_60"
+      }
+    },
+    {
+      "id": "s-20251225-5",
+      "key": "said_20251225_5",
+      "day": "20251225",
+      "quote": "The pie is as broad as a drum-head, and I will not argue with a pie.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251225#meeting_131000_720"
+      }
+    },
+    {
+      "id": "s-20251226-6",
+      "key": "said_20251226_6",
+      "day": "20251226",
+      "quote": "A laugh is not a clock.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251226#meeting_230500_600"
+      }
+    },
+    {
+      "id": "s-20251227-7",
+      "key": "said_20251227_7",
+      "day": "20251227",
+      "quote": "There was no hush like the Theatre's. A rustle. One cough. Then the chair rose.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251227#meeting_235000_600"
+      }
+    }
+  ]
+}

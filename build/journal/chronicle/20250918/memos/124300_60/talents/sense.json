@@ -1,0 +1,44 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Going out of the churchyard into Cheapside, you tried the word: sweet, like a pippin, like a child's physic. A man in Cambridge you never saw. Thirty-one years, and it comes in a margin. You laughed with your shoulders as far as the Stocks.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke it once, and laughed.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Tried the word sweet on the way into Cheapside",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "sweet",
+    "a pippin",
+    "a child's physic",
+    "thirty-one years",
+    "the margin"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "A man in Cambridge whom I never saw. Thirty-one years, and it comes in a margin."
+    }
+  ]
+}

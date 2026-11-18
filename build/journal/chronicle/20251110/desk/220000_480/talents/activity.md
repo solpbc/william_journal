@@ -1,0 +1,1 @@
+After Egeon and supper you wrote the first fourteen lines last, for your own mouth. The sheet has two houses of one dignity, and the two hours' traffic of the stage. You set the pen down. You did not rule the sheet, and you did not write the play's last line on it.

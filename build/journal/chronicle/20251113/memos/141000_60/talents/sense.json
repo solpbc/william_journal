@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You said you had been told and not asked. The wash is fourpence a week and already paid. You said there would be no answer today.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said it, and did not go to the pen.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "fourpence a week",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Told, not asked",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Said Anne had set the wash, and named the fourpence",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "told not asked",
+    "fourpence",
+    "no answer today"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Told, not asked. Fourpence the week, and already paid."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No answer today."
+    }
+  ]
+}

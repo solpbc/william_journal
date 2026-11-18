@@ -1,0 +1,1 @@
+At the desk you wrote how fast a city tires of thunder, and how slowly it tires of a face. Titus was at the Cross Keys at two, and you were not in it. You struck a line that would have made noise into fame, and you did not put the sheet in the folder. The two older leaves stayed two. The packet stays tied until tomorrow after the play, and not for noon.

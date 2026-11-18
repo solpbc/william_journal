@@ -1,0 +1,49 @@
+{
+  "overview": "You looked at the word likely on the letter and did not set a sum under it. The page is for the coffer lid, not for a balance. You did not add a house or a day.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the line, and left the sum unwritten."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the word likely",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no sum",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the coffer lid",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the letter",
+      "asset_type": "other",
+      "disposition": "Read the word likely on the letter"
+    },
+    {
+      "name": "the coffer",
+      "asset_type": "other",
+      "disposition": "Read the word likely on the letter"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-26",
+      "meaning": "In the coffer lid"
+    }
+  ],
+  "summary": "Read the word likely on the letter"
+}

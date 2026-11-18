@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "19:50:08", "text": "Shoes off before eight. The list is still whole. Monday the baskets go up to Shoreditch. That is in the book. It is not on this list.", "timing": {"end": 32.0, "start": 8.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "19:50:32", "text": "The close can be as loud as it likes. I am not going down. Enough.", "timing": {"end": 42.0, "start": 32.0}}

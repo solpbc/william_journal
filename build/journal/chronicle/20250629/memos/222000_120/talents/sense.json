@@ -1,0 +1,62 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You whispered the night down. The street bar is down, and the only candle is on the boards behind the bed. You repeated the boy's thousand, and you still cannot see them. The sound comes and goes. Friday's gallows is a hundred yards off, over butter and a loaf. Gillis knew before you did what a crowd says to a stranger. If they come up Bishopsgate they come for the Mayor, and they would pass this door. You told yourself to remember the dark, and to begin the two houses in the street, among the serving-men. You let it go by. You opened no book.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Whispered it through, and ended it.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "fivepenny butter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Let it go by",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Told himself to remember the dark for the serving-men",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the dark",
+    "Tower Hill heard and not seen",
+    "the two houses not yet a page"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The bar's down across the street door"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It comes and goes like a sea"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Remember this dark. When I come to the two houses, begin there"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "\u2026If they come up Bishopsgate they come for him, not us"
+    }
+  ]
+}

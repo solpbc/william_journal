@@ -1,0 +1,117 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Heminges paid the hired men the week owing and the first of the half-wages in hand, five shillings. The ledger line is dark till Bartholomew, and no Saturday share is written beside it. Garnish locked the books and the parts in the chest with the second iron, and the swan came down. You said you walk on Monday and save eighteen shillings of horse-hire. Burbage offered to keep the Verona sheets. You said they go where you go. He told you to mind the rain. You said there is no rain this summer.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named eighteen shillings, and kept the sheets.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid the week and the five shillings, and wrote the dark.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Locked the chest with the second iron.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Offered to keep the sheets, and was refused.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked after the swan, and stayed for the paying.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Saw the swan down, and asked after the petticoat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the week and the five shillings.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the half-wages",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Dark till Bartholomew",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Kept the Verona sheets and said the walk saves eighteen shillings",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Blackwage, Ralph Raye, Richard Hoope",
+    "William Shakespeare",
+    "Abel Garnish",
+    "George Bryan",
+    "Thomas Pope",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "five shillings",
+    "the second iron",
+    "eighteen shillings",
+    "the sheets"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Dark till Bartholomew."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "They go where I go."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Then mind the rain on them."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "There is no rain this summer, Dick."
+    }
+  ]
+}

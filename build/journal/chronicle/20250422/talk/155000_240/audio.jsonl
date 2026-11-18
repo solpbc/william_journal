@@ -1,0 +1,7 @@
+{"backend": "whisper", "duration": 240.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "will_kemp", "start": "15:50:00", "text": "You have left me three lines and a door. I shall require a better door.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "15:50:12", "text": "You have the door the play gives you. I am not carpentering a new one in the tiring-house.", "timing": {"end": 26.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "john_heminges", "start": "15:50:26", "text": "The afternoon is done. Tomorrow is the Shrew, and you are not in it, Will. Thursday is Titus, and the hired men will want their ten shillings.", "timing": {"end": 42.0, "start": 26.0}}
+{"sentence_id": 4, "speaker": "will_kemp", "start": "15:50:42", "text": "Then I shall save the better door for a day when I am on the bill. Three lines is a short supper.", "timing": {"end": 56.0, "start": 42.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "15:50:56", "text": "Tomorrow I am at the desk. The Shrew is the company's afternoon. I am not in it.", "timing": {"end": 68.0, "start": 56.0}}
+{"sentence_id": 6, "speaker": "john_heminges", "start": "15:51:08", "text": "Good. Be at the Theatre on Thursday morning, and do not spend Wednesday promising anyone a part.", "timing": {"end": 78.0, "start": 68.0}}

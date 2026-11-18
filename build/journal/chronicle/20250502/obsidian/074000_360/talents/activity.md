@@ -1,0 +1,1 @@
+You kept the three breaths and refused to pretty them back into one voice. You left the foot of the page empty. Kemp has still not seen the page, and you did not draft a scene to show him the king has no fool.

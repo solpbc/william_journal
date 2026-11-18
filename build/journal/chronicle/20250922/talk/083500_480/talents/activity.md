@@ -1,0 +1,1 @@
+At Old Swan Stairs Davy Gannet had Raleigh home from Plymouth in a ship so deep in gold she would hardly steer. He had told you the first half in February and kept the second ready. You asked how many men off the ship he had spoken with. He had it from a lighter. George Bryan would not buy the gold. You said you would keep the smaller tale if Paul's had one.

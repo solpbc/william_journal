@@ -1,0 +1,1 @@
+Brooke was still on the shelf, and you opened it. You looked at your own old note, that the two houses are alike, and at the line that says not yet. You did not copy a couplet out. You did not make it today's page. The cat was not on this book.

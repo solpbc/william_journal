@@ -1,0 +1,67 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At dinner Mistress Ansell did not ask what the king is. Yesterday she asked if it was the lovers, and you said no, and she did not ask again. The loaf was still a thumb short of the notch, and still a penny. You did not open the coffer.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate, and left the coffer shut.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put the loaf on the board and did not ask.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in She did not ask",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate the loaf with Mistress Ansell",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the loaf",
+    "no plot",
+    "the coffer shut"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The loaf is still a thumb short of the notch, and it is still a penny."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I am not asking what is in the shut book."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I did not open the coffer."
+    }
+  ]
+}

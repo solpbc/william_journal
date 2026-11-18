@@ -1,0 +1,1 @@
+You read the letter a second time on the desk. The date was Tuesday the fifteenth, the place the north end beyond the Rother Market. The last lines told you not to come for the fire, and to come for harvest if you come. You did not write on the leaf.

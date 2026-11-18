@@ -1,0 +1,71 @@
+{
+  "overview": "You wrote Anne a letter shorter than the Christmas one, and with no paragraph for your father and mother. You told her the three nights were liked, that the Queen laughed once at Pope, and that the pay waits on an office. You set down the sentence from Shottery brook as you owed it. You gave the coffer as nine pounds more than at New Year, after the carrier, and you did not write the total. You have asked nobody a house price. Each child got a paragraph of the same length. The sheet is still in the house. You did not name a carrier.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the letter at the table and did not give it to a carrier."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Not in the house. The sheet is for her, and it waits."
+    },
+    {
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Susanna Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Named, and asked for the two faults in the book."
+    },
+    {
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Judith Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Named, and the tune left unnamed."
+    },
+    {
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Hamnet Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Named. The ball is for the yard. No sword was asked for at court."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the letter",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nine pounds more",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no house price",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "three children",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-30",
+      "meaning": "Wrote the letter to Anne"
+    }
+  ],
+  "summary": "Wrote Anne's letter at the desk"
+}

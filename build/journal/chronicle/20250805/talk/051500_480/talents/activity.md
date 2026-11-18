@@ -1,0 +1,1 @@
+Before six the shoe went on. Anne sent bread, and dinner at Bartholomew's call. Your father wanted a back at a sickle and no sermon in the field. You left the play on the shelf, and you left the burned row for Thursday.

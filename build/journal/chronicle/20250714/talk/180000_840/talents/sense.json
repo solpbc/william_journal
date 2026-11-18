@@ -1,0 +1,78 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "She had heard you walking. You told her the two houses, the old quarrel, the servants, and that the Prince promises death for the next. She said he was the only sensible man in it, and not the chief part. You said you are to play him. She said speak up. The loaf wanted a full thumb. The penny stayed a penny. Verbeke had you tie the knot four times, and gave you thread, shuttle, knot. Alse tied it once and was told not to look pleased.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the part, and tied the knot four times.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Judged the Prince, and the loaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Taught the knot, and the three words.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Tied it once, and hid the pleasure.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Told the houses, measured the loaf, and tied the knot",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two houses",
+    "speak up",
+    "a thumb short",
+    "the weaver's knot"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Then the Prince is the only man in it with sense"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am to play him, Mistress"
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "It wants a full thumb. Mark me, by Michaelmas we'll be eating the board"
+    }
+  ]
+}

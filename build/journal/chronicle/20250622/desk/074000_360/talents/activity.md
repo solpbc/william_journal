@@ -1,0 +1,1 @@
+You looked at the forty leaves and did not make another book of them. The line ruled on Saturday is still the last line. Gib stayed on the Holinshed. Golding stayed shut. Brooke stayed on the shelf. You did not open the coffer.

@@ -1,0 +1,23 @@
+{
+  "narrative": "The tables on the bed. The three lines are in. The red bundle is still apart and knotted. One candle. He reads them and does not add a fourth. No face. The stylus lies in the gutter. No death. No title. No sum under the three lines. The window is black. No face. A thumb on the cover. The three lines still show. The bundle is untouched. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Stopped after those three lines"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Stopped after those three lines"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "context": "Shown on tables in Stopped after those three lines"
+    }
+  ]
+}

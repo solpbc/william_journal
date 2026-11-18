@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Still at the gate, you wrote under the day's list that they have Venice now, and Hercules. You did not turn the sentence into a plan to go.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the sentence, and shut the tables.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Venetian Comedy",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Venice, and Hercules",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "1 Hercules",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Venice, and Hercules",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote that they have Venice now, and Hercules",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Venice",
+    "Hercules",
+    "the day's list"
+  ],
+  "quotes": []
+}

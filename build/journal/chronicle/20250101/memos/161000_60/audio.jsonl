@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "16:10:00", "text": "The light has failed, and the Worthies are only begun.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:10:14", "text": "Two Gentlemen went on at the Cross Keys without me. I was not asked for.", "timing": {"end": 32.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "16:10:32", "text": "\u2026", "timing": {"end": 42.0, "start": 32.0}}

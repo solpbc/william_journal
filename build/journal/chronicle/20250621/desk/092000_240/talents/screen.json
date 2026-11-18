@@ -1,0 +1,23 @@
+{
+  "narrative": "The foot of the last sheet, the couplet just wet. Gib has not moved onto this sheet. He is still on the chronicle. No face. A line ruled under the couplet. Nothing written beneath the rule. No face. The margin, beside the rule, has the count of days and not a sum of money. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the couplet and ruled the line."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Stayed on the chronicle, off the sheet."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in A line ruled under"
+    }
+  ]
+}

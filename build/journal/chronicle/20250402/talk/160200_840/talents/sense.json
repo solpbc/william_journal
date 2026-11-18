@@ -1,0 +1,81 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Your father was cutting fine gloves by eye. He said Gilbert had been counting, and he named the other baker at thirty shillings, the shoemaker under two pounds, and the skins at a few shillings. You did not correct him, and you did not put the ticket on the bench. He showed a yellowed scrap once, the pattern from his year as bailiff, and said they would have made him a gentleman once, and then wool fell. You said a player is a gentleman three hours every afternoon. Your mother remembered the colour of the ink and would not name it. The scrap went back. Nothing was filed, asked, or promised.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the ticket in his sleeve, answered with three hours, and promised nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the debts cheerfully and low, showed the scrap once, and put it away.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Remembered the colour without naming it, and took the wish off the supper table.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the 1568 arms sketch",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Shown once",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Saw the bailiff's pattern once",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Shakespeare",
+    "William Shakespeare",
+    "Mary Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Gilbert's counting",
+    "the cheerful sizes",
+    "the scrap",
+    "three hours"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_shakespeare",
+      "text": "Gilbert's been counting. He was always a counting child."
+    },
+    {
+      "speaker": "john_shakespeare",
+      "text": "They'd have made me a gentleman once, Will. Then wool fell."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A player is a gentleman three hours every afternoon."
+    },
+    {
+      "speaker": "john_shakespeare",
+      "text": "A player! Well. I've seen aldermen do it for nothing and worse."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At home you entered breakfast at threepence and the loaf at a penny, a finger and a half short. You entered Alice's bill as two shillings and eightpence, and the jug, and you did not write a half. You noted the salt-fish, the theft, and how little you had said.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Entered the threepence, the loaf, and the undivided bill.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Nashe",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in Scarcely spoken",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in Scarcely spoken",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Alice Brambleby",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in Scarcely spoken",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Split Hazel bill",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Scarcely spoken",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Scarcely spoken",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Entered Alice's bill as one sum",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "threepence",
+    "the undivided bill",
+    "scarcely spoken"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 540.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "11:42:30", "text": "Joan has the children at the gate. Let them go ahead. I want ten paces of a path that is not a pie.", "timing": {"end": 180.0, "start": 30.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:45:00", "text": "They can have the gate. I am behind thee. The limes are the whole of the news I am willing to have.", "timing": {"end": 380.0, "start": 180.0}}
+{"sentence_id": 3, "speaker": "mary_shakespeare", "start": "11:48:20", "text": "Then have them quietly. The Cross is not far, and I am not arriving as a procession with a commentary.", "timing": {"end": 490.0, "start": 380.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "11:50:10", "text": "No commentary. Dinner, and then we are there.", "timing": {"end": 500.0, "start": 490.0}}

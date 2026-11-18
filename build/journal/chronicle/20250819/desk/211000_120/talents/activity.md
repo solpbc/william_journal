@@ -1,0 +1,1 @@
+By the rush-light you read the orchard sheets once. The girl's line was there, and the rose. You found the sheets full of voices that are not in them: a moon with a candle, a boy who wants a ladder. You did not write those down. You put the sheets away before the light made the reading into mere persistence.

@@ -1,0 +1,83 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "You wrote the fuller answer to Thursday's letter and struck the supper-story out of it. Daniel and the cold marble are not what you send. You heard by her letter that the brook at Shottery is undammed, thanked Hamnet, and told him not to begin on the Avon. Christmas will likely keep you at court. My lord's gentleman says you will be sent for, and you will know more when my lord says so. You promised no surprise and no Twelfth Night ride. You set down no sum. The page waits in the coffer lid for the carrier of the thirteenth.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the letter and left it for the coffer lid.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named, and not yet in receipt of the paper.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Thanked, and told not to begin on the Avon.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Samuel Daniel",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named in the lines you struck, and not sent.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the letter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Struck, for strangers",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the coffer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Struck, for strangers",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Shottery brook",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Struck, for strangers",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Wrote the word likely and crossed out the supper-story",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the struck story",
+    "the brook",
+    "the word likely"
+  ],
+  "quotes": []
+}

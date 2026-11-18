@@ -1,0 +1,96 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You reached the door with the three and the boats still in their hands. Hamnet had run. Anne held the first word of the house for Joan. You had not yet put the boats down.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the knife home, and would not answer twice.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the path from becoming a procession.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the three at the door.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the book home dry, and did not ask.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told the arch, and was not allowed to come on the path.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put the boats on the step, and kept the name.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the three bark boats",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Came to the door with the three boats",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came home from the bridge",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Hamnet Shakespeare",
+    "Judith Shakespeare",
+    "William Shakespeare",
+    "Anne Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the door",
+    "the boats still in their hands"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Let her have the first word of the house."
+    },
+    {
+      "speaker": "judith_shakespeare",
+      "text": "The boats are in my hands, which is the part I am keeping."
+    }
+  ]
+}

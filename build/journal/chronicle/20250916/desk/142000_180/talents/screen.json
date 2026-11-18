@@ -1,0 +1,17 @@
+{
+  "narrative": "The writing-tables, Monday's lines still there, and two new lines under the blank. The clove is in the cheek, not on the leaf. Daylight on the board. No name in the margin. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the three lines, and stopped."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Her house has not heard"
+    }
+  ]
+}

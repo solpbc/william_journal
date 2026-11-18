@@ -1,0 +1,61 @@
+{
+  "overview": "Three books lay signed for Richmond: the twenty-sixth, the twenty-seventh, and the twenty-eighth. Love's Labour's Lost, the lovers, and the Errors. No book of the king was on the table, and you did not put one there.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the three titles and left the king unfetched."
+    },
+    {
+      "name": "Edmund Tilney",
+      "role": "visible",
+      "formal_term": "Edmund Tilney",
+      "appointment_tier": "not_applicable",
+      "context": "Had signed, and was already turned away."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "three books",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Richmond",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nothing of the king",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Saw three signed books for Richmond"
+    },
+    {
+      "name": "Romeo and Juliet",
+      "asset_type": "other",
+      "disposition": "Saw three signed books for Richmond"
+    },
+    {
+      "name": "The Comedy of Errors",
+      "asset_type": "other",
+      "disposition": "Saw three signed books for Richmond"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-16",
+      "meaning": "Three books, nothing of the king"
+    }
+  ],
+  "summary": "Saw three signed books for Richmond"
+}

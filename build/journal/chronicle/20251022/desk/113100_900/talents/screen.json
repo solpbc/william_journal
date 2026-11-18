@@ -1,0 +1,23 @@
+{
+  "narrative": "The tables have not grown. The bundle is still at the far side of the board. Grey light, no candle. No face. One word started under the fourth line, then rubbed while the wax is still soft. The word is gone. The four lines remain. No face. A pale oval where the word was. He does not write into it. The knot has not moved. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Rubbed out a word and kept four lines"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Rubbed out a word and kept four lines"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "context": "Shown on tables in Rubbed out a word and kept four lines"
+    }
+  ]
+}

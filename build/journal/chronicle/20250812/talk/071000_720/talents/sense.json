@@ -1,0 +1,106 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the end plot the frame lay pegged, green oak almost yellow, four bays. Twelve men, poles and two ropes. You took a foot with Richard and the first cross-frame went up sweetly. Sadler said your twenty shillings was already in the timber, and the ale after was his cousin's. You were told to take the next foot the same way, from the legs.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Lifted the first foot from the legs, and said he would take the next the same way.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the foot with him, and forbade talk during the lift.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Directed the square of it from the ladder.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Sadler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the twelve, named the four bays, and kept the ale off William's account.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "four bays",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The first cross-frame",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "20s in the timber",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The first cross-frame",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the cousin's ale",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The first cross-frame",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Raised the first bay cleanly",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Hamnet Sadler",
+    "John Shakespeare",
+    "Richard Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "four bays of green oak",
+    "the first cross-frame",
+    "twelve men",
+    "the twenty shillings in the timber"
+  ],
+  "quotes": [
+    {
+      "speaker": "hamnet_sadler",
+      "text": "Green oak, near as yellow as a new deal, four bays"
+    },
+    {
+      "speaker": "richard_shakespeare",
+      "text": "From the legs. Say nothing while she goes."
+    },
+    {
+      "speaker": "hamnet_sadler",
+      "text": "Your twenty shillings is in her, Will."
+    },
+    {
+      "speaker": "hamnet_sadler",
+      "text": "Sweet. That is how a bay should go"
+    }
+  ]
+}

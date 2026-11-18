@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "You woke to a grey window and the apples left on the sill. The close was light enough to see and not yet bright. You did not open the casement.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Stood at the window and did not touch the apples.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the west window",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Apples on the sill",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Woke to the apples on the sill",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the apples",
+    "the grey window",
+    "October morning"
+  ],
+  "quotes": []
+}

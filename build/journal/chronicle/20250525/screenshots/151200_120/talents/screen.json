@@ -1,0 +1,23 @@
+{
+  "narrative": "The parish beating its bounds: boys with willow wands at a wall, Master Thwaite with his book.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "In Wands at the wall"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "mentioned",
+      "context": "Held the book at the wall."
+    },
+    {
+      "type": "Project",
+      "name": "the parish bounds",
+      "role": "mentioned",
+      "context": "In photo: Wands at the wall"
+    }
+  ]
+}

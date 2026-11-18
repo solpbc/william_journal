@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Richard Quiney spoke from the Bell. He is hopeful. The town's paper is before those who can grant it, and he looks for an answer on Monday. Supper is Monday at six at the Bell. He will stand the wine if the answer is yes, and you if it is no. He asked for fellows with a charitable purse. You said players' purses are charitable to tapsters and to nobody else. He told you to come alone and bring your own. You did not ask him for money, and you did not pay the brief.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the tapsters, refused the fellows, and set Monday at six.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Quiney",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the Bell, set the supper, and stood the wine on a yes.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Bell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Quiney, from the Bell",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the town's paper",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Quiney, from the Bell",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Took Monday supper at six at the Bell",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Quiney",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Monday at six",
+    "the wine",
+    "no charitable purse",
+    "nothing paid"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_quiney",
+      "text": "I'll stand the wine if the answer's yea, and you shall if it's nay."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Players' purses are charitable to tapsters, Richard, and to nobody else in Christendom."
+    },
+    {
+      "speaker": "richard_quiney",
+      "text": "It is not a long supper I ask."
+    }
+  ]
+}

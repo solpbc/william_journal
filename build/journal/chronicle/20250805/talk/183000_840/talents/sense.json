@@ -1,0 +1,96 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Quiney came to the house because you had not gone to the shop, and he brought Sturley. You said the maltsters should be made to sell. Sturley asked what you had paid, and you had paid none. Anne gave the town's side and did not rescue the sentence. Quiney named two-and-twenty shillings the quarter, and thirty by Christmas, and your father enjoyed him. Two gentlemen of the county are to certify both fires in one brief. Their names were not spoken. You said you would give what you can give, and that your lord's ear is kept for plays.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said they should be made to sell, that he had paid none, and that the ear is kept for plays.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Enjoyed Quiney's sentence, and left the gentlemen unnamed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Quiney",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the matter to the house, named two-and-twenty and thirty, and took the giving without the ear.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abraham Sturley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked the price, the measure and the place, and kept their names off the table.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the town's side, and did not rescue the sentence or the ear.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Marked that the only number said was Quiney's.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Kept the lord's ear for plays",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Shakespeare",
+    "Richard Quiney",
+    "William Shakespeare",
+    "Abraham Sturley",
+    "Anne Shakespeare",
+    "Richard Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "barley",
+    "two-and-twenty",
+    "paid none",
+    "the ear kept for plays"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "None. I have paid none"
+    },
+    {
+      "speaker": "richard_quiney",
+      "text": "Two-and-twenty shillings the quarter, and it will be thirty by Christmas. What would you have us do, sell at a loss and be burned out besides?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "My lord's ear is kept for plays"
+    }
+  ]
+}

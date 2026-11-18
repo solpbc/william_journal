@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote three lines to Anne before you corrected another word of the fair copy. You told her the jaw had been quiet, that the lovers are tied and not finished, and that you ask after the children and her mother. You did not tell her the tooth is out.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the three sentences and signed them.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named, and not yet in receipt of the paper.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the letter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three lines, before another correction",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Wrote the three lines before another correction",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three lines home",
+    "the quiet jaw",
+    "the tied bundle"
+  ],
+  "quotes": []
+}

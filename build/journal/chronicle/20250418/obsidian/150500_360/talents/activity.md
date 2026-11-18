@@ -1,0 +1,1 @@
+For the quiet hour you opened the commonplace book at Verona and only looked. You added two notes and no more. One was against how short it can be made. The other was under the link-boy's torch. You wrote no line of a play. Then you shut the book. You did no work on the king.

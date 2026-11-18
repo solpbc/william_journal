@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "alse_pinder", "start": "12:20:00", "text": "The loaf is out. It is the same loaf as yesterday, which is to say it does not reach the notch.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "dorcas_ansell", "start": "12:20:16", "text": "Threepence, and he knows it. Do not make a speech of a penny loaf, Alse. He has another old man to be at two.", "timing": {"end": 34.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "12:20:34", "text": "Egeon again. I will eat what is here. The desk is as I left it. Leave it.", "timing": {"end": 44.0, "start": 34.0}}

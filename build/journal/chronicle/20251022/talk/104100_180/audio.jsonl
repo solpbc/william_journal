@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "(the carter)", "start": "10:41:00", "text": "Mind the ruts, master. She pulls left when the kennel is wet, and October is wet enough without being November.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "10:41:16", "text": "I will mind them. I am going home to a dinner, not into your wheel.", "timing": {"end": 28.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "(the carter)", "start": "10:41:28", "text": "Then go home. The gate is the same both ways, and I am not a guide.", "timing": {"end": 40.0, "start": 28.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "10:41:40", "text": "I know the gate. Good day to your horse.", "timing": {"end": 50.0, "start": 40.0}}

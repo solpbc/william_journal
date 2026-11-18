@@ -1,0 +1,29 @@
+{
+  "narrative": "A board across a drum in the tiring-house. Fresh lines, still wet. No speech copied beyond the turn. No face. The same board. The tune is a thing called for. No names spelled on it. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the turn and left the board."
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "context": "Named on the page as Peter. Not in the frame."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "mentioned",
+      "context": "Named among the musicians. Not in the frame."
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "context": "Shown on draft in The board on the drum"
+    }
+  ]
+}

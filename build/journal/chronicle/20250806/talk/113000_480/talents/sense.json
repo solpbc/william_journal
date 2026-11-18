@@ -1,0 +1,77 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Before dinner you showed Susanna how to turn a dozen into shillings before adding a line. Twelve at fourpence was an example on the slate, and nothing was bought for it. She cast a May-fair story of your father's and found the pair at eightpence where the telling had grown it to nine. Your mother told her not to correct him at the table. The winter list stayed as it was written.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Taught the dozen into shillings, and called the fourpence an example.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Cast the columns, and kept the grandfather's penny on the slate rather than at the table.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the notched stick beside the chalk, and closed the correcting of John.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the pair had been eightpence, and forbade the correction at dinner.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Cast examples on the slate with Susanna",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Susanna Shakespeare",
+    "Anne Shakespeare",
+    "Mary Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the slate",
+    "an example at fourpence",
+    "the list left as written"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Twelve at fourpence is four shillings"
+    },
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "That is an example. We did not buy twelve of anything this morning"
+    },
+    {
+      "speaker": "mary_shakespeare",
+      "text": "The pair was eightpence"
+    }
+  ]
+}

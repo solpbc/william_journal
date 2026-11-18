@@ -1,0 +1,87 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At St Helen's Master Thwaite turned the sand-glass twice. He said the fast was ten days off, and that Ash Wednesday was the fifth of March. Sir John Spencer sat three rows ahead and did not speak. You came out with the house for dinner.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted ten days with the sermon and did not call across to the Mayor's pew.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Turned the sand-glass twice and sent the parish to dinner with the number ten.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Waited the second glass and kept Alse from treating the sermon as a wait for the loaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the short loaf and Sir John's unturned head, and remembered ten.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat three rows ahead in the carved pew and did not speak.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard Master Thwaite say the fast was ten days off",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two turnings of the glass",
+    "ten days",
+    "Ash Wednesday",
+    "Sir John's pew",
+    "the south aisle"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "We shall be brief, brethren."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "He turns it twice."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A penny, and short by a finger."
+    }
+  ]
+}

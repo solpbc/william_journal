@@ -1,0 +1,1 @@
+Arthur asked you to make the next lady tall, because Edith had let the hem down two fingers at Easter and his shins were out. You refused a new lady before dinner. You are Egeon this afternoon. Abel Garnish would not rename the doors.

@@ -1,0 +1,29 @@
+{
+  "narrative": "The forty leaves, shut, where Saturday left them. The rule is still under the last couplet. No clean sheet is pulled onto the board. Gib is on the Holinshed. No face. The hand rests on the shut stack and does not open it. The coffer stays shut. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked at the shut stack and did not begin another."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Stayed on the Holinshed."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in The forty leaves, still"
+    },
+    {
+      "type": "Project",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "context": "Shown on draft in The forty leaves, still"
+    }
+  ]
+}

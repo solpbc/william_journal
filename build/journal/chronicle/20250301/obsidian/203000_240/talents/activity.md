@@ -1,0 +1,1 @@
+At home you wrote that the moon was new, that last Saturday was thirty shillings, and that you were not setting a coffer-sum down. You wrote Kemp's interest as twenty-four lines, with no song. You wrote Edith's eight shillings and the mercer's fifty as unpaid. You did not write a figure for this week, and you did not write a total for the coffer.

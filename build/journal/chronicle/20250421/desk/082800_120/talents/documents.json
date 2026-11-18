@@ -1,0 +1,49 @@
+{
+  "overview": "On the Bishopsgate post there were two fresh bills. The Rose reopens with The French Doctor, and the company opens the Theatre with the comedy.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read both bills and walked on."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "two bills",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "both houses open",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Easter Monday",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Read the Rose's bill and the Theatre's bill"
+    },
+    {
+      "name": "The French Doctor",
+      "asset_type": "other",
+      "disposition": "Read the Rose's bill and the Theatre's bill"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-21",
+      "meaning": "Two bills on the Bishopsgate post"
+    }
+  ],
+  "summary": "Read the Rose's bill and the Theatre's bill"
+}

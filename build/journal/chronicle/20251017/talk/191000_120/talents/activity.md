@@ -1,0 +1,1 @@
+Mistress Ansell heard that a great man was dead and asked only whether he made a good end. You said you were not told the manner. She told you not to invent one, and not to write a grief you do not have. You went up to write one short line.

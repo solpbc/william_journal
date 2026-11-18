@@ -1,0 +1,1 @@
+Rehearsal kept the book as it stood. You are Gaunt. You brought no new line. Burbage is the king, and the part was not mended for a morning. The lovers are read tomorrow at Holywell. They are not played today. The afternoon is at two.

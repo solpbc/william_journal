@@ -1,0 +1,1 @@
+Before dinner you set four labels on a working sheet and wrote the problem under them: four men, each forsworn, each with a rhyme, and no way to bring them on without four scenes. You did not solve it. No messenger is on the leaf. The lines are foul paper.

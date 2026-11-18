@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "(the loft alewife)", "start": "19:00:00", "text": "You are late for a hot kitchen. There is bacon, and there is pease-pottage.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "19:00:12", "text": "Both. And the loft, if the loft is two pence.", "timing": {"end": 22.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "(the loft alewife)", "start": "19:00:22", "text": "Two pence for the loft. The hay is last year's. The bacon is tonight's.", "timing": {"end": 34.0, "start": 22.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "19:00:34", "text": "Two pence. I am not arguing a loft down.", "timing": {"end": 44.0, "start": 34.0}}
+{"sentence_id": 5, "speaker": "(the loft alewife)", "start": "19:00:44", "text": "Up the ladder when you have eaten. Count what you like up there. Shoes off after, not in my bacon.", "timing": {"end": 54.0, "start": 44.0}}

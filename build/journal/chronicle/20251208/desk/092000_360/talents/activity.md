@@ -1,0 +1,1 @@
+You saw the cue go onto the public roll as a mark, and not as words said into the room. Thursday's margin is still there, and still dry. The deposition is not in this roll. The book and both rolls take the same mark. The chest stays shut.

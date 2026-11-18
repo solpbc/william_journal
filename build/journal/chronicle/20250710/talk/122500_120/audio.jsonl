@@ -1,0 +1,9 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "12:25:00", "text": "He has cut the glass.", "timing": {"end": 4.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "richard_burbage", "start": "12:25:04", "text": "The whole of it?", "timing": {"end": 7.0, "start": 4.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "12:25:07", "text": "The Parliament. York may bring word. Nobody is to see a crown change hands.", "timing": {"end": 15.0, "start": 7.0}}
+{"sentence_id": 4, "speaker": "richard_burbage", "start": "12:25:15", "text": "\"A brittle glory shineth in this face. As brittle as the glory is the face.\"", "timing": {"end": 24.0, "start": 15.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "12:25:24", "text": "That is the speech he cut. Give me the glass, Dick. It can lie in the coffer with the rest.", "timing": {"end": 31.0, "start": 24.0}}
+{"sentence_id": 6, "speaker": "richard_burbage", "start": "12:25:31", "text": "No. The Master has the book. I have the glass. Let him come up to Shoreditch and take it out of my hand.", "timing": {"end": 40.0, "start": 31.0}}
+{"sentence_id": 7, "speaker": "william_shakespeare", "start": "12:25:40", "text": "Keep it, then. Only do not break it in a play he has not licensed.", "timing": {"end": 46.0, "start": 40.0}}
+{"sentence_id": 8, "speaker": "richard_burbage", "start": "12:25:46", "text": "I'll not break it. I'll look in it.", "timing": {"end": 56.0, "start": 46.0}}

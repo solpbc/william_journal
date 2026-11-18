@@ -1,0 +1,71 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "Walking home from the Cross Keys under a half moon, you let the play end on the laugh and then refused that ending. A man comes in, in black, from her father's court, says half a line, and she ends it. You tried it three ways, each shorter. They do not marry today. A twelvemonth, earned where you cannot see. You said Heminges will call it no ending, and that it is the only ending. You stopped on a doorstep. The frost was on the pump.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the memo, laughed once without sound, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named as the man who will object. Not present.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Black, and each time shorter",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Found the messenger and stopped on a doorstep",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the man in black",
+    "three shorter tries",
+    "a twelvemonth",
+    "the frost"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "A man comes in. Black. From her father's court. He says half a line and she ends it for him."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "And they don't marry. Not today. A twelvemonth. Let them earn it where we can't see."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Heminges will say it's no ending. \u2026It's the only ending."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Remember: the frost on the pump tonight, how breath hangs white in the close."
+    }
+  ]
+}

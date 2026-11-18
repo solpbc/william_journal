@@ -1,0 +1,44 @@
+{
+  "overview": "At two the plot was Love's Labour's Lost at the Theatre, and your side on it was the King of Navarre. You played the afternoon and brought no speech of it home. Across the water the Rose had two bills, Seven Days and the first Hercules. You did not cross.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Played the King of Navarre, and did not cross the water."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Navarre",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "two of the clock",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Rose's two bills",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Played the King of Navarre"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-22",
+      "meaning": "Navarre, and the Rose's two bills"
+    }
+  ],
+  "summary": "Played the King of Navarre"
+}

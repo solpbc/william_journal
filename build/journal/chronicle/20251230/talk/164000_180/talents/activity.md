@@ -1,0 +1,1 @@
+Verbeke came in when the light went off the loom, and he did not knock. You told him the page was folded and that you were going out when it was full dark. Alse said there was no plate for you at six. He did not ask what was in the fold. You did not send either of them into the street.

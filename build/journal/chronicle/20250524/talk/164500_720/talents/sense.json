@@ -1,0 +1,94 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Heminges named your share as six-and-thirty shillings, against forty last Saturday, the spring's best. You said the chest was not counted. The sheet carried the share and not the lease. He was gloomy about a second Hercules yesterday, and he named no sum for that house. Pope and Phillips went home. You went toward the Jackdaw with the pouch tied.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said six-and-thirty back, and left the chest uncounted.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the share, kept the lease off the sheet, and named no Rose sum.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the sum, refused an average, and went home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took six-and-thirty without asking it to be forty, and went home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the silver and turned them toward the Jackdaw.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the second part of Hercules",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Six-and-thirty",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took six-and-thirty shillings",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Thomas Pope",
+    "Augustine Phillips",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "six-and-thirty",
+    "forty last Saturday",
+    "the chest not counted"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Your share, Will, six-and-thirty shillings."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The chest is not counted."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "The book is shut on six-and-thirty."
+    }
+  ]
+}

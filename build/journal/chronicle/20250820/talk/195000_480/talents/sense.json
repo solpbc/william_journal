@@ -1,0 +1,68 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Over the ale at Beaconsfield he said they say at the Bell you make kings. You said you make them and your fellows wear them. He asked if there is a living in it. You said there is a share in it. He said you are a carrier, with only the one horse too many. You did not name the day the door opens. You did not tell him what was left in the belt. You kept his sentence, and you did not improve it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered the living with a share, and would not name the day.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Made him a carrier, and left the spare unoffered for tomorrow.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "the company",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in One horse too many",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Said the share, and kept the one horse too many",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Hobbins",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "kings",
+    "a share",
+    "one horse too many",
+    "the door shut"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_hobbins",
+      "text": "They say at the Bell you make kings."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I make them and my fellows wear them."
+    },
+    {
+      "speaker": "thomas_hobbins",
+      "text": "You've only the one horse too many."
+    }
+  ]
+}

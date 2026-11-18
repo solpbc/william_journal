@@ -1,0 +1,49 @@
+{
+  "overview": "At the reckoning you wrote the share as one-and-thirty shillings. You wrote that the coffer was not opened, and that it stands as ruled, at twenty pound fifteen shillings. You did not make a new total.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the share, and did not open the coffer."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "one-and-thirty shillings",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the coffer not opened",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "twenty pound fifteen",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "one-and-thirty shillings",
+      "asset_type": "other",
+      "disposition": "Wrote one-and-thirty beside the old ruling"
+    },
+    {
+      "name": "twenty pound fifteen shillings",
+      "asset_type": "other",
+      "disposition": "Wrote one-and-thirty beside the old ruling"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-06",
+      "meaning": "One-and-thirty"
+    }
+  ],
+  "summary": "Wrote one-and-thirty beside the old ruling"
+}

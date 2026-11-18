@@ -1,0 +1,1 @@
+You wrote what you meant to do in Stratford, and you struck the half that would have been a performance of being there. The gifts stay. Your mother and your father stay. A speech ready for the door is struck. So is a walk through the shops to be seen.

@@ -1,0 +1,41 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At the inn window you set this arrival against Greenwich a year ago, and against the same cloak. You did not add a second sentence.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the cloak once and stopped.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Named Greenwich a year ago and the same cloak",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Greenwich",
+    "the same cloak"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "A year ago, Greenwich. Same cloak."
+    }
+  ]
+}

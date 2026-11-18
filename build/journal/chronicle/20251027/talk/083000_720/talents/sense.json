@@ -1,0 +1,109 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "A boy in Southampton's livery left a folio at the street door and did not come up the stair. The slip in Florio's hand says lent, not given, and who lends, loses, and prove the proverb false. Mistress Ansell carried the book up to feel the weight. It goes on the board and not in the coffer. She will fill the horn at twopence when the Monday copper cools. You opened it for the Knight's Tale and gave yourself until the bell for nine. The loaf is still a penny and a thumb short. You did not start a page of your own.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read the proverb, and gave the morning to the Knight's Tale.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Carried the folio, barred it from the coffer, and priced the horn at twopence.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the latch, moved the cat, and refused to dust a loan.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Lay on the third tread until he was moved.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "John Florio",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named on the slip, and not in the house.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Henry Wriothesley, 3rd Earl of Southampton",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named by the boy's livery, and not present.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Chaucer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in What a lord's book weighs",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the coffer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in What a lord's book weighs",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Took a lent folio at the street door",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the lent Chaucer",
+    "Florio's slip",
+    "the bell for nine",
+    "the Monday horn"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Chi presta, perde: who lends, loses."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I want to know what a lord's book weighs."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "If I sit, I will start a page"
+    }
+  ]
+}

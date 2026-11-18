@@ -1,0 +1,7 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "(the carter)", "start": "11:10:00", "text": "Bishopsgate is straight on, master, if you want the straight.", "timing": {"end": 8.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:10:08", "text": "I don't. The long way. The same as I came.", "timing": {"end": 16.0, "start": 8.0}}
+{"sentence_id": 3, "speaker": "(the carter)", "start": "11:10:16", "text": "It's a mile out of the way, and the horse has already got opinions.", "timing": {"end": 26.0, "start": 16.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "11:10:26", "text": "A mile out of the way is the point. Let her spend her opinions on the long road.", "timing": {"end": 36.0, "start": 26.0}}
+{"sentence_id": 5, "speaker": "(the carter)", "start": "11:10:36", "text": "Please yourself. The straight road will keep.", "timing": {"end": 44.0, "start": 36.0}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "11:10:44", "text": "Later is not today. Water, and no directions.", "timing": {"end": 54.0, "start": 44.0}}

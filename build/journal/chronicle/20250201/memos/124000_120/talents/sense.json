@@ -1,0 +1,57 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You stopped at the lodging between the hill and the play. You are in Errors at two. You open, and then you wait. You are not going to the first Caesar.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped at home and went back for Errors.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Back for two",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "1 Caesar",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Back for two",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came home and went out again for Errors",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the short stop at home",
+    "Errors at two"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I open, and then I wait;"
+    }
+  ]
+}

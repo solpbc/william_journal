@@ -1,0 +1,121 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "The sleet had gone and the morning was hard and bright. Heminges saw both heels and laid out new hose for the whole company, twenty-six shillings out of the stock. Kemp presented his feet and dared a hole to be found. Pope produced the old pair, heel open to a fist, and was satisfied that Greenwich had been his. Garnish packed three books and sixty rolls and sat on the chest. Bryan gave the order of going, and forbade a first word to a yeoman and a hand on a hanging. Sam asked if the Queen is truly there or if it is the chair again. You told him the court went up to Richmond this morning. Nick was there and did not sing. Phillips's four days still held, and Phillips was not in the room.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed both heels, answered Sam, and left the four days unbroken.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called the muster, named twenty-six shillings, and kept Garnish on the chest.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the order of going, the yeoman, and the hanging.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Presented his feet and kept the boy off a song for today.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Produced the old heel and called himself satisfied.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted three books and sixty rolls and sat on them.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked whether Friday is the Queen or the chair again.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Stood in the room with the cup, and did not sing.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Showed both heels at the muster",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Will Kemp",
+    "Thomas Pope",
+    "George Bryan",
+    "Abel Garnish",
+    "Sam Latchet"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "new hose",
+    "twenty-six shillings",
+    "the order of going",
+    "the court gone up"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "Find a hole in that, grocer. Thou'lt find none; I've walked on my hands since November."
+    },
+    {
+      "speaker": "thomas_pope",
+      "text": "Greenwich. That was the heel. I have wondered a year whose it was, and it was mine, and I am satisfied."
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "Nobody speaks to a yeoman of the guard before I have spoken. Nobody touches a hanging."
+    },
+    {
+      "speaker": "sam_latchet",
+      "text": "Is the Queen truly there, or is it the chair again?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The court went up to Richmond this morning."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "overview": "The tables still show the old words, Edith eight shillings owing, Lady Day, and the line is struck. You added no new sum under the stroke. The eight shillings were the stock's, not yours.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Confirmed the stroke and did not add a sum."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the struck line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Lady Day",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no new sum",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "8s from the stock",
+      "asset_type": "other",
+      "disposition": "Left the owing line struck"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-20",
+      "meaning": "Struck"
+    }
+  ],
+  "summary": "Left the owing line struck"
+}

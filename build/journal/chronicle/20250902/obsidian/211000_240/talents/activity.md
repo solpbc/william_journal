@@ -1,0 +1,1 @@
+At home you wrote Kettleby's sentence under Of Kings in the commonplace book, and under it the second of October, as licensed. On the tables you left the morning's work: the Friar, his basket, and the line the carrier gave.

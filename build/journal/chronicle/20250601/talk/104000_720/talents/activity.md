@@ -1,0 +1,1 @@
+Master Thwaite reached fourteenthly and ended. Mistress Ansell called it sound doctrine. You said fourteen parts of it. She said it was the first sermon you had heard to the end. At the door Alse asked who decides where a permitted shade ends and an offence begins. Nobody answered the edge of it.

@@ -1,0 +1,88 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Ambrose Kettleby called from Somerset House, sent up for his lord's linen and letters. My lord is with the court in Surrey. He would know that the house opened quietly, and when the new king is to be seen. He will come unlooked-for. You gave Thursday the second of October, and Kettleby wrote it down. The Lord Treasurer cannot stir hand nor foot, nor feed himself. Every paper that wants his hand is waiting on his foot. My lord bids you keep an orderly house, and he softens it. You said the orderliest in Middlesex. He said that is the county he should be anxious for.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave Thursday the second of October, and answered for Middlesex.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Ambrose Kettleby",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the linen-errand, the unlooked-for visit, and the gout, and wrote the day down.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Henry Carey, 1st Lord Hunsdon",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Is the lord in Surrey. He is not on the call.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Somerset House",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in From Somerset House",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the second of October",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in From Somerset House",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Gave Kettleby the second of October",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Ambrose Kettleby",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the second of October",
+    "unlooked-for",
+    "the Lord Treasurer's gout",
+    "an orderly house"
+  ],
+  "quotes": [
+    {
+      "speaker": "ambrose_kettleby",
+      "text": "Master Shakespeare? Ambrose Kettleby. From Somerset House, where I am sent up for my lord's linen and his letters."
+    },
+    {
+      "speaker": "ambrose_kettleby",
+      "text": "My lord has a mind to see it, and says he will come unlooked-for."
+    },
+    {
+      "speaker": "ambrose_kettleby",
+      "text": "My lord bids me say (and I soften it) that the City is never so busy with its pen as when the harvest is bad."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The orderliest in Middlesex, sir."
+    }
+  ]
+}

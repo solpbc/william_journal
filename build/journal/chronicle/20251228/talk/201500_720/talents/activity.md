@@ -1,0 +1,1 @@
+At the door, before you crossed, Heminges had my lord's leave for the jig and no purse with it. Phillips told Nick to come in under the note. Nick said he was glad, and he did not sing in the yard. You kept the tale as it is, and you said a lost roll would get your hands before your nerves did. The two cloaks stayed at the inn for tomorrow's count.

@@ -1,0 +1,199 @@
+{
+  "daily_coverage": {
+    "maintenance": {
+      "identity": {
+        "day": "",
+        "name": "daily_schedule"
+      },
+      "evidence_revision": "31004c22128ba7817af9c61712e3f3330bcbf184761312eab1601d1107199e1b",
+      "contract_digest": "ee026c5cb5ebd3cc3d9091f9d6e63f569afac1051df96440693eb3e9489975a1",
+      "state": "outstanding",
+      "reason_code": null,
+      "owed_by": "never_made"
+    },
+    "day": "20250519",
+    "as_of_ms": 1794975930628,
+    "state": "outstanding",
+    "units": [
+      {
+        "identity": {
+          "day": "20250519",
+          "name": "morning_briefing"
+        },
+        "evidence_revision": "80f5d1465477d87742cdc55b0f3dc87850286da4e497ee6b77efb6871c6a7d00",
+        "contract_digest": "40f6ec89fd8b80947c2d431fca4955ff05f86b2beb2696d6671808af2e4f75d1",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250519",
+          "name": "entities:entities_review",
+          "facet": "company"
+        },
+        "evidence_revision": "7c5d5e730a9d0db81ebc5dcf9a70f8f2344341370d13b7ac6e1ea7e5ef8450e7",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250519",
+          "name": "entities:entities_review",
+          "facet": "household"
+        },
+        "evidence_revision": "213c96abb7edf9b7d19d2826419ea4ce352aa836b926063eede291999c8126f5",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250519",
+          "name": "entities:entities_review",
+          "facet": "writing"
+        },
+        "evidence_revision": "53813f49cecb8d23677eb263058dcb0db82309cb0fdd8f097966db7d65fe1dfe",
+        "contract_digest": "5c0b37a6f96ae92e744125132831473fedcaf1a2d7a273bedba679a5ef6a59bc",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250519",
+          "name": "entities:entity_observer",
+          "facet": "company"
+        },
+        "evidence_revision": "61bed91d5a9da55c2f18947191879b36c647a96d6dc46a445ebdb4ba86df899a",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250519",
+          "name": "entities:entity_observer",
+          "facet": "household"
+        },
+        "evidence_revision": "7675d304684a89dc1f792452ccafbe0d6801edc92187c2b8ff8603759cb710c9",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250519",
+          "name": "entities:entity_observer",
+          "facet": "writing"
+        },
+        "evidence_revision": "825aa97ef20295d16777315210bdc3e77192933fa3be2391bc4241804428d6cb",
+        "contract_digest": "73c34dad0cee4fcdd3b4dcf381bcfe26ebca80d2e474e09aac1d372f5e42b0fe",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250519",
+          "name": "entities:entity_suggest",
+          "facet": "company"
+        },
+        "evidence_revision": "a466f98e25e7ea0b55ea991b77751fde6711dca3c6f8bb58134f5efe7bc57b7a",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250519",
+          "name": "entities:entity_suggest",
+          "facet": "household"
+        },
+        "evidence_revision": "66b62cf7c378dd3391bee3fcef233b5188c5443f3067beca558b7b48e1aa54cf",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      },
+      {
+        "identity": {
+          "day": "20250519",
+          "name": "entities:entity_suggest",
+          "facet": "writing"
+        },
+        "evidence_revision": "807d3ef432c19d781c019f29bca02312f8e56c13ef410871548da2cf2dec3a00",
+        "contract_digest": "81d16d170402e515e7760e3f8a4d80aa0e5962776f07875548027d4b1aaa3354",
+        "state": "outstanding",
+        "reason_code": null,
+        "owed_by": "never_made"
+      }
+    ]
+  },
+  "schema_version": 10,
+  "stats": {
+    "transcript_sessions": 3,
+    "transcript_segments": 36,
+    "transcript_duration": 528.0,
+    "transcript_ranges": 3,
+    "percept_sessions": 2,
+    "percept_frames": 4,
+    "percept_duration": 360.0,
+    "percept_ranges": 2,
+    "browser_segments": 0,
+    "pending_segments": 0,
+    "segments_pending_think": 0,
+    "outputs_processed": 0,
+    "outputs_pending": 10,
+    "day_bytes": 95476,
+    "segment_fold_failed": false
+  },
+  "agent_data": {
+    "media": {
+      "count": 1,
+      "minutes": 8.0
+    },
+    "planning": {
+      "count": 2,
+      "minutes": 8.0
+    },
+    "social": {
+      "count": 1,
+      "minutes": 12.0
+    },
+    "writing": {
+      "count": 1,
+      "minutes": 8.0
+    }
+  },
+  "facet_data": {
+    "company": {
+      "count": 3,
+      "minutes": 22.0
+    },
+    "household": {
+      "count": 1,
+      "minutes": 12.0
+    },
+    "writing": {
+      "count": 1,
+      "minutes": 2.0
+    }
+  },
+  "heatmap_data": {
+    "weekday": 0,
+    "hours": {
+      "8": 8.0,
+      "12": 12.0,
+      "14": 8.0,
+      "15": 6.0,
+      "18": 2.0
+    }
+  }
+}

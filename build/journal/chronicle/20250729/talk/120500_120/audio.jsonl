@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "(the pedlar)", "start": "12:05:00", "text": "Ballad sheets. A penny. The tune is in the singing, not in a title.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "12:05:12", "text": "One sheet. A penny. It is for a girl who cannot read it. She will have it if she hears it once.", "timing": {"end": 28.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "(the pedlar)", "start": "12:05:28", "text": "Then do not lose the tune between here and wherever she is. A penny, and it is yours.", "timing": {"end": 42.0, "start": 28.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "12:05:42", "text": "A penny. I am not buying a second, and I am not asking you to name it.", "timing": {"end": 54.0, "start": 42.0}}
+{"sentence_id": 5, "speaker": "(the pedlar)", "start": "12:05:54", "text": "Take it folded. The road past Aylesbury is long enough to forget a tune. Do not.", "timing": {"end": 64.0, "start": 54.0}}

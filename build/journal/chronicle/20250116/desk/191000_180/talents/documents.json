@@ -1,0 +1,56 @@
+{
+  "overview": "You wrote the sixpence and the twopence on the tables. Under them the older line is still there, Edith's eight shillings owing till Lady Day. You did not write a sum for the coffer. You did not rule a column for what you expect and a column for what you have had. You did not enter a week's share.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the two payments under the old line."
+    },
+    {
+      "name": "Edith Kettlewood",
+      "role": "mentioned",
+      "formal_term": "Edith Kettlewood",
+      "appointment_tier": "not_applicable",
+      "context": "Named on the old line. Not present. Not paid."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the eightpence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Edith's eight shillings",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no new total",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Wrote the eightpence on the tables"
+    },
+    {
+      "name": "Edith's 8s",
+      "asset_type": "other",
+      "disposition": "Wrote the eightpence on the tables"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-16",
+      "meaning": "Eightpence on the tables"
+    }
+  ],
+  "summary": "Wrote the eightpence on the tables"
+}

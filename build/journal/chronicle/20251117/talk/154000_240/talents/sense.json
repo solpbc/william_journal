@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "George Peele passed with a roll of paper. He said he has a poem on the tilt, and that every horse in it rhymes. He asked whether Titus still gets the laugh in the wrong place. You did not mend it for him. He asked a groat. You did not give it. You had already paid twelve pence at the gate. You stayed. He went on.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the groat and stayed at the barrier.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Peele",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Offered the poem, asked after Titus, and went on with his paper.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "twelve pence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Every horse in it rhymes",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Titus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Every horse in it rhymes",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Nodded to Peele and refused the groat",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "George Peele",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a poem on the tilt",
+    "Titus",
+    "no groat",
+    "twelve pence already paid"
+  ],
+  "quotes": [
+    {
+      "speaker": "george_peele",
+      "text": "I've a poem on the tilt. Every horse in it rhymes."
+    },
+    {
+      "speaker": "george_peele",
+      "text": "A groat for a poor poet? No? Wise man."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "We have nodded."
+    }
+  ]
+}

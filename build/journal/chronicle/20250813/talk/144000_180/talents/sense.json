@@ -1,0 +1,67 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Your father stood in the door and did not come in. He said some fairy had been at your back, as one was at his reckoning in Lent, and that he would know that fairy's hand anywhere. It was the nearest he came to the five pounds. He went downstairs pleased, and you did not put a name to it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave him the gladness, and no name.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the line from the door, and left pleased.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the five pounds of Lent",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Some fairy",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard Father joke that a fairy had been at the back",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the fairy",
+    "the Lent reckoning",
+    "the door"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_shakespeare",
+      "text": "Some fairy's been at my son's back, as one was at my reckoning in Lent."
+    },
+    {
+      "speaker": "john_shakespeare",
+      "text": "I'd know that fairy's hand anywhere."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Then I am glad you are pleased."
+    }
+  ]
+}

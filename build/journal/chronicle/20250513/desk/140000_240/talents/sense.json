@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "You stood in the tiring-house door for The Two Gentlemen of Verona. Kemp's Launce played to an empty rope. No dog came on.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Stood in the door, and did not go on.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Played Launce to an empty rope. He was not spoken with.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Two Gentlemen of Verona",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in An empty rope",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Stood in the door while Launce played to an empty rope",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the tiring-house door",
+    "Launce",
+    "an empty rope"
+  ],
+  "quotes": []
+}

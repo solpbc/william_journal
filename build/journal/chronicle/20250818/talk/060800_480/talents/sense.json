@@ -1,0 +1,84 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "At the bridge the string was six horses and the spare, with gloves, cheeses and a town's letters under the cloths, and a bell on the leader. Richard had handed the parcel up and said nothing. Hobbins said it was light this time, and no calls at Oxford, four days, eight when the way is foul. He put you on the spare as far as Shipston, ten miles, carrying nothing. You said you were not glad of it. The two shillings stays for the Bell. You are not turning aside for the old stones.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted the nag, refused the gladness, and kept the two shillings for the Bell.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the light load, the four days, the pace, and the saddle.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood by the parcel he had already handed up, and said nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the spare nag",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Light this time",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "two shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Light this time",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Took the spare to Shipston",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Hobbins",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "six and the spare",
+    "no calls at Oxford",
+    "ten miles to Shipston",
+    "two shillings at the Bell"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_hobbins",
+      "text": "Light this time, and no calls at Oxford."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not glad of it."
+    },
+    {
+      "speaker": "thomas_hobbins",
+      "text": "Two and a half miles in the hour"
+    }
+  ]
+}

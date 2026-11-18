@@ -1,0 +1,17 @@
+{
+  "narrative": "A cleaner leaf than Wednesday's. The same entrance. The half-line stops. The blank after it is empty on purpose. No song at the foot. The same leaf, lower down. The half-line above is still empty. This sentence is theirs. No last line of the play is under it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Copied the entrance, wrote the year, and did not close the act."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on draft in The half-line, still empty"
+    }
+  ]
+}

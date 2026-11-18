@@ -1,0 +1,1 @@
+The title had set you thinking of citizens' wives, and of women of their own size quarrelling. Under the Duke's wedding of three weeks since you wrote two maids in the wood, one little and one tall, with the initials N. S. and A. M., and that they should fall out about it. You have no scene. You have a pair of boys of the right heights.

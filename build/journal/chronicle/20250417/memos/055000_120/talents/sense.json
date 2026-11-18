@@ -1,0 +1,54 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "You said the four words several ways. You tried them lower, and as a man who had been waiting, and neither humble nor brisk. You kept the King's address in his mouth and the answer in yours. You meant to play the old man.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the line until the mouth was the one he will play.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Four words, several ways",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Tried the four words aloud",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the four words",
+    "several ways",
+    "Gaunt's mouth"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I haue my Liege."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Ould Iohn of Gaunt time honoured Lancaster."
+    }
+  ]
+}

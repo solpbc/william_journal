@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "On the way home Heminges entered the seven shillings in the book. You said you had never been cut so little and felt it so much.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said it once.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Entered the seven shillings.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Said the cut was little and felt it so much",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the fee entered",
+    "two oaths",
+    "the cut"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I was never cut so little, and felt it so much."
+    }
+  ]
+}

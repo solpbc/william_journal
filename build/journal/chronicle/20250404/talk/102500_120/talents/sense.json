@@ -1,0 +1,59 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Hamnet Sadler, who was owed nothing, had seen you cross the street three times. He said it was a kind morning's walk. You said you were buying bread. He said eight loaves' worth. You did not correct him.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called it bread, and did not mend the joke.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Sadler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the walk, and priced it as eight loaves.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Let eight loaves stand for the morning",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Hamnet Sadler",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the crossings",
+    "Sadler's joke",
+    "bread"
+  ],
+  "quotes": [
+    {
+      "speaker": "hamnet_sadler",
+      "text": "That's a kind morning's walk, Will."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am buying bread."
+    },
+    {
+      "speaker": "hamnet_sadler",
+      "text": "Aye. Eight loaves' worth."
+    }
+  ]
+}

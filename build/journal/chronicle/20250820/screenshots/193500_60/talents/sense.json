@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "At the inn, before you sat, the road pack and your boots were on the floor. No face was in it. You had not yet written the supper.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Set the pack down and took the boots off. His face is not in the picture.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the road pack",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Pack and boots",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Set the pack and the boots on the floor",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the road pack",
+    "the boots",
+    "the inn floor"
+  ],
+  "quotes": []
+}

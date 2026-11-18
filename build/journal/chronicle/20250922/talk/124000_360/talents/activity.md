@@ -1,0 +1,1 @@
+The loaf was a penny and a full thumb short. Board was threepence because you sat to it, and she would not make a week of one dinner. You ate three bites and left the desk upstairs. The quire stayed blank. The coffer stayed shut. Fivepence had not come out of it.

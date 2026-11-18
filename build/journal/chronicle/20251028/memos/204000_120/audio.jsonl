@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:40:00", "text": "The friar's letter is sped for Mantua, and it miscarries. I do not know the cause. I am not writing the cause.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:40:14", "text": "The vault is not this leaf. There is no song at the door. The red thread stays tied.", "timing": {"end": 24.0, "start": 14.0}}

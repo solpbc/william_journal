@@ -1,0 +1,17 @@
+{
+  "narrative": "The writing-tables, one line under the morning's blank. No second line. He has not sat to eat. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the one line and did not sit to eat."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in The line he kept"
+    }
+  ]
+}

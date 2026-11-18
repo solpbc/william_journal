@@ -1,0 +1,43 @@
+{
+  "density": "active",
+  "content_type": "media",
+  "activity_summary": "At two you played, and the strip did not name the part. You did not copy a speech into the margin, and you did not add a line. You went on.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Played, and did not name the part on the strip.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Taming of the Shrew",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In it, and not named",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Played the afternoon from the cues",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the afternoon roll",
+    "no name on the strip",
+    "no new line"
+  ],
+  "quotes": []
+}

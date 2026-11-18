@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "You looked along the hedge, and at the wheat standing thin and short. The thatch was a dark line further on. No one was in the frame, and you did not add a word to what had already been said.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Looked, and did not add a word.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the long hedge",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Thin wheat along the hedge",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Looked at the thin wheat along the hedge",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the long hedge",
+    "thin wheat",
+    "the thatch"
+  ],
+  "quotes": []
+}

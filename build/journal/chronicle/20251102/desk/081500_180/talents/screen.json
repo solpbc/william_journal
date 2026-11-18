@@ -1,0 +1,17 @@
+{
+  "narrative": "The penny almanac open on the board under the west window. This day's leaf names the day and carries no feast. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the leaf, and left it."
+    },
+    {
+      "type": "Tool",
+      "name": "the almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in No feast in the book"
+    }
+  ]
+}

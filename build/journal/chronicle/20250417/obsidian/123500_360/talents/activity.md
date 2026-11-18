@@ -1,0 +1,1 @@
+By dinner the quarrel before the King was on the page. Two men threw down their gages, and the King stood between them, graceful and wrong. You counted sixty lines across the morning sheet and this one, and you found no blots. You did not copy the two lines out again.

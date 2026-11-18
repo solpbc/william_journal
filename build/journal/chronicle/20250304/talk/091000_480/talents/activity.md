@@ -1,0 +1,1 @@
+At the morning rehearsal Garnish kept the tally at twenty-four and refused to tick a scrap Kemp sang at a bench. You agreed the song, if it was a song, belonged to the afternoon yard. Nick had the watchet gown and the Princess's old words, and you gave him nothing new. Burbage told you to leave the ending. You left the new lines unwritten.

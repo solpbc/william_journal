@@ -1,0 +1,1 @@
+Cowley came as far as the chair, with Egeon already learned, and asked which correction was current. You told him the second, Ephesus rather than Epidamnum at the third speech, and you tried to give the reason. He refused the reason. Mistress Ansell set bread and broth between you and kept him to the chair. You stayed in bed. The afternoon was not treated as a sacrifice.

@@ -1,0 +1,59 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At night you entered threepence and the loaf. You copied the three sentences. You set down Henslowe's sentence, six pound and the jig, and you did not price the house. The looking-glass is not on the sheet. The room is not written.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Entered the sentences, the sentence he heard, and the room he has not written.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Philip Henslowe",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in Six pound, heard",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Six pound, heard",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "a looking-glass",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Six pound, heard",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Set down six pound and the jig",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the three sentences",
+    "six pound heard",
+    "the room not written"
+  ],
+  "quotes": []
+}

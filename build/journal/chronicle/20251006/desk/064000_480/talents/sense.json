@@ -1,0 +1,43 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "By seven the sheet had eleven new lines. She is asking the day to be done so that night will come. You did not write a dawn. You did not write anything to send.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the eleven lines, and did not copy them fair, and did not send them.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Verona",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Eleven lines, by seven",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Put eleven lines on her sheet",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "eleven lines",
+    "the girl waiting for night",
+    "no dawn"
+  ],
+  "quotes": []
+}

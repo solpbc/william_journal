@@ -1,0 +1,1 @@
+Before you left the Bell you wrote Anne six lines. They say the brief is granted, that Master Quiney was a good man, that his purse was in his other hose, that two pounds went to the town and nothing to the man, and that the sheet waits for the fourth. You did not send it tonight. You did not write the letter of the 16th over again.

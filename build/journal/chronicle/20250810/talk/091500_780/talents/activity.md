@@ -1,0 +1,1 @@
+Breakfast ended on the crust, and nobody was given a second one. Susanna left Golding on the shelf. You kept the river for the middle of the afternoon. Joan wanted the ink off a Sunday wrist. Anne held the door until your mother was ready.

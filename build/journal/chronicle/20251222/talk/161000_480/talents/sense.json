@@ -1,0 +1,77 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At the end of the play Margery had four shillings and tenpence from a yard of some sixty, and she would have given the pennies back to send them home. It was the Theatre's last play of the year. Heminges had word from Somerset House that the Queen has put off Richmond until tomorrow, for the weather. He said she has sense, and that the tilt-boat stands. He would not make a share out of the four and tenpence. You did not yet correct Gannet in his hearing. You had tomorrow, which is one of the three, and not the whole of any of them.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called it the last play at the house, and took tomorrow without a new figure.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported four shillings and tenpence and a yard of some sixty.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the delay from Somerset House and refused a share off the thin house.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in She has sense",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard the Queen put off Richmond until tomorrow",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Goodwife Margery Pell",
+    "William Shakespeare",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "four shillings and tenpence",
+    "sixty souls",
+    "Richmond put off",
+    "the tilt-boat"
+  ],
+  "quotes": [
+    {
+      "speaker": "margery_pell",
+      "text": "Four shillings and tenpence, and I'd have given them their pennies back to go home."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "The Queen has put off her going to Richmond for the weather, until tomorrow. Item, she has sense. The tilt-boat stands."
+    },
+    {
+      "speaker": "margery_pell",
+      "text": "Some sixty souls, and a few wet gowns."
+    }
+  ]
+}

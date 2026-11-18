@@ -1,0 +1,1 @@
+You played Gaunt at two in the gown you already wear for him. The afternoon was Richard II, in the cut book. The plot named the play. Three leaves were not on the peg and not in the gown. The chest stayed shut. You did not leave the house before Gaunt was done. When the part was done you stood where a man stands who is finished and the play is not.

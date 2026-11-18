@@ -1,0 +1,98 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At dinner the penny loaf was a finger short of the notch, as on Friday. You said the twins are ten and that the letter waits for Thursday. Alse offered to run it to the Bell. You refused. Verbeke took the heel. He is from Flanders, and his loom is in Norton Folgate. The meat was threepence. Firing and washing stay sixpence a week until Lady Day. No second loaf was bought. The pump in the close had run.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate, refused the errand, and left the letter unwritten until after dinner.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Laid the loaf to the notch and priced the meat at threepence.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the finger, and offered to carry the letter.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the heel and did not hurry the post.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A finger short",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Bell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A finger short",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate the short loaf and kept the letter for Thursday",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "William Shakespeare",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the penny loaf",
+    "the twins",
+    "Thursday's carrier",
+    "the firing"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A penny loaf, and a finger of it gone before grace."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The paper will say so, and the paper will sit here till Thursday."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "You could, and Hobbins is not there. Thursday. Leave it."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Threepence if you take the meat."
+    }
+  ]
+}

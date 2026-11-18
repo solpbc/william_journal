@@ -1,0 +1,44 @@
+{
+  "overview": "You tried a spring note, struck it, and stopped. The owl was not written. The last line was still open. You left both for tomorrow, before dinner.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the line, struck it, and left the desk."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the struck line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the owl",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the open door",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Struck the spring note and stopped"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-20",
+      "meaning": "A line, and then a stop"
+    }
+  ],
+  "summary": "Struck the spring note and stopped"
+}

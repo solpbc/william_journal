@@ -1,0 +1,44 @@
+{
+  "overview": "The page holds the queen, the two men, the apricocks and the weeds, the caterpillars and the cut, and the curse left in. The deposing is named as already written behind it. The prison is not on the page. The end is not on the page.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the page and stopped before the prison and the end."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the page",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the curse",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the play unfinished",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Stopped after the queen's curse"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-20",
+      "meaning": "The curse stays"
+    }
+  ],
+  "summary": "Stopped after the queen's curse"
+}

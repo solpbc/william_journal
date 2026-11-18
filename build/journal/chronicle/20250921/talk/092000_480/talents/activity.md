@@ -1,0 +1,1 @@
+Master Thwaite reached fourteenthly, and you lost the head he was on. You told him you had come because it was Sunday. Mistress Ansell told you to sit, and that Sir John was not your text. Sir John stayed in his pew and did not turn, and he did not speak. You brought no sentence home.

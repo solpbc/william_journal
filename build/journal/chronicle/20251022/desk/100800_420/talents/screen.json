@@ -1,0 +1,17 @@
+{
+  "narrative": "York's roll, the entrance at the cut word, the small sign in the corner. A weight holds the far end. No face. The third roll moved to the top. The entrance depends on the word the other two now share. The same small sign. No face. The three rolls laid one on another and the weight returned. No hand stays in the frame. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Checked York's roll and the Queen's"
+    },
+    {
+      "type": "Tool",
+      "name": "the three rolls",
+      "role": "mentioned",
+      "context": "Shown on part in Checked York's roll and the Queen's"
+    }
+  ]
+}

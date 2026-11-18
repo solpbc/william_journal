@@ -1,0 +1,1 @@
+At midday the jaw was healed and you ate a crust. The loaf was still a penny and a full thumb short of the notch. You said you are in the afternoon play, and you did not name a part. The red bundle stays tied. You have no story yet to bring home. Mistress Ansell still does not go to a playhouse.

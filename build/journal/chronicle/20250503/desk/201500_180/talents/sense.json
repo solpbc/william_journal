@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You counted the coffer and wrote no figure. The received line is thirty-four shillings. The total is blank. The letter is noted for the carrier of the fifteenth, with nothing enclosed.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the received line and refused the figure.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Entered thirty-four shillings as received",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "thirty-four shillings",
+    "no figure",
+    "the fifteenth"
+  ],
+  "quotes": []
+}

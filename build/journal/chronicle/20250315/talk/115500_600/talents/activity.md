@@ -1,0 +1,1 @@
+Burbage asked for seven yards of peach-coloured velvet in grain and was told to wait until autumn. No price was set, and no mercer was named. The stock is not spent a second time. You still mean to hire a horse with your part, and you have not hired one. Bryan stayed in the room and did not take a side.

@@ -1,0 +1,23 @@
+{
+  "narrative": "A quire of Rochelle paper under the arm, and a book on Field's counter that stays open on his side of it. No note in the margin. No scrap in the quire.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Took the quire and wrote nothing."
+    },
+    {
+      "type": "Tool",
+      "name": "the quire",
+      "role": "mentioned",
+      "context": "Shown on book in Nothing written down"
+    },
+    {
+      "type": "Tool",
+      "name": "fourpence halfpenny",
+      "role": "mentioned",
+      "context": "Shown on book in Nothing written down"
+    }
+  ]
+}

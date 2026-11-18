@@ -1,0 +1,49 @@
+{
+  "overview": "You opened your own copy of Daniel's third book. You had meant to check it at Paul's against a better copy. You wrote that you would not go this week, and you did not go.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote that the errand was not this week, and stayed at the board."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Daniel",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Paul's",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the copy he owns",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Daniel's third book",
+      "asset_type": "other",
+      "disposition": "Opened Daniel's third book"
+    },
+    {
+      "name": "Paul's",
+      "asset_type": "other",
+      "disposition": "Opened Daniel's third book"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-16",
+      "meaning": "Daniel, and not Paul's"
+    }
+  ],
+  "summary": "Opened Daniel's third book"
+}

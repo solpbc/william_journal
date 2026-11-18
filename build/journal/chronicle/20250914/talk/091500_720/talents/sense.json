@@ -1,0 +1,94 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You stood three pews from the Mayor. He gave the litany its answers short and cold, and neither of you looked. The north aisle was full again with the households that went out in July. A dark head under a plain hood did not turn. You learned nothing from the sermon. The jaw had a pulse. The back was the back you brought in.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered the litany, did not look, and lost the sermon.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the filled aisle and the three pews, and carried the cushion home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the litany, and a sermon that did not stay.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Answered short and cold from his pew, and did not look across.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "the lady of the parish",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "A dark head under a plain hood in the north aisle. It did not turn, and it did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the north aisle",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three pews off",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood three pews from the Mayor",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Master Josias Thwaite",
+    "Sir John Spencer"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three pews",
+    "the litany",
+    "the north aisle",
+    "the jaw"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Every house that went out of the City in July is back in its bench."
+    },
+    {
+      "speaker": "john_spencer",
+      "text": "Good Lord, deliver us."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have lost the head he is on. I am not going back for it."
+    }
+  ]
+}

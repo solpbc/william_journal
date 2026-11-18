@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "On the Bishopsgate post you read The Venetian Comedy, first, as you read the Rose's bill first. The bill named no author and no price. You did not go.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the title first, and left the post.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Venetian Comedy",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The Venetian Comedy",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read The Venetian Comedy on the post",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one title",
+    "no price",
+    "the post"
+  ],
+  "quotes": []
+}

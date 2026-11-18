@@ -1,0 +1,1 @@
+You crossed the close to St Helen's while the light was going. From the porch you looked at Sir Thomas Gresham's great plain chest-tomb. You did not go in to stay, and you did not put a hand on the stone.

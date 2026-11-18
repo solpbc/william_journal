@@ -1,0 +1,1 @@
+At the Bell, Gilbert had already been and had gone back to St Bride's. The letter of the 26th was already in the bag, at twopence, paid when he put it in. Anne's letter was not handed to you. Hobbins had left it on the stair. You did not have it read out.

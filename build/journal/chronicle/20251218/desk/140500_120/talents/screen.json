@@ -1,0 +1,23 @@
+{
+  "narrative": "The Rose's afternoon, copied where the tiring-house can see it and not be tempted by it. He is already in his own shirt for his own play. He does not turn to the door.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the bill and did not cross."
+    },
+    {
+      "type": "Person",
+      "name": "Philip Henslowe",
+      "role": "mentioned",
+      "context": "Not in the yard. The bill was his afternoon, and that was all."
+    },
+    {
+      "type": "Project",
+      "name": "1 Hercules",
+      "role": "mentioned",
+      "context": "Shown on bill in Hercules, not this yard"
+    }
+  ]
+}

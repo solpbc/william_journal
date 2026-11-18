@@ -1,0 +1,1 @@
+At the bridge foot Henslowe was counting, and he knew you. He asked whether the wit pays. You said by the share. He pays by the play, six pound, and he never argues the jig. You took the bridge toward home, and you did not tell him what you had come to.

@@ -1,0 +1,1 @@
+After the rent the coffer held twenty-five pounds exactly. You set sixty shillings apart in canvas for Thursday's carrier, inside that count, and not as a second total. You entered the shares at eight shillings and twelve, and you made no remark. You wrote that the king was in the coffer also. You shut both locks.

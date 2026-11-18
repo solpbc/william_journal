@@ -1,0 +1,1 @@
+You wrote one word under Sunday's blow. The word was banished. You did not write the speech around it, and you did not start the scene in which the girl hears. The almanac beside the leaf had the moon drawn new. You copied no sentence off it. Gib stayed on the book.

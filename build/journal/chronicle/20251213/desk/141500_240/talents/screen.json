@@ -1,0 +1,17 @@
+{
+  "narrative": "He is Egeon again. The roll is the roll of Tuesday afternoon. The margin is still dry. He does not add a word to it, and he does not make the sea into a lesson for a Saturday yard. Nothing of the king is in this hand. The chest with the three leaves is not on the stage. The afternoon is the comedy, and the comedy does not inherit Tuesday's parliament.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Played Egeon, and did not touch the margin."
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "context": "Shown on part in Egeon again"
+    }
+  ]
+}

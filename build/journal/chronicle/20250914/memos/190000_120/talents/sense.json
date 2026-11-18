@@ -1,0 +1,58 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "In the close, very low, you said the three sentences. Home. She goes over the hard place till it is not one. You know one.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the three sentences, very low.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "the lady of the parish",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Spoken of. Not in the close.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said the three sentences in the close",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "home",
+    "the hard place",
+    "the close"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Home, then."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "She goes over the hard place till it isn't one."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I know no one else who does that. I know one."
+    }
+  ]
+}

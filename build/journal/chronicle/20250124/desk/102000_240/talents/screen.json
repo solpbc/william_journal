@@ -1,0 +1,23 @@
+{
+  "narrative": "The comedy open in Tilney's hands at the long table. A pen with red ink rests on the leaf. Across the room, cloth for a masque is piled on a bench where his men are stitching. Your hands are not in the picture. No face is over the page.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Waited, and did not lean over the page."
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Tilney",
+      "role": "attendee",
+      "context": "Read with the pen in his hand."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on book in A pen on the page"
+    }
+  ]
+}

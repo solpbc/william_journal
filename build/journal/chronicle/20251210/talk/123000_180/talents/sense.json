@@ -1,0 +1,90 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At dinner you were upright, and that was the whole report of Tuesday night. You did not give the house a name or a king. The loaf was two fingers short of the notch, and the price was a penny. Alse did not ask again whether the one who dies is a boy. Mistress Ansell did not collect a guest to set beside the notch.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the second half of the report.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Measured the loaf, and did not collect a king.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left Sunday's answer where it was.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the kitchen clear of the close's story.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No second half",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate dinner and kept the parlour to himself",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "no report of the parlour",
+    "two fingers",
+    "a penny",
+    "the lovers again"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "You are upright. That is as much as I require of a Tuesday night."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The loaf is short of the notch by two fingers, and the price is a penny."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Upright is the report, Mistress. There is no second half of it."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "I will not ask if the one who dies is still a boy."
+    }
+  ]
+}

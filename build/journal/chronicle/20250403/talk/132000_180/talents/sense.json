@@ -1,0 +1,86 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At home you gave Susanna the gingerbread that had come back in a paper. Judith had carried it unopened. Hamnet had already eaten his pennyworth. Anne sent them to wash. Susanna kept the paper until the board was clear.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave her the paper and made no more of the market.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sent them to wash, and left the unfolding to Susanna.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the paper and waited for the board.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported his penny already eaten.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the paper carried, and not opened.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Gave Susanna the gingerbread in a paper",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Susanna Shakespeare",
+    "Judith Shakespeare",
+    "Hamnet Shakespeare",
+    "Anne Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the paper",
+    "Susanna's penny",
+    "the walk home"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "This came home in a paper, Susanna."
+    },
+    {
+      "speaker": "judith_shakespeare",
+      "text": "I carried it and I did not open it."
+    },
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "A penny that survives the lane is a serious penny."
+    }
+  ]
+}

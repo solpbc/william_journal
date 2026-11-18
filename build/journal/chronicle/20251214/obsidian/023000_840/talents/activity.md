@@ -1,0 +1,1 @@
+In the waking hour you wrote the Christmas letter and left it unsealed. You told them you will be at Richmond and will not come home. You named the sixty shillings, the house spices, the raisins, the prunes, the russet, and a groat each. You left one thing for each of them off the page. You did not write a promise about what anyone at court will look at.

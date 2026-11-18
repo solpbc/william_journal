@@ -1,0 +1,39 @@
+{
+  "overview": "You read the bill's title and nothing under it. Mahomet. There was no author on it and no price. You did not go to the Rose.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the title and did not go to the Rose."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the bill",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the title",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Mahomet",
+      "asset_type": "other",
+      "disposition": "Read Mahomet on the bill by the Bull"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-02-05",
+      "meaning": "Mahomet, title only"
+    }
+  ],
+  "summary": "Read Mahomet on the bill by the Bull"
+}

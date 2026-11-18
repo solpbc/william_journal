@@ -1,0 +1,51 @@
+{
+  "overview": "You wrote three lines to Anne before you corrected another word of the fair copy. You told her the jaw had been quiet, that the lovers are tied and not finished, and that you ask after the children and her mother. You did not tell her the tooth is out.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the three sentences and signed them."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Named, and not yet in receipt of the paper."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "three lines home",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the quiet jaw",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the tied bundle",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the letter",
+      "asset_type": "other",
+      "disposition": "Wrote the three lines before another correction"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-19",
+      "meaning": "Three lines, before another correction"
+    }
+  ],
+  "summary": "Wrote the three lines before another correction"
+}

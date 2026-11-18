@@ -1,0 +1,52 @@
+{
+  "labels": [
+    {
+      "sentence_id": 1,
+      "speaker": "john_heminges",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 2,
+      "speaker": "william_shakespeare",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 3,
+      "speaker": "john_heminges",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 4,
+      "speaker": "will_kemp",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 5,
+      "speaker": "william_shakespeare",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 6,
+      "speaker": "john_heminges",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 7,
+      "speaker": "will_kemp",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 8,
+      "speaker": "william_shakespeare",
+      "method": "user_assigned",
+      "confidence": "high"
+    }
+  ]
+}

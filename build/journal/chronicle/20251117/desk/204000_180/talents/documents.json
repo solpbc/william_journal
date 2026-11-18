@@ -1,0 +1,44 @@
+{
+  "overview": "You wrote one line. Hard-handed men, a play for the Duke's wedding, and they are afraid of the lion. You did not write the tilt. You did not write a second line.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the line under one candle."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "hard-handed men",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Duke's wedding",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the lion",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the tables",
+      "asset_type": "other",
+      "disposition": "Wrote of hard-handed men afraid of the lion"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-17",
+      "meaning": "Hard-handed men"
+    }
+  ],
+  "summary": "Wrote of hard-handed men afraid of the lion"
+}

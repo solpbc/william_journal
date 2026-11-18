@@ -1,0 +1,1 @@
+You looked at the letter after the talk and copied the place and the two days. You did not copy a number of the dead. You kept the line that Tyrone was trained in the English manner, and you left the rest folded.

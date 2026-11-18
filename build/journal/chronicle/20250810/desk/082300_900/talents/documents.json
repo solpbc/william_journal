@@ -1,0 +1,49 @@
+{
+  "overview": "You stood at the bench and read the night's sheets from the name downward. The lines were the ones you had already left. You did not take up the pen. You did not sit.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read what was already written, and did not take up the pen."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the foul sheets",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the name",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the rose",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the vow",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the orchard scene",
+      "asset_type": "other",
+      "disposition": "Read the foul sheets on the bench"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-10",
+      "meaning": "Read the foul sheets"
+    }
+  ],
+  "summary": "Read the foul sheets on the bench"
+}

@@ -1,0 +1,121 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Burbage asked for seven yards of peach-coloured velvet in grain and was told to wait until autumn. No price was set, and no mercer was named. The stock is not spent a second time. You still mean to hire a horse with your part, and you have not hired one. Bryan stayed in the room and did not take a side.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Voted for autumn, and kept his part off the velvet.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a price and a date before autumn.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Admired the peach and did not ask for it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for seven yards in grain, and accepted the wait.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Let autumn be the word the stock can keep.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the mottoes and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put timber ahead of cloth.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed, and said nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "seven yards of peach-coloured velvet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not before autumn",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Put the velvet off until autumn",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Burbage",
+    "John Heminges",
+    "William Shakespeare",
+    "Will Kemp",
+    "Thomas Pope",
+    "James Burbage",
+    "Augustine Phillips"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "seven yards",
+    "peach-coloured velvet",
+    "autumn",
+    "no price"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "Seven yards. Peach-coloured velvet, in grain."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Ask then. Not before."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Not on a yard of peach."
+    }
+  ]
+}

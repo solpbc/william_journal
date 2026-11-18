@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "On a stall by the north door you read the words Thursday the 24 of July, plain on the title, and the imprint, printed by Allde for Blackwall. You did not buy the sheet. You did not turn the leaf. The rest of the title is not yours to supply.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read that much, and did not buy it.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "a new sheet on the five",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Thursday the 24 of July",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read Thursday the 24 of July on the stall",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the date on the title",
+    "the unturned leaf",
+    "unsold"
+  ],
+  "quotes": []
+}

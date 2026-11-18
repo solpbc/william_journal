@@ -1,0 +1,17 @@
+{
+  "narrative": "The tables are open under one candle. One line is new. Nothing else was added tonight.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the line under one candle."
+    },
+    {
+      "type": "Tool",
+      "name": "the tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Hard-handed men"
+    }
+  ]
+}

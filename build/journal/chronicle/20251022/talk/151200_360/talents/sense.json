@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Kemp came off with the rope and told you the yard had laughed. You had not seen it. He said the dog was a Christmas story, that it did not come on, and that it was not in his hand. You left the rope on the bench and said you would not write it down. Pope said he would keep your rule about the door.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Heard Kemp tell of a laugh in the yard",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Heard Kemp tell of a laugh in the yard",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Heard Kemp tell of a laugh in the yard",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the rope",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Heard Kemp tell of a laugh in the yard",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Came in for the afternoon play",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Will Kemp",
+    "William Shakespeare",
+    "Thomas Pope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the empty rope",
+    "the laugh",
+    "no dog"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "The dog is a Christmas story."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not put a dog into a memory to keep a laugh warm."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "he was not in my hand."
+    }
+  ]
+}

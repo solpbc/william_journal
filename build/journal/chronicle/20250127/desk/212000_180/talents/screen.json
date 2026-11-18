@@ -1,0 +1,23 @@
+{
+  "narrative": "A small leaf of his tables on the desk beside the full horn. The hand is his. The face is not over the page. No second leaf lies under this one.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the count in his own hand."
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "context": "Visible/present in The count, after"
+    },
+    {
+      "type": "Tool",
+      "name": "the tables",
+      "role": "mentioned",
+      "context": "Shown on tables in The count, after"
+    }
+  ]
+}

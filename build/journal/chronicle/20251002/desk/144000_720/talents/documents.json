@@ -1,0 +1,68 @@
+{
+  "overview": "You spoke Gaunt, and \"This royall throne of Kings\" landed in a hush. You were dead by the middle of the second act and stood at the tiring-house door after. Burbage sat upon the ground to tell sad stories. In the fourth act the crown changed heads between two speeches, and the Abbot said \"A wofull Pageant haue we here beheld\" of a pageant the house was not let behold. You did not play the deposition.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Spoke Gaunt, died in the second act, and kept to the door after."
+    },
+    {
+      "name": "Richard Burbage",
+      "role": "visible",
+      "formal_term": "Richard Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Sat upon the ground with the stories."
+    },
+    {
+      "name": "Thomas Pope",
+      "role": "visible",
+      "formal_term": "Thomas Pope",
+      "appointment_tier": "not_applicable",
+      "context": "The Abbot's line is his to say, of a pageant not staged."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the hush",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the door",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "sad stories",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the crown changing heads",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the pageant not shown",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Spoke Gaunt to a hush and stood at the door after"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-02",
+      "meaning": "The hush"
+    }
+  ],
+  "summary": "Spoke Gaunt to a hush and stood at the door after"
+}

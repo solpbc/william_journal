@@ -1,0 +1,1 @@
+Your father stood in the door and did not come in. He said some fairy had been at your back, as one was at his reckoning in Lent, and that he would know that fairy's hand anywhere. It was the nearest he came to the five pounds. He went downstairs pleased, and you did not put a name to it.

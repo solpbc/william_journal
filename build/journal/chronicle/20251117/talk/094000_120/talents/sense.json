@@ -1,0 +1,50 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You paid twelve pence at the tiltyard gate and went in among the citizens, far down the barrier. The yeomen kept the crowd with staves held crosswise. You did not come for a face you could name.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid, and did not ask for a better place.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "twelve pence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twelve pence",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Paid twelve pence and went in behind the barrier",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twelve pence",
+    "behind the barrier",
+    "the staves"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Twelve pence. I am not come for a face."
+    }
+  ]
+}

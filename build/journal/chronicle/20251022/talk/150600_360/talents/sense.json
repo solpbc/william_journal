@@ -1,0 +1,58 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You looked at the rope's end and did not pick it up. Pope told you to leave it lying. You said any story about it could arrive on its own.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left a rope's end lying on the bench",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left a rope's end lying on the bench",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the rope",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Left a rope's end lying on the bench",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Came in for the afternoon play",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Thomas Pope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the rope's end",
+    "hands in the lap"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_pope",
+      "text": "A property that is lying still is doing its work."
+    }
+  ]
+}

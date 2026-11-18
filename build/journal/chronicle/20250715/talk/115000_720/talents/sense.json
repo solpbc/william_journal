@@ -1,0 +1,107 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You read it again, slower. By the tenth line Phillips's lips were moving. Burbage asked what he says while all that is said. You told him: Peace, once. He said it was enough. Agnes said an alderman would have you shut. The notes stayed notes. The two lines at the top stayed the size of her.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read slower, and measured the one word.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Fitted the tenth line, and refused a third reading.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted Peace, once.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Let the second pig pass without a rite.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Still had no message.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Agnes Tipping",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Feared the alderman, and kept the sixpence.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Peace, once",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read it slower and gave Burbage Peace, once",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Augustine Phillips",
+    "Thomas Pope",
+    "Richard Burbage",
+    "Agnes Tipping",
+    "Sam Latchet"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the slower reading",
+    "Peace once",
+    "the alderman"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "And what do I say, while he says all that?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Thou say'st 'Peace.' Once"
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "It's enough"
+    },
+    {
+      "speaker": "agnes_tipping",
+      "text": "An alderman! You'll have us shut."
+    }
+  ]
+}

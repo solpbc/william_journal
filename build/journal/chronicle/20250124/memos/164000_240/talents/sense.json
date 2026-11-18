@@ -1,0 +1,62 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You were home. The two oaths were out and the book was signed. The seven shillings had been counted at the priory and were the company's. Richard the Third and Faustus went on without you. The letter was still unanswered.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the oaths, the fee, and the letter, and wrote no answer.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard III",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Home, and the letter still there",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Faustus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Home, and the letter still there",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Sat at the table with the letter still there",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the oaths",
+    "the fee",
+    "the letter"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "By Jove stays, because he put it there."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I do not know the day."
+    }
+  ]
+}

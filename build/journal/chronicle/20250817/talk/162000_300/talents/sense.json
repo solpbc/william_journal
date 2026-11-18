@@ -1,0 +1,94 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "The inkhorn had been missing an hour, and it was inside Hamnet's string-and-spool machine. Judith had heard it knock twice. Susanna told you not to make the finding into a tale while you were still getting it out. You said it was your ink, and that was the end of the story. You did not take it to London as a joke. You put the horn back toward the pack yourself.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the horn back, and did not tell the story.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had built a bucket that carried an inkhorn by accident.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had heard it knock, and named the funnier version.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped the tale before it started, and sent the horn to the pack.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the string-and-spool contraption",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The horn in the machine",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the inkhorn",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The horn in the machine",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Got the inkhorn out of Hamnet's machine",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Hamnet Shakespeare",
+    "Judith Shakespeare",
+    "William Shakespeare",
+    "Susanna Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the inkhorn",
+    "an hour missing",
+    "the machine",
+    "no London joke"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "It is my ink, and it is out"
+    },
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "Don't tell it as a tale while you're tipping it."
+    },
+    {
+      "speaker": "judith_shakespeare",
+      "text": "You were going to say it funnier in London."
+    }
+  ]
+}

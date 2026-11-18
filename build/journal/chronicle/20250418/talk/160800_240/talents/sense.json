@@ -1,0 +1,77 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You went back for evening prayer. The parish was still in black. Master Thwaite added no sermon to the passion. You added nothing. You took no branch, and you brought no new matter home to a page.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood, added nothing, and kept the afternoon quiet.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the evening to the prayer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a dressing-up and a new matter.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the ledge was still bare.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood for evening prayer",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "evening prayer",
+    "still in black",
+    "nothing added"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "I will not add a sermon to a passion."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The afternoon was quiet. I am keeping it quiet."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I did not bring the house out a second time to hear a new matter."
+    }
+  ]
+}

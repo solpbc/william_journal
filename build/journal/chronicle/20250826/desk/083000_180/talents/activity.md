@@ -1,0 +1,1 @@
+You opened Gaunt's roll at the desk, the same copy you took on Friday. Your own lines, in another man's hand, cue-words after the long rule. Gib slept on the cloth over the Holinshed. The page under the roll stayed blank.

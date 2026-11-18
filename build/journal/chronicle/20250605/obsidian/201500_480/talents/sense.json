@@ -1,0 +1,60 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote that Sunday is Field's table and the Holinshed stays in the house. You wrote that Susanna's letter went with Hobbins at twopence, that nothing came back, and that you did not rewrite it. You wrote that the parliament sheet is still blank.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the note and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sunday, and the book stays",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Susanna's letter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sunday, and the book stays",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sunday, and the book stays",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote that Sunday is Field's table and the Holinshed stays",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Sunday's table",
+    "the book stays",
+    "the letter gone",
+    "a blank sheet"
+  ],
+  "quotes": []
+}

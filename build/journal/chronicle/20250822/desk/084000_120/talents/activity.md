@@ -1,0 +1,1 @@
+You opened the coffer, both locks. Twenty pound eight shillings were there as you had left them. The belt had sixteen shillings of the six pounds. The road was nine shillings. Seven shillings went into the coffer. You ruled it off at twenty pound fifteen shillings. You did not write a price for the house, and you did not count it a second time.

@@ -1,0 +1,129 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "After Two Gentlemen, which you played, the sharers reckoned the week. Your part was thirty-eight shillings, a share. You will not write a coffer figure under it. Wednesday's eightpence stays where it was entered. The hired men stay at ten shillings. Christmas stays a blank. Tuesday's Shrew does not include you, and no man was named in your place. The king stands for Thursday week. You are not opening Monday again. Phillips said the mornings have not begun. You are going home.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the share, refused a coffer line, and kept Tuesday's page to himself.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stated the thirty-eight, left the eightpence and the ten shillings where they were, and set Tuesday without him.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused another Richmond speech and chose home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told him to call it a share and to walk it home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept this week distinct from the fourth of October, and would not drink the figure.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept Nick's mornings unpriced and unbegun.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused to reopen Monday and refused to turn the stock into a balance.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "thirty-eight shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thirty-eight, and the blank",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Shrew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thirty-eight, and the blank",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the king play",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thirty-eight, and the blank",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took thirty-eight shillings",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Will Kemp",
+    "Thomas Pope",
+    "Augustine Phillips",
+    "George Bryan"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "thirty-eight shillings",
+    "the blank",
+    "Tuesday's Shrew",
+    "no coffer"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Thirty-eight shillings. Your part, of the company, for the week to today."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not write a coffer under them."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "You are not in it, Will."
+    }
+  ]
+}

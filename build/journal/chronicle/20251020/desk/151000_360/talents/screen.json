@@ -1,0 +1,17 @@
+{
+  "narrative": "A foul leaf at the lodging table. The afternoon play is not this leaf. No face. Two further lines. The margin beside them is empty. The empty margin, ruled and unused. No word is written in it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the four pressures of the house and left the margin blank."
+    },
+    {
+      "type": "Project",
+      "name": "the Capulet kitchen",
+      "role": "mentioned",
+      "context": "Shown on draft in The cooks, before anyone finds a pause"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+At dinner Mistress Ansell did not ask what the king is. Yesterday she asked if it was the lovers, and you said no, and she did not ask again. The loaf was still a thumb short of the notch, and still a penny. You did not open the coffer.

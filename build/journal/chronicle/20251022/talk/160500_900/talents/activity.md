@@ -1,0 +1,1 @@
+You stayed off while the yard was still in. John said he and George were at the outer door, and that the hinges would be the signal. You had no question to send out. You waited, still painted, and you did not make the wait into news.

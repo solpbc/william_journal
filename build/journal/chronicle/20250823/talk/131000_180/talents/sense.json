@@ -1,0 +1,73 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You ate at the table. The fair is tomorrow, and you did not spend anything toward it. Monday is the opening, and today is not a playing day. Mistress Ansell told you not to measure the loaf again. You did not. Gib was still on the book, and you left him there.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate, named tomorrow's fair and Monday's door, and bought nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the meal at the table, and forbade a second measuring.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the fair, and left the cat where he was.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Bartholomew Fair",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Tomorrow's fair, and today's loaf",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate the ordinary meal",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the fair tomorrow",
+    "no purchase",
+    "the loaf not measured again",
+    "the cat on the book"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Tomorrow is the fair. Monday is the door."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "You had your look at it yesterday."
+    }
+  ]
+}

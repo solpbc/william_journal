@@ -1,0 +1,101 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the reckoning Heminges would not name a share. Last Saturday was thirty shillings, the best since Christmas, and he left it there. Margery Pell would not turn Monday's two-thirds into a purse. Garnish read twenty-four lines, with nothing added and no song. Kemp kept you, and did not offer a song. Edith's eight shillings stayed unpaid. The watchet stayed at fifty shillings unpaid. The Queen's twenty pounds was not in the room. Monday's bill is The Two Gentlemen of Verona at two of the clock. You did not take a figure home.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused to marry twenty-four lines to a share, and repeated the unpaid sums without making them a balance.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Would not name the week, left last Saturday at thirty shillings, and set Monday's bill.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read twenty-four lines, no song, and named The Two Gentlemen of Verona at two of the clock.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the tally at lines, kept you, and refused a song.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Would not invent a share out of two-thirds of a house.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Two Gentlemen of Verona",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No figure for the week",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Sat the week's reckoning",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Goodwife Margery Pell",
+    "Abel Garnish",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "no share named",
+    "thirty shillings last week",
+    "twenty-four lines",
+    "eight shillings",
+    "fifty shillings",
+    "two gentlemen"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Last Saturday was thirty shillings."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "Twenty-four lines."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It is not a share"
+    },
+    {
+      "speaker": "margery_pell",
+      "text": "I am not turning two-thirds into a purse"
+    }
+  ]
+}

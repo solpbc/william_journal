@@ -1,0 +1,124 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Christmas Day in a strange town, at the inn's long table, on the stock. You had already been to the parish in clean bands and been stared at, and the court's chapel had stayed two hundred yards off. Pope carved brawn, a goose, and a minced pie as broad as a drum-head. Kemp drank to the grocer, first on the Queen's next paper, waiting until his beard is grey. Bryan forbade the ale after six and was obeyed. Phillips gave Nick three notes, the lowest and the fewest, and Nick stayed under the note. Sam asked if a court laughs differently from a yard, and the men gave him four answers that cannot all be true. You said the only answer worth having is tomorrow at about ten. He asked how a fairy runs. You got up and showed him, and you did not give him words to take into the hall.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the four answers from settling, named about ten, and showed the run.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Carved, and gave the first answer, and called the table back to the meat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Drank the grocer's health and gave the second answer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the parish, forbade the ale after six, and gave the third answer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set Nick's three notes and gave the fourth answer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked about the laugh, and then about the fairy, and tried the feet.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sang three notes under the note, and stopped.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Ate, and did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not at the table. Named in the health, and not answered.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Ate the stock's dinner and showed Sam how a fairy runs",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Pope",
+    "George Bryan",
+    "William Shakespeare",
+    "Will Kemp",
+    "Augustine Phillips",
+    "Sam Latchet"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the stock dinner",
+    "three notes",
+    "four answers",
+    "a fairy's feet"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "The health of the grocer, who will be first on the Queen's next paper and wait for his money till his beard is grey."
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "Ale until six. Not after."
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "Thou art the lowest, and the fewest. Three notes. No more."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The only one worth having will be heard tomorrow at about ten."
+    }
+  ]
+}

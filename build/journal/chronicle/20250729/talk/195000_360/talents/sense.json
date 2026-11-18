@@ -1,0 +1,46 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "The constable stopped you under a horn lantern, said assemblies were forbidden, and asked which chamber you belonged to. He called you a deficious vagrom, distrusted the knot, and gave you the yard's news of forty galleys and Plymouth. You did not correct him. He let you lie at the alehouse if you did not gather, and he told the tapster to comprehend all auspicious persons.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood in the lantern, answered, and took the bench.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Took one bench",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the proclamation",
+    "the foreign knot",
+    "one bench"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am one man"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "My Lord Chamberlain's"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You stood with Bryan in Westminster Hall and heard a client say a grievance at greater length after he had been charged to have it shortened. The short of it was a ditch, a hedge, and three acres, at two shillings, which were the client's. You added nothing to the sheet. Two Gents at two was not yours. The Wise Man was the Rose bill, and you were not going.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood, listened, and put nothing on the sheet.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought him to the Hall and took him away again before the play.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Two Gentlemen of Verona",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A sheet, and the long way",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Wise Man of West Chester",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A sheet, and the long way",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Stood and heard the grievance said again",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "George Bryan",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the sheet",
+    "the two shillings",
+    "the longer grievance"
+  ],
+  "quotes": [
+    {
+      "speaker": "(the clerk)",
+      "text": "The short of it is a ditch, a hedge, and three acres."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have nothing to put on his sheet."
+    }
+  ]
+}

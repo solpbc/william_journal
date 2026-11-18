@@ -1,0 +1,1 @@
+You wrote the twenty shillings to a neighbour's building, and under it the forty shillings lent to Quiney, to be had again, a pound at Martinmas and a pound at Lady Day, no use. You did not add the lines, and you did not rule a total.

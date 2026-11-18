@@ -1,0 +1,44 @@
+{
+  "overview": "One-handed, on the floor, you fair-copied three lines you had already written on Saturday. You did not add a speech. You did not mend the girl. The rest of the sheet stayed foul. On the tables, nothing.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote three lines one-handed, and set the pen down."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "three fair lines",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Saturday's sheet",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "one hand",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the orchard scene",
+      "asset_type": "other",
+      "disposition": "Fair-copied three lines"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-13",
+      "meaning": "Three lines, one hand"
+    }
+  ],
+  "summary": "Fair-copied three lines"
+}

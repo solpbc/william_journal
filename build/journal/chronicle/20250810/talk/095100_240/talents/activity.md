@@ -1,0 +1,1 @@
+On the way to church you passed the Guild Chapel and the bolted door of the school. Hamnet said they could walk past it on a Sunday without their Latin. You told Susanna you had known the Latin best when Ovid had a story in it, and you sent them on past the school stair.

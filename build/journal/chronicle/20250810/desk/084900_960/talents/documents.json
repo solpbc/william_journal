@@ -1,0 +1,44 @@
+{
+  "overview": "You put the stone back on the corner of the sheets. You looked once more at the line you were leaving in. You did not sit, and you did not add a word. You left the bench as the morning had found it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the foul sheets on the bench"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the stone put back",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the line left in",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the bench left",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the orchard bench",
+      "asset_type": "other",
+      "disposition": "Read the foul sheets on the bench"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-10",
+      "meaning": "The stone put back"
+    }
+  ],
+  "summary": "Read the foul sheets on the bench"
+}

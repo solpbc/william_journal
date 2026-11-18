@@ -1,0 +1,63 @@
+{
+  "overview": "By noon Gib had left Holinshed and gone onto the Chaucer. You did not move him to write. You had no page of your own on the board.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked, and did not write."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Left Holinshed and lay on the Knight's Tale."
+    },
+    {
+      "name": "Richard Field",
+      "role": "mentioned",
+      "formal_term": "Richard Field",
+      "appointment_tier": "not_applicable",
+      "context": "Named as the printer of the Holinshed, and not in the room."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Gib",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Chaucer",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Holinshed left",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Chaucer",
+      "asset_type": "other",
+      "disposition": "Left Gib on the Chaucer"
+    },
+    {
+      "name": "Holinshed",
+      "asset_type": "other",
+      "disposition": "Left Gib on the Chaucer"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-27",
+      "meaning": "The cat has chosen"
+    }
+  ],
+  "summary": "Left Gib on the Chaucer"
+}

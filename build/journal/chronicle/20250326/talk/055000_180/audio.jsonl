@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "(the ostler)", "start": "05:50:00", "text": "The bay, as bespoken the seventeenth. Twelvepence the day and his fodder, and not a penny of it this morning. He has been arguing with the manger since Sunday.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "05:50:16", "text": "Then he is the one. I'll not pretend to judge his teeth a second time.", "timing": {"end": 30.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "(the ostler)", "start": "05:50:30", "text": "Your paper had seven on it. The sky did not. The horse does not read a paper.", "timing": {"end": 42.0, "start": 30.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "05:50:42", "text": "The horse leaves now. The paper can keep its hour. I am not paying the twelve pence today.", "timing": {"end": 52.0, "start": 42.0}}

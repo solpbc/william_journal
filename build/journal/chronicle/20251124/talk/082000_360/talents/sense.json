@@ -1,0 +1,92 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Alse brought the loaf in two fingers short and said she had paid a penny. You named Egeon at two and the Bell at six. The two pounds were still in the book. You said you would take them at five, and not before. Mistress Ansell told you to hear the answer before you gave the money in the street. You said that if the answer is yes he writes the line, and if it is no the two pounds come home. Dinner is at noon if you are in. You did not pay the brief at the table.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the hours, and left the two pounds until five.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the penny, and told him to hear the answer first.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the loaf and the penny, and asked about the band.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "two pounds",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Six o'clock, and the money still in the book",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Bell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Six o'clock, and the money still in the book",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Egeon",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Six o'clock, and the money still in the book",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Named five o'clock for the two pounds",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two fingers",
+    "the money still in the book",
+    "the Bell at six"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The two pounds are still in the book."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Hear the answer first."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "I did not pay him more than the penny."
+    }
+  ]
+}

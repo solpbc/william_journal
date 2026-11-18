@@ -1,0 +1,58 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At home you said the three nights over. Stephen is the Navarre comedy. John is the lovers, and the second night is Burbage's, for a house that has supped. Innocents is Errors. The wood-play was not offered. It is three pages and a speech, and it is not made ready by being wanted. The hose have no sum. The money is not in the house. Clerkenwell is the sixteenth. The undertaking stands.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Repeated the three nights and the limit on the copying.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Clerkenwell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not made ready by being wanted",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Navarre comedy",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not made ready by being wanted",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said the three nights over at home",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three nights said over",
+    "the wood-play not offered",
+    "no sum"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "It is three pages and a speech, and it is not made ready by being wanted."
+    }
+  ]
+}

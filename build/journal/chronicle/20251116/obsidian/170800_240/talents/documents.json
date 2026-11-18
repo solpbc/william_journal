@@ -1,0 +1,80 @@
+{
+  "overview": "The column is what you have already promised. Twenty shillings for Mistress Ansell's Christmas quarter, not paid today. Sixty shillings for home, not sent. The hose my lord demanded, with no price. The journey up the river, with no fare. A brief for Stratford, with no sum. Two pounds lent to Richard Quiney on the seventh of August are not back. A house by the chapel is an address and no price. There is no total at the foot.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the column and did not add it up."
+    },
+    {
+      "name": "Mistress Dorcas Ansell",
+      "role": "mentioned",
+      "formal_term": "Mistress Dorcas Ansell",
+      "appointment_tier": "not_applicable",
+      "context": "The twenty shillings are her quarter. She was not in the room."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "The sixty shillings are for home. They were not sent."
+    },
+    {
+      "name": "Richard Quiney",
+      "role": "mentioned",
+      "formal_term": "Richard Quiney",
+      "appointment_tier": "not_applicable",
+      "context": "Two pounds since August are still out. He was not asked."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "twenty shillings not today",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "sixty shillings not sent",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no price on the hose",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "two pounds still out",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "twenty shillings",
+      "asset_type": "other",
+      "disposition": "Wrote the column of what is spoken for"
+    },
+    {
+      "name": "sixty shillings",
+      "asset_type": "other",
+      "disposition": "Wrote the column of what is spoken for"
+    },
+    {
+      "name": "two pounds",
+      "asset_type": "other",
+      "disposition": "Wrote the column of what is spoken for"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-16",
+      "meaning": "What is already spoken for"
+    }
+  ],
+  "summary": "Wrote the column of what is spoken for"
+}

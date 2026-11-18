@@ -1,0 +1,11 @@
+{
+  "narrative": "One leaf taken from a folder at the desk under the west window, afternoon light, the pen capped. A single line in his hand. Nothing written above it. No face. The same leaf returned to the folder. No second line. No number. No name. The pen is still capped.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Opened the folder, left the line as it stood, and did not hand the leaf to anyone."
+    }
+  ]
+}

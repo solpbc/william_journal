@@ -1,0 +1,64 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At the rehearsal you gave John the canvas and the line. Threescore shillings. His man will take them to the Bell. The man did not speak, and he was not named. You did not walk to Carter Lane. Kemp was in the room and was not told about the king.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the canvas and the line, and did not go to Carter Lane.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took them, and said his man would carry them.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Let the parcel go by, and was not told the king.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Gave John the letter and the canvas",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the canvas",
+    "the Bell",
+    "the man who does not speak"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "My man will take it to the Bell. You are not walking that far."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Threescore shillings in the canvas, and the line under the twine."
+    }
+  ]
+}

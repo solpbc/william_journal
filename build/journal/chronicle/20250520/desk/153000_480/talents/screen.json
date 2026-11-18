@@ -1,0 +1,23 @@
+{
+  "narrative": "The same post on the right. The lion's skin again, and the labour larger than the last. Heads in the yard move as men count on their fingers. No sum is written anywhere in sight. His hand on the post. Ink from the morning still faint on the finger. He has not moved. The hand does not clap.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Stayed at the post and kept the praise unsaid."
+    },
+    {
+      "type": "Person",
+      "name": "Edward Alleyn",
+      "role": "mentioned",
+      "context": "Carried the bigger labour. He spoke no word to the post."
+    },
+    {
+      "type": "Project",
+      "name": "the first part of Hercules",
+      "role": "mentioned",
+      "context": "Shown on stage in A bigger labour"
+    }
+  ]
+}

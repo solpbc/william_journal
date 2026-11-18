@@ -1,0 +1,1 @@
+At the street door you stopped for the almanac on the sill. She had the cloth in her arms and wanted the road. You had not opened it yet. Alse said the fire was banked and the board was clear. You asked for the one leaf with the day on it.

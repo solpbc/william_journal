@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "At home you said Sunday is his table and not the Holinshed. You said twelve shillings, the bag is shut, and the sheet is still blank. Then you stopped.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the three sentences and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in His table, not the book",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said Sunday is Field's table",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Sunday's table",
+    "twelve shillings",
+    "a blank sheet"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Sunday. His table. Not the Holinshed."
+    }
+  ]
+}

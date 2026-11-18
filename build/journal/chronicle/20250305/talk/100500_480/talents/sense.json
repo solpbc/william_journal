@@ -1,0 +1,83 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "After the commination Master Thwaite said he had enjoyed reading it as it is written. Mistress Ansell called the hardness right and said the house is fish from this dinner. You did not ask for the reading again. You said the company is idle, the loaf is still a penny and a finger short, and you were going to look at a cold stage and not to play on it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted the one reading, kept the loaf at a finger short, and said the house stays shut.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Owned the relish, and refused a second reading.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the house to fish, and told him not to come home with a story instead of an appetite.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked whether standing still was enough, and went to set the fish.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard the commination",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the commination",
+    "the relish",
+    "fish from this dinner",
+    "a cold stage",
+    "a finger short"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "I have read it as it is written, and I am not sorry for the relish."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The house is fish from this dinner."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am going to Shoreditch to look at a cold stage."
+    },
+    {
+      "speaker": "josias_thwaite",
+      "text": "Evening prayer is evening prayer. It is not a second commination"
+    }
+  ]
+}

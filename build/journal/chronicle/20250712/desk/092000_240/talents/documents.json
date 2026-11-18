@@ -1,0 +1,46 @@
+{
+  "overview": "You looked at the dash and left it open. Friday's notes sit under it and do not complete it. The letter is still on the board, still unfolded, still with no day. You did not make a second scene of it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Left the dash open."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Slept on the Golding."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the dash still open",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the letter still a sheet",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the commonplace",
+      "asset_type": "other",
+      "disposition": "Looked at the dash on the old page"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-12",
+      "meaning": "The dash, still a dash"
+    }
+  ],
+  "summary": "Looked at the dash on the old page"
+}

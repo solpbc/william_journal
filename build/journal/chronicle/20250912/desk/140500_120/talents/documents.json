@@ -1,0 +1,44 @@
+{
+  "overview": "At two you had Egeon's roll again, with the shipwreck marked for the right side of the mouth, the same side as Tuesday. You did not write a new speech onto the roll.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Played the part from the right side of the mouth."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Egeon",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the right side of the mouth",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Tuesday's margin",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Errors",
+      "asset_type": "other",
+      "disposition": "Told the shipwreck from the right side again"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-12",
+      "meaning": "Egeon, the same side"
+    }
+  ],
+  "summary": "Told the shipwreck from the right side again"
+}

@@ -1,0 +1,90 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Burbage asked by daylight, with Bryan there, whether Sir Robert was pleased. You said a powerful man's face is not a verdict, and that you have decided not to read it. Bryan reported what he saw. The steward was courteous. The purse was in Heminges's hand before the last speech, and not after. Lady Hoby thanked Nicholas and Arthur by name. Sir Robert rose when the women rose, and not before. You would not translate any of that into pleasure. The Queen's entrance in the garden was late. The shortened groom scene held, played on a floor six paces wide. The public book stays cut. The three leaves are not going back into it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the face, and judged the two pieces of work.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked the daylight question, and took the entrance instead.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the purse, the names, and the rising, and would not translate them.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Was he pleased",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Judged the Queen's late entrance",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "George Bryan",
+    "Richard Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "not a verdict",
+    "the purse before the speech",
+    "thanks by name",
+    "a late entrance",
+    "six paces"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "Was he pleased?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A powerful man's face is not a verdict. I have decided not to read it."
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "The purse was in John's hand before the last speech, and not after it."
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "He rose when the women rose, and he did not rise before."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It held. Six paces, and it held."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The public book stays cut."
+    }
+  ]
+}

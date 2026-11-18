@@ -1,0 +1,63 @@
+{
+  "overview": "The board on the drum carries Peter, the musicians, and three minutes beside the bed. The names are out of the catgut and are not spelled. The tune is called for and not let finish.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the turn and left the board."
+    },
+    {
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "formal_term": "Will Kemp",
+      "appointment_tier": "not_applicable",
+      "context": "Named on the page as Peter. Not in the frame."
+    },
+    {
+      "name": "Richard Cowley",
+      "role": "mentioned",
+      "formal_term": "Richard Cowley",
+      "appointment_tier": "not_applicable",
+      "context": "Named among the musicians. Not in the frame."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the drum",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "three minutes",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the catgut",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the unfinished tune",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the lovers' play",
+      "asset_type": "other",
+      "disposition": "Read the three minutes on the drum"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-03",
+      "meaning": "The board on the drum"
+    }
+  ],
+  "summary": "Read the three minutes on the drum"
+}

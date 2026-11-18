@@ -1,0 +1,63 @@
+{
+  "overview": "You opened Gaunt's roll at the desk, the same copy you took on Friday. Your own lines, in another man's hand, cue-words after the long rule. Gib slept on the cloth over the Holinshed. The page under the roll stayed blank.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the roll at the desk."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Slept on the cloth over the Holinshed."
+    },
+    {
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "formal_term": "Abel Garnish",
+      "appointment_tier": "not_applicable",
+      "context": "Named by the hand. Not in the room."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Gaunt's roll",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the cue",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Gib on the cloth",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard the Second",
+      "asset_type": "other",
+      "disposition": "Read Gaunt's cue again"
+    },
+    {
+      "name": "Holinshed",
+      "asset_type": "other",
+      "disposition": "Read Gaunt's cue again"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-26",
+      "meaning": "Gaunt's roll"
+    }
+  ],
+  "summary": "Read Gaunt's cue again"
+}

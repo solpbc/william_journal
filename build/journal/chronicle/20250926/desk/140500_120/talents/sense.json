@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "At two the plot was Richard the Third again. No name of a part was on it for you. You played, and you brought no name home. Over the water it was Faustus. You stayed on this bank.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Played the afternoon, and stayed on this bank.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard the Third",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The other gown, and Faustus",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Faustus",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The other gown, and Faustus",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Played Richard the Third, with Faustus over the water",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the other gown",
+    "no name of a part",
+    "Faustus"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,44 @@
+{
+  "overview": "At home you wrote three words for the cake and entered thirty-eight shillings as received. You did not write a new balance.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the three words and the received figure, and stopped."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "three words",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "thirty-eight shillings received",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no new balance",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "thirty-eight shillings",
+      "asset_type": "other",
+      "disposition": "Entered the share and the three words"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-26",
+      "meaning": "Three words, and thirty-eight shillings received"
+    }
+  ],
+  "summary": "Entered the share and the three words"
+}

@@ -1,0 +1,1 @@
+Walking back from Hewlands you came by the end of the burned row and did not go up it. At a malt-house door two men had their hands in a bushel of thin barley, and neither would let go of his side of it.

@@ -1,0 +1,44 @@
+{
+  "overview": "In the afternoon you read the first line of the prologue, and you did not read the next. Your hand stayed over the rest. The line is the one you will speak between the degrees, and you did not copy it out again for comfort.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the one line, and stopped at the comma."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the prologue",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "one line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the covered rest",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Romeo and Juliet",
+      "asset_type": "other",
+      "disposition": "Read the first line of the prologue"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-27",
+      "meaning": "The one line of it"
+    }
+  ],
+  "summary": "Read the first line of the prologue"
+}

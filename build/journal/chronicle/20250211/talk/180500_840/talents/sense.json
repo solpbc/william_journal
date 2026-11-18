@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the Split Hazel supper was sixpence. A scarred gunner spread a greased chart of the Spanish Main and swore that every kitchen pot in Guiana was beaten gold. He had Davy's forty ships and the Queen's blessing. Kemp asked him, with great respect, why he was in Bishopsgate. Bryan said that anyone who truly knew the road to riches would go quietly. You said the loaf at home was a finger short, and that you had not counted the ships. Alice let the talk stay while it was still talk.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the short loaf and the uncounted ships, and stayed to listen.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alice Brambleby",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Charged sixpence and let the talk continue while doubt was still allowed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said a man who knew the road would go quietly.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked, with great respect, why the gunner was in Bishopsgate.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the Split Hazel supper",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Beaten gold",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard the chart at the Split Hazel",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alice Brambleby",
+    "William Shakespeare",
+    "George Bryan",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "sixpence",
+    "the greased chart",
+    "forty ships",
+    "Bishopsgate"
+  ],
+  "quotes": [
+    {
+      "speaker": "george_bryan",
+      "text": "Anyone who truly knew the road to riches would go quietly."
+    },
+    {
+      "speaker": "alice_brambleby",
+      "text": "Sixpence the supper, Master Shakespeare, and the bread is the bread the City has."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Why are you in Bishopsgate?"
+    }
+  ]
+}

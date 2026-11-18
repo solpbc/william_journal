@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "productivity",
+  "activity_summary": "You set twenty-nine beside last Saturday's thirty-three. You wrote that the coffer was not opened, and that it stands as ruled at twenty pound fifteen. You did not make a new sum.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the share, and did not open the coffer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Put the shilling on the line. The leaf is yours.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Paid the share with the name. Not in the house.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "twenty-nine shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twenty-nine, beside thirty-three",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "twenty pound fifteen",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twenty-nine, beside thirty-three",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Set twenty-nine beside last Saturday's thirty-three",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twenty-nine",
+    "thirty-three",
+    "the coffer not opened",
+    "twenty pound fifteen"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "The picture is her hands at the back of a small coat, a pin in her mouth, and the thread in the window light. No face is in it. No sum is in it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Kept the hands and the thread, and not a face.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Worked the fastening with the pin in her mouth.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Stood in the coat and was not the subject of the light.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Saw her hands, a pin, and the thread in the light",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "her hands",
+    "the pin",
+    "the thread"
+  ],
+  "quotes": []
+}

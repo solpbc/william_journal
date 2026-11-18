@@ -1,0 +1,44 @@
+{
+  "overview": "You wrote the revision as you had said it in the fields, six years changed to ten with four given back. Under it you put one foul line and marked it not the book.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the revision and marked the extra line foul."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "ten then six",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the foul line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the mercy",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Wrote the revision and labelled one foul line"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-23",
+      "meaning": "Ten, then six"
+    }
+  ],
+  "summary": "Wrote the revision and labelled one foul line"
+}

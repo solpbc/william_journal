@@ -1,0 +1,63 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You said the Scythian had been in your ear through Gaunt, and that you had not crossed. You said the three leaves were warm in the hand, and that this was not a scene, and that they stay in Garnish's chest.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said it alone, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the first Tamburlaine",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Warm in the hand",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the three cut leaves",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Warm in the hand",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said the three leaves were warm in the hand",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Scythian",
+    "not crossing",
+    "warm in the hand",
+    "not a scene"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The Scythian was in my ear through the whole of Gaunt."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Warm in the hand. The three leaves. Not a scene."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "Before light, with both locks off, you kept nine shillings out for the journey and counted the rest. The rest was thirty-three pounds, even. You did not add the nine back, and you did not write another total beside it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Kept nine shillings out and did not fold them back into the total."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "nine shillings",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "thirty-three pounds",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "both locks",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no second total",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-24",
+      "meaning": "Nine shillings out"
+    }
+  ],
+  "summary": "Counted thirty-three pounds and kept nine shillings out"
+}

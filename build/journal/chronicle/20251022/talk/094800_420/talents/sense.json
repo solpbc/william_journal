@@ -1,0 +1,84 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Edith looked at the afternoon's coat and put in a stitch at the shoulder. She would not charge the stock. John left the book at the one copying line. You did not name the part. Paint was set for two o'clock. She said a boy's gown had grown again, and she did not price it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Edith put a stitch in the afternoon coat",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Edith put a stitch in the afternoon coat",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Edith put a stitch in the afternoon coat",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the afternoon coat",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Edith put a stitch in the afternoon coat",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "eightpence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Edith put a stitch in the afternoon coat",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed the three rolls of the king play",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Edith Kettlewood",
+    "William Shakespeare",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a stitch",
+    "no new charge",
+    "paint at two"
+  ],
+  "quotes": [
+    {
+      "speaker": "edith_kettlewood",
+      "text": "A stitch out of my basket is not a charge on the stock."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not have a hem married to a copying."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "The book stays at one line."
+    }
+  ]
+}

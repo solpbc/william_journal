@@ -1,0 +1,17 @@
+{
+  "narrative": "The plot on the peg by the tiring-house door. The hour under the title. A hand at the peg. No part-slip beside it. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Played, and brought no part-name away."
+    },
+    {
+      "type": "Project",
+      "name": "the Knave",
+      "role": "mentioned",
+      "context": "Shown on plot in The Knave, no name of a part"
+    }
+  ]
+}

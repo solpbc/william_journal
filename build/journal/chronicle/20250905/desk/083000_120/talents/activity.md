@@ -1,0 +1,1 @@
+On the post by the Bull you read two bills, twice. Your own house: the Theatre, The Two Gentlemen. The Rose: Crack Me This Nut. Neither bill named an author. You did not take either down, and you did not cross. The back is not fit for the Bridge again this week, and you had a street to write.

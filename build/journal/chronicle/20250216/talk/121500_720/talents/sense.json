@@ -1,0 +1,95 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At dinner the penny loaf was a finger short of the notch, and Mistress Ansell would not pay two pence for it. She entered your sixpence for firing and washing, and your board at threepence. Gib stayed on the book. She had already ruled the comedy in January, and you told her only that the ladies have the better of it. The letter was left for after three.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted the penny, the sixpence and the threepence, and did not reopen the January verdict.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Measured the loaf, entered the sixpence, and reminded him of the ruling she had already given.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the loaf to the notch, left Gib where he was, and put one candle by the desk.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the same threepence and said he does not know plays.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Lay on the book and was left there.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The loaf and the notch",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate a penny loaf a finger short",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "William Shakespeare",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the penny loaf",
+    "the sixpence",
+    "threepence board",
+    "the January verdict",
+    "Gib"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A penny still, and short by a finger."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The ladies have the better of it."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Your sixpence for firing and washing is entered."
+    }
+  ]
+}

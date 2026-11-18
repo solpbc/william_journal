@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Edith finished the cuff and stated her terms again: payment on delivery, and the weather is not her trouble. No sum changed hands. Arthur said she let the hem down two fingers at Easter, and his shins are out. You did not order a new gown. You said you will not hurry the old man's tale. You left them the basket and went to the roll.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a new bill, and kept the tale at its length.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Finished the cuff, and restated payment on delivery.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Complained of the hem, and stood where he was told.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Edith's thread and Arthur's shins",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Edith on the cuff and Arthur on his shins",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Edith Kettlewood",
+    "Arthur Meeks",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "payment on delivery",
+    "the Easter hem",
+    "the tale not hurried"
+  ],
+  "quotes": [
+    {
+      "speaker": "edith_kettlewood",
+      "text": "Payment on delivery. The weather is your trouble, Master Shakespeare, not my thread's"
+    },
+    {
+      "speaker": "arthur_meeks",
+      "text": "Edith let the hem down two fingers at Easter, sir, and my shins are out in the wind again"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not hurry him"
+    }
+  ]
+}

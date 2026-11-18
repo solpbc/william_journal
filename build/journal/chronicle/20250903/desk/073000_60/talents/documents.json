@@ -1,0 +1,51 @@
+{
+  "overview": "You wrote on the tables that a rose would smell the same called anything, and under it Alse's answer, that it would not sell the same if you cried them in Cheap for stinkweed.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote both lines."
+    },
+    {
+      "name": "Alse Pinder",
+      "role": "mentioned",
+      "formal_term": "Alse Pinder",
+      "appointment_tier": "not_applicable",
+      "context": "Supplied the second line. She had already gone down."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the tables",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the rose",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "stinkweed",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Put Alse's stinkweed under the rose"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-03",
+      "meaning": "Stinkweed on the tables"
+    }
+  ],
+  "summary": "Put Alse's stinkweed under the rose"
+}

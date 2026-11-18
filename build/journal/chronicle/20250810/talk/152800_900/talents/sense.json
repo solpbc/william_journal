@@ -1,0 +1,97 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Judith set the three boats on the step. Joan had the children, and she sent you while the light still served a path. Anne saw the knife in your belt and did not ask again. You went out.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Set the three boats on the step",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Set the three boats on the step",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Set the three boats on the step",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Set the three boats on the step",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Set the three boats on the step",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the three bark boats",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Set the three boats on the step",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the paring-knife",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Set the three boats on the step",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came home from the bridge",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Judith Shakespeare",
+    "Joan Shakespeare",
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the boats on the step",
+    "Joan has the three",
+    "the knife seen"
+  ],
+  "quotes": [
+    {
+      "speaker": "judith_shakespeare",
+      "text": "They can be real out here."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "I am not asking a second time."
+    }
+  ]
+}

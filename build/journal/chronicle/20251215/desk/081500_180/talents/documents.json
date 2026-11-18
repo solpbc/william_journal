@@ -1,0 +1,38 @@
+{
+  "overview": "In the morning the letter was still unsealed. You did not add the withheld things, and you did not write a postscript. You put the open sheet into your book for Thursday.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Put the open letter away without adding to it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the unsealed letter",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nothing added",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Thursday still ahead",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-15",
+      "meaning": "Still open"
+    }
+  ],
+  "summary": "Read the close of the Christmas letter"
+}

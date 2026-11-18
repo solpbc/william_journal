@@ -1,0 +1,1 @@
+Walking north up Bishopsgate Street toward the gate, you passed Barnaby Yaxley's barber-surgeon shop, where your tooth was drawn for twelvepence eight days since, on the Tuesday. You walked past. You did not go in.

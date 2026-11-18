@@ -1,0 +1,17 @@
+{
+  "narrative": "A fresh sheet on the same nail as Monday's, the company's name and the hour, and no author's name at the foot. Blank paper under the player's name.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the plot and played the bill."
+    },
+    {
+      "type": "Project",
+      "name": "The Two Gentlemen of Verona",
+      "role": "mentioned",
+      "context": "Shown on plot in No author on this post either"
+    }
+  ]
+}

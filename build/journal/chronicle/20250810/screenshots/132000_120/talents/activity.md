@@ -1,0 +1,1 @@
+You looked back at the board as you went. The penny loaf was still in the scale, with the weights beside it. The pie dish was empty. The light was the ordinary light of a hot Sunday, and no one was posing in it.

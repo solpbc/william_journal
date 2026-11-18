@@ -1,0 +1,51 @@
+{
+  "overview": "The short list was still on the tables. The pack beside it was already shut. Brooke was on the shelf, and Gib was on the cloth.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked at the leaf."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Stayed on the cloth."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the short list",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the shut pack",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Brooke on the shelf",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Verona sheets",
+      "asset_type": "other",
+      "disposition": "Looked at the short list"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-27",
+      "meaning": "The short list, still on the leaf"
+    }
+  ],
+  "summary": "Looked at the short list"
+}

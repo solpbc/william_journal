@@ -1,0 +1,1 @@
+The loaf was a penny and still a thumb short, and she would not measure it again. You put the clove in and ate the soft of the loaf. Alse left Gib on the lent book. You did not call the jaw a cure, and you did not give the parish a story.

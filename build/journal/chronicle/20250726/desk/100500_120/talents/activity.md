@@ -1,0 +1,1 @@
+On a stall by the north door you read the words Thursday the 24 of July, plain on the title, and the imprint, printed by Allde for Blackwall. You did not buy the sheet. You did not turn the leaf. The rest of the title is not yours to supply.

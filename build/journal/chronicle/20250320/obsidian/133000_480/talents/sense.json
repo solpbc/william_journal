@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You kept a copy of the four lines. They name Wednesday the twenty-sixth, Oxford, the bridge on Friday by dusk, Hobbins on Saturday, and the money in your own hand. The long letter is still on the board, with no day, and it did not go.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Copied the four lines and left the old letter where it was.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the four-line letter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Four lines",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Copied the four lines that went with Hobbins",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the four lines",
+    "the long letter still unsent"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The money I bring myself."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It has no day. It did not go."
+    }
+  ]
+}

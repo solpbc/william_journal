@@ -1,0 +1,1 @@
+At the porter's lodge you left a paper sealed and small, for Master Florio to give or not as he judged. The porter said he knew the name. My lord was at court. Master Florio was within and teaching, and you did not see him. You sat four minutes on the bench. You were not asked further in. You did not say what the paper held.

@@ -1,0 +1,1 @@
+At the end of the service you stood up without making a courtesy of it. Your mother said you had slept the lesson, and that she did not want the rest of the service retold at the door. You did not claim to have heard it. Anne said the street was short and dinner was next. You left the pew finished, and you did not make a courtesy of the door.

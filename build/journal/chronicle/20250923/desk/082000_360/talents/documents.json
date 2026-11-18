@@ -1,0 +1,44 @@
+{
+  "overview": "You wrote one word under Sunday's blow. The word was banished. You did not write the speech around it, and you did not start the scene in which the girl hears. The almanac beside the leaf had the moon drawn new. You copied no sentence off it. Gib stayed on the book.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the one word, and did not go on."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "banished",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the blank under it",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the new moon",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Romeo and Juliet",
+      "asset_type": "other",
+      "disposition": "Wrote the word banished under the blow and stopped"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-23",
+      "meaning": "Banished, and the moon drawn"
+    }
+  ],
+  "summary": "Wrote the word banished under the blow and stopped"
+}

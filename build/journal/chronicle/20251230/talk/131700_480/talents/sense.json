@@ -1,0 +1,64 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Alse stayed below with the basin. Mistress Ansell kept the kitchen until six. You went up alone, and you told them to leave the letter if they came as far as the door.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Went up alone after dinner",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Went up alone after dinner",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Went up alone after dinner",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate dinner and told the morning's page",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the basin",
+    "the stair",
+    "the letter left"
+  ],
+  "quotes": [
+    {
+      "speaker": "alse_pinder",
+      "text": "I am not coming up behind you, sir."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I am not sending a plot up after him."
+    }
+  ]
+}

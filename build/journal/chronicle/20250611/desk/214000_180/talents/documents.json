@@ -1,0 +1,44 @@
+{
+  "overview": "You marked the full moon and wrote nothing else on the line. There was no cross. You did not go back to the sheets.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Marked the moon and left the rest of the line empty."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the full moon",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the almanac",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no other mark",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the almanac",
+      "asset_type": "other",
+      "disposition": "Marked the moon and stopped"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-11",
+      "meaning": "The full moon"
+    }
+  ],
+  "summary": "Marked the moon and stopped"
+}

@@ -1,0 +1,1 @@
+Outside, Henslowe said the count stayed at the door and that your penny was the end of your business with it. Alleyn was cordial and brief. He was glad you had come. You said the play played, and that you were glad you had come. You did not ask what the door had taken. You did not stay.

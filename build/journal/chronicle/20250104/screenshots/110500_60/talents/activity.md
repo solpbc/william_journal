@@ -1,0 +1,1 @@
+From the mouth of the close you see the mock-court riding up toward Crosby Place under torch-smoke. Plumes, tabards, a trumpeter, citizens' backs, and the carved stone porch beyond. You are not in the picture. You do not go in.

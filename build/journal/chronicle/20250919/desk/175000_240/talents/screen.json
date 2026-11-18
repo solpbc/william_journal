@@ -1,0 +1,29 @@
+{
+  "narrative": "A short letter on a half-sheet, in his hand, the date at the foot. No sum anywhere on it. The private leaf is already face down, off to the side. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the letter, dated it, and left the sum off."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Quiney",
+      "role": "mentioned",
+      "context": "Written to. Not in the room."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "mentioned",
+      "context": "The promise was his, from Wednesday. Not in the room."
+    },
+    {
+      "type": "Tool",
+      "name": "the certificate",
+      "role": "mentioned",
+      "context": "Shown on letter in The certificate"
+    }
+  ]
+}

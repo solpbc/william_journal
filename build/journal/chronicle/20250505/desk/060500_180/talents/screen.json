@@ -1,0 +1,17 @@
+{
+  "narrative": "A black-letter bill on a post, title only. No author's name. No sum. The lower half of the same bill, empty of a second title and empty of a figure.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the title, and walked on."
+    },
+    {
+      "type": "Project",
+      "name": "A Knack to Know an Honest Man",
+      "role": "mentioned",
+      "context": "Shown on bill in A Knack, on the post"
+    }
+  ]
+}

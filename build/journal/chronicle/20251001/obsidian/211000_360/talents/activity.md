@@ -1,0 +1,1 @@
+The four lines that went with the canvas say that the king is played on Thursday, and that there will be more when you know whether anybody came. They do not describe the tooth. They do not mention the Mayor. They do not guess the house.

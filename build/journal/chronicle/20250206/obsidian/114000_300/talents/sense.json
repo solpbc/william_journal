@@ -1,0 +1,44 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At the lodging, in the hour the carrier's name sits on the day, you stayed home and sewed the two groats into the paper. You left the outside blank until you could write it in front of him. You did not go to Carter Lane at noon. You noted the two stops and that you would not move a third.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Sewed the packet and did not go out.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Candlemas letter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sewn, and not at noon",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Sewed the groats in and stayed home",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the groats",
+    "the sewing",
+    "noon",
+    "the two stops"
+  ],
+  "quotes": []
+}

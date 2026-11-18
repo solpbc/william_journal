@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "The picture is the pot on the stool and your hand on the pewter. Your face is not in it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "His hand is on the pot. His face is not in the picture.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the posset",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The pewter pot",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Left the pot on the stool",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the pot",
+    "the stool",
+    "the hand"
+  ],
+  "quotes": []
+}

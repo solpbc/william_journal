@@ -1,0 +1,133 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Before the house opened, James Burbage counted the yard as timber and would not give a number. He said the stage is twice the breadth of the Cross Keys. The swan was for noon and the trumpet for two. Sam sang the cuckoo clear. You said you had read both titles on the Bishopsgate post and walked on. You did not mention any other plan for the song.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a headcount, walked Navarre's entrances, and kept the other plan unsaid.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the early yard as timber and named noon and two.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the length of the boards and left the hush for the afternoon.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set Sam on the breath, not on the word.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sang the cuckoo clear and stopped when he was told once more was enough.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Sincler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the messenger's four words in black, slowly.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the plot on the nail and would not pad the messenger.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Timber, a swan, a cuckoo",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The French Doctor",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Timber, a swan, a cuckoo",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Cross Keys",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Timber, a swan, a cuckoo",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Walked the stage and played Navarre",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "James Burbage",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Augustine Phillips",
+    "Sam Latchet",
+    "John Sincler",
+    "Abel Garnish"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "timber with no number",
+    "the swan at noon",
+    "the cuckoo",
+    "the two titles"
+  ],
+  "quotes": [
+    {
+      "speaker": "james_burbage",
+      "text": "I am counting them as timber."
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "Sing it on the breath, Sam, not on the word."
+    },
+    {
+      "speaker": "john_sincler",
+      "text": "The King your father."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No author on either, and no sum on either."
+    }
+  ]
+}

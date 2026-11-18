@@ -1,0 +1,56 @@
+{
+  "overview": "At home you looked at the chronicle and did not write. The page had a king riding in behind another man, and dust thrown on his head. Gib stayed on the book. You added no word.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the page, and wrote nothing."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Lay on the chronicle."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the chronicle",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a king behind another man",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the dust",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nothing written",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Holinshed",
+      "asset_type": "other",
+      "disposition": "Looked at the king in the chronicle"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-13",
+      "meaning": "A king behind another man"
+    }
+  ],
+  "summary": "Looked at the king in the chronicle"
+}

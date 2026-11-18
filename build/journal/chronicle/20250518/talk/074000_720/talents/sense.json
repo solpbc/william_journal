@@ -1,0 +1,102 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You ate breakfast at threepence after a night that went to one. Gib stayed on the thin book, and you left the blank under the rule. You said the king was still coming down, and that you would not open the page before church. The loaf was a penny and a finger and a half short. Mistress Ansell did not measure it again. She sent you to wash yesterday's ink off your finger.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate, left the page shut, and left the cat on the book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named threepence and nine o'clock, and refused a new measurement of the bread.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Pointed to the porridge and would not lift Gib.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate, and said a page does not walk in the night.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat on the thin book and did not move.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the thin book",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Threepence, and yesterday's ink",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Threepence, and yesterday's ink",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate breakfast with Mistress Ansell before church",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "threepence",
+    "yesterday's ink",
+    "the king still coming down",
+    "the penny loaf"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Breakfast is threepence if you eat it, and threepence if you look at it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "He was still coming down when I left him."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I am not measuring it again at this table."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "narrative": "The pasteboard plot of The Comedy of Errors on the peg behind the arras. Egeon's name in the first scene, and not again until the last. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Played Egeon at two."
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "context": "The plot is his hand. He is not in the picture."
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "context": "Shown on plot in Egeon on the peg"
+    },
+    {
+      "type": "Company",
+      "name": "the Theatre",
+      "role": "mentioned",
+      "context": "Shown on plot in Egeon on the peg"
+    }
+  ]
+}

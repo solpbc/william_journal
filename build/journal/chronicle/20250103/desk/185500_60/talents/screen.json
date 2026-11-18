@@ -1,0 +1,17 @@
+{
+  "narrative": "The tables just in from under the board, one word in the wax, a crumb of ling at the edge of the leaf.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the one word, and did not gloss it."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on tables in One word in the wax"
+    }
+  ]
+}

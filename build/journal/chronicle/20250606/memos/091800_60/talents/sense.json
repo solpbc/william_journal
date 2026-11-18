@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Against the wall you said the gate was open, a cap was in the road, and backs were running north. You said you did not see the middle of it. Then you stopped.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the three sentences and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Bedlam",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Against the wall",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Named the open gate, the cap and the backs",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the open gate",
+    "the cap",
+    "the middle not seen"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I did not see the middle of it."
+    }
+  ]
+}

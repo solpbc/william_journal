@@ -1,0 +1,140 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Ten of you were at the table. Your father asked if they had taken the horse for debt, and you said the horse was dear. Your mother put the heel of the loaf on your trencher and did not speak. The rye is in, and light. The wheat at Shottery stands thin. The barley was stopped before a figure. Richard said the weather will hold, and said nothing else.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered the horse, and kept the barley unnumbered.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the tenth place, and stopped the barley.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said grace, asked about the horse, and kept the figure off the table.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Looked at your ankles first, put the heel on your trencher, and did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said who sent the loaf, and that the fish would not go far.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the weather will hold, and nothing more.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the rye was in, and that he had helped turn it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked what the wheat was thin beside, and got no figure.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat the meal and did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat the meal and did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Sadler",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sent the loaf, with word of the assize, and was not there.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Told Father the horse was dear",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Shakespeare",
+    "William Shakespeare",
+    "Anne Shakespeare",
+    "Joan Shakespeare",
+    "Edmund Shakespeare",
+    "Susanna Shakespeare",
+    "Richard Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the dear horse",
+    "the Lammas loaf",
+    "the harvest with no figure"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_shakespeare",
+      "text": "My son the Queen's servant, come home by the Queen's highway like one of the Queen's beggars"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The horse was dear, sir"
+    },
+    {
+      "speaker": "richard_shakespeare",
+      "text": "The weather will hold"
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "The barley can wait"
+    }
+  ]
+}

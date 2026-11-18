@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Alse banked the one hall fire and would not lay a plate for you. You told her not to. Mistress Ansell had the spoons in her hands and would not discuss Blackfriars. Alse did not ask about the ass again. You said you would be late, and that no one was to sit up.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a plate and refused a vigil.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Banked the fire, laid no plate, and did not ask a second question.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the spoons in her hands and would not reopen six.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Spoke at the hall door before supper",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "William Shakespeare",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one fire",
+    "no plate",
+    "no second question"
+  ],
+  "quotes": [
+    {
+      "speaker": "alse_pinder",
+      "text": "One fire. It is for the people who are eating."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I have the spoons in my hand and I am not putting them down to discuss Blackfriars."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "I am not asking about the ass."
+    }
+  ]
+}

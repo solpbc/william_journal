@@ -1,0 +1,17 @@
+{
+  "narrative": "A sheet that already holds the quarrel from Thursday the seventeenth. The new line is under it, and the margin says the new line is foul. The two lines from Monday sit at the top of another leaf. Nothing is added under \"I haue my Liege.\"",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Added one labelled line and copied no speech."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in The warder, begun"
+    }
+  ]
+}

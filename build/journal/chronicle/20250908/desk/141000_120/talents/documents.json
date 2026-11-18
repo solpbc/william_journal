@@ -1,0 +1,44 @@
+{
+  "overview": "At two the plot was Fair Em at the Theatre. No name of a part was on the peg. You did not add one.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Played, and brought no part-name away."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Fair Em",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "two of the clock",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no name of a part",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Fair Em",
+      "asset_type": "other",
+      "disposition": "Played Fair Em"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-08",
+      "meaning": "Fair Em, no name of a part"
+    }
+  ],
+  "summary": "Played Fair Em"
+}

@@ -1,0 +1,67 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Alse found Gib on Field's book and put him on the Chaucer. She did not touch the letter. You told her to leave the sheet, and that it was not going out. She had come up both turnings and would not come up a third. You did not call anyone else.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Alse moved Gib from the chronicle onto the Chaucer",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Alse moved Gib from the chronicle onto the Chaucer",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "visible in Alse moved Gib from the chronicle onto the Chaucer",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came home and let Alse shift the cat",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cat moved",
+    "the sheet left",
+    "both turnings"
+  ],
+  "quotes": [
+    {
+      "speaker": "alse_pinder",
+      "text": "I am putting him on the Chaucer."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It is not going out tonight."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "I came up both turnings, and I am not coming up a third for a cat."
+    }
+  ]
+}

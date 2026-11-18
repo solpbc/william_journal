@@ -1,0 +1,44 @@
+{
+  "overview": "You went out to the bench at midday and read two speeches you had already written, and you did not touch them. The girl at the window stayed as she was on Saturday night. You put the stone back.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read what was already there, and put the stone back."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the orchard sheet",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the girl at the window",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the rose",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the orchard scene",
+      "asset_type": "other",
+      "disposition": "Read two speeches under the stone"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-11",
+      "meaning": "The sheet he will not touch"
+    }
+  ],
+  "summary": "Read two speeches under the stone"
+}

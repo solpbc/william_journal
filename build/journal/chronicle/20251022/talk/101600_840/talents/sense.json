@@ -1,0 +1,85 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Nick came in from the yard with the old line still unsaid. You told him to leave it in his head and not to forget it. Humphrey left the weight on the rolls. John sent you home to dinner and set paint for two. The eightpence stayed the only new line in the book.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the weight on the rolls and went home",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the weight on the rolls and went home",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the weight on the rolls and went home",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the weight on the rolls and went home",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the three rolls",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Left the weight on the rolls and went home",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "eightpence",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Left the weight on the rolls and went home",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed the three rolls of the king play",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Nick Sorrell",
+    "William Shakespeare",
+    "Humphrey Larkham",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the weight left",
+    "paint at two",
+    "the old line kept unsaid"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Forgetting is how it jumps out."
+    }
+  ]
+}

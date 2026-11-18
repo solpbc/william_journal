@@ -1,0 +1,93 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "The hall candle was already burning. She had lit it at five, and it is the firing sixpence. You ate broth. The jaw is still tender, and you did not call it quiet. You read nothing. The share of thirty-six shillings is unspent. Shoreditch mud is on the hem, and you told Alse to leave it until it is dry. You are for evening prayer, and then bed, with the cat at your feet, before the Bow bell.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused every page, kept the thirty-six in the house, and did not call the jaw quiet.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the candle as the firing sixpence and told Alse to leave the hem.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Saw the mud on the hem and left it until it is dry.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat under the candle, then took the settle.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the hall candle",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The candle was lit at five",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the share",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The candle was lit at five",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate broth by the hall candle",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the hall candle",
+    "the firing sixpence",
+    "the muddy hem",
+    "nothing read"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am reading nothing."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "You have brought the mud of Shoreditch in on the wool."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The broth is the threepence, as on Sunday."
+    }
+  ]
+}

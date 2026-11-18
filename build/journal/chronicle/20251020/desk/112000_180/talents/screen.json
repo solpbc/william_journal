@@ -1,0 +1,17 @@
+{
+  "narrative": "The writing-tables on a bench in the tiring-house. Five short lines, newly wet. No face. Two further lines under the five. No sum. No day of Christmas.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the five facts and stopped."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Word for word"
+    }
+  ]
+}

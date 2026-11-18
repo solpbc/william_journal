@@ -1,0 +1,34 @@
+{
+  "labels": [
+    {
+      "sentence_id": 1,
+      "speaker": "dorcas_ansell",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 2,
+      "speaker": "william_shakespeare",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 3,
+      "speaker": "alse_pinder",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 4,
+      "speaker": "william_shakespeare",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 5,
+      "speaker": "dorcas_ansell",
+      "method": "user_assigned",
+      "confidence": "high"
+    }
+  ]
+}

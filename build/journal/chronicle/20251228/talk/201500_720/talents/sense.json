@@ -1,0 +1,133 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "At the door, before you crossed, Heminges had my lord's leave for the jig and no purse with it. Phillips told Nick to come in under the note. Nick said he was glad, and he did not sing in the yard. You kept the tale as it is, and you said a lost roll would get your hands before your nerves did. The two cloaks stayed at the inn for tomorrow's count.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the play once, and offered your hands to a lost roll rather than to your nerves.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the leave, and entered nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set Nick under the note and kept the gladness off the pitch.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he was glad, and did not sing the verse in the yard.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the jig as feet, not as a new play.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Knew his beat, and refused a speech about it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept you off a rehearsal of fear, and kept Sam off the floor.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "In the yard, and did not add a condition.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Henry Carey, 1st Lord Hunsdon",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the yard. His leave came by a man at the door.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Before the door",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard my lord's leave for the jig",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Augustine Phillips",
+    "Nick Sorrell",
+    "Arthur Meeks",
+    "Will Kemp",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "my lord's leave",
+    "under the note",
+    "no purse",
+    "the cloaks still here"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "A man at the door brought my lord's leave for the jig."
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "Leave is not a pitch. Glad is not a pitch."
+    },
+    {
+      "speaker": "nick_sorrell",
+      "text": "I have a verse. I am glad of it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The old play, once. Then your job."
+    }
+  ]
+}

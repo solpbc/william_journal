@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:10:00", "text": "My legs say one day. Let it stand. Two Errors in a day is a better tale than a clerk's slip.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:10:14", "text": "The book says otherwise. Kemp says the night before. Dick has the cold, and no date.", "timing": {"end": 28.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:10:28", "text": "Let it stand.", "timing": {"end": 36.0, "start": 28.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "20:10:36", "text": "\u2026", "timing": {"end": 46.0, "start": 36.0}}

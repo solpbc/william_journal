@@ -1,0 +1,23 @@
+{
+  "narrative": "A loose leaf, not the tables and not the red bundle. The bundle sits apart, knotted. The tables are shut. One candle. The leaf is blank. No face. Four words, then a smear where a fifth was rubbed. The bundle has not been touched. No face. The four words remain. The rubbed place is pale. He has not written a drink. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the page on a loose leaf and did not open the fair copy."
+    },
+    {
+      "type": "Project",
+      "name": "the loose leaf",
+      "role": "mentioned",
+      "context": "Shown on draft in Took a clean leaf apart from the bundle"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "context": "Shown on draft in Took a clean leaf apart from the bundle"
+    }
+  ]
+}

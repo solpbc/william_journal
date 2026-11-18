@@ -1,0 +1,1 @@
+After Navarre you wrote a page of the tradesmen that is not on Sunday's list. The tailor cannot read and will not be mocked for it. The wall is a man who stands anyway. You did not finish the page, and you did not count the leaves.

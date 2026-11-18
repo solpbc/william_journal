@@ -1,0 +1,35 @@
+{
+  "narrative": "Thursday's two sheets lie face down. The morning sheet holds the head and the two lines. The dinner sheet holds the quarrel, sixty lines, no blots. Nothing new is being written. Daniel's book is shut beside them. The chronicle is open under the cat.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Laid the sheets by, shut Daniel, and copied nothing."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Lay on the open chronicle."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in Laid by"
+    },
+    {
+      "type": "Project",
+      "name": "Civil Wars",
+      "role": "mentioned",
+      "context": "Shown on draft in Laid by"
+    },
+    {
+      "type": "Project",
+      "name": "the chronicle",
+      "role": "mentioned",
+      "context": "Shown on draft in Laid by"
+    }
+  ]
+}

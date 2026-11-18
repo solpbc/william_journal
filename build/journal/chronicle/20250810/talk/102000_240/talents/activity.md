@@ -1,0 +1,1 @@
+At Holy Trinity you slept through the second lesson with your eyes open, a player's skill, and Anne let you. She did not wake you for a courtesy. No sermon was repeated at the bench afterward. Your father was not in the pew.

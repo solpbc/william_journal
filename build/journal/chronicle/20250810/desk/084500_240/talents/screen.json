@@ -1,0 +1,17 @@
+{
+  "narrative": "The foul sheet on the bench, the stone shifted just off the first lines, apple-shade on the paper. No face. The same sheet, two lines clearer than the blot around them. The pen is in the knot-hole with the inkhorn. It is not in a hand. The moon line and the short line beneath, both from the night. Nothing new is written in the margin. The short refusal, and under it the line he had decided to leave. The rest of the sheet stays foul.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Read the four lines again"
+    },
+    {
+      "type": "Project",
+      "name": "the orchard scene",
+      "role": "mentioned",
+      "context": "Shown on draft in Read the four lines again"
+    }
+  ]
+}

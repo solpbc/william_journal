@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "john_shakespeare", "start": "14:40:00", "text": "Some fairy's been at my son's back, as one was at my reckoning in Lent. I'd know that fairy's hand anywhere.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "14:40:16", "text": "Sir.", "timing": {"end": 22.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "john_shakespeare", "start": "14:40:22", "text": "Lie as you are. I am not staying to be thanked, and I am not staying to be argued into a name. A man who can joke his own fairy down the stair is a man in credit with himself. By my troth, I am pleased with it.", "timing": {"end": 40.0, "start": 22.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "14:40:40", "text": "Then I am glad you are pleased.", "timing": {"end": 48.0, "start": 40.0}}
+{"sentence_id": 5, "speaker": "john_shakespeare", "start": "14:40:48", "text": "Good. The shop is sorting apples without you, which it can do. I'll send no one up who wants a speech. Down I go.", "timing": {"end": 58.0, "start": 48.0}}

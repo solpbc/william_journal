@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "13:05:00", "text": "Feet in. The water is salt. I am not asking thee.", "timing": {"end": 10.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "13:05:10", "text": "I am in it.", "timing": {"end": 16.0, "start": 10.0}}
+{"sentence_id": 3, "speaker": "joan_shakespeare", "start": "13:05:16", "text": "Salt, as I said this morning. Leave them in.", "timing": {"end": 26.0, "start": 16.0}}
+{"sentence_id": 4, "speaker": "anne_shakespeare", "start": "13:05:26", "text": "Sit till it eases. Church is not yet.", "timing": {"end": 36.0, "start": 26.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "13:05:36", "text": "I will sit.", "timing": {"end": 46.0, "start": 36.0}}

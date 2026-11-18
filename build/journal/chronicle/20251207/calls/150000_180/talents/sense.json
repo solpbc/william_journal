@@ -1,0 +1,89 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Kettleby called from Somerset House on the Sabbath and asked pardon for himself, not for his lord. Sir Edward Hoby has written this day to bid the company to supper on Tuesday at Canon Row, after supper, with the king play. It is not at court. It is a gentleman's parlour, and the gentleman is my lord's daughter's husband. Sir Edward desires the play whole. You repeated the word. You are to come by water at five. Twelve sit at table, in a small room. You asked whether my lord knows whose guest it is. Kettleby said my lord knows whose house it is.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Repeated the word, asked whose guest, and did not advise himself.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Ambrose Kettleby",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called from Somerset House, refused the court, and kept the guest unnamed.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The Hoby summons",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "Canon Row",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The Hoby summons",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Sir Edward's summons to Canon Row",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Ambrose Kettleby",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Sabbath call",
+    "Canon Row on Tuesday",
+    "the king whole",
+    "twelve at table",
+    "the guest unnamed"
+  ],
+  "quotes": [
+    {
+      "speaker": "ambrose_kettleby",
+      "text": "Master Shakespeare? Kettleby. From Somerset House, and on the Sabbath, for which I ask your pardon and not my lord's."
+    },
+    {
+      "speaker": "ambrose_kettleby",
+      "text": "My lord said not at court. This is a gentleman's parlour, behind a gentleman's door, and the gentleman is his daughter's husband."
+    },
+    {
+      "speaker": "ambrose_kettleby",
+      "text": "Sir Edward has heard there is more of the play than Shoreditch has been let see. He desires it whole."
+    },
+    {
+      "speaker": "ambrose_kettleby",
+      "text": "I repeat a word; I do not advise upon it. Come by water at five. Twelve at table, and a small room."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Whole."
+    },
+    {
+      "speaker": "ambrose_kettleby",
+      "text": "My lord knows whose house it is. God keep you."
+    }
+  ]
+}

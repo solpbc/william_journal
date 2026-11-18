@@ -1,0 +1,1 @@
+The sheet held two lines and no stroke through them. The rest of the leaf was blank. Gib slept on the folio at the edge of the board. The fog was on the pane. You did not add a word in the minute after.

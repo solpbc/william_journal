@@ -1,0 +1,1 @@
+You said the news was six days old, and that you had been reading the fairy speech to players while the fire was already out. You took "do not come" and "come for harvest" as one instruction. You kept "none of ours" and dropped the forty. You said you will go on foot. You named no road.

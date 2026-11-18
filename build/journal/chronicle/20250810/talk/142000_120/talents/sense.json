@@ -1,0 +1,74 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You came onto the grass at the town end of the bridge with the three. The book was already off the grass. Nothing had been cut.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Cut the three hulls, and gave the only answer he had.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the book dry, read the wall, and asked about the door.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Raced the crooked boat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named hers after the ballad, and kept the words.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "Golding's Ovid",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Came onto the grass by the bridge",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Started the three boats",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Susanna Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the grass",
+    "the book off the grass"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The grass, and not a step further into the afternoon than the grass."
+    }
+  ]
+}

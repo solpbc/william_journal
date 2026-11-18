@@ -1,0 +1,35 @@
+{
+  "narrative": "The rolls laid out in order on the trestle, each with Larkham's small sign in the corner.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Stood at the trestle and did not take a roll up."
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "attendee",
+      "context": "Had laid them in order and wiped the pen."
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "context": "Was still in the room, and had already gone on."
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "mentioned",
+      "context": "Was by the ink, which was no longer needed."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "In photo: The rolls in a row"
+    }
+  ]
+}

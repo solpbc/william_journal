@@ -1,0 +1,17 @@
+{
+  "narrative": "One candle. He is in the chair and does not get up. The earlier leaves, the landing and the greeting, lie to the left. The new leaf begins the speech. The chair has not moved. The three words sit at the edge of the board, and the new leaf has gone past them.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Sat, and wrote the opening, and did not pace."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in He sits"
+    }
+  ]
+}

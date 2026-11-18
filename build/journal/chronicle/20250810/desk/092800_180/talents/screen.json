@@ -1,0 +1,23 @@
+{
+  "narrative": "The penny almanac open on the hall table, morning light across the leaf. A right hand holds the corner. Ink is dried on the forefinger. No face. The same leaf. The hand has not taken up a pen. The three lines stay as they were written. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Held the leaf open and did not write."
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in Read St Lawrence in the almanac"
+    },
+    {
+      "type": "Project",
+      "name": "Holy Trinity",
+      "role": "mentioned",
+      "context": "Shown on almanac in Read St Lawrence in the almanac"
+    }
+  ]
+}

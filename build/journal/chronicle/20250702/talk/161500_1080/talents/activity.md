@@ -1,0 +1,1 @@
+You had played Two Gentlemen. Nick came on the whistle once, and John heard that he was not late. Augustine says the Rose is still dark, and he has no figure for it. You refused the figure. Garnish still has the king. You are not counting his leaves. Kemp's noise about the roads was reported and not answered. You are going home by the same road, with nothing in your hands.

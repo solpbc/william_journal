@@ -1,0 +1,44 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "After supper you ruled a line and cast the year on one leaf. The coffer ends at thirty-three pounds ten, counted twice, from twenty-four pounds ten. Received on the page, fifty-five pounds fourteen, with my lord's ten shillings on its own line. Laid out, forty-six pounds fourteen. The three nights are written as expected and not received. Quiney owes a pound. The chronicle is still here. The play of the wood is to go on, and the workmen are not to be made fools before they have had leave to be men. You did not write what is at the bottom of the coffer. You did not write a reason for holding any of the money back.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Ruled the line, wrote the page, and stopped where that page stops.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Holinshed's Chronicles",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The account of this year",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote the year's account on one leaf",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "\u00a333 10s",
+    "the three nights unentered",
+    "the workmen",
+    "Quiney's pound"
+  ],
+  "quotes": []
+}

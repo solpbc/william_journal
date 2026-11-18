@@ -1,0 +1,49 @@
+{
+  "overview": "You came up with the short candle and found the tables shut. The red bundle was still knotted at the far side. You opened the tables on a blank side and had not written yet.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the three lines and left the bundle knotted."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the short candle",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the tables shut",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the bundle apart",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Wrote three lines on the tables"
+    },
+    {
+      "name": "the red bundle",
+      "asset_type": "other",
+      "disposition": "Wrote three lines on the tables"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-22",
+      "meaning": "Came up and found the tables shut"
+    }
+  ],
+  "summary": "Wrote three lines on the tables"
+}

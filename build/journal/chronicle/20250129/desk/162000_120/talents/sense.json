@@ -1,0 +1,44 @@
+{
+  "density": "active",
+  "content_type": "reading",
+  "activity_summary": "Under the stage, in the last of the light, the roll has the cry and the flour has the sheet. You cannot see the yard from where you stand. The horses are the sound behind you.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Stood under the stage with the roll, the sheet, and the flour.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the old Hamlet",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The cry on the roll",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Stood under the stage with the cry on the roll",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cry",
+    "the sheet",
+    "the flour",
+    "under the stage"
+  ],
+  "quotes": []
+}

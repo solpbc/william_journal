@@ -1,0 +1,38 @@
+{
+  "overview": "You read the letter back and left it flat. There was no wafer and no thread. You got up without it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote Anne's letter on the sheet"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the pen down",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no wafer",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the sheet left",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-30",
+      "meaning": "Read the letter back and left it flat"
+    }
+  ],
+  "summary": "Wrote Anne's letter on the sheet"
+}

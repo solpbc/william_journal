@@ -1,0 +1,39 @@
+{
+  "overview": "You looked at the sheet you struck on Saturday. The margin still said to trust the boy. You did not add a line, and you did not put the cut words back.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked, and did not write."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the struck sheet",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the margin",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Romeo and Juliet",
+      "asset_type": "other",
+      "disposition": "Read the three words"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-28",
+      "meaning": "Trust the boy"
+    }
+  ],
+  "summary": "Read the three words"
+}

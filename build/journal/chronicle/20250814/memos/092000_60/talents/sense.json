@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You heard the market from the floor and did not go. The wheat, if the sellers were still honest, was the same six-and-thirty you had already written. Staying up here was the back, not a principle.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he was not going down, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "wheat at six-and-thirty shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Market, from the floor",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Heard the market from the floor",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Cross",
+    "six-and-thirty",
+    "the floor"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Six-and-thirty, if they are still honest."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The floor is the market I get. It is not a virtue. It is a back."
+    }
+  ]
+}

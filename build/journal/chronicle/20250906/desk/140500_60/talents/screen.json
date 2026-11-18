@@ -1,0 +1,17 @@
+{
+  "narrative": "The plot on the peg, the hour under the title. A hand at the peg. No face. The morning's sheet is not here.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the plot, and left the morning at home."
+    },
+    {
+      "type": "Project",
+      "name": "Two Gentlemen",
+      "role": "mentioned",
+      "context": "Shown on plot in At two"
+    }
+  ]
+}

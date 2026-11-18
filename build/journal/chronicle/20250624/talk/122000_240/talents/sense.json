@@ -1,0 +1,85 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At dinner the penny loaf looked smaller than winter's. It was still a thumb short of the notch, and still a penny. Verbeke said memory makes bread bigger. Alse, cutting it four ways, said cutting does not.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate, and did not argue with the notch.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said memory makes bread bigger.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Cut it four ways, and said cutting does not.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the loaf was smaller than winter's and still a penny.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Cut four ways",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate the loaf cut four ways",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Gillis Verbeke",
+    "Alse Pinder",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the loaf",
+    "four ways",
+    "the penny"
+  ],
+  "quotes": [
+    {
+      "speaker": "gillis_verbeke",
+      "text": "Memory makes bread bigger."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "Memory may. Cutting does not."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "It is still a penny, and it is still a thumb short of the notch."
+    }
+  ]
+}

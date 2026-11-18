@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "15:40:00", "text": "Gaunt, the second time. Dead by the middle. The house is still in the king, and I am in the passage.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "15:40:16", "text": "The Rose has The New World's Tragedy. I heard the title. I did not go.", "timing": {"end": 30.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "15:40:30", "text": "The farewell was the morning. The boy has it without the margin. I am not putting the mark back from here.", "timing": {"end": 40.0, "start": 30.0}}

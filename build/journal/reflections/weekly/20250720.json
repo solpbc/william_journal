@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250720",
+    "end": "20250726"
+  },
+  "generated_at": "2025-07-26T22:00:00Z",
+  "days": [
+    {
+      "day": "20250720",
+      "state": "memory",
+      "memory_id": "m-20250720-0"
+    },
+    {
+      "day": "20250721",
+      "state": "memory",
+      "memory_id": "m-20250721-1"
+    },
+    {
+      "day": "20250722",
+      "state": "memory",
+      "memory_id": "m-20250722-2"
+    },
+    {
+      "day": "20250723",
+      "state": "memory",
+      "memory_id": "m-20250723-3"
+    },
+    {
+      "day": "20250724",
+      "state": "memory",
+      "memory_id": "m-20250724-4"
+    },
+    {
+      "day": "20250725",
+      "state": "memory",
+      "memory_id": "m-20250725-5"
+    },
+    {
+      "day": "20250726",
+      "state": "memory",
+      "memory_id": "m-20250726-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250720-0",
+      "key": "mem_20250720_0",
+      "day": "20250720",
+      "text": "Morning prayer at St Helen's. The loaf was a penny, and a thumb short of the notch. The sonnet is one leaf, and one word in the couplet is changed.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250720/talents/morning_briefing",
+        "briefing_day": "20250720",
+        "refs": [
+          "sol://facets/household/activities/20250720#meeting_092000_240",
+          "sol://facets/household/activities/20250720#meeting_113000_180",
+          "sol://facets/writing/activities/20250720#note_203000_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20250721-1",
+      "key": "mem_20250721_1",
+      "day": "20250721",
+      "text": "Gilbert had three accounts. The letter had one. Twenty houses, the north end, and the house safe. The forty was an alehouse at Wendover. You said you will go on foot.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250721/talents/morning_briefing",
+        "briefing_day": "20250721",
+        "refs": [
+          "sol://facets/writing/activities/20250721#frame_124000_180",
+          "sol://facets/stratford/activities/20250721#call_164000_120",
+          "sol://facets/stratford/activities/20250721#meeting_175500_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20250722-2",
+      "key": "mem_20250722_2",
+      "day": "20250722",
+      "text": "Nick stopped at her entrance and called her careful. Five are condemned for levying war. You told John you go on Monday, on these.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250722/talents/morning_briefing",
+        "briefing_day": "20250722",
+        "refs": [
+          "sol://facets/writing/activities/20250722#meeting_091000_480",
+          "sol://facets/writing/activities/20250722#meeting_102000_480",
+          "sol://facets/writing/activities/20250722#note_121500_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250723-3",
+      "key": "mem_20250723_3",
+      "day": "20250723",
+      "text": "Thursday's bill is down. You wrote No play in the almanac. Mistress Ansell blamed the thatch. Hobbins goes at first light. Your five lines name Saturday, Monday, and the bridge.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250723/talents/morning_briefing",
+        "briefing_day": "20250723",
+        "refs": [
+          "sol://facets/household/activities/20250723#meeting_120500_180",
+          "sol://facets/company/activities/20250723#meeting_141000_180",
+          "sol://facets/household/activities/20250723#meeting_183000_600"
+        ]
+      }
+    },
+    {
+      "id": "m-20250724-4",
+      "key": "mem_20250724_4",
+      "day": "20250724",
+      "text": "You heard the bells at breakfast. Alse told the journeyman you were at your work. The afternoon page has a struck start. You stopped at enough.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250724/talents/morning_briefing",
+        "briefing_day": "20250724",
+        "refs": [
+          "sol://facets/household/activities/20250724#meeting_104000_360",
+          "sol://facets/household/activities/20250724#meeting_121000_180",
+          "sol://facets/writing/activities/20250724#frame_154000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250725-5",
+      "key": "mem_20250725_5",
+      "day": "20250725",
+      "text": "The shoes were ninepence, the fables fourpence, the pins twopence. The Holinshed stays under the cloth. The chipped H has been in Plutarch. The house was sober. St James was evening prayer.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250725/talents/morning_briefing",
+        "briefing_day": "20250725",
+        "refs": [
+          "sol://facets/household/activities/20250725#meeting_075000_480",
+          "sol://facets/household/activities/20250725#meeting_093000_360",
+          "sol://facets/household/activities/20250725#frame_122000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250726-6",
+      "key": "mem_20250726_6",
+      "day": "20250726",
+      "text": "The quire was fivepence. Four galleys, and four burned places. The book says dark till Bartholomew. The walk saves eighteen shillings. The Verona sheets go with you.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250726/talents/morning_briefing",
+        "briefing_day": "20250726",
+        "refs": [
+          "sol://facets/company/activities/20250726#frame_100500_120",
+          "sol://facets/company/activities/20250726#meeting_101500_480",
+          "sol://facets/company/activities/20250726#meeting_165000_480"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250720-0",
+      "key": "said_20250720_0",
+      "day": "20250720",
+      "quote": "It's a sonnet. It doesn't need her in.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250720#memo_210500_120"
+      }
+    },
+    {
+      "id": "s-20250721-1",
+      "key": "said_20250721_1",
+      "day": "20250721",
+      "quote": "I have read it. None of ours. That is the sentence I keep.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250721#meeting_175500_480"
+      }
+    },
+    {
+      "id": "s-20250722-2",
+      "key": "said_20250722_2",
+      "day": "20250722",
+      "quote": "If a page will not stand in a mouth, I do not want it fair.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250722#meeting_091000_480"
+      }
+    },
+    {
+      "id": "s-20250722-3",
+      "key": "said_20250722_3",
+      "day": "20250722",
+      "quote": "In her hand. It is steady. Mine is not.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250722#meeting_165000_480"
+      }
+    },
+    {
+      "id": "s-20250724-4",
+      "key": "said_20250724_4",
+      "day": "20250724",
+      "quote": "I have a prince in the new one who says the next man that draws shall die for it. I wrote that on a Saturday and thought it only a line.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250724#memo_214000_180"
+      }
+    },
+    {
+      "id": "s-20250724-5",
+      "key": "said_20250724_5",
+      "day": "20250724",
+      "quote": "Five 'prentices nobody will ever put in a chronicle.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250724#memo_214000_180"
+      }
+    },
+    {
+      "id": "s-20250725-6",
+      "key": "said_20250725_6",
+      "day": "20250725",
+      "quote": "He is the boy. He keeps oddments. A chipped H will please him more than a clean one.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250725#meeting_093000_360"
+      }
+    },
+    {
+      "id": "s-20250726-7",
+      "key": "said_20250726_7",
+      "day": "20250726",
+      "quote": "Then I have a quire, and a date, and a coast with no name.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250726#meeting_101500_480"
+      }
+    }
+  ]
+}

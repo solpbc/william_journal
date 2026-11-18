@@ -1,0 +1,53 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At home you left the reckoning as it was written. The fifty shillings and the eight shillings stay unpaid. The twopence stays yours. You did not turn the evening into tomorrow's walk or tomorrow's church.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped at the unpaid page.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Princess's gown",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The page stays unpaid",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Stayed in after the reckoning",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the unpaid page",
+    "Sunday left alone"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The page stays unpaid."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Sunday can be Sunday when it is Sunday."
+    }
+  ]
+}

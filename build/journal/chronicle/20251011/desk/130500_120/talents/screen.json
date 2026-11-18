@@ -1,0 +1,17 @@
+{
+  "narrative": "The narrow book open. A new line is wet, and no sum is ruled under it. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the two pence and shut the book."
+    },
+    {
+      "type": "Tool",
+      "name": "ij d",
+      "role": "mentioned",
+      "context": "Shown on ledger in Item, cloves, two pence"
+    }
+  ]
+}

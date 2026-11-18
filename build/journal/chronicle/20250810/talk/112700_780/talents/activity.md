@@ -1,0 +1,1 @@
+You came out of the pew with Anne and your mother and did not stop for a word in the aisle. Your mother allowed one answer if a neighbour asked, and no recital. You kept the lesson as kept, and you went on toward a short street and dinner.

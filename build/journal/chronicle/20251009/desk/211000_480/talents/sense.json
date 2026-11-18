@@ -1,0 +1,44 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "The jaw was too loud for Verona. You took a foul sheet some weeks old out of the folder and copied it fair on a single leaf. The leaf begins Farewell thou art too deare for my possessing. There is no title, no number, and no name. You put it back. In the almanac, against tomorrow morning, you wrote the look at the tooth. You addressed no one.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Copied the leaf fair, addressed it to no one, put it back, and set the morning down.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the folder",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in One line, and no name",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Copied one leaf fair and put it back",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one leaf",
+    "no name",
+    "the folder",
+    "tomorrow morning"
+  ],
+  "quotes": []
+}

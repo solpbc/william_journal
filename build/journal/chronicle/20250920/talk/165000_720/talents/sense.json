@@ -1,0 +1,137 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Sam said Sweet Master Shakespeare to your face in simple good faith, taking it for a title, like Cavaliero. You told Kemp he had you by heart in two days, and that Cambridge had needed a whole book. He was first on the Queen's paper. You mean to be comfortable in a margin. Pope said he was equally wronged. Pell's lawyer's clerk had asked which of you was the sweet one, and she had said the one that looks sour. Garnish would not write the name, wrote it, and scraped it. The boxes were a shilling out. Larkham found a hurried change between Pell's box and the stair, not a thief, and he had the correction entered on the line, not at the foot. Cowley held the candle. The share is twenty-nine shillings. Kemp told yours out with a flourish and the name. It will be daily now. Everyone but Kemp heard that a play is going up in twelve days with no fool in it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered Kemp with the book and the margin, and took twenty-nine.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Tried the name as a title, a trumpet, and a stool, and paid the share with a flourish.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said it in good faith, and was told to keep the manners.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the clerk's question in, and swore to the hurry.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he was equally wronged, and said the twelve days where Kemp did not hear them.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Found the shilling between the box and the stair, and put the correction on the line.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Entered the correction where Larkham said, and named the twenty-nine.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Refused the name, wrote it, and scraped it off. He did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Held the candle. He did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "twenty-nine shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in By heart in two days",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Answered Sweet Master Shakespeare and took twenty-nine shillings",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Sam Latchet",
+    "William Shakespeare",
+    "Will Kemp",
+    "Thomas Pope",
+    "Goodwife Margery Pell",
+    "Humphrey Larkham",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the name",
+    "two days",
+    "a shilling",
+    "twenty-nine"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "You have me by heart in two days, Will."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "I was first on the Queen's paper, sweet Master Shakespeare."
+    },
+    {
+      "speaker": "thomas_pope",
+      "text": "Equally wronged."
+    },
+    {
+      "speaker": "humphrey_larkham",
+      "text": "On the line where the error was. Not at the foot."
+    },
+    {
+      "speaker": "margery_pell",
+      "text": "There's a lawyer's clerk in the twopenny rooms asks which of you is the sweet one."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "narrative": "Twenty pounds in gold and silver on James Burbage's long table, the allocation sheet and ledger beside it, seven men's hands at the edges.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "A hand at the edge of the table."
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "context": "A hand at the edge of the table."
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "context": "A hand at the edge of the table."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "context": "A hand at the edge of the table."
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "context": "A hand at the edge of the table."
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "context": "A hand at the edge of the table."
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "context": "A hand at the edge of the table."
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "context": "In the room, and not a hand at the cloth."
+    },
+    {
+      "type": "Tool",
+      "name": "\u00a320",
+      "role": "mentioned",
+      "context": "In photo: Twenty pounds on the long table"
+    },
+    {
+      "type": "Tool",
+      "name": "the allocation sheet",
+      "role": "mentioned",
+      "context": "In photo: Twenty pounds on the long table"
+    }
+  ]
+}

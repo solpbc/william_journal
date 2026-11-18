@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 840.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "judith_sadler", "start": "12:25:40", "text": "The lane has them. We have the bone, and the time a bone takes.", "timing": {"end": 490.0, "start": 280.0}}
+{"sentence_id": 2, "speaker": "hamnet_sadler", "start": "12:29:10", "text": "Eat, Will. A mouth can do the rest of this dinner. I am using mine for that.", "timing": {"end": 680.0, "start": 490.0}}
+{"sentence_id": 3, "speaker": "anne_shakespeare", "start": "12:32:20", "text": "I am eating. I have finished my speaking for this board.", "timing": {"end": 790.0, "start": 680.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "12:34:10", "text": "Then so have I. The cheese can have what is left of the minute.", "timing": {"end": 800.0, "start": 790.0}}

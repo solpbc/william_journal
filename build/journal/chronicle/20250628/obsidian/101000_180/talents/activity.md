@@ -1,0 +1,1 @@
+You wrote that Midsummer is past and that he has not been told. Friday's frame stood yesterday. You did not write that it had been taken down. Gib was still on the Holinshed. You did not open the coffer, and you did not open the king.

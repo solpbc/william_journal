@@ -1,0 +1,130 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "The boxes held eleven pound six, said once, and not divided. Margery Pell said citizens, their wives, clerks come before their masters, and half the Bankside, and that she never carried her box down so heavy, nor a yard so quiet. Kemp had danced the jig like a man owed money. Nick's grain held. Pope's garden got its laugh and did not become a second play. Richard sat on the property chest with the paint still on his neck, did not take off the black velvet doublet, looked at you, and said nothing, which is how he praised the fifth act of the comedy in January. You did not give him a sentence to have said. You do not know what the Rose took.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a second number, and left Richard's silence alone.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set down a heavy box and a quiet yard, and left.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had danced the jig like a man owed money, and said so without pricing it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said eleven pound six, and would not divide it into a share on the stair.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the quiet hold for a minute under the jig, and would not invent the Rose's takings.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "The grain held, and he did not want the doublet discussed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Looked, and said nothing.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Kept the garden's laugh inside the garden.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "\u00a311 6s",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A yard so quiet",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A yard so quiet",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard eleven pound six",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "Goodwife Margery Pell",
+    "William Shakespeare",
+    "Augustine Phillips",
+    "Will Kemp",
+    "Nick Sorrell",
+    "Thomas Pope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "eleven pound six",
+    "the heavy box",
+    "the quiet yard",
+    "the jig",
+    "the look with no words"
+  ],
+  "quotes": [
+    {
+      "speaker": "margery_pell",
+      "text": "Citizens, their wives, clerks come before their masters, and half the Bankside."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "They hold eleven pound six."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "I danced it like a man owed money, if that is the look you all insist on naming."
+    }
+  ]
+}

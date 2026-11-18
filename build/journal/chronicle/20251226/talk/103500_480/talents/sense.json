@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "The morning's work was where to wait. Bryan put you in a passage and then a plain room, and forbade a busy wandering. Burbage told you that you go in first, on the line you have, in the paper crown and the old velvet, and not yet. Sam brought yesterday's about ten up against the house's nine, after supper, when the chair is not empty. You refused to mend either hour. Nick was there and did not sing. A whisper in that hall is a speech. You were not to begin one with a yeoman.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused to mend the two hours, and kept the first entrance unadorned.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the place of waiting, the hour of nine, and the bow.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the first entrance and the size of a whisper.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked which hour is true, and which bow to spend.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Stood against the wall and did not sing.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Refused to change Sam's about ten or the house's nine",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "George Bryan",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Sam Latchet"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the waiting",
+    "about ten and nine",
+    "the empty chair",
+    "the first entrance"
+  ],
+  "quotes": [
+    {
+      "speaker": "george_bryan",
+      "text": "The house has nine, after supper. At nine the chair is not empty."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I told him about ten, yesterday, because about ten was the answer I had. Nine is the house."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Thou goest in first, when it is time. The line is the line thou hast."
+    }
+  ]
+}

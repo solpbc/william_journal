@@ -1,0 +1,114 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At Old Swan you stood with half the parish for a mayor who does not live among you. Gannet, on his oars, said the new man would pull down the playhouses by Christmas, that the old one was to be an earl, and that the Spaniard was in the Downs. A passenger asked to follow the barge and was told to follow in his own boat or swim. That is the line you kept. Kemp took his hat off toward Bishopsgate and bade the absent mayor sweeten. Mistress Ansell said Sir John went out as he came in, liking nobody, and that he kept his own door. You did not take his going for a victory. A woman's dark head was turned away, laughing, and you did not look long enough to know who stood beside her. You are Egeon at two.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the three news, kept the one line, and did not name the woman.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Davy Gannet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed on the oars, gave his news, and would not follow the barge.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came for the drums and took his hat off toward Bishopsgate.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Saw the sword go first and said Sir John had kept his own door.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept her footing, and saw the woman at the edge.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "the lady of the parish",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Turned away, laughing. She did not speak, and she was not named.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Stood at the back of his own company. He did not look at the stair, and he did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Mayor's barge",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Go sweeten",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Kept the boatman's line at Old Swan",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "Davy Gannet",
+    "William Shakespeare",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the new Mayor",
+    "one line kept",
+    "the dark head"
+  ],
+  "quotes": [
+    {
+      "speaker": "davy_gannet",
+      "text": "New Mayor! He'll pull down the playhouses by Christmas"
+    },
+    {
+      "speaker": "davy_gannet",
+      "text": "Follow it in your own boat, or swim."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Farewell, thy sour worship. Go sweeten."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "He went out as he came in, liking nobody."
+    }
+  ]
+}

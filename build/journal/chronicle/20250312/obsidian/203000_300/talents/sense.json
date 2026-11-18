@@ -1,0 +1,48 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You struck the Costard line because the nine are in the book. The letter to Anne stays on the list, written and unsent. The Queen's money, the horse, and Field's chronicle are untouched. Nothing was paid.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Struck the one line the day had finished.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Costard wiped",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Struck the Costard line off the list",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Costard line struck",
+    "the letter unsent",
+    "the horse not bespoken"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The nine are in. The letter is written and not sent, so the line stays."
+    }
+  ]
+}

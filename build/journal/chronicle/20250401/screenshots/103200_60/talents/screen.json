@@ -1,0 +1,29 @@
+{
+  "narrative": "Chapel Street: black 1594 stumps beside a new oak frame raised pale, fresh lime-plaster, three children half-turned toward the frame and busy, a child's arm pointing, not posed",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "In The new oak"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "context": "Stood half-turned toward the frame, one of the three."
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "context": "Stood half-turned toward the frame, one of the three."
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "context": "Pointed, and was not posed."
+    }
+  ]
+}

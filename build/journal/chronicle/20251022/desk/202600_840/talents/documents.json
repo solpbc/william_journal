@@ -1,0 +1,49 @@
+{
+  "overview": "You left the leaf as it was. Two lines, one word, and a space. You did not put the leaf into the bundle, and you did not untie the knot. The ink stayed on your right forefinger.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the girl alone with the vial"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the leaf apart",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the knot",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the ink",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the loose leaf",
+      "asset_type": "other",
+      "disposition": "Wrote the girl alone with the vial"
+    },
+    {
+      "name": "the red bundle",
+      "asset_type": "other",
+      "disposition": "Wrote the girl alone with the vial"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-22",
+      "meaning": "Left the written leaf apart from the bundle"
+    }
+  ],
+  "summary": "Wrote the girl alone with the vial"
+}

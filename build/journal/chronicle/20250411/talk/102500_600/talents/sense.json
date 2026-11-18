@@ -1,0 +1,120 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Heminges's copy ended on the Latin. Cowley's had your correction under a strike, and he still could not use it from behind the arras. You blamed their learning, then found the correction was your own, on the wrong copy. Larkham refused to recopy until it was settled which book was the book. Burbage had found the size before the morning ended, and he said he was not waiting on noon. Nothing was pasted.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Blamed the learning, then owned the wrong copy.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the Latin ending and kept the size separate from the cue.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed the half-mended copy and the three misses.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused to recopy until the book was one book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Put both parts on the chest and refused to paste a quarrel.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Found the size on the boards before the morning let him go.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Heard. His voice was not the fault.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Heard. The hooks were not this argument.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "two cue copies",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The wrong copy",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Found the correction on the wrong copy",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Richard Cowley",
+    "William Shakespeare",
+    "Abel Garnish",
+    "Humphrey Larkham",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two copies",
+    "the wrong correction",
+    "which book is the book",
+    "the size found"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "That is my correction, sitting on the wrong copy."
+    },
+    {
+      "speaker": "humphrey_larkham",
+      "text": "I will not recopy a line until it is settled which book is the book."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Noon may audit what is left. I am not waiting on noon to know it."
+    }
+  ]
+}

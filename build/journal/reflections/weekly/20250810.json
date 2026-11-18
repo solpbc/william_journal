@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250810",
+    "end": "20250816"
+  },
+  "generated_at": "2025-08-16T22:00:00Z",
+  "days": [
+    {
+      "day": "20250810",
+      "state": "memory",
+      "memory_id": "m-20250810-0"
+    },
+    {
+      "day": "20250811",
+      "state": "memory",
+      "memory_id": "m-20250811-1"
+    },
+    {
+      "day": "20250812",
+      "state": "memory",
+      "memory_id": "m-20250812-2"
+    },
+    {
+      "day": "20250813",
+      "state": "memory",
+      "memory_id": "m-20250813-3"
+    },
+    {
+      "day": "20250814",
+      "state": "memory",
+      "memory_id": "m-20250814-4"
+    },
+    {
+      "day": "20250815",
+      "state": "memory",
+      "memory_id": "m-20250815-5"
+    },
+    {
+      "day": "20250816",
+      "state": "memory",
+      "memory_id": "m-20250816-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250810-0",
+      "key": "mem_20250810_0",
+      "day": "20250810",
+      "text": "You slept through the second lesson at Holy Trinity, ate dinner at the Sadlers', and made three bark boats under the bridge. You walked the field path to Hewlands with Anne, started a tale about her stile, and stopped. At the bakehouse, Tuesday's raising was set for seven, with twelve men, the ale on the cousin, and twenty shillings already in the timber.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250810/talents/morning_briefing",
+        "briefing_day": "20250810",
+        "refs": [
+          "sol://facets/writing/activities/20250810#memo_051000_60",
+          "sol://facets/writing/activities/20250810#photo_054000_120",
+          "sol://facets/household/activities/20250810#meeting_074000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250811-1",
+      "key": "mem_20250811_1",
+      "day": "20250811",
+      "text": "You stayed in the house and read the orchard sheet, and you left the lines as they were. The shop had six pairs of sheep skins where the order was kid. Richard said he would walk them back after the frame.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250811/talents/morning_briefing",
+        "briefing_day": "20250811",
+        "refs": [
+          "sol://facets/household/activities/20250811#meeting_084000_600",
+          "sol://facets/writing/activities/20250811#frame_112000_240",
+          "sol://facets/household/activities/20250811#meeting_151000_540"
+        ]
+      }
+    },
+    {
+      "id": "m-20250812-2",
+      "key": "mem_20250812_2",
+      "day": "20250812",
+      "text": "The first bay went up cleanly. On the second lift your back went, and you stayed on your feet. Anne was sharp at the plot, where the carpenters could hear, and kind on the bed. Richard and Sadler brought you home.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250812/talents/morning_briefing",
+        "briefing_day": "20250812",
+        "refs": [
+          "sol://facets/stratford/activities/20250812#meeting_071000_720",
+          "sol://facets/stratford/activities/20250812#meeting_084000_600",
+          "sol://facets/stratford/activities/20250812#meeting_110500_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250813-3",
+      "key": "mem_20250813_3",
+      "day": "20250813",
+      "text": "You lay on the chamber floor. Your mother rubbed in bay. You promised the children's joke would stay in the house. Judith took a piece off their machine, and it worked a little better. Your father was pleased with a fairy. Quiney talked of the town and did not mention the two pounds. You told Edmund the scene of a king put down is cut, and sent him back to school.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250813/talents/morning_briefing",
+        "briefing_day": "20250813",
+        "refs": [
+          "sol://facets/household/activities/20250813#meeting_091000_300",
+          "sol://facets/household/activities/20250813#meeting_110000_720",
+          "sol://facets/household/activities/20250813#photo_122000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250814-4",
+      "key": "mem_20250814_4",
+      "day": "20250814",
+      "text": "You stayed on the floor through market day. The children played the orchard at the bedside. Judith's moon was a candle. Susanna said the girl is too quick to say yes. You left the lines as they were. Anne asked if this was the work, and she thought better of it.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250814/talents/morning_briefing",
+        "briefing_day": "20250814",
+        "refs": [
+          "sol://facets/stratford/activities/20250814#memo_092000_60",
+          "sol://facets/writing/activities/20250814#meeting_150000_720",
+          "sol://facets/writing/activities/20250814#note_163000_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250815-5",
+      "key": "mem_20250815_5",
+      "day": "20250815",
+      "text": "You promised only the carrier on the eighteenth, which is already set. Anne said you have not looked at a real house, and she named neither the house nor a price. Richard took the six pairs of skins.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250815/talents/morning_briefing",
+        "briefing_day": "20250815",
+        "refs": [
+          "sol://facets/household/activities/20250815#meeting_110000_480",
+          "sol://facets/household/activities/20250815#meeting_153000_240",
+          "sol://facets/stratford/activities/20250815#memo_211000_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250816-6",
+      "key": "mem_20250816_6",
+      "day": "20250816",
+      "text": "Richard cut a stick to your hip, and you walked to the great house by the chapel. You asked Anne for three years. She said she will wait until she believes you. You did not ask the price, and you did not ask whose house it was.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250816/talents/morning_briefing",
+        "briefing_day": "20250816",
+        "refs": [
+          "sol://facets/household/activities/20250816#meeting_102000_480",
+          "sol://facets/stratford/activities/20250816#meeting_164000_600",
+          "sol://facets/stratford/activities/20250816#photo_172000_120"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250810-0",
+      "key": "said_20250810_0",
+      "day": "20250810",
+      "quote": "I had her stile turned into a tale, and I heard it, and I stopped. She heard the stop.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250810#memo_211000_60"
+      }
+    },
+    {
+      "id": "s-20250812-1",
+      "key": "said_20250812_1",
+      "day": "20250812",
+      "quote": "It went like a lute-string. Not a roar. A string.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250812#memo_211500_60"
+      }
+    },
+    {
+      "id": "s-20250812-2",
+      "key": "said_20250812_2",
+      "day": "20250812",
+      "quote": "She was right at the plot, and right on the bed, and they were different rights.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250812#memo_211500_60"
+      }
+    },
+    {
+      "id": "s-20250813-3",
+      "key": "said_20250813_3",
+      "day": "20250813",
+      "quote": "I can't lie on a floor in London. I've a king to bury.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250813#memo_204000_60"
+      }
+    },
+    {
+      "id": "s-20250814-4",
+      "key": "said_20250814_4",
+      "day": "20250814",
+      "quote": "The floor is the market I get. It is not a virtue. It is a back.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250814#memo_092000_60"
+      }
+    },
+    {
+      "id": "s-20250815-5",
+      "key": "said_20250815_5",
+      "day": "20250815",
+      "quote": "No journey but the one that is set. No house from a floor.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250815#meeting_110000_480"
+      }
+    },
+    {
+      "id": "s-20250816-6",
+      "key": "said_20250816_6",
+      "day": "20250816",
+      "quote": "I work there. I don't live there. I've known it since Aylesbury.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250816#meeting_164000_600"
+      }
+    },
+    {
+      "id": "s-20250816-7",
+      "key": "said_20250816_7",
+      "day": "20250816",
+      "quote": "That one. She had it picked before I'd the wit to want it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20250816#memo_205000_60"
+      }
+    }
+  ]
+}

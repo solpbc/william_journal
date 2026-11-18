@@ -1,0 +1,17 @@
+{
+  "narrative": "The almanac open at the day, at home. Corpus Christi is still printed, with the old note for leases and reckonings. No lease is on the table. No face. The same page. No pen has been put to it. The house is about its ordinary work. No face. The almanac shut. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the almanac and shut it."
+    },
+    {
+      "type": "Project",
+      "name": "the almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in Still printed, not kept"
+    }
+  ]
+}

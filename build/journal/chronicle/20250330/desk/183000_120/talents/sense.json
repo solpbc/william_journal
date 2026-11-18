@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "At dusk you looked at the almanac on the sill. The thirtieth of March carried the mark of the new moon. Your tables stayed shut, and you wrote nothing.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Looked at the March leaf and left the tables shut.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in New moon in Lent",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Saw the new moon marked and closed the almanac",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the new moon",
+    "the almanac",
+    "shut tables"
+  ],
+  "quotes": []
+}

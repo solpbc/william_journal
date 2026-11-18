@@ -1,0 +1,1 @@
+Before the house opened, James Burbage counted the yard as timber and would not give a number. He said the stage is twice the breadth of the Cross Keys. The swan was for noon and the trumpet for two. Sam sang the cuckoo clear. You said you had read both titles on the Bishopsgate post and walked on. You did not mention any other plan for the song.

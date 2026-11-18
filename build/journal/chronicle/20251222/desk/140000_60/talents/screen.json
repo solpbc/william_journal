@@ -1,0 +1,17 @@
+{
+  "narrative": "A bill, read at the Theatre. The title is the whole of it. You do not turn toward the river. The bill stays a bill. The yard in front of you is this house, and it is not the Rose.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the bill at the Theatre and did not go."
+    },
+    {
+      "type": "Project",
+      "name": "New World's Tragedy",
+      "role": "mentioned",
+      "context": "Shown on bill in Rose. New World's Tragedy"
+    }
+  ]
+}

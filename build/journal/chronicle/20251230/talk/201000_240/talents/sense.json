@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You had said good night, and you were still in the chair, because the morning's leaf was open on your knee. Jacqueline would not ask again whether the queen is punished. Field said there was one fire, and that he would not walk you to the corner while the leaf was open. You said it would shut with nothing under the question.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stayed in the chair with the morning's leaf open",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Jacqueline Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stayed in the chair with the morning's leaf open",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stayed in the chair with the morning's leaf open",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read the pages by Field's fire",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Jacqueline Field",
+    "William Shakespeare",
+    "Richard Field"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the open leaf",
+    "one fire",
+    "no second plot"
+  ],
+  "quotes": [
+    {
+      "speaker": "jacqueline_field",
+      "text": "The leaf is open on your knee."
+    },
+    {
+      "speaker": "richard_field",
+      "text": "One fire. It does not set type, and it will not follow thee."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Nothing under the question."
+    }
+  ]
+}

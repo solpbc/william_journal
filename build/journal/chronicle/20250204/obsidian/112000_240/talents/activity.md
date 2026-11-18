@@ -1,0 +1,1 @@
+Back at the lodging you wrote that Field had a forme on the press and that you had come away with no book. He had asked for the day the chronicle would come home. You did not have the day, and you did not enter one in the almanac. The owl's stop had held. The packet was still on the desk, and the groats were not yet sewn in.

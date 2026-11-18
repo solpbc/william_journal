@@ -1,0 +1,51 @@
+{
+  "overview": "You kept the three breaths and refused to pretty them back into one voice. You left the foot of the page empty. Kemp has still not seen the page, and you did not draft a scene to show him the king has no fool.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the refusal and stopped."
+    },
+    {
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "formal_term": "Will Kemp",
+      "appointment_tier": "not_applicable",
+      "context": "Has not seen the page, and was not shown it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the three breaths",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the empty foot",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the unseen page",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Did not fill the foot of the page"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-02",
+      "meaning": "The breaths, again"
+    }
+  ],
+  "summary": "Did not fill the foot of the page"
+}

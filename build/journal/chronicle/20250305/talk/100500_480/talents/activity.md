@@ -1,0 +1,1 @@
+After the commination Master Thwaite said he had enjoyed reading it as it is written. Mistress Ansell called the hardness right and said the house is fish from this dinner. You did not ask for the reading again. You said the company is idle, the loaf is still a penny and a finger short, and you were going to look at a cold stage and not to play on it.

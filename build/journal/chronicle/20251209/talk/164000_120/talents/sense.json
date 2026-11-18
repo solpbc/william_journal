@@ -1,0 +1,77 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You came home for a clean band. You said Westminster, by water, and you did not bring a name into the house. Alse pinned it. Mistress Ansell did not take the parlour as a reason to go to a play again. You said you would be late, and that you would not wake the stair.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the river and not the guest.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the band, and refused a second playgoing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Pinned it, and did not ask about boys.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "Canon Row",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A clean band",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Took a clean band home",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the clean band",
+    "no name in the close",
+    "once was enough",
+    "a late return"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The band is clean. I am not asking where a clean band goes on a Tuesday."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Westminster, Mistress. By water. I am not bringing you a name to carry into the close."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Once was enough of a play. Another man's parlour is not my second time."
+    }
+  ]
+}

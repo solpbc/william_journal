@@ -1,0 +1,111 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You walked to St Helen's with Mistress Ansell, Alse, and Gillis Verbeke. Master Thwaite preached seven heads and stopped when the glass had turned once. You did not count any money in the porch. Sir John Spencer was heard in the service and did not speak to you. The letter with no day was named as still in the house. You went home to dinner without an eighth head.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the seven heads, kept the purse out of the talk, and left the letter where it was.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the household to the service and took the short morning without asking for an eighth.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Preached seven heads and stopped at one turning of the glass.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood out of the drip and went back to the loom.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the cloak and did not ask to read the letter.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Heard in the service. He did not speak to you.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the sand-glass",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Seven heads, and one turning",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Anne's letter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Seven heads, and one turning",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard seven heads and one turning of the glass",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke",
+    "Master Josias Thwaite"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "seven heads",
+    "one turning of the glass",
+    "the unsent letter",
+    "Sir John heard and not spoken with"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "I have seven heads, and I mean to stop when the glass has turned once."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not counting in a porch."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Seven, and one turning."
+    }
+  ]
+}

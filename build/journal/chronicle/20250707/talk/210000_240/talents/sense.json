@@ -1,0 +1,82 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At nine you rose. Asked where it pained you, you said it was in the head, and that there was a city in it. You left the glass with Richard. The slate stayed forgiven.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Rose, and named the city.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the glass, and let you go.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ended the song.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Noted the hour, and cleared the way.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Agnes Tipping",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked the question, and kept the forgiveness to one night.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rose at nine and said the pain was a city",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Agnes Tipping",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Thomas Pope",
+    "Augustine Phillips"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "nine o'clock",
+    "a city in the head",
+    "the glass left with Richard"
+  ],
+  "quotes": [
+    {
+      "speaker": "agnes_tipping",
+      "text": "Where does it pain you tonight, Will?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "In the head. There's a city in it."
+    }
+  ]
+}

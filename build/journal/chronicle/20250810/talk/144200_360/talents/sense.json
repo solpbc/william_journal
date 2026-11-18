@@ -1,0 +1,89 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You had them take the three boats out of the reeds. Judith would not call the resting one a loss. Susanna kept the book shut. You started them for home inside the middle of the afternoon.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Took the three boats out of the reeds",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Took the three boats out of the reeds",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Took the three boats out of the reeds",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Took the three boats out of the reeds",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the three bark boats",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Took the three boats out of the reeds",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Golding's Ovid",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Took the three boats out of the reeds",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Started the three boats",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Hamnet Shakespeare",
+    "Judith Shakespeare",
+    "Susanna Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the reeds",
+    "the three hulls",
+    "the book shut"
+  ],
+  "quotes": [
+    {
+      "speaker": "judith_shakespeare",
+      "text": "A hand is a hand."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "We are going while the middle is still the middle I named."
+    }
+  ]
+}

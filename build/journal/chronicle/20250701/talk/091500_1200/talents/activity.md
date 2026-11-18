@@ -1,0 +1,1 @@
+You rehearsed Two Gentlemen from the door, three times, with Augustine and Nick. The third was clean. You are in tomorrow's play. You are not in this afternoon's Shrew, and Augustine told you not to come back and be useful at it. The king's leaves are not in the theatre. You did not rehearse them, and you did not open a new play.

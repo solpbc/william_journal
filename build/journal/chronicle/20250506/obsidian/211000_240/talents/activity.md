@@ -1,0 +1,1 @@
+You kept the king in Act 2 with the uncles as they already are. You did not open Act 3, you did not draft the England speech, and you did not show Kemp the book. Friday is the morning you are keeping, if you are free.

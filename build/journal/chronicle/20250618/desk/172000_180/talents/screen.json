@@ -1,0 +1,23 @@
+{
+  "narrative": "A worn letter on the tiring-house table, three weeks in a pocket, opened and folded once more. No sum has been copied onto your tables. No face. The lower lines of the letter are there and are not transferred. Your tables, beside it, have the place and the two days and a blank where a figure would go. No face. One line of the letter still showing as Sly left it, the rest covered by the fold. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Copied no figure."
+    },
+    {
+      "type": "Person",
+      "name": "William Sly",
+      "role": "mentioned",
+      "context": "Had brought the letter. He was not in this stretch. The sheet was his cousin's."
+    },
+    {
+      "type": "Project",
+      "name": "the cousin's letter",
+      "role": "mentioned",
+      "context": "Shown on letter in No figure follows"
+    }
+  ]
+}

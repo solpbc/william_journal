@@ -1,0 +1,44 @@
+{
+  "overview": "You looked again at the new moon, turned to the week, and turned back. You still did not write an hour. You shut the almanac on the sill and left the clasp open.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the new moon in the almanac"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the new moon",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the week's leaf",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the shut almanac",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the penny almanac",
+      "asset_type": "other",
+      "disposition": "Read the new moon in the almanac"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-22",
+      "meaning": "Turned to the week and shut the almanac"
+    }
+  ],
+  "summary": "Read the new moon in the almanac"
+}

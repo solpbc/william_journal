@@ -1,0 +1,17 @@
+{
+  "narrative": "The first lines still clear. A hand brings the stone back toward the corner and has not set it down. No face. The stone sits where the night had it. The sheets do not lift. The inkhorn is in the plank. No one is writing. The whole bench in apple-shade: stone, sheets, inkhorn, two quills. A hand has left the frame. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in The stone put back"
+    },
+    {
+      "type": "Project",
+      "name": "the orchard bench",
+      "role": "mentioned",
+      "context": "Shown on draft in The stone put back"
+    }
+  ]
+}

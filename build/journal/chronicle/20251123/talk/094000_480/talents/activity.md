@@ -1,0 +1,1 @@
+Master Thwaite closed morning prayer. You stood in the south porch with the household. The close was still there. Sir John Spencer was in his pew, without the sword-bearer, and he did not speak to you. You said you were for home, with dinner and the garret, and no errand west. You left with them.

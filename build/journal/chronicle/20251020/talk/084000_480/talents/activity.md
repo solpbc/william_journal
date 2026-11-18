@@ -1,0 +1,1 @@
+You took broth and the soft side of the loaf, and you did not call the jaw healed. Alse brushed Saturday's mud off the hem. You said you are not in the Shrew, and that the afternoon's writing is a kitchen with an empty margin. You promised to bring no Christmas sum home.

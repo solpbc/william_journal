@@ -1,0 +1,17 @@
+{
+  "narrative": "The oilcloth is parted a finger's width beside the fire. The Verona sheets inside are dry. No new line has been written on them.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Opened the cloth, looked, and closed it."
+    },
+    {
+      "type": "Project",
+      "name": "the Verona sheets",
+      "role": "mentioned",
+      "context": "Shown on draft in A finger of oilcloth"
+    }
+  ]
+}

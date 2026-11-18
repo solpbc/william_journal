@@ -1,0 +1,84 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You came home and shut the door on the yard. You did not give the house a title, and you did not give them the death. Alse saw a smear of paint and sent you to the cold basin. Mistress Ansell had lit the hall candle, and offered broth and the crabs already in the house. Gib was by the fire. The bundle was as you had left it. You said you had nothing for the house.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Shut the door on the yard, washed, and carried no story to the table.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked once, lit the hall, and kept supper to what the house already had.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the smear, set the cold water, and checked the bundle.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the hall candle",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Came home and kept the death for the chamber",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Came home and kept the death for the chamber",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came home from the play",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "no story for the house",
+    "the smear",
+    "the hall candle"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have none for this house."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I am not lighting a second candle for a story."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "It is as you left it."
+    }
+  ]
+}

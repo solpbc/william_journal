@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At Wycombe you had walked every mile. Hobbins had offered the spare at the foot of the hill and you had refused, and by the top the back was better going than sitting. In March you had ridden the other way like a man who had been paid. He priced the houses he knows: a mortgaged farm, an inn changing hands at Michaelmas, and a widow at Wheatley who will not take forty pound. That forty is hers. You had opened your mouth for the house by the chapel, and you asked the price of oats at Wycombe instead. The answer took the rest of the talk, and it did not leave you a figure you may repeat. You did not buy. You did not move her price onto the chapel.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the spare again in the telling, and asked about oats.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Priced three houses and the oats, and would not move the forty.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the great house by the chapel",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Oats, not the house",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "oats",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Oats, not the house",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Asked the price of oats",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Hobbins",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the spare refused",
+    "the widow's forty pound",
+    "oats at Wycombe",
+    "the house not asked"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "What is the price of oats at Wycombe?"
+    },
+    {
+      "speaker": "thomas_hobbins",
+      "text": "She will not take forty pound."
+    },
+    {
+      "speaker": "thomas_hobbins",
+      "text": "Oats. Not a widow, and not a chapel."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "alse_pinder", "start": "12:10:00", "text": "There is a man at the street door. A neighbour's journeyman. He has an account of the morning, and he offers it as if it were a kindness.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "12:10:16", "text": "I am not coming down.", "timing": {"end": 24.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "alse_pinder", "start": "12:10:24", "text": "What shall I tell him?", "timing": {"end": 30.0, "start": 24.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "12:10:30", "text": "Tell him I am at my work.", "timing": {"end": 38.0, "start": 30.0}}
+{"sentence_id": 5, "speaker": "alse_pinder", "start": "12:10:38", "text": "And if he says he will wait?", "timing": {"end": 46.0, "start": 38.0}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "12:10:46", "text": "He will not wait. Say the sentence, and shut the door.", "timing": {"end": 56.0, "start": 46.0}}

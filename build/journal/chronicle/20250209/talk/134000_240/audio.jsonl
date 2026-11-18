@@ -1,0 +1,7 @@
+{"backend": "whisper", "duration": 240.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "13:40:00", "text": "Let Fame, that all hunt after in their lyues.", "timing": {"end": 26.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "(the archer)", "start": "13:40:26", "text": "Mind the butt, master. The arrow does not know your line.", "timing": {"end": 42.0, "start": 26.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "13:40:42", "text": "I mind it. I am on the path, not on the mark.", "timing": {"end": 56.0, "start": 42.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "13:40:56", "text": "Let Fame, that all hunt after in their lyues.", "timing": {"end": 72.0, "start": 56.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "13:41:12", "text": "Again. Let Fame, that all hunt after in their lyues. There. It sits.", "timing": {"end": 90.0, "start": 72.0}}
+{"sentence_id": 6, "speaker": "(the archer)", "start": "13:41:30", "text": "Then take it with you. I have another shaft.", "timing": {"end": 100.0, "start": 90.0}}

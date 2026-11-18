@@ -1,0 +1,1 @@
+You kept the parish hour with the almanac open on the fifth and the sixth. Master Thwaite turned the glass twice. The margin beside Monday stayed empty. Three pews ahead, the Lord Mayor's back did not turn.

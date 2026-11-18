@@ -1,0 +1,120 @@
+{
+  "density": "active",
+  "content_type": "reading",
+  "activity_summary": "Garnish set down twenty-three rolls, copied in six days, and no other hand had been in the basket. You read every voice, and you read Peter flat. Phillips kept the feast at sixteen bars. Pope took the Nurse at her first speech, asked for the child and a cushion, and did the weaning, the earthquake, and the fall backward with a napkin on his head. The room stopped for as long as a paternoster. Heminges wept into the reckoning-book and struck James on the back. Phillips heard Mab and smiled at the fire. Richard did not speak.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read every voice until Pope took the Nurse, and left Peter flat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the basket and swore the copying was clean.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the rolls on the table, wept into the reckoning-book, and struck James on the back.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the sixteen bars, heard Mab, and left Richard alone.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the table and the cushion, and took the blow on the back.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the Nurse, the child, the cushion, and the napkin.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat by the fire and did not speak.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "twenty-three rolls",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twenty-three rolls",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "sixteen bars",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twenty-three rolls",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read the rolls and let Pope take the Nurse",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "John Heminges",
+    "William Shakespeare",
+    "James Burbage",
+    "Augustine Phillips",
+    "Thomas Pope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twenty-three rolls",
+    "Peter flat",
+    "the Nurse and the napkin",
+    "Richard silent"
+  ],
+  "quotes": [
+    {
+      "speaker": "abel_garnish",
+      "text": "Twenty-three rolls. Six days."
+    },
+    {
+      "speaker": "thomas_pope",
+      "text": "I've dandled worse. Give me the child and a cushion for my bosom."
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "Dick has not said a word since the cushion."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You said the four words, at his door, ours, and you stopped. You did not see the Mayor's letter. You did not bar the street door.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the four words and stopped.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said at his door, ours",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "four words",
+    "his door"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "At his door. Ours."
+    }
+  ]
+}

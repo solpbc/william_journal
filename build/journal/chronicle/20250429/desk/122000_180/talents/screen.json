@@ -1,0 +1,17 @@
+{
+  "narrative": "The writing-tables open on the board, one line in the wax under a short paragraph of three breaths, and a clean space beneath the line.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the line on the tables."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on tables in Not all of them may sing"
+    }
+  ]
+}

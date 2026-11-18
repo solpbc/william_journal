@@ -1,0 +1,68 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Gilbert called from the Bell. He had run from the shop. The fire was last week, and the accounts did not agree: half the High Street, Henley Street, forty houses, and then Hobbins's twenty at the north end. There was a letter in Anne's hand, and Hobbins would give it to nobody else. You said you were coming. The call stopped before the commendation was finished.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he was coming, and did not get an answer about the house.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gilbert Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Brought the yard's versions, and stopped before the commendation.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Bell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Gilbert, from the Bell",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Heard Gilbert from the Bell and went on to Anne's letter",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Gilbert Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a second fire",
+    "three streets",
+    "Anne's seal",
+    "the Bell"
+  ],
+  "quotes": [
+    {
+      "speaker": "gilbert_shakespeare",
+      "text": "There's been fire again. Last week."
+    },
+    {
+      "speaker": "gilbert_shakespeare",
+      "text": "Run, then. God keep\u2014 go on."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am coming."
+    }
+  ]
+}

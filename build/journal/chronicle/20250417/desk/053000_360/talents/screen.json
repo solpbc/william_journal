@@ -1,0 +1,17 @@
+{
+  "narrative": "A clean sheet at first light, the top of it only. Done above the empty rest: a short head, the King's address to his uncle, and the uncle's answer. The quarrel is not on this sheet. Nothing further is being written yet.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the head and the two lines, and stopped the sheet there."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in A clean sheet"
+    }
+  ]
+}

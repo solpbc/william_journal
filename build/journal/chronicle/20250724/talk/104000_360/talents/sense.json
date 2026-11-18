@@ -1,0 +1,81 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "In the forenoon the house heard a bell from All Hallows by the Tower, faint on the wind to the south-east, and then others. You said south-east was all you had. Mistress Ansell would not make the noise a guest. Verbeke would not name a church he could not see. Alse left the casement shut. None of the four of you said what the bells were for.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the direction, and refused a guest.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the table on bread and pease.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the second bell, and left the casement shut.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat down, and would not name a church.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "All Hallows by the Tower",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in None of the four",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard the bells at breakfast",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "William Shakespeare",
+    "Mistress Dorcas Ansell",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "bells to the south-east",
+    "a shut casement",
+    "no cause named"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "South-east. That is all I have of it."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "I will not make the noise into a guest."
+    }
+  ]
+}

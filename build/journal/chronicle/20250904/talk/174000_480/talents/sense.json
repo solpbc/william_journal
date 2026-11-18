@@ -1,0 +1,85 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At Old Swan, Davy Gannet said Drake and old Hawkins were out of Plymouth, six-and-thirty sail and four thousand men, gone to burn the King of Spain in his bed. It is seven days old. They sailed on Thursday the twenty-eighth of August. Bryan set the merchants' letters against him: seven-and-twenty ships, and some five-and-twenty hundred men, Gannet out by his usual third. Gannet said, lower, that two old sea-dogs in one command never yet made easy sailing. Nobody on the stair could say where they were bound. A man on the top step said it was the answer for Penzance. Bryan said that was what the ballad would say, and that nobody had told him so. The ballad-seller had a ship that has served for three other voyages. You did not buy it. You thought of five-and-twenty hundred men who went aboard in a dearth year because a ship feeds a man, and you said only that it would be spring before we know.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said it would be spring before anyone knew, and did not buy the sheet.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Davy Gannet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought Drake and Hawkins, the large count, and the doubt about two commanders.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the merchants' count against Gannet's, and refused the ballad's destination.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Plymouth",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in It'll be spring",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "seven-and-twenty ships",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in It'll be spring",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Gannet's count and the merchants' letters",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Davy Gannet",
+    "George Bryan",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "six-and-thirty sail",
+    "the merchants' letters",
+    "Penzance",
+    "the ballad not bought"
+  ],
+  "quotes": [
+    {
+      "speaker": "davy_gannet",
+      "text": "Drake's out! Sir Francis and old Hawkins, from Plymouth, six-and-thirty sail and four thousand men"
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "That's what the ballad will say. Nobody's told me so."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It'll be spring before we know."
+    }
+  ]
+}

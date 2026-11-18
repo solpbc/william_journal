@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "19:20:00", "text": "The stalls are shut. The White Greyhound has its boards up.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "19:20:16", "text": "Venus and Lucrece are in there by day. Tonight I am not buying a book, and I am not stopping.", "timing": {"end": 34.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "19:20:34", "text": "Blackfriars is the fire. These pages are for that hearth. They come home after.", "timing": {"end": 44.0, "start": 34.0}}

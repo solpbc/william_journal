@@ -1,0 +1,103 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "At the end Richard said the lover is all haste, and that he is seven-and-twenty. You told him to play it at a run. Nick said he had marked the roll and had nothing to ask. Kemp's count is nine-and-twenty lines, a fan, and half a song he is not let finish. You asked him to keep Saturday supper free, for something that is not in this play. You stayed on you. Nothing was copied. This afternoon's Shrew is not you.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said play him at a run, and asked for Saturday without a page.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named his age and the haste, and refused a new speech at the door.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted nine-and-twenty, and stayed on you.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Marked the roll, asked nothing, and left.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the half song half, and kept the book shut.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "nine-and-twenty lines",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Keep Saturday free",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Saturday supper",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Keep Saturday free",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Asked Kemp to keep Saturday supper",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Burbage",
+    "William Shakespeare",
+    "John Heminges",
+    "Nick Sorrell",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "seven-and-twenty",
+    "nine-and-twenty lines",
+    "Saturday supper",
+    "nothing to copy"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "He's all haste. I'm seven-and-twenty."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Then play him at a run."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Nine-and-twenty lines, Sweet Master Shakespeare, a fan to carry, and half a song I'm not let finish."
+    }
+  ]
+}

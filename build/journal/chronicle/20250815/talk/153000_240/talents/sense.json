@@ -1,0 +1,67 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Richard came for the six pairs of sheep that you were to have walked back yourself after the frame. You could not go. He took them, and he will tell the man the writing was yours. You asked how to mend it if you could not be the legs, and you followed his answer: say carried, and stop. You did not go as far as the stair.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked how to mend it, said carried, and did not follow him down.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the six pairs and refused the speech.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "six pairs of sheep skins",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Richard takes the six",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Let Richard take the six pairs and stayed on the floor",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "six pairs",
+    "the walk not taken",
+    "Richard carries them"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_shakespeare",
+      "text": "I'll say at his door that the writing was yours."
+    },
+    {
+      "speaker": "richard_shakespeare",
+      "text": "If you want it carried, say carried."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Carried. Thank you. Say it was my hand."
+    }
+  ]
+}

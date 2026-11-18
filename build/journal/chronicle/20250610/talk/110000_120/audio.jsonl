@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "alse_pinder", "start": "11:00:00", "text": "The mistress says you were so still she feared you were dead.", "timing": {"end": 10.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:00:10", "text": "Somebody is. Tell her I'm well.", "timing": {"end": 20.0, "start": 10.0}}
+{"sentence_id": 3, "speaker": "alse_pinder", "start": "11:00:20", "text": "I'll tell her. Will you come down, sir? She will not hold a dinner forever.", "timing": {"end": 32.0, "start": 20.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "11:00:32", "text": "I am coming down. Tell her I did not walk once, and I am well.", "timing": {"end": 44.0, "start": 32.0}}
+{"sentence_id": 5, "speaker": "dorcas_ansell", "start": "11:00:44", "text": "I heard. Come down. I asked if you were dead, and you are not.", "timing": {"end": 54.0, "start": 44.0}}

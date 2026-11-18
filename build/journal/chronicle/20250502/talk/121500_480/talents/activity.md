@@ -1,0 +1,1 @@
+You sat the fish-day board and ate it. The loaf was a finger and a half short, at a penny, and the board was threepence. The firing sixpence stayed off the slate. Verbeke went to his own work under his own name. The one bough is still the allowance. You did not tell the table about Sunday.

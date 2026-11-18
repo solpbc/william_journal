@@ -1,0 +1,44 @@
+{
+  "overview": "You read the Rose bill at home. The title was the second part of Hercules, at two. There was no sum on it. You did not cross the river.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the title and kept north of the river."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the Rose bill",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Hercules",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "staying north",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Hercules",
+      "asset_type": "other",
+      "disposition": "Read Hercules' second part at the lodging"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-13",
+      "meaning": "Hercules, the second part"
+    }
+  ],
+  "summary": "Read Hercules' second part at the lodging"
+}

@@ -1,0 +1,1 @@
+At the Theatre door the eightpence was paid and the carter sent off. Nick asked if the stage was twice the inn's breadth. You had not paced it, and you did not invent the feet. Heminges told you not to look back at the yard, and nobody did. Garnish put the chest under two locks. The nine lines are still at the lodging, and you have not cut any yet.

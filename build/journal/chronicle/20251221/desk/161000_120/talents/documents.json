@@ -1,0 +1,43 @@
+{
+  "overview": "Home, by candle at four, you entered the porch gift under church and gifts. The line was two shillings, and no name beside it. You did not enter a new total.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the two shillings by candle and left the rest uncounted."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the ledger",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "two shillings",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "church and gifts",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no new total",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-21",
+      "meaning": "St Thomas, ij s"
+    }
+  ],
+  "summary": "Wrote the two shillings under church and gifts"
+}

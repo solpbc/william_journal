@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:25:00", "text": "The quire is still the one from Saturday. Fivepence, already spent, and enough paper for a blank.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:25:12", "text": "The ticket is in the sleeve. A hundred shillings, called near. It does not go into the book tonight. Nothing is posted.", "timing": {"end": 26.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:25:26", "text": "A fortnight is not a horse. Enough.", "timing": {"end": 36.0, "start": 26.0}}

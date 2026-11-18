@@ -1,0 +1,17 @@
+{
+  "narrative": "The writing-tables on the board under the window. Four short lines in his hand, and a blank under them. The stylus is down. No name in the margin. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked at the four lines, and put the stylus down."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in The leaf still standing"
+    }
+  ]
+}

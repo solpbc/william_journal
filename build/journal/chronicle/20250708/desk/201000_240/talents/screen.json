@@ -1,0 +1,17 @@
+{
+  "narrative": "You have played this afternoon. The play is not on this board. The morning's margin is still the margin. One sentence is underlined, and nothing about Thursday is written under it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Underlined the line, and left the hour off."
+    },
+    {
+      "type": "Project",
+      "name": "A Knack to Know a Knave",
+      "role": "mentioned",
+      "context": "Shown on draft in The wives, kept"
+    }
+  ]
+}

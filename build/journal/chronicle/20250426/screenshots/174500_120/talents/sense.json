@@ -1,0 +1,67 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "You looked at the broken gingerbread on a property chest. Four hands were at it. No face was in it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "One of the four hands, and not a face.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "One of the four hands.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "One of the four hands.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "One of the four hands.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the gingerbread",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Four hands",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Looked at four hands and the broken cake",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the gingerbread",
+    "the chest",
+    "four hands"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,43 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "In the fields you walked an old duke's forty lines from the cue, lost the town, took the cue again, and said there to a hedge. Between cues you tried how a king come home from sea might stoop and touch the earth, and what his lords would do with their faces, and you stopped it. Thursday is the duke.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the cue, the stumble, the word there, and the stop.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said there to a hedge",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cue",
+    "forty lines",
+    "there to a hedge",
+    "the stoop stopped"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "There. That was to the hedge. The hedge did not answer"
+    }
+  ]
+}

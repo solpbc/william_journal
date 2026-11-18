@@ -1,0 +1,68 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "You paid the Christmas quarter three days early, twenty shillings counted twice, because Thursday you will be up the river. Mistress Ansell wrote the receipt once, in her husband's law-hand. The latch, mended this morning by her joiner, shut the first time. She would not take money for it. She promised to air the chamber, leave the coffer unvisited, and keep Gib off the lord's book. You did not count what remained.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted twenty shillings twice, tried the latch, and left the chronicle in the room.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the latch-money, wrote the receipt, and set the terms for the empty chamber.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the room. Named as forbidden the lord's book.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Paid the Christmas quarter three days early",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twenty shillings",
+    "the receipt",
+    "the latch",
+    "the coffer unvisited"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "It is the house's latch, Master Shakespeare, and not the lodger's. Put your purse away."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Twenty shillings. Christmas is Thursday. I shall be up the river, so you have it now, three days early."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Gib may sleep on the bed, or on me. He may not sleep on the lord's book."
+    }
+  ]
+}

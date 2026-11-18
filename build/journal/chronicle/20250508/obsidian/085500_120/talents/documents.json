@@ -1,0 +1,49 @@
+{
+  "overview": "Still at the gate, you wrote under the day's list that they have Venice now, and Hercules. You did not turn the sentence into a plan to go.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the sentence, and shut the tables."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Venice",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Hercules",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the day's list",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Venetian Comedy",
+      "asset_type": "other",
+      "disposition": "Wrote that they have Venice now, and Hercules"
+    },
+    {
+      "name": "1 Hercules",
+      "asset_type": "other",
+      "disposition": "Wrote that they have Venice now, and Hercules"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-08",
+      "meaning": "Venice, and Hercules"
+    }
+  ],
+  "summary": "Wrote that they have Venice now, and Hercules"
+}

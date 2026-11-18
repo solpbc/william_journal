@@ -1,0 +1,17 @@
+{
+  "narrative": "The tables, four short words under the older single word, the pen set down. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the four words and stopped."
+    },
+    {
+      "type": "Tool",
+      "name": "the tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Four words"
+    }
+  ]
+}

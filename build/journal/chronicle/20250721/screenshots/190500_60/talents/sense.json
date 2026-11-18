@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "At home, by candle, the opened letter lay on the desk. The seal was broken. Dust from the road was still on the wrapper. No one else was in the frame.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Put it where the candle could find the hand.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Anne's letter",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Dust on the wrapper",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Left the opened letter on the desk",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the opened letter",
+    "the broken seal",
+    "the carrier's dust"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,59 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You came in before noon and gave Alse no account of the morning. Gib had left the stair. You said you would not touch the bundle, and you would not move a cat off a book. The basin waited for noon.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the morning out of the passage and left the bundle shut.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the cold hands as news enough and would not start a proof.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Came in before noon",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came home before noon",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "back before noon",
+    "no account",
+    "the bundle"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The morning agreed with itself."
+    }
+  ]
+}

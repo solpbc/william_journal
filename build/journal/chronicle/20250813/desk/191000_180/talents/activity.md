@@ -1,0 +1,1 @@
+One-handed, on the floor, you fair-copied three lines you had already written on Saturday. You did not add a speech. You did not mend the girl. The rest of the sheet stayed foul. On the tables, nothing.

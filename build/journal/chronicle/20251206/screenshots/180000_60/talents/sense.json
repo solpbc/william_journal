@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "At the gate of the Theatre you looked toward Shoreditch church under the full moon. You were still at the Theatre. You did not go into the church.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Looked toward the church, and did not enter it.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the full moon",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The moon, from the gate",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Saw the full moon over Shoreditch church from the gate",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the full moon",
+    "the church from the gate",
+    "still at the Theatre"
+  ],
+  "quotes": []
+}

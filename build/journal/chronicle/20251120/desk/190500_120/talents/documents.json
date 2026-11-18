@@ -1,0 +1,44 @@
+{
+  "overview": "You wrote one word under the board, the word bottom. You did not write the three words you had heard, and you did not start a page of the play.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the word and stopped."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "one word",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the blank quire",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no page",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the tables",
+      "asset_type": "other",
+      "disposition": "Wrote the word bottom"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-20",
+      "meaning": "One word"
+    }
+  ],
+  "summary": "Wrote the word bottom"
+}

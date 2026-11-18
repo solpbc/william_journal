@@ -1,0 +1,103 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At the Bishopsgate post Kemp set ten days of Lent and a coat of paint against your consciences, and you told him a conscience needs no elm boards. Raye, back from the Bankside, counted three hundred and twenty-five elm boards at twenty-four shillings, with lime-tubs beside them, and would not bring a receipt with the count. No second bill goes up tomorrow. Phillips was pleased, then admitted your own house spends in a pause as well. Both companies are idle. Tomorrow the Queen pays. You did not ask the day's taking, and you were not told it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered the paint with a conscience, and kept their purse off this side of the river.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the ten days against your fast, and did not get a taking.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the boards and the shillings, and swore to nothing else.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Was pleased, and then owned the same of your house.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "325 elm boards",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Ten days, and a coat of paint",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "24s",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Ten days, and a coat of paint",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Siege of London",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Ten days, and a coat of paint",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard three hundred and twenty-five elm boards at twenty-four shillings",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Will Kemp",
+    "William Shakespeare",
+    "William Blackwage, Ralph Raye, Richard Hoope",
+    "Augustine Phillips"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "ten days of Lent",
+    "elm boards",
+    "twenty-four shillings",
+    "no second bill",
+    "two idle companies"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "Ten days of Lent they got, and a new coat of paint out of it. We got our consciences."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A conscience needs no elm boards."
+    },
+    {
+      "speaker": "hired_men",
+      "text": "Three hundred and twenty-five elm boards, on the Bankside, at twenty-four shillings, and lime-tubs beside them."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "You noted the strap, still long, and the coffer, still twenty pound fifteen shillings and still shut. The letter to Anne waits until tomorrow, after the bells. You did not start it this morning.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the note and left the letter unstarted."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Named as the person the letter is for. Not here."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the strap",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "twenty pound fifteen",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the letter tomorrow",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "twenty pound fifteen shillings",
+      "asset_type": "other",
+      "disposition": "Left the letter for tomorrow"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-30",
+      "meaning": "After the bells"
+    }
+  ],
+  "summary": "Left the letter for tomorrow"
+}

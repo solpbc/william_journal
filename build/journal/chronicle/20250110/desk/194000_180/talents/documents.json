@@ -1,0 +1,51 @@
+{
+  "overview": "At home the tables show the line you wrote in the parlour, Edith viij s. owing. Lady Day. It is not your debt. It is not paid. You did not set a coffer total next to it, and you did not open an expected column.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Kept the line, and did not strike it."
+    },
+    {
+      "name": "Edith Kettlewood",
+      "role": "mentioned",
+      "formal_term": "Edith Kettlewood",
+      "appointment_tier": "not_applicable",
+      "context": "Named on the tables. Not in the room."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the tables line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Lady Day",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a debt left open",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Edith's eight shillings",
+      "asset_type": "other",
+      "disposition": "Looked at Edith's line on the tables"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-10",
+      "meaning": "Edith, on the tables"
+    }
+  ],
+  "summary": "Looked at Edith's line on the tables"
+}

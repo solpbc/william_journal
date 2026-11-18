@@ -1,0 +1,85 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Phillips took Nick under the note and did not pitch him up. Nick can hold it if he comes in under the note. You changed no word of hers. You told him the sixth, and not before, and you did not ask him to prove it to a yard. Last night's cut was walked: two hours and a half, and the thumb-biting in the first scene is out. You did not give him a line to fill the shorter street. Phillips would not count the mornings again. Saturday may name them. Nobody startled him. You did not put a second master on the line, and you did not name Arthur. He is not in this afternoon's play.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the sixth, walked the cut, and did not ask for a proof.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the note, and refused a new count of mornings.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the line, and chose to wait.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the sixth of December",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The sixth, and the thumb out",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The sixth, and the thumb out",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Walked the lovers' cut with Nick",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Augustine Phillips",
+    "Nick Sorrell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "under the note",
+    "the thumb out",
+    "the sixth",
+    "no count of mornings"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The sixth, and not before."
+    },
+    {
+      "speaker": "nick_sorrell",
+      "text": "I can hold it if I come in under the note."
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "I will not count the mornings again."
+    }
+  ]
+}

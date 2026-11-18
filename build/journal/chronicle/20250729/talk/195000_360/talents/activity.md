@@ -1,0 +1,1 @@
+The constable stopped you under a horn lantern, said assemblies were forbidden, and asked which chamber you belonged to. He called you a deficious vagrom, distrusted the knot, and gave you the yard's news of forty galleys and Plymouth. You did not correct him. He let you lie at the alehouse if you did not gather, and he told the tapster to comprehend all auspicious persons.

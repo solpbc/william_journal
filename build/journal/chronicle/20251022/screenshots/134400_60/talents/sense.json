@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "You walked north again. The road was the morning's road. The light was still the afternoon's, not dusk.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Walked, and did not turn aside.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "Bishopsgate",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Walked north again on the morning's road",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Walked back up Bishopsgate",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the same road",
+    "the ruts",
+    "the afternoon light"
+  ],
+  "quotes": []
+}

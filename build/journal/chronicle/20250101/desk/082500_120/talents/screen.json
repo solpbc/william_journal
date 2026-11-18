@@ -1,0 +1,17 @@
+{
+  "narrative": "The penny almanac open at February, the pen beside the second day. The March leaf, the pen beside the twenty-fifth.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Made the two marks."
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in Candlemas, and Lady Day"
+    }
+  ]
+}

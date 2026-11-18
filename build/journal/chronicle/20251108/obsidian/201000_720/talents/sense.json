@@ -1,0 +1,52 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "By one candle you wrote the boy's line for her face, then the drug, the kiss, and five words you did not copy out. You wrote her waking, the Friar's fear, the watch, and the dagger given its sheath. You stopped with the families still to be fetched. You did not walk. Gib was in the room and not on the sheet.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote to the dagger, and did not walk the lines.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Was in the chamber. He is not on the sheet.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in As far as the dagger",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote as far as the dagger and stopped",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the couplet",
+    "five words uncopied",
+    "the dagger",
+    "the families not fetched"
+  ],
+  "quotes": []
+}

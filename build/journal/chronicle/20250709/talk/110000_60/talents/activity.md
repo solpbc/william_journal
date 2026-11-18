@@ -1,0 +1,1 @@
+Field stopped at the foot of the stair and took the Italian book back. He let you reach a second clause and then asked whether the thing was written, rumoured, or known. You said you feared it. He left the Holinshed lent. Mistress Ansell heard it from the hall. It took about a minute.

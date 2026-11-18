@@ -1,0 +1,1 @@
+At breakfast you paid threepence for the meal and twopence for a horn of ink. Mistress Ansell filled it because yesterday's spoon had been in the galls. The Sunday letter stayed folded for Thursday. You had no newer word of your father than that he was mending. You did not open the sheet.

@@ -1,0 +1,67 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Three books lay signed for Richmond: the twenty-sixth, the twenty-seventh, and the twenty-eighth. Love's Labour's Lost, the lovers, and the Errors. No book of the king was on the table, and you did not put one there.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read the three titles and left the king unfetched.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Tilney",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Had signed, and was already turned away.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Three books, nothing of the king",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Three books, nothing of the king",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Three books, nothing of the king",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Saw three signed books for Richmond",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three books",
+    "Richmond",
+    "nothing of the king"
+  ],
+  "quotes": []
+}

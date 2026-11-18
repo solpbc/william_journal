@@ -1,0 +1,1 @@
+After morning prayer Master Thwaite would not put a feast into a book that does not have one. He had kept yesterday's sermon to one glass, and he would not say it again. Mistress Ansell left Saturday's supper where it was. Sir John Spencer sat his pew without a sword-bearer. You did not go to the gate. Dinner at her table is threepence. You did not start the tomb.

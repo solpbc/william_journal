@@ -1,0 +1,17 @@
+{
+  "narrative": "A line in the tables from the first of July. Seven shillings, set by for the Master, not entered as spent. The coffer is not open. You are not counting it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the line, and shut the book."
+    },
+    {
+      "type": "Tool",
+      "name": "the Revels fee",
+      "role": "mentioned",
+      "context": "Shown on ledger in Set by, not spent"
+    }
+  ]
+}

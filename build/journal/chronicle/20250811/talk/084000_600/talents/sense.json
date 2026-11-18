@@ -1,0 +1,98 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You ate the heel in the kitchen and let Tuesday be a count. Twelve men at seven, and the twenty shillings already gone into the timber. The ale is the cousin's. Your mother saw the grey at your temple and said she was not discussing it. Edmund stays for school, and Richard is the one who will be believed. You said you would be the dull one, and you said you would not take the orchard sheet to the barn.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Promised seven, and the dullness, and the sheet left behind.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the twenty shillings as spent, and sent the promise out of the kitchen.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Fed him the heel, and refused the grey as a topic.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the children, named school for Edmund, and asked for the hall clear.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the twenty shillings in the timber",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twelve men, and the heel of the loaf",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the cousin's ale",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Twelve men, and the heel of the loaf",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate the heel and promised to be the dull one",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare",
+    "Joan Shakespeare",
+    "Mary Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twelve men at seven",
+    "the twenty shillings",
+    "the grey at the temple",
+    "Edmund for school"
+  ],
+  "quotes": [
+    {
+      "speaker": "mary_shakespeare",
+      "text": "The twenty shillings is already gone into Sadler's oak."
+    },
+    {
+      "speaker": "mary_shakespeare",
+      "text": "The grey at thy temple I have also seen, and I am not discussing it."
+    },
+    {
+      "speaker": "joan_shakespeare",
+      "text": "He will stay if a carpenter tells him he lifts well."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Seven. I'll be the dull one."
+    }
+  ]
+}

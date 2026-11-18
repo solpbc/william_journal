@@ -1,0 +1,1 @@
+You read the king from the first gage to the castle wall. Two joins are still only marks, "here a messenger" and "here York, angry." You drew a line down the margin of a speech that had been pleasant to write, and you did not copy the speech out and did not strike it.

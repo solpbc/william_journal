@@ -1,0 +1,105 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "At the Cross Keys you rehearsed the comedy with the column beside Costard still open. Garnish read no total. Kemp wanted another pass at remuneration, and you told him Thursday may add and this morning may not. Burbage was told not to licence him. The watchet gown is still fifty shillings unpaid. Phillips kept Sam's song for tomorrow, and you left the ladies' refusal where you marked it on Sunday.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a new line, named Thursday at two, and left the ending alone.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the book, kept the margin blank, and would not mix lines with debts.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for another pass at remuneration and was told to say what is set down.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Warned him off marrying the ending, and kept Costard out of the first minute.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the cuckoo song for tomorrow and sent Nick to the top of the part.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the Princess on the book, and does not have the gown yet.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The column still open",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Rehearsed the comedy at the Cross Keys",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "William Shakespeare",
+    "Will Kemp",
+    "Richard Burbage",
+    "Augustine Phillips",
+    "Nick Sorrell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the open column",
+    "remuneration",
+    "fifty shillings",
+    "Thursday at two",
+    "the pause"
+  ],
+  "quotes": [
+    {
+      "speaker": "abel_garnish",
+      "text": "The column beside Costard is open, and I have no total to read you."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "The groundlings never paid a penny to hear what was set down."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I did not soften the refusal."
+    }
+  ]
+}

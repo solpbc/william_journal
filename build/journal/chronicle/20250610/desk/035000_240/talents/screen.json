@@ -1,0 +1,17 @@
+{
+  "narrative": "Field's Holinshed, the second volume, shut at the side of the board. The board is clear. Candlelight. No face. The shut book stays where it was put. No page of it is open. The pen is on the blotter and has not started. The same shut book, the same board. The chair has not moved. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Sat to the board with the chronicle shut."
+    },
+    {
+      "type": "Project",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "context": "Shown on book in The chronicle shut"
+    }
+  ]
+}

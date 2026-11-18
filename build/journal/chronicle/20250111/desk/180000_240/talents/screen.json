@@ -1,0 +1,23 @@
+{
+  "narrative": "The sheets on the settle, firelight, buttered eggs and ling not yet cleared. The Worthies have no names written out as parts. The messenger's half-line is blank. The year's sentence is under the blank, not inside it. The objection is not on this leaf. The foot of the sheet is the women's sentence. No song. No last line. Burbage has not heard it yet.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Opened the sheets and did not fill the line."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "context": "Not yet hearing it. Named as the man the pages are for."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on draft in The fifth act, as far as it goes"
+    }
+  ]
+}

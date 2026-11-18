@@ -1,0 +1,1 @@
+Burbage gave the crown away with his own hands and washed off his own balm. The three leaves were the ones no public house has heard. He sent for the glass, looked, and dashed it on the boards. The glass was four shillings, the first time and the only time. No one at the table stirred. Sir Robert did not move.

@@ -1,0 +1,17 @@
+{
+  "narrative": "The penny almanac held at the lodging window. The same printed line. The margin is still clear. Grey light on the page. No face. He turns to the week's column and back to the day. No mark of his hand on either leaf. No face. The almanac closed on the sill, the clasp not fastened. The street door is in the same grey light, out of the page. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Turned to the week and shut the almanac"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in Turned to the week and shut the almanac"
+    }
+  ]
+}

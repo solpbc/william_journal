@@ -1,0 +1,85 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "The supper was quieter than usual, and nobody said they were afraid. Pope was still wet from the bolster. Kemp meant to drink, thought better of it, meant to again, and the not-drinking got the laugh. He did it smaller, and he was surprised. Alice let it run until a table by the door turned, and then she set a jug down. You left with the timing. You did not leave believing every gathering in London is now forbidden.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Noticed the timing, and did not enlarge it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Did not drink, made the pause smaller, and was surprised.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat wet from the bolster, and refused a second reckoning.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alice Brambleby",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Let the business run, then set the jug down.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the bolster",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The cup, not the drink",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Left with the timing of Kemp's smaller pause",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alice Brambleby",
+    "Thomas Pope",
+    "Will Kemp",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cup not drunk",
+    "a smaller pause",
+    "the jug set down"
+  ],
+  "quotes": [
+    {
+      "speaker": "alice_brambleby",
+      "text": "The ordinary closes when the watch says, Master Kemp"
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "The not-drinking is getting the laugh"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The pause is the size of the laugh."
+    }
+  ]
+}

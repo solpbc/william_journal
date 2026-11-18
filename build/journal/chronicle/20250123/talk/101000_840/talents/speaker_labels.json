@@ -1,0 +1,76 @@
+{
+  "labels": [
+    {
+      "sentence_id": 1,
+      "speaker": "george_bryan",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 2,
+      "speaker": "william_shakespeare",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 7,
+      "speaker": "george_bryan",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 11,
+      "speaker": "george_bryan",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 12,
+      "speaker": "william_shakespeare",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 15,
+      "speaker": "george_bryan",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 16,
+      "speaker": "william_shakespeare",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 19,
+      "speaker": "george_bryan",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 20,
+      "speaker": "william_shakespeare",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 22,
+      "speaker": "william_shakespeare",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 23,
+      "speaker": "george_bryan",
+      "method": "user_assigned",
+      "confidence": "high"
+    },
+    {
+      "sentence_id": 25,
+      "speaker": "george_bryan",
+      "method": "user_assigned",
+      "confidence": "high"
+    }
+  ]
+}

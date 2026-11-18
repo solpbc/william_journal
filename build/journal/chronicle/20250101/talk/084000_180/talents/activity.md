@@ -1,0 +1,1 @@
+You came down to the foot of the stair after the pan. Mistress Ansell named sixpence for firing and washing and threepence for the board if you eat. You paid both, and said you would eat at noon. You told her the new leaf is still 1594, and that the Queen is in it for twenty pounds, not yet had. She told you to keep that money in the book. Alse offered the ink. You sent her back.

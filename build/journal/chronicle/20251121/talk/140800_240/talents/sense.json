@@ -1,0 +1,85 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Heminges said that on Saturday night he had set Friday as the Shrew and Saturday as Two Gentlemen, and that the leaf has the two days the other way. Today was Two Gentlemen, and you were in it. Tomorrow is the Shrew, and you are in that. He did not name your part in either. You did not supply a name. Nothing was entered for the correction.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Agreed to play the leaf, and refused a new name.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reversed the two days and would not name the parts.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted the leaf and the hour.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Two Gentlemen",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The leaf, the other way",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Shrew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The leaf, the other way",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard today was Two Gentlemen and tomorrow the Shrew",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the leaf the other way",
+    "Two Gentlemen today",
+    "the Shrew tomorrow",
+    "no part named"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "The leaf has the two days the other way."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Today is Two Gentlemen. You are in it. Tomorrow is the Shrew. You are in it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No new name for me in either."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At the end of the service you stood up without making a courtesy of it. Your mother said you had slept the lesson, and that she did not want the rest of the service retold at the door. You did not claim to have heard it. Anne said the street was short and dinner was next. You left the pew finished, and you did not make a courtesy of the door.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stood at the end of the service",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stood at the end of the service",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stood at the end of the service",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Sadlers' dinner",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Stood at the end of the service",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Sat the service at Holy Trinity",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare",
+    "Mary Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the end of the service",
+    "the lesson slept",
+    "dinner next"
+  ],
+  "quotes": [
+    {
+      "speaker": "mary_shakespeare",
+      "text": "You slept the lesson. If you heard anything after it, keep it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not tell you that I heard it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Dinner is at noon, and I am not making a courtesy of the door."
+    }
+  ]
+}

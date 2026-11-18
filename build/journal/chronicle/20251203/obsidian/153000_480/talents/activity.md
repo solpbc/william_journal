@@ -1,0 +1,1 @@
+At home you wrote the two hearings of the vault cue and did not choose. One hearing has the cressets already up. The other has the fire on the word light. Thursday's copy is to keep one of them. You set the apparel's two hours and fifty minutes beside the court cut of two hours and a half, and you did not mix them. You wrote no price under the hall.

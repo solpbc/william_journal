@@ -1,0 +1,3 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "17:10:00", "text": "Titus is done. The packet is where I left it. Thursday.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "17:10:12", "text": "John will call when he knows. I do not know tonight, and I will not write a sum I have not heard.", "timing": {"end": 22.0, "start": 12.0}}

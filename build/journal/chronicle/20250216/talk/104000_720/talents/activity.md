@@ -1,0 +1,1 @@
+At St Helen's you heard Master Thwaite name Lent and turn the sand-glass a second time. He said he would be brief, and Mistress Ansell did not believe him. Sir John Spencer sat three rows ahead and did not speak to you. You came away with the fast named, and with nothing else from the pew.

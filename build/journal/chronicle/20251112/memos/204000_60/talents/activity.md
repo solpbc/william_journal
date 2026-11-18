@@ -1,0 +1,1 @@
+You said the Scythian had been in your ear through Gaunt, and that you had not crossed. You said the three leaves were warm in the hand, and that this was not a scene, and that they stay in Garnish's chest.

@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "You woke at one with the left side going, and the clove was on the board. You did not get up to write.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Woke at one, and stayed in the bed.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the clove",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in One of the clock",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Woke at one and stayed down",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one of the clock",
+    "the left side",
+    "the clove"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "One of the clock. The left side. The clove is on the board where I left it."
+    }
+  ]
+}

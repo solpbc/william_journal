@@ -1,0 +1,59 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "From a rise in the afternoon you saw London's smoke lying flat and brown along the river, from Westminster to the Tower. Three weeks ago you walked out of it with your head down. Hobbins said she wants everything by Thursday. The string did not pause, and nor did you.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Looked, and kept walking.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the city, and what it wants.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "London",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in There she is",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Saw London's smoke from the rise",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Hobbins",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the smoke on the river",
+    "Hobbins's welcome",
+    "the string not stopping"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_hobbins",
+      "text": "There she is. Dear, dirty, and wants everything by Thursday."
+    }
+  ]
+}

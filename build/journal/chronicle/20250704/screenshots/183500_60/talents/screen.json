@@ -1,0 +1,17 @@
+{
+  "narrative": "The proclamation nailed at the gate, the royal arms at its head, a mounted provost's man in a gorget beyond.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Stood where the post and the man beyond it were both in view."
+    },
+    {
+      "type": "Tool",
+      "name": "the 4 July proclamation",
+      "role": "mentioned",
+      "context": "In photo: Nailed at the gate"
+    }
+  ]
+}

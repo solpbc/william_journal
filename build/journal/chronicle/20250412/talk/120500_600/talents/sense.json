@@ -1,0 +1,98 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At her table Mistress Ansell asked whether you had given Anne her opinion of the forsworn gentlemen. You had. Anne had said the ladies were right to make them wait, and a twelvemonth was short. That silenced her for a herring. The loaf was a finger and a half short of the notch, and it was not put on a pan. Verbeke asked after the corn. You said it was up and thin, and you named no price. Alse asked if the children were like you. You gave her the three sentences. Mistress Ansell said they were well, and she took the threepence. The coffer was not counted again. Verbeke kept his name.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered for Anne, the corn, and the children, and paid threepence without a new count.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked the question, was stopped by the answer, judged the loaf, and took the threepence.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the finger and a half, and asked after the children.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked whether the corn was up, and did not ask for a price or a new name.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Stayed under the bench.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A finger and a half",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Gave Anne's opinion and paid the threepence",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the forsworn gentlemen",
+    "a finger and a half",
+    "corn up and thin",
+    "threepence"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "She said the ladies were right to make them wait, and a twelvemonth was short."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The elder girl corrects me. The younger mocks me. The boy outruns me."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Then they're well."
+    },
+    {
+      "speaker": "gillis_verbeke",
+      "text": "Is the corn up?"
+    }
+  ]
+}

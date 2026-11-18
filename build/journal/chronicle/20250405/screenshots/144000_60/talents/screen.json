@@ -1,0 +1,17 @@
+{
+  "narrative": "The path to Shottery across wet meadow; a woman's back in a grey gown, ten paces ahead",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "In Ten paces ahead"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "context": "Walked ahead, her back to the path behind her."
+    }
+  ]
+}

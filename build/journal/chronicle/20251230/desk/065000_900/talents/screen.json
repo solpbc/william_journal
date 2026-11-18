@@ -1,0 +1,29 @@
+{
+  "narrative": "The arithmetic line is in. No pounds-and-shillings total sits under it. The coffer has not moved. Lower on the sheet. Three short paragraphs, headed by the three names, each about as long as the others. No fourth name. The last lines. The pen is still in the hand. There is no wafer on the table.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Wrote nine pounds more, and a paragraph for each child"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "context": "Visible/present in Wrote nine pounds more, and a paragraph for each child"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "context": "Visible/present in Wrote nine pounds more, and a paragraph for each child"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "context": "Visible/present in Wrote nine pounds more, and a paragraph for each child"
+    }
+  ]
+}

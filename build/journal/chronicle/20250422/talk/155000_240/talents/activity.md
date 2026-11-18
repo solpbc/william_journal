@@ -1,0 +1,1 @@
+Coming off Errors, Kemp asked for a better door and you left him the one the play gives him. John Heminges said tomorrow's Shrew does not cast you, and that Thursday's hired men are ten shillings apiece. You did not say the Shrew would be cancelled.

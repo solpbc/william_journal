@@ -1,0 +1,98 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "After the play Kemp brought a scrap that made him the Nurse's man with a fan. You wrote, on a drum, three minutes of Peter and the musicians beside the bed. The fiddlers' names come out of their catgut, and you did not spell them. Cowley's wage is ten shillings a week, and the insult is not a second wage. Kemp called it a crust and took it. You did not write the vault.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Wrote the turn, kept the names unspelled, and did not start the vault.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Demanded a scene, called the result a crust, and took it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Cowley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked if the insult was a wage, and was told it was not.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named as the likely writer of the scrap. He was not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A crust you'll make them laugh at",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A crust you'll make them laugh at",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Wrote the three minutes on a drum",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Will Kemp",
+    "William Shakespeare",
+    "Richard Cowley"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the fan",
+    "three minutes",
+    "names out of catgut",
+    "ten shillings",
+    "the crust"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "It's short."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It's what the scene will bear."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "It's a crust, Master Shakespeare."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Then it's a crust you'll make them laugh at."
+    }
+  ]
+}

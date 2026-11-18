@@ -1,0 +1,63 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Speaking alone after Gilbert's call, you added the three debts aloud (41s, 44s 6d, and 14s 6d) to reach exactly 100s, or \u00a35, which Gilbert had called near \u00a35. You noted that the 14s 6d whittawer's debt was the same sum Anne had written in her postscript as not needing to trouble you, and that nothing was paid.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Did the sum at the window and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "\u00a35 on the shop-ticket",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Five pound, called near",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "14s 6d at the whittawer's",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Five pound, called near",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Added the three debts aloud to five pound",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a hundred shillings",
+    "five pound called near",
+    "the same fourteen and six",
+    "nothing paid"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "A hundred shillings. Five pound, if you are strict. He called it near."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A shop-ticket is a sum. It is not a warrant."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+At night you wrote the girl alone with the vial, on a loose leaf. You wrote the two lines of the fear, and the call for the Nurse. She has not drunk. You did not untie the red bundle, and you did not put this leaf into it.

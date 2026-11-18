@@ -1,0 +1,1 @@
+After you had said the jaw was healed, you ate the end piece and did not make a speech of it. The loaf was still a thumb short. Gib stayed on the brick, and the book stayed shut. Mistress Ansell repeated the one candle. Alse set the basin for later, not during the meal. You said you would bring no title home at two or after.

@@ -1,0 +1,46 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "You said the weaver's going and coming twice, the second time bigger, the way Kemp fills a yard. You said the feet would give you away before you did. You left the bellows-mender's line for the page, and you told yourself to write it and not to count.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke it twice and turned to the clean sheet.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Tried the weaver's lines in a bigger voice",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the weaver",
+    "the bigger voice",
+    "no count"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "He goes off a man. He comes back not."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Write it, and do not count."
+    }
+  ]
+}

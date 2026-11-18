@@ -1,0 +1,1 @@
+Home, you felt the company drop back into its six-day gear. You counted the day as fifty-two shillings, fourteen lines, five men back on ten shillings, and an oath that sounded long. You did not begin the letter.

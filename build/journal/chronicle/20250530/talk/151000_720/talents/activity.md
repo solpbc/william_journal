@@ -1,0 +1,1 @@
+You played the Knave in the afternoon. Cowley came through the dry place once and apologised to nobody. Your eight lines held. Heminges would not call the play mended. Pope would not call once a triumph. You said you were not proud of the eight, and that Kemp has not been shown the king.

@@ -1,0 +1,62 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "At the west window you said a hundred yards had weighed like the whole City, and that a lamp was put out. The oriel of Crosby Place was dark, the first time since January, and there were no halberds at the gate. You put the other thing out too. You did not go down to the gate. You did not give the woman a name.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the distance, put the other thing out, and stayed in the lodging.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "the lady of the parish",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned only as the other thing. She was not named.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Crosby Place",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A lamp put out",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Saw the oriel of Crosby Place dark",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the dark oriel",
+    "a hundred yards",
+    "the gate"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "A hundred yards, and it weighed like the whole City."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not going down to the gate."
+    }
+  ]
+}

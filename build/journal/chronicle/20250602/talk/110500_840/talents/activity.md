@@ -1,0 +1,1 @@
+You rehearsed The Comedy of Errors with Phillips, Cowley and Pope. The hat was on the wrong peg and fell when the door stuck. Phillips set the entrance at twelve paces from the property-chest, and Cowley came in on "anon." You told them to let the hat fall at two, if it fell, and go on. The bill is two of the clock.

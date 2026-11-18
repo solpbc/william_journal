@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "meeting",
+  "activity_summary": "You came off dead by the third act and out of the gown by four. Burbage said the yard did not thin. You would not give the side a name on the way home. Kemp spent the name, and you did not offer him a fool in that part. You put the scarf on and left the name on the peg.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came off, and would not name the side.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Marked him done by the third, and sent him home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spent the name, and was not offered a new fool.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Came off dead by the third act, out of the gown by four",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Burbage",
+    "William Shakespeare",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "out of the gown",
+    "no name",
+    "the scarf"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "Dead by the third, and the gown off by four, and the yard did not thin for the want of thee."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not giving it a name on the way home."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Sweet Master Shakespeare, out of a gown and into a scarf."
+    }
+  ]
+}

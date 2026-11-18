@@ -1,0 +1,142 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "In the long room you bowed to an empty chair, once. Sam had done it four times and was corrected. The Master left Pope's Nurse standing, took forty lines out of a lament over a girl who is not dead, and you were annoyed because the shorter act was better. A yeoman lent two cloaks, Prince and Paris, to be returned on Innocents' night and counted. Nick was heard under the note and was not lifted. The Master signed the three Richmond books and said nothing of the king. Bryan put nine of the clock, after supper, and the bow, onto the tables.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the note, admitted the cut was better, and named the three days.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Tilney",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the Nurse, took forty lines, and signed three books with nothing of the king.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Drilled the empty chair, and put the bow on the tables.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Bowed four times, then accepted once.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the Nurse's words, and lost the long lament.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Marked the Nurse, the forty, the cloaks, and the silence about the king.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a longer death, and refused a cloak that was not his.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Spoke low, under the note, and was not asked to go higher.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Bow to the empty chair",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Bow to the empty chair",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Bow to the empty chair",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Bowed once, lost forty lines, and took two cloaks in hand",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "George Bryan",
+    "Sam Latchet",
+    "William Shakespeare",
+    "Edmund Tilney",
+    "Thomas Pope",
+    "John Heminges",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the empty chair",
+    "the Nurse left",
+    "forty lines",
+    "two cloaks",
+    "nothing of the king"
+  ],
+  "quotes": [
+    {
+      "speaker": "george_bryan",
+      "text": "In a presence chamber, lads, you bow to the chair even when the chair is empty."
+    },
+    {
+      "speaker": "edmund_tilney",
+      "text": "Her Majesty was nursed. Leave it."
+    },
+    {
+      "speaker": "edmund_tilney",
+      "text": "It is a pretty play. The fourth act is prettiest where it is shortest."
+    },
+    {
+      "speaker": "edmund_tilney",
+      "text": "I have nothing at all to say of the king."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "narrative": "A small book, new, on a board in the churchyard. Cheap paper. No author's name on the front. A hand opens it standing. The book falls open of itself. One line is the line. The two pages after are his, mostly, with holes. Nothing further is copied onto this sheet. The book is closed and set back on the board. It is not in the hand. Another man is at the elbow, not yet speaking.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Opened it standing, read, and did not buy it."
+    },
+    {
+      "type": "Person",
+      "name": "Michael Drayton",
+      "role": "mentioned",
+      "context": "At his elbow, not yet speaking."
+    },
+    {
+      "type": "Project",
+      "name": "The True Tragedie of Richard Duke of Yorke",
+      "role": "mentioned",
+      "context": "Shown on book in Pembroke's name, and not his"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "narrative": "A single sheet, the seal broken, a child's drawing in the lower corner of a man on a stage with his arms out, and three short lines above it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the opened letter a second time and did not answer it."
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "context": "Had written the roof, the money, and the porch."
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "context": "Had written the correct line and the label."
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "context": "Had reported the race."
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "context": "Had drawn the man with his arms out."
+    },
+    {
+      "type": "Company",
+      "name": "Chapel Street",
+      "role": "mentioned",
+      "context": "Shown on letter in The second reading"
+    }
+  ]
+}

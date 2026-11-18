@@ -1,0 +1,58 @@
+{
+  "overview": "On the corner of the table you added the fourth line to Sunday's three. The tooth is out, the king draws, and you are well. You did not write a Christmas promise, and you did not write Daniel into the letter.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the line on the corner and signed it."
+    },
+    {
+      "name": "Thomas Hobbins",
+      "role": "attendee",
+      "formal_term": "Thomas Hobbins",
+      "appointment_tier": "not_applicable",
+      "context": "Waited while the ink was wet enough to read."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "The person the paper is for. She is not at the table."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the fourth line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the corner of the table",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no extra anecdote",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the letter",
+      "asset_type": "other",
+      "disposition": "Wrote the fourth line at the Bell"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-23",
+      "meaning": "The fourth line"
+    }
+  ],
+  "summary": "Wrote the fourth line at the Bell"
+}

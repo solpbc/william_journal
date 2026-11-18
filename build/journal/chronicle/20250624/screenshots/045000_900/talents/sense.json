@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "You stood under your own lintel a quarter of an hour. Every door in the close was dressed with green birch, fennel, St John's wort, and white lilies, and the lamp over the Ansells' door was still burning against the daylight. The close smelled of last night's ash. Nobody else was up but the sparrows. You did not go south of Cornhill, and you were in by six.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Stood the quarter of an hour, and did not go south of Cornhill.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Stood a quarter of an hour under the lintel",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the dressed doors",
+    "the lintel",
+    "the sparrows"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,17 @@
+{
+  "narrative": "The first line still there. Under it, a new line in a smaller hand. The smear of the last try is at the edge. No face. The two plain lines. He has not written a cup, a vial, or a drink. The bundle is still a red knot at the side. No face. The stylus lifted. The page is those two lines and nothing under them. One candle. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Wrote that her door was shut"
+    },
+    {
+      "type": "Project",
+      "name": "the loose leaf",
+      "role": "mentioned",
+      "context": "Shown on draft in Wrote that her door was shut"
+    }
+  ]
+}

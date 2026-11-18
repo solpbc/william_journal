@@ -1,0 +1,6 @@
+{"accuracy":"full","fix_count":4,"gap":false,"kind":"location","platform":"ios","schema":"solstone.location.segment/1","source":"location","tier":"balanced"}
+{"alt":null,"course":340.2,"h_acc":12.0,"lat":52.1916,"lon":-1.7003,"schema":"solstone.location.fix/1","speed":1.35,"stationary":false,"t":"2025-03-28T18:10:00Z","v_acc":null}
+{"alt":null,"course":null,"h_acc":10.0,"lat":52.1916,"lon":-1.7003,"schema":"solstone.location.fix/1","speed":null,"stationary":true,"t":"2025-03-28T18:10:00Z","v_acc":null}
+{"alt":null,"course":null,"h_acc":10.0,"lat":52.1916,"lon":-1.7003,"schema":"solstone.location.fix/1","speed":null,"stationary":true,"t":"2025-03-28T18:12:00Z","v_acc":null}
+{"alt":null,"course":null,"h_acc":10.0,"lat":52.1916,"lon":-1.7003,"schema":"solstone.location.fix/1","speed":null,"stationary":true,"t":"2025-03-28T18:14:00Z","v_acc":null}
+{"arrival":"2025-03-28T18:10:00Z","departure":"2025-03-28T18:25:00Z","h_acc":12,"lat":52.1916,"lon":-1.7003,"schema":"solstone.location.visit/1"}

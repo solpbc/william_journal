@@ -1,0 +1,95 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You came out by the south porch still carrying the last chord of Morley's four-part anthem, and Mistress Ansell said your name twice before you answered. Sir John Spencer went ahead without sword-bearer or halberds and looked at nobody. Master Thwaite had reached the second of the four last things. You spoke to none of Spencer's party, and you went home when she told you dinner would not wait.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered on the second naming, and left the line to follow him home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said his name twice, and took him out of the wind.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Morley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the four parts, and told him a song is not a sermon.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he had reached the second of the four last things, and sent them to eat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Passed out of his pew without sword-bearer or halberds, and looked at nobody.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "four-part anthem",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The south porch",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard Mistress Ansell say the name a second time",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Thomas Morley",
+    "Master Josias Thwaite"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the south porch",
+    "four-part anthem",
+    "the second last thing",
+    "Sir John Spencer",
+    "a name said twice"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Are you unwell, or only a poet?"
+    },
+    {
+      "speaker": "thomas_morley",
+      "text": "Four parts. The boys held the close of it, which is more than a cold church usually allows a treble."
+    },
+    {
+      "speaker": "josias_thwaite",
+      "text": "I began upon the four last things. I reached the second."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At dinner she took the journey as a plot: a fire, a walk, a barn, a back. She asked if the man in it is the wiser. You said he has seen a house he means to buy. She asked with what. You said that is the fourth act. You did not name a price. The loaf is still a full thumb short of the notch. Verbeke said the looms are quiet and nobody has shouted at him since Lammas. You did not ask him to say more than that.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told the fire, the walk, the barn and the back, and refused a sum.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the plot, asked the question, and sent the fourth act back.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the notch, and remembered a girl who is not in today's plot.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the looms quiet since Lammas.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the great house by the chapel",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in That is the fourth act",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in That is the fourth act",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Told her the house is the fourth act",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "fire walk barn back",
+    "the fourth act",
+    "the loaf a thumb short",
+    "the looms quiet"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "And is the man in it the wiser?"
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "With what?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "That is the fourth act, Mistress."
+    },
+    {
+      "speaker": "gillis_verbeke",
+      "text": "Nobody has shouted at me since Lammas."
+    }
+  ]
+}

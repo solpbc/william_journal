@@ -1,0 +1,29 @@
+{
+  "narrative": "The afternoon's bill at the Theatre door. His name is not required on it, and he is not cast. No face. The Rose's title, read and left. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the two titles, and left."
+    },
+    {
+      "type": "Project",
+      "name": "Richard III",
+      "role": "mentioned",
+      "context": "Shown on bill in Two titles, and not his afternoon"
+    },
+    {
+      "type": "Project",
+      "name": "Wonder of a Woman",
+      "role": "mentioned",
+      "context": "Shown on bill in Two titles, and not his afternoon"
+    },
+    {
+      "type": "Company",
+      "name": "the Rose",
+      "role": "mentioned",
+      "context": "Shown on bill in Two titles, and not his afternoon"
+    }
+  ]
+}

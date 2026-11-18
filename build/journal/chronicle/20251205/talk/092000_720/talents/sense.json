@@ -1,0 +1,129 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "You worked tomorrow's street fight with Sly and Phillips, and you did not play it. Sincler kept the starved apothecary and the twopence that will not be spent on padding. Edith moved the hook at the back of Sam's collar, which he cannot reach, and you said that hook is not the fastening on Nick's hand. Burbage asked for more than five words at the death. You told him you had not answered. The answer stays out of the rehearsal.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Marked the fight for Saturday, and refused to choose the death before tonight.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Sly",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the ground for Tybalt, and did not ask for a speech.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the distance, and kept Nick's order about not being startled.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Sincler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked to be left unpadded, and named twopence as the saving.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Moved the hook Sam could not reach, and said it was not Nick's fastening.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood still for the hook, and kept his hands off the back of it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for ten lines in place of five, and was told to wait for the night.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The brawls, and the fastening",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "2d padding not spent",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The brawls, and the fastening",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The brawls, and the fastening",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Did not answer Burbage on the five words",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Sly",
+    "Augustine Phillips",
+    "Sam Latchet",
+    "William Shakespeare",
+    "John Sincler",
+    "Edith Kettlewood",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "tomorrow's Tybalt",
+    "twopence in padding",
+    "Sam's hook",
+    "five words not yet answered"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_sincler",
+      "text": "Write me a starved apothecary, Will, and save the company twopence in padding."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have not answered."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Do not think I have agreed to five."
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250622",
+    "end": "20250628"
+  },
+  "generated_at": "2025-06-28T22:00:00Z",
+  "days": [
+    {
+      "day": "20250622",
+      "state": "memory",
+      "memory_id": "m-20250622-0"
+    },
+    {
+      "day": "20250623",
+      "state": "memory",
+      "memory_id": "m-20250623-1"
+    },
+    {
+      "day": "20250624",
+      "state": "memory",
+      "memory_id": "m-20250624-2"
+    },
+    {
+      "day": "20250625",
+      "state": "memory",
+      "memory_id": "m-20250625-3"
+    },
+    {
+      "day": "20250626",
+      "state": "memory",
+      "memory_id": "m-20250626-4"
+    },
+    {
+      "day": "20250627",
+      "state": "memory",
+      "memory_id": "m-20250627-5"
+    },
+    {
+      "day": "20250628",
+      "state": "memory",
+      "memory_id": "m-20250628-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250622-0",
+      "key": "mem_20250622_0",
+      "day": "20250622",
+      "text": "The glass was turned twice at St Helen's. You ate with Mistress Ansell, and the loaf was a thumb short. You said Midsummer is Tuesday.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250622/talents/morning_briefing",
+        "briefing_day": "20250622",
+        "refs": [
+          "sol://facets/writing/activities/20250622#frame_074000_360",
+          "sol://facets/household/activities/20250622#meeting_092000_480",
+          "sol://facets/household/activities/20250622#meeting_113000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250623-1",
+      "key": "mem_20250623_1",
+      "day": "20250623",
+      "text": "You looked at the forty leaves and played Navarre. The watch was doubled at the parish fire. Mistress Ansell stayed twenty minutes.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250623/talents/morning_briefing",
+        "briefing_day": "20250623",
+        "refs": [
+          "sol://facets/writing/activities/20250623#frame_094000_240",
+          "sol://facets/company/activities/20250623#frame_140200_120",
+          "sol://facets/company/activities/20250623#meeting_161000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20250624-2",
+      "key": "mem_20250624_2",
+      "day": "20250624",
+      "text": "Twenty-five pounds after the rent. Sixty shillings set apart, inside that count. The loaf cut four ways.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250624/talents/morning_briefing",
+        "briefing_day": "20250624",
+        "refs": [
+          "sol://facets/household/activities/20250624#photo_045000_900",
+          "sol://facets/company/activities/20250624#meeting_091500_240",
+          "sol://facets/company/activities/20250624#frame_095000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250625-3",
+      "key": "mem_20250625_3",
+      "day": "20250625",
+      "text": "You told the house the king. She called the uneasy reign a bad example, with the knife down.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250625/talents/morning_briefing",
+        "briefing_day": "20250625",
+        "refs": [
+          "sol://facets/writing/activities/20250625#frame_101000_240",
+          "sol://facets/household/activities/20250625#meeting_181500_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20250626-4",
+      "key": "mem_20250626_4",
+      "day": "20250626",
+      "text": "You sent threescore shillings by Heminges's man and named the three children. The Rose's day was its last.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250626/talents/morning_briefing",
+        "briefing_day": "20250626",
+        "refs": [
+          "sol://facets/stratford/activities/20250626#frame_082000_360",
+          "sol://facets/company/activities/20250626#meeting_091500_240",
+          "sol://facets/company/activities/20250626#frame_094000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20250627-5",
+      "key": "mem_20250627_5",
+      "day": "20250627",
+      "text": "The memo was at his door, ours. She barred the shutter. Twenty were taken, heard later.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250627/talents/morning_briefing",
+        "briefing_day": "20250627",
+        "refs": [
+          "sol://facets/writing/activities/20250627#frame_093000_240",
+          "sol://facets/company/activities/20250627#meeting_155000_480",
+          "sol://facets/household/activities/20250627#photo_194000_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250628-6",
+      "key": "mem_20250628_6",
+      "day": "20250628",
+      "text": "Eight shillings, received. You meet Monday and see what Monday is.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250628/talents/morning_briefing",
+        "briefing_day": "20250628",
+        "refs": [
+          "sol://facets/writing/activities/20250628#note_101000_180",
+          "sol://facets/company/activities/20250628#meeting_141000_180",
+          "sol://facets/company/activities/20250628#meeting_170000_120"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250622-0",
+      "key": "said_20250622_0",
+      "day": "20250622",
+      "quote": "You turned it twice, Master Thwaite, and you were not brief.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250622#meeting_092000_480"
+      }
+    },
+    {
+      "id": "s-20250623-1",
+      "key": "said_20250623_1",
+      "day": "20250623",
+      "quote": "A feast with the guard set on it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250623#memo_224000_60"
+      }
+    },
+    {
+      "id": "s-20250623-2",
+      "key": "said_20250623_2",
+      "day": "20250623",
+      "quote": "It ought to be the merriest night of the year.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250623#memo_224000_60"
+      }
+    },
+    {
+      "id": "s-20250624-3",
+      "key": "said_20250624_3",
+      "day": "20250624",
+      "quote": "I will not argue a candle into a loaf.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250624#meeting_113000_360"
+      }
+    },
+    {
+      "id": "s-20250625-4",
+      "key": "said_20250625_4",
+      "day": "20250625",
+      "quote": "A king who thinks the name is the thing. A cousin wronged, who comes back for his own and takes everything.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250625#meeting_181500_720"
+      }
+    },
+    {
+      "id": "s-20250626-5",
+      "key": "said_20250626_5",
+      "day": "20250626",
+      "quote": "A rumour is not a decision. One more tumult is their sentence, not ours, until somebody writes it down as ours.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250626#meeting_171000_720"
+      }
+    },
+    {
+      "id": "s-20250627-6",
+      "key": "said_20250627_6",
+      "day": "20250627",
+      "quote": "I am not a crowd. I was not in theirs.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250627#meeting_155000_480"
+      }
+    },
+    {
+      "id": "s-20250628-7",
+      "key": "said_20250628_7",
+      "day": "20250628",
+      "quote": "The only safe house in London tomorrow is a shut one, and it is Sunday, thank God.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250628#meeting_170600_840"
+      }
+    }
+  ]
+}

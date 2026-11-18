@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Simon Waterson brought you to the ordinary and left. Daniel told you he had come to Shoreditch last week, in a plain cloak, to see the king, and that he still mistrusts a penny yard. The boy speaking the Queen's sorrow made his stanzas seem cold marble. You said the stanzas had taught you where to look. The Civil Wars cost two shillings in April. You talked of the second Richard as a joint in a piece of work, where the chronicle bends and where the play cheats. There was no edge. The jaw managed the wardens and you declined the crust. You parted at Paul's Chain.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the two shillings of April, credited the stanzas, and declined the crust.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Samuel Daniel",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Owned the visit in the plain cloak, judged his own stanzas, and refused a victory.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "Civil Wars",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Wardens, and no edge",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the king play",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Wardens, and no edge",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Ate the wardens with Daniel",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Samuel Daniel",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the plain cloak",
+    "cold marble",
+    "the declined crust",
+    "Paul's Chain"
+  ],
+  "quotes": [
+    {
+      "speaker": "samuel_daniel",
+      "text": "I still mistrust a penny yard."
+    },
+    {
+      "speaker": "samuel_daniel",
+      "text": "You have been kinder to Richard than I was, and less kind to the truth."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The jaw manages the wardens and declines the crust."
+    }
+  ]
+}

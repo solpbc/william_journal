@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "You looked up into the tower arch at the bell-ropes going through the dust, and at the ringers in their shirtsleeves. You did not single out a face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Looked up, and left the faces unnamed.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "St Helen's",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Bell-ropes",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Looked up at the bell-ropes",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the bell-ropes",
+    "the dusty light",
+    "the ringers"
+  ],
+  "quotes": []
+}

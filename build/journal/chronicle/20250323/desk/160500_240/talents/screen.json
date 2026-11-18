@@ -1,0 +1,29 @@
+{
+  "narrative": "The upper shelf. A cloth is over the large book, and a grey flank is already on the cloth. Brooke is the thinner book beside it, uncovered, left. The bag is in the room and out of the middle of the frame.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Covered the one book and left the other."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Sat the cloth."
+    },
+    {
+      "type": "Project",
+      "name": "Holinshed, second volume",
+      "role": "mentioned",
+      "context": "Shown on book in Under the cloth"
+    },
+    {
+      "type": "Project",
+      "name": "Brooke's Romeus and Juliet",
+      "role": "mentioned",
+      "context": "Shown on book in Under the cloth"
+    }
+  ]
+}

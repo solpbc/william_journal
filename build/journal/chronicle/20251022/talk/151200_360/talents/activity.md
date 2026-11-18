@@ -1,0 +1,1 @@
+Kemp came off with the rope and told you the yard had laughed. You had not seen it. He said the dog was a Christmas story, that it did not come on, and that it was not in his hand. You left the rope on the bench and said you would not write it down. Pope said he would keep your rule about the door.

@@ -1,0 +1,1 @@
+You kept morning prayer with the almanac open on your knee. You did not mark the page. You heard the minister and kept none of the sermon. The Lord Mayor's back was in the pew ahead, and he did not turn.

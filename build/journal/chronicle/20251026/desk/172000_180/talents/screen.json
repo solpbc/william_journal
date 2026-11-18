@@ -1,0 +1,23 @@
+{
+  "narrative": "The letter on the board, the supper-story ruled through, the brook and the plain part left standing. The coffer lid is open at the bed's foot. The money below is not opened. No face. The foot of the sheet. No pounds, no shillings, no day of riding. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the line, and left the sum unwritten."
+    },
+    {
+      "type": "Tool",
+      "name": "the letter",
+      "role": "mentioned",
+      "context": "Shown on letter in In the coffer lid"
+    },
+    {
+      "type": "Tool",
+      "name": "the coffer",
+      "role": "mentioned",
+      "context": "Shown on letter in In the coffer lid"
+    }
+  ]
+}

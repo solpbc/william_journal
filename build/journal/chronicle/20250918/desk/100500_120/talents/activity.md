@@ -1,0 +1,1 @@
+Standing, as you read everything, you had the book in your hands. Harrison found the leaf. In the margin, small, two words: Sweet Shakspeare. You read them, and the names above and below, and you read them again. What stood round the two words was too small to take.

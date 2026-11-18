@@ -1,0 +1,1 @@
+Near the middle of the day a hired rider who had passed at a hand-gallop was leading the horse lame. Hobbins did not turn his head. He said he has known three that rode post, and has outlived them, and that soft and steady has the miles. You did not offer the spare. The rider blamed the shoe. You walked on.

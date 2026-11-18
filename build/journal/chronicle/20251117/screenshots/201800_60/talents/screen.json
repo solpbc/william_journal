@@ -1,0 +1,29 @@
+{
+  "narrative": "A bonfire at a street corner at night. Steeples behind it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Stood off the middle of it."
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "mentioned",
+      "context": "Was with the household, and is not a face in the picture."
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "mentioned",
+      "context": "Was let out, and is not a face in the picture."
+    },
+    {
+      "type": "Project",
+      "name": "the bonfire",
+      "role": "mentioned",
+      "context": "In photo: The corner fire"
+    }
+  ]
+}

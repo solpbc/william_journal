@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote Saturday's share as six-and-twenty shillings, and under it that the coffer stands as ruled on the twenty-second, at twenty pound fifteen shillings. You did not add the share. You did not make a new total.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the share, and did not open the coffer.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "six-and-twenty shillings",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Six-and-twenty, not ruled in",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "twenty pound fifteen shillings",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Six-and-twenty, not ruled in",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Wrote six-and-twenty beside the old ruling",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "six-and-twenty shillings",
+    "the coffer not added to",
+    "twenty pound fifteen"
+  ],
+  "quotes": []
+}

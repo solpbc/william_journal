@@ -1,0 +1,17 @@
+{
+  "narrative": "The folder open. A single private leaf, no name at the head. The clove has done less since the play than it did during it. No face. He strikes through my and writes thy above the line, and then he sits a long while with his hands off the paper. He strikes through thy, writes my beside it, and turns the leaf face down into the folder. No name has been added. He does not hand it to anyone.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Made the change, undid it, and put the leaf away."
+    },
+    {
+      "type": "Tool",
+      "name": "the folder",
+      "role": "mentioned",
+      "context": "Shown on draft in My for thy, and back"
+    }
+  ]
+}

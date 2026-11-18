@@ -1,0 +1,23 @@
+{
+  "narrative": "An open gathering of the foul papers on James's table, the sheet well on in the scene, oak-gall dry. Dick's hand is flat on the cloth beside the leaf, not on the writing. Your finger holds the two lines.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Held the two lines under a finger and did not revise them."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "context": "Left his hand flat beside the leaf."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in Sit upon the ground"
+    }
+  ]
+}

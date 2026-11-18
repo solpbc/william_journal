@@ -1,0 +1,94 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Mistress Ansell said it was no comedy, that you had walked like a man following a hearse and then stood. You said he was dying, and that you are, in the second act. She called that the most sensible thing you have yet done in a play. The loaf is still a finger and a half short. The board was three pence. You were not cast, and you did not open the third act. Verbeke stayed at the stair and kept his own name.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the hearse, accepted the second act, and kept the account at three pence.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered, sat, and refused a third act.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the walking from first light, and was not given a side.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed at the foot of the stair, and did not ask the king's name.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Moved first, when you stood.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A hearse, and then you stood",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Told Mistress Ansell of dying in the second act",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the hearse",
+    "the second act",
+    "three pence",
+    "no third act"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "That was no comedy. You walked like a man following a hearse, and then you stood"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am. In the second act"
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "That is the most sensible thing you have yet done in a play"
+    }
+  ]
+}

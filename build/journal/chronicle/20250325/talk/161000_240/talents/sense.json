@@ -1,0 +1,72 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You went to evening prayer and left the receipt at the house. Master Thwaite kept the hour to the day. Mistress Ansell sat it without counting the twenty shillings again. You leave in the morning.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came without the receipt, and said he leaves in the morning.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the hour on the day, and did not preach him to the door.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat it, and declined to count the quarter a second time in the pew.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "20s the quarter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The day, not the receipt",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Went to evening prayer",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "evening prayer",
+    "Lady Day",
+    "the receipt left behind"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have not brought the receipt into the pew."
+    },
+    {
+      "speaker": "josias_thwaite",
+      "text": "This hour is the day. Let it be the day, and not a saddle-bag."
+    }
+  ]
+}

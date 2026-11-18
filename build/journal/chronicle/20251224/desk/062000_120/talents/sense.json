@@ -1,0 +1,36 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "Before light, with both locks off, you kept nine shillings out for the journey and counted the rest. The rest was thirty-three pounds, even. You did not add the nine back, and you did not write another total beside it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Kept nine shillings out and did not fold them back into the total.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Counted thirty-three pounds and kept nine shillings out",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "nine shillings",
+    "thirty-three pounds",
+    "both locks",
+    "no second total"
+  ],
+  "quotes": []
+}

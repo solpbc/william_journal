@@ -1,0 +1,129 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You sat in the family pew at Holy Trinity and counted the row: your mother, Anne, three children, Joan, and two brothers. Your father was the gap. The sermon was on patience. Anne said she had asked her question yesterday and would not ask it under a hymn. You told her you had not brought a fourth answer. No one filled the gap. The vicar was not named.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the row and a gap, and said he had no fourth answer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept yesterday's question out of the pew.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the empty place empty, and gave the neighbours a plain reason.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set Richard and Edmund in the row, and would not let the gap be used as a seat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat on William's left, and did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Offered to sit forward, and was told to stay.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the word patience, and said the sword was still on the nail.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the word and not the smile, and called the sword an inventory.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Heard in the row. He did not fill the gap.",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "Holy Trinity",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in One gap",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Counted the pew at Holy Trinity, and Father was the gap",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mary Shakespeare",
+    "William Shakespeare",
+    "Anne Shakespeare",
+    "Joan Shakespeare",
+    "Edmund Shakespeare",
+    "Susanna Shakespeare",
+    "Judith Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the empty place",
+    "patience",
+    "the row",
+    "yesterday's question"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Mother, Anne, three children, Joan, two brothers. One gap."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "I asked my question yesterday. I am not asking it under a hymn."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have not brought thee a fourth answer in my pocket."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "narrative": "The new book lies open at the second book. His left finger holds a place. No stanza is copied onto a sheet. The heavy chronicle lies open beside it. His right finger keeps a page. The cat is shifted to the outer margin and is not off the book.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read with a finger in each, and copied nothing."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Stayed on the chronicle."
+    },
+    {
+      "type": "Project",
+      "name": "Civil Wars",
+      "role": "mentioned",
+      "context": "Shown on book in A finger in each"
+    },
+    {
+      "type": "Project",
+      "name": "the chronicle",
+      "role": "mentioned",
+      "context": "Shown on book in A finger in each"
+    }
+  ]
+}

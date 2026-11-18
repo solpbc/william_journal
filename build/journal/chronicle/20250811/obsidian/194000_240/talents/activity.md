@@ -1,0 +1,1 @@
+After supper you wrote the prices down so you would not improve them in talk. New wheat at six-and-thirty shillings the quarter, the penny loaf as the size of that, the six pairs still on the bench, and the twenty shillings already out of the belt. You set Wednesday as the day of the walk. You did not add a total.

@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You read the letter a second time on the desk. The date was Tuesday the fifteenth, the place the north end beyond the Rother Market. The last lines told you not to come for the fire, and to come for harvest if you come. You did not write on the leaf.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Read it and did not answer it tonight.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Anne's letter",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Her hand, the second time",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Read the last lines again",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the fifteenth",
+    "the north end",
+    "harvest"
+  ],
+  "quotes": []
+}

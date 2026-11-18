@@ -1,0 +1,59 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the brook she asked whether London is where you work or where you live. You said both, and that a man may have a trade in one town and a house in another. She said that was three answers. She left it, and asked the price of London butter. You had Thursday's fourpence, and no London price. You did not replace the first answer.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said both, and did not replace it with a single answer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked once, counted three, left it, and asked about London butter.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Gave three answers at the brook",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Anne Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the brook",
+    "three answers",
+    "London butter"
+  ],
+  "quotes": [
+    {
+      "speaker": "anne_shakespeare",
+      "text": "I'll ask one thing and then leave it. Is London where you work, Will, or where you live?"
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "That was three answers. I asked for one."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Both. A man may have a trade in one town and a house in another."
+    }
+  ]
+}

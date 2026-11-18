@@ -1,0 +1,13 @@
+{"day": "20250816", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "102000_480", "stream": "talk", "ts": 1755384900000}
+{"change_class": "substantive", "day": "20250816", "event": "sense.change_detect", "mode": "segment", "segment": "102000_480", "stream": "talk", "ts": 1755384900001}
+{"day": "20250816", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "102000_480", "stream": "talk", "ts": 1755384900002}
+{"day": "20250816", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "164000_600", "stream": "talk", "ts": 1755384900010}
+{"change_class": "substantive", "day": "20250816", "event": "sense.change_detect", "mode": "segment", "segment": "164000_600", "stream": "talk", "ts": 1755384900011}
+{"day": "20250816", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "164000_600", "stream": "talk", "ts": 1755384900012}
+{"day": "20250816", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "172000_120", "stream": "screenshots", "ts": 1755384900020}
+{"change_class": "substantive", "day": "20250816", "event": "sense.change_detect", "mode": "segment", "segment": "172000_120", "stream": "screenshots", "ts": 1755384900021}
+{"day": "20250816", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "172000_120", "stream": "screenshots", "ts": 1755384900022}
+{"day": "20250816", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "172000_120", "stream": "screenshots", "ts": 1755384900023}
+{"day": "20250816", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "205000_60", "stream": "memos", "ts": 1755384900030}
+{"change_class": "substantive", "day": "20250816", "event": "sense.change_detect", "mode": "segment", "segment": "205000_60", "stream": "memos", "ts": 1755384900031}
+{"day": "20250816", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "205000_60", "stream": "memos", "ts": 1755384900032}

@@ -1,0 +1,44 @@
+{
+  "overview": "You wrote one sentence and did not send it. You do not know the day of a Lent journey, and you will not write a yes to be rid of the question. Anne's letter was still open. Nothing went to the Bell.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the sentence and did not seal it."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the unsent sentence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Lent",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the open letter",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Bell",
+      "asset_type": "other",
+      "disposition": "Wrote the Lent sentence on the open letter"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-25",
+      "meaning": "Not a yes"
+    }
+  ],
+  "summary": "Wrote the Lent sentence on the open letter"
+}

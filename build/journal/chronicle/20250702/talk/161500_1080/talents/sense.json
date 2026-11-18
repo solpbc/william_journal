@@ -1,0 +1,98 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You had played Two Gentlemen. Nick came on the whistle once, and John heard that he was not late. Augustine says the Rose is still dark, and he has no figure for it. You refused the figure. Garnish still has the king. You are not counting his leaves. Kemp's noise about the roads was reported and not answered. You are going home by the same road, with nothing in your hands.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called the afternoon the right size, refused a sum, and went.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported one clean entrance, and went toward Aldermanbury.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped a second run, and said the Rose flag was not up.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Confirmed the boy was not late, and parked the roads.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Two Gentlemen of Verona",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in After Two Gentlemen",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Rose",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in After Two Gentlemen",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Came off Two Gentlemen",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Augustine Phillips",
+    "Nick Sorrell",
+    "William Shakespeare",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the whistle",
+    "the Rose dark",
+    "the king still with Garnish",
+    "no road chosen"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Busy is the right size of an afternoon"
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "The Rose is still dark"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A sum is not mine"
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Their house is shut. Ours was open"
+    }
+  ]
+}

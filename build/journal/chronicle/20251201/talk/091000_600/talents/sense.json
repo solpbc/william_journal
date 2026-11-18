@@ -1,0 +1,122 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "At the Theatre you kept the window to eight lines so Nick could hold Juliet under the note. Phillips stopped the one climb, on the name, and no other fault. Arthur's hem is already let down twice, and there is no more hem. You put Pope's question about Saturday's Nurse off to Wednesday. Garnish named two hours and a half for the court roll. The thumb-biting is already out. You left for Paul's with Navarre still to play at two.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the eight lines, refused the Nurse's argument, and left for Paul's.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Played the window at a run and kept his eyes on Nick.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held under the note, and would not discuss the doublet.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped the climb on the name, and left the rest alone.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked how funny the Nurse may be on Saturday, and was told Wednesday.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the book, and kept the court cut where the 26th had put it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Entered as the Lady, and said the hem will not go down again.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Five mornings",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Five mornings",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Kept the window to eight lines for Juliet",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "Richard Burbage",
+    "Nick Sorrell",
+    "Augustine Phillips",
+    "William Shakespeare",
+    "Arthur Meeks",
+    "Thomas Pope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "five mornings",
+    "under the note",
+    "the Lady's hem",
+    "Wednesday's apparel",
+    "Navarre at two"
+  ],
+  "quotes": [
+    {
+      "speaker": "nick_sorrell",
+      "text": "I can hold it if I come in under the note, sir. If I come in on it, it goes."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Not this morning, Thomas. Wednesday is the whole tragedy in apparel."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "Two hours and a half for the court roll, and the thumb-biting in the first scene is already out."
+    }
+  ]
+}

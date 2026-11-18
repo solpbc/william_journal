@@ -1,0 +1,63 @@
+{
+  "overview": "You stood by the left-hand post. Alleyn filled the house. Henslowe stayed at the door with his lips moving, and neither of them spoke to you. It is a lost play, and the title is what you have: an English king of that name, a yard that knew before the first trumpet how it comes out, and cheering for a man who wins. They are the same faces that go quiet for Burbage. They pitied the king who loses and shouted for the king who wins, and they paid a penny either way. You did not bring a plot away with you.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Stood by the left-hand post and did not move to a bench."
+    },
+    {
+      "name": "Edward Alleyn",
+      "role": "visible",
+      "formal_term": "Edward Alleyn",
+      "appointment_tier": "not_applicable",
+      "context": "Filled the house, and did not speak to him."
+    },
+    {
+      "name": "Philip Henslowe",
+      "role": "visible",
+      "formal_term": "Philip Henslowe",
+      "appointment_tier": "not_applicable",
+      "context": "Kept the door, lips moving, and did not speak to him."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the left-hand post",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a king who wins",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a penny either way",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Harry the Fifth",
+      "asset_type": "other",
+      "disposition": "Stood by the left-hand post at the Rose"
+    },
+    {
+      "name": "the yard",
+      "asset_type": "other",
+      "disposition": "Stood by the left-hand post at the Rose"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-28",
+      "meaning": "The left-hand post"
+    }
+  ],
+  "summary": "Stood by the left-hand post at the Rose"
+}

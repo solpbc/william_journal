@@ -1,0 +1,1 @@
+Before you went out you told the house the leaf on the desk was not to be sent. Alse said she would dust round it and not read it. You named an errand at Holborn and said you would be back to eat before the Errors.

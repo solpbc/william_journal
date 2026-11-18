@@ -1,0 +1,1 @@
+You were still on the palace side of the green, and you took the walk. The button stayed lost, and Heminges kept Kemp's story for the inn down the river, not for this grass and not for the Feathers. Phillips allowed no song. Two borrowed cloaks stayed uncounted until daylight. You, Heminges, and Bryan have the one bed. This is the one Sunday, and the prayer is at the inn.

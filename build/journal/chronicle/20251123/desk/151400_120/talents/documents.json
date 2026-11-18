@@ -1,0 +1,51 @@
+{
+  "overview": "The sheet held two lines and no stroke through them. The rest of the leaf was blank. Gib slept on the folio at the edge of the board. The fog was on the pane. You did not add a word in the minute after.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Held the sheet and did not mark it."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Slept on the folio."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "two unstruck lines",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a blank leaf",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the cat on the folio",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Chaucer",
+      "asset_type": "other",
+      "disposition": "Left the two lines standing"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-23",
+      "meaning": "Left as it came"
+    }
+  ],
+  "summary": "Left the two lines standing"
+}

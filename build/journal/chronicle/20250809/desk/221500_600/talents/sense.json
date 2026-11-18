@@ -1,0 +1,42 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "You wrote her question at the top of the sheet, and the rose under it. The boy was made to wait. You did not give him the opening.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote her lines before his.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the orchard scene",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in She speaks first",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Let her speak first",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the name",
+    "the rose"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,17 @@
+{
+  "narrative": "The board cleared for Lent: the comedy's foul sheets tied on the shelf, Brooke on the left, a fresh quire, pens cut, a new horn of ink.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Stood at the cleared board and did not put the cat on it."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "In photo: The board cleared"
+    }
+  ]
+}

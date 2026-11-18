@@ -1,0 +1,79 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Home, you said the walk. Over the Bridge, slowly, the first time since May, and home the same way to save the penny. Alleyn's king never doubts, and fills the house like water in a jug. Five weeks for yours.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the three sentences in his chamber.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edward Alleyn",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named, not present.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Longshanks",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Home, and the penny saved",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard the Second",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Home, and the penny saved",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "a penny",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Home, and the penny saved",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said the Bridge walk and the penny saved",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Bridge",
+    "the penny saved",
+    "water in a jug",
+    "five weeks"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Over the Bridge for the first time since May, slowly, and home by the Bridge again to save the penny"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Their king is all is. Mine is all seems. Five weeks"
+    }
+  ]
+}

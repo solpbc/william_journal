@@ -1,0 +1,1 @@
+At the door, in the grey, Anne told you to mend the back, and to say something when you write. You said you would mend what a road can mend, and that you would not bring a price or a prettier no. You did not wake the children. Richard already had the pack. You did not promise a day for coming back, and you did not promise the house.

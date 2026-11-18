@@ -1,0 +1,1 @@
+Near midnight a third candle had gone to the socket. You walked because lying made the gum worse, and you wrote nothing. You knew she would count the candles, and you knew the count would not be the girl.

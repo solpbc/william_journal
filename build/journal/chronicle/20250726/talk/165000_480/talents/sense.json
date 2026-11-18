@@ -1,0 +1,104 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Before the jig, Margery brought the court post. On Wednesday, at six in the morning, four galleys put men ashore in Mount's Bay. Mousehole is burned, and Newlyn, and Penzance, and the church at Paul on the hill. Kemp asked if it was four galleys or forty. Bryan said if it were forty you would not have played to the end, and that galleys burn and go and cannot lie on that coast. Pope danced the old woman's part and got his laugh. By the jig the yard had made it forty galleys and Plymouth taken. You kept the four places, and left Plymouth in the yard. The play was the best Saturday of the month, and the part you played is not named here.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept Mousehole, Newlyn, Penzance and Paul, in that order.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the court post with her box.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered forty with the end of the play, and sent the galleys off the coast.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked four or forty, and heard the yard choose.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Danced the old woman, and got the laugh.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept Plymouth out of the court post.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the court post",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Four galleys, or forty",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard four galleys and four burned places",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Goodwife Margery Pell",
+    "John Heminges",
+    "Will Kemp",
+    "George Bryan",
+    "William Shakespeare",
+    "Thomas Pope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "four galleys",
+    "Mousehole",
+    "the yard's forty",
+    "Plymouth left out"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "Four galleys, or forty?"
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "If it were forty we'd not have played to the end."
+    },
+    {
+      "speaker": "margery_pell",
+      "text": "Mousehole is burned."
+    }
+  ]
+}

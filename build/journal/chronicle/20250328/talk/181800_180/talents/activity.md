@@ -1,0 +1,1 @@
+Richard began with the hay, which is dear. He took the bay. He gave Edmund's question and Joan's table before anything you would have asked. You did not make a speech on the bridge. The river is up. Anne and your mother are in the house.

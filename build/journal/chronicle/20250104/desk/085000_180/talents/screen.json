@@ -1,0 +1,17 @@
+{
+  "narrative": "The foul sheet from yesterday, the morning light on the same two lines, the pen adding under them. The pen laid across the blank, the rest of the leaf empty.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the two lines and stopped."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on draft in The ladies, and no sentence"
+    }
+  ]
+}

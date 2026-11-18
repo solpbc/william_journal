@@ -1,0 +1,121 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You packed two shirts, the hose, the tables, and a quire, and you rolled the lath sword in the grey cloak. The children's things were four separate knots. Mistress Ansell asked whether your wife knows the plot. You said not yet, and that you would tell her the opinion. Alse has never been ten miles. Warwickshire is a hundred. Brooke stays on purpose. Holinshed stays under a cloth, against Gib. The sixty shillings stay in the canvas until tomorrow. The bay is not taken. The long page stays face down.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Packed, promised the opinion, and left both books.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked with the quire in her hand, and named tomorrow as the day she counts.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Tied the knots, and measured a hundred miles against the ten she has never travelled.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat the cloth, and was not promised a flat one.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Holinshed, second volume",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Four knots",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Brooke's Romeus and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Four knots",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "20s the quarter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Four knots",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "6d firing",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Four knots",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "60s in canvas",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Four knots",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Packed the four gifts in separate knots",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "four knots",
+    "the opinion",
+    "a hundred miles",
+    "the books left"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Not yet."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Tell her mine opinion of it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A hundred miles."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "On purpose. Brooke stays."
+    }
+  ]
+}

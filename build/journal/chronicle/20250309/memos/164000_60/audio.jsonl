@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "16:40:00", "text": "Fourteen and six, and it need not trouble me. It's meant to.", "timing": {"end": 10.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:40:10", "text": "She put it in another ink so a man in a hurry could laugh at the horse and miss the rest. I did that. Hobbins asked if it was good news. Just news. It's rarer.", "timing": {"end": 24.0, "start": 10.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "16:40:24", "text": "The sharp one is too sharp for a whittawer's bill. A bill is not a sermon.", "timing": {"end": 44.0, "start": 24.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "16:40:44", "text": "There. Very fierce, and nothing paid.", "timing": {"end": 50.0, "start": 44.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "16:40:50", "text": "Enough.", "timing": {"end": 60.0, "start": 50.0}}

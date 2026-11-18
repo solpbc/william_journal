@@ -1,0 +1,17 @@
+{
+  "narrative": "The plot by the parlour door at the morning rehearsal. The Shrew at two. Your name is not among the entrances. You are not writing yourself in. A short note in the margin, not a part. You are going home when the morning is done. You will not come back at two to be useful.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the plot and went home."
+    },
+    {
+      "type": "Project",
+      "name": "The Taming of the Shrew",
+      "role": "mentioned",
+      "context": "Shown on plot in Not on this afternoon's plot"
+    }
+  ]
+}

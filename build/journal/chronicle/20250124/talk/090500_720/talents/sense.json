@@ -1,0 +1,92 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Heminges came for the book and you took it as far as the door. The way you named was out by Moorgate to the priory. Seven shillings, if Tilney signed, were company coin. Edith's eight shillings stayed owing till Lady Day. No part was in the bundle. Richard the Third at two was not yours. The letter stayed on the table.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Carried the book, left the letter, and named the way.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came for the book and kept the fee off William's coffer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Fed a well man, and kept the letter on the table.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in As far as the door",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard III",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in As far as the door",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Faustus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in As far as the door",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Took the book as far as the door",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the book",
+    "the seven shillings",
+    "the door"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "The fee, if he signs, is seven shillings."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Moorgate, then the priory."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A signature is not a dinner."
+    }
+  ]
+}

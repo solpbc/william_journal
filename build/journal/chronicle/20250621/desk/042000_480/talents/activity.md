@@ -1,0 +1,1 @@
+From first light you wrote Pomfret, the king alone, hammering out how a prison may be a world. The City has been quiet three days. Gib was on the shut Holinshed, and you let him lie. You did not write the music yet, or the groom, or the end.

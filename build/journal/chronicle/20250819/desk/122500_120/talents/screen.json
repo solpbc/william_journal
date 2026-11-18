@@ -1,0 +1,23 @@
+{
+  "narrative": "The writing-tables open against a horse's flank, dust on the board, a hand keeping the leaf from the wind. No face. The same leaf, a second block of the same hand, the flank shifting the board. Nothing else is on it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the friar and the four beats, and closed the tables."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on tables in Against the horse"
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Against the horse"
+    }
+  ]
+}

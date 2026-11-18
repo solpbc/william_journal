@@ -1,0 +1,1 @@
+Yaxley set you on a joined stool, with a boy to hold your shoulders, and told you to hold the stool and think on your sins. You named pride, and you got as far as the second sin and no further. He showed you the tooth, three roots like a small black claw, and you would not keep it. The price was twelve pence. You left with a clout at the jaw.

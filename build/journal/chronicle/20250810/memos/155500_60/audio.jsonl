@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "15:55:00", "text": "Why did they not simply use the door. I don't know. The book doesn't say.", "timing": {"end": 16.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "15:55:16", "text": "She heard that. She is keeping it. I am not making it better in a kitchen.", "timing": {"end": 32.0, "start": 16.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "15:55:32", "text": "The boats are on the step. The knife is home.", "timing": {"end": 42.0, "start": 32.0}}

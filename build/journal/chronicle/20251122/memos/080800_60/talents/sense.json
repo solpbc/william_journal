@@ -1,0 +1,58 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "After the call you heard Anne's letter in your head and laughed without a sound. Quiney did not hear it. You did not tell him. Monday at six stands. You asked him for nothing.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Laughed without sound.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Her letter was in his head. She was not on the call.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Anne's letter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Without sound",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Laughed to himself after the call",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the laugh without sound",
+    "the letter unsent",
+    "nothing asked"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The laugh did not make a sound. He did not hear it."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "At the window you said what had reached you from Southwark market. About three hundred apprentices had taken the butter, asked at fivepence, and sold it at threepence, and had paid the money over. Five hundred pounds, by one telling. You said they had paid, and that they would be whipped as thieves, and you asked who was whipping the women who had asked fivepence. You did not leave the house. The sheets were still on the board.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the news at the window and kept the door shut.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Southwark market",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in They paid",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said the butter was sold at threepence and stayed at the window",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Southwark",
+    "threepence",
+    "fivepence",
+    "a just price"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "They paid. That's the thing. They didn't steal it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A just price sounds different depending on whether you buy or sell."
+    }
+  ]
+}

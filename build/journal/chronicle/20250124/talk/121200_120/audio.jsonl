@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "john_heminges", "start": "12:12:00", "text": "Hold the book a moment. Item, to the Master of the Revels, for the allowing of the comedy, seven shillings. Entered.", "timing": {"end": 22.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "12:12:22", "text": "Two oaths, John. Two.", "timing": {"end": 30.0, "start": 22.0}}
+{"sentence_id": 3, "speaker": "john_heminges", "start": "12:12:30", "text": "Two. He has been known to take a scene.", "timing": {"end": 40.0, "start": 30.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "12:12:40", "text": "I was never cut so little, and felt it so much.", "timing": {"end": 50.0, "start": 40.0}}

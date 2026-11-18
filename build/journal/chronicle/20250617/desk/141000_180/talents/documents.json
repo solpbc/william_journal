@@ -1,0 +1,39 @@
+{
+  "overview": "In the afternoon you were at the Theatre in Fair Em. The strip in your hand was your cues. It was not a book of the play, and it was not the king.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Played in Fair Em and set the strip down after."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Fair Em",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the cue-strip",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Fair Em",
+      "asset_type": "other",
+      "disposition": "Played in Fair Em"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-17",
+      "meaning": "Fair Em"
+    }
+  ],
+  "summary": "Played in Fair Em"
+}

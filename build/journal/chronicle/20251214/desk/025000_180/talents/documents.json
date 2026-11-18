@@ -1,0 +1,38 @@
+{
+  "overview": "You left the letter open on the table. The date is the fourteenth of December 1595. You did not write the things you are holding back, and you did not seal the sheet. The private leaves stayed under the canvas.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Left the letter open and went back to bed."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "no seal",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "one thing withheld",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the coffer shut",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-14",
+      "meaning": "Not sealed"
+    }
+  ],
+  "summary": "Sanded the close and folded the letter once"
+}

@@ -1,0 +1,23 @@
+{
+  "narrative": "A narrow leaf of the account book. One new line. The old ruling of the coffer copied as a pointer, not as a new sum. No coins stacked into a total. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the share, and did not open the coffer."
+    },
+    {
+      "type": "Tool",
+      "name": "one-and-thirty shillings",
+      "role": "mentioned",
+      "context": "Shown on ledger in One-and-thirty"
+    },
+    {
+      "type": "Tool",
+      "name": "twenty pound fifteen shillings",
+      "role": "mentioned",
+      "context": "Shown on ledger in One-and-thirty"
+    }
+  ]
+}

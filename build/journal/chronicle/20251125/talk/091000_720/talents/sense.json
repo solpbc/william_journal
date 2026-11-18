@@ -1,0 +1,102 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "At the morning rehearsal the book on the peg was the cut book of Richard. You are Gaunt: the dying, the garden, and the counsel, and no longer part than that. Three leaves stay under the book. You are not playing a deposition, and you are not feeding Burbage a speech out of the chest. Abel Garnish marked the cut plot and refused a page at the door. John kept the tally shut. Nick was not called. Nobody is to startle him, and Arthur's hems were not this morning's work. You promised again that tomorrow's naming would have no surprise from you. The chest stayed shut.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named Gaunt, kept the three leaves under the book, and promised no surprise.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Pegged the cut book, shut the tally, and held him to the morning's promise.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a speech out of the chest, and kept the counsel to the book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Marked the cut plot and would not take a fourth leaf.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the cut book",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three leaves under the book",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "three leaves",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three leaves under the book",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Gaunt",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Three leaves under the book",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Left three leaves under the book",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Abel Garnish"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cut book",
+    "three leaves",
+    "Gaunt",
+    "the boy not called"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Three leaves. They stay under the book."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "The tally stays shut."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "You have the dying, and the garden, and the counsel."
+    }
+  ]
+}

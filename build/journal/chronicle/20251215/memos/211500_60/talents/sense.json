@@ -1,0 +1,55 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Alone, you said you have not got a third poem. You named the duke, the four lovers, and the weaver, and you said none of them is a book for Field's Friday. You kept the second volume as not done with you. You stopped on the goose.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the poem is not there, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Not a book for Friday",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Refused the poem again, alone",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "no third poem",
+    "the weaver",
+    "the book not returned",
+    "Sunday's goose"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "None of them is a book for his Friday."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The book is not done with me."
+    }
+  ]
+}

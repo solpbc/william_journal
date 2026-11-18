@@ -1,0 +1,6 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "16:50:00", "text": "It is a marvel how small an ailment is, and how much of a man's morning it will command.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:50:14", "text": "Fourteen lines, and a corner cut off so I should not look at a blot.", "timing": {"end": 28.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "16:50:28", "text": "They asked if I was ill. I said I was well. I could have worked, had they left the stair.", "timing": {"end": 44.0, "start": 28.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "16:50:44", "text": "Titus went on at two without me. I am not in it. That is not the loss.", "timing": {"end": 56.0, "start": 44.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "16:50:56", "text": "The loss is the morning. \u2026Enough.", "timing": {"end": 66.0, "start": 56.0}}

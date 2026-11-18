@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 240.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "hamnet_shakespeare", "start": "14:28:40", "text": "That wand. The straight one. Judith will take the one that looks like a song.", "timing": {"end": 120.0, "start": 40.0}}
+{"sentence_id": 2, "speaker": "judith_shakespeare", "start": "14:30:00", "text": "I will take the one the willow gives me. I am not choosing a lesson with it.", "timing": {"end": 190.0, "start": 120.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "14:31:10", "text": "One each, when I cut. Nobody has a hull yet. Sit still enough for a knife.", "timing": {"end": 220.0, "start": 190.0}}
+{"sentence_id": 4, "speaker": "susanna_shakespeare", "start": "14:31:40", "text": "I am sat. The book is on my knee, and it is dry, and it is shut until there are boats.", "timing": {"end": 230.0, "start": 220.0}}

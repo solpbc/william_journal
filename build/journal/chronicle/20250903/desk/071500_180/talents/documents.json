@@ -1,0 +1,44 @@
+{
+  "overview": "You were copying the second act down from the tables. The friar at dawn, with his basket, and the line the carrier gave him: wisely and slow, they stumble that run fast. The copy was going down fair.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Copied, and left the line as it stood."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the friar",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the basket",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "wisely and slow",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the friar",
+      "asset_type": "other",
+      "disposition": "Copied the friar down"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-03",
+      "meaning": "Going down fair"
+    }
+  ],
+  "summary": "Copied the friar down"
+}

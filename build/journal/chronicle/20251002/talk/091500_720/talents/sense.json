@@ -1,0 +1,108 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "The morning kept the fourth act cut. The king goes off at Flint a king and comes on a prisoner, and York reports the unmaking. The deposition is not played. Pope will not invent one in the garden. Nick's high line has a grain in it, not a break, and you told him to keep it. The glass may sit on the throne until half past one, as Richard's habit, and it is not a restoration. After Gaunt you are at the door. You cannot be the dead man and the witness in the same breath.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the cut, and took the door as his place after Gaunt.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted the hole where the crown changes offstage, and kept the glass as a habit.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called the fourth act a report, and kept the parliament off the plot.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the grain, and was told not to force it back to a boy's note.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused to grow a deposition out of a garden.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the grain, looked down, and would not have it forced.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The cut fourth act",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Let Richard keep the glass until Garnish's hour",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Thomas Pope",
+    "Nick Sorrell",
+    "Augustine Phillips"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cut",
+    "the reported unmaking",
+    "the grain",
+    "the glass until half past one"
+  ],
+  "quotes": [
+    {
+      "speaker": "abel_garnish",
+      "text": "The fourth act is a report."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "That is the book."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "I lose a crown in the tiring-house, Will."
+    },
+    {
+      "speaker": "nick_sorrell",
+      "text": "It is not a break. It is a grain."
+    }
+  ]
+}

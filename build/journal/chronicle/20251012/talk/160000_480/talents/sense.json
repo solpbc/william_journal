@@ -1,0 +1,107 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Supper was peas boiled to nothing, a sop of bread in warm ale, and a baked apple. You complained of the texture of each, and Mistress Ansell said the food had already yielded more than you had. Alse began a riddle about a barber-surgeon's charge and was stopped before the answer. Master Verbeke finished it in his own tongue and would not translate. You laughed, held the jaw, and said that laughing was not the thing that hurt. Evening prayer had already been said at the table. She told you to be in bed by eight. The loaf was a penny and a full thumb short of the notch. Board was threepence, and the hall candle was the firing sixpence.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Complained of all three dishes, laughed, and agreed to be in bed by eight.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the soft supper, stopped the riddle, and said evening prayer was already said at the table.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Began the riddle, stopped before the answer, and showed the loaf against the notch.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Finished the sound of the riddle in his own tongue and refused to translate it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Kept the corner of the board, and was left there.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Soft food, hard company",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the hall candle",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Soft food, hard company",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Complained of the peas, the sop, and the apple, and laughed once",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "peas",
+    "a sop",
+    "a baked apple",
+    "a riddle stopped",
+    "the penny loaf"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The food has already yielded more than you have."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Laughing is not the thing that hurts."
+    },
+    {
+      "speaker": "gillis_verbeke",
+      "text": "De rest kost meer."
+    },
+    {
+      "speaker": "gillis_verbeke",
+      "text": "I will not translate. The lady has stopped the riddle."
+    }
+  ]
+}

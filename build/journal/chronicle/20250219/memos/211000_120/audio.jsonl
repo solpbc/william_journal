@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:10:00", "text": "The girl has never seen a play.", "timing": {"end": 10.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:10:10", "text": "She heard the oath and asked who cooks.", "timing": {"end": 24.0, "start": 10.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:10:24", "text": "She had the hole in the first minute. Good.", "timing": {"end": 40.0, "start": 24.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "21:10:40", "text": "\u2026Enough.", "timing": {"end": 50.0, "start": 40.0}}

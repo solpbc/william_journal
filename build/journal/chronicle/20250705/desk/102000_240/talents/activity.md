@@ -1,0 +1,1 @@
+By half past ten the first sheet is full. Ninety lines, and no blots. The Prince has stopped it with a sentence of death for the next offence, and that sentence is not copied here. The margin says ninety, and no blot. The room is hot. The blank you left in Lent is still a blank. Gib slept through it on the Golding.

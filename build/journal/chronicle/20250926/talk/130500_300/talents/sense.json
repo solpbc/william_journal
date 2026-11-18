@@ -1,0 +1,72 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At noon you sat on the right and ate three bites. You did not bring either king to the table as a tale. The morning's clove was spent, and you told Alse not to buy another. The coffer stayed shut. The loaf was a penny and was not measured. You were going back at two.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate, and would not name the afternoon's side.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the plot off the board until the bread was gone.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Was not sent for a clove.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "a penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Chalk, and the soft side",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate three bites with Mistress Ansell and Alse",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the right side",
+    "the clove spent",
+    "the coffer shut"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Do not go. The jaw is hot and it is mine."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Then the coffer is the wisest body in the house."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "In the afternoon you had Brooke open under the brass weight, and a clean sheet beside it with nothing written. Gib slept on the cloth over Holinshed. You did not start the girl's night today.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Pinned the book and left the folio blank.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Slept on the cloth over the chronicle.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Brooke's Romeus and Juliet",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Brooke, and the cat on the chronicle",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Holinshed",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Brooke, and the cat on the chronicle",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read Brooke under the weight",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Brooke",
+    "a clean sheet",
+    "the cat on the chronicle"
+  ],
+  "quotes": []
+}

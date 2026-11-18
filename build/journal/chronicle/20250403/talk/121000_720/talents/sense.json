@@ -1,0 +1,100 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the Sadlers' bakehouse Judith Sadler told you to sit. You offered to make Anne's purchase and found you knew less than she did. Hamnet Sadler told Anne the loaf was light, and said he was not teaching you. She let you finish once you had listened. A penny each for the twins. Susanna's went into a paper. She was not there.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Offered to buy, listened, and finished only after Anne let him.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Knew the loaf and the answer, and allowed the finish once he had heard it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named a penny, and kept Sadler's fact pointed at Anne.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted two pennies and Susanna's paper, and did not open the paper.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Sadler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told Anne the loaf was light, and refused to teach William.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Sadler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Sat him down, and kept the purchase from turning into a gift.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Finished Anne's purchase after listening",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Judith Sadler",
+    "William Shakespeare",
+    "Anne Shakespeare",
+    "Hamnet Sadler",
+    "Hamnet Shakespeare",
+    "Judith Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the bakehouse",
+    "the loaf's weight",
+    "the pennies",
+    "Susanna's paper"
+  ],
+  "quotes": [
+    {
+      "speaker": "judith_sadler",
+      "text": "Sit, Will. You stand in my bakehouse like a man waiting to be paid for it."
+    },
+    {
+      "speaker": "hamnet_sadler",
+      "text": "I am telling Anne. I am not teaching you, Will."
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "Thou hast listened. Finish it."
+    },
+    {
+      "speaker": "judith_shakespeare",
+      "text": "Susanna is not here. Hers can travel in paper."
+    }
+  ]
+}

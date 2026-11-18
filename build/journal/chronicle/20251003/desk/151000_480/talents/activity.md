@@ -1,0 +1,1 @@
+In the afternoon you kept the father on Thursday and the girl on fewer words. You did not write the dawn, the cup, or the tomb. You did not make a part for anyone. The sheet is a note of what the scene is for, not a copy of a printed play.

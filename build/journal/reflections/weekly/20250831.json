@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250831",
+    "end": "20250906"
+  },
+  "generated_at": "2025-09-06T22:00:00Z",
+  "days": [
+    {
+      "day": "20250831",
+      "state": "memory",
+      "memory_id": "m-20250831-0"
+    },
+    {
+      "day": "20250901",
+      "state": "memory",
+      "memory_id": "m-20250901-1"
+    },
+    {
+      "day": "20250902",
+      "state": "memory",
+      "memory_id": "m-20250902-2"
+    },
+    {
+      "day": "20250903",
+      "state": "memory",
+      "memory_id": "m-20250903-3"
+    },
+    {
+      "day": "20250904",
+      "state": "memory",
+      "memory_id": "m-20250904-4"
+    },
+    {
+      "day": "20250905",
+      "state": "memory",
+      "memory_id": "m-20250905-5"
+    },
+    {
+      "day": "20250906",
+      "state": "memory",
+      "memory_id": "m-20250906-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250831-0",
+      "key": "mem_20250831_0",
+      "day": "20250831",
+      "text": "The letter to Anne is sealed for the eleventh. The coffer is still twenty pound fifteen shillings. The share of six-and-twenty is written beside it.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250831/talents/morning_briefing",
+        "briefing_day": "20250831",
+        "refs": [
+          "sol://facets/household/activities/20250831#photo_092000_120",
+          "sol://facets/stratford/activities/20250831#note_150000_720",
+          "sol://facets/stratford/activities/20250831#frame_151500_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250901-1",
+      "key": "mem_20250901_1",
+      "day": "20250901",
+      "text": "The word live is still in the letter. The Shrew was an old man's side. You did not open the Verona papers.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250901/talents/morning_briefing",
+        "briefing_day": "20250901",
+        "refs": [
+          "sol://facets/stratford/activities/20250901#note_083000_240",
+          "sol://facets/company/activities/20250901#frame_140500_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250902-2",
+      "key": "mem_20250902_2",
+      "day": "20250902",
+      "text": "My lord comes unlooked-for on the second of October. The Lord Treasurer cannot stir hand nor foot. You play the king as licensed.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250902/talents/morning_briefing",
+        "briefing_day": "20250902",
+        "refs": [
+          "sol://facets/company/activities/20250902#call_111000_240",
+          "sol://facets/company/activities/20250902#frame_140500_60",
+          "sol://facets/company/activities/20250902#meeting_162000_360"
+        ]
+      }
+    },
+    {
+      "id": "m-20250903-3",
+      "key": "mem_20250903_3",
+      "day": "20250903",
+      "text": "Alse's stinkweed is on the tables. The friar ends, by Mistress Ansell's word, in a churchyard. Two leaves are written, and the second is face down.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250903/talents/morning_briefing",
+        "briefing_day": "20250903",
+        "refs": [
+          "sol://facets/writing/activities/20250903#meeting_063000_300",
+          "sol://facets/writing/activities/20250903#frame_071500_180",
+          "sol://facets/writing/activities/20250903#frame_073000_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250904-4",
+      "key": "mem_20250904_4",
+      "day": "20250904",
+      "text": "Sam's fright is from the door. Drake and Hawkins have sailed. Gannet's count is the large one. The letters are the smaller. You did not buy the ballad.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250904/talents/morning_briefing",
+        "briefing_day": "20250904",
+        "refs": [
+          "sol://facets/company/activities/20250904#meeting_090000_480",
+          "sol://facets/writing/activities/20250904#frame_100000_60",
+          "sol://facets/company/activities/20250904#frame_162000_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250905-5",
+      "key": "mem_20250905_5",
+      "day": "20250905",
+      "text": "Crack Me This Nut stood beside Two Gentlemen. The talker is still talking.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250905/talents/morning_briefing",
+        "briefing_day": "20250905",
+        "refs": [
+          "sol://facets/company/activities/20250905#frame_083000_120",
+          "sol://facets/company/activities/20250905#photo_084000_60",
+          "sol://facets/writing/activities/20250905#note_103000_600"
+        ]
+      }
+    },
+    {
+      "id": "m-20250906-6",
+      "key": "mem_20250906_6",
+      "day": "20250906",
+      "text": "The friend is dead on the page by three o'clock. You did not tell Phillips. The share is one-and-thirty shillings.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250906/talents/morning_briefing",
+        "briefing_day": "20250906",
+        "refs": [
+          "sol://facets/writing/activities/20250906#note_045000_720",
+          "sol://facets/writing/activities/20250906#note_072000_720",
+          "sol://facets/writing/activities/20250906#photo_100500_60"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250831-0",
+      "key": "said_20250831_0",
+      "day": "20250831",
+      "quote": "You chide me on the days I walk, and you distrust me on the day I sit.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250831#meeting_181000_300"
+      }
+    },
+    {
+      "id": "s-20250831-1",
+      "key": "said_20250831_1",
+      "day": "20250831",
+      "quote": "I made three beginnings and struck them. The fourth I kept. The short one takes the time.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250831#meeting_181000_300"
+      }
+    },
+    {
+      "id": "s-20250902-2",
+      "key": "said_20250902_2",
+      "day": "20250902",
+      "quote": "Every paper in England which wants his hand is waiting on his foot.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250902#meeting_162000_360"
+      }
+    },
+    {
+      "id": "s-20250903-3",
+      "key": "said_20250903_3",
+      "day": "20250903",
+      "quote": "She says his name is no part of him. A rose would smell the same called anything.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250903#meeting_063000_300"
+      }
+    },
+    {
+      "id": "s-20250903-4",
+      "key": "said_20250903_4",
+      "day": "20250903",
+      "quote": "Wisely and slow. They stumble that run fast.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250903#meeting_124000_480"
+      }
+    },
+    {
+      "id": "s-20250904-5",
+      "key": "said_20250904_5",
+      "day": "20250904",
+      "quote": "It'll be spring before we know.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250904#meeting_174000_480"
+      }
+    },
+    {
+      "id": "s-20250905-6",
+      "key": "said_20250905_6",
+      "day": "20250905",
+      "quote": "Casement shut. The street in the play can be as loud as it likes. This one can wait till morning.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250905#memo_210000_60"
+      }
+    },
+    {
+      "id": "s-20250906-7",
+      "key": "said_20250906_7",
+      "day": "20250906",
+      "quote": "Phillips will never forgive me. Best part in it, and dead by three o'clock.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250906#memo_101500_60"
+      }
+    }
+  ]
+}

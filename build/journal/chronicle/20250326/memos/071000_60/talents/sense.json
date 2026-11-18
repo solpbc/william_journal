@@ -1,0 +1,41 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "You said eight words and no others. You did not add a place, and you did not add a reason beyond the words.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the words and did not go on.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Said the eight words",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "eight words",
+    "nothing added"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Not by the tree. Not five weeks after."
+    }
+  ]
+}

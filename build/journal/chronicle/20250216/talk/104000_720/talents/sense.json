@@ -1,0 +1,73 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At St Helen's you heard Master Thwaite name Lent and turn the sand-glass a second time. He said he would be brief, and Mistress Ansell did not believe him. Sir John Spencer sat three rows ahead and did not speak to you. You came away with the fast named, and with nothing else from the pew.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the turns of the glass and said he had come to hear Lent named.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Preached Septuagesima, promised brevity, and turned the sand-glass a second time.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Timed the second turn of the glass, and noted that he had not said starch.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Sat three rows ahead in the Mayor's pew and did not speak.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Heard Master Thwaite name Lent and turn the glass a second time",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Septuagesima",
+    "the sand-glass",
+    "Lent",
+    "the Mayor's pew"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "And fourteenthly, brethren, the parish turns now toward Lent."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "He says brief, and the glass has already gone over once."
+    }
+  ]
+}

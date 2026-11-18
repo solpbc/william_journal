@@ -1,0 +1,73 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "You cleared the board and Mistress Ansell called the tidiness repentance. She counted four candle-ends, for this morning only. You paid her fivepence for a quire she had by her and twopence for a new horn of ink. You had counted the coffer and you did not say the figure. The list of what is not done was left whole. Field's paper stayed at his shop.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid the quire and the ink, counted without speaking a total, and kept the list whole.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted four ends, sold the quire and the horn, and called the clear board repentance.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Added five and two, and did not try to add the coffer.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Paid fivepence for a quire and twopence for ink",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "four candle-ends",
+    "fivepence and twopence",
+    "no figure",
+    "the list whole"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Four candle-ends. I have counted them."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have counted the coffer. I am not saying the figure."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A struck line before the thing is done is a lie in a neat hand."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not trying names while I walk."
+    }
+  ]
+}

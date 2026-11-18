@@ -1,0 +1,77 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You came in with a clout at the jaw, after the walk home from Bishopsgate. Mistress Ansell had broth ready and had forbidden the stair to everyone. Alse was sent up once, with salt water, and told not to ask to see. You called the broth water. You would not keep the tooth, and you would not write a total under the twelve pence. No caller came onto the stair.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came in with the clout, called the broth water, and sent no caller up.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had the broth ready and forbade the stair to everyone but Alse, once.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Went up once with salt water and did not ask to see.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the salt water",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The stair forbidden",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came home to broth",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the clout",
+    "the forbidden stair",
+    "salt water once",
+    "broth"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The stair is forbidden to everyone, and a drawn tooth is not a reason to make it a story."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "You may call it broth. I shall call it water until I can chew, and I cannot chew."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "I will not ask to see."
+    }
+  ]
+}

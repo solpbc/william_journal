@@ -1,0 +1,42 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "You said a sonnet can lie by leaving a man out, and a letter cannot. You stopped.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said it, and ended.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said a sonnet can lie by leaving a man out",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a sonnet",
+    "a letter",
+    "enough"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "A sonnet can lie by leaving a man out. A letter can't."
+    }
+  ]
+}

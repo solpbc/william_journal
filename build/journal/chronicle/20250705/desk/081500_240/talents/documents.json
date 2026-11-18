@@ -1,0 +1,51 @@
+{
+  "overview": "The sheet has a bitten thumb on it, and the citizens' cry. Two houses are already in the street. Nothing is struck. Gib has not woken. You are not copying Brooke. You are writing the quarrel as it starts.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the thumb and the cry and struck nothing."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Slept on, on the Golding."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the thumb",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the citizens' cry",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no blot",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Romeo and Juliet",
+      "asset_type": "other",
+      "disposition": "Wrote the bitten thumb and the citizens' cry"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-05",
+      "meaning": "The thumb, and the cry"
+    }
+  ],
+  "summary": "Wrote the bitten thumb and the citizens' cry"
+}

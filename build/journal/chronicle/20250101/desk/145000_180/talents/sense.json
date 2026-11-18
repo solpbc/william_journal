@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "While Two Gentlemen played at the Cross Keys, you stayed at the desk. You were not in that play. You brought on the pedant, the braggart, the hedge-priest and the boy to present the Worthies, and you wrote that the pageant breaks up in laughter. Nothing follows it yet. The light was going.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote two lines and stopped while the light went.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The Worthies, only begun",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Two Gentlemen of Verona",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The Worthies, only begun",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Began the Worthies and stopped at the laugh",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Worthies",
+    "the laugh",
+    "the light going"
+  ],
+  "quotes": []
+}

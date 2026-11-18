@@ -1,0 +1,1 @@
+The jaw had not become a face. The clove was already in. You named Titus and no side. The loaf was a penny, a full thumb short of the notch. You ate three soft bites. She told you that less from the clove, if it comes, is not a cure.

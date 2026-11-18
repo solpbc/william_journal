@@ -1,0 +1,1 @@
+You sealed the letter and wrote Anne's direction on the outside, at Henley Street in Stratford, by Thomas Hobbins, the eleventh of September. The sheet stayed on the chest. You did not give it to anyone today.

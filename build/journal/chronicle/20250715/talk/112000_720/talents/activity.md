@@ -1,0 +1,1 @@
+Dinner was sixpence, and the mutton was smaller. You read the two sheets fast. The agate stone, the alderman's finger, the hazel-nut coach, the lawyers' fingers, the soldiers' necks, and the parson's tithe-pig. Pope stopped chewing at the pig. Sam forgot his message. Phillips said again.

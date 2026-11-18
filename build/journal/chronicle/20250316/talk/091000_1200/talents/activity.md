@@ -1,0 +1,1 @@
+You walked to St Helen's with Mistress Ansell, Alse, and Gillis Verbeke. Master Thwaite preached seven heads and stopped when the glass had turned once. You did not count any money in the porch. Sir John Spencer was heard in the service and did not speak to you. The letter with no day was named as still in the house. You went home to dinner without an eighth head.

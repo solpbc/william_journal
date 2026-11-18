@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Standing at the trestle, you saw Humphrey take the shortened cue off York's roll, set the full closing words across the three, and put the small winter sign in the corner of each.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Checked the wording at Humphrey's elbow as each roll was marked.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Set the full closing words and the winter sign onto all three rolls.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the three rolls",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Humphrey's pen across the three rolls",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Saw Humphrey mark the three rolls",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Humphrey's copying",
+    "the three rolls",
+    "the small winter sign"
+  ],
+  "quotes": []
+}

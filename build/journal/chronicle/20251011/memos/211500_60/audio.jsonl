@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:15:00", "text": "Three leaves. Fair. Folded once. Under the account book.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:15:14", "text": "The rain is on the window. The clout is aquavitae. That is all.", "timing": {"end": 28.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:15:28", "text": "I am not saying the rest. The candle can go out.", "timing": {"end": 38.0, "start": 28.0}}

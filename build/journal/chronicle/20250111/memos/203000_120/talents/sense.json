@@ -1,0 +1,62 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "The latch sprang when you lifted it softly. You sneezed twice on the walk home, and you are not ill. You think she heard the latch. You did not go down, and you did not make a patient of yourself.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the memo and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not spoken to. He thinks she heard the latch. She does not come up.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Jackdaw",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The latch, and twice",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came in softly and stayed up",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the latch",
+    "two sneezes",
+    "not a cold"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The latch sprang. I had it as soft as I could, and it sprang."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Twice, on the walk from Shoreditch. The air. I am not ill."
+    }
+  ]
+}

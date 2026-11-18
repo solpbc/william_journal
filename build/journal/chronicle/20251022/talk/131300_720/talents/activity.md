@@ -1,0 +1,1 @@
+After the basin you took the cloak from the street door. Mistress Ansell would not inspect the jaw again. You said the street was getting a man in a coat and no speech. Alse would not walk you out. Gib was off the stair. You left her at the board.

@@ -1,0 +1,60 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You wrote home on a clean sheet and did not defend the trade. You answered in her order: the children equally, that you are well and eating, the loaf at a penny and a finger and a half short, and the chamber still yours. At the bottom you sent the seamstress's part of Burbage's sleeve. You left the barn as a line for her to answer. You named no house and no illness. The sheet is to go on Thursday with the thimble.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the letter and stopped where her answer has to start.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Was not in the room. The sheet is addressed to her.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Was not in the room. The sleeve in the letter is his.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Was not in the room. The hands in the letter are hers.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Wrote home and kept the barn line for her",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "her order",
+    "no defence",
+    "the sleeve",
+    "the barn left blank"
+  ],
+  "quotes": []
+}

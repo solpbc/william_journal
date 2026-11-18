@@ -1,0 +1,1 @@
+On the morning of the first playing you kept the margin blank. Two of the clock stayed the hour. Burbage was told not to soften the refusal. Kemp was told that anything he added would be seen and was not given a number. Nick had the gown on. Sincler kept the half-line small. You went to look at the bill.

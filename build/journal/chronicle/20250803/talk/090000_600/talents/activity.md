@@ -1,0 +1,1 @@
+At Holy Trinity the vicar preached the fire as judgment on a town that malts on the Sabbath. He said the hand had come down twice in fourteen months. You told the pew to let it come whole. You did not improve it.

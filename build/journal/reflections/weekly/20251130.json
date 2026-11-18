@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20251130",
+    "end": "20251206"
+  },
+  "generated_at": "2025-12-06T22:00:00Z",
+  "days": [
+    {
+      "day": "20251130",
+      "state": "memory",
+      "memory_id": "m-20251130-0"
+    },
+    {
+      "day": "20251201",
+      "state": "memory",
+      "memory_id": "m-20251201-1"
+    },
+    {
+      "day": "20251202",
+      "state": "memory",
+      "memory_id": "m-20251202-2"
+    },
+    {
+      "day": "20251203",
+      "state": "memory",
+      "memory_id": "m-20251203-3"
+    },
+    {
+      "day": "20251204",
+      "state": "memory",
+      "memory_id": "m-20251204-4"
+    },
+    {
+      "day": "20251205",
+      "state": "memory",
+      "memory_id": "m-20251205-5"
+    },
+    {
+      "day": "20251206",
+      "state": "memory",
+      "memory_id": "m-20251206-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20251130-0",
+      "key": "mem_20251130_0",
+      "day": "20251130",
+      "text": "Mistress Ansell said your name twice, and you struck the second half of the list.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251130/talents/morning_briefing",
+        "briefing_day": "20251130",
+        "refs": [
+          "sol://facets/household/activities/20251130#meeting_111500_480",
+          "sol://facets/writing/activities/20251130#memo_151000_120",
+          "sol://facets/writing/activities/20251130#note_160000_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20251201-1",
+      "key": "mem_20251201_1",
+      "day": "20251201",
+      "text": "Burby entered Edward the Third for sixpence at the Hall. You let the entry stand.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251201/talents/morning_briefing",
+        "briefing_day": "20251201",
+        "refs": [
+          "sol://facets/company/activities/20251201#meeting_091000_600",
+          "sol://facets/writing/activities/20251201#meeting_105000_540",
+          "sol://facets/writing/activities/20251201#frame_112000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20251202-2",
+      "key": "mem_20251202_2",
+      "day": "20251202",
+      "text": "The loaf was a penny and two fingers short, and Cowley's clean roll was Benvolio's cues.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251202/talents/morning_briefing",
+        "briefing_day": "20251202",
+        "refs": [
+          "sol://facets/company/activities/20251202#meeting_092000_720",
+          "sol://facets/household/activities/20251202#meeting_121500_600",
+          "sol://facets/company/activities/20251202#frame_132000_240"
+        ]
+      }
+    },
+    {
+      "id": "m-20251203-3",
+      "key": "mem_20251203_3",
+      "day": "20251203",
+      "text": "You wrote down two hearings of one vault cue. James Burbage named a hall and stopped before a price.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251203/talents/morning_briefing",
+        "briefing_day": "20251203",
+        "refs": [
+          "sol://facets/company/activities/20251203#frame_090500_240",
+          "sol://facets/company/activities/20251203#meeting_093000_840",
+          "sol://facets/writing/activities/20251203#note_153000_480"
+        ]
+      }
+    },
+    {
+      "id": "m-20251204-4",
+      "key": "mem_20251204_4",
+      "day": "20251204",
+      "text": "The boy took the packet, and Hobbins read Saturday back at twopence.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251204/talents/morning_briefing",
+        "briefing_day": "20251204",
+        "refs": [
+          "sol://facets/company/activities/20251204#meeting_091000_720",
+          "sol://facets/company/activities/20251204#frame_095000_240",
+          "sol://facets/company/activities/20251204#photo_101000_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20251205-5",
+      "key": "mem_20251205_5",
+      "day": "20251205",
+      "text": "You held the five words until the house was quiet, and the answer was no.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251205/talents/morning_briefing",
+        "briefing_day": "20251205",
+        "refs": [
+          "sol://facets/company/activities/20251205#meeting_092000_720",
+          "sol://facets/writing/activities/20251205#note_130000_480",
+          "sol://facets/company/activities/20251205#frame_193000_300"
+        ]
+      }
+    },
+    {
+      "id": "m-20251206-6",
+      "key": "mem_20251206_6",
+      "day": "20251206",
+      "text": "The boxes held twelve pound thirteen, the share was forty shillings, and at the door she said good night.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251206/talents/morning_briefing",
+        "briefing_day": "20251206",
+        "refs": [
+          "sol://facets/household/activities/20251206#meeting_084000_600",
+          "sol://facets/company/activities/20251206#photo_140000_60",
+          "sol://facets/company/activities/20251206#frame_141500_360"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20251130-0",
+      "key": "said_20251130_0",
+      "day": "20251130",
+      "quote": "That's a scene. It's not a scene yet.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251130#memo_151000_120"
+      }
+    },
+    {
+      "id": "s-20251130-1",
+      "key": "said_20251130_1",
+      "day": "20251130",
+      "quote": "December is coming like a cart. If I stand in the road and admire the chord, the cart does not wait.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251130#memo_151000_120"
+      }
+    },
+    {
+      "id": "s-20251201-2",
+      "key": "said_20251201_2",
+      "day": "20251201",
+      "quote": "The louder the father, the quieter she may answer. A yard leans in for what it cannot quite hear.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251201#meeting_091000_600"
+      }
+    },
+    {
+      "id": "s-20251201-3",
+      "key": "said_20251201_3",
+      "day": "20251201",
+      "quote": "The line's in Burby's book and in my coffer. Which of us has it?",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251201#memo_123000_120"
+      }
+    },
+    {
+      "id": "s-20251201-4",
+      "key": "said_20251201_4",
+      "day": "20251201",
+      "quote": "I am being published by everybody but myself.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251201#memo_123000_120"
+      }
+    },
+    {
+      "id": "s-20251203-5",
+      "key": "said_20251203_5",
+      "day": "20251203",
+      "quote": "Then light them when he says light, and not before.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251203#meeting_093000_840"
+      }
+    },
+    {
+      "id": "s-20251204-6",
+      "key": "said_20251204_6",
+      "day": "20251204",
+      "quote": "Sand it. The word I liked can die in the sand.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251204#meeting_091000_720"
+      }
+    },
+    {
+      "id": "s-20251205-7",
+      "key": "said_20251205_7",
+      "day": "20251205",
+      "quote": "Then she wakes hoarse, as a girl would that had slept two days in a grave.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251205#call_224000_240"
+      }
+    }
+  ]
+}

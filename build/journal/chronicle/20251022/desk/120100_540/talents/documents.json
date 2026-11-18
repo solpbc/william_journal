@@ -1,0 +1,49 @@
+{
+  "overview": "You were called down. You shut the tables on the four lines and left the bundle where it was. You had not written a speech. The cat was still on the book when you went down.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote that the other work could wait until after the yard"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "called down",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the tables shut",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the bundle left",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Wrote that the other work could wait until after the yard"
+    },
+    {
+      "name": "the red bundle",
+      "asset_type": "other",
+      "disposition": "Wrote that the other work could wait until after the yard"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-22",
+      "meaning": "Shut the tables and went down to dinner"
+    }
+  ],
+  "summary": "Wrote that the other work could wait until after the yard"
+}

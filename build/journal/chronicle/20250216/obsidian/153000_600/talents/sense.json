@@ -1,0 +1,73 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You answered Anne's January question first, as Gilbert had told you to. You will come at Lent, before Mid-Lent Sunday, and you named no day. You told her the playing stops on Shrove Tuesday, that the Queen's money may be mid-March, and the comedy in four lines. The sheet is dated the 16th of February 1594. It waits in the room for the carrier of the 27th.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the letter, dated it the 16th of February 1594, and did not give it to a carrier.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Is the person addressed, and is not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Gilbert Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Is named as the one who bid him answer the last question first, and is not in the room.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The answer about Lent",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Wrote Anne of coming before Mid-Lent Sunday",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the Lent answer",
+    "no named day",
+    "the comedy in four lines",
+    "the carrier of the 27th"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I mean to come."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not name a day I cannot keep."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The ladies have the better of it."
+    }
+  ]
+}

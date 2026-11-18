@@ -1,0 +1,23 @@
+{
+  "narrative": "The gatherers' boxes broken open: a drift of pennies and halfpence, Heminges's hands sorting, Edith's folded account under the candlestick, late snow at the window.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "In The boxes and the snow"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "context": "Sorted pennies and halfpence by size, and is only hands in the frame."
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "mentioned",
+      "context": "Is not in the room. Her folded account lies under the candlestick."
+    }
+  ]
+}

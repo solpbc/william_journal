@@ -1,0 +1,1 @@
+You crossed the close with Mistress Ansell and Gillis Verbeke and stood in the porch of St Helen's before morning prayer. Master Thwaite promised fourteen heads and two turnings of the glass. The sixpence for firing and washing runs till Lady Day, and the worn poem from Paul's is still under the cat.

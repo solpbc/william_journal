@@ -1,0 +1,23 @@
+{
+  "narrative": "The sheet is full. Ninety lines, no blots, the room already hot. The last speech is the Prince's, a short one, death for the next offence. A note in the margin is in your hand. Gib is still asleep on the Golding. The Lent blank is still open on the other leaf.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Finished the ninety and wrote the count in the margin."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Slept on the Golding through the whole of it."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on draft in Ninety, and not the Prince's words"
+    }
+  ]
+}

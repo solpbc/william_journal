@@ -1,0 +1,23 @@
+{
+  "narrative": "The pasteboard plot of The Comedy of Errors on the peg. Egeon in the first scene and the last. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Played Egeon at two."
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "context": "Shown on plot in Errors, then the cloth"
+    },
+    {
+      "type": "Company",
+      "name": "the Theatre",
+      "role": "mentioned",
+      "context": "Shown on plot in Errors, then the cloth"
+    }
+  ]
+}

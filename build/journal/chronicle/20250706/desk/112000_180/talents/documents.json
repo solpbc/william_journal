@@ -1,0 +1,39 @@
+{
+  "overview": "You opened the almanac at home and did not mark Sunday. Tomorrow already carries Burbage's twenty-seven. The pen stayed off the empty pew.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked, and did not mark."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "no cross",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "tomorrow's name already written",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the almanac",
+      "asset_type": "other",
+      "disposition": "Saw Burbage's twenty-seven on Monday"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-06",
+      "meaning": "No cross in the almanac"
+    }
+  ],
+  "summary": "Saw Burbage's twenty-seven on Monday"
+}

@@ -1,0 +1,1 @@
+After Errors you reckoned the afternoon with John, Margery, and Kemp. The house had been thin. Margery named no sum. John said he would not set a figure and would not borrow one. Kemp had done the jig and did not ask for a number. You added nothing, and you opened no second matter. Nobody spoke of the morning's play.

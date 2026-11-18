@@ -1,0 +1,1 @@
+You conned Gaunt with half a mouth and a clove, before Gilbert came up. You said the throne, this England, and the turn into shame and rotten parchment bonds. You did not add a coast the roll does not have.

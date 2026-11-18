@@ -1,0 +1,69 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "The book took six lines. The sword has no price. The riddle-book is twopence, the ribbons fivepence, and the gloves two shillings and fourpence, which is two shillings and elevenpence laid out. The bay is twelvepence a day and his fodder, and it is not yet had. Saturday's part was not entered again. You wrote no coffer total.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Entered the six lines and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "2d riddle-book",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Six lines",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "5d ribbons",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Six lines",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "2s 4d gloves",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Six lines",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Entered six lines in the book",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "six lines",
+    "two shillings and elevenpence",
+    "the bay not yet had",
+    "no coffer total"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Summa of what is laid out, ij s xj d."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "not yet had."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Kettleby called from Somerset House, back from Nonsuch since Sunday. The sense of my lord's answer is play on. No letter has gone to any justice. If a justice of Middlesex comes, he is to be sent on. Heminges told you to ask if it was in writing. Nothing my lord says is in writing. The paint of Titus was still red on three of the hired men. You had not come off that stage.

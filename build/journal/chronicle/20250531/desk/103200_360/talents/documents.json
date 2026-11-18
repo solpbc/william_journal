@@ -1,0 +1,56 @@
+{
+  "overview": "On a board at Paul's you found The True Tragedie of Richard Duke of Yorke, as acted by the Earl of Pembroke his servants, printed for Thomas Millington, 1595. You opened it standing. It fell at the one line. You read two pages, yours, mostly, with holes. You did not buy it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Opened it standing, read, and did not buy it."
+    },
+    {
+      "name": "Michael Drayton",
+      "role": "visible",
+      "formal_term": "Michael Drayton",
+      "appointment_tier": "not_applicable",
+      "context": "At his elbow, not yet speaking."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the True Tragedie",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Pembroke's servants",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Millington",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the one line",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The True Tragedie of Richard Duke of Yorke",
+      "asset_type": "other",
+      "disposition": "Opened Millington's York book and put it back"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-31",
+      "meaning": "Pembroke's name, and not his"
+    }
+  ],
+  "summary": "Opened Millington's York book and put it back"
+}

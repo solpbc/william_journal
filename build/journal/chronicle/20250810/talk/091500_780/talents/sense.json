@@ -1,0 +1,103 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Breakfast ended on the crust, and nobody was given a second one. Susanna left Golding on the shelf. You kept the river for the middle of the afternoon. Joan wanted the ink off a Sunday wrist. Anne held the door until your mother was ready.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Finished breakfast before church",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Finished breakfast before church",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Finished breakfast before church",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mary Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Finished breakfast before church",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Finished breakfast before church",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "Golding's Ovid",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Finished breakfast before church",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Holy Trinity",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Finished breakfast before church",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Set the boats for the middle of the afternoon",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mary Shakespeare",
+    "Susanna Shakespeare",
+    "William Shakespeare",
+    "Joan Shakespeare",
+    "Anne Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the end of breakfast",
+    "the book on the shelf",
+    "the cuff",
+    "church next"
+  ],
+  "quotes": [
+    {
+      "speaker": "mary_shakespeare",
+      "text": "Do not invent a second breakfast out of a crust."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The river is the middle of the afternoon."
+    },
+    {
+      "speaker": "susanna_shakespeare",
+      "text": "I am not taking it to the pew."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+In the morning the seal was still on the letter. You had a mind to take out the word live, and you left it. You wrote that the sentence can stand till the eleventh, and that the Verona papers stay shut.

@@ -1,0 +1,1 @@
+Your mother had you moved to the chamber floor, on a folded blanket, with a bolster under the knees. She rubbed in a grease of her own mother's making that smelled of bay, with a thumb like a joiner's. Under her breath went the small old grace. You knew it, and you did not remark on it. You thanked her for the grease only.

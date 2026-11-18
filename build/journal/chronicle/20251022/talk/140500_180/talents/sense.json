@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You went to read the bill and said you would come back through the tiring-house door. Margery kept the stair from becoming a show. John said the second line was the company, and that was enough.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Read the bill at the post and came back inside",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Read the bill at the post and came back inside",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Read the bill at the post and came back inside",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the Theatre bill",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Read the bill at the post and came back inside",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Came in for the afternoon play",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Goodwife Margery Pell",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the post",
+    "the stair",
+    "coming back in"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "The second line is the company."
+    }
+  ]
+}

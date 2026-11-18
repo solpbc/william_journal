@@ -1,0 +1,98 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "At the day's end Raye brought the rest. The morning bill had been the second Caesar, and he had not seen a sum. It is their last. The Admiral's men are packing hampers, no bill goes up tomorrow, and nobody over there will say why. Kemp said they have run. Heminges said or been told, and that the whole Bankside has nowhere to go of an afternoon but here. Margery said she would as soon they had somewhere. The justices' padlocks were a rumour of one more tumult, and not a decision. Nothing came back from home. Your letter had said nothing of butter or of prisons. You did not choose a reason in the room.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the rest, refused a sum, and said the letter was not about this day.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought their last day, the hampers, and a rumour, and no receipt.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said Bankside has nowhere else of an afternoon, and that nothing came back.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said they have run, and made no jest of it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said she would as soon they had somewhere.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "the Rose",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Their last day",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard the Rose's last day",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Blackwage, Ralph Raye, Richard Hoope",
+    "William Shakespeare",
+    "Will Kemp",
+    "John Heminges",
+    "Goodwife Margery Pell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "their last day",
+    "the hampers",
+    "nothing came back"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "They've run."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Or been told. Either way the whole Bankside has nowhere to go of an afternoon but here."
+    },
+    {
+      "speaker": "margery_pell",
+      "text": "I'd as soon they had somewhere."
+    },
+    {
+      "speaker": "hired_men",
+      "text": "It is their last."
+    }
+  ]
+}

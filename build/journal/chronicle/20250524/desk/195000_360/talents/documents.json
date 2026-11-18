@@ -1,0 +1,51 @@
+{
+  "overview": "You shut the chronicle. Gib got onto the cover, and you left him there. The new line was still wet. The share sat beside the book, and you did not count the chest.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Shut the book, left the cat, and left the chest uncounted."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Settled on the shut cover."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the chronicle shut",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Gib on the cover",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the share uncounted",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Holinshed",
+      "asset_type": "other",
+      "disposition": "Shut the chronicle and kept Gib on the cover"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-24",
+      "meaning": "The chronicle shut"
+    }
+  ],
+  "summary": "Shut the chronicle and kept Gib on the cover"
+}

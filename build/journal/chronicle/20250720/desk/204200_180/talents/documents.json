@@ -1,0 +1,44 @@
+{
+  "overview": "You looked at the finished leaf. The opening line was the old scrap. The last line no longer asks for the kiss. Nothing on the page names a person.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the leaf and did not add a name."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the first line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the couplet",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the refused kiss",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the keyboard sonnet",
+      "asset_type": "other",
+      "disposition": "Read the changed couplet back"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-20",
+      "meaning": "The word that does not pardon him"
+    }
+  ],
+  "summary": "Read the changed couplet back"
+}

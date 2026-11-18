@@ -1,0 +1,56 @@
+{
+  "overview": "You looked at the two strokes she had made, beau under bien and sire under madame, and you left the leaf on the table. You did not write a price, and you did not take the chronicle.",
+  "parties": [
+    {
+      "name": "Jacqueline Field",
+      "role": "visible",
+      "formal_term": "Jacqueline Field",
+      "appointment_tier": "not_applicable",
+      "context": "Her pen and her two corrections were on the leaf."
+    },
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the strokes, and left them."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the mended leaf",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "bien",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "madame",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the book left",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Looked at her two corrections and took the hand off the leaf"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-04",
+      "meaning": "Her pen on the leaf"
+    }
+  ],
+  "summary": "Looked at her two corrections and took the hand off the leaf"
+}

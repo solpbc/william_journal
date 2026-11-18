@@ -1,0 +1,87 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the Sadlers' bakehouse, with the penny maslin coming off the peel, Quiney asked two pounds for his own malt-house to Michaelmas, not for the town. You said yes before Anne got a word in. Judith Sadler stopped the hand and made the word be loan: a pound by Martinmas or soon after, the rest by Lady Day, no use. Hamnet Sadler called it the first honest bargain in his shop this year, his own included. Judith promised the three children mutton and a pie on Sunday. In the street Anne said that is two pounds you know where it is. The twenty shillings for the timber stayed a different sum.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said yes, said loan, put forty shillings on the board, and kept the timber apart.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Quiney",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for his own malt-house, said loan, and took the days.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Sadler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped the unnamed money, and promised the pie.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Sadler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had the batch off the peel, and called the bargain honest, his own included.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Was a moment late to the yes, accepted Sunday, and named the two pounds in the street.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Said yes to two pounds, and Judith Sadler made it a loan",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Hamnet Sadler",
+    "William Shakespeare",
+    "Richard Quiney",
+    "Anne Shakespeare",
+    "Judith Sadler"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the loan",
+    "no use",
+    "the pie on Sunday",
+    "two pounds"
+  ],
+  "quotes": [
+    {
+      "speaker": "judith_sadler",
+      "text": "Say the word, Master Quiney. Gift, loan or purchase? I'll not have it called friendship afterwards and nobody knowing which"
+    },
+    {
+      "speaker": "hamnet_sadler",
+      "text": "That is the first honest bargain made in my shop this year, and I include my own"
+    },
+    {
+      "speaker": "anne_shakespeare",
+      "text": "That's two pounds you know where it is"
+    }
+  ]
+}

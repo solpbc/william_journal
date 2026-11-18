@@ -1,0 +1,56 @@
+{
+  "overview": "At two you played Egeon in The Comedy of Errors. The plot has him at the opening and at the end, and idle between. You spoke the opening, sat the middle, and came back for the close.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Played Egeon at two."
+    },
+    {
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "formal_term": "Abel Garnish",
+      "appointment_tier": "not_applicable",
+      "context": "The plot is his hand. He is not in the picture."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "The Comedy of Errors",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Egeon at the opening",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "idle until the end",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Comedy of Errors",
+      "asset_type": "other",
+      "disposition": "Played Egeon"
+    },
+    {
+      "name": "the Theatre",
+      "asset_type": "other",
+      "disposition": "Played Egeon"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-26",
+      "meaning": "Egeon on the peg"
+    }
+  ],
+  "summary": "Played Egeon"
+}

@@ -1,0 +1,1 @@
+You came into the bakehouse before the shoulder was out of the oven. The children were already on the subject of the pie's corner. Judith Sadler would not let them sit until the bench was wiped. Hamnet Sadler was still at the batch, and he told you the shoulder would come when it was ready. Nobody had yet put a loaf on the board.

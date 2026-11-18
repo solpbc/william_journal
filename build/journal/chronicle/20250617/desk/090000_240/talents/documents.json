@@ -1,0 +1,44 @@
+{
+  "overview": "After the call you tried to set down a private account of the week's disturbances. You crossed out a sentence that would have sounded well in an alderman's mouth. What remained was a list of things heard. Pell, two hundred. Verbeke, a silkweaver, English. Alse, Ludgate. You left it a list. It was no scene of any play.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Crossed the sentence and stopped at the list."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the crossed sentence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the list",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no scene",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "two hundred",
+      "asset_type": "other",
+      "disposition": "Crossed out the alderman's sentence and kept the list"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-17",
+      "meaning": "A phrase crossed out"
+    }
+  ],
+  "summary": "Crossed out the alderman's sentence and kept the list"
+}

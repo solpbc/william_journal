@@ -1,0 +1,68 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "At three, with two candles, you wrote the fairy king's bank and stopped at two lines. You set down where the flowers came from: thyme above Shottery, oxlips on the lane to Wilmcote, violets from anywhere. You wrote that it came almost too sweetly, and that you left it unstruck. You wrote that you do not trust it. You did not add a line after those two, and you did not touch Saturday's three sheets.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the two lines, left them unstruck, and wrote that he does not trust them.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "On the Chaucer. He did not move.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Shottery brook",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A bank of wild thyme",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the lane to Wilmcote",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A bank of wild thyme",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Saturday's three sheets",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A bank of wild thyme",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote a bank of wild thyme",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "two candles",
+    "two lines",
+    "Shottery thyme",
+    "left unstruck"
+  ],
+  "quotes": []
+}

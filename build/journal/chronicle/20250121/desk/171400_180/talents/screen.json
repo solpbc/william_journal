@@ -1,0 +1,23 @@
+{
+  "narrative": "The account book open on the parlour table. One new line, in Heminges's hand. Nothing under it. No sum in the margin.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the line and did not add a sum."
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "context": "Had written the line. He did not write a share under it."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on ledger in Navarre ended this day"
+    }
+  ]
+}

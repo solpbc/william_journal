@@ -1,0 +1,97 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "After Errors you stood at the reckoning long enough to hear that today's gallery is not all in. Heminges left Monday's eleven pound eight where it was and struck no new share. You did not count the coffer. Edith's eight shillings stayed a promise till Lady Day, and you did not mix it into the cloth. You left with Burbage for the Jackdaw before any new sum existed.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a total he had not seen, and left.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept today uncast and Monday already said.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted a reckoning that could not yet disappoint him.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took him up the lane.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "the holiday boxes",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No new share",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "Edith's eight shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No new share",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Left the reckoning for the Jackdaw",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Will Kemp",
+    "William Shakespeare",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "no new share",
+    "Monday's eleven pound eight",
+    "the coffer unopened"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Eleven pound eight, to the sharers' side. Today is not that paper."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "No item of a share today."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not write a total."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Bring the pages, not the book of accounts."
+    }
+  ]
+}

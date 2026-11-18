@@ -1,0 +1,63 @@
+{
+  "overview": "At home you wrote that the lovers stand as the pages stand. A small fierce girl against a tall one: Nick, and Arthur. Arthur has the lines by heart, in case, and nobody tells Nick. The king's chest stayed shut, and this note is not that chest. The ass is not written. You have not written the head.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the pair, and left the head unwritten."
+    },
+    {
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "formal_term": "Nick Sorrell",
+      "appointment_tier": "not_applicable",
+      "context": "Named, and not told."
+    },
+    {
+      "name": "Arthur Meeks",
+      "role": "mentioned",
+      "formal_term": "Arthur Meeks",
+      "appointment_tier": "not_applicable",
+      "context": "Named as the in case, and not sent for."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Nick against Arthur",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the in case untold",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the head unwritten",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the lovers",
+      "asset_type": "other",
+      "disposition": "Wrote Nick and Arthur for himself"
+    },
+    {
+      "name": "the ass's head",
+      "asset_type": "other",
+      "disposition": "Wrote Nick and Arthur for himself"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-25",
+      "meaning": "A small fierce girl"
+    }
+  ],
+  "summary": "Wrote Nick and Arthur for himself"
+}

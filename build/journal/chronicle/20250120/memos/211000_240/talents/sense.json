@@ -1,0 +1,58 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "The afternoon's plays went on without you. You had struck one line and stopped. The owl and the last line were still unwritten. The letter was still on her table.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named what was still open and left it open.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Taming of the Shrew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The door not shut",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Ranger's Comedy",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The door not shut",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Stayed in while the Shrew and the Rose bill played",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the afternoon elsewhere",
+    "the open door",
+    "the letter"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The owl is not written. The last line is not written."
+    }
+  ]
+}

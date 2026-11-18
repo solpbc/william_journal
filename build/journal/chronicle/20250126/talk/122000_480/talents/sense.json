@@ -1,0 +1,93 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At her board the loaf was a finger short of the notch. You paid threepence. Firing and washing were named at sixpence the week until Lady Day, and not taken. Nothing went to the Bell. The sentence to Anne stayed on the desk. Supper is at the Burbages'.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid threepence, left the sentence unsent, and said nothing was going to the Bell.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Served the short loaf, named the sixpence, and would not take it off the plate.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked whether the paper went to the Bell.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Stayed on the settle and did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "mentioned in A finger short",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Bell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in A finger short",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Paid threepence at her table",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the short loaf",
+    "threepence",
+    "the unsent sentence",
+    "firing named and not taken"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The loaf is a finger short of the notch, and it has been so since the turn of the year"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Nothing goes to the Bell"
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Firing and washing are sixpence the week until Lady Day, and I am not taking them off this plate;"
+    }
+  ]
+}

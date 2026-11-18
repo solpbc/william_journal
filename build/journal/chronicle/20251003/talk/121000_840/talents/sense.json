@@ -1,0 +1,112 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Fish day at the Jackdaw. Ling for the company, buttered eggs for you, and the ordinary sixpence. Richard, still in the king, gave the slow tapster the amazed couplet, and the tapster bent the knee and did not answer. Agnes said kings pay the same as carters, and sooner. Ralph Raye said the Rose's new play had a fair yard and a restless one, with half of them asking the way to Shoreditch. He had no sum, and you did not ask for one. Kemp said you eat like a nun and fill a house like a bear-baiting. You said, courteously, that you had rather it were like a wedding. The jaw is no better for yesterday's fame.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Chose the eggs, chose the wedding, and would not hear a Rose receipt.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stayed in the king long enough to make the tapster kneel, then agreed to come out of him.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Agnes Tipping",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Priced both plates at sixpence, and made the king pay sooner than a carter's habit.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the nun and the bear-baiting, and was answered with a wedding.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ralph Raye reported a fair restless yard and the road to Shoreditch, and stopped before a figure.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the Jackdaw ordinary",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Kings pay the same as carters",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Kings pay the same as carters",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard that kings pay the same as carters, and sooner",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Agnes Tipping",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Will Kemp",
+    "William Blackwage, Ralph Raye, Richard Hoope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "fish day",
+    "sixpence",
+    "the bent knee",
+    "a restless yard",
+    "a wedding rather than a baiting"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "We are amazed, and thus long have we stood / To watch the fearful bending of thy knee."
+    },
+    {
+      "speaker": "agnes_tipping",
+      "text": "Kings pay the same as carters, Master Richard, and sooner."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Sweet Master Shakespeare eats like a nun and fills a house like a bear-baiting."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I had rather it were like a wedding."
+    },
+    {
+      "speaker": "hired_men",
+      "text": "A fair yard over the water, Master Shakespeare, and a restless one."
+    }
+  ]
+}

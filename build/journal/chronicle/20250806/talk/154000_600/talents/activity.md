@@ -1,0 +1,1 @@
+In the afternoon the children staged a pageant by the rain-barrel. Judith would not be the woman after being the horse. Edmund roared into the barrel, and she crowned him with the colander. You laughed until you had to hold your side, spoke four lines to ransom him with two windfalls, and did not play him any ending. Tomorrow's walk up the row stayed theirs.

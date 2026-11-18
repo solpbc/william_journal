@@ -1,0 +1,1 @@
+About one, a casement opened over you. Anne asked who you were talking to. You said a girl at a window, not fourteen, and quick. She told you to let her be quick, and to come to bed. You did not go in then.

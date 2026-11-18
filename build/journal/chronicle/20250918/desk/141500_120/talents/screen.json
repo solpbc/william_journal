@@ -1,0 +1,17 @@
+{
+  "narrative": "The yard is in. The plot hangs on its peg at the edge of the door. The title and the hour are readable. No slip with his name beside it. He is on the house side of the door. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Stood at the door, and left when it was done."
+    },
+    {
+      "type": "Project",
+      "name": "the Knave",
+      "role": "mentioned",
+      "context": "Shown on plot in The door, and not the plot"
+    }
+  ]
+}

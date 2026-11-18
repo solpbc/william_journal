@@ -1,0 +1,1 @@
+You wrote nothing at evening prayer. The comedy went to a May Day house in its best clothes, and the hush still came. You were Navarre. The book stayed with Garnish until Saturday. The one bough was over the door when you came in, with no ribbon and no second. The tables still say God's is the quarrel, and nothing is written under it.

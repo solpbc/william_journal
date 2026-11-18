@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20250302",
+    "end": "20250308"
+  },
+  "generated_at": "2025-03-08T22:00:00Z",
+  "days": [
+    {
+      "day": "20250302",
+      "state": "memory",
+      "memory_id": "m-20250302-0"
+    },
+    {
+      "day": "20250303",
+      "state": "memory",
+      "memory_id": "m-20250303-1"
+    },
+    {
+      "day": "20250304",
+      "state": "memory",
+      "memory_id": "m-20250304-2"
+    },
+    {
+      "day": "20250305",
+      "state": "memory",
+      "memory_id": "m-20250305-3"
+    },
+    {
+      "day": "20250306",
+      "state": "memory",
+      "memory_id": "m-20250306-4"
+    },
+    {
+      "day": "20250307",
+      "state": "memory",
+      "memory_id": "m-20250307-5"
+    },
+    {
+      "day": "20250308",
+      "state": "memory",
+      "memory_id": "m-20250308-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20250302-0",
+      "key": "mem_20250302_0",
+      "day": "20250302",
+      "text": "Three days to the ashes. Sixpence for firing and washing. The leaf went back into the folder. Supper was tenpence a head, and you left close on nine.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250302/talents/morning_briefing",
+        "briefing_day": "20250302",
+        "refs": [
+          "sol://facets/household/activities/20250302#meeting_104000_540",
+          "sol://facets/writing/activities/20250302#frame_152000_180",
+          "sol://facets/company/activities/20250302#photo_190500_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20250303-1",
+      "key": "mem_20250303_1",
+      "day": "20250303",
+      "text": "You played the Duke. The masque at Whitehall was heard of. The warrant is drawn and moving.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250303/talents/morning_briefing",
+        "briefing_day": "20250303",
+        "refs": [
+          "sol://facets/company/activities/20250303#frame_124000_180",
+          "sol://facets/company/activities/20250303#meeting_164000_540",
+          "sol://facets/household/activities/20250303#meeting_191000_300"
+        ]
+      }
+    },
+    {
+      "id": "m-20250304-2",
+      "key": "mem_20250304_2",
+      "day": "20250304",
+      "text": "Twenty-four in the morning. Ferdinand, in the paper crown. Thirty-five lines, and one whole song, after the yard. You drank my lord's health.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250304/talents/morning_briefing",
+        "briefing_day": "20250304",
+        "refs": [
+          "sol://facets/company/activities/20250304#meeting_091000_480",
+          "sol://facets/household/activities/20250304#frame_121000_120",
+          "sol://facets/company/activities/20250304#frame_140500_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250305-3",
+      "key": "mem_20250305_3",
+      "day": "20250305",
+      "text": "The commination was read once. The book still says 1594. Kemp said three pounds. You said a fortnight, and you stayed on this side of the river. Supper was threepence.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250305/talents/morning_briefing",
+        "briefing_day": "20250305",
+        "refs": [
+          "sol://facets/household/activities/20250305#meeting_100500_480",
+          "sol://facets/company/activities/20250305#frame_110500_180",
+          "sol://facets/company/activities/20250305#meeting_130000_540"
+        ]
+      }
+    },
+    {
+      "id": "m-20250306-4",
+      "key": "mem_20250306_4",
+      "day": "20250306",
+      "text": "Brooke was sixpence, short a leaf. You made notes on Verona and stopped where the King comes first.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250306/talents/morning_briefing",
+        "briefing_day": "20250306",
+        "refs": [
+          "sol://facets/writing/activities/20250306#frame_102000_240",
+          "sol://facets/writing/activities/20250306#frame_151000_240",
+          "sol://facets/writing/activities/20250306#note_193000_720"
+        ]
+      }
+    },
+    {
+      "id": "m-20250307-5",
+      "key": "mem_20250307_5",
+      "day": "20250307",
+      "text": "Breakfast was threepence. Mistress Ansell said two houses alike is no plot. Anne's sheet stayed in the chest. You looked at the friar's name.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250307/talents/morning_briefing",
+        "briefing_day": "20250307",
+        "refs": [
+          "sol://facets/household/activities/20250307#meeting_090000_480",
+          "sol://facets/writing/activities/20250307#frame_143000_240",
+          "sol://facets/writing/activities/20250307#frame_162000_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20250308-6",
+      "key": "mem_20250308_6",
+      "day": "20250308",
+      "text": "You paid fivepence and twopence. The Lent list is whole. You walked to Finsbury twice. The shoes were off before eight.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20250308/talents/morning_briefing",
+        "briefing_day": "20250308",
+        "refs": [
+          "sol://facets/household/activities/20250308#meeting_100000_480",
+          "sol://facets/writing/activities/20250308#frame_102500_240",
+          "sol://facets/company/activities/20250308#note_124000_300"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20250302-0",
+      "key": "said_20250302_0",
+      "day": "20250302",
+      "quote": "Leave Gib on the book. He is the only scholar in the house who does not explain himself at supper.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250302#meeting_104000_540"
+      }
+    },
+    {
+      "id": "s-20250303-1",
+      "key": "said_20250303_1",
+      "day": "20250303",
+      "quote": "The fool is the man who goes where he is not asked.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250303#meeting_164000_540"
+      }
+    },
+    {
+      "id": "s-20250303-2",
+      "key": "said_20250303_2",
+      "day": "20250303",
+      "quote": "I played a duke at the Cross Keys. He is not a queen, whatever the gown did.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250303#meeting_191000_300"
+      }
+    },
+    {
+      "id": "s-20250304-3",
+      "key": "said_20250304_3",
+      "day": "20250304",
+      "quote": "I am not fair-copying a holiday.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20250304#meeting_165000_540"
+      }
+    },
+    {
+      "id": "s-20250305-4",
+      "key": "said_20250305_4",
+      "day": "20250305",
+      "quote": "The flag was up on the other bank. I did not cross.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250305#meeting_181500_360"
+      }
+    },
+    {
+      "id": "s-20250307-5",
+      "key": "said_20250307_5",
+      "day": "20250307",
+      "quote": "Names said aloud are a walk, and this is a kitchen. If I say them here I shall start to hear them answer, and they are not to answer yet.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250307#meeting_090000_480"
+      }
+    },
+    {
+      "id": "s-20250308-6",
+      "key": "said_20250308_6",
+      "day": "20250308",
+      "quote": "I have counted the coffer. I am not saying the figure.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250308#meeting_100000_480"
+      }
+    },
+    {
+      "id": "s-20250308-7",
+      "key": "said_20250308_7",
+      "day": "20250308",
+      "quote": "A clear board is not a new year.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20250308#meeting_100000_480"
+      }
+    }
+  ]
+}

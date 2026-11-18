@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "dorcas_ansell", "start": "12:10:00", "text": "You are in between your two duties. The loaf has not heard of either of them. It is a finger short.", "timing": {"end": 18.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "12:10:18", "text": "I know the length of it. Threepence, and I am out again at two. I am in the gentlemen.", "timing": {"end": 36.0, "start": 18.0}}
+{"sentence_id": 3, "speaker": "alse_pinder", "start": "12:10:36", "text": "Gib is still on the stair. Your letter is still on the desk. I have dusted round both.", "timing": {"end": 52.0, "start": 36.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "12:10:52", "text": "Leave both. Nothing on that desk goes out. I have not finished being abroad today.", "timing": {"end": 62.0, "start": 52.0}}

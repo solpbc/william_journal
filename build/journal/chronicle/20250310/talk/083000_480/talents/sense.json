@@ -1,0 +1,121 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "You helped clear the winter house at the Cross Keys. Three apparel baskets and the property hamper went to the cart, and the inn's trestles stayed stacked. Garnish kept the books in his arms. The ostlers threw Sam his cues from the loft, having heard the comedy forty times. Heminges paid thirteen shillings and fourpence on the sill. The cart is eightpence, to be paid at the Theatre door. The host said he would look for you at Michaelmas, if my lord writes again.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept Nick with him behind the cart, and left the cues with the loft.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted thirteen and four onto the sill, and held the eightpence for the door.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Carried the books, and kept both keys of the chest.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Walked, and refused to be a basket.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered the loft, and was not allowed the tail of the cart.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Shut the hamper and named the eightpenny fare up the street.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The yard cleared",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "13s 4d yard-money",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The yard cleared",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "8d cart",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The yard cleared",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Cleared the winter house at the Cross Keys",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Abel Garnish",
+    "William Blackwage, Ralph Raye, Richard Hoope",
+    "William Shakespeare",
+    "Sam Latchet",
+    "Nick Sorrell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three baskets",
+    "the books in Garnish's arms",
+    "forty times from the loft",
+    "thirteen and four",
+    "an eightpenny cart"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Thirteen shillings and fourpence. On the sill, and then in your hand."
+    },
+    {
+      "speaker": "(the host)",
+      "text": "At Michaelmas, then, masters, if my lord writes again."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "The books go in my arms. No other hand."
+    }
+  ]
+}

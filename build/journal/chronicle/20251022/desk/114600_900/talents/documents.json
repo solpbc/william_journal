@@ -1,0 +1,49 @@
+{
+  "overview": "You stopped writing. The tables stayed open on the four lines. You looked at the knot and at the cat on the shut book, and you did not reach for either. Someone called from the stair at the end of it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote that the other work could wait until after the yard"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the idle leaf",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the knot",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the cat's book",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the red bundle",
+      "asset_type": "other",
+      "disposition": "Wrote that the other work could wait until after the yard"
+    },
+    {
+      "name": "the Holinshed",
+      "asset_type": "other",
+      "disposition": "Wrote that the other work could wait until after the yard"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-22",
+      "meaning": "Stopped at the tables and left the bundle knotted"
+    }
+  ],
+  "summary": "Wrote that the other work could wait until after the yard"
+}

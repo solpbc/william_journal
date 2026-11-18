@@ -1,0 +1,1 @@
+By the fire at Banbury you said she speaks first, and then that he may think he does. You had been wet to the shirt in forty paces. Supper and the bed were ten pence, and the cheese was mostly paring.

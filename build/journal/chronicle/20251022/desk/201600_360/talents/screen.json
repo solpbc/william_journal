@@ -1,0 +1,23 @@
+{
+  "narrative": "The two lines, and one word under them. The stylus is in the gutter. He is not writing a second word. The bundle is still apart. No face. Empty paper under the one word. No cup. No drinking. The margin note is still there, smaller than the speech. No face. The leaf flat. Ink on the right forefinger. The hand has left the page. One candle. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Visible/present in Put the stylus down after the call for the Nurse"
+    },
+    {
+      "type": "Project",
+      "name": "the loose leaf",
+      "role": "mentioned",
+      "context": "Shown on draft in Put the stylus down after the call for the Nurse"
+    },
+    {
+      "type": "Project",
+      "name": "the red bundle",
+      "role": "mentioned",
+      "context": "Shown on draft in Put the stylus down after the call for the Nurse"
+    }
+  ]
+}

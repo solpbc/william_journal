@@ -1,0 +1,23 @@
+{
+  "narrative": "The writing-tables. Three words, one under another, and a blank under those. The pen down. No sum. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the three words, and stopped."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Quiney",
+      "role": "mentioned",
+      "context": "Named, and not yet written to."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Three words, and nothing under them"
+    }
+  ]
+}

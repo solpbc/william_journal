@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 840.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "13:41:40", "text": "Three names under the arithmetic. Susanna, Judith, Hamnet. The same length. I am not making a fourth for my father to balance a page.", "timing": {"end": 360.0, "start": 40.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "13:47:00", "text": "Nor a fifth for my mother. A kinder sheet would be a longer sheet, and a longer sheet would start to explain the box.", "timing": {"end": 550.0, "start": 360.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "13:50:10", "text": "It is still unsealed. I have not named a man. The empty room does not get a price either. I said I would not ask.", "timing": {"end": 760.0, "start": 550.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "13:53:40", "text": "Leave it. The afternoon is not for them.", "timing": {"end": 770.0, "start": 760.0}}

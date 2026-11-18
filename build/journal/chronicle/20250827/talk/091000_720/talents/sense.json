@@ -1,0 +1,142 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Garnish gave out the rolls as he came to each name. Burbage needed none. Phillips took Bolingbroke, Heminges York, Bryan Northumberland, Sly Mowbray in the lists, Pope a gardener of eighteen lines and an apricock tree, and Sincler the Groom. Kemp stood with his hand out. There was none for him. You told him there is no place where a man could laugh and the king still stand. He would have had a laugh at the deposing. The Master has cut it. Kemp said that he and the Master are served alike, and he took the jig as a groat in settlement of a pound.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told Kemp there is no place for a laugh that leaves the king standing, and that the deposing is cut.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stood with his hand out, and took the jig as a groat in settlement of a pound.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read the names and gave out the rolls.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Needed no roll. He has been the king since June.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the gardener, eighteen lines and an apricock tree.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took Bolingbroke.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took York, and named the jig.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took Northumberland. He did not need a speech to take it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Sincler",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the Groom's roll, the last in the bag.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Sly",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took Mowbray for the lists.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard the Second",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in No fool in it",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Kemp took the jig",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "Richard Burbage",
+    "Augustine Phillips",
+    "John Heminges",
+    "Thomas Pope",
+    "Will Kemp",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the rolls",
+    "eighteen lines and an apricock tree",
+    "no fool in it",
+    "the cut deposing",
+    "a groat in settlement of a pound"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_pope",
+      "text": "Eighteen lines and an apricock tree"
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "A king play! With no fool in it! Who's to tell them when to breathe?"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The Master has cut the deposing"
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Has he so? Then he and I are served alike"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "overview": "You read the Rose bill at the lodging. The title was The Seven Days of the Week, at two. There was no sum on it. You did not cross the river.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the title and stayed at the lodging."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the Rose bill",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the title",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "staying north",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Seven Days of the Week",
+      "asset_type": "other",
+      "disposition": "Read the Seven Days bill at the lodging"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-10",
+      "meaning": "Seven Days, title only"
+    }
+  ],
+  "summary": "Read the Seven Days bill at the lodging"
+}

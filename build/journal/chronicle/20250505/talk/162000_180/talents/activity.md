@@ -1,0 +1,1 @@
+After The Comedy of Errors, Heminges said you had not one line of your own in Egeon. Pope said a sigh would have been an extra line. You left the part as it was set. The comedy is still at Field's. The jig is Thursday.

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "timestamp": "2025-12-06T21:15:00Z",
+  "outcome": "served",
+  "reason": null,
+  "result": {
+    "count": 1,
+    "targets": [
+      "facets/company/activities/20251206.jsonl#meeting_170500_720"
+    ],
+    "digest": "c7bf8b30dd52e4aff8c96a4be2868642c53d44c77a83c0f2153ac8c31348a016"
+  }
+}

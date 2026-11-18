@@ -1,0 +1,89 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You came down to the foot of the stair after the pan. Mistress Ansell named sixpence for firing and washing and threepence for the board if you eat. You paid both, and said you would eat at noon. You told her the new leaf is still 1594, and that the Queen is in it for twenty pounds, not yet had. She told you to keep that money in the book. Alse offered the ink. You sent her back.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid both sums, named the twenty pounds as not yet had, and went up.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the sixpence and the threepence, took them, and sent him back to the leaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Apologised for the pan and offered the ink.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "the Queen's twenty pounds",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Demands from below",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the account book",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Demands from below",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Paid the sixpence and the threepence at the stair",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the pan",
+    "sixpence",
+    "threepence",
+    "twenty pounds not yet had"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Firing and washing for the week is sixpence, and the board is threepence if you eat."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "There is the sixpence, and the threepence with it."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Not yet had is not a dinner."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The Queen is in it for twenty pounds, not yet had."
+    }
+  ]
+}

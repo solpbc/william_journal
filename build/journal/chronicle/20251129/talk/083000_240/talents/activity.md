@@ -1,0 +1,1 @@
+The loaf was two fingers short, and Alse had paid the penny. You are in Titus at two, and you do not know what they will call the gown. You are not asking at breakfast. The boxes open after. Mistress Ansell told you not to make her table a second tally. You said you would write one line at home, if there is a line. The band waits until noon.

@@ -1,0 +1,120 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "Easter term ended. The almanac lay open on the property-chest. Heminges wanted the comedy for Whit Monday and you gave it, Monday the ninth. He asked for a Labour's Won at Michaelmas, with the same four and the weddings. You said you have a king. He asked how near. You said he is about to be unkinged. Burbage set that for Michaelmas, when the Inns are back. Three weeks of the old stock run from the ninth to Midsummer.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave the comedy for the ninth, refused a second, and said the king is about to be unkinged.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Opened the almanac, took the comedy for Whit Monday, and asked for a Labour's Won at Michaelmas.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the end speech again before the ninth, and set the king for Michaelmas, when the Inns are back.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Wanted a jig after the holiday play, and said a king being unkinged is a long afternoon.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Wanted the ninth written down before the autumn was spent.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted three weeks of old stock to Midsummer, and held his question for the next sitting.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The comedy for the ninth",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Won",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The comedy for the ninth",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The comedy for the ninth",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Gave Heminges the comedy for the ninth",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Augustine Phillips",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Will Kemp",
+    "George Bryan"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Easter term",
+    "Monday the ninth",
+    "a Labour's Won",
+    "a king about to be unkinged"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "The\u2014 the people liked the Labour's Lost. Give me a Labour's Won for Michaelmas, Will, with the same four and the weddings in it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "He's about to be unkinged."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Michaelmas, then, when the Inns are back to hear it."
+    }
+  ]
+}

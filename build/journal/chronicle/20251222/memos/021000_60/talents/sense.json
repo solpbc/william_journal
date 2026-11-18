@@ -1,0 +1,44 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Awake about two, you thought of nothing but where the Prince stands. You did not answer it. You stopped.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the place once and ended it.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Thought of where the Prince stands",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "where the Prince stands"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Where the Prince stands. Nothing else. Not answered."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Remember: where he stands. \u2026Enough."
+    }
+  ]
+}

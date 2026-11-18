@@ -1,0 +1,17 @@
+{
+  "narrative": "His roll in the tiring-house before he goes on. The cue words sit to the right of a long rule. No author's name. He speaks the opening himself, and he comes back as the Prince when the street is to be quiet. Nothing on the roll has been changed since the last afternoon. He looks for a mark and does not find one. The red thread is on the bundle, not on this strip. He does not add a word in the margin.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the unchanged roll and went on."
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "context": "Shown on part in The third time"
+    }
+  ]
+}

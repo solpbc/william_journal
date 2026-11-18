@@ -1,0 +1,17 @@
+{
+  "narrative": "The foul papers of the last scene, by one candle. The messenger's exchange is underlined, not struck. No hand is in the frame. A softer ending is begun under those lines and struck through. The pen lies in the gutter. The same leaf. A short order in the margin, and a pause-mark after the ladies' refusal. The words of the refusal are not struck. Lower on the same opening, a line he is not rewriting tonight. The candle is his.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Struck the softer ending, left the refusal, and marked the pause."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on draft in Leave the refusal"
+    }
+  ]
+}

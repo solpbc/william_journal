@@ -1,0 +1,1 @@
+Alone, you set another table against this one. Nine sit at it. Your stool is back in your father's shop. A grey kerchief should have reached her by now, and you do not know whether it has. You did not write to ask. You stopped.

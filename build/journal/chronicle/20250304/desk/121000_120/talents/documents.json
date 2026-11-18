@@ -1,0 +1,38 @@
+{
+  "overview": "At the lodging you read two lines in the almanac, Shrove Tuesday and my lord's birthday. You did not write an age beside them. You did not write a sum.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked at the two lines and did not write a number."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Shrove Tuesday",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "my lord's birthday",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no age",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-04",
+      "meaning": "Two lines, and no age"
+    }
+  ],
+  "summary": "Read Shrove Tuesday and my lord's birthday in the almanac"
+}

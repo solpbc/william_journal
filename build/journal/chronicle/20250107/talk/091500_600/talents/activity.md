@@ -1,0 +1,1 @@
+At rehearsal you were a line early on the third entrance, because father is said twice and only the second is your cue. You play the old man with the message at two, and you did not name him. Augustine Phillips set eight bars under the entrance instead of four, and no new song. Garnish marked the plot and refused to rewrite the book for one morning.

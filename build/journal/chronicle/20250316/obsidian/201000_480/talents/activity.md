@@ -1,0 +1,1 @@
+You wrote the day down in the old style. Seven heads, and the glass turned once. The letter is still unsent and still has no day. Saturday's part is had and not spent, and no horse was hired with it. The firing sixpence is still running. Brooke is open, with no speech, and the chronicle is not in the room.

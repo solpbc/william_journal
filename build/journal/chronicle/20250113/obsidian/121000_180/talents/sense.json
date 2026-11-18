@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You entered the morning under Words, in the three phrases you use for a cold. Under them you noted forsworn, three times in four lines, and you left the strikes for a clearer head.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the two entries and did not correct the page.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the commonplace book",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Under Words",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote the morning under Words",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the commonplace",
+    "rheum",
+    "the repeated word"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,1 @@
+Going out of the churchyard into Cheapside, you tried the word: sweet, like a pippin, like a child's physic. A man in Cambridge you never saw. Thirty-one years, and it comes in a margin. You laughed with your shoulders as far as the Stocks.

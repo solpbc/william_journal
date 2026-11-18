@@ -1,0 +1,1 @@
+After the afternoon you were out of the Two Gentlemen, and you did not name the part. Garnish said nothing was bought and that the K was unchanged. The Rose had a Wise Man. You did not go. Kemp kept the morning's terms. You still had no figure for his lines. Burbage had left the love speech at the stable wall.

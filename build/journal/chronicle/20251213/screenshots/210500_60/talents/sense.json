@@ -1,0 +1,35 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "The papers were tied in tape at the bottom of the open coffer. The tape came from the property basket. The cat was not on them in the picture. Nothing else had yet been put back.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Looked at the tied papers, and not at a face.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Saw the tape at the bottom",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the tape",
+    "the bottom of the coffer",
+    "the open lid"
+  ],
+  "quotes": []
+}

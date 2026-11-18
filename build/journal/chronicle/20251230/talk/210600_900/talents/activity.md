@@ -1,0 +1,1 @@
+You told them the press was empty and that you were not leaving a sheet on it. Field said the bar could stay cold until morning. You said you were shutting the leaf with nothing added, and taking the pages home in the same fold.

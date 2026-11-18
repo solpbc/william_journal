@@ -1,0 +1,11 @@
+{
+  "narrative": "The writing-tables open on the desk, one small leaf, the candle still up. The hand has wiped an older list. What remains is four short lines. The rest of the leaf is blank. He does not write a house, a sum, or a man's name.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the four lines and did not add a fifth."
+    }
+  ]
+}

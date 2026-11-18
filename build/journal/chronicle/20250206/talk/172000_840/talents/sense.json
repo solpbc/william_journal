@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "At the Bell, after the play, Hobbins had been in since noon. He gave you the road. Twelve hours to Wycombe if the way were dry, and it is not. Oats up a penny at Oxford. A bridge plank gone at Shipston. He left Stratford on Monday week, and the twins' day will be nine days old when the letter arrives. He said they will take it kindly, late. You said they will take the groats kindly. You started an instruction by mouth, stopped, and wrote on the outside that the two groats are within, one to each twin. He asked whether your mistress was expected to guess, and you gave him that plain line. Anne's letter was a pan mended, a ladle found where your father swore he never put it, and a quarrel at the well. You asked after the cough and got mending. You paid twopence and drank one cup. You did not send the day you will come.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Wrote the outside, asked after the cough, and paid.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Priced the road, took the packet, and gave Anne's letter back.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Candlemas letter",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The Candlemas letter goes late",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Gave Hobbins the late letter and took Anne's letter",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Thomas Hobbins",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the road",
+    "the groats",
+    "Anne's letter",
+    "the cough"
+  ],
+  "quotes": [
+    {
+      "speaker": "thomas_hobbins",
+      "text": "Twelve hours to Wycombe if the way's dry."
+    },
+    {
+      "speaker": "thomas_hobbins",
+      "text": "They'll take it kindly, late."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "They'll take the groats kindly."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The two groats are within. One to each twin."
+    },
+    {
+      "speaker": "thomas_hobbins",
+      "text": "Mending."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+At St Helen's you stood morning prayer. Master Thwaite turned the sand-glass twice and stopped when the prayer was said. Sir John Spencer gave two short responses from his pew and did not speak to you. Mistress Ansell came away with you across the wet close.

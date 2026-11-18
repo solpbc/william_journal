@@ -1,0 +1,108 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "After morning prayer Master Thwaite did not come in to eat. The sword went before Sir John for the last Sunday, and he did not speak. You said you were not going up the lane. The letter can wait in the coffer for the carrier of the thirteenth. Mistress Ansell told you not to send a supper-story. The loaf is a penny and a full thumb short of the notch. You did not argue it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused the supper-story and the argument about the loaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ended the morning and did not ask Sir John for a word.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Priced the loaf, named the sword, and barred a story fit for strangers.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Went out behind the sword and did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named at home, and not in the porch.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Named on the settle, and not moved.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the coffer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The last Sunday of the sword",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the carrier of the thirteenth",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The last Sunday of the sword",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Saw the sword go before Sir John for the last Sunday",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the last Sunday of the sword",
+    "the letter",
+    "a penny loaf"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "The loaf is a penny, and it is a full thumb short of the notch"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not send it."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "That is the last Sunday you will see it carried before him."
+    }
+  ]
+}

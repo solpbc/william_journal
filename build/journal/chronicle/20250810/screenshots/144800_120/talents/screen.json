@@ -1,0 +1,35 @@
+{
+  "narrative": "Three willow-bark boats with twig masts among sunlit reeds below the arches, children's hands at the frame's edge. No faces.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "In Three boats in the reeds"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "context": "A hand at the edge of the frame."
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "mentioned",
+      "context": "A hand at the crooked boat."
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "mentioned",
+      "context": "A hand at the one she had sung."
+    },
+    {
+      "type": "Tool",
+      "name": "the three bark boats",
+      "role": "mentioned",
+      "context": "In photo: Three boats in the reeds"
+    }
+  ]
+}

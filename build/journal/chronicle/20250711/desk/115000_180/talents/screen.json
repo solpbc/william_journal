@@ -1,0 +1,17 @@
+{
+  "narrative": "The tables are in your hand by the window. Three notes, and no map. The pen does not draw a shore.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the three notes."
+    },
+    {
+      "type": "Tool",
+      "name": "the tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Three notes"
+    }
+  ]
+}

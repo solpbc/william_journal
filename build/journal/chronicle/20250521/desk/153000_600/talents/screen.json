@@ -1,0 +1,17 @@
+{
+  "narrative": "Afternoon light on the same leaf. Sunday's margin is still there, small. Under the descent, three lines in a fairer hand. No glass. The foot of the page is still blank. The right margin under the three lines is empty. Pounce on the three lines. The blank under them is a finger deep. Nothing written in it. No strike through anything.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the three sentences and pounced them."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in The king is come down"
+    }
+  ]
+}

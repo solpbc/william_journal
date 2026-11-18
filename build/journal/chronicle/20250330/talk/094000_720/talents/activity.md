@@ -1,0 +1,1 @@
+At Holy Trinity your mother asked who mends your shirts, and she set your inked forefinger beside your father's alum. She said she would not speak of what you do. Under the responses she said a short grace, and you did not answer it. Your father was not in the pew. Nobody looked at the place. The sword was on the nail at home.

@@ -1,0 +1,1 @@
+Alse had been out before four with wet shoes and three boughs. Mistress Ansell allowed one over the door, and no more, and no ribbon, and Alse will not bring a second. The bough will not be dressed up. You left Gib on the second volume. The loaf is a finger and a half short, at a penny, and the board is threepence. You went up to the gate with the old man already in your head.

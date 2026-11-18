@@ -1,0 +1,23 @@
+# Anne and the house
+
+The marriage is not mended by one lyrical conversation. It moves by a date kept, a sum delivered, and a question he answers badly. The house she names on 16 August is a wish with an address. No inquiry, no price, no purchase.
+
+From world § 1, § 5.2 and § 9.2.5. Address her as *thou* unless she herself goes cold, which is a mood of the scene and not a dated change. The pronouns that never move are in [index.md](index.md). The sums are [debts-and-reckonings.md](debts-and-reckonings.md). Where he is when he can see her is [where-he-is.md](where-he-is.md).
+
+| from | to | state | true now | not yet | entries |
+|---|---|---|---|---|---|
+| 2025-01-01 | 2025-01-18 | her letters are errands | What he has had of her this year is practical. He has not yet read the 19 Jan letter. | Do not stage the Shottery question. No house has been named. | § 5.2 |
+| 2025-01-19 | 2025-02-01 | the letter, read as interruption | Her letter reaches him abed: the children's shoes, his father's cough (mild), a question about Lent (W006). He first reads the practical requests as interruptions. | The Candlemas packet is not written. | W006 |
+| 2025-02-02 | 2025-02-05 | the packet is written, and late | The Candlemas packet is written: a groat each "to be spent foolishly", comfits, and a letter (S012). It has not gone. | It goes on the 6th, not before. | S012 |
+| 2025-02-06 | 2025-02-15 | the packet has gone | It goes down with the carrier (W114). | The Septuagesima letter is the 16th. He has not sent the day he will come. | W114 |
+| 2025-02-16 | 2025-03-19 | a letter on Septuagesima | He writes to her (W013). The day of his coming has not been sent. The 60s have not been kept back for her hand. | Do not arrive him. Do not have her ask the question. | W013 |
+| 2025-03-20 | 2025-03-27 | she has the day, not the money | Four lines go ahead by Hobbins with the day he will come. The Lady Day 60s stays sewn in canvas, for her hand (W121). | She has not said "You've come, then." | W121 |
+| 2025-03-28 | 2025-04-04 | he has come | At the door: "You've come, then" (W026). The lath sword goes to Hamnet that night. The question has not been asked. | Do not mend the marriage with a speech. The 5th is the question. | W026 |
+| 2025-04-05 | 2025-08-07 | the question, badly answered | At the brook she asks "Is London where you work, Will, or where you live?" He says both, and that a man may have a trade in one town and a house in another. She says that was three answers, and she asked for one (W029). She has 18s of the quarter. | Do not give her a better answer later in the spring. The 30s and the admission are 8 Aug. No house is named. | W029 |
+| 2025-08-08 | 2025-08-15 | thirty shillings, and he has not looked | 30s goes into her lap, over the quarter (W331). He admits he has not looked at a house. | Do not let her name one yet. That is the 16th. | W331 |
+| 2025-08-16 | 2025-08-30 | that one, then | At the great house by the Guild Chapel she names it: "That one, then" (W071). It is a wish with an address. No inquiry and no price, and none follows. | Do not buy it, price it, or write to the owner. His truer letter is 31 Aug. | W071 |
+| 2025-08-31 | 2025-09-30 | a letter that says what he thinks | His letter of 31 Aug says, for once, what he is thinking (§ 5 September). By September her letters come under agreed heads: money, supplies, the household. | Do not turn this into a lyrical reconciliation. | § 5.2 |
+| 2025-10-01 | 2025-11-15 | the heads hold | The correspondence stays practical. A household decision in her November packet has not yet reached his answer. | The 16 Nov answer has not been written. | § 5.2 |
+| 2025-11-16 | 2025-12-17 | he answers a decision already made | Her packet by the carrier of the 13th reports a household decision already made. He is briefly annoyed at being informed, then answers it plainly (G089). | The Christmas pack is the 18th. Do not pay a surprise visit. | G089 |
+| 2025-12-18 | 2025-12-29 | the pack, and no visit | The Christmas pack goes: spices, oranges, cloth, holland linen for Joan, and the quarter's 60s (W105). He sends arrangements, not hints. He does not come. | Do not put him on the Stratford road. The 30 Dec letter has not been written. The house is still only a wish. | W105 |
+| 2025-12-30 | 2025-12-31 | the answer, in writing | He writes to her. "You asked me a thing at Shottery brook and I answered it ill. I work in London. I live where you are. The rest is arithmetic" (W109). He has asked nobody the price of any house. He does not come. | Do not buy the house. Do not put him on the road. Do not soften the April answer into a speech he makes in the room. | W109 |

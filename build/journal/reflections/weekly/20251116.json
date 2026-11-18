@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "week": {
+    "start": "20251116",
+    "end": "20251122"
+  },
+  "generated_at": "2025-11-22T22:00:00Z",
+  "days": [
+    {
+      "day": "20251116",
+      "state": "memory",
+      "memory_id": "m-20251116-0"
+    },
+    {
+      "day": "20251117",
+      "state": "memory",
+      "memory_id": "m-20251117-1"
+    },
+    {
+      "day": "20251118",
+      "state": "memory",
+      "memory_id": "m-20251118-2"
+    },
+    {
+      "day": "20251119",
+      "state": "memory",
+      "memory_id": "m-20251119-3"
+    },
+    {
+      "day": "20251120",
+      "state": "memory",
+      "memory_id": "m-20251120-4"
+    },
+    {
+      "day": "20251121",
+      "state": "memory",
+      "memory_id": "m-20251121-5"
+    },
+    {
+      "day": "20251122",
+      "state": "memory",
+      "memory_id": "m-20251122-6"
+    }
+  ],
+  "memories": [
+    {
+      "id": "m-20251116-0",
+      "key": "mem_20251116_0",
+      "day": "20251116",
+      "text": "The wash stands at fourpence. The Christmas money is three uses on the sheet. The coffer was opened, and the foot got no total.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251116/talents/morning_briefing",
+        "briefing_day": "20251116",
+        "refs": [
+          "sol://facets/household/activities/20251116#meeting_104800_360",
+          "sol://facets/stratford/activities/20251116#note_143000_480",
+          "sol://facets/stratford/activities/20251116#frame_144200_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20251117-1",
+      "key": "mem_20251117_1",
+      "day": "20251117",
+      "text": "Twelve pence at the gate, a hundred yards off, and he kept his seat. One line on the tables. You did not tell the house.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251117/talents/morning_briefing",
+        "briefing_day": "20251117",
+        "refs": [
+          "sol://facets/household/activities/20251117#memo_085000_120",
+          "sol://facets/household/activities/20251117#meeting_094000_120",
+          "sol://facets/household/activities/20251117#photo_112000_60"
+        ]
+      }
+    },
+    {
+      "id": "m-20251118-2",
+      "key": "mem_20251118_2",
+      "day": "20251118",
+      "text": "Gaunt, played through. Last month's page stands as it was.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251118/talents/morning_briefing",
+        "briefing_day": "20251118",
+        "refs": [
+          "sol://facets/company/activities/20251118#frame_091000_240",
+          "sol://facets/company/activities/20251118#frame_121000_120",
+          "sol://facets/company/activities/20251118#frame_151000_180"
+        ]
+      }
+    },
+    {
+      "id": "m-20251119-3",
+      "key": "mem_20251119_3",
+      "day": "20251119",
+      "text": "The lovers read, the Nurse taken, and Saturday supper asked. You stayed home from the Shrew.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251119/talents/morning_briefing",
+        "briefing_day": "20251119",
+        "refs": [
+          "sol://facets/company/activities/20251119#meeting_090800_720",
+          "sol://facets/company/activities/20251119#frame_102000_120",
+          "sol://facets/company/activities/20251119#meeting_110500_600"
+        ]
+      }
+    },
+    {
+      "id": "m-20251120-4",
+      "key": "mem_20251120_4",
+      "day": "20251120",
+      "text": "A quire at fourpence halfpenny, the nine articles heard, and the word bottom. The loaf is two fingers short.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251120/talents/morning_briefing",
+        "briefing_day": "20251120",
+        "refs": [
+          "sol://facets/company/activities/20251120#frame_092000_180",
+          "sol://facets/writing/activities/20251120#meeting_113200_720",
+          "sol://facets/writing/activities/20251120#frame_120500_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20251121-5",
+      "key": "mem_20251121_5",
+      "day": "20251121",
+      "text": "The leaf reversed Friday and Saturday. No part was named.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251121/talents/morning_briefing",
+        "briefing_day": "20251121",
+        "refs": [
+          "sol://facets/household/activities/20251121#frame_081000_120",
+          "sol://facets/company/activities/20251121#meeting_140800_240",
+          "sol://facets/company/activities/20251121#frame_152000_120"
+        ]
+      }
+    },
+    {
+      "id": "m-20251122-6",
+      "key": "mem_20251122_6",
+      "day": "20251122",
+      "text": "Monday at six, three sheets started, eight-and-twenty shillings said once, and the first thou.",
+      "source": {
+        "kind": "briefing",
+        "uri": "sol://chronicle/20251122/talents/morning_briefing",
+        "briefing_day": "20251122",
+        "refs": [
+          "sol://facets/stratford/activities/20251122#call_080000_180",
+          "sol://facets/stratford/activities/20251122#memo_080800_60",
+          "sol://facets/writing/activities/20251122#note_111500_600"
+        ]
+      }
+    }
+  ],
+  "said": [
+    {
+      "id": "s-20251116-0",
+      "key": "said_20251116_0",
+      "day": "20251116",
+      "quote": "The letter is for home, and it is not a quarrel I mean to win.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20251116#meeting_104800_360"
+      }
+    },
+    {
+      "id": "s-20251116-1",
+      "key": "said_20251116_1",
+      "day": "20251116",
+      "quote": "Counted, it's only money.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20251116#memo_171500_60"
+      }
+    },
+    {
+      "id": "s-20251117-2",
+      "key": "said_20251117_2",
+      "day": "20251117",
+      "quote": "A stillness behind glass. That is all I had of her. Do not ask me for more.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/household/activities/20251117#meeting_200500_480"
+      }
+    },
+    {
+      "id": "s-20251117-3",
+      "key": "said_20251117_3",
+      "day": "20251117",
+      "quote": "I was bid come and see him unhorsed.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251117#memo_204800_60"
+      }
+    },
+    {
+      "id": "s-20251119-4",
+      "key": "said_20251119_4",
+      "day": "20251119",
+      "quote": "Half is what is written. I am not adding the other half on a stair.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/company/activities/20251119#meeting_110500_600"
+      }
+    },
+    {
+      "id": "s-20251120-5",
+      "key": "said_20251120_5",
+      "day": "20251120",
+      "quote": "A sentence a man can finish is a kindness.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251120#meeting_113200_720"
+      }
+    },
+    {
+      "id": "s-20251120-6",
+      "key": "said_20251120_6",
+      "day": "20251120",
+      "quote": "God locked into nine clauses, like a tenant into a lease.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251120#memo_125500_120"
+      }
+    },
+    {
+      "id": "s-20251122-7",
+      "key": "said_20251122_7",
+      "day": "20251122",
+      "quote": "Players' purses are charitable to tapsters, Richard, and to nobody else in Christendom.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/stratford/activities/20251122#call_080000_180"
+      }
+    }
+  ]
+}

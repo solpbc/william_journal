@@ -1,0 +1,104 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You came out of St Helen's with the household into a hot morning. Master Thwaite had kept to three heads. A man at the porch asked Gillis his birth, and was told Norwich. Sir John left by his own door and said nothing. No order has shut the playhouse. You are to meet the fellows in the morning. Mistress Ansell wanted the front windows shut, and the weather left outside.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Greeted the porch, left Friday where it was, and named no order that shuts the house.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped the questions, set the walking order, and wanted the weather kept outside.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted three heads, noted Sir John's silence, and asked what tomorrow is.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered Norwich to a man at the porch, and kept the loom for the back room.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought the dust in on a heel, and reported the cat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Passed to his own door and did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Golding",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in After St Peter's",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Came out of St Helen's and heard Norwich at the porch",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Master Josias Thwaite",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder",
+    "Gillis Verbeke"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "St Peter's",
+    "three heads",
+    "Norwich",
+    "Sir John's door",
+    "Monday not yet known"
+  ],
+  "quotes": [
+    {
+      "speaker": "josias_thwaite",
+      "text": "The heads were three, and three is enough when men are already counting doors"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "We meet in the morning and see what the morning is"
+    },
+    {
+      "speaker": "gillis_verbeke",
+      "text": "Norwich, sir. I have always had a Norwich face, and a loom in Bishopsgate"
+    }
+  ]
+}

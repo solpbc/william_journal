@@ -1,0 +1,46 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You ate bacon and pease-pottage and took the loft for two pence. The hay was last year's. She sent you up the ladder once you had eaten.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid, ate, and climbed.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Paid two pence for the loft",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "bacon and pease",
+    "two pence",
+    "last year's hay"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Both. And the loft, if the loft is two pence"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Two pence. I am not arguing a loft down"
+    }
+  ]
+}

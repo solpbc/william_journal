@@ -1,0 +1,85 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "You had no part in Richard the Third. You were in the house, and the yard did not listen. By report, eighteen hundred had pulled two pillories down in Cheapside and gone against the Counter again, and timber was carried toward Bishopsgate. You were not in that crowd. John would not enter the number as his own count. Margery would not speak for a stair she had not stood.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said he had no part, and that he was not in Cheapside.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused to invent a part, and refused the number as his own count.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Goodwife Margery Pell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the yard did not listen, and would not speak for Cheapside.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought eighteen hundred and two pillories as report.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard III",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Nobody listened",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Was in the house for Richard the Third",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Goodwife Margery Pell",
+    "William Blackwage, Ralph Raye, Richard Hoope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "no part",
+    "eighteen hundred",
+    "the yard"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "You had no part in it."
+    },
+    {
+      "speaker": "margery_pell",
+      "text": "And the yard did not listen."
+    },
+    {
+      "speaker": "hired_men",
+      "text": "Eighteen hundred, by report."
+    }
+  ]
+}

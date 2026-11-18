@@ -1,0 +1,45 @@
+{
+  "overview": "You kept her sentence in view after the pack was corded. You did not open Sunday's letter to answer the sword, the porch, or the two faults. You folded her sheet into your book.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read her line and left his own letter corded."
+    },
+    {
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Anne Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Her sentence was on the sheet. She was not in the yard."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "her sentence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the cord left shut",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no postscript",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-18",
+      "meaning": "Getting cheaper"
+    }
+  ],
+  "summary": "Read the cheaper pane twice"
+}

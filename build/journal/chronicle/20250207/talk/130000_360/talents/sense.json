@@ -1,0 +1,85 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At dinner you ate Friday fish at the lodging. The board was threepence. The penny loaf was still a finger short, and no second was bought. Fair Em was at the Cross Keys, and you were not in it. You told them the letter went yesterday. You did not send anyone out to a bill.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate, and did not go out.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Served the fish and kept the girl in the house.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the short loaf and asked after the letter.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Fair Em",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Friday fish",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Friday fish",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate fish and stayed in",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "Alse Pinder",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Friday fish",
+    "the loaf",
+    "the letter gone",
+    "Fair Em"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Fish, it being Friday."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "A finger short of the notch, sir."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "There is no rehearsal tomorrow until nine."
+    }
+  ]
+}

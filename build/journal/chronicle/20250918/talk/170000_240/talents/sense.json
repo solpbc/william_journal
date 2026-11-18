@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You told Burbage, low, and the next bench heard you. Kemp stopped eating. He tried Sweet Master Shakespeare once, and he did not spend the evening on it. You told him to eat.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Told Burbage, and told Kemp to eat.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the king, and left Field the poems.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped eating, tried the name once, and put the spoon down.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the margin",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The spoon down",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Told Burbage low, and Kemp stopped eating",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Richard Burbage",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the next bench",
+    "the spoon",
+    "the first trying of the name"
+  ],
+  "quotes": [
+    {
+      "speaker": "will_kemp",
+      "text": "Sweet Master Shakespeare."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Eat your supper, Will."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "I am only trying the fit of it."
+    }
+  ]
+}

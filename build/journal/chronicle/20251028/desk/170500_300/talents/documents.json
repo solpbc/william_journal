@@ -1,0 +1,46 @@
+{
+  "overview": "You stood through evening prayer. The almanac names Simon and Jude. The prayer stayed the prayer. You did not stay for a second turn, and you did not bring Saturday's sermon forward into it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Stood the prayer and did not lengthen it."
+    },
+    {
+      "name": "Master Josias Thwaite",
+      "role": "visible",
+      "formal_term": "Master Josias Thwaite",
+      "appointment_tier": "not_applicable",
+      "context": "Read the evening prayer and was not asked for more."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "evening prayer",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Simon and Jude",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the almanac",
+      "asset_type": "other",
+      "disposition": "Stood through evening prayer for Simon and Jude"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-28",
+      "meaning": "Simon and Jude"
+    }
+  ],
+  "summary": "Stood through evening prayer for Simon and Jude"
+}

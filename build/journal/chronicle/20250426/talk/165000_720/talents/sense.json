@@ -1,0 +1,98 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "John Heminges entered thirty-eight shillings as the share and refused to open a coffer. You called it Easter week's share, the best since February, and you did not state an old total or a new one. The afternoon's faults were not named. No Rose receipt was guessed. The book shut on the one figure.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left it a share, refused a new total, and refused the Rose's unknown sums.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Entered thirty-eight shillings and shut the book on that line.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard the figure, refused the afternoon's faults, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Witnessed the share and did not make a second sum.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "thirty-eight shillings",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thirty-eight shillings the share",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard III",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thirty-eight shillings the share",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Took thirty-eight shillings as a share and shut the book",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "Richard Burbage",
+    "Thomas Pope"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "thirty-eight shillings",
+    "the share",
+    "Easter week",
+    "no new balance"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Thirty-eight shillings the share."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Easter week brings the best share since February."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "The faults stay in the afternoon."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "I am not asking what the afternoon did wrong."
+    }
+  ]
+}

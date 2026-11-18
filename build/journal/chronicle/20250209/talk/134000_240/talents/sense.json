@@ -1,0 +1,54 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "You walked fast, head down, and said Navarre's first line until it sat in the breath. An archer told you to mind the butt. You stayed on the path. You did not open the rest of the speech.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the line three times and took it with him.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Until it sits",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said Navarre's first line until it sat in the breath",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Navarre's first line",
+    "the butt",
+    "the path"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Let Fame, that all hunt after in their lyues."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "There. It sits."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "narrative": "The same roll, the name at the top, Tuesday's margin still in the side. No new stroke. No face. The note beside the loss, unchanged from Tuesday. No tally written on this roll.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Left the roll as it was and went on to open the play."
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "context": "Shown on part in The third opening"
+    }
+  ]
+}

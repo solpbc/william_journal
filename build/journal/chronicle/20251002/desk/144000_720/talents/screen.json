@@ -1,0 +1,29 @@
+{
+  "narrative": "He is in the chair, in the furred gown, the beard chalked. The line goes out into a full house. He is not at the door yet. He is still the man speaking. By the middle of the second act he is out of the chair and at the tiring-house door. He does not go back on. From here he only hears. Burbage is on the stage, sitting. The crown changes heads between two speeches. The unmaking is told, not acted. A boy is not in this frame. The yard has gone quiet enough that the report can be heard.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Spoke Gaunt, died in the second act, and kept to the door after."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "context": "Sat upon the ground with the stories."
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "mentioned",
+      "context": "The Abbot's line is his to say, of a pageant not staged."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on stage in The hush"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{"backend": "whisper", "duration": 480.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "15:52:40", "text": "Two naves, and a plain chest between the light and me. I know the distance. I am not making it a longer stay because the light is going.", "timing": {"end": 320.0, "start": 40.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "15:57:20", "text": "The blank at home is mine. I did not come here to be handed a line by a stone. Back across the same yards.", "timing": {"end": 430.0, "start": 320.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "15:59:10", "text": "The letter is on the board. This is not where it gets a seal.", "timing": {"end": 440.0, "start": 430.0}}

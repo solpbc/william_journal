@@ -1,0 +1,44 @@
+{
+  "overview": "You drafted a few foul lines of the garden and stopped. The gardener binds the apricocks. She hears him. He knows more than she. You did not finish an act, and you did not give the lines to anyone to learn.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the foul lines and left them unassigned."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the garden",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "apricocks",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "an unfinished draft",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Drafted a few lines of the garden and stopped"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-29",
+      "meaning": "He binds them"
+    }
+  ],
+  "summary": "Drafted a few lines of the garden and stopped"
+}

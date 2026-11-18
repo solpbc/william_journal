@@ -1,0 +1,90 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "After the lovers, Phillips said Nick came in under the note and that the mornings still stand. Burbage had not needed to carry him. You told Nick the court room wants him lower, not higher, and that tomorrow is no experiment. You called today the third time and Saturday the fourth, if the bill holds. No cloak was chosen tonight. Nick went to Aldermanbury with the cold in his hands and the note in his mouth.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set tomorrow as the same note, and Saturday as not yet.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the mornings, and sent him to warm his hands.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the cold and the note as two different things, and went to Aldermanbury.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said his hand was not needed, and refused to invent a cloak tonight.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Under the note",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Heard Nick under the note and called Saturday the fourth",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Augustine Phillips",
+    "Nick Sorrell",
+    "William Shakespeare",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "under the note",
+    "the third time",
+    "tomorrow at nine",
+    "no cloak chosen tonight"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "I did not need it today. He finished her himself."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Saturday is the fourth, if the bill holds. Do not spend it early."
+    },
+    {
+      "speaker": "nick_sorrell",
+      "text": "The cold is in the hands. The note is in the mouth."
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "I am not cancelling a morning because an afternoon was brave."
+    }
+  ]
+}

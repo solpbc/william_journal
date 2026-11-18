@@ -1,0 +1,49 @@
+{
+  "overview": "At home the three sentences were already dry. Under them you wrote send for a glass. You did not strike the line. The margin stayed empty. There was no glass in the room. The ink is on your finger.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the order under the three sentences and left the margin empty."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the three sentences",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "send for a glass",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "an empty margin",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Wrote send for a glass under the three sentences"
+    },
+    {
+      "name": "a looking-glass",
+      "asset_type": "other",
+      "disposition": "Wrote send for a glass under the three sentences"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-24",
+      "meaning": "Send for a glass"
+    }
+  ],
+  "summary": "Wrote send for a glass under the three sentences"
+}

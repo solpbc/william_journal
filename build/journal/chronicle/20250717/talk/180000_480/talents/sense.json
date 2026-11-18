@@ -1,0 +1,88 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Anne's sheet: the hay is in and light, the barley stands short, the house is busy. Hamnet has a jay's feather by the Guild Pits and will not say where. Judith has a third ballad by ear. Susanna wrote that who should be whom, and that a queen would hear the gardeners only if she hid, for servants say everything, but not to your face. You laughed with your shoulders. You have nothing to send but a line of thanks. The old letter is still not going.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read the sheets aloud, and kept the old letter.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Would not add to Anne, and would not ask which queen.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Who, and whom",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Who, and whom",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Judith",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Who, and whom",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Who, and whom",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Read the packet and laughed at Susanna's whom",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Thomas Hobbins"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the hay",
+    "the feather",
+    "who and whom",
+    "a line of thanks"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "You wrote who and it should be whom. Master Aspinall says so"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "For servants say everything, but not to your face"
+    }
+  ]
+}

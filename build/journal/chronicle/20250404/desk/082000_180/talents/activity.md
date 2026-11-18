@@ -1,0 +1,1 @@
+Before you went out you read Gilbert's ticket again. It names the other baker in the High Street, the shoemaker, and the whittawer for skins. It says near five pounds. It does not give the pence. He did not ask you to pay.

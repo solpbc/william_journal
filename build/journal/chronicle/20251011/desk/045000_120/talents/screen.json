@@ -1,0 +1,17 @@
+{
+  "narrative": "Writing-tables in candlelight. The room is still night. Three words are already on the leaf, the middle one with its question mark. A right hand rests and does not rub them out. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the three words, wiped nothing, and opened a fresh sheet."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Cloves, Yaxley, and the lark"
+    }
+  ]
+}

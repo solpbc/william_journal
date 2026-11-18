@@ -1,0 +1,44 @@
+{
+  "overview": "You stood at the board and read the Knight's Tale until the bell for nine. Theseus rides home with the queen of the Amazons to be wed. Two young men see one lady through a window. You did not sit, and you did not start a page.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the Knight's Tale standing, and did not begin a page."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the Knight's Tale",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Theseus",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "one lady at a window",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Chaucer",
+      "asset_type": "other",
+      "disposition": "Read the Knight's Tale standing until the bell for nine"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-27",
+      "meaning": "Standing, at the Knight"
+    }
+  ],
+  "summary": "Read the Knight's Tale standing until the bell for nine"
+}

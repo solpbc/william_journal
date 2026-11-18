@@ -1,0 +1,17 @@
+{
+  "narrative": "The coffer open, two locks turned back, a ruled leaf, the belt beside it and not yet emptied onto the page. No face. The same leaf. The belt's coins have gone into the coffer. A second pair of lines, ruled off. The belt is shut beside the box.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Counted once, moved the seven shillings, and ruled it off."
+    },
+    {
+      "type": "Tool",
+      "name": "twenty pound fifteen shillings",
+      "role": "mentioned",
+      "context": "Shown on ledger in Twenty pound fifteen"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{"backend": "whisper", "duration": 240.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "thomas_hobbins", "start": "17:20:00", "text": "Master Shakespeare. I am in. The way was dry enough. I have the horses in the yard.", "timing": {"end": 12.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "17:20:12", "text": "I have one letter. Susanna's. It was written on the twenty-sixth. It goes now.", "timing": {"end": 24.0, "start": 12.0}}
+{"sentence_id": 3, "speaker": "thomas_hobbins", "start": "17:20:24", "text": "Twopence the letter. I can carry it. I cannot make her read what you meant instead.", "timing": {"end": 38.0, "start": 24.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "17:20:38", "text": "She can read this one. There is nothing else. No parcel, and no money beside it.", "timing": {"end": 50.0, "start": 38.0}}
+{"sentence_id": 5, "speaker": "thomas_hobbins", "start": "17:20:50", "text": "Twopence, then. And I have nothing for you this time. No cheese, no glove, no word I was told to put in your hand.", "timing": {"end": 66.0, "start": 50.0}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "17:21:06", "text": "Nothing is a clear load. I will take the clear load.", "timing": {"end": 76.0, "start": 66.0}}
+{"sentence_id": 7, "speaker": "thomas_hobbins", "start": "17:21:16", "text": "Then we are done. The letter is in the bag. God keep the house that gets it.", "timing": {"end": 88.0, "start": 76.0}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "17:21:28", "text": "And you, on the road.", "timing": {"end": 98.0, "start": 88.0}}

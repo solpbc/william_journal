@@ -1,0 +1,1 @@
+You stood Nashe a shilling supper, roast mutton and a cup of Rhenish. He railed at Harvey, who will not die and will not stop printing. He did a sleeping alderman dreaming of thumb-rings, and night-sprites so small they are almost nothing: spokes of a gnat's wagon, a spinner's legs, blisters on a lady's lip. You did not split the shilling into a bill of dishes.

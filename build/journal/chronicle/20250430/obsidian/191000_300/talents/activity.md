@@ -1,0 +1,1 @@
+You wrote that you were in the Shrew and did not name the part. You put the company's word for never on the tables, under yesterday's line. Kemp has the proverb. He does not have the king's page. Gib was upstairs with it.

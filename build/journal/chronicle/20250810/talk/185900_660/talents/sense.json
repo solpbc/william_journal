@@ -1,0 +1,88 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Supper ended with the heel still on the board. Joan would not have it pared into a meaning. Susanna was done, and she did not ask. You had already had the middle of the loaf at breakfast.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the heel of the loaf on the board",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the heel of the loaf on the board",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Joan Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the heel of the loaf on the board",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Left the heel of the loaf on the board",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Left the heel of the loaf on the board",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Golding's Ovid",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Left the heel of the loaf on the board",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Sat down to supper",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Susanna Shakespeare",
+    "Joan Shakespeare",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the heel left",
+    "the book on the shelf",
+    "the middle already eaten"
+  ],
+  "quotes": [
+    {
+      "speaker": "joan_shakespeare",
+      "text": "Leave the heel."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I had the middle of it this morning."
+    }
+  ]
+}

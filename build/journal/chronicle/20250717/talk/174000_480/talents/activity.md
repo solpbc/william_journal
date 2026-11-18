@@ -1,0 +1,1 @@
+Hobbins was in after eight days. Dust to the fetlock. Oats dearer at every bait, with no price set on them. No rain since Aylesbury. He had a packet from Henley Street, unopened. You took it into the yard to read.

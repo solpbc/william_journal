@@ -1,0 +1,67 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You laid Thursday's sheets face down and did not copy a line. Daniel's book was shut. The chronicle stayed under the cat. You added nothing to the king and nothing to Verona.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Laid the sheets by, shut Daniel, and copied nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Lay on the open chronicle.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Laid by",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Civil Wars",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Laid by",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the chronicle",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Laid by",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Laid Thursday's sheets face down",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the sheets laid by",
+    "Daniel shut",
+    "the chronicle under the cat"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,90 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Heminges reckoned the week as thirty-seven shillings for the playing, and twelve shillings and sixpence from Sir Edward beside it, not folded in. Five pounds was the purse. Four shillings was the glass, and it was not taken off the five or off the twelve and six. You did not make a total. You did not count the coffer. Quiney's pound stays out. Last Saturday's forty was not written again. The Queen's three nights were not entered. The rent was not paid from this table. You said the two figures back. No Rose receipt was invented.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a total, and repeated the two lines.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named both sums, kept them apart, and shut the book on a rumour.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Witnessed the order of the purse, and refused a third column.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Thirty-seven, and twelve and six",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Left the two sums side by side",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare",
+    "George Bryan"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "thirty-seven shillings",
+    "twelve and six beside it",
+    "four shillings left out",
+    "no total",
+    "no Rose receipt"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "Item, the week. Thirty-seven shillings. That is the playing. It is not a house."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Twelve shillings and sixpence. It lies beside the thirty-seven. It does not go into it."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "The four shillings is not off the five, and it is not off the twelve and six."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Thirty-seven. Twelve and six. Beside, not folded."
+    },
+    {
+      "speaker": "george_bryan",
+      "text": "I saw the purse go into his hand before the last speech."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "We do not know a Rose receipt, and a rumour will not be written as one."
+    }
+  ]
+}

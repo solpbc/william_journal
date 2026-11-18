@@ -1,0 +1,1 @@
+Davy gave the week's news as six Spanish galleys off the north coast of Cornwall. Four has been heard. Nobody in the boat believed either figure. You did not correct him, and you did not pick the number.

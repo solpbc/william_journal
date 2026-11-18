@@ -1,0 +1,1 @@
+After Errors you stood a minute with Kemp and Burbage. The yard had been full at two. You had a speech at each end and a stool between, and you said you were well. The cake at Holywell was next. You did not stay to tell the play over.

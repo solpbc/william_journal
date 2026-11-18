@@ -1,0 +1,17 @@
+{
+  "narrative": "The foul sheet from Thursday and Friday, with a few more lines at the foot. No rule under them. No end of an act. A hand's breadth of empty paper, enough for a closing speech, left empty.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the continuation and stopped above the blank."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in The garden, still open"
+    }
+  ]
+}

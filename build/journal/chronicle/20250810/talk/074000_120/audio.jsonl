@@ -1,0 +1,7 @@
+{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "joan_shakespeare", "start": "07:40:00", "text": "The house has been at work this hour. Thou hast come down in time to be praised for nothing.", "timing": {"end": 14.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "07:40:14", "text": "Then praise me for nothing, and I will get out from under it.", "timing": {"end": 26.0, "start": 14.0}}
+{"sentence_id": 3, "speaker": "anne_shakespeare", "start": "07:40:26", "text": "The bench is as thou left it. I looked, and I did not touch it. Go and do the same, and then come to the bread.", "timing": {"end": 42.0, "start": 26.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "07:40:42", "text": "I will look. I will not sit down to it.", "timing": {"end": 52.0, "start": 42.0}}
+{"sentence_id": 5, "speaker": "joan_shakespeare", "start": "07:40:52", "text": "See that thou dost not. I have three children and a loaf, and I will not add a poet to the rising.", "timing": {"end": 66.0, "start": 52.0}}
+{"sentence_id": 6, "speaker": "anne_shakespeare", "start": "07:41:06", "text": "Bread when thou hast been out and back. I am not feeding a man into a speech.", "timing": {"end": 76.0, "start": 66.0}}

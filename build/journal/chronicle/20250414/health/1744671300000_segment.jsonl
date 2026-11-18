@@ -1,0 +1,13 @@
+{"day": "20250414", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "091000_720", "stream": "talk", "ts": 1744671300000}
+{"change_class": "substantive", "day": "20250414", "event": "sense.change_detect", "mode": "segment", "segment": "091000_720", "stream": "talk", "ts": 1744671300001}
+{"day": "20250414", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "091000_720", "stream": "talk", "ts": 1744671300002}
+{"day": "20250414", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "122000_480", "stream": "talk", "ts": 1744671300010}
+{"change_class": "substantive", "day": "20250414", "event": "sense.change_detect", "mode": "segment", "segment": "122000_480", "stream": "talk", "ts": 1744671300011}
+{"day": "20250414", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "122000_480", "stream": "talk", "ts": 1744671300012}
+{"day": "20250414", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "211000_120", "stream": "desk", "ts": 1744671300020}
+{"change_class": "substantive", "day": "20250414", "event": "sense.change_detect", "mode": "segment", "segment": "211000_120", "stream": "desk", "ts": 1744671300021}
+{"day": "20250414", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "211000_120", "stream": "desk", "ts": 1744671300022}
+{"day": "20250414", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "211000_120", "stream": "desk", "ts": 1744671300023}
+{"day": "20250414", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "212000_60", "stream": "memos", "ts": 1744671300030}
+{"change_class": "substantive", "day": "20250414", "event": "sense.change_detect", "mode": "segment", "segment": "212000_60", "stream": "memos", "ts": 1744671300031}
+{"day": "20250414", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "212000_60", "stream": "memos", "ts": 1744671300032}

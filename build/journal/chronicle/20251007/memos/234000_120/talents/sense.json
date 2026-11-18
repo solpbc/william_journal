@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Near midnight a third candle had gone to the socket. You walked because lying made the gum worse, and you wrote nothing. You knew she would count the candles, and you knew the count would not be the girl.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Walked through three candles with the tooth, and wrote nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "tallow candles",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The third candle at the socket",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Walked the chamber through three candles",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "three candles",
+    "the tooth",
+    "nothing written"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "That is the third candle down to the socket since supper, and not a word written on the board."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The lovers were not the reason. The tooth was."
+    }
+  ]
+}

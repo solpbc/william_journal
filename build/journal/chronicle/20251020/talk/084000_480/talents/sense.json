@@ -1,0 +1,93 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "You took broth and the soft side of the loaf, and you did not call the jaw healed. Alse brushed Saturday's mud off the hem. You said you are not in the Shrew, and that the afternoon's writing is a kitchen with an empty margin. You promised to bring no Christmas sum home.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the jaw tender, declined the afternoon play, and refused a sum in advance.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept him to broth and to the threepence, and told him not to bring a figure home.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed the loaf, brushed the hem, and left the cat in the chair.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Kept the warm chair.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Broth, and the hem",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Shrew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Broth, and the hem",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate broth and said the afternoon writing was a kitchen",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "broth",
+    "the short loaf",
+    "the muddy hem",
+    "an empty margin"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Today I will not pretend it is healed."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "The hem has Saturday's mud on it still."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I have no sum to bring you."
+    }
+  ]
+}

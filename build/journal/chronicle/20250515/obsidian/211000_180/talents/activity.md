@@ -1,0 +1,1 @@
+You wrote that five lines of Theseus can stay till autumn, and that no play comes out of them or out of Caesar. The sheets are flat under the board. The thimble is on the road. Whitsun was asked and not promised.

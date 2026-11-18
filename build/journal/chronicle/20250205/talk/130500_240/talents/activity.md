@@ -1,0 +1,1 @@
+At dinner you stayed at the lodging while Titus went on at the Cross Keys. You were not in it. The loaf was a penny loaf a finger short, and no second was bought. The board was threepence. Mistress Ansell would not be sent to the Bell. You left the carrier for tomorrow.

@@ -1,0 +1,1 @@
+You stayed on the Verona heading and added no speech. Sunday to Thursday is only a guess at the blank, and you do not trust it in March. The torch in the vault is still only an image, which is what you wrote. The chronicle is not here. The king is not open.

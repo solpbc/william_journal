@@ -1,0 +1,17 @@
+{
+  "narrative": "The account book closed on the board. The tables from Wednesday are under it and are not opened. No fresh line. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked at the shut book, and wrote nothing."
+    },
+    {
+      "type": "Tool",
+      "name": "the account book",
+      "role": "mentioned",
+      "context": "Shown on ledger in The book stayed shut"
+    }
+  ]
+}

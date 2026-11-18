@@ -1,0 +1,1 @@
+A neighbour's voice came in at the casement, scolding a prentice. You shut the casement. The noise stopped, and you missed the air at once. The four lines stayed out. You stayed seated. Egeon is at two.

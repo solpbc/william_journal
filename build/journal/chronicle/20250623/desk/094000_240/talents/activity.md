@@ -1,0 +1,1 @@
+You looked at the forty leaves and did not copy a line of them onto a new sheet. The ruled couplet is still the end. Gib stayed on the Holinshed. You did not open the coffer, and you did not take the leaves out of the room.

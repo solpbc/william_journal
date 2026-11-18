@@ -1,0 +1,51 @@
+{
+  "overview": "Gib is asleep on the cloth that is on the Holinshed. He has plainly been there since July. The title is covered. You did not shift him, and you did not take the book back.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked, and did not take the book back."
+    },
+    {
+      "name": "Gib",
+      "role": "visible",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Stayed on the cloth."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Gib",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the cloth",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Holinshed not taken back",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Holinshed",
+      "asset_type": "other",
+      "disposition": "Left the book under the cat"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-22",
+      "meaning": "The cat on the cloth"
+    }
+  ],
+  "summary": "Left the book under the cat"
+}

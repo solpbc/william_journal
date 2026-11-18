@@ -1,0 +1,43 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "In the morning Golding's Ovid was open on the desk, and Gib lay across the page. You copied nothing. You did not read a line out loud to the room. The cat stayed where he was.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Looked at the covered page and copied nothing.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Ovid",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Gib, on the book",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Left the cat on the page",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Ovid",
+    "Gib",
+    "no copy"
+  ],
+  "quotes": []
+}

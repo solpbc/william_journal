@@ -1,0 +1,64 @@
+{
+  "density": "idle",
+  "content_type": "social",
+  "activity_summary": "Field would not walk you out while the leaf was open. Jacqueline stayed in the other chair and did not ask to hear it again. You said you would shut the leaf as it was, after one more look.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stayed on while the leaf was open",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stayed on while the leaf was open",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Jacqueline Field",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Stayed on while the leaf was open",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Read the pages by Field's fire",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Field",
+    "Jacqueline Field",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the open leaf",
+    "no walk yet",
+    "one more look"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_field",
+      "text": "An open leaf is a reason to stay in a chair."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It shuts as it is."
+    }
+  ]
+}

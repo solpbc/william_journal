@@ -1,0 +1,100 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Edith came with the account already written, promised before Twelfth Night, and Heminges was not in the room. She fastened the back of Sam's coat, which he could not reach, and she let out Nick's seam at the chest without a speech. Humphrey found two stale rolls by their marks and burned them. Augustine counted the songs that are still current. You answered the entrance at once, from the left, and you made no new question.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered the entrance, ordered the burning, and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Wrote nothing new, mended the hook, and let out the seam without remark.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Counted the current songs and kept the mornings.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named the tight chest once, then left it, and stayed under the note.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Admitted the hook, and took the left entrance.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Named copies by their marks, and burned two.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Answered at once, and let two rolls burn",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Edith Kettlewood",
+    "William Shakespeare",
+    "Humphrey Larkham",
+    "Augustine Phillips",
+    "Sam Latchet",
+    "Nick Sorrell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the account before the needle",
+    "the seam",
+    "two stale rolls",
+    "answering at once"
+  ],
+  "quotes": [
+    {
+      "speaker": "edith_kettlewood",
+      "text": "Master Heminges has said it will be paid before Twelfth Night."
+    },
+    {
+      "speaker": "edith_kettlewood",
+      "text": "It is let out. A seam, at the chest."
+    },
+    {
+      "speaker": "humphrey_larkham",
+      "text": "Two. In the brazier."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will answer it now, and I will not make you a new one."
+    }
+  ]
+}

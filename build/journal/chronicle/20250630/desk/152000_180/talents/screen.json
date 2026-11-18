@@ -1,0 +1,17 @@
+{
+  "narrative": "The small erasable leaf in your left hand, the stylus just lifted. Three short lines. No title of a play is on it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote three lines and did not add a title."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in No play"
+    }
+  ]
+}

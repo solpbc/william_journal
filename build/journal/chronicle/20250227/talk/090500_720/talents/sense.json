@@ -1,0 +1,87 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "At rehearsal the tally stayed at twenty-four lines, with nothing added and no song. You told them not to shorten the loss of the wife. You are idle from the opening until the end. No one brought a price from the Theatre into the parlour. The Sunday letter stayed at the lodging for the Bell after the play.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Held the tally at twenty-four and the wife's loss at its own pace.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Added nothing in rehearsal and refused to be thanked for a song he had not given.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a clever wait, and left the Theatre's price with his father.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Brought Monday's margin and would not add the days up a second time for pleasure.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Do not shorten the wife",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Kept the tally at twenty-four lines",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Abel Garnish",
+    "Will Kemp",
+    "William Shakespeare",
+    "Richard Burbage"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "twenty-four lines",
+    "no song",
+    "the wife's loss",
+    "two of the clock",
+    "the letter after the play"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Do not shorten the wife to save the wait."
+    },
+    {
+      "speaker": "abel_garnish",
+      "text": "Twenty-four."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "manners are not a song."
+    }
+  ]
+}

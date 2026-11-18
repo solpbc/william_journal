@@ -1,0 +1,17 @@
+{
+  "narrative": "The tables open on a bench at the Bear, one leaf of short lines from the fortnight at home, a candle, the bridle on a nail. No face. The stylus stays in the gutter. The leaf again. No new line under the three. The candle has not been moved to a writing height.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the old notes, judged them worse, and added nothing."
+    },
+    {
+      "type": "Tool",
+      "name": "the writing-tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Less good than in the yard"
+    }
+  ]
+}

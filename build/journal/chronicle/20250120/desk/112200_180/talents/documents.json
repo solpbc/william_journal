@@ -1,0 +1,39 @@
+{
+  "overview": "The leaf showed one struck line and a blank below it. The owl was not on it. The last line was not on it.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Looked at the struck line and did not add another."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the struck line",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the blank leaf",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Left the struck line on the desk"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-20",
+      "meaning": "Where the note stops"
+    }
+  ],
+  "summary": "Left the struck line on the desk"
+}

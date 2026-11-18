@@ -1,0 +1,17 @@
+{
+  "narrative": "The plot on the peg, black letter, the hour under the title. A hand at the peg. No face. No part-name copied onto a slip.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Played the side, and left it unnamed."
+    },
+    {
+      "type": "Project",
+      "name": "The Shrew",
+      "role": "mentioned",
+      "context": "Shown on plot in The side on the peg"
+    }
+  ]
+}

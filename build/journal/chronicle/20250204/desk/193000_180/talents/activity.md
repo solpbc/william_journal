@@ -1,0 +1,1 @@
+After Fair Em you wrote the mercer's fifty shillings on the tables, under the line that has been there since January: Edith eight shillings, owing, Lady Day. The gown stands against the Queen's twenty pounds, which are not had. You did not mark it paid. You did not write a coffer total, and you did not write the stock's eleven shillings as if they were yours.

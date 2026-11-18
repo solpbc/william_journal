@@ -1,0 +1,77 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "At the stair Mistress Ansell gave you one candle and said she would not light a second. You said you would sit and not walk. You did not say the play was finished. Alse left Gib where he was. Supper, if you take it, is threepence. You promised no errand for next week.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the candle, and refused to say it was finished.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Issued one candle, and did not come up to inspect the page.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Left the cat, and did not sand a new leaf.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the lovers' play",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in One candle",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Took one candle and went up to sit",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "one candle",
+    "seated",
+    "not finished",
+    "threepence"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not walk it."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I will not say it is finished."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "There is one candle on the stair-table."
+    }
+  ]
+}

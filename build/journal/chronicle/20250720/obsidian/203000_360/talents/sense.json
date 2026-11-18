@@ -1,0 +1,44 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "You fair-copied a sonnet about a player at a keyboard onto one leaf. The first four lines were the scrap from March. You changed one word in the couplet, from the word that asks for a kiss to the word that refuses it. The leaf has no title, no number and no name. You put it in the folder with the other private leaves.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Wrote the leaf and filed it.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the keyboard sonnet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in One leaf, and no name",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Fair-copied the keyboard sonnet",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a keyboard",
+    "the wooden jacks",
+    "one changed word",
+    "the folder"
+  ],
+  "quotes": []
+}

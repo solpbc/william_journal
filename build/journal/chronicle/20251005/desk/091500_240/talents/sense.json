@@ -1,0 +1,60 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You kept the parish hour with the almanac open on the fifth and the sixth. Master Thwaite turned the glass twice. The margin beside Monday stayed empty. Three pews ahead, the Lord Mayor's back did not turn.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Sat the hour with the almanac on his knee and made no mark.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Master Josias Thwaite",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Preached, and turned the sand-glass twice.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Sir John Spencer",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Sat three pews ahead, turned away, and did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in The fifth, and an empty sixth",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Kept the parish hour",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the fifth",
+    "the sixth",
+    "an empty margin",
+    "the glass turned twice"
+  ],
+  "quotes": []
+}

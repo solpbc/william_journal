@@ -1,0 +1,17 @@
+{
+  "narrative": "A narrow part, soft at the head from other men's hands. Eight speech-marks run down it. The cues at the left edge are rubbed through to the fibre. The eighth speech-mark is still dark. The cue beside it is a hole the width of a thumb.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the head of the roll and did not invent a cue to fill the holes."
+    },
+    {
+      "type": "Project",
+      "name": "the old Knave",
+      "role": "mentioned",
+      "context": "Shown on part in Eight lines on the baton"
+    }
+  ]
+}

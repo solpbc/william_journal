@@ -1,0 +1,17 @@
+{
+  "narrative": "The nave from a seat, late in the morning. Backs of heads, a column of dusty light, the near edge of a pew. No face turned toward the seat. No one singled out.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Stood with the parish. His face is not in the picture."
+    },
+    {
+      "type": "Project",
+      "name": "St Helen's",
+      "role": "mentioned",
+      "context": "In photo: Backs and the light"
+    }
+  ]
+}

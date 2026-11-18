@@ -1,0 +1,54 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Alone, you said what a playhouse yard is: two thousand people gathered by a flag. You did not say it to Gillis or to Mistress Ansell. The heading is on your tables. Tomorrow you come from Shoreditch by Bishopsgate Street, not by the fields. Nothing is decided about closing, or about the roads, and you have not told John the number.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said it, and said that he was not saying it to anyone.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the 4 July proclamation",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in To nobody",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Said two thousand gathered by a flag",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the yard unsaid",
+    "the street not the fields",
+    "nothing decided"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "A playhouse yard is two thousand people gathered by a flag"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Tomorrow I come home from Shoreditch by Bishopsgate Street;"
+    }
+  ]
+}

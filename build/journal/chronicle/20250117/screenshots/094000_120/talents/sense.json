@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "media",
+  "activity_summary": "You looked at the roll in Nick's hands, with the cold inn-yard boards and a brazier beyond them. The words on the roll were not readable from where you stood. This is the yard, not the parlour.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "attendee in Nick's roll",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Held the roll, not posing.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the cue-roll",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Nick's roll",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Looked at the roll in Nick's hands",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the cue-roll",
+    "the cold boards",
+    "the brazier"
+  ],
+  "quotes": []
+}

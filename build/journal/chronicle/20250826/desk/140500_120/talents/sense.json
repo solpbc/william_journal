@@ -1,0 +1,59 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "At two you played Egeon in The Comedy of Errors. The plot has him at the opening and at the end, and idle between. You spoke the opening, sat the middle, and came back for the close.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Played Egeon at two.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "The plot is his hand. He is not in the picture.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Egeon on the peg",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Theatre",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Egeon on the peg",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Played Egeon",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "The Comedy of Errors",
+    "Egeon at the opening",
+    "idle until the end"
+  ],
+  "quotes": []
+}

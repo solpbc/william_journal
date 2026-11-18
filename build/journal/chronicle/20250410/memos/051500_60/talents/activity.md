@@ -1,0 +1,1 @@
+Before half past five you chose the long way into town, the same way you had come, and you refused the straight end of the road. You did not name the place you were avoiding, and you did not tell a story about it. The memo ended on enough.

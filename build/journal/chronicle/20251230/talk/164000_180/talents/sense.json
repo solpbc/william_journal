@@ -1,0 +1,68 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Verbeke came in when the light went off the loom, and he did not knock. You told him the page was folded and that you were going out when it was full dark. Alse said there was no plate for you at six. He did not ask what was in the fold. You did not send either of them into the street.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Came down as far as the foot of the stair and did not hand the packet over.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gillis Verbeke",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the light, and did not ask to see the page.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said there was no plate, and was not sent out.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Met Verbeke at the foot of the stair",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Gillis Verbeke",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "no knock",
+    "no plate",
+    "the fold"
+  ],
+  "quotes": [
+    {
+      "speaker": "gillis_verbeke",
+      "text": "The light went off the loom."
+    },
+    {
+      "speaker": "alse_pinder",
+      "text": "There is no plate for you at six, sir."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Keep them as feet."
+    }
+  ]
+}

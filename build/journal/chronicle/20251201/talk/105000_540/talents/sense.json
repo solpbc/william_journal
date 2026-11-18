@@ -1,0 +1,76 @@
+{
+  "density": "active",
+  "content_type": "reading",
+  "activity_summary": "At the White Greyhound, Harrison told you, as of a third party, that Cuthbert Burby entered a play of King Edward the Third this morning. The scenes of a king and a countess are in your manner because they are yours, made three or four years ago for another company, for a fee. You asked if Burby had asked leave. He said, of whom. Sixpence to the Hall buys the title its place. The title carries no company, no hands, and no name. You named lilies that fester, and you made no claim.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked after leave, named the one line, and made no claim.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Harrison",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Reported the entry as a third party's news, and named sixpence as the price of a title's place.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Edward III",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Of whom",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "6d the Hall",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Of whom",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Heard of Burby's entry and asked of whom",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Harrison",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Burby's entry",
+    "sixpence",
+    "lilies that fester",
+    "no name on the title"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_harrison",
+      "text": "I am told there are scenes in it of a king and a countess that are thought to be in your manner, Master Shakespeare."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Did Master Burby ask leave?"
+    },
+    {
+      "speaker": "john_harrison",
+      "text": "Of whom?"
+    }
+  ]
+}

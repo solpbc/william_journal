@@ -1,0 +1,23 @@
+{
+  "narrative": "The writing-tables lie beside the shut pack. The short list is still on the leaf. Brooke is on the shelf. Gib is on the cloth over Holinshed.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Looked at the leaf."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Stayed on the cloth."
+    },
+    {
+      "type": "Project",
+      "name": "the Verona sheets",
+      "role": "mentioned",
+      "context": "Shown on tables in The short list, still on the leaf"
+    }
+  ]
+}

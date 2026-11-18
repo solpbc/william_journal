@@ -1,0 +1,49 @@
+{
+  "overview": "You looked at the three deposition sheets and added nothing to them. On the older leaf the margin still said York was angry, and the messenger was still only a mark. The prison was not begun. The end was not begun. Field's Holinshed stayed shut.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the margin, and did not begin the prison or the end."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the three sheets",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "York's mark",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the chronicle shut",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Looked at York's margin"
+    },
+    {
+      "name": "the Holinshed",
+      "asset_type": "other",
+      "disposition": "Looked at York's margin"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-16",
+      "meaning": "The mark, still in the margin"
+    }
+  ],
+  "summary": "Looked at York's margin"
+}

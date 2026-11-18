@@ -1,0 +1,85 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "On the bridge Judith said you walk like your father, and she showed you. Hamnet asked the miles and kept a hundred. Susanna looked at your feet and said nothing. Richard took the pack at the town end. The flat parcel in the oilcloth rides on top.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Answered the miles, and gave the pack over.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Judith Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Showed the walk, twice.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Hamnet Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took a hundred, and did not take the pack.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Susanna Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Looked at your feet and said nothing.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the pack at the town end, and put the flat parcel on top.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Came over the bridge and let Richard take the pack",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Judith Shakespeare",
+    "William Shakespeare",
+    "Hamnet Shakespeare",
+    "Richard Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the walk",
+    "a hundred miles",
+    "the flat parcel"
+  ],
+  "quotes": [
+    {
+      "speaker": "judith_shakespeare",
+      "text": "You walk like Grandfather"
+    },
+    {
+      "speaker": "hamnet_shakespeare",
+      "text": "A hundred will do"
+    },
+    {
+      "speaker": "richard_shakespeare",
+      "text": "It rides on top"
+    }
+  ]
+}

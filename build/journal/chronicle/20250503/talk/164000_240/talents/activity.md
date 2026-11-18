@@ -1,0 +1,1 @@
+After the house was done with you, Garnish gave you the licensed book and not the foul papers. Tomorrow it goes under your cloak, to be read with the door shut. Heminges is not entering it as a loss. The chronicle stays. The king stays.

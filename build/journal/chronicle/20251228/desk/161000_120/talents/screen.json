@@ -1,0 +1,17 @@
+{
+  "narrative": "The tables lie open by the window. Three lines stand on the leaf, and the rest is bare. Frost is on the green beyond the glass. The second line is a count, not a sum of money. The pen has not gone back to add a name. The third line stops. The pen is set down on the bare part of the leaf.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the three lines and stopped."
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "context": "Shown on tables in The night, on the tables"
+    }
+  ]
+}

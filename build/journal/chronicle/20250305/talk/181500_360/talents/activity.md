@@ -1,0 +1,1 @@
+At supper you paid threepence for the fish. You said the stage had been cold, the flag was up on the other bank, and you had not crossed. You did not bring the morning's reading to the board again, and you did not say a total.

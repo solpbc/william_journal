@@ -1,0 +1,1 @@
+At night you entered threepence and the loaf. You copied the three sentences. You set down Henslowe's sentence, six pound and the jig, and you did not price the house. The looking-glass is not on the sheet. The room is not written.

@@ -1,0 +1,1 @@
+Against the horse you wrote the friar's line, wisely and slow. Under it you wrote the second act as a list: the friar at dawn with his herbs, the friends hunting, the Nurse long about her errand, and married by afternoon. The dawn on the list is his dawn. You did not write a parting, and you did not write the moon or the ladder.

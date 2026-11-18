@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "Upstairs you said the purse had been right, and that the page would hold. You had wiped your shoes. You did not turn it into a loan, and you stopped.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the two sums, refused the loan, and stopped.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Said the page would hold, and stopped",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the purse",
+    "the page",
+    "not a loan"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Tenpence a head, and one penny of his, and I am the man who stood up."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+You struck the opening about a busy winter, because it did not ask the question. The leaf that goes names the soap and the blue thread and asks what the kind with the two ends is. It is dated from London on the twelfth of January 1594, which is the year your letters still use before Lady Day.

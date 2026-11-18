@@ -1,0 +1,1 @@
+You stood three pews from the Mayor. He gave the litany its answers short and cold, and neither of you looked. The north aisle was full again with the households that went out in July. A dark head under a plain hood did not turn. You learned nothing from the sermon. The jaw had a pulse. The back was the back you brought in.

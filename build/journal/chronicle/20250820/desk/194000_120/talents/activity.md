@@ -1,0 +1,1 @@
+At Beaconsfield, before you sat to supper, you wrote eleven pence for bread and bacon. You checked it against what was left in the belt. You did not write what was left. The boots were off before the supper.

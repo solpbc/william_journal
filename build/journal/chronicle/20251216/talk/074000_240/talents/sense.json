@@ -1,0 +1,69 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Mistress Ansell had sent for Yaxley. He shaved the beard close, once, for the chair, and he did not draw anything. You asked him to leave enough for a stage beard to sit over. Nobody named a price on the stair. The October tooth was mentioned as already paid, and it was not charged again.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for close, once, and for no sum on the stair.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Barnaby Yaxley",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Shaved the beard and did not name a price.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had sent for him, and forbade the bargaining.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Had Yaxley shave the beard close",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Barnaby Yaxley",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "a close shave",
+    "once",
+    "no price on the stair",
+    "the stage beard"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Close, then. Once. I am not here to have anything drawn."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "And you will not undertake a price on my stair."
+    },
+    {
+      "speaker": "barnaby_yaxley",
+      "text": "A beard is not a tooth, and I am not keeping this one in a box."
+    }
+  ]
+}

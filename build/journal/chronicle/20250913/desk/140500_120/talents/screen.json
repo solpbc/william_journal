@@ -1,0 +1,17 @@
+{
+  "narrative": "The plot on the peg. The hour under the title. A hand at the peg. The part beside it is a name, and no speech copied out. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Played Navarre, and said nothing of the morning's call."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on plot in Navarre"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Burbage had lost the joins between the lists and the farewell to Gaunt, and he sounded like three different men. You asked for a plain reading before anybody changed a word. The joins came back the second time through. At the lists at Coventry you stooped to shift the armour-basket out of Sly's way, and the back answered. You played Gaunt the rest of the morning from a stool. Burbage said that was the best thing in it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for the plain reading, stooped for the basket, and played Gaunt from the stool.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Found the joins on the second reading, and called the stool the best thing in it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Gave Bolingbroke flat, and called for the stool.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked whether to stop, and offered an arm as far as the gate.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked where the Marshal stands.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the stool under you.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Sly",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had his hand out for the basket, and put it under the stair.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard the Second",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The joins, then the stool",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Got the joins back and played Gaunt from a stool",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Burbage",
+    "William Shakespeare",
+    "Augustine Phillips",
+    "George Bryan",
+    "William Sly",
+    "Thomas Pope",
+    "John Heminges"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the joins",
+    "a plain reading",
+    "the armour-basket",
+    "Gaunt from a stool"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "It sounds as if three different men had learned them"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "A plain reading, Dick, no more, before anybody changes a word"
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "Stay on the stool, Will"
+    }
+  ]
+}

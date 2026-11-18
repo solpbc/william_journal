@@ -1,0 +1,1 @@
+You left on the sheet the refusal of the moon, the parting line, and the words to leave it in. The stone was back on the paper. The inkhorn stayed in the knot-hole, with the two quills. You went in at half past two and did not take the sheets.

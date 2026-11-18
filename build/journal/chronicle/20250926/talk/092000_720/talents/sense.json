@@ -1,0 +1,137 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "You were carried on in a furred gown with the beard chalked white, and you spoke this England round the clove. It went out to the empty galleries and came back. You were washed of the chalk and stood at the door for the rest. The Master's cut showed like a drawn tooth. The parting in the street held: off at Flint a king, on in a London street a prisoner, and between them plume-pluckt Richard. Burbage loses a crown behind a curtain every day. You called it the law. He called it a hole. Nick's Queen was exact in the gown let down the two fingers since Candlemas. On the highest line there was a grain that was not there at Easter, and you called it a grain. Phillips looked up from tuning, and down, and would not name it. In the garden the Queen stepped into the shadow of the trees to overhear, as a girl in Warwickshire held she must. Pope's gardener got the only laugh, from the hired men. Kemp, with an apple, said it wants a dog. Over the water it is Faustus. You stayed.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the phrase round the clove, called the curtain the law, and stayed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Lost the crown behind the curtain, and kept the street.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Was exact in the lengthened gown, and did not stop for the grain.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Looked up from tuning, and down, and would not name it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Took the only laugh, from the hired men.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Ate the apple, and said it wants a dog.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Called him clear, and left the plot on the peg.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "In the lords' room, arms folded. He did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Laughed at the gardener. They had no other line.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Faustus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in The king in apparel",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Spoke round the clove and stood the rest at the door",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Richard Burbage",
+    "Abel Garnish",
+    "Nick Sorrell",
+    "Augustine Phillips",
+    "Thomas Pope",
+    "Will Kemp"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "this England",
+    "the curtain",
+    "the grain",
+    "the apple"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_burbage",
+      "text": "I lose a crown in the tiring-house, Will. Every day. Behind a curtain."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "It's the law."
+    },
+    {
+      "speaker": "richard_burbage",
+      "text": "It's a hole."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "It wants a dog."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "On the highest line there was a grain that was not there at Easter."
+    }
+  ]
+}

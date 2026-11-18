@@ -1,0 +1,1 @@
+At the board from first light you caught yourself making the uncles as fine as the nephew. You left the convenience on the sheet so you could see it, and you did not cure it yet. Kemp has not seen the page. You did not write a scene to show him the king has no fool.

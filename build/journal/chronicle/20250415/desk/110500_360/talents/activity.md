@@ -1,0 +1,1 @@
+At Waterson's board you read the second book standing. It was the same Richard and the same cousin, in grave smooth stanzas. You had read in the book standing four times since March. This was the time you gave in.

@@ -1,0 +1,97 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "The loaf was a penny, and two fingers short of the notch. Mistress Ansell measured it and did not raise the price. You did not open the coffer. You did not untie what is at the bottom. Gib had been on Field's chronicle and she had moved him. Your letters were still where you left them. Supper is at six. The rent is already paid. You called the shortfall a measure, not a grievance.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Accepted the measure, refused a morning count, and left the tied papers tied.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Measured the loaf, moved the cat, and kept the rent from becoming a second claim.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Had cut the loaf on the line, and did not ask for the book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Moved off the chronicle. Not in the talk except as a sitter.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Not in the house. His book was kept for the shelf.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Holinshed's Chronicles",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Two fingers short",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Ate the penny loaf, two fingers short",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Mistress Dorcas Ansell",
+    "William Shakespeare",
+    "Alse Pinder"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the penny loaf",
+    "two fingers",
+    "the coffer unopened",
+    "supper at six"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "A penny. And two fingers short of the notch my husband cut, when a loaf was a loaf."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am not lifting what lies at the bottom to see that it is still tied."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "It is not a sign. It is a baker."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Two fingers, a penny, and the notch."
+    }
+  ]
+}

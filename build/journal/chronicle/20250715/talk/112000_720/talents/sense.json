@@ -1,0 +1,104 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Dinner was sixpence, and the mutton was smaller. You read the two sheets fast. The agate stone, the alderman's finger, the hazel-nut coach, the lawyers' fingers, the soldiers' necks, and the parson's tithe-pig. Pope stopped chewing at the pig. Sam forgot his message. Phillips said again.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Read the two sheets fast.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Heard it, and said again.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Waited for his word.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Stopped chewing at the pig.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Forgot the message.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Agnes Tipping",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the sixpence honest and the mutton small.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Sixpence, and the pig",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Read the two sheets fast until Phillips said again",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Agnes Tipping",
+    "William Shakespeare",
+    "Augustine Phillips",
+    "Richard Burbage",
+    "Thomas Pope",
+    "Sam Latchet"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "sixpence",
+    "the smaller mutton",
+    "the fast reading",
+    "the pig"
+  ],
+  "quotes": [
+    {
+      "speaker": "agnes_tipping",
+      "text": "Sixpence, the same as it was"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "In shape no bigger then an Agot stone, on the forefinger of an Alderman"
+    },
+    {
+      "speaker": "augustine_phillips",
+      "text": "Again."
+    }
+  ]
+}

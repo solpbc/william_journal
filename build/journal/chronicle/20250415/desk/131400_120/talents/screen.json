@@ -1,0 +1,17 @@
+{
+  "narrative": "The almanac is open at the day's leaf. One line is printed. Nothing is written beside it, and no letter is on the table.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Read the day, and sent nothing."
+    },
+    {
+      "type": "Tool",
+      "name": "the almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in Joan's day"
+    }
+  ]
+}

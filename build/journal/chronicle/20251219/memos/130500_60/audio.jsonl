@@ -1,0 +1,5 @@
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "13:05:00", "text": "Six hundred. Come the spring, when the money's found. Not before.", "timing": {"end": 10.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "13:05:10", "text": "A great deal of money. A great deal of roof. Neither of them goes in the book.", "timing": {"end": 20.0, "start": 10.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "13:05:20", "text": "The printer did not hear it. The tiring-house will not hear it from me.", "timing": {"end": 30.0, "start": 20.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "13:05:30", "text": "Enough.", "timing": {"end": 40.0, "start": 30.0}}

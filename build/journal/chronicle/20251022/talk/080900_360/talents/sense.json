@@ -1,0 +1,59 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "You found the day and the new moon, and no hour beside them. You left the margin empty and shut the almanac. She told you the street was already moving.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Found the day in the almanac and shut it",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "attendee in Found the day in the almanac and shut it",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the penny almanac",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Found the day in the almanac and shut it",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Got the cloak and left for the Theatre",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "William Shakespeare",
+    "Mistress Dorcas Ansell"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the new moon",
+    "an empty margin",
+    "the street door"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "The margin is empty. I am leaving it empty."
+    }
+  ]
+}

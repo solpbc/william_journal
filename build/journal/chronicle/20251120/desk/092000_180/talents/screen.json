@@ -1,0 +1,23 @@
+{
+  "narrative": "The morning stage, the book of Navarre open, and no new name pinned to any gown. The street door of the tiring-house is shut.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Took Navarre as written."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "context": "Was in the rehearsal, and no new name was put on him."
+    },
+    {
+      "type": "Project",
+      "name": "Navarre",
+      "role": "mentioned",
+      "context": "Shown on stage in The street, and no new name"
+    }
+  ]
+}

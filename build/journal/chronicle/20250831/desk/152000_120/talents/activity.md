@@ -1,0 +1,1 @@
+You wrote Saturday's share as six-and-twenty shillings, and under it that the coffer stands as ruled on the twenty-second, at twenty pound fifteen shillings. You did not add the share. You did not make a new total.

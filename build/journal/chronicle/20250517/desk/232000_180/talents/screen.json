@@ -1,0 +1,17 @@
+{
+  "narrative": "The leaf goes on with no break. A wall. A coming down. The second candle gutters at the edge of the board. The leaf ends while he is still coming down. The second candle gutters at the edge of the board. He is still in the chair.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the coming down, and ended the leaf there."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on draft in A king coming down"
+    }
+  ]
+}

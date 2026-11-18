@@ -1,0 +1,17 @@
+{
+  "narrative": "The tables lie open on the desk at the lodging. The street is not in the frame. A pen rests in the gutter of the leaf. No hand. A corner of the comedy's last leaf, brought home from yesterday. One short line in the margin. A softer ending is begun and struck. The same tables. No sum is added. The Cheapside line is a memorandum.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the three notes and stayed in the room."
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on tables in Not his bill"
+    }
+  ]
+}

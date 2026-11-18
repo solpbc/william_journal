@@ -1,0 +1,1 @@
+A carter stopped at the nearer bill and told his boy it was a king play on Thursday. The boy asked which king. You let the title stand. Garnish and Kemp were at the gate with you, and neither of them corrected the carter. The town has named the play before seeing it.

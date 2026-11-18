@@ -1,0 +1,23 @@
+{
+  "narrative": "The almanac open at Friday. The pen just lifted. One bill, and a line under it. No face.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the two lines and shut the book."
+    },
+    {
+      "type": "Project",
+      "name": "Longshanks",
+      "role": "mentioned",
+      "context": "Shown on almanac in Friday, in the almanac"
+    },
+    {
+      "type": "Company",
+      "name": "the Rose",
+      "role": "mentioned",
+      "context": "Shown on almanac in Friday, in the almanac"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "overview": "You played the Ghost at two with the flour still in your hair. The part was on, and then off. You came off and did not brush the flour out.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Played the Ghost and left the flour in place."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the Ghost",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "flour kept",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "off",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the old Hamlet",
+      "asset_type": "other",
+      "disposition": "Played the Ghost and kept the flour"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-22",
+      "meaning": "The Ghost at two"
+    }
+  ],
+  "summary": "Played the Ghost and kept the flour"
+}

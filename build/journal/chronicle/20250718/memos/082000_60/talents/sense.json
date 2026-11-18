@@ -1,0 +1,62 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Standing, for less than a minute, you tried her short answer in Nick's light dry voice. Nick was not there. You tried the boy's answer in Burbage's hush, and you did not keep those words. You laughed once. She is laughing at him, and he is not to hear it.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke both tries, and kept one line.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Let him not hear it",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Let him not hear it",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Tried the short answer in Nick's voice",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the short answer",
+    "Nick's voice",
+    "the laugh"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "You kisse by th' booke"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "She's laughing at him. Good. Let him not hear it."
+    }
+  ]
+}

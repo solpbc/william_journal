@@ -1,0 +1,39 @@
+{
+  "overview": "When the house was quiet you wrote two words on the tables. One answer. You did not write the answer. You did not write her question out again.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote two words and did not continue them."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "one answer",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the tables",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the writing-tables",
+      "asset_type": "other",
+      "disposition": "Wrote the two words and shut the tables"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-07",
+      "meaning": "One answer"
+    }
+  ],
+  "summary": "Wrote the two words and shut the tables"
+}

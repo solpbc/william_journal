@@ -1,0 +1,42 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You said the blocking back to yourself. Gregory left, Sampson right, Tybalt late, and the wives keeping the swords from the old men.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Spoke the memo.",
+      "level": "high"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said Gregory left, Sampson right, Tybalt late, the wives keeping the swords",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Gregory and Sampson",
+    "Tybalt late",
+    "the wives"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Gregory left, Sampson right. Two of theirs from the far door."
+    }
+  ]
+}

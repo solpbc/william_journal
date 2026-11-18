@@ -1,0 +1,1 @@
+At her table the penny loaf was two fingers short of the notch. The meal was threepence, on the slate, and you did not pay the weekly sixpence again. Alse asked whether Saturday was the lovers, and whether there was a moon in it. Mistress Ansell did not agree to anyone going. You went back to play Egeon.

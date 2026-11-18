@@ -1,0 +1,1 @@
+Speaking alone after Gilbert's call, you added the three debts aloud (41s, 44s 6d, and 14s 6d) to reach exactly 100s, or £5, which Gilbert had called near £5. You noted that the 14s 6d whittawer's debt was the same sum Anne had written in her postscript as not needing to trouble you, and that nothing was paid.

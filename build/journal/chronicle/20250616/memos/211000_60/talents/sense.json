@@ -1,0 +1,50 @@
+{
+  "density": "low_change",
+  "content_type": "planning",
+  "activity_summary": "At the window you said the line once. You had not seen the square. You did not add a blade to what Alse had seen.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Said the line at the window and did not add a blade.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Paul's",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in One blade",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Said one blade at the window",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the window",
+    "the square",
+    "the blade"
+  ],
+  "quotes": [
+    {
+      "speaker": "william_shakespeare",
+      "text": "Two idle sorts of men in a hot square, and it wants only one blade drawn."
+    }
+  ]
+}

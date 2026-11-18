@@ -1,0 +1,10 @@
+{"backend": "whisper", "duration": 240.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "john_heminges", "start": "09:20:00", "text": "The king this afternoon. You are Gaunt. You are done when the second act is done.", "timing": {"end": 10.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "09:20:10", "text": "The second act. The jaw is whole. I am not asking for more of the play than the book has.", "timing": {"end": 22.0, "start": 10.0}}
+{"sentence_id": 3, "speaker": "richard_burbage", "start": "09:20:22", "text": "The book as we play it. Nothing put back. The join stands where the Master left it.", "timing": {"end": 32.0, "start": 22.0}}
+{"sentence_id": 4, "speaker": "john_heminges", "start": "09:20:32", "text": "Then we run the join, and we go to dinner. I am not rehearsing a scene that is not in the book.", "timing": {"end": 44.0, "start": 32.0}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "09:20:44", "text": "Nor I. Gaunt dies. The rest of the king is yours, from the door.", "timing": {"end": 54.0, "start": 44.0}}
+{"sentence_id": 6, "speaker": "richard_burbage", "start": "09:20:54", "text": "From the door, as it has been. I do not need a new page to get from his death to the end.", "timing": {"end": 66.0, "start": 54.0}}
+{"sentence_id": 7, "speaker": "john_heminges", "start": "09:21:06", "text": "Nine of the clock was for the join. It is joined. Eat.", "timing": {"end": 74.0, "start": 66.0}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "09:21:14", "text": "I will eat. I will not call it the sixth until it has been the sixth.", "timing": {"end": 84.0, "start": 74.0}}
+{"sentence_id": 9, "speaker": "richard_burbage", "start": "09:21:24", "text": "Call it after. The house is not in yet.", "timing": {"end": 94.0, "start": 84.0}}

@@ -1,0 +1,1 @@
+Setting off home by Cheapside, out of the churchyard, you said that in June it was a chronicle and in November it is a pamphlet, and that you wrote it in between and never moved. You did not say the number of leaves.

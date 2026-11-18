@@ -1,0 +1,1 @@
+At home the tables show the line you wrote in the parlour, Edith viij s. owing. Lady Day. It is not your debt. It is not paid. You did not set a coffer total next to it, and you did not open an expected column.

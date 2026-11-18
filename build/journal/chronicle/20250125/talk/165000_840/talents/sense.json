@@ -1,0 +1,117 @@
+{
+  "density": "active",
+  "content_type": "planning",
+  "activity_summary": "After Two Gents you set next week's afternoons and did not give out a part. Monday Titus, not you. Tuesday the Shrew, you, and the reading at Dick's, with Abel reading and no roll in a hand. Wednesday the old Hamlet, you. Thursday Errors, you, and a rehearsal at nine. Friday the Shrew, not you. Saturday Errors, you. No share was named. The coffer was not opened. The hired men's ten shillings was named and not paid out. Supper tomorrow is at the Burbages'. You are not sent to Greenwich.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Set the days he is in and the days he is not, and kept the parts back.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Refused a share, a coffer, and a part before Abel has copied it.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept Tuesday's reading at his father's house, and kept Sunday's supper clear of a roll.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Asked for a roll, was refused, and took Tuesday as the day.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "The Two Gentlemen of Verona",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Next week, and no parts",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Titus Andronicus",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Next week, and no parts",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Taming of the Shrew",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Next week, and no parts",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Hamlet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Next week, and no parts",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "The Comedy of Errors",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Next week, and no parts",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Set next week's book",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "Will Kemp",
+    "Richard Burbage",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "next week's book",
+    "no parts",
+    "no share"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "I am not counting a share onto this leaf."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "No roll is in a hand today."
+    },
+    {
+      "speaker": "will_kemp",
+      "text": "Tuesday, Dick's, Abel reads."
+    }
+  ]
+}

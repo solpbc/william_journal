@@ -1,0 +1,1 @@
+You stopped writing. The tables stayed open on the four lines. You looked at the knot and at the cat on the shut book, and you did not reach for either. Someone called from the stair at the end of it.

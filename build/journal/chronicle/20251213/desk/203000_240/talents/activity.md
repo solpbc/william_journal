@@ -1,0 +1,1 @@
+With both locks open you wrote two lines and nothing under them. Thirty-seven shillings for the week's playing. Twelve shillings and sixpence of Sir Edward's, beside it. You did not add them. You did not count the coffer. You did not give the glass a line.

@@ -1,0 +1,86 @@
+{
+  "density": "active",
+  "content_type": "social",
+  "activity_summary": "Mistress Ansell filled the brass horn from the Monday copper, galls and copperas and gum, browner than the March ink, at twopence. You paid it. You sat at the board at threepence and left the firing in the sixpence already paid. You said you would open as Egeon and be idle after. The book upstairs stayed shut until after supper. Gib was left on the Chaucer.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Paid the twopence, named Egeon, and left the writing till after supper.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Boiled the Monday receipt and entered the twopence.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Alse Pinder",
+      "role": "attendee",
+      "source": "speaker_label",
+      "context": "Kept the pen out of the hot ink and left Gib where he was.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the brass inkhorn",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Monday's ink",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the Chaucer folio",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Monday's ink",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "household",
+      "activity": "Paid twopence for the horn",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Alse Pinder",
+    "Mistress Dorcas Ansell",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Monday's ink",
+    "twopence the horn",
+    "threepence the board",
+    "Egeon at two",
+    "the Chaucer left"
+  ],
+  "quotes": [
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Galls, copperas, and gum."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am Egeon at two, and idle after I have opened."
+    },
+    {
+      "speaker": "dorcas_ansell",
+      "text": "Twopence the horn, and you will not tell me the spring was kinder."
+    }
+  ]
+}

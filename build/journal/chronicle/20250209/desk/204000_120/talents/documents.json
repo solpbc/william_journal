@@ -1,0 +1,44 @@
+{
+  "overview": "You wrote Monday's lodge into the almanac for ten of the clock and forty. The Errors at two were already set. You did not write what the paper says. You shut the almanac.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the lodge hour and did not open the sealed paper onto the page."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the lodge",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "ten of the clock and forty",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Errors",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Comedy of Errors",
+      "asset_type": "other",
+      "disposition": "Set the lodge for ten of the clock and forty"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-02-09",
+      "meaning": "Ten of the clock, and forty"
+    }
+  ],
+  "summary": "Set the lodge for ten of the clock and forty"
+}
