@@ -10,6 +10,7 @@ import importlib.util
 import json
 import os
 from pathlib import Path
+import re
 import shutil
 import subprocess
 import sys
@@ -64,6 +65,27 @@ def test_world_data_counts() -> None:
     assert len(world_data.FACET_EXTRA_ENTITIES) == 16
     assert len(world_data.FACET_DEFINITIONS) == 4
     assert set(world_data.FACET_DEFINITIONS.keys()) == {"company", "writing", "household", "stratford"}
+
+
+_UUID_V4 = re.compile(r"^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$")
+
+
+def test_facet_ids_are_fixed_and_well_formed(tmp_path: Path) -> None:
+    """Each facet keeps one UUIDv4, in the generator and in the committed tree."""
+    seen = set()
+    for slug, fdef in world_data.FACET_DEFINITIONS.items():
+        facet_id = fdef["id"]
+        assert _UUID_V4.fullmatch(facet_id), slug
+        assert facet_id not in seen
+        seen.add(facet_id)
+        stored = json.loads((BACKDROP_BUILD_DIR / "facets" / slug / "facet.json").read_text())
+        assert stored["id"] == facet_id
+
+    journal = tmp_path / "journal"
+    backdrop.write_entities_and_facets(journal)
+    for slug, fdef in world_data.FACET_DEFINITIONS.items():
+        written = json.loads((journal / "facets" / slug / "facet.json").read_text())
+        assert written["id"] == fdef["id"]
 
 
 def test_face_manifest_writes_the_confirmed_state_and_its_jpeg(tmp_path: Path) -> None:

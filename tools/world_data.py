@@ -35,6 +35,7 @@ class PlaceCoord:
 
 FACET_DEFINITIONS: dict[str, dict[str, Any]] = {
     "company": {
+        "id": "778cde83-0eb8-4a9a-af6b-573fe3c34b71",
         "title": "The Lord Chamberlain's Men",
         "description": (
             "Playing, rehearsing, casting and reckoning with the Lord Chamberlain's Men "
@@ -51,6 +52,7 @@ FACET_DEFINITIONS: dict[str, dict[str, Any]] = {
         ],
     },
     "writing": {
+        "id": "29ed8ff0-379c-4042-812c-f8ff913588d7",
         "title": "Plays and Poems",
         "description": (
             "Drafting plays and poems at the desk, reading sources, and print business "
@@ -66,6 +68,7 @@ FACET_DEFINITIONS: dict[str, dict[str, Any]] = {
         ],
     },
     "household": {
+        "id": "64ea0001-e3b3-42fb-9cb5-9d4638052dc9",
         "title": "St Helen's and the Town",
         "description": (
             "Life in Mistress Ansell's house in Great St Helen's, the parish, taverns, "
@@ -81,6 +84,7 @@ FACET_DEFINITIONS: dict[str, dict[str, Any]] = {
         ],
     },
     "stratford": {
+        "id": "07a10f34-c2dd-4d43-b579-a84cbb810f85",
         "title": "Stratford and Kin",
         "description": (
             "Anne, the children, John and Mary at Henley Street, Gilbert, Hobbins the carrier, "

@@ -209,6 +209,7 @@ def write_entities_and_facets(journal_root: Path) -> dict[str, int]:
     for facet_slug, fdef in sorted(FACET_DEFINITIONS.items()):
         facet_dir = journal_root / "facets" / facet_slug
         facet_json = {
+            "id": fdef["id"],
             "title": fdef["title"],
             "description": fdef["description"],
             "color": fdef["color"],
@@ -780,7 +781,6 @@ def _heart_rate_rows(
         rate = min(peak, max(metrics["hr_min_bpm"], target + rng.randint(-4, 4)))
         output.append({
             "at": local.isoformat(timespec="seconds"),
-            "by": "the day's count",
             "id": f"hr-{day:%Y%m%d}-{len(output):03d}",
             "kind": "reading",
             "label": "heart rate",
@@ -809,7 +809,7 @@ def build_body_rows_for_day(
     stops: list[PlaceStop] | None = None,
     next_day_type: str | None = None,
 ) -> list[dict[str, Any]]:
-    """Build `body-records.schema.json` compliant rows for a day's `body.jsonl`."""
+    """Build a day's Apple Health fixture rows without attributing them to a recorder."""
     metrics = generate_body_metrics_for_day(
         date_str=date_iso,
         day_type_key=day_type_key,
@@ -832,7 +832,6 @@ def build_body_rows_for_day(
                 "assembled from this source's adjacent sleep stage intervals 30 minutes "
                 "or less apart, not a session Apple Health reported"
             ),
-            "by": "the day's count",
             "end": wake_local.isoformat(),
             "experience": "sleep",
             "id": sleep_id,
@@ -864,7 +863,6 @@ def build_body_rows_for_day(
         stage_end = stage_cursor + timedelta(minutes=mins)
         rows.append(
             {
-                "by": "the day's count",
                 "end": stage_end.astimezone(LONDON_TZ).isoformat(),
                 "id": f"stage-{stage_slug}-{day_compact}",
                 "kind": "stage",
@@ -881,7 +879,6 @@ def build_body_rows_for_day(
     rows.extend(
         [
             {
-                "by": "the day's count",
                 "end": day_end_local.isoformat(),
                 "id": f"count-steps-{day_compact}",
                 "kind": "count",
@@ -894,7 +891,6 @@ def build_body_rows_for_day(
                 "value": str(metrics["steps"]),
             },
             {
-                "by": "the day's count",
                 "end": day_end_local.isoformat(),
                 "id": f"count-distance-{day_compact}",
                 "kind": "count",
@@ -907,7 +903,6 @@ def build_body_rows_for_day(
                 "value": f"{metrics['distance_km']:.2f}",
             },
             {
-                "by": "the day's count",
                 "end": day_end_local.isoformat(),
                 "id": f"count-energy-{day_compact}",
                 "kind": "count",
@@ -921,7 +916,6 @@ def build_body_rows_for_day(
             },
             {
                 "at": wake_local.isoformat(),
-                "by": "the day's count",
                 "id": f"reading-rhr-{day_compact}",
                 "kind": "reading",
                 "label": "resting heart rate",
@@ -933,7 +927,6 @@ def build_body_rows_for_day(
             },
             {
                 "at": wake_local.isoformat(),
-                "by": "the day's count",
                 "id": f"reading-hrv-{day_compact}",
                 "kind": "reading",
                 "label": "heart rate variability sdnn",
