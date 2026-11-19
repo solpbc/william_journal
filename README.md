@@ -45,7 +45,7 @@ The files come to about 225 MB. The largest is the search index, about 37 MB.
 
 ## serve it with solstone
 
-It was checked on **solstone journal 2.0.82**. Install it from [solstone.app/install](https://solstone.app/install).
+This journal is only meant for sol pbc to run, for our own demos and tests, and it isn't kept in step with solstone's releases. The steps below are how we serve it. Parts of it may need a solstone release that hasn't shipped yet and may not work on the current one. Install solstone from [solstone.app/install](https://solstone.app/install).
 
 ⚠ A bare `solstone` command acts on the journal your computer already uses. Serve a copy of this one instead, and point every command at that copy:
 
@@ -62,7 +62,7 @@ solstone journal journal-stats
 solstone journal convey --port 5099 --journal "$SOLSTONE_JOURNAL"
 ```
 
-Then open `http://127.0.0.1:5099/` in a browser set to the `Europe/London` timezone, for example one started with `TZ=Europe/London` in its environment. `stamp.py` restores the file times git does not keep, which the journal reads to know its days are processed. Don't configure an AI provider: what it would write is already in the journal, and a provider would rewrite some of it.
+Then open `http://127.0.0.1:5099/` in a browser set to the `Europe/London` timezone, for example one started with `TZ=Europe/London` in its environment. `stamp.py` restores the file times git does not keep, which the journal reads to tell its days are processed. Don't configure an AI provider: what it would write is already in the journal, and a provider would rewrite some of it.
 
 Home follows today's real date, so open a week or a day from the year directly, for example `/app/activities/20251022`. [`tools/README.md`](tools/README.md) covers the full supervisor, connecting an agent on the same computer, and the read-back.
 

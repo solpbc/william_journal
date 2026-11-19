@@ -316,7 +316,7 @@ def collect_segments() -> list[dict[str, Any]]:
                 continue
             day_key = seg.day_key
             rel_day = path.relative_to(PROJECT_ROOT).as_posix()
-            journal_rel = f"chronicle/{day_key}/screenshots/{seg.segment_key}"
+            journal_rel = f"chronicle/{day_key}/import.image/{seg.segment_key}"
             segments.append(
                 {
                     "id": f"{seg.day_iso}/{seg.segment_key}",

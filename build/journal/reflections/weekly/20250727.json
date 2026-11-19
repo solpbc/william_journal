@@ -103,7 +103,7 @@
         "refs": [
           "sol://facets/writing/activities/20250730#frame_040500_60",
           "sol://facets/household/activities/20250730#meeting_111000_120",
-          "sol://facets/household/activities/20250730#photo_150500_60"
+          "sol://facets/household/activities/20250730#photo_150500_0"
         ]
       }
     },
@@ -117,9 +117,9 @@
         "uri": "sol://chronicle/20250731/talents/morning_briefing",
         "briefing_day": "20250731",
         "refs": [
-          "sol://facets/stratford/activities/20250731#photo_080500_60",
+          "sol://facets/stratford/activities/20250731#photo_080500_0",
           "sol://facets/stratford/activities/20250731#memo_131000_60",
-          "sol://facets/stratford/activities/20250731#photo_170000_60"
+          "sol://facets/stratford/activities/20250731#photo_170000_0"
         ]
       }
     },
@@ -134,7 +134,7 @@
         "briefing_day": "20250801",
         "refs": [
           "sol://facets/stratford/activities/20250801#meeting_072000_60",
-          "sol://facets/stratford/activities/20250801#photo_120000_60",
+          "sol://facets/stratford/activities/20250801#photo_120000_0",
           "sol://facets/stratford/activities/20250801#meeting_120500_480"
         ]
       }
@@ -151,7 +151,7 @@
         "refs": [
           "sol://facets/stratford/activities/20250802#meeting_100000_480",
           "sol://facets/stratford/activities/20250802#meeting_101000_480",
-          "sol://facets/stratford/activities/20250802#photo_102000_60"
+          "sol://facets/stratford/activities/20250802#photo_102000_0"
         ]
       }
     }

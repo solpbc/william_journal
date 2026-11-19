@@ -1,10 +1,9 @@
 {"day": "20251221", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "080500_480", "stream": "talk", "ts": 1766361300000}
 {"change_class": "substantive", "day": "20251221", "event": "sense.change_detect", "mode": "segment", "segment": "080500_480", "stream": "talk", "ts": 1766361300001}
 {"day": "20251221", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "080500_480", "stream": "talk", "ts": 1766361300002}
-{"day": "20251221", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "091500_60", "stream": "screenshots", "ts": 1766361300010}
-{"change_class": "substantive", "day": "20251221", "event": "sense.change_detect", "mode": "segment", "segment": "091500_60", "stream": "screenshots", "ts": 1766361300011}
-{"day": "20251221", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "091500_60", "stream": "screenshots", "ts": 1766361300012}
-{"day": "20251221", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "091500_60", "stream": "screenshots", "ts": 1766361300013}
+{"day": "20251221", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "091500_0", "stream": "import.image", "ts": 1766361300010}
+{"change_class": "substantive", "day": "20251221", "event": "sense.change_detect", "mode": "segment", "segment": "091500_0", "stream": "import.image", "ts": 1766361300011}
+{"day": "20251221", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "091500_0", "stream": "import.image", "ts": 1766361300012}
 {"day": "20251221", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "092800_180", "stream": "talk", "ts": 1766361300020}
 {"change_class": "substantive", "day": "20251221", "event": "sense.change_detect", "mode": "segment", "segment": "092800_180", "stream": "talk", "ts": 1766361300021}
 {"day": "20251221", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "092800_180", "stream": "talk", "ts": 1766361300022}

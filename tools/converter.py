@@ -113,7 +113,7 @@ STREAM_CONFIG_BY_KIND: dict[str, tuple[str, str, str | None]] = {
     "memo": ("memos", "observer", "voice_memo"),
     "note": ("obsidian", "observer", "obsidian"),
     "frame": ("desk", "observer", "screen"),
-    "photo": ("screenshots", "observer", "screenshots"),
+    "photo": ("import.image", "observer", None),
 }
 
 VALID_CONTENT_TYPES = {
@@ -232,8 +232,21 @@ class SegmentSpec:
 
     @property
     def segment_key(self) -> str:
+        clock = self._clock_hhmmss()
+        # A phone photo uses the importer's id (`HHMMSS_0`). Other kinds keep
+        # the duration suffix the rest of the journal already uses.
+        if self.kind == "photo":
+            return f"{clock}_0"
+        return f"{clock}_{self.duration_sec}"
+
+    @property
+    def legacy_screenshot_key(self) -> str:
+        """The old screenshots-segment id, used only to find bytes already on disk."""
+        return f"{self._clock_hhmmss()}_{self.duration_sec}"
+
+    def _clock_hhmmss(self) -> str:
         hh, mm = self.start_hhmm.split(":")
-        return f"{int(hh):02d}{int(mm):02d}00_{self.duration_sec}"
+        return f"{int(hh):02d}{int(mm):02d}00"
 
     @property
     def stream_name(self) -> str:
@@ -296,9 +309,23 @@ def _parse_mmss(mmss: str, label: str) -> int:
 
 PHOTO_INSTALL_MANIFEST = PROJECT_ROOT / "photos" / "year" / "install.json"
 PAGE_INSTALL_MANIFEST = PROJECT_ROOT / "photos" / "pages" / "install.json"
-PHOTO_JPEG = "screenshot_screen.jpg"
+PHOTO_JPEG = "original.jpg"
+LEGACY_PHOTO_JPEG = "screenshot_screen.jpg"
 PAGE_JPEG = "page_screen.jpg"
 _REAL_PHOTO_MIN_BYTES = 2000
+# `triage.rs` RULESET_VERSION at the pinned journal. `image_default` is the
+# manual-image fallback and stores kind `photos` (`rules.rs`).
+PHOTO_IMPORT_KIND = {
+    "kind": "photos",
+    "reasons": ["image_default"],
+    "ruleset_version": 5,
+}
+_JPEG_SOF_MARKERS = {
+    0xC0, 0xC1, 0xC2, 0xC3,
+    0xC5, 0xC6, 0xC7,
+    0xC9, 0xCA, 0xCB,
+    0xCD, 0xCE, 0xCF,
+}
 
 
 def _load_photo_install_map(manifest_path: Path | None = None) -> dict[str, Path]:
@@ -327,8 +354,21 @@ def _is_real_photo_bytes(data: bytes, placeholder: bytes) -> bool:
     )
 
 
+def _photo_byte_candidates(day_dir: Path, seg: SegmentSpec) -> list[Path]:
+    """Where a still may already be, newest layout first.
+
+    The first reconvert still finds the JPEG under the old screenshots segment.
+    """
+    if seg.kind == "photo":
+        return [
+            day_dir / "import.image" / seg.segment_key / PHOTO_JPEG,
+            day_dir / "screenshots" / seg.legacy_screenshot_key / LEGACY_PHOTO_JPEG,
+        ]
+    return [day_dir / seg.stream_name / seg.segment_key / PAGE_JPEG]
+
+
 def _preserved_photo_bytes(day_dir: Path, day_spec: DaySpec) -> dict[tuple[str, str], bytes]:
-    """Real screen JPEGs already on disk for this day, keyed by stream and segment.
+    """Real JPEGs already on disk for this day, keyed by stream and segment.
 
     A convert removes the day's stream directories before rewriting them, so the
     bytes have to be read first or a re-convert blanks every photo.
@@ -337,14 +377,15 @@ def _preserved_photo_bytes(day_dir: Path, day_spec: DaySpec) -> dict[tuple[str, 
     for seg in day_spec.segments:
         if seg.kind not in ("photo", "frame"):
             continue
-        filename = PHOTO_JPEG if seg.kind == "photo" else PAGE_JPEG
-        jpg = day_dir / seg.stream_name / seg.segment_key / filename
-        if not jpg.is_file():
-            continue
-        data = jpg.read_bytes()
         seed = f"{seg.day_iso}:{seg.segment_key}:{seg.heading_title}"
-        if _is_real_photo_bytes(data, _make_minimal_jpeg(seed)):
-            preserved[seg.stream_name, seg.segment_key] = data
+        placeholder = _make_minimal_jpeg(seed)
+        for jpg in _photo_byte_candidates(day_dir, seg):
+            if not jpg.is_file():
+                continue
+            data = jpg.read_bytes()
+            if _is_real_photo_bytes(data, placeholder):
+                preserved[seg.stream_name, seg.segment_key] = data
+                break
     return preserved
 
 
@@ -369,14 +410,20 @@ def photo_jpeg_bytes(
             return existing
     if preserved is not None and _is_real_photo_bytes(preserved, placeholder):
         return preserved
-    key = f"{seg.day_iso}/{seg.segment_key}"
     if manifest_path is None and seg.kind == "frame":
         manifest_path = PAGE_INSTALL_MANIFEST
-    source = _load_photo_install_map(manifest_path).get(key)
-    if source is not None and source.is_file():
-        incoming = source.read_bytes()
-        if _is_real_photo_bytes(incoming, placeholder):
-            return incoming
+    install_map = _load_photo_install_map(manifest_path)
+    keys = [f"{seg.day_iso}/{seg.segment_key}"]
+    if seg.kind == "photo":
+        legacy_key = f"{seg.day_iso}/{seg.legacy_screenshot_key}"
+        if legacy_key not in keys:
+            keys.append(legacy_key)
+    for key in keys:
+        source = install_map.get(key)
+        if source is not None and source.is_file():
+            incoming = source.read_bytes()
+            if _is_real_photo_bytes(incoming, placeholder):
+                return incoming
     return placeholder if seg.kind == "photo" else b""
 
 
@@ -397,6 +444,143 @@ def _make_minimal_jpeg(seed_text: str) -> bytes:
     length = len(comment_bytes) + 2
     com_seg = b"\xff\xfe" + struct.pack(">H", length) + comment_bytes
     return base[:-2] + com_seg + b"\xff\xd9"
+
+
+def london_offset_seconds_at(day_iso: str, hhmm: str) -> int:
+    """Europe/London offset at that civil time, so the BST changeover hour is right."""
+    hh, mm = [int(part) for part in hhmm.split(":")]
+    year, month, day = [int(part) for part in day_iso.split("-")]
+    dt = datetime(year, month, day, hh, mm, tzinfo=LONDON_TZ)
+    offset = dt.utcoffset()
+    if offset is None:
+        raise ContentFormatError(f"{day_iso} {hhmm}: Europe/London has no offset")
+    return int(offset.total_seconds())
+
+
+def _jpeg_dimensions(data: bytes) -> tuple[int, int]:
+    """Width and height from a JPEG SOF marker. No Pillow dependency at convert time."""
+    if not data.startswith(b"\xff\xd8"):
+        raise ContentFormatError("photo bytes are not a JPEG")
+    index = 2
+    limit = len(data)
+    while index + 8 < limit:
+        if data[index] != 0xFF:
+            index += 1
+            continue
+        while index < limit and data[index] == 0xFF:
+            index += 1
+        if index >= limit:
+            break
+        marker = data[index]
+        index += 1
+        if marker in (0xD8, 0xD9, 0x01) or 0xD0 <= marker <= 0xD7:
+            continue
+        if index + 2 > limit:
+            break
+        length = int.from_bytes(data[index:index + 2], "big")
+        if marker in _JPEG_SOF_MARKERS:
+            if index + 7 > limit:
+                break
+            height = int.from_bytes(data[index + 3:index + 5], "big")
+            width = int.from_bytes(data[index + 5:index + 7], "big")
+            if width < 1 or height < 1:
+                break
+            return width, height
+        if marker == 0xDA or length < 2:
+            break
+        index += length
+    raise ContentFormatError("photo JPEG has no readable dimensions")
+
+
+def _literal_markdown(text: str) -> str:
+    """Match `solstone_core_format::markdown::literal_text` so a description renders as written."""
+    out: list[str] = []
+    for ch in text:
+        if ch == "&":
+            out.append("&amp;")
+        elif ch == "<":
+            out.append("&lt;")
+        elif ch == ">":
+            out.append("&gt;")
+        elif ch.isascii() and not ch.isalnum() and not ch.isspace():
+            out.append("\\")
+            out.append(ch)
+        else:
+            out.append(ch)
+    return "".join(out)
+
+
+def _image_transcript(title: str, width: int, height: int, day_iso: str, description: str) -> str:
+    """The importer's `render_image_markdown` for a described JPEG with no owner caption."""
+    lines = [
+        f"# {title}",
+        "",
+        "**Type:** Image",
+        "**Format:** JPEG",
+        f"**Dimensions:** {width}×{height}",
+        f"**Date:** {day_iso}",
+        "",
+        "---",
+        "",
+        "> [image description — model-derived]",
+    ]
+    for line in description.split("\n"):
+        lines.append(">" if line == "" else f"> {_literal_markdown(line)}")
+    return "\n".join(lines).rstrip() + "\n"
+
+
+def _write_photo_import_record(
+    journal_dir: Path,
+    seg: SegmentSpec,
+    jpeg: bytes,
+    file_mtime_sec: float,
+) -> None:
+    """Import-page record for one phone photo.
+
+    `image_content_items` lists a photo only when `manifest.json` says
+    `source_type: image` and `imported.json` carries a `segments` array.
+    The publication shape is `solstone.import.publication.v2`.
+    """
+    hh, mm = [int(part) for part in seg.start_hhmm.split(":")]
+    import_id = f"{seg.day_key}_{hh:02d}{mm:02d}00"
+    import_dir = journal_dir / "imports" / import_id
+    import_dir.mkdir(parents=True, exist_ok=True)
+    transcript_rel = f"chronicle/{seg.day_key}/import.image/{seg.segment_key}/image_transcript.md"
+    manifest = {
+        "import_id": import_id,
+        "source_type": "image",
+        "source_hash": hashlib.sha256(jpeg).hexdigest(),
+        "entry_count": 1,
+        "days_affected": [seg.day_key],
+        "files_created": [transcript_rel],
+        "imported_at": f"{seg.day_iso}T{hh:02d}:{mm:02d}:00.000000",
+        "imported_via": "mobile_share",
+        "link_id": None,
+        "observer_handle": None,
+    }
+    published = {
+        "schema": "solstone.import.publication.v2",
+        "status": "success",
+        "segments": [
+            {
+                "day": seg.day_key,
+                "segment": seg.segment_key,
+                "stream": "import.image",
+                "outcome": {
+                    "status": "bound",
+                    "prev_day": None,
+                    "prev_segment": None,
+                    "seq": 1,
+                },
+            }
+        ],
+        "indexing": {"queued": [], "declined": [], "errored": []},
+        "day_markers": [{"day": seg.day_key, "outcome": {"status": "touched"}}],
+    }
+    for name, payload in (("manifest.json", manifest), ("imported.json", published)):
+        path = import_dir / name
+        path.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
+        os.utime(path, (file_mtime_sec, file_mtime_sec))
 
 
 def parse_day_markdown(path: Path) -> DaySpec:
@@ -1549,66 +1733,36 @@ def _write_segment_files(
     elif seg.kind == "photo":
         jpg_path = seg_dir / PHOTO_JPEG
         kept = (preserved_photos or {}).get((seg.stream_name, seg.segment_key))
-        jpg_path.write_bytes(photo_jpeg_bytes(seg, jpg_path, preserved=kept))
+        jpeg = photo_jpeg_bytes(seg, jpg_path, preserved=kept)
+        jpg_path.write_bytes(jpeg)
         written_paths.append(jpg_path)
-
-        screenshot_lines: list[dict[str, Any]] = [
-            {
-                "observer": seg.stream_name,
-                "qualified_count": 1,
-                "raw": PHOTO_JPEG,
-            },
-            {
-                "analysis": {
-                    "primary": seg.content_type,
-                    "visual_description": seg.photo_text,
-                },
-                "content": {},
-                "frame_id": 1,
-                "timestamp": 0.0,
-            },
-        ]
-        registry.validate_headered_jsonl(
-            "screen-jsonl", screenshot_lines, f"{seg.day_key}/{seg.segment_key}/screenshot_screen.jsonl"
-        )
-        ss_jsonl_path = seg_dir / "screenshot_screen.jsonl"
-        ss_jsonl_path.write_text(
-            "".join(json.dumps(line, sort_keys=True) + "\n" for line in screenshot_lines),
+        width, height = _jpeg_dimensions(jpeg)
+        offset = london_offset_seconds_at(seg.day_iso, seg.start_hhmm)
+        meta_path = seg_dir / "image_meta.json"
+        # Field order matches `write_image_meta`. No caption, filename, or tz:
+        # the importer stores tz only when it has one, and this path never does.
+        meta_path.write_text(
+            json.dumps(
+                {"schema": 1, "time_source": "capture", "utc_offset_seconds": offset},
+                separators=(",", ":"),
+            )
+            + "\n",
             encoding="utf-8",
         )
-        written_paths.append(ss_jsonl_path)
-
-        screen_text_path = talents_dir / "screen_text.md"
-        screen_text_path.write_text(f"## 00:00 · {seg.heading_title}\n\n{seg.photo_text}\n", encoding="utf-8")
-        written_paths.append(screen_text_path)
-
-        photo_entities: list[dict[str, str]] = []
-        for slug, raw_role in seg.people:
-            photo_entities.append(
-                {
-                    "type": "Person",
-                    "name": _entity_display_name(slug),
-                    "role": _normalize_schema_role(raw_role),
-                    "context": seg.participation.get(slug) or f"In {seg.heading_title}",
-                }
-            )
-        for m_item in seg.also_mentioned:
-            photo_entities.append(
-                {
-                    "type": m_item.entity_type,
-                    "name": m_item.name,
-                    "role": "mentioned",
-                    "context": f"In photo: {seg.heading_title}",
-                }
-            )
-        screen_talent_obj = {
-            "narrative": seg.photo_text,
-            "entities": photo_entities[:30],
-        }
-        registry.validate_talent_output("screen", screen_talent_obj, f"{seg.day_key}/{seg.segment_key}/screen.json")
-        screen_json_path = talents_dir / "screen.json"
-        screen_json_path.write_text(json.dumps(screen_talent_obj, indent=2) + "\n", encoding="utf-8")
-        written_paths.append(screen_json_path)
+        written_paths.append(meta_path)
+        transcript_path = seg_dir / "image_transcript.md"
+        transcript_path.write_text(
+            _image_transcript(seg.heading_title, width, height, seg.day_iso, seg.photo_text),
+            encoding="utf-8",
+        )
+        written_paths.append(transcript_path)
+        kind_path = seg_dir / "import_kind.json"
+        kind_path.write_text(
+            json.dumps(PHOTO_IMPORT_KIND, separators=(",", ":")) + "\n",
+            encoding="utf-8",
+        )
+        written_paths.append(kind_path)
+        _write_photo_import_record(journal_dir, seg, jpeg, file_mtime_sec)
 
     # 2. Sense + 7 projections
     pred_seg = predecessor_by_stream.get(seg.stream_name)
@@ -1712,7 +1866,7 @@ def _write_segment_files(
             "name": "documents",
         },
     ]
-    if seg.kind in ("frame", "photo"):
+    if seg.kind == "frame":
         receipts.append(
             {
                 "ts": receipt_ts_ms + 3,
@@ -1926,7 +2080,7 @@ def rebuild_stream_chains(journal_dir: Path, registry: ContractRegistry, file_mt
     stream_meta: dict[str, tuple[str, str | None, str | None]] = {
         "calendar": ("observer", "calendar", None),
         "obsidian": ("observer", "obsidian", None),
-        "screenshots": ("observer", "screenshots", None),
+        "import.image": ("observer", None, None),
         "import.apple_health": ("observer", "import.apple_health", None),
         "phone": ("observer", None, "ios"),
         "talk": ("observer", "microphone", None),
@@ -1987,7 +2141,6 @@ def rebuild_stream_chains(journal_dir: Path, registry: ContractRegistry, file_mt
         if seq == 0 and stream_name not in (
             "calendar",
             "obsidian",
-            "screenshots",
             "import.apple_health",
             "phone",
         ):
@@ -2011,6 +2164,13 @@ def rebuild_stream_chains(journal_dir: Path, registry: ContractRegistry, file_mt
             json.dumps(stream_record, indent=2, ensure_ascii=False) + "\n",
             encoding="utf-8",
         )
+
+    # Photos left the screenshots stream. Drop the empty record so the journal
+    # does not keep advertising a source that has no segments.
+    if not segments_by_stream.get("screenshots"):
+        stale_screenshots = streams_root / "screenshots.json"
+        if stale_screenshots.is_file():
+            stale_screenshots.unlink()
 
     write_device_descriptions(journal_dir)
 
@@ -2061,6 +2221,11 @@ def convert_content_to_journal(
             stream_dir = day_dir / stream_name
             if stream_dir.is_dir():
                 shutil.rmtree(stream_dir)
+        # The photo stream name changed. Remove the old directory or the day
+        # still holds the picture as a screen segment.
+        legacy_screenshots = day_dir / "screenshots"
+        if legacy_screenshots.is_dir():
+            shutil.rmtree(legacy_screenshots)
         for old_receipt in day_health_dir.glob("*_segment.jsonl"):
             old_receipt.unlink()
 

@@ -13,7 +13,15 @@
       "categories": [
         "transcripts",
         "entities",
-        "facets"
+        "profile_pics",
+        "facets",
+        "screen_text",
+        "body",
+        "notes",
+        "documents",
+        "calendar",
+        "places",
+        "photos"
       ],
       "scope": "whole_journal"
     }

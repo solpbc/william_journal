@@ -8,10 +8,9 @@
 {"change_class": "substantive", "day": "20251116", "event": "sense.change_detect", "mode": "segment", "segment": "144200_120", "stream": "desk", "ts": 1763337300021}
 {"day": "20251116", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "144200_120", "stream": "desk", "ts": 1763337300022}
 {"day": "20251116", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "144200_120", "stream": "desk", "ts": 1763337300023}
-{"day": "20251116", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "144800_60", "stream": "screenshots", "ts": 1763337300030}
-{"change_class": "substantive", "day": "20251116", "event": "sense.change_detect", "mode": "segment", "segment": "144800_60", "stream": "screenshots", "ts": 1763337300031}
-{"day": "20251116", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "144800_60", "stream": "screenshots", "ts": 1763337300032}
-{"day": "20251116", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "144800_60", "stream": "screenshots", "ts": 1763337300033}
+{"day": "20251116", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "144800_0", "stream": "import.image", "ts": 1763337300030}
+{"change_class": "substantive", "day": "20251116", "event": "sense.change_detect", "mode": "segment", "segment": "144800_0", "stream": "import.image", "ts": 1763337300031}
+{"day": "20251116", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "144800_0", "stream": "import.image", "ts": 1763337300032}
 {"day": "20251116", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "170000_240", "stream": "desk", "ts": 1763337300040}
 {"change_class": "substantive", "day": "20251116", "event": "sense.change_detect", "mode": "segment", "segment": "170000_240", "stream": "desk", "ts": 1763337300041}
 {"day": "20251116", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "170000_240", "stream": "desk", "ts": 1763337300042}

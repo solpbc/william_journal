@@ -54,7 +54,7 @@
         "briefing_day": "20251221",
         "refs": [
           "sol://facets/household/activities/20251221#meeting_080500_480",
-          "sol://facets/household/activities/20251221#photo_091500_60",
+          "sol://facets/household/activities/20251221#photo_091500_0",
           "sol://facets/household/activities/20251221#meeting_092800_180"
         ]
       }
@@ -70,7 +70,7 @@
         "briefing_day": "20251222",
         "refs": [
           "sol://facets/company/activities/20251222#memo_021000_60",
-          "sol://facets/household/activities/20251222#photo_094000_60",
+          "sol://facets/household/activities/20251222#photo_094000_0",
           "sol://facets/household/activities/20251222#meeting_111500_600"
         ]
       }
@@ -102,7 +102,7 @@
         "briefing_day": "20251224",
         "refs": [
           "sol://facets/household/activities/20251224#frame_062000_120",
-          "sol://facets/company/activities/20251224#photo_080000_60",
+          "sol://facets/company/activities/20251224#photo_080000_0",
           "sol://facets/company/activities/20251224#meeting_082000_720"
         ]
       }
@@ -118,7 +118,7 @@
         "briefing_day": "20251225",
         "refs": [
           "sol://facets/company/activities/20251225#meeting_131000_720",
-          "sol://facets/household/activities/20251225#photo_183000_60",
+          "sol://facets/household/activities/20251225#photo_183000_0",
           "sol://facets/stratford/activities/20251225#memo_201000_60"
         ]
       }
@@ -133,7 +133,7 @@
         "uri": "sol://chronicle/20251226/talents/morning_briefing",
         "briefing_day": "20251226",
         "refs": [
-          "sol://facets/company/activities/20251226#photo_101000_60",
+          "sol://facets/company/activities/20251226#photo_101000_0",
           "sol://facets/company/activities/20251226#meeting_103500_480",
           "sol://facets/company/activities/20251226#frame_153000_120"
         ]
@@ -151,7 +151,7 @@
         "refs": [
           "sol://facets/company/activities/20251227#meeting_111000_600",
           "sol://facets/company/activities/20251227#frame_162000_120",
-          "sol://facets/company/activities/20251227#photo_234000_60"
+          "sol://facets/company/activities/20251227#photo_234000_0"
         ]
       }
     }

@@ -487,7 +487,7 @@ def judge_weekly_reflection(
     json_str: str,
     sunday_date: str,
 ) -> None:
-    """Port of `judge_contents` and `read_said` in `core/crates/solstone-core-home/src/weekly.rs:258-536`."""
+    """Port of `judge_contents` and `read_said` in `core/crates/solstone-core-home/src/weekly.rs:262-485`."""
     try:
         if len(sunday_date) == 8 and sunday_date.isdigit():
             sunday = datetime.strptime(sunday_date, "%Y%m%d").date()

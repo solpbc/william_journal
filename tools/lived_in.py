@@ -17,7 +17,11 @@ MARK_FILES = ("cert.pem", "private.pem", "state.json")
 GRANT_ID = "Ui6UEpHGQomNbwmlyfxlsQ"
 CONNECTION = f"oauth:{GRANT_ID}"
 SOURCE = hashlib.sha256(f"solstone-agent-memory-source-v1\n{CONNECTION}".encode()).hexdigest()
-CATEGORIES = ["transcripts", "entities", "facets"]
+# Every kind an owner can allow (journal kinds list): this journal exists to show agent access.
+CATEGORIES = [
+    "transcripts", "entities", "profile_pics", "facets", "screen_text", "body",
+    "notes", "documents", "calendar", "places", "photos",
+]
 CONNECTED_AT = "2025-01-03T19:45:00Z"
 
 # The authored summaries already reflect these facts. The edits retain the owner's account.

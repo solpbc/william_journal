@@ -2,10 +2,9 @@
 {"change_class": "substantive", "day": "20250517", "event": "sense.change_detect", "mode": "segment", "segment": "100500_180", "stream": "desk", "ts": 1747522500001}
 {"day": "20250517", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "100500_180", "stream": "desk", "ts": 1747522500002}
 {"day": "20250517", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "100500_180", "stream": "desk", "ts": 1747522500003}
-{"day": "20250517", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "102200_60", "stream": "screenshots", "ts": 1747522500010}
-{"change_class": "substantive", "day": "20250517", "event": "sense.change_detect", "mode": "segment", "segment": "102200_60", "stream": "screenshots", "ts": 1747522500011}
-{"day": "20250517", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "102200_60", "stream": "screenshots", "ts": 1747522500012}
-{"day": "20250517", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "102200_60", "stream": "screenshots", "ts": 1747522500013}
+{"day": "20250517", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "102200_0", "stream": "import.image", "ts": 1747522500010}
+{"change_class": "substantive", "day": "20250517", "event": "sense.change_detect", "mode": "segment", "segment": "102200_0", "stream": "import.image", "ts": 1747522500011}
+{"day": "20250517", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "102200_0", "stream": "import.image", "ts": 1747522500012}
 {"day": "20250517", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "103500_60", "stream": "desk", "ts": 1747522500020}
 {"change_class": "substantive", "day": "20250517", "event": "sense.change_detect", "mode": "segment", "segment": "103500_60", "stream": "desk", "ts": 1747522500021}
 {"day": "20250517", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "103500_60", "stream": "desk", "ts": 1747522500022}
@@ -28,10 +27,9 @@
 {"change_class": "substantive", "day": "20250517", "event": "sense.change_detect", "mode": "segment", "segment": "232000_180", "stream": "desk", "ts": 1747522500071}
 {"day": "20250517", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "232000_180", "stream": "desk", "ts": 1747522500072}
 {"day": "20250517", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "232000_180", "stream": "desk", "ts": 1747522500073}
-{"day": "20250517", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "234500_60", "stream": "screenshots", "ts": 1747522500080}
-{"change_class": "substantive", "day": "20250517", "event": "sense.change_detect", "mode": "segment", "segment": "234500_60", "stream": "screenshots", "ts": 1747522500081}
-{"day": "20250517", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "234500_60", "stream": "screenshots", "ts": 1747522500082}
-{"day": "20250517", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "234500_60", "stream": "screenshots", "ts": 1747522500083}
+{"day": "20250517", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "234500_0", "stream": "import.image", "ts": 1747522500080}
+{"change_class": "substantive", "day": "20250517", "event": "sense.change_detect", "mode": "segment", "segment": "234500_0", "stream": "import.image", "ts": 1747522500081}
+{"day": "20250517", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "234500_0", "stream": "import.image", "ts": 1747522500082}
 {"day": "20250517", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "010000_60", "stream": "memos", "ts": 1747522500090}
 {"change_class": "substantive", "day": "20250517", "event": "sense.change_detect", "mode": "segment", "segment": "010000_60", "stream": "memos", "ts": 1747522500091}
 {"day": "20250517", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "010000_60", "stream": "memos", "ts": 1747522500092}

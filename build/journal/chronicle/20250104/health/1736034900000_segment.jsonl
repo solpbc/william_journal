@@ -2,10 +2,9 @@
 {"change_class": "substantive", "day": "20250104", "event": "sense.change_detect", "mode": "segment", "segment": "085000_180", "stream": "desk", "ts": 1736034900001}
 {"day": "20250104", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "085000_180", "stream": "desk", "ts": 1736034900002}
 {"day": "20250104", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "085000_180", "stream": "desk", "ts": 1736034900003}
-{"day": "20250104", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "110500_60", "stream": "screenshots", "ts": 1736034900010}
-{"change_class": "substantive", "day": "20250104", "event": "sense.change_detect", "mode": "segment", "segment": "110500_60", "stream": "screenshots", "ts": 1736034900011}
-{"day": "20250104", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "110500_60", "stream": "screenshots", "ts": 1736034900012}
-{"day": "20250104", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "110500_60", "stream": "screenshots", "ts": 1736034900013}
+{"day": "20250104", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "110500_0", "stream": "import.image", "ts": 1736034900010}
+{"change_class": "substantive", "day": "20250104", "event": "sense.change_detect", "mode": "segment", "segment": "110500_0", "stream": "import.image", "ts": 1736034900011}
+{"day": "20250104", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "110500_0", "stream": "import.image", "ts": 1736034900012}
 {"day": "20250104", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "111000_180", "stream": "talk", "ts": 1736034900020}
 {"change_class": "substantive", "day": "20250104", "event": "sense.change_detect", "mode": "segment", "segment": "111000_180", "stream": "talk", "ts": 1736034900021}
 {"day": "20250104", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "111000_180", "stream": "talk", "ts": 1736034900022}

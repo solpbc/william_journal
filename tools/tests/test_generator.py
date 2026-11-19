@@ -213,12 +213,27 @@ def test_convert_fixture_and_contract_check(tmp_path: Path) -> None:
     ):
         assert (talents_dir / expected_talent_file).is_file(), f"Missing {expected_talent_file}"
 
-    # Verify photo segment files
-    photo_dir = scratch_journal / "chronicle" / "20250315" / "screenshots" / "114800_60"
-    assert (photo_dir / "screenshot_screen.jpg").is_file()
-    assert (photo_dir / "screenshot_screen.jsonl").is_file()
-    assert (photo_dir / "talents" / "screen.json").is_file()
-    assert (photo_dir / "talents" / "screen_text.md").is_file()
+    # Verify photo segment files (a phone share, not a screen segment)
+    photo_dir = scratch_journal / "chronicle" / "20250315" / "import.image" / "114800_0"
+    assert (photo_dir / "original.jpg").is_file()
+    assert (photo_dir / "image_meta.json").is_file()
+    assert (photo_dir / "image_transcript.md").is_file()
+    assert (photo_dir / "import_kind.json").is_file()
+    assert not (photo_dir / "talents" / "screen.json").exists()
+    assert not (scratch_journal / "chronicle" / "20250315" / "screenshots").exists()
+    meta = json.loads((photo_dir / "image_meta.json").read_text(encoding="utf-8"))
+    assert meta == {"schema": 1, "time_source": "capture", "utc_offset_seconds": 0}
+    kind = json.loads((photo_dir / "import_kind.json").read_text(encoding="utf-8"))
+    assert kind["kind"] == "photos"
+    transcript = (photo_dir / "image_transcript.md").read_text(encoding="utf-8")
+    assert "> [image description — model-derived]" in transcript
+    assert "Twenty pounds in gold and silver" in transcript
+    imported = json.loads(
+        (scratch_journal / "imports" / "20250315_114800" / "imported.json").read_text(encoding="utf-8")
+    )
+    assert imported["schema"] == "solstone.import.publication.v2"
+    assert imported["segments"][0]["segment"] == "114800_0"
+    assert imported["segments"][0]["stream"] == "import.image"
 
     # Verify weekly reflection
     assert (scratch_journal / "reflections" / "weekly" / "20250309.json").is_file()
@@ -288,7 +303,7 @@ def test_reconvert_leaves_a_real_photo_intact(tmp_path: Path) -> None:
         journal_dir=scratch_journal,
         solstone_repo=SOLSTONE_REPO,
     )
-    photo = scratch_journal / "chronicle" / "20250315" / "screenshots" / "114800_60" / "screenshot_screen.jpg"
+    photo = scratch_journal / "chronicle" / "20250315" / "import.image" / "114800_0" / "original.jpg"
     assert photo.is_file()
     real = _fat_jpeg(b"keep-this-photo")
     assert len(real) >= converter._REAL_PHOTO_MIN_BYTES
@@ -300,6 +315,36 @@ def test_reconvert_leaves_a_real_photo_intact(tmp_path: Path) -> None:
         solstone_repo=SOLSTONE_REPO,
     )
     assert photo.read_bytes() == real
+
+
+def test_reconvert_adopts_a_legacy_screenshot_jpeg(tmp_path: Path) -> None:
+    """Bytes installed as a screen segment become the imported photo, unchanged."""
+    scratch_journal = tmp_path / "journal"
+    _stage_march_week_backdrop(scratch_journal)
+    legacy = (
+        scratch_journal
+        / "chronicle"
+        / "20250315"
+        / "screenshots"
+        / "114800_60"
+        / "screenshot_screen.jpg"
+    )
+    legacy.parent.mkdir(parents=True)
+    real = _fat_jpeg(b"legacy-screenshot")
+    legacy.write_bytes(real)
+
+    converter.convert_content_to_journal(
+        content_dir=FIXTURES_DIR,
+        journal_dir=scratch_journal,
+        solstone_repo=SOLSTONE_REPO,
+    )
+    photo = scratch_journal / "chronicle" / "20250315" / "import.image" / "114800_0" / "original.jpg"
+    assert photo.read_bytes() == real
+    assert not legacy.exists()
+    assert not (scratch_journal / "streams" / "screenshots.json").exists()
+    stream = json.loads((scratch_journal / "streams" / "import.image.json").read_text(encoding="utf-8"))
+    assert stream["name"] == "import.image"
+    assert "source" not in stream
 
 
 def test_placeholder_photo_is_replaced_from_the_install_manifest(tmp_path: Path) -> None:
@@ -314,7 +359,7 @@ def test_placeholder_photo_is_replaced_from_the_install_manifest(tmp_path: Path)
         json.dumps({"by_segment": {f"{photo_seg.day_iso}/{photo_seg.segment_key}": str(source)}}),
         encoding="utf-8",
     )
-    dest = tmp_path / "screenshot_screen.jpg"
+    dest = tmp_path / "original.jpg"
     seed = f"{photo_seg.day_iso}:{photo_seg.segment_key}:{photo_seg.heading_title}"
     dest.write_bytes(converter._make_minimal_jpeg(seed))
 
@@ -402,7 +447,9 @@ def test_convey_read_back_fixture(tmp_path: Path) -> None:
         solstone_bin=SOLSTONE_BIN if SOLSTONE_BIN.exists() else None,
     )
     assert report["status"] == "ok"
-    assert report["talents_files_verified_unchanged"] >= 40
+    # Measured 2026-11-19 on this fixture: 38. The one photo no longer writes
+    # talents/screen.json and talents/screen_text.md. The prior floor was 40.
+    assert report["talents_files_verified_unchanged"] >= 38
     assert report["william_speaker_labels_verified"] >= 1
     assert report["search_hits_twenty_pound"] >= 1
     assert report["search_hits_whitehall"] >= 1
@@ -757,7 +804,10 @@ def test_committed_tree_checkout_mtime_and_read_back() -> None:
     assert report["year_backdrop_check"]["body_days_verified"] == 365
     assert report["year_backdrop_check"]["placed_location_days_verified"] == 365
     assert report["year_backdrop_check"]["river_ban_violations"] == 0
-    assert report["talents_files_verified_unchanged"] == 20656
+    # Measured 2026-11-19 by read_back.py on the reconverted year:
+    # len(talents_after) == 20290. Photos no longer write talents/screen.json
+    # or talents/screen_text.md (2 files x 183). The prior pin was 20656.
+    assert report["talents_files_verified_unchanged"] == 20290
     assert report["william_speaker_labels_verified"] == 796
     assert report["search_hits_twenty_pound"] >= 1
     assert report["search_hits_whitehall"] >= 1

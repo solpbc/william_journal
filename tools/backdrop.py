@@ -95,7 +95,7 @@ SOURCE_NAMES = {
     "memos": "working speech",
     "obsidian": "commonplace book and papers",
     "desk": "the page before him",
-    "screenshots": "a still",
+    "import.image": "a still",
     "phone": "the day's walk",
 }
 
@@ -138,7 +138,7 @@ def write_device_descriptions(journal_root: Path) -> None:
         if not (journal_root / "streams" / f"{stream}.json").is_file():
             continue
         reported = None
-        if stream == "screenshots":
+        if stream == "import.image":
             # The world gives the stills a modern phone camera (§ 2.9).
             reported = dict(name=None, platform=None, device_type="phone",
                             app_id=None, app_version=None)
@@ -1283,7 +1283,7 @@ def write_body_and_location_from_dayplan(
                 registry=registry,
                 kind="observer",
             )
-        else:
+        elif stream_name == "obsidian":
             record = {
                 "name": stream_name,
                 "kind": "observer",
@@ -1298,6 +1298,11 @@ def write_body_and_location_from_dayplan(
             }
             validate_stream_record(record, f"streams/{stream_name}.json")
             _write_json_pretty(journal_root / "streams" / f"{stream_name}.json", record)
+        else:
+            # An empty screenshots record would advertise a source the photos left.
+            stale = journal_root / "streams" / f"{stream_name}.json"
+            if stale.is_file():
+                stale.unlink()
 
     return {
         "days": len(dayplan_rows),

@@ -1,10 +1,9 @@
 {"day": "20250122", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "103500_840", "stream": "talk", "ts": 1737590100000}
 {"change_class": "substantive", "day": "20250122", "event": "sense.change_detect", "mode": "segment", "segment": "103500_840", "stream": "talk", "ts": 1737590100001}
 {"day": "20250122", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "103500_840", "stream": "talk", "ts": 1737590100002}
-{"day": "20250122", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "110200_120", "stream": "screenshots", "ts": 1737590100010}
-{"change_class": "substantive", "day": "20250122", "event": "sense.change_detect", "mode": "segment", "segment": "110200_120", "stream": "screenshots", "ts": 1737590100011}
-{"day": "20250122", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "110200_120", "stream": "screenshots", "ts": 1737590100012}
-{"day": "20250122", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "110200_120", "stream": "screenshots", "ts": 1737590100013}
+{"day": "20250122", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "110200_0", "stream": "import.image", "ts": 1737590100010}
+{"change_class": "substantive", "day": "20250122", "event": "sense.change_detect", "mode": "segment", "segment": "110200_0", "stream": "import.image", "ts": 1737590100011}
+{"day": "20250122", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "110200_0", "stream": "import.image", "ts": 1737590100012}
 {"day": "20250122", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "204000_480", "stream": "obsidian", "ts": 1737590100020}
 {"change_class": "substantive", "day": "20250122", "event": "sense.change_detect", "mode": "segment", "segment": "204000_480", "stream": "obsidian", "ts": 1737590100021}
 {"day": "20250122", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "204000_480", "stream": "obsidian", "ts": 1737590100022}

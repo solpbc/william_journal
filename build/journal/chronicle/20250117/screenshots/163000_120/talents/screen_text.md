@@ -1,3 +1,0 @@
-## 00:00 · The yard at half past four
-
-The inn-yard at half past four, from the level of a man standing at the stage end. The stage torches are just lit. Breath smokes in the galleries, where the people are still in their cloaks. The boards are pale with the cold. No face in the near of the frame, and no shadow of the man whose eyes these are.

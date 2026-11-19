@@ -51,7 +51,7 @@ def install_into_journal(manifest: dict[str, Any], photos_dir: Path, journal_dir
         if not rel or not image_rel:
             raise SystemExit(f"manifest item {item.get('number')} is missing journal_rel or image_rel_path")
         src = photos_dir / image_rel
-        dest = journal_dir / rel / "screenshot_screen.jpg"
+        dest = journal_dir / rel / "original.jpg"
         if not src.is_file():
             raise SystemExit(f"missing generated image {src}")
         if not dest.parent.is_dir():
