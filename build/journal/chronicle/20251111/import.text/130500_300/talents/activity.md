@@ -1,0 +1,1 @@
+Back at Great St Helen's after finishing the final couplet this morning and shopping at Leadenhall, you filed a clean unbroken reading extract of Act II Scene II — Capulet's orchard from 'He ieasts at scarres' through 'Henceforth I neuer will be Romeo' — ahead of taking the book to Tilney.

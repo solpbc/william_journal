@@ -1,0 +1,84 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "After laying the loose leaf of Juliet's vial speech aside at 'Nurse!' without letting her drink tonight, you noted the morning's settled three rolls (eightpence to Humphrey Larkham, small sign on all three) and your rules for the scene: do not write Juliet lower for Nick's grain, leave out margin prompts like 'weep here', and keep the chamber properties to a glass phial, wax taper, and curtained bed.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "other",
+      "context": "Set down working reminders at Great St Helen's after laying the loose vial leaf aside.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Humphrey Larkham",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Corrected Gaunt's, York's, and the Queen's rolls for eightpence copying and marked the small sign.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Whose shortened cue was reconciled and who will keep the plain chamber properties.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Insisted on paper first, then mouths, and entered the eightpence as copying.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Spoke the settled cue once; voice carries a grain since late September, not to be written lower.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Mentioned in Vial scene — cues, copy, and chamber notes",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Mentioned in Vial scene — cues, copy, and chamber notes",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote working notes on the three rolls and Juliet's vial",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Juliet's vial scene",
+    "three settled rolls",
+    "Nick Sorrell's voice",
+    "no margin prompts"
+  ],
+  "quotes": []
+}

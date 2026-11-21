@@ -1,0 +1,1 @@
+At Henley Street you set down the afternoon walk down Chapel Street with Anne and Richard past the three-storey brick-and-timber corner house — broken pane, nettles at the gate, sound framing, the garden Anne knew what she would do with — asking no price, asking Anne for three years, and hearing she will give you till she believes you.

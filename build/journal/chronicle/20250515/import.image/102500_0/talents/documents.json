@@ -1,0 +1,51 @@
+{
+  "overview": "At Richard Field's Blackfriars shop you captured the damp folio proof sheet of the Life of Julius Caesar hanging on its hemp drying cord with a turned letter ringed in brown ink.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Captured the hanging proof sheet of Caesar at Richard Field's shop."
+    },
+    {
+      "name": "Richard Field",
+      "role": "mentioned",
+      "formal_term": "Richard Field",
+      "appointment_tier": "not_applicable",
+      "context": "Printer of the folio Plutarch in Blackfriars whose brown-ink ring marks the turned letter."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "North's Plutarch",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Life of Julius Caesar",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "turned letter in brown ink",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "North's Plutarch",
+      "asset_type": "other",
+      "disposition": "Saved a view of Field's damp Plutarch proof sheet"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-15",
+      "meaning": "Damp Plutarch proof sheet at Field's press"
+    }
+  ],
+  "summary": "Saved a view of Field's damp Plutarch proof sheet"
+}

@@ -25,3 +25,6 @@
 {"day": "20250515", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "211000_180", "stream": "obsidian", "ts": 1747349700070}
 {"change_class": "substantive", "day": "20250515", "event": "sense.change_detect", "mode": "segment", "segment": "211000_180", "stream": "obsidian", "ts": 1747349700071}
 {"day": "20250515", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "211000_180", "stream": "obsidian", "ts": 1747349700072}
+{"day": "20250515", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "102500_0", "stream": "import.image", "ts": 1747349700080}
+{"change_class": "substantive", "day": "20250515", "event": "sense.change_detect", "mode": "segment", "segment": "102500_0", "stream": "import.image", "ts": 1747349700081}
+{"day": "20250515", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "102500_0", "stream": "import.image", "ts": 1747349700082}

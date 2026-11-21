@@ -1,0 +1,1 @@
+At Great St Helen's you wrote down Giles Allen's twenty-four-pound demand against fourteen, the two years less a month left, the unexplained five-year clause, and the fact that nothing was agreed while Saturday's Act 3 leaf still sits half blank on your board.

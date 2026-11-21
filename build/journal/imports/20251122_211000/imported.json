@@ -1,0 +1,47 @@
+{
+  "schema": "solstone.import.publication.v2",
+  "status": "success",
+  "segments": [
+    {
+      "day": "20250816",
+      "segment": "193000_300",
+      "stream": "import.evernote",
+      "outcome": {
+        "status": "bound",
+        "prev_day": null,
+        "prev_segment": null,
+        "seq": 1
+      }
+    },
+    {
+      "day": "20251122",
+      "segment": "211000_300",
+      "stream": "import.evernote",
+      "outcome": {
+        "status": "bound",
+        "prev_day": "20250816",
+        "prev_segment": "193000_300",
+        "seq": 2
+      }
+    }
+  ],
+  "indexing": {
+    "queued": [],
+    "declined": [],
+    "errored": []
+  },
+  "day_markers": [
+    {
+      "day": "20250816",
+      "outcome": {
+        "status": "touched"
+      }
+    },
+    {
+      "day": "20251122",
+      "outcome": {
+        "status": "touched"
+      }
+    }
+  ]
+}

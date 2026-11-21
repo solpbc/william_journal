@@ -1,0 +1,1 @@
+You filed John Heminges's three-part company memorandum weighing an empty yard against a moving wagon, setting out oats, county mayors, and five-shilling country wages, and recording the resolution to play through 26 July, re-open 25 August, and review 17 July — carried, Kemp against, no sum set.

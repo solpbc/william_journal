@@ -1,0 +1,1 @@
+Back at Great St Helen's you set down the twenty-pound Whitehall warrant figures, Heminges's deferral of Burbage's peach-coloured velvet until autumn, and your own thirty-seven shillings and sixpence laid by in the chest toward a hired horse for Warwickshire in Lent.

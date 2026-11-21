@@ -1,0 +1,51 @@
+{
+  "density": "low_change",
+  "content_type": "reading",
+  "activity_summary": "Walking north up Bishopsgate toward Shoreditch before two, you captured the tacked playbill on an oak post announcing the afternoon performance of The Knave at the Theatre.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Captured the street-post playbill on his walk north up Bishopsgate to the Theatre.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "The Theatre",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Bishopsgate playbill for The Knave",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Knave",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Bishopsgate playbill for The Knave",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Saved a view of the Bishopsgate playbill for The Knave",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Bishopsgate playbill",
+    "The Knave",
+    "two of the clock"
+  ],
+  "quotes": []
+}

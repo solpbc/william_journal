@@ -1,0 +1,48 @@
+{
+  "density": "active",
+  "content_type": "reading",
+  "activity_summary": "Back at Great St Helen's after finishing the final couplet this morning and shopping at Leadenhall, you filed a clean unbroken reading extract of Act II Scene II — Capulet's orchard from 'He ieasts at scarres' through 'Henceforth I neuer will be Romeo' — ahead of taking the book to Tilney.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "other",
+      "context": "Kept a clean reading extract of the orchard scene from the newly finished book before licensing.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Mentioned in Romeo and Juliet, Act II Scene II — reading extract",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Filed the Act II Scene II reading extract from the finished book",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Romeo and Juliet Act II Scene II",
+    "Capulet's orchard",
+    "finished book before licensing"
+  ],
+  "quotes": [
+    {
+      "speaker": "William Shakespeare",
+      "text": "But soft, what light through yonder window breaks? / It is the East, and Iuliet is the Sunne."
+    }
+  ]
+}

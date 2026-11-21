@@ -1,0 +1,1 @@
+You filed the memorandum of Giles Allen's lease heads for the Theatre ground: twenty-four pounds a year against fourteen, two years less a month left on the 1576 term, an unexplained five-year clause touching the house, and the timber removal covenant, minuted with nothing agreed.

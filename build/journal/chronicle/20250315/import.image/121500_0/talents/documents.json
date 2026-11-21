@@ -1,0 +1,65 @@
+{
+  "overview": "You saved a view of John Heminges's chalk reckoning slate at Holywell breaking down the twenty-pound Greenwich warrant into expenses and eight equal parts of thirty-seven shillings and sixpence.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Kept a capture of Heminges's chalk cast at Holywell."
+    },
+    {
+      "name": "John Heminges",
+      "role": "mentioned",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Cast the twenty-pound Chamber warrant into eight equal parts on the slate."
+    },
+    {
+      "name": "James Burbage",
+      "role": "mentioned",
+      "formal_term": "James Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Hosted the midday reckoning at his house in Holywell."
+    },
+    {
+      "name": "Edith Kettlewood",
+      "role": "mentioned",
+      "formal_term": "Edith Kettlewood",
+      "appointment_tier": "not_applicable",
+      "context": "Eight shillings set aside for her from the stock part, payable Thursday."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "twenty-pound warrant",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Heminges's reckoning slate",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "thirty-seven shillings and sixpence",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Greenwich Chamber warrant",
+      "asset_type": "other",
+      "disposition": "Saved Heminges's warrant reckoning slate"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-15",
+      "meaning": "Heminges's warrant reckoning slate"
+    }
+  ],
+  "summary": "Saved Heminges's warrant reckoning slate"
+}

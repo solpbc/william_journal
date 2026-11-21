@@ -1,0 +1,100 @@
+{
+  "density": "active",
+  "content_type": "reading",
+  "activity_summary": "You filed John Heminges's three-part company memorandum weighing an empty yard against a moving wagon, setting out oats, county mayors, and five-shilling country wages, and recording the resolution to play through 26 July, re-open 25 August, and review 17 July — carried, Kemp against, no sum set.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "other",
+      "context": "Voted with Heminges at the Theatre meeting.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "other",
+      "context": "Prepared the three-part reckoning memorandum and entered the vote.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Present at the Theatre sharers' meeting.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Present at the Theatre sharers' meeting.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Recorded as the lone vote against.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "George Bryan",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Present at the Theatre sharers' meeting.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Present at the Theatre sharers' meeting.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Present at the Theatre sharers' meeting.",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "The Theatre",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Mentioned in Company summer reckoning memorandum — July 1595",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Filed Heminges's summer reckoning memorandum",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "summer reckoning memorandum",
+    "26 July to 25 August",
+    "17 July review",
+    "carried Kemp against"
+  ],
+  "quotes": []
+}

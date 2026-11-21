@@ -1,0 +1,91 @@
+{
+  "overview": "You filed the memorandum of Giles Allen's lease heads for the Theatre ground: twenty-four pounds a year against fourteen, two years less a month left on the 1576 term, an unexplained five-year clause touching the house, and the timber removal covenant, minuted with nothing agreed.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Present at the Theatre minute where nothing was agreed."
+    },
+    {
+      "name": "Giles Allen",
+      "role": "mentioned",
+      "formal_term": "Giles Allen",
+      "appointment_tier": "not_applicable",
+      "context": "Lessor demanding 24 pounds a year and an unexplained five-year house clause."
+    },
+    {
+      "name": "James Burbage",
+      "role": "attendee",
+      "formal_term": "James Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Lessee of the Theatre ground under the 1576 indenture."
+    },
+    {
+      "name": "Cuthbert Burbage",
+      "role": "mentioned",
+      "formal_term": "Cuthbert Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Brought the lease heads from Saturday 10 May."
+    },
+    {
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "formal_term": "Richard Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Present at the Theatre meeting."
+    },
+    {
+      "name": "John Heminges",
+      "role": "attendee",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Refused to enter any unagreed sum in the company book."
+    },
+    {
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "formal_term": "Thomas Pope",
+      "appointment_tier": "not_applicable",
+      "context": "Present at the Theatre meeting."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Giles Allen lease",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "twenty-four pounds against fourteen",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "unread five-year clause",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "timber covenant",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Theatre",
+      "asset_type": "other",
+      "disposition": "Imported the memorandum of Giles Allen's lease heads"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-12",
+      "meaning": "Memorandum of Giles Allen's Theatre lease heads"
+    }
+  ],
+  "summary": "Imported the memorandum of Giles Allen's lease heads"
+}

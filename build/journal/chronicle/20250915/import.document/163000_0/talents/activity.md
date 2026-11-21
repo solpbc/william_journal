@@ -1,0 +1,1 @@
+After playing The Knave you filed a Guildhall copyist's digest of the Lord Mayor and Aldermen's 13 September petition to the Privy Council: it names the Bankside and the June stirs and prays letters of restraint to Surrey and Middlesex, though the copyist could not swear whether the Theatre itself was named, and no Council order has come down.

@@ -1,0 +1,92 @@
+{
+  "density": "active",
+  "content_type": "reading",
+  "activity_summary": "You filed the memorandum of Giles Allen's lease heads for the Theatre ground: twenty-four pounds a year against fourteen, two years less a month left on the 1576 term, an unexplained five-year clause touching the house, and the timber removal covenant, minuted with nothing agreed.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "other",
+      "context": "Present at the Theatre minute where nothing was agreed.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Giles Allen",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Lessor demanding 24 pounds a year and an unexplained five-year house clause.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "attendee",
+      "source": "other",
+      "context": "Lessee of the Theatre ground under the 1576 indenture.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Cuthbert Burbage",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Brought the lease heads from Saturday 10 May.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "other",
+      "context": "Present at the Theatre meeting.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "other",
+      "context": "Refused to enter any unagreed sum in the company book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "attendee",
+      "source": "other",
+      "context": "Present at the Theatre meeting.",
+      "level": "high"
+    },
+    {
+      "type": "Company",
+      "name": "The Theatre",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Mentioned in Memorandum of Giles Allen's Theatre lease heads",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Imported the memorandum of Giles Allen's lease heads",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Giles Allen lease",
+    "twenty-four pounds against fourteen",
+    "unread five-year clause",
+    "timber covenant"
+  ],
+  "quotes": []
+}

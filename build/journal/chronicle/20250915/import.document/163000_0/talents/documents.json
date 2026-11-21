@@ -1,0 +1,54 @@
+{
+  "overview": "After playing The Knave you filed a Guildhall copyist's digest of the Lord Mayor and Aldermen's 13 September petition to the Privy Council: it names the Bankside and the June stirs and prays letters of restraint to Surrey and Middlesex, though the copyist could not swear whether the Theatre itself was named, and no Council order has come down.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read and filed the Guildhall copyist's digest at the Theatre after playing The Knave."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Lord Mayor's petition",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Privy Council",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Bankside and suburbs",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no Council order",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Theatre",
+      "asset_type": "other",
+      "disposition": "Imported the copyist's digest of the Lord Mayor's petition"
+    },
+    {
+      "name": "the Knave",
+      "asset_type": "other",
+      "disposition": "Imported the copyist's digest of the Lord Mayor's petition"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-15",
+      "meaning": "Lord Mayor and Aldermen's petition to the Privy Council"
+    }
+  ],
+  "summary": "Imported the copyist's digest of the Lord Mayor's petition"
+}

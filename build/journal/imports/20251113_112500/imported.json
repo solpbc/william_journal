@@ -1,0 +1,30 @@
+{
+  "schema": "solstone.import.publication.v2",
+  "status": "success",
+  "segments": [
+    {
+      "day": "20251113",
+      "segment": "112500_300",
+      "stream": "import.text",
+      "outcome": {
+        "status": "bound",
+        "prev_day": null,
+        "prev_segment": null,
+        "seq": 1
+      }
+    }
+  ],
+  "indexing": {
+    "queued": [],
+    "declined": [],
+    "errored": []
+  },
+  "day_markers": [
+    {
+      "day": "20251113",
+      "outcome": {
+        "status": "touched"
+      }
+    }
+  ]
+}

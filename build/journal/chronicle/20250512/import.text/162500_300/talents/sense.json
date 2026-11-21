@@ -1,0 +1,105 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "After playing Navarre you spoke briefly in the tiring-house with Richard Burbage and John Heminges after James walked off up Holywell Lane. All three agreed an unread five-year clause is no bargain, the timber wants pricing before any talk of pulling beams down, and your Act 3 king is still half a leaf.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Said he would not curse a man he has not seen and noted Act 3 is still half a leaf.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Said his father walked off up Holywell Lane and backed Cuthbert on pricing the timber first.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Called an unread clause no bargain and refused to write any figure in his book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Already halfway up Holywell Lane before the yard was dry.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Cuthbert Burbage",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Brought Allen's heads Saturday and wanted the timber priced first.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Giles Allen",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Landlord refusing to let anyone read the five-year clause.",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "The Theatre",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Tiring-house exchange on Giles Allen's lease terms",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Tiring-house exchange on Giles Allen's lease terms",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Spoke with Richard and Heminges after Navarre about Allen's lease",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "Richard Burbage",
+    "John Heminges",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "unread five-year clause",
+    "pricing the timber",
+    "nothing in Heminges's book",
+    "a long king"
+  ],
+  "quotes": [
+    {
+      "speaker": "John Heminges",
+      "text": "An unread clause is no bargain. A man who will not show his ink is asking us to sign blind."
+    },
+    {
+      "speaker": "William Shakespeare",
+      "text": "Half a leaf of the third act, and three words on my tables. Long enough to keep him patient, and not a page more tonight."
+    }
+  ]
+}

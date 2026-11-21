@@ -33,3 +33,6 @@
 {"day": "20251111", "density": "idle", "event": "sense.complete", "mode": "segment", "segment": "171500_0", "stream": "import.image", "ts": 1762905300090}
 {"change_class": "substantive", "day": "20251111", "event": "sense.change_detect", "mode": "segment", "segment": "171500_0", "stream": "import.image", "ts": 1762905300091}
 {"day": "20251111", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "171500_0", "stream": "import.image", "ts": 1762905300092}
+{"day": "20251111", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "130500_300", "stream": "import.text", "ts": 1762905300100}
+{"change_class": "substantive", "day": "20251111", "event": "sense.change_detect", "mode": "segment", "segment": "130500_300", "stream": "import.text", "ts": 1762905300101}
+{"day": "20251111", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "130500_300", "stream": "import.text", "ts": 1762905300102}

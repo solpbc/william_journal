@@ -1,0 +1,1 @@
+Clearing up the tiring-house after the sharers' vote, you, John Heminges, and Augustine Phillips went over the three dates (26 July, 25 August, 17 July) with no road sum written, Kemp's lone dissent, and August's fit for the pages before walking to the Jackdaw for Richard's birthday supper.

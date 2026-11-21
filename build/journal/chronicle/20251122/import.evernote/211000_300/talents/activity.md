@@ -1,0 +1,1 @@
+Late at Great St Helen's you set down Will Kemp's reception of the three casting sheets at the Jackdaw: roaring Ercles' vein until Agnes dropped a jug, reading the leaves again to say 'Thou'st put me in, thou villain', and laughing at the spoken ass's head — reminding yourself to keep the other five tradesmen plain and earnest when writing the rehearsal scene.

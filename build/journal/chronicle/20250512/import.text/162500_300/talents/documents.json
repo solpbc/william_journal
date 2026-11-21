@@ -1,0 +1,89 @@
+{
+  "overview": "After playing Navarre you spoke briefly in the tiring-house with Richard Burbage and John Heminges after James walked off up Holywell Lane. All three agreed an unread five-year clause is no bargain, the timber wants pricing before any talk of pulling beams down, and your Act 3 king is still half a leaf.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Said he would not curse a man he has not seen and noted Act 3 is still half a leaf."
+    },
+    {
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "formal_term": "Richard Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Said his father walked off up Holywell Lane and backed Cuthbert on pricing the timber first."
+    },
+    {
+      "name": "John Heminges",
+      "role": "attendee",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Called an unread clause no bargain and refused to write any figure in his book."
+    },
+    {
+      "name": "James Burbage",
+      "role": "mentioned",
+      "formal_term": "James Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Already halfway up Holywell Lane before the yard was dry."
+    },
+    {
+      "name": "Cuthbert Burbage",
+      "role": "mentioned",
+      "formal_term": "Cuthbert Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Brought Allen's heads Saturday and wanted the timber priced first."
+    },
+    {
+      "name": "Giles Allen",
+      "role": "mentioned",
+      "formal_term": "Giles Allen",
+      "appointment_tier": "not_applicable",
+      "context": "Landlord refusing to let anyone read the five-year clause."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "unread five-year clause",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "pricing the timber",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nothing in Heminges's book",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a long king",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "The Theatre",
+      "asset_type": "other",
+      "disposition": "Spoke with Richard and Heminges after Navarre about Allen's lease"
+    },
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Spoke with Richard and Heminges after Navarre about Allen's lease"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-12",
+      "meaning": "Tiring-house exchange on Giles Allen's lease terms"
+    }
+  ],
+  "summary": "Spoke with Richard and Heminges after Navarre about Allen's lease"
+}

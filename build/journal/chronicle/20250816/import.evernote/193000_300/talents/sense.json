@@ -1,0 +1,52 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "At Henley Street you set down the afternoon walk down Chapel Street with Anne and Richard past the three-storey brick-and-timber corner house — broken pane, nettles at the gate, sound framing, the garden Anne knew what she would do with — asking no price, asking Anne for three years, and hearing she will give you till she believes you.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "other",
+      "context": "Recorded the afternoon walk down Chapel Street and his three-year promise to Anne.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Anne Shakespeare",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Looked into the garden behind the gate and said she will give him till she believes him.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Shakespeare",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Tapped the wall with his stick and judged the framing sound.",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Noted the brick-and-timber house on Chapel Street",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Chapel Street house",
+    "three storeys brick and timber",
+    "Anne's garden",
+    "three years"
+  ],
+  "quotes": []
+}

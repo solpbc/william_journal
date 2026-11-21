@@ -1,0 +1,1 @@
+After playing Navarre you spoke briefly in the tiring-house with Richard Burbage and John Heminges after James walked off up Holywell Lane. All three agreed an unread five-year clause is no bargain, the timber wants pricing before any talk of pulling beams down, and your Act 3 king is still half a leaf.

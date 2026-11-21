@@ -804,13 +804,19 @@ def test_committed_tree_checkout_mtime_and_read_back() -> None:
     assert report["year_backdrop_check"]["body_days_verified"] == 365
     assert report["year_backdrop_check"]["placed_location_days_verified"] == 365
     assert report["year_backdrop_check"]["river_ban_violations"] == 0
-    # Measured 2026-11-19 by read_back.py on the reconverted year:
-    # len(talents_after) == 20290. Photos no longer write talents/screen.json
-    # or talents/screen_text.md (2 files x 183). The prior pin was 20656.
-    assert report["talents_files_verified_unchanged"] == 20290
+    # Measured 2026-11-21 by read_back.py on the full-year tree with the 18
+    # contextual imported segments installed (tools/imports.py):
+    # 20290 prior + 15 non-transcript imports x 8 talents files + 3 transcript
+    # imports x 9 talents files (adds speakers.json) = 20437.
+    assert report["talents_files_verified_unchanged"] == 20437
     assert report["william_speaker_labels_verified"] == 796
     assert report["search_hits_twenty_pound"] >= 1
     assert report["search_hits_whitehall"] >= 1
+    cov = report["index_coverage"]
+    assert cov["import.text"] == {"stored": 10, "indexed": 10}
+    assert cov["import.document"] == {"stored": 3, "indexed": 3}
+    assert cov["import.evernote"] == {"stored": 2, "indexed": 2}
+    assert cov["import.image"] == {"stored": 186, "indexed": 186}
 
 
 # --- Continuing an activity (FORMAT.md, "continues:") -------------------------
@@ -992,3 +998,54 @@ def test_inline_quotes_split_into_one_quote_per_speaker() -> None:
         "richard_cowley: Then go; see.",
         "william_shakespeare: No.",
     ]
+
+
+def test_contextual_imports_manifest_and_install_idempotent(tmp_path: Path) -> None:
+    """Installing content/imports/ validates all 18 items, keeps 2025 import records clean, and is idempotent."""
+    import hashlib
+    from PIL import Image
+    from william_journal_tools.imports import DEFAULT_IMPORTS_DIR, install_imports
+
+    manifest = json.loads((DEFAULT_IMPORTS_DIR / "manifest.json").read_text(encoding="utf-8"))
+    items = manifest["items"]
+    assert len(items) == 18
+
+    # Verify all 3 screenshot PNGs carry gnome-screenshot Software tag so Solstone triages screen_text
+    screenshots = [item for item in items if item["stream"] == "import.image"]
+    assert len(screenshots) == 3
+    for sc in screenshots:
+        with Image.open(DEFAULT_IMPORTS_DIR / "files" / sc["source_file"]) as im:
+            assert im.format == "PNG"
+            assert im.size == (1200, 896)
+            assert im.info.get("Software") == "gnome-screenshot"
+
+    journal = tmp_path / "journal"
+    (journal / "chronicle").mkdir(parents=True)
+    summary1 = install_imports(journal, imports_dir=DEFAULT_IMPORTS_DIR, solstone_repo=SOLSTONE_REPO)
+    assert summary1["installed"] == 18
+    assert summary1["by_stream"] == {
+        "import.document": 3,
+        "import.evernote": 2,
+        "import.image": 3,
+        "import.text": 10,
+    }
+
+    # Check clean relative paths and 2025 timestamps in all imports/<id>/manifest.json
+    for mf in sorted((journal / "imports").glob("*/manifest.json")):
+        data = json.loads(mf.read_text(encoding="utf-8"))
+        assert data["imported_at"].startswith("2025-"), mf
+        for rel in data["files_created"]:
+            assert not rel.startswith("/"), (mf, rel)
+            assert (journal / rel).is_file(), (mf, rel)
+
+    def _snap(root: Path) -> dict[str, str]:
+        return {
+            p.relative_to(root).as_posix(): hashlib.sha256(p.read_bytes()).hexdigest()
+            for p in sorted(root.rglob("*"))
+            if p.is_file()
+        }
+
+    before = _snap(journal)
+    summary2 = install_imports(journal, imports_dir=DEFAULT_IMPORTS_DIR, solstone_repo=SOLSTONE_REPO)
+    assert summary2["installed"] == 18
+    assert _snap(journal) == before

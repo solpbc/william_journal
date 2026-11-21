@@ -1,0 +1,57 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "Late at Great St Helen's you set down Will Kemp's reception of the three casting sheets at the Jackdaw: roaring Ercles' vein until Agnes dropped a jug, reading the leaves again to say 'Thou'st put me in, thou villain', and laughing at the spoken ass's head — reminding yourself to keep the other five tradesmen plain and earnest when writing the rehearsal scene.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "other",
+      "context": "Recorded Will Kemp's reception of Bottom's casting sheets and notes for the rehearsal scene.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Roared Ercles' vein, read the three leaves again, called William villain, and laughed till he spilled at the ass's head.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "A Midsummer Night's Dream",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Mentioned in Mechanicals Casting — Notes After the Jackdaw",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Noted Kemp's reaction to the three casting sheets",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Will Kemp and Bottom",
+    "three casting sheets",
+    "Ercles' vein",
+    "plain and earnest tradesmen"
+  ],
+  "quotes": [
+    {
+      "speaker": "Will Kemp",
+      "text": "Thou'st put me in, thou villain."
+    }
+  ]
+}

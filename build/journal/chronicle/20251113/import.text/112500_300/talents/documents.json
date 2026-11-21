@@ -1,0 +1,89 @@
+{
+  "overview": "Outside St John's Gate you and John Heminges went over Edmund Tilney's clean signature on fifty leaves of Romeo and Juliet, the seven-shilling fee, your sting at his slight, and his warning to let Richard II alone — confirming Garnish's three leaves stay locked in the chest before you walked on to the Bell.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Still stung by Tilney's dismissal of the lovers' play and alert to his parting warning on Richard II."
+    },
+    {
+      "name": "John Heminges",
+      "role": "attendee",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Called a clean licence the only kind the company can afford and confirmed Garnish's three leaves stay locked."
+    },
+    {
+      "name": "Edmund Tilney",
+      "role": "mentioned",
+      "formal_term": "Edmund Tilney",
+      "appointment_tier": "not_applicable",
+      "context": "Signed all fifty leaves without a cut and warned to let the other play keep its bounds."
+    },
+    {
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "formal_term": "Abel Garnish",
+      "appointment_tier": "not_applicable",
+      "context": "Keeps the three cut leaves of Richard II locked in the chest."
+    },
+    {
+      "name": "Thomas Hobbins",
+      "role": "mentioned",
+      "formal_term": "Thomas Hobbins",
+      "appointment_tier": "not_applicable",
+      "context": "Carrier at the Bell in Carter Lane where William walks next."
+    },
+    {
+      "name": "Gilbert Shakespeare",
+      "role": "mentioned",
+      "formal_term": "Gilbert Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "May already have reached Hobbins's bag at the Bell."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "clean licence on fifty leaves",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "seven shillings",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Tilney's warning on Richard II",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Garnish's three leaves",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Romeo and Juliet",
+      "asset_type": "other",
+      "disposition": "Spoke with Heminges outside St John's Gate after the licence"
+    },
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Spoke with Heminges outside St John's Gate after the licence"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-13",
+      "meaning": "Steps outside St John's Gate after Tilney's licence"
+    }
+  ],
+  "summary": "Spoke with Heminges outside St John's Gate after the licence"
+}

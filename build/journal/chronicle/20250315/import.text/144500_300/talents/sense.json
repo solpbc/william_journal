@@ -1,0 +1,68 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "Back at Great St Helen's you set down the twenty-pound Whitehall warrant figures, Heminges's deferral of Burbage's peach-coloured velvet until autumn, and your own thirty-seven shillings and sixpence laid by in the chest toward a hired horse for Warwickshire in Lent.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "other",
+      "context": "Recorded the warrant split at Great St Helen's and laid his share in the chest.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Cast the sheet at Holywell and put off the peach velvet till autumn.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Asked for seven yards of peach-coloured velvet in grain for a king.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Eight shillings set aside out of the stock part for Thursday.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Greenwich Chamber warrant",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Mentioned in Whitehall warrant reckoning — personal note",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Wrote down the Whitehall share and horse money",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Whitehall share",
+    "thirty-seven shillings and sixpence",
+    "peach-coloured velvet",
+    "hired horse for Lent"
+  ],
+  "quotes": []
+}

@@ -1,0 +1,1 @@
+Home at Great St Helen's after Richard's birthday supper at the Jackdaw, you set down the full vote of all eight men in the tiring-house, Kemp's lone dissent, Pope making you own that August is for the pages, and the jaw that sent you home at nine.

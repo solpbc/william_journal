@@ -1,0 +1,84 @@
+{
+  "overview": "You filed the formal Whitehall Chamber warrant and John Heminges's Holywell disbursement sheet for the two Christmas plays at Greenwich: twenty pounds received in coin, five pounds in boat-hire, rewards, and mercer's debt, and fifteen pounds split into eight parts of thirty-seven shillings and sixpence.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Named payee on the Whitehall warrant and recipient of one sharer's part."
+    },
+    {
+      "name": "John Heminges",
+      "role": "attendee",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Cast the disbursements and sealed the company acquittance at Holywell."
+    },
+    {
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "formal_term": "Richard Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Named payee on the Whitehall warrant."
+    },
+    {
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "formal_term": "Will Kemp",
+      "appointment_tier": "not_applicable",
+      "context": "Named payee on the Whitehall warrant."
+    },
+    {
+      "name": "James Burbage",
+      "role": "mentioned",
+      "formal_term": "James Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Reckoning cast at his house in Holywell."
+    },
+    {
+      "name": "Edith Kettlewood",
+      "role": "mentioned",
+      "formal_term": "Edith Kettlewood",
+      "appointment_tier": "not_applicable",
+      "context": "Eight shillings set aside out of the stock part, payable Thursday."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Whitehall Chamber warrant",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "twenty pounds in coin",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "eight equal parts",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Edith Kettlewood",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Greenwich Chamber warrant",
+      "asset_type": "other",
+      "disposition": "Imported the Greenwich Chamber warrant and reckoning"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-15",
+      "meaning": "Greenwich Chamber warrant and company reckoning"
+    }
+  ],
+  "summary": "Imported the Greenwich Chamber warrant and reckoning"
+}

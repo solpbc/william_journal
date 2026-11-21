@@ -1,0 +1,49 @@
+{
+  "density": "active",
+  "content_type": "writing",
+  "activity_summary": "Late Saturday night by candle you stored the working draft of Richard II, Act III Scene II — from 'For Gods sake let vs sit vpon the ground' through the hollow crown, the little pin, 'I liue with bread like you', Carlisle's rebuke, and Richard's rally before Flint.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "other",
+      "context": "Drafted Richard's Welsh coast speech by candle at Great St Helen's.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Mentioned in Richard II, Act III Scene II — working draft extract",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Imported the Act III Scene II hollow crown draft",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Richard II Act III Scene II",
+    "the hollow crown",
+    "little pin",
+    "working draft"
+  ],
+  "quotes": [
+    {
+      "speaker": "William Shakespeare",
+      "text": "For Gods sake let vs sit vpon the ground, / And tell sad stories of the death of Kings"
+    }
+  ]
+}

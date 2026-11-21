@@ -1,0 +1,1264 @@
+{
+  "version": 1,
+  "ruleset_version": 7,
+  "description": "Eighteen contextual imported items across all Solstone import kinds (notes, text documents, timed transcripts, PDF documents, Evernote notes, and screenshots) aligned to William Shakespeare's 1595/2025 journal canon.",
+  "items": [
+    {
+      "id": "imp-01-warrant-slate",
+      "source_file": "screenshot-20250315-heminges-warrant-slate.png",
+      "day_iso": "2025-03-15",
+      "start_hhmm": "12:15",
+      "duration_sec": 0,
+      "stream": "import.image",
+      "import_kind": "screen_text",
+      "triage_reasons": [
+        "gnome_screenshot_software"
+      ],
+      "place": "burbage_house_holywell",
+      "facet": "company",
+      "content_type": "reading",
+      "density": "low_change",
+      "heading_title": "Heminges's warrant reckoning slate",
+      "activity_title": "Saved Heminges's warrant reckoning slate",
+      "screenshot_description": "A wooden-framed reckoning slate resting on James Burbage's oak table beside chalk, a brass inkhorn, and a rag-paper tally sheet. Chalk columns show John Heminges's cast of the twenty-pound Greenwich Chamber warrant: thirteen pounds six and eight for two plays, six pounds thirteen and four reward, less sixteen shillings boat-hire, thirty-four shillings rewards to hired men and boys, and fifty shillings to the Cheapside mercer, leaving fifteen pounds across eight equal parts (seven sharers and one part to the company stock, out of which eight shillings are set aside for Mistress Edith Kettlewood), thirty-seven shillings and sixpence per part.",
+      "people": [
+        {
+          "slug": "william_shakespeare",
+          "role": "attendee",
+          "context": "Kept a capture of Heminges's chalk cast at Holywell."
+        },
+        {
+          "slug": "john_heminges",
+          "role": "mentioned",
+          "context": "Cast the twenty-pound Chamber warrant into eight equal parts on the slate."
+        },
+        {
+          "slug": "james_burbage",
+          "role": "mentioned",
+          "context": "Hosted the midday reckoning at his house in Holywell."
+        },
+        {
+          "slug": "edith_kettlewood",
+          "role": "mentioned",
+          "context": "Eight shillings set aside for her from the stock part, payable Thursday."
+        }
+      ],
+      "also_mentioned": [
+        {
+          "name": "Greenwich Chamber warrant",
+          "type": "Tool"
+        }
+      ],
+      "sense_summary": "You saved a view of John Heminges's chalk reckoning slate at Holywell breaking down the twenty-pound Greenwich warrant into expenses and eight equal parts of thirty-seven shillings and sixpence.",
+      "sense_topics": [
+        "twenty-pound warrant",
+        "Heminges's reckoning slate",
+        "thirty-seven shillings and sixpence"
+      ],
+      "sense_quotes": [],
+      "activity_story": "You kept a capture of John Heminges's chalk reckoning slate on James Burbage's table, showing the deductions and the eight-way split of fifteen pounds from the Greenwich warrant.",
+      "relations": [
+        {
+          "from": "john_heminges",
+          "to": "william_shakespeare",
+          "kind": "works-with",
+          "note": "laid out the warrant split on the slate",
+          "quote": null
+        }
+      ]
+    },
+    {
+      "id": "imp-02-greenwich-warrant-pdf",
+      "source_file": "greenwich-chamber-warrant-1595.pdf",
+      "day_iso": "2025-03-15",
+      "start_hhmm": "12:30",
+      "duration_sec": 0,
+      "stream": "import.document",
+      "import_kind": null,
+      "triage_reasons": null,
+      "extracted_markdown": "# greenwich-chamber-warrant-1595\n\n**Type:** Document\n**Pages:** 1\n**Date:** 20250315 (owner)\n**Extraction:** pdfium 151.0.7920.0 (native) — 1 text-layer, 0 model-extracted, 0 unavailable of 1 pages; 0 image-described; 0 model calls\n\n---\n\n## Page 1\n\nTREASURER OF HER MAJESTY’S CHAMBER - WARRANT AND\nRECKONING\nDated at Whitehall, xvto Marcij 1594 (15 March 1594/5)\nWarrant of payment unto William Kempe, William Shakespeare, and Richard\nBurbage, servants to the Lord Chamberlain, upon the Council’s warrant dated at\nWhitehall the fifteenth day of March 1594, for two several comedies or\ninterludes showed by them before Her Majesty in Christmas time last past at\nGreenwich, namely upon St Stephen’s Day (26 December) and Innocents’ Day (28\nDecember).\nSum allowed by the Chamber:\n- For the two comedies at Greenwich: 13 pounds, 6 shillings, 8 pence.\n- By way of Her Majesty’s special reward: 6 pounds, 13 shillings, 4 pence.\n- Total received in coin (sixteen angels, four sovereigns, and eight pounds\n in white money): 20 pounds.\nCompany disbursement cast by John Heminges at James Burbage’s house in\nHolywell:\n- Boat-hire to Greenwich and return across two days, with carriage of the\n costume baskets: 16 shillings.\n- Rewards to five hired men at four shillings each, three boy players at two\n shillings each, and the book-keeper and tireman at four shillings each: 34\n shillings.\n- Debt discharged to the mercer in Cheapside for cloth taken up before\n Christmas: 50 shillings.\n- Remainder divided into eight equal parts (seven sharers and one part to\n the company stock): 15 pounds, being 37 shillings and 6 pence per part.\n Out of the stock part, 8 shillings set aside for Mistress Edith\n Kettlewood, payable Thursday.\nEntered and acknowledged at Holywell, 15 March 1595. Acquittance sealed by\nJohn Heminges on behalf of the fellowship.",
+      "place": "burbage_house_holywell",
+      "facet": "company",
+      "content_type": "reading",
+      "density": "active",
+      "heading_title": "Greenwich Chamber warrant and company reckoning",
+      "activity_title": "Imported the Greenwich Chamber warrant and reckoning",
+      "people": [
+        {
+          "slug": "william_shakespeare",
+          "role": "attendee",
+          "context": "Named payee on the Whitehall warrant and recipient of one sharer's part."
+        },
+        {
+          "slug": "john_heminges",
+          "role": "attendee",
+          "context": "Cast the disbursements and sealed the company acquittance at Holywell."
+        },
+        {
+          "slug": "richard_burbage",
+          "role": "mentioned",
+          "context": "Named payee on the Whitehall warrant."
+        },
+        {
+          "slug": "will_kemp",
+          "role": "mentioned",
+          "context": "Named payee on the Whitehall warrant."
+        },
+        {
+          "slug": "james_burbage",
+          "role": "mentioned",
+          "context": "Reckoning cast at his house in Holywell."
+        },
+        {
+          "slug": "edith_kettlewood",
+          "role": "mentioned",
+          "context": "Eight shillings set aside out of the stock part, payable Thursday."
+        }
+      ],
+      "also_mentioned": [
+        {
+          "name": "Greenwich Chamber warrant",
+          "type": "Tool"
+        }
+      ],
+      "sense_summary": "You filed the formal Whitehall Chamber warrant and John Heminges's Holywell disbursement sheet for the two Christmas plays at Greenwich: twenty pounds received in coin, five pounds in boat-hire, rewards, and mercer's debt, and fifteen pounds split into eight parts of thirty-seven shillings and sixpence.",
+      "sense_topics": [
+        "Whitehall Chamber warrant",
+        "twenty pounds in coin",
+        "eight equal parts",
+        "Edith Kettlewood"
+      ],
+      "sense_quotes": [],
+      "activity_story": "You imported the Chamber warrant and acquittance cast by Heminges at Holywell, recording the twenty pounds received for St Stephen's Day and Innocents' Day and the eight-part split.",
+      "relations": [
+        {
+          "from": "john_heminges",
+          "to": "william_shakespeare",
+          "kind": "works-with",
+          "note": "sealed the Holywell acquittance for the fellowship",
+          "quote": null
+        }
+      ]
+    },
+    {
+      "id": "imp-03-whitehall-warrant-note",
+      "source_file": "note-whitehall-warrant-share.md",
+      "day_iso": "2025-03-15",
+      "start_hhmm": "14:45",
+      "duration_sec": 300,
+      "stream": "import.text",
+      "import_kind": "notes",
+      "triage_reasons": [
+        "note_default"
+      ],
+      "place": "ansell_house",
+      "facet": "company",
+      "content_type": "writing",
+      "density": "active",
+      "heading_title": "Whitehall warrant reckoning — personal note",
+      "activity_title": "Wrote down the Whitehall share and horse money",
+      "people": [
+        {
+          "slug": "william_shakespeare",
+          "role": "attendee",
+          "context": "Recorded the warrant split at Great St Helen's and laid his share in the chest."
+        },
+        {
+          "slug": "john_heminges",
+          "role": "mentioned",
+          "context": "Cast the sheet at Holywell and put off the peach velvet till autumn."
+        },
+        {
+          "slug": "richard_burbage",
+          "role": "mentioned",
+          "context": "Asked for seven yards of peach-coloured velvet in grain for a king."
+        },
+        {
+          "slug": "edith_kettlewood",
+          "role": "mentioned",
+          "context": "Eight shillings set aside out of the stock part for Thursday."
+        }
+      ],
+      "also_mentioned": [
+        {
+          "name": "Greenwich Chamber warrant",
+          "type": "Tool"
+        }
+      ],
+      "sense_summary": "Back at Great St Helen's you set down the twenty-pound Whitehall warrant figures, Heminges's deferral of Burbage's peach-coloured velvet until autumn, and your own thirty-seven shillings and sixpence laid by in the chest toward a hired horse for Warwickshire in Lent.",
+      "sense_topics": [
+        "Whitehall share",
+        "thirty-seven shillings and sixpence",
+        "peach-coloured velvet",
+        "hired horse for Lent"
+      ],
+      "sense_quotes": [],
+      "activity_story": "You wrote a personal reckoning note at Great St Helen's after returning from Holywell, noting each deduction from the Greenwich warrant and laying your share by toward the Warwickshire horse.",
+      "relations": [
+        {
+          "from": "william_shakespeare",
+          "to": "john_heminges",
+          "kind": "works-with",
+          "note": "recorded Heminges's Holywell reckoning",
+          "quote": null
+        }
+      ]
+    },
+    {
+      "id": "imp-04-allen-lease-pdf",
+      "source_file": "allen-theatre-lease-terms-1595.pdf",
+      "day_iso": "2025-05-12",
+      "start_hhmm": "16:20",
+      "duration_sec": 0,
+      "stream": "import.document",
+      "import_kind": null,
+      "triage_reasons": null,
+      "extracted_markdown": "# allen-theatre-lease-terms-1595\n\n**Type:** Document\n**Pages:** 1\n**Date:** 20250512 (owner)\n**Extraction:** pdfium 151.0.7920.0 (native) — 1 text-layer, 0 model-extracted, 0 unavailable of 1 pages; 0 image-described; 0 model calls\n\n---\n\n## Page 1\n\nMEMORANDUM OF LEASE HEADS - THE THEATRE GROUND,\nHOLYWELL\nMinutes brought from Cuthbert Burbage (10 May) and read at the Theatre, Monday\n12 May 1595\nLessor: Giles Allen, gentleman, of Haseleigh in Essex. Lessee: James Burbage,\njoiner and player, of Holywell, Shoreditch. Present term: twenty-one years\nfrom 13 April 1576, expiring April 1597 (two years less a month remaining) at\nthe old reserved rent of 14 pounds by the year.\nHeads demanded by Master Allen for any new covenant:\n1. Annual Rent. The yearly rent for the parcel of ground, barns, and playhouse\nyard to be raised from 14 pounds to 24 pounds per annum, payable at the four\nusual quarter-days.\n2. Repairs and Upkeep. Lessee to covenant to bear all charges upon the timber\nframe, galleries, tiled roof, and boundary wall out of the company’s own\npurse.\n3. Clause Touching the House After Five Years. Master Allen demands a further\nclause touching the playhouse itself after five years of any renewed term. He\nhas neither explained the words of this clause nor delivered a fair copy to be\nread.\n4. Timber Ownership. Under the original 1576 indenture, the playhouse frame\nwas erected at James Burbage’s own cost with covenant to take down and remove\nthe timber before expiry if no new term be sealed.\nMinute entered at the Theatre, 12 May 1595:\nPresent: James Burbage, Richard Burbage, John Heminges, Thomas Pope, William\nShakespeare. No figure agreed, no term accepted, and no sum entered in the\ncompany book. The five-year clause remains unread.",
+      "place": "the_theatre",
+      "facet": "company",
+      "content_type": "reading",
+      "density": "active",
+      "heading_title": "Memorandum of Giles Allen's Theatre lease heads",
+      "activity_title": "Imported the memorandum of Giles Allen's lease heads",
+      "people": [
+        {
+          "slug": "william_shakespeare",
+          "role": "attendee",
+          "context": "Present at the Theatre minute where nothing was agreed."
+        },
+        {
+          "slug": "giles_allen",
+          "role": "mentioned",
+          "context": "Lessor demanding 24 pounds a year and an unexplained five-year house clause."
+        },
+        {
+          "slug": "james_burbage",
+          "role": "attendee",
+          "context": "Lessee of the Theatre ground under the 1576 indenture."
+        },
+        {
+          "slug": "cuthbert_burbage",
+          "role": "mentioned",
+          "context": "Brought the lease heads from Saturday 10 May."
+        },
+        {
+          "slug": "richard_burbage",
+          "role": "attendee",
+          "context": "Present at the Theatre meeting."
+        },
+        {
+          "slug": "john_heminges",
+          "role": "attendee",
+          "context": "Refused to enter any unagreed sum in the company book."
+        },
+        {
+          "slug": "thomas_pope",
+          "role": "attendee",
+          "context": "Present at the Theatre meeting."
+        }
+      ],
+      "also_mentioned": [
+        {
+          "name": "The Theatre",
+          "type": "Company"
+        }
+      ],
+      "sense_summary": "You filed the memorandum of Giles Allen's lease heads for the Theatre ground: twenty-four pounds a year against fourteen, two years less a month left on the 1576 term, an unexplained five-year clause touching the house, and the timber removal covenant, minuted with nothing agreed.",
+      "sense_topics": [
+        "Giles Allen lease",
+        "twenty-four pounds against fourteen",
+        "unread five-year clause",
+        "timber covenant"
+      ],
+      "sense_quotes": [],
+      "activity_story": "You imported the lease heads brought from Cuthbert Burbage and minuted at the Theatre, keeping Allen's demands and the unread five-year clause on record with nothing agreed.",
+      "relations": [
+        {
+          "from": "giles_allen",
+          "to": "james_burbage",
+          "kind": "other",
+          "note": "demanded 24 pounds rent and an unexplained five-year clause",
+          "quote": null
+        }
+      ]
+    },
+    {
+      "id": "imp-05-allen-lease-transcript",
+      "source_file": "transcript-allen-lease-exchange-1595-05-12.txt",
+      "day_iso": "2025-05-12",
+      "start_hhmm": "16:25",
+      "duration_sec": 300,
+      "stream": "import.text",
+      "import_kind": "transcripts",
+      "triage_reasons": [
+        "existing_timed_layout"
+      ],
+      "place": "the_theatre",
+      "facet": "company",
+      "content_type": "meeting",
+      "density": "active",
+      "heading_title": "Tiring-house exchange on Giles Allen's lease terms",
+      "activity_title": "Spoke with Richard and Heminges after Navarre about Allen's lease",
+      "people": [
+        {
+          "slug": "william_shakespeare",
+          "role": "attendee",
+          "context": "Said he would not curse a man he has not seen and noted Act 3 is still half a leaf."
+        },
+        {
+          "slug": "richard_burbage",
+          "role": "attendee",
+          "context": "Said his father walked off up Holywell Lane and backed Cuthbert on pricing the timber first."
+        },
+        {
+          "slug": "john_heminges",
+          "role": "attendee",
+          "context": "Called an unread clause no bargain and refused to write any figure in his book."
+        },
+        {
+          "slug": "james_burbage",
+          "role": "mentioned",
+          "context": "Already halfway up Holywell Lane before the yard was dry."
+        },
+        {
+          "slug": "cuthbert_burbage",
+          "role": "mentioned",
+          "context": "Brought Allen's heads Saturday and wanted the timber priced first."
+        },
+        {
+          "slug": "giles_allen",
+          "role": "mentioned",
+          "context": "Landlord refusing to let anyone read the five-year clause."
+        }
+      ],
+      "also_mentioned": [
+        {
+          "name": "The Theatre",
+          "type": "Company"
+        },
+        {
+          "name": "Richard II",
+          "type": "Project"
+        }
+      ],
+      "sense_summary": "After playing Navarre you spoke briefly in the tiring-house with Richard Burbage and John Heminges after James walked off up Holywell Lane. All three agreed an unread five-year clause is no bargain, the timber wants pricing before any talk of pulling beams down, and your Act 3 king is still half a leaf.",
+      "sense_topics": [
+        "unread five-year clause",
+        "pricing the timber",
+        "nothing in Heminges's book",
+        "a long king"
+      ],
+      "sense_quotes": [
+        {
+          "speaker": "John Heminges",
+          "text": "An unread clause is no bargain. A man who will not show his ink is asking us to sign blind."
+        },
+        {
+          "speaker": "William Shakespeare",
+          "text": "Half a leaf of the third act, and three words on my tables. Long enough to keep him patient, and not a page more tonight."
+        }
+      ],
+      "activity_story": "You exchanged a few quiet words with Richard Burbage and John Heminges in the tiring-house after James left for Holywell Lane, holding firm against signing blind on Allen's unread clause.",
+      "relations": [
+        {
+          "from": "john_heminges",
+          "to": "william_shakespeare",
+          "kind": "works-with",
+          "note": "agreed not to enter any unagreed lease figure",
+          "quote": "An unread clause is no bargain."
+        },
+        {
+          "from": "richard_burbage",
+          "to": "william_shakespeare",
+          "kind": "works-with",
+          "note": "backed pricing the timber before pulling beams down",
+          "quote": "You kept your head, Will."
+        }
+      ]
+    },
+    {
+      "id": "imp-06-theatre-lease-note",
+      "source_file": "note-theatre-lease-timber.md",
+      "day_iso": "2025-05-12",
+      "start_hhmm": "17:30",
+      "duration_sec": 300,
+      "stream": "import.text",
+      "import_kind": "notes",
+      "triage_reasons": [
+        "note_default"
+      ],
+      "place": "ansell_house",
+      "facet": "company",
+      "content_type": "writing",
+      "density": "active",
+      "heading_title": "Theatre ground lease — figures and unread clause",
+      "activity_title": "Set down Allen's lease figures and the unread clause",
+      "people": [
+        {
+          "slug": "william_shakespeare",
+          "role": "attendee",
+          "context": "Recorded the afternoon's lease figures at Great St Helen's after playing Navarre."
+        },
+        {
+          "slug": "james_burbage",
+          "role": "mentioned",
+          "context": "Swore to pull the Theatre down before paying a man to read his own clause."
+        },
+        {
+          "slug": "cuthbert_burbage",
+          "role": "mentioned",
+          "context": "Called on Saturday asking for a sharp word written at Allen."
+        },
+        {
+          "slug": "richard_burbage",
+          "role": "mentioned",
+          "context": "Told James to price the timber before touching a beam."
+        },
+        {
+          "slug": "john_heminges",
+          "role": "mentioned",
+          "context": "Refused to enter an unagreed figure."
+        },
+        {
+          "slug": "thomas_pope",
+          "role": "mentioned",
+          "context": "Refused to carry an unread clause into the yard."
+        },
+        {
+          "slug": "giles_allen",
+          "role": "mentioned",
+          "context": "Demanded 24 pounds a year and left the five-year clause unexplained."
+        }
+      ],
+      "also_mentioned": [
+        {
+          "name": "The Theatre",
+          "type": "Company"
+        },
+        {
+          "name": "Love's Labour's Lost",
+          "type": "Project"
+        }
+      ],
+      "sense_summary": "At Great St Helen's you wrote down Giles Allen's twenty-four-pound demand against fourteen, the two years less a month left, the unexplained five-year clause, and the fact that nothing was agreed while Saturday's Act 3 leaf still sits half blank on your board.",
+      "sense_topics": [
+        "twenty-four pounds against fourteen",
+        "unread five-year clause",
+        "pricing the timber",
+        "nothing agreed"
+      ],
+      "sense_quotes": [],
+      "activity_story": "You wrote a quiet evening note connecting Cuthbert's Saturday visit to Monday's tiring-house meeting, recording every figure put on the table and confirming nothing was agreed.",
+      "relations": [
+        {
+          "from": "william_shakespeare",
+          "to": "james_burbage",
+          "kind": "works-with",
+          "note": "recorded James's stand on the unread lease clause",
+          "quote": null
+        }
+      ]
+    },
+    {
+      "id": "imp-07-plutarch-proof-screenshot",
+      "source_file": "screenshot-20250515-plutarch-proof-sheet.png",
+      "day_iso": "2025-05-15",
+      "start_hhmm": "10:25",
+      "duration_sec": 0,
+      "stream": "import.image",
+      "import_kind": "screen_text",
+      "triage_reasons": [
+        "gnome_screenshot_software"
+      ],
+      "place": "fields_printing_house",
+      "facet": "writing",
+      "content_type": "reading",
+      "density": "low_change",
+      "heading_title": "Damp Plutarch proof sheet at Field's press",
+      "activity_title": "Saved a view of Field's damp Plutarch proof sheet",
+      "screenshot_description": "A damp folio proof sheet of North's Plutarch (The Life of Julius Caesar) draped over a hemp drying cord beside a leaded diamond-pane window at Richard Field's Blackfriars printing house. Dense columns of fresh impression sit on deckled rag paper with a single turned letter ringed in brown-red ink near the outer margin, wooden type cases visible on the workbench below.",
+      "people": [
+        {
+          "slug": "william_shakespeare",
+          "role": "attendee",
+          "context": "Captured the hanging proof sheet of Caesar at Richard Field's shop."
+        },
+        {
+          "slug": "richard_field",
+          "role": "mentioned",
+          "context": "Printer of the folio Plutarch in Blackfriars whose brown-ink ring marks the turned letter."
+        }
+      ],
+      "also_mentioned": [
+        {
+          "name": "North's Plutarch",
+          "type": "Tool"
+        }
+      ],
+      "sense_summary": "At Richard Field's Blackfriars shop you captured the damp folio proof sheet of the Life of Julius Caesar hanging on its hemp drying cord with a turned letter ringed in brown ink.",
+      "sense_topics": [
+        "North's Plutarch",
+        "Life of Julius Caesar",
+        "turned letter in brown ink"
+      ],
+      "sense_quotes": [],
+      "activity_story": "You saved a view of the damp folio Caesar proof sheet draped on Field's drying line, showing the ringed corrector's mark in the margin.",
+      "relations": [
+        {
+          "from": "william_shakespeare",
+          "to": "richard_field",
+          "kind": "knows",
+          "note": "read the damp Plutarch proof sheet in Field's Blackfriars press-room",
+          "quote": null
+        }
+      ]
+    },
+    {
+      "id": "imp-08-richard-ii-draft",
+      "source_file": "richard-ii-act3-scene2-draft.txt",
+      "day_iso": "2025-05-17",
+      "start_hhmm": "23:10",
+      "duration_sec": 300,
+      "stream": "import.text",
+      "import_kind": "documents",
+      "triage_reasons": [
+        "script_scenes"
+      ],
+      "place": "ansell_house",
+      "facet": "writing",
+      "content_type": "writing",
+      "density": "active",
+      "heading_title": "Richard II, Act III Scene II — working draft extract",
+      "activity_title": "Imported the Act III Scene II hollow crown draft",
+      "people": [
+        {
+          "slug": "william_shakespeare",
+          "role": "attendee",
+          "context": "Drafted Richard's Welsh coast speech by candle at Great St Helen's."
+        }
+      ],
+      "also_mentioned": [
+        {
+          "name": "Richard II",
+          "type": "Project"
+        }
+      ],
+      "sense_summary": "Late Saturday night by candle you stored the working draft of Richard II, Act III Scene II — from 'For Gods sake let vs sit vpon the ground' through the hollow crown, the little pin, 'I liue with bread like you', Carlisle's rebuke, and Richard's rally before Flint.",
+      "sense_topics": [
+        "Richard II Act III Scene II",
+        "the hollow crown",
+        "little pin",
+        "working draft"
+      ],
+      "sense_quotes": [
+        {
+          "speaker": "William Shakespeare",
+          "text": "For Gods sake let vs sit vpon the ground, / And tell sad stories of the death of Kings"
+        }
+      ],
+      "activity_story": "You filed the Saturday night working draft of the hollow crown speech on the Welsh coast, complete through Carlisle's answer and Richard's sudden turn back to fight.",
+      "relations": [
+        {
+          "from": "william_shakespeare",
+          "to": "william_shakespeare",
+          "kind": "created",
+          "note": "drafted Act III Scene II of Richard II",
+          "quote": null
+        }
+      ]
+    },
+    {
+      "id": "imp-09-tour-carriage-transcript",
+      "source_file": "transcript-tour-carriage-exchange-1595-07-07.txt",
+      "day_iso": "2025-07-07",
+      "start_hhmm": "18:10",
+      "duration_sec": 300,
+      "stream": "import.text",
+      "import_kind": "transcripts",
+      "triage_reasons": [
+        "existing_timed_layout"
+      ],
+      "place": "the_theatre",
+      "facet": "company",
+      "content_type": "meeting",
+      "density": "active",
+      "heading_title": "Tiring-house exchange after the summer closure vote",
+      "activity_title": "Talked over the August vote with Heminges and Phillips",
+      "people": [
+        {
+          "slug": "william_shakespeare",
+          "role": "attendee",
+          "context": "Acknowledged Kemp's point on hired men's wages and carried the pearwood glass for Richard."
+        },
+        {
+          "slug": "john_heminges",
+          "role": "attendee",
+          "context": "Recapped the three dates with no sum under them and locked the sheet away before the Jackdaw."
+        },
+        {
+          "slug": "augustine_phillips",
+          "role": "attendee",
+          "context": "Noted Kemp left still muttering about Kent and said he saved his throat for tonight's singing."
+        },
+        {
+          "slug": "will_kemp",
+          "role": "mentioned",
+          "context": "Walked out still standing against the closure and talking of Kent."
+        },
+        {
+          "slug": "thomas_pope",
+          "role": "mentioned",
+          "context": "Pressed William to own aloud that August suits the pages."
+        },
+        {
+          "slug": "richard_burbage",
+          "role": "mentioned",
+          "context": "Twenty-seventh birthday supper waiting at the Jackdaw."
+        }
+      ],
+      "also_mentioned": [
+        {
+          "name": "The Theatre",
+          "type": "Company"
+        },
+        {
+          "name": "the pearwood glass",
+          "type": "Tool"
+        }
+      ],
+      "sense_summary": "Clearing up the tiring-house after the sharers' vote, you, John Heminges, and Augustine Phillips went over the three dates (26 July, 25 August, 17 July) with no road sum written, Kemp's lone dissent, and August's fit for the pages before walking to the Jackdaw for Richard's birthday supper.",
+      "sense_topics": [
+        "three dates with no sum",
+        "five shillings against ten",
+        "Kemp against",
+        "Richard's birthday supper"
+      ],
+      "sense_quotes": [
+        {
+          "speaker": "John Heminges",
+          "text": "A wagon eats coin on wet days and dry days alike. An empty yard costs us nothing till we open it."
+        },
+        {
+          "speaker": "William Shakespeare",
+          "text": "August suits the pages better than it suits the road, and I am not pretending otherwise."
+        }
+      ],
+      "activity_story": "Before leaving the Theatre for the Jackdaw, you talked briefly with Heminges and Phillips about Kemp's dissent, the hired men's country wage, and locking the three-date sheet away till the seventeenth.",
+      "relations": [
+        {
+          "from": "john_heminges",
+          "to": "william_shakespeare",
+          "kind": "works-with",
+          "note": "confirmed the three dates stand with no road sum written",
+          "quote": "The road stays a guess till the seventeenth."
+        },
+        {
+          "from": "augustine_phillips",
+          "to": "william_shakespeare",
+          "kind": "works-with",
+          "note": "saved his voice from the vote for Richard's birthday singing",
+          "quote": "I saved my throat for tonight's singing."
+        }
+      ]
+    },
+    {
+      "id": "imp-10-summer-reckoning-memo",
+      "source_file": "company-summer-reckoning-memorandum-1595.md",
+      "day_iso": "2025-07-07",
+      "start_hhmm": "18:45",
+      "duration_sec": 300,
+      "stream": "import.text",
+      "import_kind": "documents",
+      "triage_reasons": [
+        "chapter_markers"
+      ],
+      "place": "the_theatre",
+      "facet": "company",
+      "content_type": "reading",
+      "density": "active",
+      "heading_title": "Company summer reckoning memorandum — July 1595",
+      "activity_title": "Filed Heminges's summer reckoning memorandum",
+      "people": [
+        {
+          "slug": "william_shakespeare",
+          "role": "attendee",
+          "context": "Voted with Heminges at the Theatre meeting."
+        },
+        {
+          "slug": "john_heminges",
+          "role": "attendee",
+          "context": "Prepared the three-part reckoning memorandum and entered the vote."
+        },
+        {
+          "slug": "james_burbage",
+          "role": "mentioned",
+          "context": "Present at the Theatre sharers' meeting."
+        },
+        {
+          "slug": "richard_burbage",
+          "role": "mentioned",
+          "context": "Present at the Theatre sharers' meeting."
+        },
+        {
+          "slug": "will_kemp",
+          "role": "mentioned",
+          "context": "Recorded as the lone vote against."
+        },
+        {
+          "slug": "george_bryan",
+          "role": "mentioned",
+          "context": "Present at the Theatre sharers' meeting."
+        },
+        {
+          "slug": "thomas_pope",
+          "role": "mentioned",
+          "context": "Present at the Theatre sharers' meeting."
+        },
+        {
+          "slug": "augustine_phillips",
+          "role": "mentioned",
+          "context": "Present at the Theatre sharers' meeting."
+        }
+      ],
+      "also_mentioned": [
+        {
+          "name": "The Theatre",
+          "type": "Company"
+        }
+      ],
+      "sense_summary": "You filed John Heminges's three-part company memorandum weighing an empty yard against a moving wagon, setting out oats, county mayors, and five-shilling country wages, and recording the resolution to play through 26 July, re-open 25 August, and review 17 July — carried, Kemp against, no sum set.",
+      "sense_topics": [
+        "summer reckoning memorandum",
+        "26 July to 25 August",
+        "17 July review",
+        "carried Kemp against"
+      ],
+      "sense_quotes": [],
+      "activity_story": "You stored Heminges's structured memorandum from the 7 July sharers' meeting with its three dates and no carriage sum written under them.",
+      "relations": [
+        {
+          "from": "john_heminges",
+          "to": "william_shakespeare",
+          "kind": "works-with",
+          "note": "authored the summer reckoning memorandum for the fellowship",
+          "quote": null
+        }
+      ]
+    },
+    {
+      "id": "imp-11-summer-tour-vote-note",
+      "source_file": "note-summer-tour-vote.md",
+      "day_iso": "2025-07-07",
+      "start_hhmm": "22:00",
+      "duration_sec": 300,
+      "stream": "import.text",
+      "import_kind": "notes",
+      "triage_reasons": [
+        "note_default"
+      ],
+      "place": "ansell_house",
+      "facet": "company",
+      "content_type": "writing",
+      "density": "active",
+      "heading_title": "Summer reckoning and vote — 7 July",
+      "activity_title": "Wrote down the summer closure vote and August pages",
+      "people": [
+        {
+          "slug": "william_shakespeare",
+          "role": "attendee",
+          "context": "Wrote the late-night note at Great St Helen's after returning from the Jackdaw."
+        },
+        {
+          "slug": "john_heminges",
+          "role": "mentioned",
+          "context": "Carried the vote and entered the three dates with no sum under them."
+        },
+        {
+          "slug": "will_kemp",
+          "role": "mentioned",
+          "context": "Stood alone against resting the house in August."
+        },
+        {
+          "slug": "thomas_pope",
+          "role": "mentioned",
+          "context": "Forced William to admit August suits him better than hired men."
+        },
+        {
+          "slug": "george_bryan",
+          "role": "mentioned",
+          "context": "Put a constable and my lord's warrant on every mile of the road."
+        },
+        {
+          "slug": "james_burbage",
+          "role": "mentioned",
+          "context": "Took the twenty-sixth to keep his house earning."
+        },
+        {
+          "slug": "richard_burbage",
+          "role": "mentioned",
+          "context": "Asked for three clear weeks in August to con the King and received the pearwood glass."
+        },
+        {
+          "slug": "augustine_phillips",
+          "role": "mentioned",
+          "context": "Sat his chest silent at the vote and sang at the Jackdaw."
+        }
+      ],
+      "also_mentioned": [
+        {
+          "name": "Love's Labour's Lost",
+          "type": "Project"
+        },
+        {
+          "name": "the pearwood glass",
+          "type": "Tool"
+        }
+      ],
+      "sense_summary": "Home at Great St Helen's after Richard's birthday supper at the Jackdaw, you set down the full vote of all eight men in the tiring-house, Kemp's lone dissent, Pope making you own that August is for the pages, and the jaw that sent you home at nine.",
+      "sense_topics": [
+        "summer closure vote",
+        "the month is for the pages",
+        "Kemp against",
+        "Jackdaw birthday supper"
+      ],
+      "sense_quotes": [],
+      "activity_story": "You wrote a personal note at Great St Helen's capturing the afternoon's eight-man vote against the wagon and your reluctant admission that an August rest serves the writing.",
+      "relations": [
+        {
+          "from": "thomas_pope",
+          "to": "william_shakespeare",
+          "kind": "works-with",
+          "note": "made him own aloud that August suits the pages",
+          "quote": null
+        }
+      ]
+    },
+    {
+      "id": "imp-12-evernote-chapel-street",
+      "source_file": "stratford-commonplace-extracts.enex",
+      "enex_note_index": 0,
+      "day_iso": "2025-08-16",
+      "start_hhmm": "19:30",
+      "duration_sec": 300,
+      "stream": "import.evernote",
+      "import_kind": null,
+      "triage_reasons": null,
+      "place": "henley_street",
+      "facet": "stratford",
+      "content_type": "writing",
+      "density": "active",
+      "heading_title": "Chapel Street Walk — The Brick and Timber House",
+      "activity_title": "Noted the brick-and-timber house on Chapel Street",
+      "people": [
+        {
+          "slug": "william_shakespeare",
+          "role": "attendee",
+          "context": "Recorded the afternoon walk down Chapel Street and his three-year promise to Anne."
+        },
+        {
+          "slug": "anne_shakespeare",
+          "role": "mentioned",
+          "context": "Looked into the garden behind the gate and said she will give him till she believes him."
+        },
+        {
+          "slug": "richard_shakespeare",
+          "role": "mentioned",
+          "context": "Tapped the wall with his stick and judged the framing sound."
+        }
+      ],
+      "also_mentioned": [],
+      "sense_summary": "At Henley Street you set down the afternoon walk down Chapel Street with Anne and Richard past the three-storey brick-and-timber corner house — broken pane, nettles at the gate, sound framing, the garden Anne knew what she would do with — asking no price, asking Anne for three years, and hearing she will give you till she believes you.",
+      "sense_topics": [
+        "Chapel Street house",
+        "three storeys brick and timber",
+        "Anne's garden",
+        "three years"
+      ],
+      "sense_quotes": [],
+      "activity_story": "You recorded the Chapel Street walk in your Stratford notes: Richard judging the wall sound, Anne eyeing the garden, no price asked, and her answer that she will give you till she believes you.",
+      "relations": [
+        {
+          "from": "william_shakespeare",
+          "to": "anne_shakespeare",
+          "kind": "family-of",
+          "note": "asked for three years on the walk back from Chapel Street",
+          "quote": null
+        },
+        {
+          "from": "william_shakespeare",
+          "to": "richard_shakespeare",
+          "kind": "family-of",
+          "note": "walked Chapel Street together while Richard sounded the framing",
+          "quote": null
+        }
+      ]
+    },
+    {
+      "id": "imp-13-playbill-post-screenshot",
+      "source_file": "screenshot-20250915-theatre-playbill-post.png",
+      "day_iso": "2025-09-15",
+      "start_hhmm": "13:45",
+      "duration_sec": 0,
+      "stream": "import.image",
+      "import_kind": "screen_text",
+      "triage_reasons": [
+        "gnome_screenshot_software"
+      ],
+      "place": "bishopsgate",
+      "facet": "company",
+      "content_type": "reading",
+      "density": "low_change",
+      "heading_title": "Bishopsgate playbill for The Knave",
+      "activity_title": "Saved a view of the Bishopsgate playbill for The Knave",
+      "screenshot_description": "A rough-hewn weathered oak street post along Bishopsgate with a cream rag-paper black-letter playbill pinned with four iron tacks beneath a woodcut floral arabesque headpiece ornament, announcing the afternoon performance of The Knave at the Theatre at two of the clock by the Lord Chamberlain's Servants, timber-framed buildings and damp cobblestones receding behind in overcast September daylight.",
+      "people": [
+        {
+          "slug": "william_shakespeare",
+          "role": "attendee",
+          "context": "Captured the street-post playbill on his walk north up Bishopsgate to the Theatre."
+        }
+      ],
+      "also_mentioned": [
+        {
+          "name": "The Theatre",
+          "type": "Company"
+        },
+        {
+          "name": "the Knave",
+          "type": "Project"
+        }
+      ],
+      "sense_summary": "Walking north up Bishopsgate toward Shoreditch before two, you captured the tacked playbill on an oak post announcing the afternoon performance of The Knave at the Theatre.",
+      "sense_topics": [
+        "Bishopsgate playbill",
+        "The Knave",
+        "two of the clock"
+      ],
+      "sense_quotes": [],
+      "activity_story": "You saved a view of the Bishopsgate playbill tacked to a street post on your way to play The Knave at two.",
+      "relations": []
+    },
+    {
+      "id": "imp-14-mayor-petition-pdf",
+      "source_file": "lord-mayor-council-petition-1595.pdf",
+      "day_iso": "2025-09-15",
+      "start_hhmm": "16:30",
+      "duration_sec": 0,
+      "stream": "import.document",
+      "import_kind": null,
+      "triage_reasons": null,
+      "extracted_markdown": "# lord-mayor-council-petition-1595\n\n**Type:** Document\n**Pages:** 1\n**Date:** 20250915 (owner)\n**Extraction:** pdfium 151.0.7920.0 (native) — 1 text-layer, 0 model-extracted, 0 unavailable of 1 pages; 0 image-described; 0 model calls\n\n---\n\n## Page 1\n\nPETITION OF THE LORD MAYOR AND ALDERMEN OF LONDON TO\nTHE PRIVY COUNCIL\nGuildhall copyist’s digest of the letter of 13 September 1595 (received in\nShoreditch, 15 September)\nTo the Right Honourable the Lords and others of Her Majesty’s Most Honourable\nPrivy Council. The humble suit of the Lord Mayor and Aldermen of the City of\nLondon touching stage plays in the suburbs and liberties adjoining.\nHeads reported from the Guildhall letter of 13 September:\n1. Disorders and Resort. The petition names the Bankside playhouses, cites the\nlate June stirs and disorderly assemblies of apprentices, vagrants, and\nmasterless men, and prays letters to the Justices of Surrey and Middlesex.\nWhether the Theatre in Shoreditch is named in so many words the Guildhall\ncopyist could not swear.\n2. Contagion and Scarcity. The City pleads the dearness of corn and danger of\ninfection from crowds drawn out of the parishes into the liberties on working\nafternoons.\n3. Prayer for Restraint. The Aldermen pray the Council to grant letters of\nrestraint forbidding stage plays in and about the suburbs until the City’s\nquiet be better assured.\nNote endorsed at the Theatre, Monday 15 September 1595:\nNo Council order has come down. The afternoon bill for The Knave stood as\nposted at two of the clock; the company awaits word from the Lord Chamberlain\nbefore altering any playing day.",
+      "place": "the_theatre",
+      "facet": "company",
+      "content_type": "reading",
+      "density": "active",
+      "heading_title": "Lord Mayor and Aldermen's petition to the Privy Council",
+      "activity_title": "Imported the copyist's digest of the Lord Mayor's petition",
+      "people": [
+        {
+          "slug": "william_shakespeare",
+          "role": "attendee",
+          "context": "Read and filed the Guildhall copyist's digest at the Theatre after playing The Knave."
+        }
+      ],
+      "also_mentioned": [
+        {
+          "name": "The Theatre",
+          "type": "Company"
+        },
+        {
+          "name": "the Knave",
+          "type": "Project"
+        }
+      ],
+      "sense_summary": "After playing The Knave you filed a Guildhall copyist's digest of the Lord Mayor and Aldermen's 13 September petition to the Privy Council: it names the Bankside and the June stirs and prays letters of restraint to Surrey and Middlesex, though the copyist could not swear whether the Theatre itself was named, and no Council order has come down.",
+      "sense_topics": [
+        "Lord Mayor's petition",
+        "Privy Council",
+        "Bankside and suburbs",
+        "no Council order"
+      ],
+      "sense_quotes": [],
+      "activity_story": "You imported the copyist's digest of the City's 13 September petition after the afternoon play, noting that no Council order has come down and the company awaits word from the Lord Chamberlain.",
+      "relations": []
+    },
+    {
+      "id": "imp-15-juliet-vial-note",
+      "source_file": "note-juliet-vial-cues.md",
+      "day_iso": "2025-10-22",
+      "start_hhmm": "20:45",
+      "duration_sec": 300,
+      "stream": "import.text",
+      "import_kind": "notes",
+      "triage_reasons": [
+        "note_default"
+      ],
+      "place": "ansell_house",
+      "facet": "writing",
+      "content_type": "writing",
+      "density": "active",
+      "heading_title": "Vial scene — cues, copy, and chamber notes",
+      "activity_title": "Wrote working notes on the three rolls and Juliet's vial",
+      "people": [
+        {
+          "slug": "william_shakespeare",
+          "role": "attendee",
+          "context": "Set down working reminders at Great St Helen's after laying the loose vial leaf aside."
+        },
+        {
+          "slug": "humphrey_larkham",
+          "role": "mentioned",
+          "context": "Corrected Gaunt's, York's, and the Queen's rolls for eightpence copying and marked the small sign."
+        },
+        {
+          "slug": "abel_garnish",
+          "role": "mentioned",
+          "context": "Whose shortened cue was reconciled and who will keep the plain chamber properties."
+        },
+        {
+          "slug": "john_heminges",
+          "role": "mentioned",
+          "context": "Insisted on paper first, then mouths, and entered the eightpence as copying."
+        },
+        {
+          "slug": "nick_sorrell",
+          "role": "mentioned",
+          "context": "Spoke the settled cue once; voice carries a grain since late September, not to be written lower."
+        }
+      ],
+      "also_mentioned": [
+        {
+          "name": "Romeo and Juliet",
+          "type": "Project"
+        },
+        {
+          "name": "Richard II",
+          "type": "Project"
+        }
+      ],
+      "sense_summary": "After laying the loose leaf of Juliet's vial speech aside at 'Nurse!' without letting her drink tonight, you noted the morning's settled three rolls (eightpence to Humphrey Larkham, small sign on all three) and your rules for the scene: do not write Juliet lower for Nick's grain, leave out margin prompts like 'weep here', and keep the chamber properties to a glass phial, wax taper, and curtained bed.",
+      "sense_topics": [
+        "Juliet's vial scene",
+        "three settled rolls",
+        "Nick Sorrell's voice",
+        "no margin prompts"
+      ],
+      "sense_quotes": [],
+      "activity_story": "You wrote working notes after stopping Juliet's vial speech at Nurse, pairing the morning's eightpence roll settlement with strict rules against writing Juliet lower or crowding the chamber.",
+      "relations": [
+        {
+          "from": "william_shakespeare",
+          "to": "nick_sorrell",
+          "kind": "works-with",
+          "note": "refused to lower Juliet's measure or add margin prompts",
+          "quote": null
+        },
+        {
+          "from": "humphrey_larkham",
+          "to": "william_shakespeare",
+          "kind": "works-with",
+          "note": "marked the small sign on Gaunt's, York's, and the Queen's rolls",
+          "quote": null
+        }
+      ]
+    },
+    {
+      "id": "imp-16-romeo-act2-scene2",
+      "source_file": "romeo-juliet-act2-scene2-copy.txt",
+      "day_iso": "2025-11-11",
+      "start_hhmm": "13:05",
+      "duration_sec": 300,
+      "stream": "import.text",
+      "import_kind": "documents",
+      "triage_reasons": [
+        "script_scenes"
+      ],
+      "place": "ansell_house",
+      "facet": "writing",
+      "content_type": "reading",
+      "density": "active",
+      "heading_title": "Romeo and Juliet, Act II Scene II — reading extract",
+      "activity_title": "Filed the Act II Scene II reading extract from the finished book",
+      "people": [
+        {
+          "slug": "william_shakespeare",
+          "role": "attendee",
+          "context": "Kept a clean reading extract of the orchard scene from the newly finished book before licensing."
+        }
+      ],
+      "also_mentioned": [
+        {
+          "name": "Romeo and Juliet",
+          "type": "Project"
+        }
+      ],
+      "sense_summary": "Back at Great St Helen's after finishing the final couplet this morning and shopping at Leadenhall, you filed a clean unbroken reading extract of Act II Scene II — Capulet's orchard from 'He ieasts at scarres' through 'Henceforth I neuer will be Romeo' — ahead of taking the book to Tilney.",
+      "sense_topics": [
+        "Romeo and Juliet Act II Scene II",
+        "Capulet's orchard",
+        "finished book before licensing"
+      ],
+      "sense_quotes": [
+        {
+          "speaker": "William Shakespeare",
+          "text": "But soft, what light through yonder window breaks? / It is the East, and Iuliet is the Sunne."
+        }
+      ],
+      "activity_story": "You stored a clean reading copy of the Capulet orchard scene from the finished manuscript before walking up to Shoreditch for the afternoon play.",
+      "relations": [
+        {
+          "from": "william_shakespeare",
+          "to": "william_shakespeare",
+          "kind": "created",
+          "note": "kept the finished orchard scene copy ahead of licensing",
+          "quote": null
+        }
+      ]
+    },
+    {
+      "id": "imp-17-tilney-steps-transcript",
+      "source_file": "transcript-tilney-licence-steps-1595-11-13.txt",
+      "day_iso": "2025-11-13",
+      "start_hhmm": "11:25",
+      "duration_sec": 300,
+      "stream": "import.text",
+      "import_kind": "transcripts",
+      "triage_reasons": [
+        "existing_timed_layout"
+      ],
+      "place": "st_johns_clerkenwell",
+      "facet": "company",
+      "content_type": "meeting",
+      "density": "active",
+      "heading_title": "Steps outside St John's Gate after Tilney's licence",
+      "activity_title": "Spoke with Heminges outside St John's Gate after the licence",
+      "people": [
+        {
+          "slug": "william_shakespeare",
+          "role": "attendee",
+          "context": "Still stung by Tilney's dismissal of the lovers' play and alert to his parting warning on Richard II."
+        },
+        {
+          "slug": "john_heminges",
+          "role": "attendee",
+          "context": "Called a clean licence the only kind the company can afford and confirmed Garnish's three leaves stay locked."
+        },
+        {
+          "slug": "edmund_tilney",
+          "role": "mentioned",
+          "context": "Signed all fifty leaves without a cut and warned to let the other play keep its bounds."
+        },
+        {
+          "slug": "abel_garnish",
+          "role": "mentioned",
+          "context": "Keeps the three cut leaves of Richard II locked in the chest."
+        },
+        {
+          "slug": "thomas_hobbins",
+          "role": "mentioned",
+          "context": "Carrier at the Bell in Carter Lane where William walks next."
+        },
+        {
+          "slug": "gilbert_shakespeare",
+          "role": "mentioned",
+          "context": "May already have reached Hobbins's bag at the Bell."
+        }
+      ],
+      "also_mentioned": [
+        {
+          "name": "Romeo and Juliet",
+          "type": "Project"
+        },
+        {
+          "name": "Richard II",
+          "type": "Project"
+        }
+      ],
+      "sense_summary": "Outside St John's Gate you and John Heminges went over Edmund Tilney's clean signature on fifty leaves of Romeo and Juliet, the seven-shilling fee, your sting at his slight, and his warning to let Richard II alone — confirming Garnish's three leaves stay locked in the chest before you walked on to the Bell.",
+      "sense_topics": [
+        "clean licence on fifty leaves",
+        "seven shillings",
+        "Tilney's warning on Richard II",
+        "Garnish's three leaves"
+      ],
+      "sense_quotes": [
+        {
+          "speaker": "John Heminges",
+          "text": "A clean licence is the only kind the company can afford. Seven shillings paid once and entered once."
+        },
+        {
+          "speaker": "William Shakespeare",
+          "text": "I have been cut twice and never so slighted."
+        }
+      ],
+      "activity_story": "On the steps outside St John's Gate, Heminges held you to the clean licence and the locked chest before heading off to enter the seven-shilling fee while you walked down to Carter Lane.",
+      "relations": [
+        {
+          "from": "john_heminges",
+          "to": "william_shakespeare",
+          "kind": "works-with",
+          "note": "stood firm on leaving the three cut leaves locked after Tilney's warning",
+          "quote": "A clean licence is the only kind the company can afford."
+        }
+      ]
+    },
+    {
+      "id": "imp-18-evernote-mechanicals-casting",
+      "source_file": "stratford-commonplace-extracts.enex",
+      "enex_note_index": 1,
+      "day_iso": "2025-11-22",
+      "start_hhmm": "21:10",
+      "duration_sec": 300,
+      "stream": "import.evernote",
+      "import_kind": null,
+      "triage_reasons": null,
+      "place": "ansell_house",
+      "facet": "writing",
+      "content_type": "writing",
+      "density": "active",
+      "heading_title": "Mechanicals Casting — Notes After the Jackdaw",
+      "activity_title": "Noted Kemp's reaction to the three casting sheets",
+      "people": [
+        {
+          "slug": "william_shakespeare",
+          "role": "attendee",
+          "context": "Recorded Will Kemp's reception of Bottom's casting sheets and notes for the rehearsal scene."
+        },
+        {
+          "slug": "will_kemp",
+          "role": "mentioned",
+          "context": "Roared Ercles' vein, read the three leaves again, called William villain, and laughed till he spilled at the ass's head."
+        }
+      ],
+      "also_mentioned": [
+        {
+          "name": "A Midsummer Night's Dream",
+          "type": "Project"
+        }
+      ],
+      "sense_summary": "Late at Great St Helen's you set down Will Kemp's reception of the three casting sheets at the Jackdaw: roaring Ercles' vein until Agnes dropped a jug, reading the leaves again to say 'Thou'st put me in, thou villain', and laughing at the spoken ass's head — reminding yourself to keep the other five tradesmen plain and earnest when writing the rehearsal scene.",
+      "sense_topics": [
+        "Will Kemp and Bottom",
+        "three casting sheets",
+        "Ercles' vein",
+        "plain and earnest tradesmen"
+      ],
+      "sense_quotes": [
+        {
+          "speaker": "Will Kemp",
+          "text": "Thou'st put me in, thou villain."
+        }
+      ],
+      "activity_story": "You added a late-night writing note capturing Kemp's roar and double-charged spill over the casting sheets, and fixing the plain, earnest tone of the other five tradesmen before the next scene.",
+      "relations": [
+        {
+          "from": "will_kemp",
+          "to": "william_shakespeare",
+          "kind": "works-with",
+          "note": "recognized himself in Bottom's casting sheets at the Jackdaw",
+          "quote": "Thou'st put me in, thou villain."
+        }
+      ]
+    }
+  ]
+}

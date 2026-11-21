@@ -1,0 +1,17 @@
+{
+  "originals_policy_v1": true,
+  "import_id": "20250915_163000",
+  "source_timestamp": "20250915_163000",
+  "source_hash": "765ef5e6bc0583d02ac42e748e670ace6d0ff8bd020fef7e66db333c4d262f98",
+  "attempt": {
+    "attempt_id": "20250915_163000:1",
+    "generation": 1,
+    "state": "completed",
+    "started_at_ms": 1757950200000,
+    "finished_at_ms": 1757950200210,
+    "duration_ms": 210
+  },
+  "task_id": "20250915_163000",
+  "source_hint": "document",
+  "keep_original_at_import": false
+}

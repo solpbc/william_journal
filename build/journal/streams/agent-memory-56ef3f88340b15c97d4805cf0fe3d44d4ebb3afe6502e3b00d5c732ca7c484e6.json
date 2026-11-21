@@ -1,17 +1,11 @@
 {
   "name": "agent-memory-56ef3f88340b15c97d4805cf0fe3d44d4ebb3afe6502e3b00d5c732ca7c484e6",
-  "kind": "agent_memory",
+  "kind": "observer",
   "host": null,
   "platform": null,
-  "created_at": 1735933500,
+  "created_at": 1735689600000,
   "last_day": "20251206",
   "last_segment": "211600_1",
   "seq": 4,
-  "cid": "sha256:56ef3f88340b15c97d4805cf0fe3d44d4ebb3afe6502e3b00d5c732ca7c484e6",
-  "source": "56ef3f88340b15c97d4805cf0fe3d44d4ebb3afe6502e3b00d5c732ca7c484e6",
-  "last_marker": {
-    "prev_day": "20251022",
-    "prev_segment": "211600_1",
-    "seq": 4
-  }
+  "cid": "sha256:77bc39500f2964adc5622df75e2f092cec5f8aad8dbb14a5be0f501a3a40230d"
 }

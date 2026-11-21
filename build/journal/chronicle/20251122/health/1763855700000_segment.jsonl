@@ -20,3 +20,6 @@
 {"day": "20251122", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "205500_120", "stream": "memos", "ts": 1763855700060}
 {"change_class": "substantive", "day": "20251122", "event": "sense.change_detect", "mode": "segment", "segment": "205500_120", "stream": "memos", "ts": 1763855700061}
 {"day": "20251122", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "205500_120", "stream": "memos", "ts": 1763855700062}
+{"day": "20251122", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "211000_300", "stream": "import.evernote", "ts": 1763855700070}
+{"change_class": "substantive", "day": "20251122", "event": "sense.change_detect", "mode": "segment", "segment": "211000_300", "stream": "import.evernote", "ts": 1763855700071}
+{"day": "20251122", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "211000_300", "stream": "import.evernote", "ts": 1763855700072}

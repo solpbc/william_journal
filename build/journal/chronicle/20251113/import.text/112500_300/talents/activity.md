@@ -1,0 +1,1 @@
+Outside St John's Gate you and John Heminges went over Edmund Tilney's clean signature on fifty leaves of Romeo and Juliet, the seven-shilling fee, your sting at his slight, and his warning to let Richard II alone — confirming Garnish's three leaves stay locked in the chest before you walked on to the Bell.

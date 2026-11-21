@@ -1,0 +1,1 @@
+You filed the formal Whitehall Chamber warrant and John Heminges's Holywell disbursement sheet for the two Christmas plays at Greenwich: twenty pounds received in coin, five pounds in boat-hire, rewards, and mercer's debt, and fifteen pounds split into eight parts of thirty-seven shillings and sixpence.

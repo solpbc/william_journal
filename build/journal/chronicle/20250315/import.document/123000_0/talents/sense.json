@@ -1,0 +1,84 @@
+{
+  "density": "active",
+  "content_type": "reading",
+  "activity_summary": "You filed the formal Whitehall Chamber warrant and John Heminges's Holywell disbursement sheet for the two Christmas plays at Greenwich: twenty pounds received in coin, five pounds in boat-hire, rewards, and mercer's debt, and fifteen pounds split into eight parts of thirty-seven shillings and sixpence.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "other",
+      "context": "Named payee on the Whitehall warrant and recipient of one sharer's part.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "other",
+      "context": "Cast the disbursements and sealed the company acquittance at Holywell.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Named payee on the Whitehall warrant.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Named payee on the Whitehall warrant.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Reckoning cast at his house in Holywell.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Edith Kettlewood",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Eight shillings set aside out of the stock part, payable Thursday.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Greenwich Chamber warrant",
+      "role": "mentioned",
+      "source": "other",
+      "context": "Mentioned in Greenwich Chamber warrant and company reckoning",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Imported the Greenwich Chamber warrant and reckoning",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Whitehall Chamber warrant",
+    "twenty pounds in coin",
+    "eight equal parts",
+    "Edith Kettlewood"
+  ],
+  "quotes": []
+}

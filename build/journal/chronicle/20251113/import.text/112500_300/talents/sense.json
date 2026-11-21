@@ -1,0 +1,104 @@
+{
+  "density": "active",
+  "content_type": "meeting",
+  "activity_summary": "Outside St John's Gate you and John Heminges went over Edmund Tilney's clean signature on fifty leaves of Romeo and Juliet, the seven-shilling fee, your sting at his slight, and his warning to let Richard II alone — confirming Garnish's three leaves stay locked in the chest before you walked on to the Bell.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Still stung by Tilney's dismissal of the lovers' play and alert to his parting warning on Richard II.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "transcript",
+      "context": "Called a clean licence the only kind the company can afford and confirmed Garnish's three leaves stay locked.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Edmund Tilney",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Signed all fifty leaves without a cut and warned to let the other play keep its bounds.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Keeps the three cut leaves of Richard II locked in the chest.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Hobbins",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Carrier at the Bell in Carter Lane where William walks next.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Gilbert Shakespeare",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "May already have reached Hobbins's bag at the Bell.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Romeo and Juliet",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Steps outside St John's Gate after Tilney's licence",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "transcript",
+      "context": "Mentioned in Steps outside St John's Gate after Tilney's licence",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Spoke with Heminges outside St John's Gate after the licence",
+      "level": "high"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": true,
+  "speakers": [
+    "John Heminges",
+    "William Shakespeare"
+  ],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "clean licence on fifty leaves",
+    "seven shillings",
+    "Tilney's warning on Richard II",
+    "Garnish's three leaves"
+  ],
+  "quotes": [
+    {
+      "speaker": "John Heminges",
+      "text": "A clean licence is the only kind the company can afford. Seven shillings paid once and entered once."
+    },
+    {
+      "speaker": "William Shakespeare",
+      "text": "I have been cut twice and never so slighted."
+    }
+  ]
+}
