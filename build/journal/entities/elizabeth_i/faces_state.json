@@ -145,7 +145,17 @@
         "source_name": "elizabeth_i",
         "frame_id": 0,
         "face_idx": 0,
-        "activities": [],
+        "activities": [
+          "[\"company\",\"20250126\",\"meeting_181000_840\"]",
+          "[\"company\",\"20251226\",\"meeting_230500_600\"]",
+          "[\"company\",\"20251227\",\"meeting_235000_600\"]",
+          "[\"company\",\"20251228\",\"meeting_220500_600\"]",
+          "[\"company\",\"20251228\",\"meeting_225500_720\"]",
+          "[\"company\",\"20251228\",\"meeting_235000_600\"]",
+          "[\"company\",\"20251229\",\"meeting_083000_720\"]",
+          "[\"company\",\"20251229\",\"note_085200_240\"]",
+          "[\"household\",\"20251117\",\"photo_112000_0\"]"
+        ],
         "source": "anchored",
         "label_text": null,
         "quality": 1,

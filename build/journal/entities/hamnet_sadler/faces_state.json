@@ -145,7 +145,16 @@
         "source_name": "hamnet_sadler",
         "frame_id": 0,
         "face_idx": 0,
-        "activities": [],
+        "activities": [
+          "[\"stratford\",\"20250403\",\"meeting_121000_720\"]",
+          "[\"stratford\",\"20250404\",\"meeting_102500_120\"]",
+          "[\"stratford\",\"20250801\",\"meeting_120500_480\"]",
+          "[\"stratford\",\"20250807\",\"meeting_113500_720\"]",
+          "[\"stratford\",\"20250810\",\"meeting_120000_240\"]",
+          "[\"stratford\",\"20250812\",\"meeting_071000_720\"]",
+          "[\"stratford\",\"20250812\",\"meeting_084000_600\"]",
+          "[\"stratford\",\"20250911\",\"note_174500_600\"]"
+        ],
         "source": "anchored",
         "label_text": null,
         "quality": 1,

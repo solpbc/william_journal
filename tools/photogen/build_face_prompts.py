@@ -8,6 +8,11 @@ Calls, memos, notes and frames do not count, nor do (mentioned) or (heard).
 Three further exclusions are policy, even if a tag would otherwise qualify:
 william_shakespeare (§ 2.9, never his face), the_lady_unnamed (a face would
 invite identifying her), and hired_men (three men in one entity).
+
+Two people are included without an in-person meeting or photo tag, because a
+person in a multi-person activity needs a face an agent can show (editor,
+2026-11-22): john_florio (calls and mentions) and giles_allen (seen once at
+the ditch; named on the 12 May lease imports).
 """
 
 from __future__ import annotations
@@ -35,6 +40,19 @@ POLICY_NONE = {
         "and her § 3 rules forbid ruling that in or out."
     ),
     "hired_men": "Three men, William Blackwage, Ralph Raye and Richard Hoope, share one entity.",
+}
+# Included even when no meeting or photo tags them attendee or visible.
+FACE_ALSO = ("giles_allen", "john_florio")
+FACE_ALSO_HIT = {
+    "giles_allen": {
+        "date": "2025-05-12",
+        "time": "16:20",
+        "kind": "reading",
+        "role": "mentioned",
+        "title": "Memorandum of Giles Allen's Theatre lease heads",
+        "place": "the_theatre",
+        "file": "build/journal/facets/company/activities/20250512.jsonl",
+    },
 }
 
 HEADING = re.compile(
@@ -212,6 +230,13 @@ CAST: dict[str, dict[str, str | int]] = {
         "light": "Shop daylight near the Fleet.",
         "who": "Brother. A haberdasher lodging in St Bride's.",
     },
+    "giles_allen": {
+        "sex": "man", "age": 60,
+        "look": "A gentleman landlord of about 60, seen once across a ditch and never spoken with. Pale indoor skin, thin grey hair, a small pointed grey beard, a narrow cold face, light eyes that do not warm. A plain black gown of better cloth than the players wear, clean hands, no jewellery and no weapon.",
+        "action": "He is standing on his own side of a muddy ditch, looking at timber, not at the camera.",
+        "light": "Open daylight at the Holywell ditch, the Theatre behind him out of focus.",
+        "who": "Ground landlord of the Theatre. William sees him once and never speaks with him.",
+    },
     "gillis_verbeke": {
         "sex": "man", "age": 34,
         "look": "A Flemish silk-weaver of 34, a stranger. Flaxen hair, pale blue eyes, a long narrow devout face, a small light beard, careful mouth, weaver's stained fingertips. A plain grey jerkin, foreign in the cut of the collar, nothing English-brown about him.",
@@ -276,6 +301,14 @@ CAST: dict[str, dict[str, str | int]] = {
         "action": "She is teasing someone across a table, chin up, a spindle idle in her hand.",
         "light": "Kitchen daylight at Henley Street.",
         "who": "His sister. Runs the kitchen with Mary and spins.",
+    },
+    "john_florio": {
+        "sex": "man", "age": 42,
+        "look": "Southampton's Italian tutor at 42, sixteen years before William Hole's engraving. Swarthy skin, dark hair still thick and receding only at the temples, a nearly pointed dark beard, a mobile mouth, wide alert eyes, the first horizontal lines across the brow. A dark scholar's gown. A slip of paper in his hand with no readable word. The face is Mediterranean. Not an English courtier.",
+        "action": "He is correcting a word on the slip, eyes on the paper, mouth already forming the next synonym.",
+        "light": "Daylight from one small window in a Holborn closet.",
+        "who": "Italian tutor and lexicographer in the Earl of Southampton's household.",
+        "anchor": "William Hole's 1611 engraving, read back to age 42: pointed beard, dark eyes, swarthy skin.",
     },
     "john_harrison": {
         "sex": "man", "age": 60,
@@ -566,7 +599,7 @@ def build() -> None:
         hits = seen(rows)
         if slug in POLICY_NONE:
             none_rows.append((slug, POLICY_NONE[slug], rows, hits))
-        elif hits:
+        elif hits or slug in FACE_ALSO:
             face_slugs.append(slug)
         else:
             why = (
@@ -589,7 +622,15 @@ def build() -> None:
     shots = []
     for index, slug in enumerate(face_slugs, start=1):
         spec = CAST[slug]
-        hit = seen(evidence[slug])[0]
+        hits = seen(evidence.get(slug, []))
+        if hits:
+            hit = hits[0]
+        elif evidence.get(slug):
+            hit = evidence[slug][0]
+        elif slug in FACE_ALSO_HIT:
+            hit = FACE_ALSO_HIT[slug]
+        else:
+            raise SystemExit(f"no cite for included face {slug}")
         name = entities[slug]["name"]
         age = int(spec["age"])
         sex = str(spec["sex"])
@@ -682,11 +723,20 @@ def build() -> None:
     ]
     for slug in face_slugs:
         spec = CAST[slug]
-        hits = seen(evidence[slug])
+        hits = seen(evidence.get(slug, []))
+        rows = evidence.get(slug, [])
+        if hits:
+            cited, count = hits[0], len(hits)
+        elif rows:
+            cited, count = rows[0], 0
+        elif slug in FACE_ALSO_HIT:
+            cited, count = FACE_ALSO_HIT[slug], 0
+        else:
+            raise SystemExit(f"no cite for included face {slug}")
         name = entities[slug]["name"]
         heading_age = headings[slug].split(" · ")[1] if slug in headings else ""
         lines.append(
-            f"| `{slug}` | {name} | {heading_age} | {spec['age']} | {cite(hits[0])} | {len(hits)} |"
+            f"| `{slug}` | {name} | {heading_age} | {spec['age']} | {cite(cited)} | {count} |"
         )
 
     lines += ["", "## What the face is", ""]

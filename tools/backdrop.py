@@ -101,6 +101,12 @@ SOURCE_NAMES = {
 
 ALL_ENTITIES: tuple[CastEntity, ...] = (*CANON_CAST, *FACET_EXTRA_ENTITIES)
 CAST_BY_SLUG: dict[str, CastEntity] = {ent.slug: ent for ent in ALL_ENTITIES}
+PRINCIPAL_FACET_ROLES = {
+    "company": "Sharer, player, and poet in the Lord Chamberlain's Men.",
+    "writing": "Poet and playwright at the table in Bishopsgate and New Place.",
+    "household": "Lodger at Mistress Ansell's house in St Helen's parish, Bishopsgate.",
+    "stratford": "Husband to Anne, father to Susanna, Hamnet, and Judith, son to John and Mary in Henley Street.",
+}
 
 
 @dataclass(frozen=True)
@@ -180,6 +186,53 @@ def write_journal_config(journal_root: Path) -> None:
     _write_json_pretty(journal_root / "config" / "journal.json", config)
 
 
+def _write_facet_entity_link(journal_root: Path, facet_slug: str, ent: CastEntity) -> None:
+    """Write one `facets/<facet>/entities/<slug>/` link. Overwrites that link."""
+    desc = PRINCIPAL_FACET_ROLES[facet_slug] if ent.is_principal else ent.description
+    rel_obj = {
+        "entity_id": ent.slug,
+        "description": desc,
+        "attached_at": SETUP_COMPLETED_AT_MS,
+        "updated_at": SETUP_COMPLETED_AT_MS,
+        "last_seen": "20250309",
+    }
+    ent_dir = journal_root / "facets" / facet_slug / "entities" / ent.slug
+    _write_json_pretty(ent_dir / "entity.json", rel_obj)
+
+    obs_texts = list(ent.observations) if ent.observations else [desc]
+    obs_lines = []
+    for obs_idx, obs_text in enumerate(obs_texts, start=1):
+        obs_lines.append(
+            json.dumps(
+                {
+                    "id": obs_idx,
+                    "content": obs_text,
+                    "source_day": "20250101",
+                    "observed_at": SETUP_COMPLETED_AT_MS,
+                },
+                ensure_ascii=False,
+            )
+        )
+    (ent_dir / "observations.jsonl").write_text("\n".join(obs_lines) + "\n", encoding="utf-8")
+
+
+def ensure_facet_entity_links(journal_root: Path) -> int:
+    """Add facet links named in world data when the directory is missing.
+
+    An existing link is left as it was, including one whose facet has no
+    activity. Returns how many links were created.
+    """
+    created = 0
+    for ent in sorted(ALL_ENTITIES, key=lambda e: e.slug):
+        for facet_slug in ent.facets:
+            link = journal_root / "facets" / facet_slug / "entities" / ent.slug / "entity.json"
+            if link.is_file():
+                continue
+            _write_facet_entity_link(journal_root, facet_slug, ent)
+            created += 1
+    return created
+
+
 def write_entities_and_facets(journal_root: Path) -> dict[str, int]:
     """Write all `entities/<id>/entity.json` and `facets/<facet>/` files."""
     entity_count = 0
@@ -197,13 +250,6 @@ def write_entities_and_facets(journal_root: Path) -> dict[str, int]:
             entity_obj["is_principal"] = True
         _write_json_pretty(journal_root / "entities" / ent.slug / "entity.json", entity_obj)
         entity_count += 1
-
-    principal_facet_roles = {
-        "company": "Sharer, player, and poet in the Lord Chamberlain's Men.",
-        "writing": "Poet and playwright at the table in Bishopsgate and New Place.",
-        "household": "Lodger at Mistress Ansell's house in St Helen's parish, Bishopsgate.",
-        "stratford": "Husband to Anne, father to Susanna, Hamnet, and Judith, son to John and Mary in Henley Street.",
-    }
 
     facet_link_count = 0
     for facet_slug, fdef in sorted(FACET_DEFINITIONS.items()):
@@ -238,32 +284,7 @@ def write_entities_and_facets(journal_root: Path) -> dict[str, int]:
         for ent in sorted(ALL_ENTITIES, key=lambda e: e.slug):
             if facet_slug not in ent.facets:
                 continue
-            desc = principal_facet_roles[facet_slug] if ent.is_principal else ent.description
-            rel_obj = {
-                "entity_id": ent.slug,
-                "description": desc,
-                "attached_at": SETUP_COMPLETED_AT_MS,
-                "updated_at": SETUP_COMPLETED_AT_MS,
-                "last_seen": "20250309",
-            }
-            ent_dir = facet_dir / "entities" / ent.slug
-            _write_json_pretty(ent_dir / "entity.json", rel_obj)
-
-            obs_texts = list(ent.observations) if ent.observations else [desc]
-            obs_lines = []
-            for obs_idx, obs_text in enumerate(obs_texts, start=1):
-                obs_lines.append(
-                    json.dumps(
-                        {
-                            "id": obs_idx,
-                            "content": obs_text,
-                            "source_day": "20250101",
-                            "observed_at": SETUP_COMPLETED_AT_MS,
-                        },
-                        ensure_ascii=False,
-                    )
-                )
-            (ent_dir / "observations.jsonl").write_text("\n".join(obs_lines) + "\n", encoding="utf-8")
+            _write_facet_entity_link(journal_root, facet_slug, ent)
             facet_link_count += 1
 
     return {

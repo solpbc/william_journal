@@ -109,7 +109,134 @@ def test_face_manifest_writes_the_confirmed_state_and_its_jpeg(tmp_path: Path) -
     photo = json.loads((entity / "faces_state.json").read_text())["photo"]
     assert bytes(photo["jpeg"]) == (entity / "photo.jpg").read_bytes() == image.read_bytes()
     assert photo["face"]["metadata"]["source_name"] == "anne_shakespeare"
+    assert photo["face"]["metadata"]["activities"] == []
     assert len(photo["face"]["embedding"]) == photo["encoder"]["width"] == 128
+
+
+def test_face_anchors_cite_real_activities_in_every_facet(tmp_path: Path) -> None:
+    """A portrait cites each multi-person activity, and a solo facet still gets one."""
+    from PIL import Image
+    from william_journal_tools.lived_in import activity_coordinates, install_faces
+
+    journal = tmp_path / "journal"
+    for slug in ("anne_shakespeare", "richard_burbage", "william_shakespeare"):
+        entity = journal / "entities" / slug
+        entity.mkdir(parents=True)
+        (entity / "entity.json").write_text(
+            json.dumps({"id": slug, "type": "Person", "name": slug}),
+            encoding="utf-8",
+        )
+
+    def write_activity(facet: str, day: str, activity_id: str, people: list[str]) -> None:
+        directory = journal / "facets" / facet / "activities"
+        directory.mkdir(parents=True, exist_ok=True)
+        row = {
+            "id": activity_id,
+            "day": day,
+            "facet": facet,
+            "participation": [{"entity_id": slug, "role": "attendee"} for slug in people],
+        }
+        (directory / f"{day}.jsonl").write_text(json.dumps(row) + "\n", encoding="utf-8")
+
+    write_activity(
+        "company", "20250103", "meeting_120000_60",
+        ["anne_shakespeare", "richard_burbage", "william_shakespeare"],
+    )
+    write_activity("writing", "20250104", "note_090000_60", ["anne_shakespeare"])
+
+    photos = tmp_path / "photos" / "faces"
+    photos.mkdir(parents=True)
+    image = photos / "anne.jpg"
+    Image.new("RGB", (256, 320), "gray").save(image, format="JPEG")
+    (photos / "install.json").write_text(
+        '{"by_entity":{"anne_shakespeare":"photos/faces/anne.jpg"}}',
+        encoding="utf-8",
+    )
+    assert install_faces(journal, tmp_path) == 1
+    stored = json.loads(
+        (journal / "entities" / "anne_shakespeare" / "faces_state.json").read_text()
+    )["photo"]["face"]["metadata"]["activities"]
+    assert stored == [
+        '["company","20250103","meeting_120000_60"]',
+        '["writing","20250104","note_090000_60"]',
+    ]
+    assert activity_coordinates(journal)["anne_shakespeare"] == stored
+    for raw in stored:
+        facet, day, activity_id = json.loads(raw)
+        text = (journal / "facets" / facet / "activities" / f"{day}.jsonl").read_text()
+        assert activity_id in text
+
+
+def test_ensure_facet_entity_links_fills_only_gaps(tmp_path: Path) -> None:
+    journal = tmp_path / "journal"
+    backdrop.write_entities_and_facets(journal)
+    kept = journal / "facets" / "stratford" / "entities" / "anne_shakespeare" / "entity.json"
+    original = kept.read_bytes()
+    missing = journal / "facets" / "company" / "entities" / "anne_shakespeare"
+    if missing.exists():
+        shutil.rmtree(missing)
+    created = backdrop.ensure_facet_entity_links(journal)
+    assert created >= 1
+    assert (missing / "entity.json").is_file()
+    assert (missing / "observations.jsonl").is_file()
+    assert kept.read_bytes() == original
+    assert backdrop.ensure_facet_entity_links(journal) == 0
+
+
+def test_committed_faces_cite_real_activities_and_facet_links() -> None:
+    """The shipped journal anchors each portrait to activities an agent can open."""
+    from PIL import Image
+    from william_journal_tools.lived_in import activity_coordinates
+
+    journal = BACKDROP_BUILD_DIR
+    install = json.loads((PROJECT_DIR / "photos" / "faces" / "install.json").read_text())
+    portraits = install["by_entity"]
+    assert len(portraits) == 64
+    for slug in ("giles_allen", "john_florio"):
+        assert slug in portraits
+    faceless = (
+        "william_shakespeare",
+        "the_lady_unnamed",
+        "hired_men",
+        "francis_langley",
+        "robert_southwell",
+        "thomas_heneage",
+    )
+    for slug in faceless:
+        assert slug not in portraits
+        assert not (journal / "entities" / slug / "photo.jpg").is_file()
+
+    coordinates = activity_coordinates(journal)
+    texts: dict[Path, str] = {}
+    for slug in portraits:
+        state_path = journal / "entities" / slug / "faces_state.json"
+        photo = json.loads(state_path.read_text())["photo"]
+        stored = photo["face"]["metadata"]["activities"]
+        assert stored, slug
+        assert stored == coordinates[slug]
+        with Image.open(journal / "entities" / slug / "photo.jpg") as image:
+            assert image.format == "JPEG" and image.width == 256
+        seen_facets = set()
+        for raw in stored:
+            facet, day, activity_id = json.loads(raw)
+            assert isinstance(facet, str) and isinstance(day, str) and isinstance(activity_id, str)
+            seen_facets.add(facet)
+            path = journal / "facets" / facet / "activities" / f"{day}.jsonl"
+            if path not in texts:
+                texts[path] = path.read_text(encoding="utf-8")
+            assert f'"{activity_id}"' in texts[path]
+            assert slug in texts[path]
+        for facet in seen_facets:
+            assert (journal / "facets" / facet / "entities" / slug / "entity.json").is_file()
+
+    for ent in world_data.CANON_CAST:
+        if ent.entity_type != "Person":
+            continue
+        for facet in ent.facets:
+            link = journal / "facets" / facet / "entities" / ent.slug / "entity.json"
+            assert link.is_file(), f"{ent.slug} missing {facet}"
+    for slug in ("francis_langley", "robert_southwell", "thomas_heneage"):
+        assert coordinates.get(slug, []) == []
 
 
 def test_parse_fixture_day_and_week() -> None:

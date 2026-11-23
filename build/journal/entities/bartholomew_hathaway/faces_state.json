@@ -145,7 +145,13 @@
         "source_name": "bartholomew_hathaway",
         "frame_id": 0,
         "face_idx": 0,
-        "activities": [],
+        "activities": [
+          "[\"household\",\"20250805\",\"meeting_123000_600\"]",
+          "[\"stratford\",\"20250405\",\"meeting_145500_240\"]",
+          "[\"stratford\",\"20250805\",\"meeting_060500_480\"]",
+          "[\"stratford\",\"20250805\",\"meeting_154000_360\"]",
+          "[\"stratford\",\"20250810\",\"meeting_163000_600\"]"
+        ],
         "source": "anchored",
         "label_text": null,
         "quality": 1,

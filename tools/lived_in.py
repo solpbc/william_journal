@@ -241,6 +241,61 @@ def install_mark(journal: Path, mark_bundle: Path) -> None:
         (target / name).chmod(0o600 if name != "cert.pem" else 0o644)
 
 
+_FACETS = ("company", "writing", "household", "stratford")
+
+
+def activity_coordinates(journal: Path) -> dict[str, list[str]]:
+    """Person slug to the activity coordinates a confirmed face may cite.
+
+    Each coordinate is a JSON array ``["<facet>", "<day>", "<activity_id>"]``,
+    the shape ``in_facet`` reads. Every activity with two or more people is
+    included. A facet where the person appears only alone still gets that
+    facet's earliest activity, so a connected agent there can see the face.
+    """
+    people = {
+        path.parent.name
+        for path in journal.glob("entities/*/entity.json")
+        if read_json(path).get("type") == "Person"
+    }
+    by_person: dict[str, dict[str, list[tuple[str, str, bool]]]] = {}
+    for path in sorted(journal.glob("facets/*/activities/*.jsonl")):
+        if not (len(path.stem) == 8 and path.stem.isdigit()):
+            continue
+        facet = path.parent.parent.name
+        if facet not in _FACETS:
+            raise ValueError(f"Unexpected facet directory {facet}")
+        for rec in rows_at(path):
+            if rec.get("facet", facet) != facet:
+                raise ValueError(f"{path}: activity {rec.get('id')} names facet {rec.get('facet')!r}")
+            day = rec.get("day") or path.stem
+            if day != path.stem:
+                raise ValueError(f"{path}: activity {rec.get('id')} day {day} is not the file day")
+            activity_id = rec.get("id")
+            if not isinstance(activity_id, str) or not activity_id:
+                raise ValueError(f"{path}: an activity is missing its id")
+            participants = [
+                item.get("entity_id")
+                for item in rec.get("participation") or []
+                if item.get("entity_id") in people
+            ]
+            multi = len(participants) >= 2
+            for slug in participants:
+                by_person.setdefault(slug, {}).setdefault(facet, []).append((day, activity_id, multi))
+
+    coordinates: dict[str, list[str]] = {}
+    for slug, facets in by_person.items():
+        chosen: list[str] = []
+        for facet in _FACETS:
+            rows = facets.get(facet)
+            if not rows:
+                continue
+            multi_rows = [row for row in rows if row[2]]
+            for day, activity_id, _multi in (multi_rows or [min(rows)]):
+                chosen.append(json.dumps([facet, day, activity_id], separators=(",", ":")))
+        coordinates[slug] = sorted(set(chosen))
+    return coordinates
+
+
 def install_faces(journal: Path, project: Path = PROJECT) -> int:
     manifest = project / "photos" / "faces" / "install.json"
     if not manifest.exists():
@@ -268,6 +323,7 @@ def install_faces(journal: Path, project: Path = PROJECT) -> int:
             image.verify()
         portraits.append((slug, directory, source.read_bytes()))
 
+    anchors = activity_coordinates(journal)
     for slug, directory, jpeg in portraits:
         stamp = "2025-12-31T21:00:00Z"
         embedding = [0.0] * 128
@@ -278,7 +334,8 @@ def install_faces(journal: Path, project: Path = PROJECT) -> int:
             "metadata": {
                 "schema_version": 1, "day": "20251231", "stream": "william-demo",
                 "stream_layout": "named", "segment_key": "210000_1", "source_name": slug,
-                "frame_id": 0, "face_idx": 0, "activities": [], "source": "anchored",
+                "frame_id": 0, "face_idx": 0, "activities": anchors.get(slug, []),
+                "source": "anchored",
                 "label_text": None, "quality": 1, "det_score": 1, "face_w": 256,
                 "category": "portrait", "crop": None, "added_at": stamp, "rejected": False,
             },
@@ -294,6 +351,14 @@ def install_faces(journal: Path, project: Path = PROJECT) -> int:
     return len(portraits)
 
 
+def _ensure_facet_links(journal: Path) -> int:
+    try:
+        from backdrop import ensure_facet_entity_links
+    except ImportError:
+        from .backdrop import ensure_facet_entity_links
+    return ensure_facet_entity_links(journal)
+
+
 def install(journal: Path, mark_bundle: Path) -> dict:
     install_mark(journal, mark_bundle)
     install_agent(journal)
@@ -301,6 +366,7 @@ def install(journal: Path, mark_bundle: Path) -> dict:
     install_possible_names(journal)
     return {"corrections": len(CORRECTIONS), "possible_names": len(POSSIBLE_NAMES),
             "agent_notes": len(NOTES), "agent_interactions": len(NOTES) + len(VISITS),
+            "facet_links_added": _ensure_facet_links(journal),
             "faces": install_faces(journal)}
 
 

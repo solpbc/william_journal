@@ -26,7 +26,7 @@ Mechanical generator and validation harness for **the william journal** (William
 - Heart rate is sampled every five minutes while awake and every half hour during the recorded sleep window. Travel and playhouse stays come from the day plans. The packed days also use the content segments to distinguish stretches at the desk, on foot and in conversation.
 - Source names are stored as device descriptions keyed by the existing stream CIDs. The journal's own source and device wording still governs the labels it renders.
 - Photos use `photos/year/install.json` and desk frames can use `photos/pages/install.json`. Both accept `by_segment` entries keyed `YYYY-MM-DD/<segment_key>`. Re-converting keeps valid JPEGs on disk. Desk frames without a JPEG keep their text and timing.
-- Person portraits use `photos/faces/install.json`. Map a person folder slug to its 256-pixel-wide JPEG, for example `{"by_entity":{"anne_shakespeare":"photos/faces/images/anne_shakespeare.jpg"}}`. Install with `lived_in.py` and Pillow. The installer writes the confirmed face state and its JPEG. Its anchor is fixture metadata so the journal can render the portrait.
+- Person portraits use `photos/faces/install.json`. Map a person folder slug to its 256-pixel-wide JPEG, for example `{"by_entity":{"anne_shakespeare":"photos/faces/images/anne_shakespeare.jpg"}}`. Install with `lived_in.py` and Pillow. The installer writes the confirmed face state and its JPEG, and anchors that face to the person's real activities so a connected agent can see it in each facet where the person appears.
 
 ## Serving a copy
 

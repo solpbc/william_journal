@@ -145,7 +145,11 @@
         "source_name": "judith_sadler",
         "frame_id": 0,
         "face_idx": 0,
-        "activities": [],
+        "activities": [
+          "[\"stratford\",\"20250403\",\"meeting_121000_720\"]",
+          "[\"stratford\",\"20250807\",\"meeting_113500_720\"]",
+          "[\"stratford\",\"20250810\",\"meeting_120000_240\"]"
+        ],
         "source": "anchored",
         "label_text": null,
         "quality": 1,

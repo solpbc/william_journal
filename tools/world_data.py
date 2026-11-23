@@ -119,7 +119,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Anne", "Anne Hathaway"),
         description="William's wife at Henley Street in Stratford-upon-Avon.",
-        facets=("stratford",),
+        facets=("stratford", "company", "writing", "household"),
         observations=("Manages the Henley Street household and quarterly remittances", "Writes letters by the carrier Thomas Hobbins"),
     ),
     CastEntity(
@@ -128,7 +128,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Susanna",),
         description="Elder daughter at Henley Street; reads well and casts household tallies.",
-        facets=("stratford",),
+        facets=("stratford", "writing", "household"),
         observations=("Turns twelve on 26 May 1595", "Reads English books and casts household tallies"),
     ),
     CastEntity(
@@ -137,7 +137,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Hamnet",),
         description="Son, Judith's twin, in the lower forms of the King's New School at Stratford; ordinary and well all year.",
-        facets=("stratford",),
+        facets=("stratford", "writing", "household"),
         observations=("Studies Latin grammar at the King's New School", "Fond of mechanisms, willow boats, and wooden foils"),
     ),
     CastEntity(
@@ -146,7 +146,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Judith",),
         description="Younger daughter, Hamnet's twin, at Henley Street; sings and mimics.",
-        facets=("stratford",),
+        facets=("stratford", "writing", "household"),
         observations=("Sings and remembers everything said in her hearing",),
     ),
     CastEntity(
@@ -155,7 +155,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Father", "Master John Shakespeare"),
         description="William's father at Henley Street; glover, whittawer, and former bailiff of Stratford.",
-        facets=("stratford",),
+        facets=("stratford", "household"),
         observations=("Former bailiff of Stratford (1568) and glover on Henley Street", "Carries small shop debts in Stratford"),
     ),
     CastEntity(
@@ -164,7 +164,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Mother", "Mary Arden"),
         description="William's mother (née Arden) at Henley Street.",
-        facets=("stratford",),
+        facets=("stratford", "household"),
         observations=("Keeps the keys and household memory at Henley Street",),
     ),
     CastEntity(
@@ -173,7 +173,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Gilbert",),
         description="William's younger brother; journeyman haberdasher lodging in St Bride's parish, London.",
-        facets=("stratford", "household"),
+        facets=("stratford", "household", "company"),
         observations=("Journeyman haberdasher in St Bride's parish near the Fleet", "Brings Stratford word from the Bell in Carter Lane"),
     ),
     CastEntity(
@@ -182,7 +182,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Joan",),
         description="William's unmarried sister at Henley Street.",
-        facets=("stratford",),
+        facets=("stratford", "writing", "household"),
         observations=("Runs the Henley Street kitchen with Mary and spins",),
     ),
     CastEntity(
@@ -191,7 +191,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Richard",),
         description="William's younger brother; works the glove shop at Henley Street with his father.",
-        facets=("stratford",),
+        facets=("stratford", "household"),
         observations=("Turns twenty-one on 11 March 1595; works the Henley Street glove shop",),
     ),
     CastEntity(
@@ -200,7 +200,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Edmund", "Ned"),
         description="William's youngest brother at Henley Street; stage-struck.",
-        facets=("stratford",),
+        facets=("stratford", "writing", "household"),
         observations=("Youngest brother at Stratford, eager for playhouse stories",),
     ),
     # 3.2 Stratford (6)
@@ -210,7 +210,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Dick Quiney", "Master Quiney"),
         description="Stratford mercer and borough man; 'loving countryman'.",
-        facets=("stratford",),
+        facets=("stratford", "household"),
         observations=("Stratford mercer and borough man on High Street",),
     ),
     CastEntity(
@@ -246,7 +246,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Bartholomew",),
         description="Anne's brother, farming at Hewlands in Shottery.",
-        facets=("stratford",),
+        facets=("stratford", "household"),
         observations=("Farms Hewlands at Shottery",),
     ),
     CastEntity(
@@ -255,7 +255,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Hobbins", "the carrier"),
         description="The Stratford carrier between the High Cross and the Bell in Carter Lane.",
-        facets=("stratford",),
+        facets=("stratford", "company", "household"),
         observations=("Rides fortnightly between Stratford High Cross and the Bell in Carter Lane",),
     ),
     # 3.3 The company (20)
@@ -265,7 +265,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Dick Burbage", "Burbage"),
         description="Leading player and sharer in the Lord Chamberlain's Men; plays Berowne, Richard II, and Romeo.",
-        facets=("company",),
+        facets=("company", "writing", "household", "stratford"),
         observations=("Leading player and sharer in the Lord Chamberlain's Men", "Plays Berowne, Richard II, and Romeo"),
     ),
     CastEntity(
@@ -274,7 +274,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Kemp", "Master Kemp"),
         description="Clown and sharer in the Lord Chamberlain's Men; first name on the March court warrant.",
-        facets=("company",),
+        facets=("company", "writing", "household", "stratford"),
         observations=("Clown and sharer; named first on the Greenwich court warrant", "Plays Costard, Launce, Dogberry/Peter, and Bottom"),
     ),
     CastEntity(
@@ -283,7 +283,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Heminges", "Master Heminges"),
         description="Sharer and man of account in the Lord Chamberlain's Men; holds the stock share and keeps the reckoning book.",
-        facets=("company",),
+        facets=("company", "writing", "household"),
         observations=("Keeps the company reckoning book and holds the stock share", "Collects the £20 Greenwich court warrant on 15 March"),
     ),
     CastEntity(
@@ -292,7 +292,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Phillips", "Austin Phillips"),
         description="Sharer and musician in the Lord Chamberlain's Men; Nick's voice coach and Sam Latchet's master.",
-        facets=("company",),
+        facets=("company", "writing", "household"),
         observations=("Sharer and musician; master to Sam Latchet",),
     ),
     CastEntity(
@@ -301,7 +301,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Pope", "Tom Pope"),
         description="Sharer in the Lord Chamberlain's Men; plays Armado, the Gardener, and the Nurse; Arthur Meeks's master.",
-        facets=("company",),
+        facets=("company", "writing"),
         observations=("Sharer; plays Armado, the Gardener, and the Nurse",),
     ),
     CastEntity(
@@ -310,7 +310,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Bryan",),
         description="Sharer in the Lord Chamberlain's Men; court manners; Richmond payee with Heminges.",
-        facets=("company",),
+        facets=("company", "writing"),
         observations=("Sharer in the Lord Chamberlain's Men with court experience",),
     ),
     CastEntity(
@@ -319,7 +319,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Cowley",),
         description="Hired player in the Lord Chamberlain's Men (not a sharer); covers William when he is ill.",
-        facets=("company",),
+        facets=("company", "writing", "household"),
         observations=("Hired player who covers William's parts during illness",),
     ),
     CastEntity(
@@ -354,7 +354,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Larkham",),
         description="Hired player, gatherer when needed, and second copyist under Abel Garnish.",
-        facets=("company",),
+        facets=("company", "writing"),
     ),
     CastEntity(
         slug="nick_sorrell",
@@ -362,7 +362,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Nick",),
         description="Leading boy player bound to John Heminges; plays the Princess of France, the Queen in Richard II, and Juliet.",
-        facets=("company",),
+        facets=("company", "writing", "household"),
     ),
     CastEntity(
         slug="arthur_meeks",
@@ -370,7 +370,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Arthur",),
         description="Second boy player, lodging with Thomas Pope; tall and shooting up; plays Rosaline, the Duchess of York, and Lady Capulet.",
-        facets=("company",),
+        facets=("company", "writing"),
     ),
     CastEntity(
         slug="sam_latchet",
@@ -378,7 +378,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Sam",),
         description="Small boy player bound to Augustine Phillips; plays Moth, Juliet's page, and Puck.",
-        facets=("company",),
+        facets=("company", "writing"),
     ),
     CastEntity(
         slug="abel_garnish",
@@ -386,7 +386,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Garnish", "Master Garnish"),
         description="Book-keeper to the Lord Chamberlain's Men; keeps the prompt book, parts, and plots.",
-        facets=("company",),
+        facets=("company", "writing"),
     ),
     CastEntity(
         slug="margery_pell",
@@ -402,7 +402,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Edith", "Mistress Kettlewood"),
         description="Seamstress and tire-mender to the company; owed 8s from January.",
-        facets=("company",),
+        facets=("company", "household", "stratford"),
     ),
     CastEntity(
         slug="james_burbage",
@@ -410,7 +410,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Old Burbage", "Master James Burbage"),
         description="Owner of the Theatre in Holywell and father to Richard and Cuthbert Burbage.",
-        facets=("company",),
+        facets=("company", "writing"),
         observations=("Builder and owner of the Theatre in Holywell",),
     ),
     CastEntity(
@@ -437,7 +437,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Lord Hunsdon", "the Lord Chamberlain", "Hunsdon"),
         description="Lord Chamberlain and patron of the company.",
-        facets=("company",),
+        facets=("company", "stratford"),
         observations=("Lord Chamberlain and patron of the company",),
     ),
     CastEntity(
@@ -446,7 +446,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Kettleby", "Master Kettleby"),
         description="Gentleman usher to Lord Hunsdon at Somerset House.",
-        facets=("company",),
+        facets=("company", "writing", "stratford"),
     ),
     CastEntity(
         slug="henry_wriothesley_southampton",
@@ -454,7 +454,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("the Earl of Southampton", "Southampton", "Lord Southampton"),
         description="3rd Earl of Southampton; dedicatee of Venus and Adonis and Lucrece.",
-        facets=("writing",),
+        facets=("writing", "company", "household"),
         observations=("Dedicatee of Venus and Adonis and The Rape of Lucrece",),
     ),
     CastEntity(
@@ -463,7 +463,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Florio", "Master Florio"),
         description="Italian tutor and secretary in the Earl of Southampton's household.",
-        facets=("writing",),
+        facets=("writing", "company"),
         observations=("Italian tutor at Southampton House in Holborn",),
     ),
     CastEntity(
@@ -472,7 +472,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("the Queen", "Her Majesty"),
         description="Queen Elizabeth I, seen at Greenwich, the Accession Day tilt, and Richmond.",
-        facets=("company",),
+        facets=("company", "household"),
     ),
     CastEntity(
         slug="edward_hoby",
@@ -521,7 +521,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Essex", "the Earl of Essex"),
         description="2nd Earl of Essex, seen at the Accession Day tilt.",
-        facets=("company",),
+        facets=("company", "household"),
     ),
     CastEntity(
         slug="john_spencer",
@@ -529,7 +529,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Spencer", "the Lord Mayor"),
         description="Lord Mayor of London until 28 October 1595, residing at Crosby Place in Great St Helen's.",
-        facets=("household",),
+        facets=("household", "company"),
         observations=("Lord Mayor of London residing at Crosby Place, a hundred yards away",),
     ),
     # 3.5 London household and the town (11)
@@ -539,7 +539,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Mistress Ansell", "Mrs Ansell"),
         description="William's landlady in Great St Helen's; a scrivener's widow who makes oak-gall ink.",
-        facets=("household",),
+        facets=("household", "company", "writing", "stratford"),
         observations=("Scrivener's widow and landlady in Great St Helen's", "Makes oak-gall ink and keeps the bread-board notch"),
     ),
     CastEntity(
@@ -548,7 +548,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Alse",),
         description="Mistress Ansell's maid in Great St Helen's, from Hertfordshire.",
-        facets=("household",),
+        facets=("household", "company", "writing", "stratford"),
         observations=("Maid in Mistress Ansell's house in Great St Helen's",),
     ),
     CastEntity(
@@ -557,7 +557,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Verbeke", "Gillis"),
         description="Flemish silk-weaver from Ghent and fellow lodger at Mistress Ansell's.",
-        facets=("household",),
+        facets=("household", "company"),
         observations=("Flemish silk-weaver lodging at Mistress Ansell's",),
     ),
     CastEntity(
@@ -566,7 +566,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Master Thwaite", "Thwaite"),
         description="Reader and curate at St Helen's, Bishopsgate.",
-        facets=("household",),
+        facets=("household", "writing"),
         observations=("Reader and curate at St Helen's, Bishopsgate",),
     ),
     CastEntity(
@@ -584,7 +584,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Mistress Tipping",),
         description="Hostess of the Jackdaw in Holywell Lane, the company's weekday ordinary.",
-        facets=("household", "company"),
+        facets=("household", "company", "writing"),
         observations=("Hostess of the Jackdaw ordinary in Holywell Lane",),
     ),
     CastEntity(
@@ -593,7 +593,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Alice", "Mistress Brambleby"),
         description="Keeper of the Split Hazel, the ordinary near Bishopsgate.",
-        facets=("household",),
+        facets=("household", "company", "writing", "stratford"),
         observations=("Keeper of the Split Hazel ordinary near Bishopsgate",),
     ),
     CastEntity(
@@ -602,7 +602,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Davy", "Gannet"),
         description="Waterman at Old Swan Stairs and veteran of '88.",
-        facets=("household",),
+        facets=("household", "company"),
         observations=("Waterman at Old Swan Stairs who rows William to Westminster and Richmond",),
     ),
     CastEntity(
@@ -629,7 +629,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Morley", "Master Morley"),
         description="Composer and parishioner in St Helen's, Bishopsgate; hosts chamber music evenings.",
-        facets=("household",),
+        facets=("household", "writing"),
         observations=("Composer living in St Helen's parish",),
     ),
     # 3.6 Print, pens and rivals (11)
@@ -639,7 +639,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Field", "Ric. Field"),
         description="Printer in Blackfriars and Stratford tanner's son; printer of Venus and Adonis, Lucrece, and North's Plutarch.",
-        facets=("writing",),
+        facets=("writing", "company", "household", "stratford"),
         observations=("Blackfriars printer from Stratford; lends his 1587 Holinshed", "Prints North's Plutarch (1595) and supplies Rochelle paper"),
     ),
     CastEntity(
@@ -648,7 +648,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Mistress Field", "Jacqueline"),
         description="Richard Field's wife (née Vautrollier); manages accounts and paper stock at the Blackfriars printing house.",
-        facets=("writing",),
+        facets=("writing", "household"),
     ),
     CastEntity(
         slug="john_harrison",
@@ -656,7 +656,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Master Harrison", "Harrison"),
         description="Stationer and publisher at the sign of the White Greyhound in St Paul's Churchyard.",
-        facets=("writing",),
+        facets=("writing", "company"),
         observations=("Publisher at the White Greyhound in St Paul's Churchyard",),
     ),
     CastEntity(
@@ -665,7 +665,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Nashe", "Tom Nashe"),
         description="Pamphleteer, playwright, and satirist.",
-        facets=("household", "writing"),
+        facets=("household", "writing", "company"),
         observations=("Satirist and diner at the Bull and the Split Hazel",),
     ),
     CastEntity(
@@ -674,7 +674,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Daniel",),
         description="Poet of the First Fowre Bookes of the Civile Wars.",
-        facets=("household", "writing"),
+        facets=("household", "writing", "stratford"),
         observations=("Author of The First Fowre Bookes of the Civile Wars (1595)",),
     ),
     CastEntity(
@@ -700,7 +700,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Alleyn", "Ned Alleyn"),
         description="Leading player of the Admiral's Men at the Rose.",
-        facets=("company",),
+        facets=("company", "writing"),
     ),
     CastEntity(
         slug="philip_henslowe",
@@ -708,7 +708,7 @@ CANON_CAST: tuple[CastEntity, ...] = (
         entity_type="Person",
         aka=("Henslowe", "Master Henslowe"),
         description="Owner of the Rose playhouse on Bankside.",
-        facets=("company",),
+        facets=("company", "writing"),
     ),
     CastEntity(
         slug="francis_langley",

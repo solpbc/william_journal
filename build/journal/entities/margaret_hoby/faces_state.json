@@ -145,7 +145,11 @@
         "source_name": "margaret_hoby",
         "frame_id": 0,
         "face_idx": 0,
-        "activities": [],
+        "activities": [
+          "[\"company\",\"20251209\",\"frame_191000_240\"]",
+          "[\"company\",\"20251209\",\"meeting_174500_480\"]",
+          "[\"company\",\"20251209\",\"meeting_214000_480\"]"
+        ],
         "source": "anchored",
         "label_text": null,
         "quality": 1,

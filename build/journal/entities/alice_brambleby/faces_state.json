@@ -145,7 +145,16 @@
         "source_name": "alice_brambleby",
         "frame_id": 0,
         "face_idx": 0,
-        "activities": [],
+        "activities": [
+          "[\"company\",\"20250103\",\"meeting_120500_480\"]",
+          "[\"company\",\"20250211\",\"meeting_180500_840\"]",
+          "[\"company\",\"20250211\",\"meeting_184200_480\"]",
+          "[\"company\",\"20250518\",\"meeting_174500_840\"]",
+          "[\"company\",\"20250712\",\"meeting_174000_600\"]",
+          "[\"company\",\"20251105\",\"meeting_180000_480\"]",
+          "[\"stratford\",\"20250912\",\"meeting_183500_900\"]",
+          "[\"writing\",\"20250518\",\"note_210500_360\"]"
+        ],
         "source": "anchored",
         "label_text": null,
         "quality": 1,

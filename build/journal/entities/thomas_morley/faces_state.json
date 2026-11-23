@@ -145,7 +145,10 @@
         "source_name": "thomas_morley",
         "frame_id": 0,
         "face_idx": 0,
-        "activities": [],
+        "activities": [
+          "[\"household\",\"20251130\",\"meeting_111500_480\"]",
+          "[\"writing\",\"20250322\",\"meeting_193500_1500\"]"
+        ],
         "source": "anchored",
         "label_text": null,
         "quality": 1,

@@ -145,7 +145,10 @@
         "source_name": "samuel_daniel",
         "frame_id": 0,
         "face_idx": 0,
-        "activities": [],
+        "activities": [
+          "[\"stratford\",\"20251026\",\"note_170000_480\"]",
+          "[\"writing\",\"20251023\",\"meeting_184000_720\"]"
+        ],
         "source": "anchored",
         "label_text": null,
         "quality": 1,

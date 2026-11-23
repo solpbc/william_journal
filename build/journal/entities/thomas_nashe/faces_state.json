@@ -145,7 +145,14 @@
         "source_name": "thomas_nashe",
         "frame_id": 0,
         "face_idx": 0,
-        "activities": [],
+        "activities": [
+          "[\"company\",\"20250302\",\"meeting_204000_600\"]",
+          "[\"company\",\"20250518\",\"meeting_174500_840\"]",
+          "[\"company\",\"20250713\",\"meeting_190000_840\"]",
+          "[\"company\",\"20250713\",\"meeting_194000_480\"]",
+          "[\"company\",\"20250713\",\"meeting_210000_240\"]",
+          "[\"writing\",\"20250518\",\"note_210500_360\"]"
+        ],
         "source": "anchored",
         "label_text": null,
         "quality": 1,

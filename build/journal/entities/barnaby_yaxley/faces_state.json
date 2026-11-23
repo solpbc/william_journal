@@ -145,7 +145,12 @@
         "source_name": "barnaby_yaxley",
         "frame_id": 0,
         "face_idx": 0,
-        "activities": [],
+        "activities": [
+          "[\"household\",\"20251010\",\"meeting_081500_600\"]",
+          "[\"household\",\"20251014\",\"meeting_100500_240\"]",
+          "[\"household\",\"20251022\",\"memo_084400_120\"]",
+          "[\"household\",\"20251216\",\"meeting_074000_240\"]"
+        ],
         "source": "anchored",
         "label_text": null,
         "quality": 1,

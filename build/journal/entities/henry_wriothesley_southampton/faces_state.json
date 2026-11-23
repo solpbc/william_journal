@@ -145,7 +145,14 @@
         "source_name": "henry_wriothesley_southampton",
         "frame_id": 0,
         "face_idx": 0,
-        "activities": [],
+        "activities": [
+          "[\"company\",\"20250126\",\"meeting_181000_840\"]",
+          "[\"household\",\"20251117\",\"photo_112000_0\"]",
+          "[\"writing\",\"20250210\",\"meeting_104000_240\"]",
+          "[\"writing\",\"20250923\",\"call_104000_180\"]",
+          "[\"writing\",\"20250923\",\"memo_211000_60\"]",
+          "[\"writing\",\"20251027\",\"meeting_083000_720\"]"
+        ],
         "source": "anchored",
         "label_text": null,
         "quality": 1,

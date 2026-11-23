@@ -145,7 +145,14 @@
         "source_name": "michael_drayton",
         "frame_id": 0,
         "face_idx": 0,
-        "activities": [],
+        "activities": [
+          "[\"household\",\"20250929\",\"meeting_113000_840\"]",
+          "[\"writing\",\"20250415\",\"meeting_112000_600\"]",
+          "[\"writing\",\"20250531\",\"frame_103200_360\"]",
+          "[\"writing\",\"20250531\",\"meeting_104200_120\"]",
+          "[\"writing\",\"20250922\",\"meeting_091500_840\"]",
+          "[\"writing\",\"20250929\",\"photo_114800_0\"]"
+        ],
         "source": "anchored",
         "label_text": null,
         "quality": 1,
