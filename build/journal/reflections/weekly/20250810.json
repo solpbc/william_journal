@@ -53,9 +53,9 @@
         "uri": "sol://chronicle/20250810/talents/morning_briefing",
         "briefing_day": "20250810",
         "refs": [
-          "sol://facets/writing/activities/20250810#memo_051000_60",
-          "sol://facets/writing/activities/20250810#photo_054000_0",
-          "sol://facets/household/activities/20250810#meeting_074000_120"
+          "sol://facets/writing/activities/20250810#note_003500_720",
+          "sol://facets/household/activities/20250810#meeting_010500_120",
+          "sol://facets/writing/activities/20250810#frame_014000_480"
         ]
       }
     },
@@ -161,6 +161,26 @@
       "id": "s-20250810-0",
       "key": "said_20250810_0",
       "day": "20250810",
+      "quote": "He never once asks her. She does it all.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250810#memo_021000_120"
+      }
+    },
+    {
+      "id": "s-20250810-1",
+      "key": "said_20250810_1",
+      "day": "20250810",
+      "quote": "Parting is such sweet sorrow. God. Leave it. Leave it in.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250810#memo_021000_120"
+      }
+    },
+    {
+      "id": "s-20250810-2",
+      "key": "said_20250810_2",
+      "day": "20250810",
       "quote": "I had her stile turned into a tale, and I heard it, and I stopped. She heard the stop.",
       "source": {
         "kind": "activity",
@@ -168,8 +188,8 @@
       }
     },
     {
-      "id": "s-20250812-1",
-      "key": "said_20250812_1",
+      "id": "s-20250812-3",
+      "key": "said_20250812_3",
       "day": "20250812",
       "quote": "It went like a lute-string. Not a roar. A string.",
       "source": {
@@ -178,8 +198,8 @@
       }
     },
     {
-      "id": "s-20250812-2",
-      "key": "said_20250812_2",
+      "id": "s-20250812-4",
+      "key": "said_20250812_4",
       "day": "20250812",
       "quote": "She was right at the plot, and right on the bed, and they were different rights.",
       "source": {
@@ -188,8 +208,8 @@
       }
     },
     {
-      "id": "s-20250813-3",
-      "key": "said_20250813_3",
+      "id": "s-20250813-5",
+      "key": "said_20250813_5",
       "day": "20250813",
       "quote": "I can't lie on a floor in London. I've a king to bury.",
       "source": {
@@ -198,8 +218,8 @@
       }
     },
     {
-      "id": "s-20250814-4",
-      "key": "said_20250814_4",
+      "id": "s-20250814-6",
+      "key": "said_20250814_6",
       "day": "20250814",
       "quote": "The floor is the market I get. It is not a virtue. It is a back.",
       "source": {
@@ -208,8 +228,8 @@
       }
     },
     {
-      "id": "s-20250815-5",
-      "key": "said_20250815_5",
+      "id": "s-20250815-7",
+      "key": "said_20250815_7",
       "day": "20250815",
       "quote": "No journey but the one that is set. No house from a floor.",
       "source": {
@@ -218,8 +238,8 @@
       }
     },
     {
-      "id": "s-20250816-6",
-      "key": "said_20250816_6",
+      "id": "s-20250816-8",
+      "key": "said_20250816_8",
       "day": "20250816",
       "quote": "I work there. I don't live there. I've known it since Aylesbury.",
       "source": {
@@ -228,8 +248,8 @@
       }
     },
     {
-      "id": "s-20250816-7",
-      "key": "said_20250816_7",
+      "id": "s-20250816-9",
+      "key": "said_20250816_9",
       "day": "20250816",
       "quote": "That one. She had it picked before I'd the wit to want it.",
       "source": {

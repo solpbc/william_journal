@@ -232,7 +232,5 @@
 {"at":"2025-11-09T22:50:00+00:00","id":"hr-20251109-221","kind":"reading","label":"heart rate","source":"apple_health","type":"HKQuantityTypeIdentifierHeartRate","unit":"count/min","v":1,"value":"70"}
 {"at":"2025-11-09T22:55:00+00:00","id":"hr-20251109-222","kind":"reading","label":"heart rate","source":"apple_health","type":"HKQuantityTypeIdentifierHeartRate","unit":"count/min","v":1,"value":"68"}
 {"at":"2025-11-09T23:00:00+00:00","id":"hr-20251109-223","kind":"reading","label":"heart rate","source":"apple_health","type":"HKQuantityTypeIdentifierHeartRate","unit":"count/min","v":1,"value":"74"}
-{"at":"2025-11-09T23:05:00+00:00","id":"hr-20251109-224","kind":"reading","label":"heart rate","source":"apple_health","type":"HKQuantityTypeIdentifierHeartRate","unit":"count/min","v":1,"value":"68"}
-{"at":"2025-11-09T23:10:00+00:00","id":"hr-20251109-225","kind":"reading","label":"heart rate","source":"apple_health","type":"HKQuantityTypeIdentifierHeartRate","unit":"count/min","v":1,"value":"73"}
-{"at":"2025-11-09T23:15:00+00:00","id":"hr-20251109-226","kind":"reading","label":"heart rate","source":"apple_health","type":"HKQuantityTypeIdentifierHeartRate","unit":"count/min","v":1,"value":"59"}
-{"at":"2025-11-09T23:45:00+00:00","id":"hr-20251109-227","kind":"reading","label":"heart rate","source":"apple_health","type":"HKQuantityTypeIdentifierHeartRate","unit":"count/min","v":1,"value":"60"}
+{"at":"2025-11-09T23:04:00+00:00","id":"hr-20251109-224","kind":"reading","label":"heart rate","source":"apple_health","type":"HKQuantityTypeIdentifierHeartRate","unit":"count/min","v":1,"value":"57"}
+{"at":"2025-11-09T23:34:00+00:00","id":"hr-20251109-225","kind":"reading","label":"heart rate","source":"apple_health","type":"HKQuantityTypeIdentifierHeartRate","unit":"count/min","v":1,"value":"62"}

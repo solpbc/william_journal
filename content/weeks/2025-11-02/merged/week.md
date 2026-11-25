@@ -26,7 +26,6 @@ On Thursday you rehearsed the book as it is played. In the afternoon you were Ga
 - 2025-11-05 · 11:29 memo · william_shakespeare: "In June it was a chronicle. In November it's a pamphlet. I wrote it in between and never moved."
 - 2025-11-06 · 16:50 meeting · william_shakespeare: "Then it was clapping. I am not making a patron of a fist."
 - 2025-11-07 · 17:10 meeting · william_shakespeare: "The frieze cloak was my lord. He has just said so. He stood at the back like a carter."
-- 2025-11-08 · 00:00 memo · william_shakespeare: "He gets it wrong by a minute. One minute. That's all the villainy there is in it."
 
 ## Observations
 

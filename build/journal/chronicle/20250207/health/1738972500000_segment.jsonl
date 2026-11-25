@@ -8,6 +8,3 @@
 {"day": "20250207", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "202000_240", "stream": "obsidian", "ts": 1738972500020}
 {"change_class": "substantive", "day": "20250207", "event": "sense.change_detect", "mode": "segment", "segment": "202000_240", "stream": "obsidian", "ts": 1738972500021}
 {"day": "20250207", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "202000_240", "stream": "obsidian", "ts": 1738972500022}
-{"day": "20250207", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "021000_60", "stream": "memos", "ts": 1738972500030}
-{"change_class": "substantive", "day": "20250207", "event": "sense.change_detect", "mode": "segment", "segment": "021000_60", "stream": "memos", "ts": 1738972500031}
-{"day": "20250207", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "021000_60", "stream": "memos", "ts": 1738972500032}

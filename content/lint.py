@@ -11,6 +11,7 @@ It does not judge prose. Exit 1 on any error.
 import json
 import re
 from collections import Counter
+from datetime import date, timedelta
 import sys
 from pathlib import Path
 
@@ -79,6 +80,79 @@ def ids(val):
     return [x.strip() for x in re.split(r"[,;]", val.split("(")[0]) if x.strip()]
 
 
+def _hhmm_minutes(hhmm):
+    return int(hhmm[:2]) * 60 + int(hhmm[3:])
+
+
+def _carry_from(hhmm_list):
+    """Index of the first heading that jumps backwards more than six hours.
+
+    Same rule as converter.assign_cross_midnight: that heading and everything
+    after it belongs to the next morning. Lint stays standalone and does not
+    import the converter.
+    """
+    previous = None
+    for index, hhmm in enumerate(hhmm_list):
+        current = _hhmm_minutes(hhmm)
+        if previous is not None and current < previous - 6 * 60:
+            return index
+        previous = current
+    return None
+
+
+def _spoken_lines(block):
+    body = section(block, "Transcript") or ""
+    spoken = []
+    for ln in [line for line in body.splitlines() if line.strip()]:
+        match = LINE.match(ln.strip())
+        if not match:
+            continue
+        if match.group(5):
+            spoken.append(("(" + match.group(5) + ")", match.group(6)))
+        if match.group(3):
+            spoken.append((match.group(3), match.group(4)))
+    return spoken
+
+
+def _index_spoken(transcripts, day, hhmm, kind, spoken):
+    transcripts.setdefault(day, []).extend(text for _, text in spoken)
+    key = ("william", day, hhmm, kind)
+    if key not in transcripts:
+        transcripts[key] = [text for speaker, text in spoken if speaker == "william_shakespeare"]
+
+
+def _harvest_carried_transcripts(path, transcripts):
+    """Index post-midnight headings under the next morning, for Sunday's Said lines."""
+    text = path.read_text()
+    segs = list(SEG.finditer(text))
+    carry_from = _carry_from([match.group(1) for match in segs])
+    if carry_from is None:
+        return
+    assigned = (date.fromisoformat(path.stem) + timedelta(days=1)).isoformat()
+    for index, match in enumerate(segs):
+        if index < carry_from:
+            continue
+        hhmm, _mins, kind, _title = match.groups()
+        if kind not in ("meeting", "call", "memo"):
+            continue
+        block = text[match.end(): segs[index + 1].start() if index + 1 < len(segs) else len(text)]
+        _index_spoken(transcripts, assigned, hhmm, kind, _spoken_lines(block))
+
+
+def _harvest_previous_saturday(week_dir, transcripts):
+    try:
+        sunday = date.fromisoformat(week_dir.parent.name)
+    except ValueError:
+        return
+    if sunday.weekday() != 6:
+        return
+    saturday = sunday - timedelta(days=1)
+    prev_sunday = sunday - timedelta(days=7)
+    prev = ROOT / "content" / "weeks" / prev_sunday.isoformat() / week_dir.name / f"{saturday.isoformat()}.md"
+    if prev.is_file():
+        _harvest_carried_transcripts(prev, transcripts)
+
+
 def check_day(path, transcripts):
     day = path.stem
     text = path.read_text()
@@ -100,10 +174,13 @@ def check_day(path, transcripts):
         if sec not in text:
             err(day, f"missing {sec}")
     segs = list(SEG.finditer(text))
+    carry_from = _carry_from([m.group(1) for m in segs])
+    next_morning = (date.fromisoformat(day) + timedelta(days=1)).isoformat()
     counts = {}
     for i, m in enumerate(segs):
         hhmm, mins, kind, title = m.groups()
         where = f"{day} {hhmm} {kind}"
+        cited = next_morning if carry_from is not None and i >= carry_from else day
         block = text[m.end(): segs[i + 1].start() if i + 1 < len(segs) else len(text)]
         counts[kind] = counts.get(kind, 0) + 1
         if kind not in KINDS:
@@ -157,9 +234,9 @@ def check_day(path, transcripts):
                     spoken.append((lm.group(3), lm.group(4)))
                     if lm.group(3) not in PEOPLE:
                         err(where, f"speaker {lm.group(3)} is not a § 3 slug")
-            transcripts.setdefault(day, []).extend(t for _, t in spoken)
-            # His own lines per segment, for the week's Said check.
-            transcripts[("william", day, hhmm, kind)] = [t for sp, t in spoken if sp == "william_shakespeare"]
+            # A post-midnight heading is cited on the next morning. Saturday's
+            # week no longer carries that Said line; Sunday's week does.
+            _index_spoken(transcripts, cited, hhmm, kind, spoken)
             if kind == "meeting":
                 voices = {s for s, _ in spoken if not s.startswith("(")}
                 if len(spoken) < 25 or len(spoken) > 60:
@@ -194,6 +271,8 @@ def main(d):
     for p in days:
         for k, v in check_day(p, transcripts).items():
             total[k] = total.get(k, 0) + v
+    # Sunday's Said lines cite headings that still live in the previous Saturday file.
+    _harvest_previous_saturday(d, transcripts)
     wk = d / "week.md"
     if dense:
         pass

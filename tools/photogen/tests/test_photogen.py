@@ -232,6 +232,63 @@ def test_run_photogen_end_to_end_mocked(tmp_path: Path, monkeypatch: pytest.Monk
     assert "The desk at first light: the account book open at a fresh leaf." in html_text
 
 
+def test_budget_counts_spend_on_deleted_images_across_runs(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    vault_file = tmp_path / "vault.md"
+    vault_file.write_text("- **key:** AIzaSyFAKEKEY_12345\n", encoding="utf-8")
+    framing = {"id": "A", "slug": "a", "name": "Framing A", "short_label": "A", "instruction": "A."}
+    shot = {
+        "shot_index": 1, "id": "S01", "date": "2025-01-01", "time": "08:00", "title": "Desk",
+        "place": "ansell_house", "region": "London", "setting": "inside", "season": "Winter",
+        "lighting": "daylight", "category": "room & objects", "people_present": False,
+        "entries": "S001", "shot_list_ref": "§ 7.7 #1",
+        "day_file": "content/weeks/2025-01-01/merged/2025-01-01.md",
+        "photo_text": "Desk.", "world_text": "§ 7.7 #1", "subject_prompt": "A desk.",
+    }
+    prompts_file = tmp_path / "prompts.json"
+    prompts_file.write_text(
+        json.dumps({
+            "schema_version": 1,
+            "default_model": "gemini-nano-banana-2.1",
+            "default_parameters": {"aspectRatio": "4:3", "imageSize": "1K", "seed": 1, "responseModalities": ["IMAGE"]},
+            "framings": [framing, {**framing, "id": "B", "slug": "b", "name": "Framing B", "short_label": "B"}],
+            "shots": [shot],
+        }),
+        encoding="utf-8",
+    )
+    fake_jpeg = _make_fake_jpeg_bytes(1200, 896)
+    monkeypatch.setattr(
+        photogen,
+        "call_gemini_image_api",
+        lambda **kwargs: (
+            fake_jpeg,
+            "image/jpeg",
+            {
+                "prompt_tokens": 250, "image_output_tokens": 1120,
+                "text_and_thinking_output_tokens": 800, "thoughts_tokens": 800,
+                "candidates_tokens": 1120, "total_tokens": 2170, "cost_usd": 0.04,
+            },
+        ),
+    )
+    out_dir = tmp_path / "out"
+    first = photogen.run_photogen(prompt_set_path=prompts_file, output_dir=out_dir, key_file=vault_file)
+    assert first["spent_usd"] == pytest.approx(0.08, abs=1e-6)
+
+    # Delete one keeper and regenerate it: the keepers still total $0.08,
+    # but $0.12 has been paid, and the budget must see $0.12.
+    (out_dir / first["items"][0]["image_rel_path"]).unlink()
+    second = photogen.run_photogen(prompt_set_path=prompts_file, output_dir=out_dir, key_file=vault_file)
+    assert second["total_cost_usd"] == pytest.approx(0.08, abs=1e-6)
+    assert second["spent_usd"] == pytest.approx(0.12, abs=1e-6)
+
+    (out_dir / second["items"][0]["image_rel_path"]).unlink()
+    with pytest.raises(photogen.PhotogenError, match=r"\$0\.12 already spent"):
+        photogen.run_photogen(
+            prompt_set_path=prompts_file, output_dir=out_dir, key_file=vault_file, budget_usd=0.15
+        )
+
+
 def test_budget_and_max_images_guards(tmp_path: Path) -> None:
     vault_file = tmp_path / "vault.md"
     vault_file.write_text("- **key:** AIzaSyFAKEKEY_12345\n", encoding="utf-8")

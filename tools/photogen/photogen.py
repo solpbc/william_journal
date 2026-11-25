@@ -1087,24 +1087,35 @@ def run_photogen(
     api_key = load_api_key(key_file)
 
     existing_by_num: dict[int, dict[str, Any]] = {}
-    if manifest_path.is_file() and not overwrite:
+    # Money already paid into this output directory. It survives deleted,
+    # regenerated and overwritten images, so --budget-usd caps real spend.
+    # A manifest written before `spent_usd` existed falls back to its
+    # keepers' total, which undercounts anything deleted before then.
+    prior_spent = 0.0
+    if manifest_path.is_file():
         try:
             old_manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
-            for item in old_manifest.get("items", []):
-                img_file = output_dir / item["image_rel_path"]
-                if img_file.is_file() and img_file.stat().st_size > 0:
-                    existing_by_num[int(item["number"])] = item
         except Exception:
-            existing_by_num = {}
+            old_manifest = {}
+        prior_spent = float(old_manifest.get("spent_usd", old_manifest.get("total_cost_usd", 0.0)) or 0.0)
+        if not overwrite:
+            try:
+                for item in old_manifest.get("items", []):
+                    img_file = output_dir / item["image_rel_path"]
+                    if img_file.is_file() and img_file.stat().st_size > 0:
+                        existing_by_num[int(item["number"])] = item
+            except Exception:
+                existing_by_num = {}
 
     results_by_num: dict[int, dict[str, Any]] = dict(existing_by_num)
     pending_jobs = [j for j in jobs if j["number"] not in results_by_num]
 
     # Estimate upper-bound cost before starting (~$0.05/image for 1K Nano Banana 2.1)
-    est_cost = len(jobs) * 0.05
+    est_cost = prior_spent + len(pending_jobs) * 0.05
     if est_cost > budget_usd:
         raise PhotogenError(
-            f"Estimated cost ${est_cost:.2f} for {len(jobs)} images exceeds budget cap ${budget_usd:.2f}"
+            f"Estimated cost ${est_cost:.2f} (${prior_spent:.2f} already spent in this output directory "
+            f"+ {len(pending_jobs)} images to generate) exceeds budget cap ${budget_usd:.2f}"
         )
 
     def _run_one(job: dict[str, Any]) -> dict[str, Any]:
@@ -1162,6 +1173,7 @@ def run_photogen(
             "total_shots": len(prompt_set.get("shots", [])),
             "total_framings": len(prompt_set.get("framings", [])),
             "total_cost_usd": round(sum(float(it.get("cost_usd", 0.0)) for it in items), 6),
+            "spent_usd": round(running_cost, 6),
             "downscaled": info["downscaled"],
             "committed_bytes": info["committed_bytes"],
             "originals_bytes": info["originals_bytes"],
@@ -1173,7 +1185,7 @@ def run_photogen(
         manifest_path.write_text(json.dumps(manifest_body, indent=2) + "\n", encoding="utf-8")
         return manifest_body
 
-    running_cost = sum(float(it.get("cost_usd", 0.0)) for it in results_by_num.values())
+    running_cost = prior_spent
 
     if pending_jobs:
         with ThreadPoolExecutor(max_workers=max(1, workers)) as pool:
@@ -1195,7 +1207,7 @@ def run_photogen(
                 if running_cost > budget_usd:
                     pool.shutdown(wait=False, cancel_futures=True)
                     raise PhotogenError(
-                        f"Cumulative cost ${running_cost:.4f} exceeded budget limit ${budget_usd:.2f}; stopping."
+                        f"Spend in this output directory ${running_cost:.4f} exceeded budget limit ${budget_usd:.2f}; stopping."
                     )
 
     ordered_items = [results_by_num[j["number"]] for j in jobs]
@@ -1247,7 +1259,7 @@ def main(argv: list[str] | None = None) -> int:
         "--budget-usd",
         type=float,
         default=25.0,
-        help="Hard cap on cumulative run cost in USD (default: 25.0)",
+        help="Hard cap in USD on everything spent in this --out directory, across runs; deleted or regenerated images still count (manifest `spent_usd`; default: 25.0)",
     )
     parser.add_argument(
         "--max-repo-mb",

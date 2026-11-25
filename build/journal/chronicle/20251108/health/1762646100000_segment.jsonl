@@ -18,6 +18,3 @@
 {"change_class": "substantive", "day": "20251108", "event": "sense.change_detect", "mode": "segment", "segment": "233000_180", "stream": "desk", "ts": 1762646100051}
 {"day": "20251108", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "233000_180", "stream": "desk", "ts": 1762646100052}
 {"day": "20251108", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "233000_180", "stream": "desk", "ts": 1762646100053}
-{"day": "20251108", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "000000_60", "stream": "memos", "ts": 1762646100060}
-{"change_class": "substantive", "day": "20251108", "event": "sense.change_detect", "mode": "segment", "segment": "000000_60", "stream": "memos", "ts": 1762646100061}
-{"day": "20251108", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "000000_60", "stream": "memos", "ts": 1762646100062}

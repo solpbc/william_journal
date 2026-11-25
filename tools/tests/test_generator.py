@@ -14,7 +14,7 @@ import re
 import shutil
 import subprocess
 import sys
-from datetime import datetime
+from datetime import date, datetime, time, timedelta
 
 import pytest
 
@@ -1176,3 +1176,164 @@ def test_contextual_imports_manifest_and_install_idempotent(tmp_path: Path) -> N
     summary2 = install_imports(journal, imports_dir=DEFAULT_IMPORTS_DIR, solstone_repo=SOLSTONE_REPO)
     assert summary2["installed"] == 18
     assert _snap(journal) == before
+
+
+_CARRIED_HEADINGS = {
+    ("2025-02-07", "02:10", "memo", "2025-02-08"),
+    ("2025-05-17", "01:00", "memo", "2025-05-18"),
+    ("2025-08-09", "00:35", "note", "2025-08-10"),
+    ("2025-08-09", "01:05", "meeting", "2025-08-10"),
+    ("2025-08-09", "01:40", "frame", "2025-08-10"),
+    ("2025-08-09", "02:10", "memo", "2025-08-10"),
+    ("2025-08-09", "02:22", "frame", "2025-08-10"),
+    ("2025-11-08", "00:00", "memo", "2025-11-09"),
+}
+
+
+def _year_plans() -> dict:
+    return {row.date_iso: row for row in backdrop.load_year_dayplan_rows()}
+
+
+def _metrics_for(plan) -> dict:
+    return world_data.generate_body_metrics_for_day(
+        plan.date_iso,
+        world_data.resolve_day_type_key(plan.day_type_label, plan.date_iso),
+        plan.explicit_steps,
+    )
+
+
+def test_post_midnight_headings_move_one_morning() -> None:
+    """A backwards jump of more than six hours is the next morning, and nothing else is."""
+    found = set()
+    weeks = PROJECT_DIR / "content" / "weeks"
+    for path in sorted(weeks.glob("*/merged/2025-*.md")):
+        spec = converter.parse_day_markdown(path)
+        for seg in spec.segments:
+            if seg.day_iso != spec.day_iso:
+                found.add((spec.day_iso, seg.start_hhmm, seg.kind, seg.day_iso))
+    assert found == _CARRIED_HEADINGS
+    may17 = converter.parse_day_markdown(weeks / "2025-05-11" / "merged" / "2025-05-17.md")
+    assert any(seg.kind == "photo" and seg.start_hhmm == "23:45" and seg.day_iso == "2025-05-17" for seg in may17.segments)
+
+
+def test_wake_jitter_keeps_ground_truth_and_clears_sleep() -> None:
+    """Ordinary wakes move ±10–15 min. Canon wakes, HRV, stages and the illness marks stay."""
+    plans = _year_plans()
+    january: set[str] = set()
+    june: set[str] = set()
+    for iso, plan in sorted(plans.items()):
+        metrics = _metrics_for(plan)
+        assert 42 <= metrics["hrv_ms"] <= 64
+        assert abs(metrics["deep_min"] / metrics["sleep_min"] - 0.18) < 0.03
+        assert abs(metrics["rem_min"] / metrics["sleep_min"] - 0.22) < 0.03
+        day = date.fromisoformat(iso)
+        nominal = datetime.combine(day, backdrop._parse_hhmm(metrics["wake_time"]), tzinfo=backdrop.LONDON_TZ)
+        intervals = backdrop._sleep_intervals(day, metrics)
+        wake = intervals[-1][1]
+        assert wake <= nominal + timedelta(minutes=15)
+        offset = backdrop._wake_jitter_minutes(day)
+        if "wake_time" in world_data.SPECIAL_DAY_BODY_OVERRIDES.get(iso, {}):
+            assert offset == 0
+        else:
+            assert 10 <= abs(offset) <= 15
+        slept = sum(int((end - start).total_seconds()) for start, end in intervals)
+        if len(intervals) == 1 and slept == metrics["sleep_min"] * 60:
+            assert wake == nominal + timedelta(minutes=offset)
+        for bed, end in intervals:
+            for start, stop, kind in backdrop._obstacles_for_sleep(day):
+                assert not backdrop._obstacle_overlaps(bed, end, start, stop, kind), (
+                    f"{iso} sleep {bed.isoformat()}..{end.isoformat()} meets {start.isoformat()} ({kind})"
+                )
+        if iso.startswith("2025-01"):
+            january.add(wake.strftime("%H:%M"))
+        if iso.startswith("2025-06"):
+            june.add(wake.strftime("%H:%M"))
+    assert len(january) > 1
+    assert "06:45" not in january or len(january) > 1
+    assert len(june) > 1
+
+    def _wake(iso: str) -> datetime:
+        plan = plans[iso]
+        return backdrop._sleep_intervals(date.fromisoformat(iso), _metrics_for(plan))[-1][1]
+
+    assert _wake("2025-05-18").strftime("%H:%M") == "05:00"
+    assert _wake("2025-08-10").strftime("%H:%M") == "04:45"
+    assert _wake("2025-11-09").strftime("%H:%M") == "05:50"
+    assert _wake("2025-12-10").strftime("%H:%M") == "06:25"
+    assert _wake("2025-12-30").strftime("%H:%M") == "05:40"
+
+    marks = {
+        "2025-01-17": {"steps": 9400, "rhr_bpm": 74},
+        "2025-01-18": {"steps": 900, "rhr_bpm": 76},
+        "2025-08-13": {"steps": 400, "rhr_bpm": 69},
+        "2025-08-14": {"steps": 700, "rhr_bpm": 67},
+        "2025-08-18": {"steps": 30000, "rhr_bpm": 64},
+        "2025-08-19": {"steps": 43500},
+        "2025-08-20": {"steps": 66500},
+        "2025-10-14": {"steps": 1900, "hr_max_bpm": 148},
+    }
+    for iso, expect in marks.items():
+        metrics = _metrics_for(plans[iso])
+        for key, value in expect.items():
+            assert metrics[key] == value, (iso, key, metrics[key])
+    assert _metrics_for(plans["2025-01-18"])["sleep_min"] >= 500
+    aug4 = _metrics_for(plans["2025-08-04"])
+    assert 57 <= aug4["rhr_bpm"] <= 60
+    oct10 = _metrics_for(plans["2025-10-10"])
+    assert oct10["sleep_min"] <= 285
+
+
+def test_committed_journal_sleep_does_not_overlap_chronicle() -> None:
+    """The built tree uses the same predicate as the generator, including instant photos."""
+    journal = BACKDROP_BUILD_DIR
+    sleep_by_day: dict[date, list[tuple[datetime, datetime]]] = {}
+    for day_dir in sorted((journal / "chronicle").iterdir()):
+        if not re.fullmatch(r"\d{8}", day_dir.name):
+            continue
+        day = date(int(day_dir.name[:4]), int(day_dir.name[4:6]), int(day_dir.name[6:]))
+        body = day_dir / "import.apple_health" / "060000_300" / "body.jsonl"
+        intervals = []
+        for line in body.read_text(encoding="utf-8").splitlines():
+            row = json.loads(line)
+            if row.get("kind") == "experience" and row.get("experience") == "sleep":
+                intervals.append((datetime.fromisoformat(row["start"]), datetime.fromisoformat(row["end"])))
+        assert intervals, day
+        sleep_by_day[day] = intervals
+
+    excluded = {"phone", "import.apple_health", "calendar", "talents", "health"}
+    overlaps = []
+    for day_dir in sorted((journal / "chronicle").iterdir()):
+        if not re.fullmatch(r"\d{8}", day_dir.name):
+            continue
+        day = date(int(day_dir.name[:4]), int(day_dir.name[4:6]), int(day_dir.name[6:]))
+        windows = [*sleep_by_day.get(day, []), *sleep_by_day.get(day + timedelta(days=1), [])]
+        for stream_dir in day_dir.iterdir():
+            if not stream_dir.is_dir() or stream_dir.name in excluded:
+                continue
+            for seg_dir in stream_dir.iterdir():
+                if not seg_dir.is_dir():
+                    continue
+                match = re.fullmatch(r"(\d{2})(\d{2})(\d{2})_(\d+)", seg_dir.name)
+                if match is None:
+                    continue
+                hour, minute, second, duration_s = (int(part) for part in match.groups())
+                start = datetime.combine(day, time(hour, minute, second), tzinfo=backdrop.LONDON_TZ)
+                duration = int(duration_s)
+                if duration == 0 and stream_dir.name == "import.image":
+                    kind, end = "instant", start
+                elif duration == 0:
+                    kind, end = "point", start
+                else:
+                    kind, end = "span", start + timedelta(seconds=duration)
+                for bed, wake in windows:
+                    if backdrop._obstacle_overlaps(bed, wake, start, end, kind):
+                        overlaps.append(f"{day_dir.name}/{stream_dir.name}/{seg_dir.name}")
+    assert overlaps == []
+    assert not (journal / "chronicle" / "20250517" / "memos" / "010000_60").exists()
+    assert (journal / "chronicle" / "20250518" / "memos" / "010000_60").is_dir()
+    assert not (journal / "chronicle" / "20250809" / "talk" / "010500_120").exists()
+    assert (journal / "chronicle" / "20250810" / "talk" / "010500_120").is_dir()
+    assert not (journal / "chronicle" / "20251108" / "memos" / "000000_60").exists()
+    assert (journal / "chronicle" / "20251109" / "memos" / "000000_60").is_dir()
+    assert not (journal / "chronicle" / "20250207" / "memos" / "021000_60").exists()
+    assert (journal / "chronicle" / "20250208" / "memos" / "021000_60").is_dir()

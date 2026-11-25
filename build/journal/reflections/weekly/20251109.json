@@ -53,9 +53,9 @@
         "uri": "sol://chronicle/20251109/talents/morning_briefing",
         "briefing_day": "20251109",
         "refs": [
+          "sol://facets/writing/activities/20251109#memo_000000_60",
           "sol://facets/writing/activities/20251109#photo_083000_0",
-          "sol://facets/household/activities/20251109#meeting_105000_720",
-          "sol://facets/writing/activities/20251109#frame_142000_240"
+          "sol://facets/household/activities/20251109#meeting_105000_720"
         ]
       }
     },
@@ -161,6 +161,16 @@
       "id": "s-20251109-0",
       "key": "said_20251109_0",
       "day": "20251109",
+      "quote": "He gets it wrong by a minute. One minute. That's all the villainy there is in it.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20251109#memo_000000_60"
+      }
+    },
+    {
+      "id": "s-20251109-1",
+      "key": "said_20251109_1",
+      "day": "20251109",
       "quote": "Someone must say it plainly to the living. The Friar can have the length.",
       "source": {
         "kind": "activity",
@@ -168,8 +178,8 @@
       }
     },
     {
-      "id": "s-20251111-1",
-      "key": "said_20251111_1",
+      "id": "s-20251111-2",
+      "key": "said_20251111_2",
       "day": "20251111",
       "quote": "I can turn a cheese. I cannot price one.",
       "source": {
@@ -178,8 +188,8 @@
       }
     },
     {
-      "id": "s-20251112-2",
-      "key": "said_20251112_2",
+      "id": "s-20251112-3",
+      "key": "said_20251112_3",
       "day": "20251112",
       "quote": "It's a sonnet, Abel. They're allowed one.",
       "source": {
@@ -188,8 +198,8 @@
       }
     },
     {
-      "id": "s-20251113-3",
-      "key": "said_20251113_3",
+      "id": "s-20251113-4",
+      "key": "said_20251113_4",
       "day": "20251113",
       "quote": "I have been cut by that man twice. I have never felt so slighted as today.",
       "source": {
@@ -198,8 +208,8 @@
       }
     },
     {
-      "id": "s-20251114-4",
-      "key": "said_20251114_4",
+      "id": "s-20251114-5",
+      "key": "said_20251114_5",
       "day": "20251114",
       "quote": "Two maids in the wood. No scene for them. Not today.",
       "source": {
@@ -208,8 +218,8 @@
       }
     },
     {
-      "id": "s-20251115-5",
-      "key": "said_20251115_5",
+      "id": "s-20251115-6",
+      "key": "said_20251115_6",
       "day": "20251115",
       "quote": "The two pounds stay out. I did not ask them, and I will not lend.",
       "source": {

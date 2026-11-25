@@ -34,7 +34,6 @@ Saturday you bought the thin book for sixpence. You said nothing. At home you co
 - 2025-05-14 · 12:10 meeting · william_shakespeare: "I will not put the loaf into the play to make the king wiser."
 - 2025-05-15 · 10:40 meeting · william_shakespeare: "I am not drafting a play out of Caesar. I am reading him where he hangs."
 - 2025-05-16 · 09:05 meeting · william_shakespeare: "The empty yard changed more than it did under the louder reading."
-- 2025-05-17 · 01:00 memo · william_shakespeare: "I'll not write better this year."
 
 ## Observations
 

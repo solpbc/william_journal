@@ -53,9 +53,9 @@
         "uri": "sol://chronicle/20250518/talents/morning_briefing",
         "briefing_day": "20250518",
         "refs": [
+          "sol://facets/writing/activities/20250518#memo_010000_60",
           "sol://facets/household/activities/20250518#meeting_074000_720",
-          "sol://facets/household/activities/20250518#meeting_091500_360",
-          "sol://facets/writing/activities/20250518#frame_114000_480"
+          "sol://facets/household/activities/20250518#meeting_091500_360"
         ]
       }
     },
@@ -161,6 +161,16 @@
       "id": "s-20250518-0",
       "key": "said_20250518_0",
       "day": "20250518",
+      "quote": "I'll not write better this year.",
+      "source": {
+        "kind": "activity",
+        "uri": "sol://facets/writing/activities/20250518#memo_010000_60"
+      }
+    },
+    {
+      "id": "s-20250518-1",
+      "key": "said_20250518_1",
+      "day": "20250518",
       "quote": "I sat too long, and the page is no better for that.",
       "source": {
         "kind": "activity",
@@ -168,8 +178,8 @@
       }
     },
     {
-      "id": "s-20250519-1",
-      "key": "said_20250519_1",
+      "id": "s-20250519-2",
+      "key": "said_20250519_2",
       "day": "20250519",
       "quote": "I should like to see how a giant is done.",
       "source": {
@@ -178,8 +188,8 @@
       }
     },
     {
-      "id": "s-20250520-2",
-      "key": "said_20250520_2",
+      "id": "s-20250520-3",
+      "key": "said_20250520_3",
       "day": "20250520",
       "quote": "A looking-glass against a giant.",
       "source": {
@@ -188,8 +198,8 @@
       }
     },
     {
-      "id": "s-20250521-3",
-      "key": "said_20250521_3",
+      "id": "s-20250521-4",
+      "key": "said_20250521_4",
       "day": "20250521",
       "quote": "There is no fool in this one.",
       "source": {
@@ -198,8 +208,8 @@
       }
     },
     {
-      "id": "s-20250522-4",
-      "key": "said_20250522_4",
+      "id": "s-20250522-5",
+      "key": "said_20250522_5",
       "day": "20250522",
       "quote": "The dead are not tidy.",
       "source": {
@@ -208,8 +218,8 @@
       }
     },
     {
-      "id": "s-20250522-5",
-      "key": "said_20250522_5",
+      "id": "s-20250522-6",
+      "key": "said_20250522_6",
       "day": "20250522",
       "quote": "She knew me by my hand.",
       "source": {
@@ -218,8 +228,8 @@
       }
     },
     {
-      "id": "s-20250523-6",
-      "key": "said_20250523_6",
+      "id": "s-20250523-7",
+      "key": "said_20250523_7",
       "day": "20250523",
       "quote": "The letter is the one I did not write.",
       "source": {
@@ -228,8 +238,8 @@
       }
     },
     {
-      "id": "s-20250524-7",
-      "key": "said_20250524_7",
+      "id": "s-20250524-8",
+      "key": "said_20250524_8",
       "day": "20250524",
       "quote": "He's given up the crown. He sends for a glass to see what a face looks like that's no king. He looks. Then he breaks it.",
       "source": {

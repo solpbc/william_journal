@@ -6,7 +6,7 @@ Given a prompt set JSON (such as [`prompts_sample_round.json`](prompts_sample_ro
 
 1. Reads a Gemini API key at runtime from `GEMINI_API_KEY`, or from a key file named by `--key-file` or `WILLIAM_GEMINI_KEY_FILE` (and redacts it from any error/log output; the key is never printed, logged, or written to disk).
 2. Calls the latest Google Gemini image generation model (`gemini-nano-banana-2.1`) via `POST https://generativelanguage.googleapis.com/v1beta/models/gemini-nano-banana-2.1:generateContent`.
-3. Enforces hard caps on total image count (`--max-images`, default `60`) and cumulative USD cost (`--budget-usd`, default `$25.00`).
+3. Enforces hard caps on total image count (`--max-images`, default `60`) and USD spend (`--budget-usd`, default `$25.00`). The spend cap covers everything paid into the `--out` directory across runs, kept in `manifest.json` as `spent_usd`: an image you delete or regenerate still counts, so a retry passes the job's whole budget again, not what remains. `total_cost_usd` is only the keepers' cost. A manifest from before 2026-11-23 has no `spent_usd`, and its keepers' total stands in for it.
 4. Writes generated JPEGs (`images/*.jpg`), a full provenance and token/cost manifest (`manifest.json`), and a self-contained static HTML side-by-side comparison page (`index.html`) under the requested `--out` directory (for example, `photos/samples/261117-round1/`).
 5. If raw generated images exceed `--max-repo-mb` (default `50.0` MB), preserves the untouched full-resolution originals in `/var/tmp/william-photogen-<run>/` (with a `/var/tmp/.sweep-protect.william-photogen-<run>` sidecar and `original_path` recorded in `manifest.json`) and commits optimized `1200x896` JPEGs in the repo.
 

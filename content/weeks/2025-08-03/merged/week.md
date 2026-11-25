@@ -26,8 +26,6 @@ On Friday you looked at hose. At four you put thirty shillings in Anne's lap, ov
 - 2025-08-06 · 15:40 meeting · william_shakespeare: "It is a history until the colander falls off. After that it is a jig, and the jig is not mine."
 - 2025-08-07 · 10:40 meeting · william_shakespeare: "The twenty is for the timber. The name is for the dozen. I said both before I had finished thinking the second."
 - 2025-08-08 · 16:00 meeting · william_shakespeare: "A house. Here. I've said so."
-- 2025-08-09 · 02:10 memo · william_shakespeare: "He never once asks her. She does it all."
-- 2025-08-09 · 02:10 memo · william_shakespeare: "Parting is such sweet sorrow. God. Leave it. Leave it in."
 
 ## Observations
 

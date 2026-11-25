@@ -20,6 +20,7 @@ On Thursday Tilney signed the last leaf and left every line standing. He found n
 
 ## Said
 
+- 2025-11-09 · 00:00 memo · william_shakespeare: "He gets it wrong by a minute. One minute. That's all the villainy there is in it."
 - 2025-11-09 · 21:15 memo · william_shakespeare: "Someone must say it plainly to the living. The Friar can have the length."
 - 2025-11-11 · 10:40 meeting · william_shakespeare: "I can turn a cheese. I cannot price one."
 - 2025-11-12 · 09:10 meeting · william_shakespeare: "It's a sonnet, Abel. They're allowed one."

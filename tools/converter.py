@@ -674,6 +674,7 @@ def parse_day_markdown(path: Path) -> DaySpec:
     if not segments:
         raise ContentFormatError(f"{path}: day file has no segments")
     _resolve_continuations(path, segments)
+    assign_cross_midnight(path, segments)
 
     return DaySpec(
         day_iso=stem,
@@ -869,6 +870,96 @@ def classify_idle_segment(seg: SegmentSpec) -> str:
     if seg.kind == "frame" and seg.surface == "draft" and any(frame.text for frame in seg.frames):
         return "writing"
     return "idle"
+
+
+_CARRY_JUMP_MIN = 6 * 60
+
+
+def _hhmm_minutes(hhmm: str) -> int:
+    hour, minute = hhmm.split(":")
+    return int(hour) * 60 + int(minute)
+
+
+def assign_cross_midnight(path: Path, segments: list[SegmentSpec]) -> None:
+    """Move a post-midnight run onto the next calendar day.
+
+    A day file is one waking day. When a heading jumps backwards by more than
+    six hours, that heading and every heading after it happened after midnight.
+    They belong to the next morning. The file date is the base, so the run
+    moves one day rather than one day per jump. A continuation cannot split
+    from its head.
+    """
+    if len(segments) < 2:
+        return
+    carry_from: int | None = None
+    previous = _hhmm_minutes(segments[0].start_hhmm)
+    for index, seg in enumerate(segments[1:], start=1):
+        current = _hhmm_minutes(seg.start_hhmm)
+        if current < previous - _CARRY_JUMP_MIN:
+            carry_from = index
+            break
+        previous = current
+    if carry_from is None:
+        return
+    next_day = (date.fromisoformat(path.stem) + timedelta(days=1)).isoformat()
+    for seg in segments[carry_from:]:
+        seg.day_iso = next_day
+    for seg in segments:
+        if seg.head is not None and seg.day_iso != seg.head.day_iso:
+            raise ContentFormatError(
+                f"{path.name} [{seg.start_hhmm} {seg.kind}]: continues across midnight "
+                f"({seg.head.day_iso} {seg.head.start_hhmm} -> {seg.day_iso} {seg.start_hhmm})"
+            )
+
+
+def _previous_day_markdown(content_dir: Path, prev_iso: str) -> Path | None:
+    """The previous morning's day file, including Saturday's file from the prior week."""
+    direct = content_dir / f"{prev_iso}.md"
+    if direct.is_file():
+        return direct
+    week_dir = content_dir.parent
+    if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", week_dir.name):
+        return None
+    prev_date = date.fromisoformat(prev_iso)
+    prev_sunday = prev_date - timedelta(days=(prev_date.weekday() + 1) % 7)
+    candidate = week_dir.parent / prev_sunday.isoformat() / content_dir.name / f"{prev_iso}.md"
+    if candidate.is_file():
+        return candidate
+    return None
+
+
+def _previous_day_spec(
+    content_dir: Path,
+    day_iso: str,
+    specs_by_iso: dict[str, DaySpec],
+) -> DaySpec | None:
+    prev_iso = (date.fromisoformat(day_iso) - timedelta(days=1)).isoformat()
+    if prev_iso in specs_by_iso:
+        return specs_by_iso[prev_iso]
+    prev_path = _previous_day_markdown(content_dir, prev_iso)
+    if prev_path is None:
+        return None
+    return parse_day_markdown(prev_path)
+
+
+def _segments_to_write(
+    day_spec: DaySpec,
+    content_dir: Path,
+    specs_by_iso: dict[str, DaySpec],
+) -> list[SegmentSpec]:
+    """Segments that land on this calendar day: this file's own, plus the previous file's carry.
+
+    A carried run is not written while converting the file it was authored in.
+    Sunday's conversion reads Saturday's markdown itself, so week order does not matter.
+    """
+    own = [seg for seg in day_spec.segments if seg.day_iso == day_spec.day_iso]
+    prev_spec = _previous_day_spec(content_dir, day_spec.day_iso, specs_by_iso)
+    carried = []
+    if prev_spec is not None:
+        carried = [seg for seg in prev_spec.segments if seg.day_iso == day_spec.day_iso]
+    if not carried:
+        return own
+    return sorted([*carried, *own], key=lambda seg: seg.start_hhmm)
 
 
 def _resolve_continuations(path: Path, segments: list[SegmentSpec]) -> None:
@@ -2193,6 +2284,7 @@ def convert_content_to_journal(
         raise ContentFormatError(f"No YYYY-MM-DD.md day files found in {content_dir}")
 
     day_specs = [parse_day_markdown(p) for p in day_files]
+    specs_by_iso = {spec.day_iso: spec for spec in day_specs}
     week_file = content_dir / "week.md"
     week_spec = parse_week_markdown(week_file) if week_file.is_file() else None
 
@@ -2218,6 +2310,7 @@ def convert_content_to_journal(
         # Read real photos before the stream directories are removed. A re-convert
         # would otherwise replace them with the 1x1 placeholder.
         preserved_photos = _preserved_photo_bytes(day_dir, day_spec)
+        written_segments = _segments_to_write(day_spec, content_dir, specs_by_iso)
 
         # Clean any pre-existing content stream directories and receipt files for this day
         for stream_name, _, _ in STREAM_CONFIG_BY_KIND.values():
@@ -2259,7 +2352,7 @@ def convert_content_to_journal(
                 "generated": f"{next_day.isoformat()}T06:00:00Z",
                 "model": "william-journal-generator",
                 "sources": {
-                    "segments": len(day_spec.segments),
+                    "segments": len(written_segments),
                 },
                 "gaps": [],
                 "coverage_preamble": day_spec.briefing_coverage,
@@ -2283,7 +2376,7 @@ def convert_content_to_journal(
 
         records_by_head: dict[int, dict[str, Any]] = {}
         runs: dict[int, list[SegmentSpec]] = {}
-        for seg_idx, seg in enumerate(day_spec.segments):
+        for seg_idx, seg in enumerate(written_segments):
             total_segments += 1
             act_rec, det_entities, seg_receipts = _write_segment_files(
                 journal_dir=journal_dir,
@@ -2298,7 +2391,7 @@ def convert_content_to_journal(
             if act_rec is not None:
                 records_by_head[id(seg)] = act_rec
                 activities_by_facet.setdefault(seg.facet, []).append(act_rec)
-                all_activities_by_day.setdefault(day_spec.day_iso, []).append(act_rec)
+                all_activities_by_day.setdefault(seg.day_iso, []).append(act_rec)
             day_receipts.extend(seg_receipts)
 
             facet_ent_map = entities_by_facet.setdefault(seg.facet, {})

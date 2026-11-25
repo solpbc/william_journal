@@ -16,6 +16,7 @@ You began the week with a king still coming down a wall, and you ended it with t
 
 ## Said
 
+- 2025-05-18 · 01:00 memo · william_shakespeare: "I'll not write better this year."
 - 2025-05-18 · 07:40 meeting · william_shakespeare: "I sat too long, and the page is no better for that."
 - 2025-05-19 · 15:25 meeting · william_shakespeare: "I should like to see how a giant is done."
 - 2025-05-20 · 17:45 memo · william_shakespeare: "A looking-glass against a giant."

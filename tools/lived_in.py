@@ -23,6 +23,9 @@ CATEGORIES = [
     "notes", "documents", "calendar", "places", "photos",
 ]
 CONNECTED_AT = "2025-01-03T19:45:00Z"
+# One-second calls written after conversion. Sleep clearance reads these keys.
+SEARCH_SEGMENT = "211500_1"
+MEMORY_SEGMENT = "211600_1"
 
 # The authored summaries already reflect these facts. The edits retain the owner's account.
 CORRECTIONS = (
@@ -113,7 +116,7 @@ def install_agent(journal: Path) -> None:
     source_key = f"sha256:{SOURCE}"
     previous_day = previous_segment = None
     for seq, (day, note) in enumerate(NOTES, start=1):
-        segment = "211600_1"
+        segment = MEMORY_SEGMENT
         created_at = iso_at(day, "21:16:00")
         coordinate = {"day": day, "stream": stream, "segment": segment}
         origin = {
@@ -157,7 +160,7 @@ def install_agent(journal: Path) -> None:
         record = next(row for row in rows_at(path) if row["id"] == activity)
         result = {"title": record["title"], "day": day, "facet": facet, "id": activity}
         digest = hashlib.sha256(json.dumps(result, sort_keys=True).encode()).hexdigest()
-        write_call(journal, day, "211500_1", "search", {"query": query}, {
+        write_call(journal, day, SEARCH_SEGMENT, "search", {"query": query}, {
             "count": 1, "targets": [f"{path.relative_to(journal)}#{activity}"], "digest": digest,
         })
 

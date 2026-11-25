@@ -54,6 +54,7 @@ if __package__ in (None, ""):
         CastEntity,
         generate_body_metrics_for_day,
         resolve_day_type_key,
+        SPECIAL_DAY_BODY_OVERRIDES,
     )
 else:
     from .contracts import (
@@ -72,6 +73,7 @@ else:
         CastEntity,
         generate_body_metrics_for_day,
         resolve_day_type_key,
+        SPECIAL_DAY_BODY_OVERRIDES,
     )
 
 
@@ -83,6 +85,8 @@ DEFAULT_OUTPUT_JOURNAL = PROJECT_ROOT / "build" / "journal"
 
 LONDON_TZ = ZoneInfo("Europe/London")
 SETUP_COMPLETED_AT_MS = 1735689600000  # 2025-01-01T00:00:00Z
+# Wall-to-wall days. Sleep clamping is universal (see `_sleep_intervals`).
+# These three still thin the location track and feed heart-rate exertion spans.
 PACKED_DAYS = {
     "2025-08-10": "2025-08-10",
     "2025-10-22": "2025-10-19",
@@ -707,19 +711,274 @@ def _packed_segments(date_iso: str):
     return parse_day_markdown(path).segments
 
 
-def _body_sleep_window(day: date, metrics: dict[str, Any]) -> tuple[datetime, datetime]:
-    wake = datetime.combine(day, _parse_hhmm(metrics["wake_time"]), tzinfo=LONDON_TZ)
-    bed = wake - timedelta(minutes=metrics["sleep_min"])
-    for seg in _packed_segments(day.isoformat()):
-        start = datetime.combine(day, _parse_hhmm(seg.start_hhmm), tzinfo=LONDON_TZ)
-        if bed <= start < wake:
-            wake = start
-    previous_day = day - timedelta(days=1)
-    for seg in _packed_segments(previous_day.isoformat()):
-        start = datetime.combine(previous_day, _parse_hhmm(seg.start_hhmm), tzinfo=LONDON_TZ)
-        if start.hour >= 18:
-            bed = max(bed, start + timedelta(seconds=seg.duration_sec))
-    return bed, wake
+# A wake within this of a morning segment is pulled back to the segment.
+# An evening segment that ends within this of bedtime pushes bedtime out.
+# Interior wakings closer than this are one waking, not two sleeps.
+_WAKE_PULL = timedelta(minutes=45)
+_BED_PUSH = timedelta(minutes=60)
+_HOLE_MERGE = timedelta(minutes=30)
+
+_DAY_FILE_INDEX: dict[str, Path] | None = None
+_OBSTACLE_CACHE: dict[str, list[tuple[datetime, datetime, str]]] = {}
+_IMPORT_OBSTACLES: dict[str, list[tuple[datetime, datetime, str]]] | None = None
+_LIVED_IN_OBSTACLES: dict[str, list[tuple[datetime, datetime, str]]] | None = None
+
+
+def _wake_jitter_minutes(day: date) -> int:
+    """±10 to ±15 minutes, or 0 when the day names its own wake.
+
+    Seeded apart from the body-metrics draw, so steps, resting heart rate,
+    HRV and the stage minutes do not move.
+    """
+    iso = day.isoformat()
+    if "wake_time" in SPECIAL_DAY_BODY_OVERRIDES.get(iso, {}):
+        return 0
+    seed = int(hashlib.sha256(f"william-journal:wake-jitter:{iso}".encode("utf-8")).hexdigest()[:16], 16)
+    rng = random.Random(seed)
+    magnitude = rng.randint(10, 15)
+    sign = -1 if rng.randrange(2) == 0 else 1
+    return sign * magnitude
+
+
+def _day_file_index() -> dict[str, Path]:
+    global _DAY_FILE_INDEX
+    if _DAY_FILE_INDEX is None:
+        found: dict[str, Path] = {}
+        for path in (PROJECT_ROOT / "content" / "weeks").glob("*/merged/*.md"):
+            if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", path.stem):
+                continue
+            if path.stem in found:
+                raise RuntimeError(f"two merged day files for {path.stem}")
+            found[path.stem] = path
+        _DAY_FILE_INDEX = found
+    return _DAY_FILE_INDEX
+
+
+def _import_obstacles() -> dict[str, list[tuple[datetime, datetime, str]]]:
+    """Manifest items, keyed by the day they are stored on. Photos are instants."""
+    global _IMPORT_OBSTACLES
+    if _IMPORT_OBSTACLES is not None:
+        return _IMPORT_OBSTACLES
+    path = PROJECT_ROOT / "content" / "imports" / "manifest.json"
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    by_day: dict[str, list[tuple[datetime, datetime, str]]] = {}
+    for item in payload["items"]:
+        stream = item["stream"]
+        if stream in ("phone", "import.apple_health", "calendar"):
+            continue
+        day_iso = item["day_iso"]
+        start = datetime.combine(date.fromisoformat(day_iso), _parse_hhmm(item["start_hhmm"]), tzinfo=LONDON_TZ)
+        duration = int(item["duration_sec"])
+        if duration == 0 and stream == "import.image":
+            kind, end = "instant", start
+        elif duration == 0:
+            kind, end = "point", start
+        else:
+            kind, end = "span", start + timedelta(seconds=duration)
+        by_day.setdefault(day_iso, []).append((start, end, kind))
+    _IMPORT_OBSTACLES = by_day
+    return by_day
+
+
+def _assigned_obstacles(day_iso: str) -> list[tuple[datetime, datetime, str]]:
+    """Chronicle segments whose assigned day is `day_iso`, plus that day's imports.
+
+    Photos use the journal's instant predicate (`HHMMSS_0`), not the markdown minute.
+    """
+    if day_iso in _OBSTACLE_CACHE:
+        return _OBSTACLE_CACHE[day_iso]
+    if __package__ in (None, ""):
+        from converter import parse_day_markdown
+    else:
+        from .converter import parse_day_markdown
+
+    obstacles: list[tuple[datetime, datetime, str]] = []
+    files = []
+    own = _day_file_index().get(day_iso)
+    if own is not None:
+        files.append(own)
+    previous = (date.fromisoformat(day_iso) - timedelta(days=1)).isoformat()
+    prev_path = _day_file_index().get(previous)
+    if prev_path is not None:
+        files.append(prev_path)
+    for path in files:
+        for seg in parse_day_markdown(path).segments:
+            if seg.day_iso != day_iso:
+                continue
+            start = datetime.combine(date.fromisoformat(seg.day_iso), _parse_hhmm(seg.start_hhmm), tzinfo=LONDON_TZ)
+            if seg.kind == "photo":
+                obstacles.append((start, start, "instant"))
+            else:
+                obstacles.append((start, start + timedelta(seconds=seg.duration_sec), "span"))
+    obstacles.extend(_import_obstacles().get(day_iso, []))
+    obstacles.extend(_lived_in_obstacles().get(day_iso, []))
+    _OBSTACLE_CACHE[day_iso] = obstacles
+    return obstacles
+
+
+def _lived_in_obstacles() -> dict[str, list[tuple[datetime, datetime, str]]]:
+    """Agent notes and searches `lived_in.py` writes after the day files are converted.
+
+    They are chronicle segments. A bedtime that moves earlier can cover the 21:15
+    search and the 21:16 note, so the clamp has to see them.
+    """
+    global _LIVED_IN_OBSTACLES
+    if _LIVED_IN_OBSTACLES is not None:
+        return _LIVED_IN_OBSTACLES
+    if __package__ in (None, ""):
+        from lived_in import MEMORY_SEGMENT, NOTES, SEARCH_SEGMENT, VISITS
+    else:
+        from .lived_in import MEMORY_SEGMENT, NOTES, SEARCH_SEGMENT, VISITS
+
+    def _span(day_compact: str, segment: str) -> tuple[str, datetime, datetime]:
+        iso = f"{day_compact[:4]}-{day_compact[4:6]}-{day_compact[6:]}"
+        hour, minute, second = int(segment[0:2]), int(segment[2:4]), int(segment[4:6])
+        duration = int(segment.split("_", 1)[1])
+        start = datetime.combine(date.fromisoformat(iso), time(hour, minute, second), tzinfo=LONDON_TZ)
+        return iso, start, start + timedelta(seconds=duration)
+
+    by_day: dict[str, list[tuple[datetime, datetime, str]]] = {}
+    for day_compact, _note in NOTES:
+        iso, start, end = _span(day_compact, MEMORY_SEGMENT)
+        by_day.setdefault(iso, []).append((start, end, "span"))
+    for day_compact, _facet, _activity, _query in VISITS:
+        iso, start, end = _span(day_compact, SEARCH_SEGMENT)
+        by_day.setdefault(iso, []).append((start, end, "span"))
+    _LIVED_IN_OBSTACLES = by_day
+    return by_day
+
+
+def _obstacles_for_sleep(day: date) -> list[tuple[datetime, datetime, str]]:
+    """Segments that can meet the sleep ending on `day`: that morning and the evening before."""
+    previous = (day - timedelta(days=1)).isoformat()
+    return [*_assigned_obstacles(previous), *_assigned_obstacles(day.isoformat())]
+
+
+def _obstacle_overlaps(
+    bed: datetime,
+    wake: datetime,
+    start: datetime,
+    end: datetime,
+    kind: str,
+) -> bool:
+    """The journal predicate. Instants include the start; a point must be strictly inside."""
+    if kind == "instant":
+        return bed <= start < wake
+    if kind == "point":
+        return bed < start < wake
+    return start < wake and end > bed
+
+
+def _merge_removals(
+    bed: datetime,
+    wake: datetime,
+    removals: list[tuple[datetime, datetime]],
+) -> list[tuple[datetime, datetime]]:
+    """Drop interior wakings from `[bed, wake)`. A zero-width removal only splits."""
+    clipped: list[tuple[datetime, datetime]] = []
+    for start, end in removals:
+        start = max(start, bed)
+        end = min(end, wake)
+        if end < start:
+            continue
+        clipped.append((start, end))
+    clipped.sort()
+    merged: list[list[datetime]] = []
+    for start, end in clipped:
+        if not merged:
+            merged.append([start, end])
+            continue
+        prev_start, prev_end = merged[-1]
+        gap = start - prev_end
+        both_real = end > start and prev_end > prev_start
+        if both_real and timedelta(0) <= gap < _HOLE_MERGE:
+            merged[-1][1] = max(prev_end, end)
+        elif start <= prev_end:
+            merged[-1][1] = max(prev_end, end)
+        else:
+            merged.append([start, end])
+    intervals: list[tuple[datetime, datetime]] = []
+    cursor = bed
+    for start, end in merged:
+        if start > cursor:
+            intervals.append((cursor, start))
+        cursor = max(cursor, end if end > start else start)
+    if cursor < wake:
+        intervals.append((cursor, wake))
+    return [(start, end) for start, end in intervals if end > start]
+
+
+def _clamp_sleep_window(
+    day: date,
+    bed: datetime,
+    wake: datetime,
+    obstacles: list[tuple[datetime, datetime, str]],
+) -> list[tuple[datetime, datetime]]:
+    """Pull a near wake, push a near bedtime, and split what is left in the middle.
+
+    Wake only moves earlier. Bed only moves later. A window that closes is an
+    error, not a silent empty night.
+    """
+    anchor_bed, anchor_wake = bed, wake
+    overlapping = [
+        item for item in obstacles if _obstacle_overlaps(bed, wake, item[0], item[1], item[2])
+    ]
+    wake_side = [item for item in overlapping if item[0] >= anchor_wake - _WAKE_PULL]
+    if wake_side:
+        wake = min(item[0] for item in wake_side)
+    bed_side = []
+    for item in overlapping:
+        if item in wake_side:
+            continue
+        start, end, kind = item
+        if kind == "instant":
+            finished = start
+        elif kind == "point":
+            finished = start
+        else:
+            finished = end
+        if finished <= anchor_bed + _BED_PUSH:
+            bed_side.append(item)
+    for start, end, kind in bed_side:
+        if kind == "instant":
+            bed = max(bed, start + timedelta(seconds=1))
+        elif kind == "point":
+            bed = max(bed, start)
+        else:
+            bed = max(bed, end)
+    if wake <= bed:
+        raise RuntimeError(
+            f"{day.isoformat()}: sleep window collapsed to {bed.isoformat()} .. {wake.isoformat()}"
+        )
+    removals: list[tuple[datetime, datetime]] = []
+    for start, end, kind in obstacles:
+        if not _obstacle_overlaps(bed, wake, start, end, kind):
+            continue
+        if kind == "instant":
+            removals.append((start, start + timedelta(seconds=1)))
+        elif kind == "point":
+            removals.append((start, start))
+        else:
+            removals.append((start, end))
+    intervals = _merge_removals(bed, wake, removals)
+    if not intervals:
+        raise RuntimeError(f"{day.isoformat()}: sleep window {bed.isoformat()} .. {wake.isoformat()} left nothing")
+    for left, right in intervals:
+        for start, end, kind in obstacles:
+            if _obstacle_overlaps(left, right, start, end, kind):
+                raise RuntimeError(
+                    f"{day.isoformat()}: sleep {left.isoformat()} .. {right.isoformat()} "
+                    f"still meets {start.isoformat()} ({kind})"
+                )
+    return intervals
+
+
+def _sleep_intervals(day: date, metrics: dict[str, Any]) -> list[tuple[datetime, datetime]]:
+    """The night that ends on `day`, after jitter and after the chronicle is kept clear of it."""
+    nominal = datetime.combine(day, _parse_hhmm(metrics["wake_time"]), tzinfo=LONDON_TZ)
+    wake = nominal + timedelta(minutes=_wake_jitter_minutes(day))
+    bed = wake - timedelta(minutes=int(metrics["sleep_min"]))
+    return _clamp_sleep_window(day, bed, wake, _obstacles_for_sleep(day))
 
 
 def _heart_rate_rows(
@@ -727,9 +986,8 @@ def _heart_rate_rows(
     metrics: dict[str, Any],
     day_type: str,
     stops: list[PlaceStop],
-    bed: datetime,
-    wake: datetime,
-    next_bed: datetime,
+    intervals: list[tuple[datetime, datetime]],
+    next_intervals: list[tuple[datetime, datetime]],
 ) -> list[dict[str, Any]]:
     """Five-minute waking samples and half-hour sleep samples, on a UTC clock."""
     def local_clock(at: time) -> datetime:
@@ -786,14 +1044,18 @@ def _heart_rate_rows(
 
     rng = random.Random(f"william-journal:heart-rate:{day.isoformat()}")
     output = []
-    bed_utc = bed.astimezone(timezone.utc)
-    wake_utc = wake.astimezone(timezone.utc)
-    next_bed_utc = next_bed.astimezone(timezone.utc)
+
+    def _utc_spans(spans: list[tuple[datetime, datetime]]) -> list[tuple[datetime, datetime]]:
+        return [(start.astimezone(timezone.utc), end.astimezone(timezone.utc)) for start, end in spans]
+
+    today_utc = _utc_spans(intervals)
+    next_utc = _utc_spans(next_intervals)
+    edges = [edge for span in (*today_utc, *next_utc) for edge in span]
     end_utc = cutoff.astimezone(timezone.utc)
     at = local_clock(time.min).astimezone(timezone.utc)
     while at < end_utc:
         local = at.astimezone(LONDON_TZ)
-        asleep = bed_utc <= at < wake_utc or at >= next_bed_utc
+        asleep = any(start <= at < end for start, end in (*today_utc, *next_utc))
         if asleep:
             target = metrics["hr_min_bpm"] + 2
         else:
@@ -811,15 +1073,112 @@ def _heart_rate_rows(
             "v": 1,
             "value": str(rate),
         })
-        # Anchor each waking series at the recorded wake, and its first sleep
-        # sample at bedtime even when the interval is off the five-minute grid.
+        # Land on every sleep edge, including a waking in the middle of the night,
+        # even when that edge is off the five-minute grid.
         interval = timedelta(minutes=30 if asleep else 5)
-        next_boundary = min(
-            (edge for edge in (bed_utc, wake_utc, next_bed_utc) if edge > at),
-            default=end_utc,
-        )
+        next_boundary = min((edge for edge in edges if edge > at), default=end_utc)
         at = min(at + interval, next_boundary)
     return output
+
+
+def _sleep_body_rows(
+    day_compact: str,
+    intervals: list[tuple[datetime, datetime]],
+    metrics: dict[str, Any],
+) -> list[dict[str, Any]]:
+    """One sleep experience per interval, with stages laid across the asleep minutes.
+
+    A stage that crosses a waking is split. The first piece keeps the unsuffixed
+    id; further pieces are numbered. Proportions stay the drawn 18% deep and
+    22% REM of the minutes that remain.
+    """
+    experience_ids = [
+        f"experience-sleep-{day_compact}" if index == 0 else f"experience-sleep-{day_compact}-{index + 1}"
+        for index in range(len(intervals))
+    ]
+    rows: list[dict[str, Any]] = []
+    assembled = (
+        "assembled from this source's adjacent sleep stage intervals 30 minutes "
+        "or less apart, not a session Apple Health reported"
+    )
+    for experience_id, (start, end) in zip(experience_ids, intervals):
+        rows.append(
+            {
+                "assembled": assembled,
+                "end": end.isoformat(),
+                "experience": "sleep",
+                "id": experience_id,
+                "kind": "experience",
+                "label": "night",
+                "source": "apple_health",
+                "start": start.isoformat(),
+                "type": "HKCategoryTypeIdentifierSleepAnalysis",
+                "v": 1,
+            }
+        )
+
+    weights = [
+        ("deep", int(metrics["deep_min"]), "HKCategoryValueSleepAnalysisAsleepDeep", "asleep deep"),
+        ("core", int(metrics["core_min"]), "HKCategoryValueSleepAnalysisAsleepCore", "asleep core"),
+        ("rem", int(metrics["rem_min"]), "HKCategoryValueSleepAnalysisAsleepREM", "asleep rem"),
+        ("awake", int(metrics["awake_min"]), "HKCategoryValueSleepAnalysisAwake", "awake"),
+    ]
+    total = sum(int((end - start).total_seconds()) for start, end in intervals)
+    planned = sum(mins for _, mins, _, _ in weights)
+    if total <= 0 or planned <= 0:
+        raise RuntimeError(f"{day_compact}: cannot lay sleep stages across {total}s")
+    assigned: list[int] = []
+    used = 0
+    for index, (_, mins, _, _) in enumerate(weights):
+        if index == len(weights) - 1:
+            assigned.append(total - used)
+        else:
+            secs = int(round(mins * total / planned))
+            secs = max(0, min(secs, total - used))
+            assigned.append(secs)
+            used += secs
+
+    cursor_index = 0
+    cursor = intervals[0][0]
+    seen: dict[str, int] = {}
+    covered = 0
+    for (slug, _mins, hk_type, label), secs in zip(weights, assigned):
+        left = secs
+        while left > 0 and cursor_index < len(intervals):
+            interval_end = intervals[cursor_index][1]
+            room = int((interval_end - cursor).total_seconds())
+            if room <= 0:
+                cursor_index += 1
+                if cursor_index < len(intervals):
+                    cursor = intervals[cursor_index][0]
+                continue
+            take = min(room, left)
+            piece_end = cursor + timedelta(seconds=take)
+            seen[slug] = seen.get(slug, 0) + 1
+            stage_id = f"stage-{slug}-{day_compact}" if seen[slug] == 1 else f"stage-{slug}-{day_compact}-{seen[slug]}"
+            rows.append(
+                {
+                    "end": piece_end.isoformat(),
+                    "id": stage_id,
+                    "kind": "stage",
+                    "label": label,
+                    "of": experience_ids[cursor_index],
+                    "source": "apple_health",
+                    "start": cursor.isoformat(),
+                    "type": hk_type,
+                    "v": 1,
+                }
+            )
+            covered += take
+            cursor = piece_end
+            left -= take
+            if cursor >= interval_end:
+                cursor_index += 1
+                if cursor_index < len(intervals):
+                    cursor = intervals[cursor_index][0]
+    if covered != total:
+        raise RuntimeError(f"{day_compact}: sleep stages cover {covered}s of {total}s")
+    return rows
 
 
 def build_body_rows_for_day(
@@ -840,62 +1199,14 @@ def build_body_rows_for_day(
     day_compact = day_date.strftime("%Y%m%d")
     next_date = day_date + timedelta(days=1)
 
-    bed_local, wake_local = _body_sleep_window(day_date, metrics)
+    intervals = _sleep_intervals(day_date, metrics)
     next_metrics = generate_body_metrics_for_day(next_date.isoformat(), next_day_type or day_type_key)
-    next_bed, _ = _body_sleep_window(next_date, next_metrics)
+    next_intervals = _sleep_intervals(next_date, next_metrics)
+    wake_local = intervals[-1][1]
     day_start_local = datetime.combine(day_date, time.min, tzinfo=LONDON_TZ)
     day_end_local = datetime.combine(next_date, time.min, tzinfo=LONDON_TZ)
 
-    sleep_id = f"experience-sleep-{day_compact}"
-    rows: list[dict[str, Any]] = [
-        {
-            "assembled": (
-                "assembled from this source's adjacent sleep stage intervals 30 minutes "
-                "or less apart, not a session Apple Health reported"
-            ),
-            "end": wake_local.isoformat(),
-            "experience": "sleep",
-            "id": sleep_id,
-            "kind": "experience",
-            "label": "night",
-            "source": "apple_health",
-            "start": bed_local.isoformat(),
-            "type": "HKCategoryTypeIdentifierSleepAnalysis",
-            "v": 1,
-        }
-    ]
-
-    stage_cursor = bed_local.astimezone(timezone.utc)
-    wake_utc = wake_local.astimezone(timezone.utc)
-    stage_specs = [
-        ("deep", int(metrics["deep_min"]), "HKCategoryValueSleepAnalysisAsleepDeep", "asleep deep"),
-        ("core", int(metrics["core_min"]), "HKCategoryValueSleepAnalysisAsleepCore", "asleep core"),
-        ("rem", int(metrics["rem_min"]), "HKCategoryValueSleepAnalysisAsleepREM", "asleep rem"),
-        ("awake", int(metrics["awake_min"]), "HKCategoryValueSleepAnalysisAwake", "awake"),
-    ]
-    available = round((wake_utc - stage_cursor).total_seconds() / 60)
-    planned = sum(mins for _, mins, _, _ in stage_specs)
-    for index, (stage_slug, mins, hk_type, label) in enumerate(stage_specs):
-        mins = round(mins * available / planned)
-        if index == len(stage_specs) - 1:
-            mins = round((wake_utc - stage_cursor).total_seconds() / 60)
-        if mins <= 0:
-            continue
-        stage_end = stage_cursor + timedelta(minutes=mins)
-        rows.append(
-            {
-                "end": stage_end.astimezone(LONDON_TZ).isoformat(),
-                "id": f"stage-{stage_slug}-{day_compact}",
-                "kind": "stage",
-                "label": label,
-                "of": sleep_id,
-                "source": "apple_health",
-                "start": stage_cursor.astimezone(LONDON_TZ).isoformat(),
-                "type": hk_type,
-                "v": 1,
-            }
-        )
-        stage_cursor = stage_end
+    rows = _sleep_body_rows(day_compact, intervals, metrics)
 
     rows.extend(
         [
@@ -959,7 +1270,7 @@ def build_body_rows_for_day(
             },
         ]
     )
-    rows.extend(_heart_rate_rows(day_date, metrics, day_type_key, stops or [], bed_local, wake_local, next_bed))
+    rows.extend(_heart_rate_rows(day_date, metrics, day_type_key, stops or [], intervals, next_intervals))
 
     def _row_sort_key(r: dict[str, Any]) -> tuple[int, str]:
         begins = r.get("at") or r.get("start")

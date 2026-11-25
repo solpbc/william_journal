@@ -20,6 +20,8 @@ On Thursday the children played the orchard scene at the bedside. Judith's moon 
 
 ## Said
 
+- 2025-08-10 · 02:10 memo · william_shakespeare: "He never once asks her. She does it all."
+- 2025-08-10 · 02:10 memo · william_shakespeare: "Parting is such sweet sorrow. God. Leave it. Leave it in."
 - 2025-08-10 · 21:10 memo · william_shakespeare: "I had her stile turned into a tale, and I heard it, and I stopped. She heard the stop."
 - 2025-08-12 · 21:15 memo · william_shakespeare: "It went like a lute-string. Not a roar. A string."
 - 2025-08-12 · 21:15 memo · william_shakespeare: "She was right at the plot, and right on the bed, and they were different rights."

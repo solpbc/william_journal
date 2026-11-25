@@ -149,9 +149,9 @@
         "uri": "sol://chronicle/20250208/talents/morning_briefing",
         "briefing_day": "20250208",
         "refs": [
+          "sol://facets/writing/activities/20250208#memo_021000_60",
           "sol://facets/company/activities/20250208#meeting_091000_840",
-          "sol://facets/household/activities/20250208#meeting_122000_180",
-          "sol://facets/company/activities/20250208#meeting_165000_720"
+          "sol://facets/household/activities/20250208#meeting_122000_180"
         ]
       }
     }
