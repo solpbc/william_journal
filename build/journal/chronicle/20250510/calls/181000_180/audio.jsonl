@@ -1,15 +1,15 @@
-{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "cuthbert_burbage", "start": "18:10:00", "text": "Master Shakespeare? Cuthbert Burbage. From Holywell.", "timing": {"end": 10.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "18:10:10", "text": "Cuthbert. I am in. You have not come for a part.", "timing": {"end": 20.0, "start": 10.0}}
-{"sentence_id": 3, "speaker": "cuthbert_burbage", "start": "18:10:20", "text": "Allen rode in from Essex today. I have been with him about the ground. Two years less a month till the lease falls in.", "timing": {"end": 36.0, "start": 20.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "18:10:36", "text": "Two years less a month. Your father says two years, when he says it at all.", "timing": {"end": 48.0, "start": 36.0}}
-{"sentence_id": 5, "speaker": "cuthbert_burbage", "start": "18:10:48", "text": "He was civil. He named his figure. Four-and-twenty pound a year, where we pay fourteen, for a short extension. There is a clause about the house after five years. He would not explain it.", "timing": {"end": 68.0, "start": 48.0}}
-{"sentence_id": 6, "speaker": "william_shakespeare", "start": "18:11:08", "text": "Four-and-twenty against fourteen. And a clause he will not read.", "timing": {"end": 78.0, "start": 68.0}}
-{"sentence_id": 7, "speaker": "cuthbert_burbage", "start": "18:11:18", "text": "My father says he'll pull the house down. I say, let's first ask what the timber's worth.", "timing": {"end": 92.0, "start": 78.0}}
-{"sentence_id": 8, "speaker": "william_shakespeare", "start": "18:11:32", "text": "Has he said the figure in the house.", "timing": {"end": 100.0, "start": 92.0}}
-{"sentence_id": 9, "speaker": "cuthbert_burbage", "start": "18:11:40", "text": "He has not. I want the sharers to know it before he tells it his own way on Monday. And I want you in particular to keep him from cursing Allen to his face.", "timing": {"end": 118.0, "start": 100.0}}
-{"sentence_id": 10, "speaker": "william_shakespeare", "start": "18:11:58", "text": "I have never seen Allen. What is a new play worth to a landlord.", "timing": {"end": 128.0, "start": 118.0}}
-{"sentence_id": 11, "speaker": "cuthbert_burbage", "start": "18:12:08", "text": "Nothing. To my father, a year.", "timing": {"end": 136.0, "start": 128.0}}
-{"sentence_id": 12, "speaker": "william_shakespeare", "start": "18:12:16", "text": "Then I'll tell him I've a king coming.", "timing": {"end": 144.0, "start": 136.0}}
-{"sentence_id": 13, "speaker": "cuthbert_burbage", "start": "18:12:24", "text": "Tell him it's long. God keep you.", "timing": {"end": 152.0, "start": 144.0}}
-{"sentence_id": 14, "speaker": "william_shakespeare", "start": "18:12:32", "text": "And you.", "timing": {"end": 162.0, "start": 152.0}}
+{"backend": "whisper", "duration": 63.31, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "cuthbert_burbage", "start": "18:10:00", "text": "Master Shakespeare? Cuthbert Burbage. From Holywell.", "timing": {"end": 3.6, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "18:10:04", "text": "Cuthbert. I am in. You have not come for a part.", "timing": {"end": 7.12, "start": 3.6}}
+{"sentence_id": 3, "speaker": "cuthbert_burbage", "start": "18:10:07", "text": "Allen rode in from Essex today. I have been with him about the ground. Two years less a month till the lease falls in.", "timing": {"end": 13.92, "start": 7.12}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "18:10:14", "text": "Two years less a month. Your father says two years, when he says it at all.", "timing": {"end": 19.12, "start": 13.92}}
+{"sentence_id": 5, "speaker": "cuthbert_burbage", "start": "18:10:19", "text": "He was civil. He named his figure. Four-and-twenty pound a year, where we pay fourteen, for a short extension. There is a clause about the house after five years. He would not explain it.", "timing": {"end": 30.4, "start": 19.12}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "18:10:30", "text": "Four-and-twenty against fourteen. And a clause he will not read.", "timing": {"end": 34.8, "start": 30.4}}
+{"sentence_id": 7, "speaker": "cuthbert_burbage", "start": "18:10:35", "text": "My father says he'll pull the house down. I say, let's first ask what the timber's worth.", "timing": {"end": 40.08, "start": 34.8}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "18:10:40", "text": "Has he said the figure in the house.", "timing": {"end": 41.84, "start": 40.08}}
+{"sentence_id": 9, "speaker": "cuthbert_burbage", "start": "18:10:42", "text": "He has not. I want the sharers to know it before he tells it his own way on Monday. And I want you in particular to keep him from cursing Allen to his face.", "timing": {"end": 51.12, "start": 41.84}}
+{"sentence_id": 10, "speaker": "william_shakespeare", "start": "18:10:51", "text": "I have never seen Allen. What is a new play worth to a landlord.", "timing": {"end": 55.2, "start": 51.12}}
+{"sentence_id": 11, "speaker": "cuthbert_burbage", "start": "18:10:55", "text": "Nothing. To my father, a year.", "timing": {"end": 57.6, "start": 55.2}}
+{"sentence_id": 12, "speaker": "william_shakespeare", "start": "18:10:58", "text": "Then I'll tell him I've a king coming.", "timing": {"end": 59.52, "start": 57.6}}
+{"sentence_id": 13, "speaker": "cuthbert_burbage", "start": "18:11:00", "text": "Tell him it's long. God keep you.", "timing": {"end": 62.0, "start": 59.52}}
+{"sentence_id": 14, "speaker": "william_shakespeare", "start": "18:11:02", "text": "And you.", "timing": {"end": 62.72, "start": 62.0}}

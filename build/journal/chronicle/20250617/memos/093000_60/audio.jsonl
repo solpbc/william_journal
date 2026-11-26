@@ -1,2 +1,2 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "09:30:00", "text": "If I write them I'll make them a crowd, and they weren't.", "timing": {"end": 10.0, "start": 0.0}}
+{"backend": "whisper", "duration": 4.19, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "09:30:00", "text": "If I write them I'll make them a crowd, and they weren't.", "timing": {"end": 3.52, "start": 0.0}}

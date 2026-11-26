@@ -1,3 +1,3 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:10:00", "text": "The cat has chosen the deposition. A critic.", "timing": {"end": 18.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:10:18", "text": "Not the prison. Not tonight.", "timing": {"end": 28.0, "start": 18.0}}
+{"backend": "whisper", "duration": 6.11, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:10:00", "text": "The cat has chosen the deposition. A critic.", "timing": {"end": 3.44, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:10:03", "text": "Not the prison. Not tonight.", "timing": {"end": 5.52, "start": 3.44}}

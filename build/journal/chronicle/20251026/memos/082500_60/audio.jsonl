@@ -1,5 +1,5 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "08:25:00", "text": "Friday, at the word Nurse, it went out from under him. A note that belongs to a man. Nobody laughed.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:25:14", "text": "Two acts of her. She sleeps through some of it. I will not cut her. I will not write her a line lower.", "timing": {"end": 28.0, "start": 14.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "08:25:28", "text": "Phillips said the mornings have not begun. They have not. I do not see the boy today.", "timing": {"end": 40.0, "start": 28.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "08:25:40", "text": "The letter. That one I can finish.", "timing": {"end": 50.0, "start": 40.0}}
+{"backend": "whisper", "duration": 22.91, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "08:25:00", "text": "Friday, at the word Nurse, it went out from under him. A note that belongs to a man. Nobody laughed.", "timing": {"end": 7.44, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:25:07", "text": "Two acts of her. She sleeps through some of it. I will not cut her. I will not write her a line lower.", "timing": {"end": 14.32, "start": 7.44}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "08:25:14", "text": "Phillips said the mornings have not begun. They have not. I do not see the boy today.", "timing": {"end": 19.68, "start": 14.32}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "08:25:20", "text": "The letter. That one I can finish.", "timing": {"end": 22.32, "start": 19.68}}

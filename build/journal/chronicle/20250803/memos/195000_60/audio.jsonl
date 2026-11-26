@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "19:50:00", "text": "Fire as judgment. Riot as war.", "timing": {"end": 10.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "19:50:10", "text": "Everybody has the reason for it by Sunday.", "timing": {"end": 22.0, "start": 10.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "19:50:22", "text": "\u2026I think it falls on them. I wrote that in March. I've not changed it.", "timing": {"end": 32.0, "start": 22.0}}
+{"backend": "whisper", "duration": 10.99, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "19:50:00", "text": "Fire as judgment. Riot as war.", "timing": {"end": 3.76, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "19:50:04", "text": "Everybody has the reason for it by Sunday.", "timing": {"end": 6.0, "start": 3.76}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "19:50:06", "text": "\u2026I think it falls on them. I wrote that in March. I've not changed it.", "timing": {"end": 10.4, "start": 6.0}}

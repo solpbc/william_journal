@@ -1,2 +1,2 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "17:05:00", "text": "Gaunt is done. The three leaves stayed under the book. I did not play them. The boy was not in the room. Tomorrow they name the three nights, and they will have no surprise from me.", "timing": {"end": 10.0, "start": 0.0}}
+{"backend": "whisper", "duration": 11.71, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "17:05:00", "text": "Gaunt is done. The three leaves stayed under the book. I did not play them. The boy was not in the room. Tomorrow they name the three nights, and they will have no surprise from me.", "timing": {"end": 11.12, "start": 0.0}}

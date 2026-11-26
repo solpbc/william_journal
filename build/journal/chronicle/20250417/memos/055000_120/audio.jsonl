@@ -1,5 +1,5 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "05:50:00", "text": "I haue my Liege. No. Lower. As a man who has been waiting to be spoken to. I haue my Liege.", "timing": {"end": 16.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "05:50:16", "text": "Again. Not humble. Not brisk. I haue my Liege.", "timing": {"end": 30.0, "start": 16.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "05:50:30", "text": "I will play him. The four words are his answer. I am only finding the mouth.", "timing": {"end": 44.0, "start": 30.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "05:50:44", "text": "Ould Iohn of Gaunt time honoured Lancaster. That is the King's mouth, not mine. Mine stops at the four. Enough.", "timing": {"end": 54.0, "start": 44.0}}
+{"backend": "whisper", "duration": 24.99, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "05:50:00", "text": "I haue my Liege. No. Lower. As a man who has been waiting to be spoken to. I haue my Liege.", "timing": {"end": 7.76, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "05:50:08", "text": "Again. Not humble. Not brisk. I haue my Liege.", "timing": {"end": 11.84, "start": 7.76}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "05:50:12", "text": "I will play him. The four words are his answer. I am only finding the mouth.", "timing": {"end": 16.96, "start": 11.84}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "05:50:17", "text": "Ould Iohn of Gaunt time honoured Lancaster. That is the King's mouth, not mine. Mine stops at the four. Enough.", "timing": {"end": 24.4, "start": 16.96}}

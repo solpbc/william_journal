@@ -1,3 +1,3 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "17:40:00", "text": "Gone. A month's tyrant, and no bigger than a pea.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "17:40:12", "text": "I gave a king a better speech at his going.", "timing": {"end": 22.0, "start": 12.0}}
+{"backend": "whisper", "duration": 7.71, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "17:40:00", "text": "Gone. A month's tyrant, and no bigger than a pea.", "timing": {"end": 4.48, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "17:40:04", "text": "I gave a king a better speech at his going.", "timing": {"end": 7.04, "start": 4.48}}

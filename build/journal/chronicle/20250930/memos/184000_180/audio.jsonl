@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "18:40:00", "text": "Two days.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "18:40:12", "text": "Let it hold till Thursday. Then let Yaxley have it, and welcome.", "timing": {"end": 32.0, "start": 12.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "18:40:32", "text": "Not tonight. Not because I am brave. Because the king is still in the mouth, and I will not evict him for a shilling's worth of quiet.", "timing": {"end": 42.0, "start": 32.0}}
+{"backend": "whisper", "duration": 13.55, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "18:40:00", "text": "Two days.", "timing": {"end": 0.96, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "18:40:01", "text": "Let it hold till Thursday. Then let Yaxley have it, and welcome.", "timing": {"end": 5.6, "start": 0.96}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "18:40:06", "text": "Not tonight. Not because I am brave. Because the king is still in the mouth, and I will not evict him for a shilling's worth of quiet.", "timing": {"end": 12.96, "start": 5.6}}

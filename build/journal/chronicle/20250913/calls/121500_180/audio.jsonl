@@ -1,11 +1,11 @@
-{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "cuthbert_burbage", "start": "12:15:00", "text": "Will? Cuthbert Burbage. From a scrivener's in Cheapside, and I'll be short.", "timing": {"end": 10.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "cuthbert_burbage", "start": "12:15:10", "text": "A friend of mine copies for the Guildhall. He had a letter under his eye this morning, from my Lord Mayor to the lords of the Council.", "timing": {"end": 24.0, "start": 10.0}}
-{"sentence_id": 3, "speaker": "cuthbert_burbage", "start": "12:15:24", "text": "It's against plays. He had it by ear from the clerk who read it over, so take what I say for hearsay. It names the Bankside. It speaks of the late stir and mutinous attempt, and lays that at the playhouse door. And it prays their lordships to write to the justices of Surrey to put the plays down.", "timing": {"end": 48.0, "start": 24.0}}
-{"sentence_id": 4, "speaker": "cuthbert_burbage", "start": "12:15:48", "text": "And of Middlesex.", "timing": {"end": 52.0, "start": 48.0}}
-{"sentence_id": 5, "speaker": "william_shakespeare", "start": "12:15:52", "text": "Middlesex is not the Bankside.", "timing": {"end": 58.0, "start": 52.0}}
-{"sentence_id": 6, "speaker": "cuthbert_burbage", "start": "12:15:58", "text": "No. Middlesex is my father's house and two miles of fields. Whether the Theatre is named in so many words my man could not swear.", "timing": {"end": 72.0, "start": 58.0}}
-{"sentence_id": 7, "speaker": "william_shakespeare", "start": "12:16:12", "text": "Does James know?", "timing": {"end": 78.0, "start": 72.0}}
-{"sentence_id": 8, "speaker": "cuthbert_burbage", "start": "12:16:18", "text": "Not yet, and I'd as lief he heard it after he's eaten. Say nothing till the play's done. I'll be there by five.", "timing": {"end": 92.0, "start": 78.0}}
-{"sentence_id": 9, "speaker": "william_shakespeare", "start": "12:16:32", "text": "God keep you, Cuthbert.", "timing": {"end": 98.0, "start": 92.0}}
-{"sentence_id": 10, "speaker": "cuthbert_burbage", "start": "12:16:38", "text": "And all of us. Play well. You may be doing it for the justices.", "timing": {"end": 108.0, "start": 98.0}}
+{"backend": "whisper", "duration": 54.19, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "cuthbert_burbage", "start": "12:15:00", "text": "Will? Cuthbert Burbage. From a scrivener's in Cheapside, and I'll be short.", "timing": {"end": 4.96, "start": 0.0}}
+{"sentence_id": 2, "speaker": "cuthbert_burbage", "start": "12:15:05", "text": "A friend of mine copies for the Guildhall. He had a letter under his eye this morning, from my Lord Mayor to the lords of the Council.", "timing": {"end": 11.92, "start": 4.96}}
+{"sentence_id": 3, "speaker": "cuthbert_burbage", "start": "12:15:12", "text": "It's against plays. He had it by ear from the clerk who read it over, so take what I say for hearsay. It names the Bankside. It speaks of the late stir and mutinous attempt, and lays that at the playhouse door. And it prays their lordships to write to the justices of Surrey to put the plays down.", "timing": {"end": 29.76, "start": 11.92}}
+{"sentence_id": 4, "speaker": "cuthbert_burbage", "start": "12:15:30", "text": "And of Middlesex.", "timing": {"end": 30.96, "start": 29.76}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "12:15:31", "text": "Middlesex is not the Bankside.", "timing": {"end": 33.04, "start": 30.96}}
+{"sentence_id": 6, "speaker": "cuthbert_burbage", "start": "12:15:33", "text": "No. Middlesex is my father's house and two miles of fields. Whether the Theatre is named in so many words my man could not swear.", "timing": {"end": 40.88, "start": 33.04}}
+{"sentence_id": 7, "speaker": "william_shakespeare", "start": "12:15:41", "text": "Does James know?", "timing": {"end": 42.08, "start": 40.88}}
+{"sentence_id": 8, "speaker": "cuthbert_burbage", "start": "12:15:42", "text": "Not yet, and I'd as lief he heard it after he's eaten. Say nothing till the play's done. I'll be there by five.", "timing": {"end": 48.32, "start": 42.08}}
+{"sentence_id": 9, "speaker": "william_shakespeare", "start": "12:15:48", "text": "God keep you, Cuthbert.", "timing": {"end": 49.68, "start": 48.32}}
+{"sentence_id": 10, "speaker": "cuthbert_burbage", "start": "12:15:50", "text": "And all of us. Play well. You may be doing it for the justices.", "timing": {"end": 53.6, "start": 49.68}}

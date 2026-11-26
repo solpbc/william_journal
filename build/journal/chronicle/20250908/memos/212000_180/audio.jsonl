@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:20:00", "text": "The moon is up over the close, full enough to find the latch without a candle.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:20:12", "text": "The letter is still sealed. The tooth is quiet. Gus is still not told.", "timing": {"end": 24.0, "start": 12.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:20:24", "text": "Tomorrow at nine. Errors at two. Enough.", "timing": {"end": 34.0, "start": 24.0}}
+{"backend": "whisper", "duration": 13.47, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:20:00", "text": "The moon is up over the close, full enough to find the latch without a candle.", "timing": {"end": 4.48, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:20:04", "text": "The letter is still sealed. The tooth is quiet. Gus is still not told.", "timing": {"end": 9.76, "start": 4.48}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:20:10", "text": "Tomorrow at nine. Errors at two. Enough.", "timing": {"end": 12.88, "start": 9.76}}

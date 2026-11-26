@@ -1,5 +1,5 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "08:20:00", "text": "Twenty. He said two hundred. The town's whole affliction, he says, and this year twenty.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:20:14", "text": "The two pounds stay out. I did not ask them, and I will not lend.", "timing": {"end": 26.0, "start": 14.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "08:20:26", "text": "Ten quarters, dry. A sheet with never a blot. He made them shine a little. The supper has no day.", "timing": {"end": 40.0, "start": 26.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "08:20:40", "text": "The letter is still on the board. No answer.", "timing": {"end": 50.0, "start": 40.0}}
+{"backend": "whisper", "duration": 20.75, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "08:20:00", "text": "Twenty. He said two hundred. The town's whole affliction, he says, and this year twenty.", "timing": {"end": 6.52, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:20:07", "text": "The two pounds stay out. I did not ask them, and I will not lend.", "timing": {"end": 10.88, "start": 6.52}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "08:20:11", "text": "Ten quarters, dry. A sheet with never a blot. He made them shine a little. The supper has no day.", "timing": {"end": 17.48, "start": 10.88}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "08:20:17", "text": "The letter is still on the board. No answer.", "timing": {"end": 20.16, "start": 17.48}}

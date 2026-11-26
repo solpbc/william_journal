@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:15:00", "text": "A pin. She would not give a pin for a play that begins in a broken oath.", "timing": {"end": 16.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:15:16", "text": "The washing is the better note. The ladies have no sentence.", "timing": {"end": 36.0, "start": 16.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:15:36", "text": "\u2026", "timing": {"end": 46.0, "start": 36.0}}
+{"backend": "whisper", "duration": 9.39, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:15:00", "text": "A pin. She would not give a pin for a play that begins in a broken oath.", "timing": {"end": 5.28, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:15:05", "text": "The washing is the better note. The ladies have no sentence.", "timing": {"end": 8.72, "start": 5.28}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:15:09", "text": "\u2026", "timing": {"end": 8.82, "start": 8.72}}

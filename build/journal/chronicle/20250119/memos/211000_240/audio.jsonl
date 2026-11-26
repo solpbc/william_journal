@@ -1,5 +1,5 @@
-{"backend": "whisper", "duration": 240.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:10:00", "text": "The fever is gone. I am still in the bed because she said the bed, not because the fever kept me.", "timing": {"end": 16.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:10:16", "text": "The letter is on the table. I have not answered the last question. I will not answer it tonight.", "timing": {"end": 32.0, "start": 16.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:10:32", "text": "Tomorrow I am well. I will try the spring note, and I will stop before the owl. The Shrew is at two. I am not sent out to it.", "timing": {"end": 48.0, "start": 32.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "21:10:48", "text": "The songs are not written. The last line is not written. That is the truth of the bolster, and I will not improve it.", "timing": {"end": 58.0, "start": 48.0}}
+{"backend": "whisper", "duration": 27.87, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:10:00", "text": "The fever is gone. I am still in the bed because she said the bed, not because the fever kept me.", "timing": {"end": 6.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:10:06", "text": "The letter is on the table. I have not answered the last question. I will not answer it tonight.", "timing": {"end": 12.08, "start": 6.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:10:12", "text": "Tomorrow I am well. I will try the spring note, and I will stop before the owl. The Shrew is at two. I am not sent out to it.", "timing": {"end": 20.48, "start": 12.08}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "21:10:20", "text": "The songs are not written. The last line is not written. That is the truth of the bolster, and I will not improve it.", "timing": {"end": 27.28, "start": 20.48}}

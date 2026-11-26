@@ -1,2 +1,2 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:48:00", "text": "I was bid come and see him unhorsed. He wasn't. I came. He'll not know.", "timing": {"end": 10.0, "start": 0.0}}
+{"backend": "whisper", "duration": 6.11, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:48:00", "text": "I was bid come and see him unhorsed. He wasn't. I came. He'll not know.", "timing": {"end": 5.28, "start": 0.0}}

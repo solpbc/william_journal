@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:20:00", "text": "Who mends the shirts. She spent the question on that, and not on the trade. Alum on his finger, ink on mine, and she made them the one finger.", "timing": {"end": 18.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:20:18", "text": "The grace under the responses I knew, and I let it go past. The place was empty. Nobody looked.", "timing": {"end": 34.0, "start": 18.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:20:34", "text": "Remember: the empty place. Enough.", "timing": {"end": 44.0, "start": 34.0}}
+{"backend": "whisper", "duration": 18.03, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:20:00", "text": "Who mends the shirts. She spent the question on that, and not on the trade. Alum on his finger, ink on mine, and she made them the one finger.", "timing": {"end": 8.96, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:20:09", "text": "The grace under the responses I knew, and I let it go past. The place was empty. Nobody looked.", "timing": {"end": 14.72, "start": 8.96}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:20:15", "text": "Remember: the empty place. Enough.", "timing": {"end": 17.44, "start": 14.72}}

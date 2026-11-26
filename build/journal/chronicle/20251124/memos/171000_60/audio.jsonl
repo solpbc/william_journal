@@ -1,2 +1,2 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "17:10:00", "text": "Two pounds in the purse. I have not heard yea or nay. If the paper is granted, he writes the line. If it is nay, they come home. I am not lending him anything on the stairs. The band is brushed. That is the whole of five o'clock.", "timing": {"end": 10.0, "start": 0.0}}
+{"backend": "whisper", "duration": 14.91, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "17:10:00", "text": "Two pounds in the purse. I have not heard yea or nay. If the paper is granted, he writes the line. If it is nay, they come home. I am not lending him anything on the stairs. The band is brushed. That is the whole of five o'clock.", "timing": {"end": 14.32, "start": 0.0}}

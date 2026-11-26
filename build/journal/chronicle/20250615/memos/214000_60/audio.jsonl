@@ -1,2 +1,2 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:40:00", "text": "They've found out a door opens if enough push. That's not a thing a city forgets.", "timing": {"end": 10.0, "start": 0.0}}
+{"backend": "whisper", "duration": 5.71, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:40:00", "text": "They've found out a door opens if enough push. That's not a thing a city forgets.", "timing": {"end": 5.12, "start": 0.0}}

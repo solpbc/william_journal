@@ -1,11 +1,11 @@
-{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "richard_field", "start": "12:52:00", "text": "Will? Richard Field. From the shop.", "timing": {"end": 8.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "12:52:08", "text": "Richard. I hear you.", "timing": {"end": 14.0, "start": 8.0}}
-{"sentence_id": 3, "speaker": "richard_field", "start": "12:52:14", "text": "I have had Millington's little book in my hand. I hear thou sawest it. Short's work; honest presswork on a dishonest copy. Come Sunday and be angry at my table and not in Paul's.", "timing": {"end": 36.0, "start": 14.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "12:52:36", "text": "I was not angry. I was curious whose it was.", "timing": {"end": 46.0, "start": 36.0}}
-{"sentence_id": 5, "speaker": "richard_field", "start": "12:52:46", "text": "The man's who entered it. That's the trade. If thou'dst print thy plays thyself\u2026", "timing": {"end": 58.0, "start": 46.0}}
-{"sentence_id": 6, "speaker": "william_shakespeare", "start": "12:52:58", "text": "They're not mine to print. They're the company's.", "timing": {"end": 68.0, "start": 58.0}}
-{"sentence_id": 7, "speaker": "richard_field", "start": "12:53:08", "text": "Then whose is the complaint? Sunday. And the Holinshed.", "timing": {"end": 78.0, "start": 68.0}}
-{"sentence_id": 8, "speaker": "william_shakespeare", "start": "12:53:18", "text": "Sunday. Not the Holinshed.", "timing": {"end": 86.0, "start": 78.0}}
-{"sentence_id": 9, "speaker": "richard_field", "start": "12:53:26", "text": "Sunday, then. Come to the table. God keep you.", "timing": {"end": 94.0, "start": 86.0}}
-{"sentence_id": 10, "speaker": "william_shakespeare", "start": "12:53:34", "text": "And you.", "timing": {"end": 104.0, "start": 94.0}}
+{"backend": "whisper", "duration": 37.95, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "richard_field", "start": "12:52:00", "text": "Will? Richard Field. From the shop.", "timing": {"end": 2.8, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "12:52:03", "text": "Richard. I hear you.", "timing": {"end": 4.64, "start": 2.8}}
+{"sentence_id": 3, "speaker": "richard_field", "start": "12:52:05", "text": "I have had Millington's little book in my hand. I hear thou sawest it. Short's work; honest presswork on a dishonest copy. Come Sunday and be angry at my table and not in Paul's.", "timing": {"end": 16.64, "start": 4.64}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "12:52:17", "text": "I was not angry. I was curious whose it was.", "timing": {"end": 19.92, "start": 16.64}}
+{"sentence_id": 5, "speaker": "richard_field", "start": "12:52:20", "text": "The man's who entered it. That's the trade. If thou'dst print thy plays thyself\u2026", "timing": {"end": 25.04, "start": 19.92}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "12:52:25", "text": "They're not mine to print. They're the company's.", "timing": {"end": 27.6, "start": 25.04}}
+{"sentence_id": 7, "speaker": "richard_field", "start": "12:52:28", "text": "Then whose is the complaint? Sunday. And the Holinshed.", "timing": {"end": 31.44, "start": 27.6}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "12:52:31", "text": "Sunday. Not the Holinshed.", "timing": {"end": 33.52, "start": 31.44}}
+{"sentence_id": 9, "speaker": "richard_field", "start": "12:52:34", "text": "Sunday, then. Come to the table. God keep you.", "timing": {"end": 36.56, "start": 33.52}}
+{"sentence_id": 10, "speaker": "william_shakespeare", "start": "12:52:37", "text": "And you.", "timing": {"end": 37.36, "start": 36.56}}

@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "08:15:00", "text": "He goes off a man. He comes back not. No. Bigger. As if the room were a yard, and the yard were his.", "timing": {"end": 16.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:15:16", "text": "He goes off a man. He comes back not.", "timing": {"end": 28.0, "start": 16.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "08:15:28", "text": "The feet will tell her before I do. The girl's line can wait until it is written. Write it, and do not count.", "timing": {"end": 38.0, "start": 28.0}}
+{"backend": "whisper", "duration": 18.19, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "08:15:00", "text": "He goes off a man. He comes back not. No. Bigger. As if the room were a yard, and the yard were his.", "timing": {"end": 8.16, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:15:08", "text": "He goes off a man. He comes back not.", "timing": {"end": 10.88, "start": 8.16}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "08:15:11", "text": "The feet will tell her before I do. The girl's line can wait until it is written. Write it, and do not count.", "timing": {"end": 17.6, "start": 10.88}}

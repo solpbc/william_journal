@@ -1,3 +1,3 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:10:00", "text": "The Shrew went on without me. Grecian Comedy went on without me. The sentence is still where Saturday left it.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:10:12", "text": "Not the packet. The packet is not this. I am not setting anything beside the horn. Sunday can have Sunday. ...No.", "timing": {"end": 22.0, "start": 12.0}}
+{"backend": "whisper", "duration": 14.91, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:10:00", "text": "The Shrew went on without me. Grecian Comedy went on without me. The sentence is still where Saturday left it.", "timing": {"end": 6.68, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:10:07", "text": "Not the packet. The packet is not this. I am not setting anything beside the horn. Sunday can have Sunday. ...No.", "timing": {"end": 14.32, "start": 6.68}}

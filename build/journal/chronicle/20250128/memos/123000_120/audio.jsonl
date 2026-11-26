@@ -1,3 +1,3 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "12:30:00", "text": "Little. Bread, and not a dinner. I am not buying a second board on a day I have already paid for a Sunday.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "12:30:12", "text": "The Shrew at two. I am in it. The roll stays unnamed, even here. Then home again. Set at Maw can do without me.", "timing": {"end": 22.0, "start": 12.0}}
+{"backend": "whisper", "duration": 16.03, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "12:30:00", "text": "Little. Bread, and not a dinner. I am not buying a second board on a day I have already paid for a Sunday.", "timing": {"end": 7.56, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "12:30:08", "text": "The Shrew at two. I am in it. The roll stays unnamed, even here. Then home again. Set at Maw can do without me.", "timing": {"end": 15.44, "start": 7.56}}

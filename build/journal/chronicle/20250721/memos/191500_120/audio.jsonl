@@ -1,6 +1,6 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "19:15:00", "text": "Six days. It was six days out, and I was reading fairies to players.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "19:15:12", "text": "She says don't come. She says come for harvest.", "timing": {"end": 22.0, "start": 12.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "19:15:22", "text": "That's one thing said twice, if you know her.", "timing": {"end": 32.0, "start": 22.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "19:15:32", "text": "None of ours. I'll keep to that, and let the forty go.", "timing": {"end": 44.0, "start": 32.0}}
-{"sentence_id": 5, "speaker": "william_shakespeare", "start": "19:15:44", "text": "I will go on foot.", "timing": {"end": 54.0, "start": 44.0}}
+{"backend": "whisper", "duration": 16.43, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "19:15:00", "text": "Six days. It was six days out, and I was reading fairies to players.", "timing": {"end": 5.28, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "19:15:05", "text": "She says don't come. She says come for harvest.", "timing": {"end": 8.4, "start": 5.28}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "19:15:08", "text": "That's one thing said twice, if you know her.", "timing": {"end": 11.04, "start": 8.4}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "19:15:11", "text": "None of ours. I'll keep to that, and let the forty go.", "timing": {"end": 14.64, "start": 11.04}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "19:15:15", "text": "I will go on foot.", "timing": {"end": 15.84, "start": 14.64}}

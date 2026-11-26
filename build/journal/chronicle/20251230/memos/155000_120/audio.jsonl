@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "15:50:00", "text": "Thirty yards across the close, and the light is going. Gresham's chest is as plain as it was at Easter. I am not staying.", "timing": {"end": 18.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "15:50:18", "text": "The page at home ends where she sees him. That blank is mine. A stone does not tell me how to fill it.", "timing": {"end": 36.0, "start": 18.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "15:50:36", "text": "Back. The letter is still on the board.", "timing": {"end": 46.0, "start": 36.0}}
+{"backend": "whisper", "duration": 19.85, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "15:50:00", "text": "Thirty yards across the close, and the light is going. Gresham's chest is as plain as it was at Easter. I am not staying.", "timing": {"end": 8.48, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "15:50:08", "text": "The page at home ends where she sees him. That blank is mine. A stone does not tell me how to fill it.", "timing": {"end": 15.28, "start": 8.48}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "15:50:15", "text": "Back. The letter is still on the board.", "timing": {"end": 17.68, "start": 15.28}}

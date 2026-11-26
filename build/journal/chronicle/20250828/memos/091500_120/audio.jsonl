@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "09:15:00", "text": "A neighbour's voice at the casement, scolding a prentice. None of it mine.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "09:15:14", "text": "I shut it. The words stopped. The air stopped with them. I want the air back, and I will not have the prentice with it.", "timing": {"end": 32.0, "start": 14.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "09:15:32", "text": "The four lines are out. Twelve feet is the measure. The back is yesterday's, and I am sitting. Egeon at two.", "timing": {"end": 42.0, "start": 32.0}}
+{"backend": "whisper", "duration": 20.27, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "09:15:00", "text": "A neighbour's voice at the casement, scolding a prentice. None of it mine.", "timing": {"end": 4.52, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "09:15:05", "text": "I shut it. The words stopped. The air stopped with them. I want the air back, and I will not have the prentice with it.", "timing": {"end": 12.48, "start": 4.52}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "09:15:12", "text": "The four lines are out. Twelve feet is the measure. The back is yesterday's, and I am sitting. Egeon at two.", "timing": {"end": 19.68, "start": 12.48}}

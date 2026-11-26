@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:10:00", "text": "Another table. Nine at it. Your stool is carried back to the shop, and the shop is his, and the shop is not this inn.", "timing": {"end": 16.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:10:16", "text": "A grey kerchief. It should be there by now. You do not know it. You are not writing tonight to be told.", "timing": {"end": 30.0, "start": 16.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:10:30", "text": "Remember: nine, and the kerchief unseen. \u2026Sleep.", "timing": {"end": 40.0, "start": 30.0}}
+{"backend": "whisper", "duration": 19.71, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:10:00", "text": "Another table. Nine at it. Your stool is carried back to the shop, and the shop is his, and the shop is not this inn.", "timing": {"end": 8.48, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:10:08", "text": "A grey kerchief. It should be there by now. You do not know it. You are not writing tonight to be told.", "timing": {"end": 14.76, "start": 8.48}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:10:15", "text": "Remember: nine, and the kerchief unseen. \u2026Sleep.", "timing": {"end": 19.12, "start": 14.76}}

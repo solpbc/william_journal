@@ -1,3 +1,3 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "09:20:00", "text": "Thursday, and the Cross is at it. I can hear a sack and a woman and the same wheat I already wrote down. Six-and-thirty, if they are still honest. I am not going down to be a witness for a price.", "timing": {"end": 18.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "09:20:18", "text": "The floor is the market I get. It is not a virtue. It is a back.", "timing": {"end": 28.0, "start": 18.0}}
+{"backend": "whisper", "duration": 17.95, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "09:20:00", "text": "Thursday, and the Cross is at it. I can hear a sack and a woman and the same wheat I already wrote down. Six-and-thirty, if they are still honest. I am not going down to be a witness for a price.", "timing": {"end": 12.76, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "09:20:13", "text": "The floor is the market I get. It is not a virtue. It is a back.", "timing": {"end": 17.36, "start": 12.76}}

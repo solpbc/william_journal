@@ -1,3 +1,3 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:40:00", "text": "Nothing written down. The sentence died between Holywell and the close, as I told Dick it would.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:40:12", "text": "A wedding wants paying for. That was James. I am not making a play of it. ...No.", "timing": {"end": 22.0, "start": 12.0}}
+{"backend": "whisper", "duration": 12.27, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:40:00", "text": "Nothing written down. The sentence died between Holywell and the close, as I told Dick it would.", "timing": {"end": 6.04, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:40:06", "text": "A wedding wants paying for. That was James. I am not making a play of it. ...No.", "timing": {"end": 11.68, "start": 6.04}}

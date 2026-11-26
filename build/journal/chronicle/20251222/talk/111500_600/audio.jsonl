@@ -1,20 +1,20 @@
-{"backend": "whisper", "duration": 600.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "11:15:06", "text": "It shut. The first time.", "timing": {"end": 12.0, "start": 6.0}}
-{"sentence_id": 2, "speaker": "dorcas_ansell", "start": "11:15:12", "text": "My joiner was here at first light. It is the house's latch, Master Shakespeare, and not the lodger's. Put your purse away.", "timing": {"end": 26.0, "start": 12.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "11:15:26", "text": "He had tools on the stair. I can pay the man.", "timing": {"end": 34.0, "start": 26.0}}
-{"sentence_id": 4, "speaker": "dorcas_ansell", "start": "11:15:34", "text": "You can pay the quarter, which is why I am standing here with a pen. The man is paid by the house. Mark me.", "timing": {"end": 48.0, "start": 34.0}}
-{"sentence_id": 5, "speaker": "william_shakespeare", "start": "11:15:48", "text": "Twenty shillings. Christmas is Thursday. I shall be up the river, so you have it now, three days early.", "timing": {"end": 62.0, "start": 48.0}}
-{"sentence_id": 6, "speaker": "dorcas_ansell", "start": "11:16:02", "text": "Count it twice. I write once.", "timing": {"end": 76.0, "start": 62.0}}
-{"sentence_id": 7, "speaker": "william_shakespeare", "start": "11:16:16", "text": "Ten, and ten. Twenty shillings. Again. Ten, and ten.", "timing": {"end": 88.0, "start": 76.0}}
-{"sentence_id": 8, "speaker": "dorcas_ansell", "start": "11:16:28", "text": "Twenty shillings, the Christmas quarter, brought forward. I will write it in my husband's hand, which the parish can read if I cannot be asked.", "timing": {"end": 104.0, "start": 88.0}}
-{"sentence_id": 9, "speaker": "william_shakespeare", "start": "11:16:44", "text": "And the chamber.", "timing": {"end": 108.0, "start": 104.0}}
-{"sentence_id": 10, "speaker": "dorcas_ansell", "start": "11:16:48", "text": "Aired. The coffer unvisited. I have not a key, and I shall not grow one while you are gone.", "timing": {"end": 122.0, "start": 108.0}}
-{"sentence_id": 11, "speaker": "william_shakespeare", "start": "11:17:02", "text": "Gib sleeps on whatever is warmest.", "timing": {"end": 128.0, "start": 122.0}}
-{"sentence_id": 12, "speaker": "dorcas_ansell", "start": "11:17:08", "text": "Gib may sleep on the bed, or on me. He may not sleep on the lord's book. I will put him off it myself if he tries, and I will not tell you each time.", "timing": {"end": 144.0, "start": 128.0}}
-{"sentence_id": 13, "speaker": "william_shakespeare", "start": "11:17:24", "text": "The book stays. I am not carrying it to Richmond.", "timing": {"end": 152.0, "start": 144.0}}
-{"sentence_id": 14, "speaker": "dorcas_ansell", "start": "11:17:32", "text": "Good. A chronicle is a bad fellow in a damp boat. Hold the sand.", "timing": {"end": 176.0, "start": 152.0}}
-{"sentence_id": 15, "speaker": "dorcas_ansell", "start": "11:17:56", "text": "There. Twenty shillings. Received of Master Shakespeare, this twenty-second of December, for the Christmas quarter, by me, Dorcas Ansell. You may see it. You may not improve it.", "timing": {"end": 194.0, "start": 176.0}}
-{"sentence_id": 16, "speaker": "william_shakespeare", "start": "11:18:14", "text": "I will not improve it. The latch is yours, and the twenty are paid.", "timing": {"end": 204.0, "start": 194.0}}
-{"sentence_id": 17, "speaker": "dorcas_ansell", "start": "11:18:24", "text": "Try the door once more before you go down to the river. If it sticks, it is still mine. If it shuts, go and play, and come back wet if you must. I did not undertake the weather.", "timing": {"end": 222.0, "start": 204.0}}
-{"sentence_id": 18, "speaker": "william_shakespeare", "start": "11:18:42", "text": "It shuts. God keep you, Mistress.", "timing": {"end": 228.0, "start": 222.0}}
-{"sentence_id": 19, "speaker": "dorcas_ansell", "start": "11:18:48", "text": "God keep you. And do not pay me twice for a thing I have already refused.", "timing": {"end": 238.0, "start": 228.0}}
+{"backend": "whisper", "duration": 105.85, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "11:15:00", "text": "It shut. The first time.", "timing": {"end": 1.92, "start": 0.0}}
+{"sentence_id": 2, "speaker": "dorcas_ansell", "start": "11:15:02", "text": "My joiner was here at first light. It is the house's latch, Master Shakespeare, and not the lodger's. Put your purse away.", "timing": {"end": 9.52, "start": 1.92}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "11:15:10", "text": "He had tools on the stair. I can pay the man.", "timing": {"end": 12.4, "start": 9.52}}
+{"sentence_id": 4, "speaker": "dorcas_ansell", "start": "11:15:12", "text": "You can pay the quarter, which is why I am standing here with a pen. The man is paid by the house. Mark me.", "timing": {"end": 19.52, "start": 12.4}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "11:15:20", "text": "Twenty shillings. Christmas is Thursday. I shall be up the river, so you have it now, three days early.", "timing": {"end": 25.76, "start": 19.52}}
+{"sentence_id": 6, "speaker": "dorcas_ansell", "start": "11:15:26", "text": "Count it twice. I write once.", "timing": {"end": 28.16, "start": 25.76}}
+{"sentence_id": 7, "speaker": "william_shakespeare", "start": "11:15:28", "text": "Ten, and ten. Twenty shillings. Again. Ten, and ten.", "timing": {"end": 32.96, "start": 28.16}}
+{"sentence_id": 8, "speaker": "dorcas_ansell", "start": "11:15:33", "text": "Twenty shillings, the Christmas quarter, brought forward. I will write it in my husband's hand, which the parish can read if I cannot be asked.", "timing": {"end": 41.2, "start": 32.96}}
+{"sentence_id": 9, "speaker": "william_shakespeare", "start": "11:15:41", "text": "And the chamber.", "timing": {"end": 42.24, "start": 41.2}}
+{"sentence_id": 10, "speaker": "dorcas_ansell", "start": "11:15:42", "text": "Aired. The coffer unvisited. I have not a key, and I shall not grow one while you are gone.", "timing": {"end": 48.24, "start": 42.24}}
+{"sentence_id": 11, "speaker": "william_shakespeare", "start": "11:15:48", "text": "Gib sleeps on whatever is warmest.", "timing": {"end": 50.48, "start": 48.24}}
+{"sentence_id": 12, "speaker": "dorcas_ansell", "start": "11:15:50", "text": "Gib may sleep on the bed, or on me. He may not sleep on the lord's book. I will put him off it myself if he tries, and I will not tell you each time.", "timing": {"end": 59.84, "start": 50.48}}
+{"sentence_id": 13, "speaker": "william_shakespeare", "start": "11:16:00", "text": "The book stays. I am not carrying it to Richmond.", "timing": {"end": 63.12, "start": 59.84}}
+{"sentence_id": 14, "speaker": "dorcas_ansell", "start": "11:16:03", "text": "Good. A chronicle is a bad fellow in a damp boat. Hold the sand.", "timing": {"end": 67.84, "start": 63.12}}
+{"sentence_id": 15, "speaker": "dorcas_ansell", "start": "11:16:08", "text": "There. Twenty shillings. Received of Master Shakespeare, this twenty-second of December, for the Christmas quarter, by me, Dorcas Ansell. You may see it. You may not improve it.", "timing": {"end": 79.76, "start": 67.84}}
+{"sentence_id": 16, "speaker": "william_shakespeare", "start": "11:16:21", "text": "I will not improve it. The latch is yours, and the twenty are paid.", "timing": {"end": 85.62, "start": 81.18}}
+{"sentence_id": 17, "speaker": "dorcas_ansell", "start": "11:16:26", "text": "Try the door once more before you go down to the river. If it sticks, it is still mine. If it shuts, go and play, and come back wet if you must. I did not undertake the weather.", "timing": {"end": 97.42, "start": 85.62}}
+{"sentence_id": 18, "speaker": "william_shakespeare", "start": "11:16:37", "text": "It shuts. God keep you, Mistress.", "timing": {"end": 100.14, "start": 97.42}}
+{"sentence_id": 19, "speaker": "dorcas_ansell", "start": "11:16:40", "text": "God keep you. And do not pay me twice for a thing I have already refused.", "timing": {"end": 105.26, "start": 100.14}}

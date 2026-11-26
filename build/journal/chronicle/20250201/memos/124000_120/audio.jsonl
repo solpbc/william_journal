@@ -1,3 +1,3 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "12:40:00", "text": "Home, and not for long. Bread, if it is on the board. I am not buying a dinner between a hill and a play.", "timing": {"end": 10.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "12:40:10", "text": "Errors at two. I am in it. I open, and then I wait. The first Caesar can have the south bank. I have had one river already.", "timing": {"end": 20.0, "start": 10.0}}
+{"backend": "whisper", "duration": 16.43, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "12:40:00", "text": "Home, and not for long. Bread, if it is on the board. I am not buying a dinner between a hill and a play.", "timing": {"end": 7.44, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "12:40:07", "text": "Errors at two. I am in it. I open, and then I wait. The first Caesar can have the south bank. I have had one river already.", "timing": {"end": 15.84, "start": 7.44}}

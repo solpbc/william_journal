@@ -1,3 +1,3 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "02:10:00", "text": "He never once asks her. She does it all.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "02:10:14", "text": "\u2026Parting is such sweet sorrow. God. Leave it. Leave it in.", "timing": {"end": 24.0, "start": 14.0}}
+{"backend": "whisper", "duration": 9.23, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "02:10:00", "text": "He never once asks her. She does it all.", "timing": {"end": 3.44, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "02:10:03", "text": "\u2026Parting is such sweet sorrow. God. Leave it. Leave it in.", "timing": {"end": 8.64, "start": 3.44}}

@@ -1,27 +1,27 @@
-{"backend": "whisper", "duration": 300.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "gilbert_shakespeare", "start": "18:40:00", "text": "Brother? Gilbert. From St Bride's, and the shop's shut, so I'm speaking for nothing.", "timing": {"end": 10.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "18:40:10", "text": "Gilbert. I hear you.", "timing": {"end": 16.0, "start": 10.0}}
-{"sentence_id": 3, "speaker": "gilbert_shakespeare", "start": "18:40:16", "text": "It's Richard's day. One and twenty. I have sent nothing. Have you?", "timing": {"end": 26.0, "start": 16.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "18:40:26", "text": "Nothing. A letter written is not a letter on the road.", "timing": {"end": 34.0, "start": 26.0}}
-{"sentence_id": 5, "speaker": "gilbert_shakespeare", "start": "18:40:34", "text": "A Stratford man was at the Bell. He says Father is being dunned again.", "timing": {"end": 44.0, "start": 34.0}}
-{"sentence_id": 6, "speaker": "william_shakespeare", "start": "18:40:44", "text": "Who by?", "timing": {"end": 48.0, "start": 44.0}}
-{"sentence_id": 7, "speaker": "gilbert_shakespeare", "start": "18:40:48", "text": "Father owes the baker. No, not that baker. The other baker.", "timing": {"end": 58.0, "start": 48.0}}
-{"sentence_id": 8, "speaker": "william_shakespeare", "start": "18:40:58", "text": "You have the sound of a list.", "timing": {"end": 64.0, "start": 58.0}}
-{"sentence_id": 9, "speaker": "gilbert_shakespeare", "start": "18:41:04", "text": "The shoemaker. And the whittawer, for skins, which is a glover owing a glover.", "timing": {"end": 76.0, "start": 64.0}}
-{"sentence_id": 10, "speaker": "william_shakespeare", "start": "18:41:16", "text": "Three shops.", "timing": {"end": 80.0, "start": 76.0}}
-{"sentence_id": 11, "speaker": "gilbert_shakespeare", "start": "18:41:20", "text": "Three. Small sums, let run a year. I added them on a shop-ticket. I am not asking you to pay it.", "timing": {"end": 92.0, "start": 80.0}}
-{"sentence_id": 12, "speaker": "william_shakespeare", "start": "18:41:32", "text": "Read it.", "timing": {"end": 96.0, "start": 92.0}}
-{"sentence_id": 13, "speaker": "gilbert_shakespeare", "start": "18:41:36", "text": "The other baker, one and forty shillings. The shoemaker, four and forty shillings and sixpence. The whittawer, fourteen and six.", "timing": {"end": 110.0, "start": 96.0}}
-{"sentence_id": 14, "speaker": "william_shakespeare", "start": "18:41:50", "text": "Again.", "timing": {"end": 114.0, "start": 110.0}}
-{"sentence_id": 15, "speaker": "gilbert_shakespeare", "start": "18:41:54", "text": "Forty-one. Forty-four and six. Fourteen and six. The ticket comes to five pound if you are strict with the pence. I call it near five pound. A shop-ticket is not a purse.", "timing": {"end": 132.0, "start": 114.0}}
-{"sentence_id": 16, "speaker": "william_shakespeare", "start": "18:42:12", "text": "Fourteen and six is a sum I have already seen, in another ink.", "timing": {"end": 142.0, "start": 132.0}}
-{"sentence_id": 17, "speaker": "gilbert_shakespeare", "start": "18:42:22", "text": "I don't know your ink. I know the whittawer's book. He has not asked me to ask you.", "timing": {"end": 152.0, "start": 142.0}}
-{"sentence_id": 18, "speaker": "william_shakespeare", "start": "18:42:32", "text": "Which baker stands at the church porch on Sundays?", "timing": {"end": 160.0, "start": 152.0}}
-{"sentence_id": 19, "speaker": "gilbert_shakespeare", "start": "18:42:40", "text": "I don't know what you mean.", "timing": {"end": 166.0, "start": 160.0}}
-{"sentence_id": 20, "speaker": "william_shakespeare", "start": "18:42:46", "text": "Never mind. I'm for home in a fortnight.", "timing": {"end": 174.0, "start": 166.0}}
-{"sentence_id": 21, "speaker": "gilbert_shakespeare", "start": "18:42:54", "text": "A fortnight is a ride. It is not a purse.", "timing": {"end": 182.0, "start": 174.0}}
-{"sentence_id": 22, "speaker": "william_shakespeare", "start": "18:43:02", "text": "Then we are agreed. Five pound is the ticket. Near is your word. I will keep both, and pay neither tonight.", "timing": {"end": 194.0, "start": 182.0}}
-{"sentence_id": 23, "speaker": "gilbert_shakespeare", "start": "18:43:14", "text": "Keep them. I have read it twice.", "timing": {"end": 200.0, "start": 194.0}}
-{"sentence_id": 24, "speaker": "william_shakespeare", "start": "18:43:20", "text": "The shop is shut, you said. So this costs you nothing.", "timing": {"end": 208.0, "start": 200.0}}
-{"sentence_id": 25, "speaker": "gilbert_shakespeare", "start": "18:43:28", "text": "Then take a full purse and an empty face. God keep you.", "timing": {"end": 216.0, "start": 208.0}}
-{"sentence_id": 26, "speaker": "william_shakespeare", "start": "18:43:36", "text": "And you.", "timing": {"end": 226.0, "start": 216.0}}
+{"backend": "whisper", "duration": 98.41, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "gilbert_shakespeare", "start": "18:40:00", "text": "Brother? Gilbert. From St Bride's, and the shop's shut, so I'm speaking for nothing.", "timing": {"end": 5.6, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "18:40:06", "text": "Gilbert. I hear you.", "timing": {"end": 7.44, "start": 5.6}}
+{"sentence_id": 3, "speaker": "gilbert_shakespeare", "start": "18:40:07", "text": "It's Richard's day. One and twenty. I have sent nothing. Have you?", "timing": {"end": 12.0, "start": 7.44}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "18:40:12", "text": "Nothing. A letter written is not a letter on the road.", "timing": {"end": 15.44, "start": 12.0}}
+{"sentence_id": 5, "speaker": "gilbert_shakespeare", "start": "18:40:15", "text": "A Stratford man was at the Bell. He says Father is being dunned again.", "timing": {"end": 19.56, "start": 15.44}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "18:40:20", "text": "Who by?", "timing": {"end": 20.4, "start": 19.56}}
+{"sentence_id": 7, "speaker": "gilbert_shakespeare", "start": "18:40:20", "text": "Father owes the baker. No, not that baker. The other baker.", "timing": {"end": 24.96, "start": 20.4}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "18:40:25", "text": "You have the sound of a list.", "timing": {"end": 26.72, "start": 24.96}}
+{"sentence_id": 9, "speaker": "gilbert_shakespeare", "start": "18:40:27", "text": "The shoemaker. And the whittawer, for skins, which is a glover owing a glover.", "timing": {"end": 31.36, "start": 26.72}}
+{"sentence_id": 10, "speaker": "william_shakespeare", "start": "18:40:31", "text": "Three shops.", "timing": {"end": 32.56, "start": 31.36}}
+{"sentence_id": 11, "speaker": "gilbert_shakespeare", "start": "18:40:33", "text": "Three. Small sums, let run a year. I added them on a shop-ticket. I am not asking you to pay it.", "timing": {"end": 38.88, "start": 32.56}}
+{"sentence_id": 12, "speaker": "william_shakespeare", "start": "18:40:39", "text": "Read it.", "timing": {"end": 39.84, "start": 38.88}}
+{"sentence_id": 13, "speaker": "gilbert_shakespeare", "start": "18:40:40", "text": "The other baker, one and forty shillings. The shoemaker, four and forty shillings and sixpence. The whittawer, fourteen and six.", "timing": {"end": 48.0, "start": 39.84}}
+{"sentence_id": 14, "speaker": "william_shakespeare", "start": "18:40:48", "text": "Again.", "timing": {"end": 48.8, "start": 48.0}}
+{"sentence_id": 15, "speaker": "gilbert_shakespeare", "start": "18:40:49", "text": "Forty-one. Forty-four and six. Fourteen and six. The ticket comes to five pound if you are strict with the pence. I call it near five pound. A shop-ticket is not a purse.", "timing": {"end": 59.96, "start": 48.8}}
+{"sentence_id": 16, "speaker": "william_shakespeare", "start": "18:41:00", "text": "Fourteen and six is a sum I have already seen, in another ink.", "timing": {"end": 63.68, "start": 59.96}}
+{"sentence_id": 17, "speaker": "gilbert_shakespeare", "start": "18:41:04", "text": "I don't know your ink. I know the whittawer's book. He has not asked me to ask you.", "timing": {"end": 68.28, "start": 63.68}}
+{"sentence_id": 18, "speaker": "william_shakespeare", "start": "18:41:08", "text": "Which baker stands at the church porch on Sundays?", "timing": {"end": 71.2, "start": 68.28}}
+{"sentence_id": 19, "speaker": "gilbert_shakespeare", "start": "18:41:11", "text": "I don't know what you mean.", "timing": {"end": 72.72, "start": 71.2}}
+{"sentence_id": 20, "speaker": "william_shakespeare", "start": "18:41:14", "text": "Never mind. I'm for home in a fortnight.", "timing": {"end": 76.7, "start": 73.66}}
+{"sentence_id": 21, "speaker": "gilbert_shakespeare", "start": "18:41:17", "text": "A fortnight is a ride. It is not a purse.", "timing": {"end": 80.14, "start": 76.7}}
+{"sentence_id": 22, "speaker": "william_shakespeare", "start": "18:41:20", "text": "Then we are agreed. Five pound is the ticket. Near is your word. I will keep both, and pay neither tonight.", "timing": {"end": 87.42, "start": 80.14}}
+{"sentence_id": 23, "speaker": "gilbert_shakespeare", "start": "18:41:27", "text": "Keep them. I have read it twice.", "timing": {"end": 89.58, "start": 87.42}}
+{"sentence_id": 24, "speaker": "william_shakespeare", "start": "18:41:30", "text": "The shop is shut, you said. So this costs you nothing.", "timing": {"end": 92.86, "start": 89.58}}
+{"sentence_id": 25, "speaker": "gilbert_shakespeare", "start": "18:41:33", "text": "Then take a full purse and an empty face. God keep you.", "timing": {"end": 96.86, "start": 92.86}}
+{"sentence_id": 26, "speaker": "william_shakespeare", "start": "18:41:37", "text": "And you.", "timing": {"end": 97.82, "start": 96.86}}

@@ -1,5 +1,5 @@
-{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "16:10:00", "text": "Home. The bells are still going at four. They were going when I came up from the church, and they were going along Cheapside, and they have not given it up.", "timing": {"end": 16.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:10:16", "text": "He looked up, and he did not ask. The great house by the chapel can stay in the list.", "timing": {"end": 28.0, "start": 16.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "16:10:28", "text": "The seal is where I left it. The eleventh is Thursday. I am not opening it to improve a Sunday.", "timing": {"end": 40.0, "start": 28.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "16:10:40", "text": "Phillips is not told. Not today. The page can wait till the house is quiet.", "timing": {"end": 50.0, "start": 40.0}}
+{"backend": "whisper", "duration": 25.95, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "16:10:00", "text": "Home. The bells are still going at four. They were going when I came up from the church, and they were going along Cheapside, and they have not given it up.", "timing": {"end": 9.2, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:10:09", "text": "He looked up, and he did not ask. The great house by the chapel can stay in the list.", "timing": {"end": 14.32, "start": 9.2}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "16:10:14", "text": "The seal is where I left it. The eleventh is Thursday. I am not opening it to improve a Sunday.", "timing": {"end": 20.56, "start": 14.32}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "16:10:21", "text": "Phillips is not told. Not today. The page can wait till the house is quiet.", "timing": {"end": 25.36, "start": 20.56}}

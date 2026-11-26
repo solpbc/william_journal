@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "13:55:00", "text": "These are the gentlemen who had our Errors on Innocents' night.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "13:55:14", "text": "They keep a better court than Navarre's. Plumes, and a hired horse, and the door shut on us.", "timing": {"end": 36.0, "start": 14.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "13:55:36", "text": "\u2026", "timing": {"end": 46.0, "start": 36.0}}
+{"backend": "whisper", "duration": 9.79, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "13:55:00", "text": "These are the gentlemen who had our Errors on Innocents' night.", "timing": {"end": 3.6, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "13:55:04", "text": "They keep a better court than Navarre's. Plumes, and a hired horse, and the door shut on us.", "timing": {"end": 8.85, "start": 3.6}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "13:55:09", "text": "\u2026", "timing": {"end": 9.12, "start": 8.85}}

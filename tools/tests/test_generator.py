@@ -444,6 +444,47 @@ def test_reconvert_leaves_a_real_photo_intact(tmp_path: Path) -> None:
     assert photo.read_bytes() == real
 
 
+def test_reconvert_leaves_real_audio_and_timings_intact(tmp_path: Path) -> None:
+    """A second convert must preserve real audio.flac bytes and aligned audio.jsonl timings."""
+    scratch_journal = tmp_path / "journal"
+    _stage_march_week_backdrop(scratch_journal)
+    converter.convert_content_to_journal(
+        content_dir=FIXTURES_DIR,
+        journal_dir=scratch_journal,
+        solstone_repo=SOLSTONE_REPO,
+    )
+    talk_segs = sorted((scratch_journal / "chronicle" / "20250315" / "talk").glob("*"))
+    assert talk_segs, "expected at least one talk segment in 2025-03-15 fixture"
+    seg_dir = talk_segs[0]
+    flac_path = seg_dir / "audio.flac"
+    jsonl_path = seg_dir / "audio.jsonl"
+
+    real_flac = b"fLaC" + b"\x00" * 2048
+    flac_path.write_bytes(real_flac)
+
+    lines = [json.loads(ln) for ln in jsonl_path.read_text(encoding="utf-8").splitlines() if ln.strip()]
+    lines[0]["duration"] = 42.5
+    for idx, rec in enumerate(lines[1:]):
+        rec["timing"] = {"start": round(idx * 2.5, 2), "end": round((idx + 1) * 2.5, 2)}
+        rec["start"] = f"12:00:{idx * 2:02d}"
+    jsonl_path.write_text(
+        "".join(json.dumps(ln, sort_keys=True) + "\n" for ln in lines),
+        encoding="utf-8",
+    )
+
+    converter.convert_content_to_journal(
+        content_dir=FIXTURES_DIR,
+        journal_dir=scratch_journal,
+        solstone_repo=SOLSTONE_REPO,
+    )
+    assert flac_path.is_file()
+    assert flac_path.read_bytes() == real_flac
+    after = [json.loads(ln) for ln in jsonl_path.read_text(encoding="utf-8").splitlines() if ln.strip()]
+    assert after[0]["duration"] == 42.5
+    assert after[1]["timing"] == {"start": 0.0, "end": 2.5}
+    assert after[1]["start"] == "12:00:00"
+
+
 def test_reconvert_adopts_a_legacy_screenshot_jpeg(tmp_path: Path) -> None:
     """Bytes installed as a screen segment become the imported photo, unchanged."""
     scratch_journal = tmp_path / "journal"

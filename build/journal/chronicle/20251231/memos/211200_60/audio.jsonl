@@ -1,5 +1,5 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:12:00", "text": "Some of it is the company's. Some is Burby's. Some is the Master's to cut. Some is under two locks. I know which is which.", "timing": {"end": 16.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:12:16", "text": "Twenty pound of it, not to be spent.", "timing": {"end": 28.0, "start": 16.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:12:28", "text": "No. Not on the leaf. Not the reason.", "timing": {"end": 40.0, "start": 28.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "21:12:40", "text": "Counted. \u2026Tired. Not done. Good.", "timing": {"end": 50.0, "start": 40.0}}
+{"backend": "whisper", "duration": 16.51, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:12:00", "text": "Some of it is the company's. Some is Burby's. Some is the Master's to cut. Some is under two locks. I know which is which.", "timing": {"end": 7.76, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:12:08", "text": "Twenty pound of it, not to be spent.", "timing": {"end": 9.8, "start": 7.76}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:12:10", "text": "No. Not on the leaf. Not the reason.", "timing": {"end": 12.44, "start": 9.8}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "21:12:12", "text": "Counted. \u2026Tired. Not done. Good.", "timing": {"end": 15.92, "start": 12.44}}

@@ -1,2 +1,2 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:55:00", "text": "Monday at six, at the Bell. Nothing paid. The tally is shut. The three sheets are not a play. He said thou. I am not writing the rest tonight.", "timing": {"end": 10.0, "start": 0.0}}
+{"backend": "whisper", "duration": 10.43, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:55:00", "text": "Monday at six, at the Bell. Nothing paid. The tally is shut. The three sheets are not a play. He said thou. I am not writing the rest tonight.", "timing": {"end": 9.84, "start": 0.0}}

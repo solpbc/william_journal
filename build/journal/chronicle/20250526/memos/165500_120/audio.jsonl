@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "16:55:00", "text": "Ask it. The queen, the gardeners, the bad news. Is it likely?", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:55:14", "text": "Do not answer it. She is twelve, and she reads. Let her say.", "timing": {"end": 28.0, "start": 14.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "16:55:28", "text": "The king is two-thirds made. That is for Anne, on the same sheet. Not a word more than two-thirds.", "timing": {"end": 38.0, "start": 28.0}}
+{"backend": "whisper", "duration": 16.83, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "16:55:00", "text": "Ask it. The queen, the gardeners, the bad news. Is it likely?", "timing": {"end": 5.28, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:55:05", "text": "Do not answer it. She is twelve, and she reads. Let her say.", "timing": {"end": 10.16, "start": 5.28}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "16:55:10", "text": "The king is two-thirds made. That is for Anne, on the same sheet. Not a word more than two-thirds.", "timing": {"end": 16.24, "start": 10.16}}

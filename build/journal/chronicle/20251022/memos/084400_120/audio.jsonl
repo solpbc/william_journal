@@ -1,5 +1,5 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "08:44:08", "text": "Master Yaxley has his brass basin out on the pole already, and a carter on the stool within.", "timing": {"end": 18.0, "start": 8.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:44:18", "text": "Eight days since, on the Tuesday, I went in at that door holding my cheek like an apple, and came out lighter by twelvepence and three roots.", "timing": {"end": 30.0, "start": 18.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "08:44:30", "text": "Today I walk past his window with my mouth shut and my tongue in an empty place.", "timing": {"end": 40.0, "start": 30.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "08:44:40", "text": "Better the gap than the drum. Keep inside the posts till the wood-cart clears the chain.", "timing": {"end": 50.0, "start": 40.0}}
+{"backend": "whisper", "duration": 24.03, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "08:44:00", "text": "Master Yaxley has his brass basin out on the pole already, and a carter on the stool within.", "timing": {"end": 5.68, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:44:06", "text": "Eight days since, on the Tuesday, I went in at that door holding my cheek like an apple, and came out lighter by twelvepence and three roots.", "timing": {"end": 13.96, "start": 5.68}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "08:44:14", "text": "Today I walk past his window with my mouth shut and my tongue in an empty place.", "timing": {"end": 18.6, "start": 13.96}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "08:44:19", "text": "Better the gap than the drum. Keep inside the posts till the wood-cart clears the chain.", "timing": {"end": 23.44, "start": 18.6}}

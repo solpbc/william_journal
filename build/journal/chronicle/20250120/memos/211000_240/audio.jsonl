@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 240.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:10:00", "text": "The Shrew went on at two without me. I did not hear it. Ranger's Comedy went on at the Rose. I did not hear that either.", "timing": {"end": 18.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:10:18", "text": "I struck one line and I stopped. The owl is not written. The last line is not written. Tomorrow, before dinner, I shut the door, or I admit I cannot.", "timing": {"end": 38.0, "start": 18.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:10:38", "text": "The letter is still on her table. I am not answering it tonight to make the desk look finished.", "timing": {"end": 48.0, "start": 38.0}}
+{"backend": "whisper", "duration": 24.03, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:10:00", "text": "The Shrew went on at two without me. I did not hear it. Ranger's Comedy went on at the Rose. I did not hear that either.", "timing": {"end": 7.92, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:10:08", "text": "I struck one line and I stopped. The owl is not written. The last line is not written. Tomorrow, before dinner, I shut the door, or I admit I cannot.", "timing": {"end": 18.4, "start": 7.92}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:10:18", "text": "The letter is still on her table. I am not answering it tonight to make the desk look finished.", "timing": {"end": 23.44, "start": 18.4}}

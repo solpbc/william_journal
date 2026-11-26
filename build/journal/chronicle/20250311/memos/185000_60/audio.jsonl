@@ -1,5 +1,5 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "18:50:00", "text": "One and forty, and four and forty and six, and fourteen and six. A hundred shillings. Five pound, if you are strict. He called it near.", "timing": {"end": 16.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "18:50:16", "text": "Fourteen and six is the whittawer's, and it is the same fourteen and six. She wrote that it need not trouble me. It has troubled the ticket.", "timing": {"end": 30.0, "start": 16.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "18:50:30", "text": "Nothing paid. A shop-ticket is a sum. It is not a warrant.", "timing": {"end": 40.0, "start": 30.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "18:50:40", "text": "A fortnight. The horse is still a sentence in her letter. Enough.", "timing": {"end": 50.0, "start": 40.0}}
+{"backend": "whisper", "duration": 27.23, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "18:50:00", "text": "One and forty, and four and forty and six, and fourteen and six. A hundred shillings. Five pound, if you are strict. He called it near.", "timing": {"end": 10.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "18:50:10", "text": "Fourteen and six is the whittawer's, and it is the same fourteen and six. She wrote that it need not trouble me. It has troubled the ticket.", "timing": {"end": 17.76, "start": 10.0}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "18:50:18", "text": "Nothing paid. A shop-ticket is a sum. It is not a warrant.", "timing": {"end": 22.16, "start": 17.76}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "18:50:22", "text": "A fortnight. The horse is still a sentence in her letter. Enough.", "timing": {"end": 26.64, "start": 22.16}}

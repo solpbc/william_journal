@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "09:18:00", "text": "The gate was open. A cap in the road. Backs running north.", "timing": {"end": 10.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "09:18:10", "text": "I did not see the middle of it.", "timing": {"end": 16.0, "start": 10.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "09:18:16", "text": "\u2026Enough.", "timing": {"end": 26.0, "start": 16.0}}
+{"backend": "whisper", "duration": 9.21, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "09:18:00", "text": "The gate was open. A cap in the road. Backs running north.", "timing": {"end": 4.04, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "09:18:04", "text": "I did not see the middle of it.", "timing": {"end": 6.0, "start": 4.04}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "09:18:06", "text": "\u2026Enough.", "timing": {"end": 7.04, "start": 6.0}}

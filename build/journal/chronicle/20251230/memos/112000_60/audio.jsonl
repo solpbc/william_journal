@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "11:20:00", "text": "The page joins them. He comes back not himself. She wakes and sees him.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:20:14", "text": "I am not counting the leaves under it.", "timing": {"end": 24.0, "start": 14.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "11:20:24", "text": "Enough for a dinner.", "timing": {"end": 34.0, "start": 24.0}}
+{"backend": "whisper", "duration": 9.95, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "11:20:00", "text": "The page joins them. He comes back not himself. She wakes and sees him.", "timing": {"end": 5.84, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:20:06", "text": "I am not counting the leaves under it.", "timing": {"end": 8.28, "start": 5.84}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "11:20:08", "text": "Enough for a dinner.", "timing": {"end": 9.36, "start": 8.28}}

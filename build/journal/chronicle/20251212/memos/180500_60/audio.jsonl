@@ -1,5 +1,5 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "18:05:00", "text": "A very good piece of it, and the ear saved for the end, and the whole room made to wait. That is his mouth. Too many of my joints in it.", "timing": {"end": 16.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "18:05:16", "text": "Once more, the same road, slower, as he would hold them on the turf. Still mine. I can hear the ink.", "timing": {"end": 30.0, "start": 16.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "18:05:30", "text": "No. His. It's his.", "timing": {"end": 38.0, "start": 30.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "18:05:38", "text": "The queen stays where she is. On top of this, when I get to her. Not tonight.", "timing": {"end": 48.0, "start": 38.0}}
+{"backend": "whisper", "duration": 23.55, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "18:05:00", "text": "A very good piece of it, and the ear saved for the end, and the whole room made to wait. That is his mouth. Too many of my joints in it.", "timing": {"end": 8.92, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "18:05:09", "text": "Once more, the same road, slower, as he would hold them on the turf. Still mine. I can hear the ink.", "timing": {"end": 16.08, "start": 8.92}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "18:05:16", "text": "No. His. It's his.", "timing": {"end": 18.28, "start": 16.08}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "18:05:18", "text": "The queen stays where she is. On top of this, when I get to her. Not tonight.", "timing": {"end": 22.96, "start": 18.28}}

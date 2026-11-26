@@ -1,2 +1,2 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "07:10:12", "text": "Not by the tree. Not five weeks after.", "timing": {"end": 22.0, "start": 12.0}}
+{"backend": "whisper", "duration": 4.19, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "07:10:00", "text": "Not by the tree. Not five weeks after.", "timing": {"end": 3.36, "start": 0.0}}

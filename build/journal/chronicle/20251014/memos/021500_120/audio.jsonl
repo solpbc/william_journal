@@ -1,7 +1,7 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "02:15:00", "text": "Oil on the gum. The chamber will not lengthen because a man wants a walk.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "02:15:14", "text": "Grendon, in July. The constable, and his big words. Then the weavers and the shearmen, arguing the old guild plays, as they argued them when I was a boy.", "timing": {"end": 32.0, "start": 14.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "02:15:32", "text": "Golding. Pyramus and Thisbe, talking through a crack in a wall.", "timing": {"end": 44.0, "start": 32.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "02:15:44", "text": "And then one figure that is all three. A weaver who will play the lover and the lady and the lion, with an ass's head on him, very solemn about it.", "timing": {"end": 66.0, "start": 44.0}}
-{"sentence_id": 5, "speaker": "william_shakespeare", "start": "02:16:06", "text": "A man with a head like\u2014 no. A man who'd play the wall if you let him.", "timing": {"end": 78.0, "start": 66.0}}
-{"sentence_id": 6, "speaker": "william_shakespeare", "start": "02:16:18", "text": "Clove's working. Mark it, and sleep.", "timing": {"end": 88.0, "start": 78.0}}
+{"backend": "whisper", "duration": 36.83, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "02:15:00", "text": "Oil on the gum. The chamber will not lengthen because a man wants a walk.", "timing": {"end": 5.12, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "02:15:05", "text": "Grendon, in July. The constable, and his big words. Then the weavers and the shearmen, arguing the old guild plays, as they argued them when I was a boy.", "timing": {"end": 15.28, "start": 5.12}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "02:15:15", "text": "Golding. Pyramus and Thisbe, talking through a crack in a wall.", "timing": {"end": 19.6, "start": 15.28}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "02:15:20", "text": "And then one figure that is all three. A weaver who will play the lover and the lady and the lion, with an ass's head on him, very solemn about it.", "timing": {"end": 28.48, "start": 19.6}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "02:15:28", "text": "A man with a head like\u2014 no. A man who'd play the wall if you let him.", "timing": {"end": 33.28, "start": 28.48}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "02:15:33", "text": "Clove's working. Mark it, and sleep.", "timing": {"end": 36.24, "start": 33.28}}

@@ -1,2 +1,2 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "17:15:00", "text": "Money feels freer before it's counted. Counted, it's only money. Good. Better that way.", "timing": {"end": 10.0, "start": 0.0}}
+{"backend": "whisper", "duration": 7.07, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "17:15:00", "text": "Money feels freer before it's counted. Counted, it's only money. Good. Better that way.", "timing": {"end": 6.48, "start": 0.0}}

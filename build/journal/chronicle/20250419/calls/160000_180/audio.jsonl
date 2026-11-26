@@ -1,13 +1,13 @@
-{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "john_heminges", "start": "16:00:00", "text": "Will? John Heminges. From Aldermanbury, with a house full of boys.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:00:12", "text": "John. I heard him this morning. He croaked like a rook.", "timing": {"end": 22.0, "start": 12.0}}
-{"sentence_id": 3, "speaker": "john_heminges", "start": "16:00:22", "text": "Sam Latchet has a cold in the head. On Monday he is to sing the cuckoo to the biggest house of the spring. Phillips has him by the fire with honey, and is keeping him dumb.", "timing": {"end": 40.0, "start": 22.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "16:00:40", "text": "Dumb is right. I did not give the word to anyone else at the yard.", "timing": {"end": 52.0, "start": 40.0}}
-{"sentence_id": 5, "speaker": "john_heminges", "start": "16:00:52", "text": "Arthur Meeks is learning the owl in case. He sings it as if it were a judgment.", "timing": {"end": 64.0, "start": 52.0}}
-{"sentence_id": 6, "speaker": "william_shakespeare", "start": "16:01:04", "text": "The owl may be a judgment and the cuckoo cannot.", "timing": {"end": 74.0, "start": 64.0}}
-{"sentence_id": 7, "speaker": "john_heminges", "start": "16:01:14", "text": "Then the order is Sam if he can, Arthur if he must. And no word to Sam that there is an if.", "timing": {"end": 88.0, "start": 74.0}}
-{"sentence_id": 8, "speaker": "william_shakespeare", "start": "16:01:28", "text": "No word. He will not hear it from me. If the throat is clear on Monday, he sings, and he need not know there was another boy ready.", "timing": {"end": 106.0, "start": 88.0}}
-{"sentence_id": 9, "speaker": "john_heminges", "start": "16:01:46", "text": "Item, the fire, the honey, and the closed mouth. I will see them kept. Does the king go forward?", "timing": {"end": 118.0, "start": 106.0}}
-{"sentence_id": 10, "speaker": "william_shakespeare", "start": "16:01:58", "text": "He's talking.", "timing": {"end": 124.0, "start": 118.0}}
-{"sentence_id": 11, "speaker": "john_heminges", "start": "16:02:04", "text": "God keep you. Easter joy.", "timing": {"end": 132.0, "start": 124.0}}
-{"sentence_id": 12, "speaker": "william_shakespeare", "start": "16:02:12", "text": "And you, John.", "timing": {"end": 142.0, "start": 132.0}}
+{"backend": "whisper", "duration": 56.99, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "john_heminges", "start": "16:00:00", "text": "Will? John Heminges. From Aldermanbury, with a house full of boys.", "timing": {"end": 5.28, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:00:05", "text": "John. I heard him this morning. He croaked like a rook.", "timing": {"end": 9.44, "start": 5.28}}
+{"sentence_id": 3, "speaker": "john_heminges", "start": "16:00:09", "text": "Sam Latchet has a cold in the head. On Monday he is to sing the cuckoo to the biggest house of the spring. Phillips has him by the fire with honey, and is keeping him dumb.", "timing": {"end": 19.12, "start": 9.44}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "16:00:19", "text": "Dumb is right. I did not give the word to anyone else at the yard.", "timing": {"end": 23.04, "start": 19.12}}
+{"sentence_id": 5, "speaker": "john_heminges", "start": "16:00:23", "text": "Arthur Meeks is learning the owl in case. He sings it as if it were a judgment.", "timing": {"end": 27.84, "start": 23.04}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "16:00:28", "text": "The owl may be a judgment and the cuckoo cannot.", "timing": {"end": 31.04, "start": 27.84}}
+{"sentence_id": 7, "speaker": "john_heminges", "start": "16:00:31", "text": "Then the order is Sam if he can, Arthur if he must. And no word to Sam that there is an if.", "timing": {"end": 38.08, "start": 31.04}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "16:00:38", "text": "No word. He will not hear it from me. If the throat is clear on Monday, he sings, and he need not know there was another boy ready.", "timing": {"end": 45.76, "start": 38.08}}
+{"sentence_id": 9, "speaker": "john_heminges", "start": "16:00:46", "text": "Item, the fire, the honey, and the closed mouth. I will see them kept. Does the king go forward?", "timing": {"end": 51.84, "start": 45.76}}
+{"sentence_id": 10, "speaker": "william_shakespeare", "start": "16:00:52", "text": "He's talking.", "timing": {"end": 52.88, "start": 51.84}}
+{"sentence_id": 11, "speaker": "john_heminges", "start": "16:00:53", "text": "God keep you. Easter joy.", "timing": {"end": 55.36, "start": 52.88}}
+{"sentence_id": 12, "speaker": "william_shakespeare", "start": "16:00:55", "text": "And you, John.", "timing": {"end": 56.4, "start": 55.36}}

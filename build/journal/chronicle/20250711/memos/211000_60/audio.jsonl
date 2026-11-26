@@ -1,2 +1,2 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:10:00", "text": "The moon is full. I have not put a sea on the town. The tables have the tombs, and the day, and the heat. That is the whole of what I asked.", "timing": {"end": 10.0, "start": 0.0}}
+{"backend": "whisper", "duration": 9.55, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:10:00", "text": "The moon is full. I have not put a sea on the town. The tables have the tombs, and the day, and the heat. That is the whole of what I asked.", "timing": {"end": 8.96, "start": 0.0}}

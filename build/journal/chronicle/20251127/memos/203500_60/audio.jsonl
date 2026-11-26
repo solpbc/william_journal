@@ -1,2 +1,2 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:35:00", "text": "Tomorrow the Theatre plays Fair Em, and I am not in it. I mean to stand in the Rose yard. The bill is a king of that name. The joke is crossed. The men stay men. I am not lighting anything else tonight.", "timing": {"end": 10.0, "start": 0.0}}
+{"backend": "whisper", "duration": 13.71, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:35:00", "text": "Tomorrow the Theatre plays Fair Em, and I am not in it. I mean to stand in the Rose yard. The bill is a king of that name. The joke is crossed. The men stay men. I am not lighting anything else tonight.", "timing": {"end": 13.12, "start": 0.0}}

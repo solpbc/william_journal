@@ -1,15 +1,15 @@
-{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "gilbert_shakespeare", "start": "19:00:00", "text": "Brother? Gilbert. From St Bride's, and back since Saturday.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "19:00:12", "text": "Brother. You are in. I am at the house.", "timing": {"end": 22.0, "start": 12.0}}
-{"sentence_id": 3, "speaker": "gilbert_shakespeare", "start": "19:00:22", "text": "I have been down on the shop's business. The buckets and the leather hooks hang filled by every well in Henley Street, as the bailiff ordered.", "timing": {"end": 40.0, "start": 22.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "19:00:40", "text": "Filled. That is the order kept.", "timing": {"end": 48.0, "start": 40.0}}
-{"sentence_id": 5, "speaker": "gilbert_shakespeare", "start": "19:00:48", "text": "Anne's beans are a span high. Hamnet won twopence at the butts with blunt arrows. Our mother would know whether you eat.", "timing": {"end": 66.0, "start": 48.0}}
-{"sentence_id": 6, "speaker": "william_shakespeare", "start": "19:01:06", "text": "I eat. Tell her so if she asks you, and not a sermon with it.", "timing": {"end": 78.0, "start": 66.0}}
-{"sentence_id": 7, "speaker": "gilbert_shakespeare", "start": "19:01:18", "text": "Hobbins is in on Thursday. I cannot leave the shop. Will you fetch what's come.", "timing": {"end": 92.0, "start": 78.0}}
-{"sentence_id": 8, "speaker": "william_shakespeare", "start": "19:01:32", "text": "I will fetch it. Thursday.", "timing": {"end": 100.0, "start": 92.0}}
-{"sentence_id": 9, "speaker": "gilbert_shakespeare", "start": "19:01:40", "text": "And the girl's day is the twenty-sixth.", "timing": {"end": 108.0, "start": 100.0}}
-{"sentence_id": 10, "speaker": "william_shakespeare", "start": "19:01:48", "text": "I'd forgot it.", "timing": {"end": 114.0, "start": 108.0}}
-{"sentence_id": 11, "speaker": "gilbert_shakespeare", "start": "19:01:54", "text": "So had I, till the almanac told me.", "timing": {"end": 124.0, "start": 114.0}}
-{"sentence_id": 12, "speaker": "william_shakespeare", "start": "19:02:04", "text": "Then send the almanac.", "timing": {"end": 132.0, "start": 124.0}}
-{"sentence_id": 13, "speaker": "gilbert_shakespeare", "start": "19:02:12", "text": "God keep you.", "timing": {"end": 138.0, "start": 132.0}}
-{"sentence_id": 14, "speaker": "william_shakespeare", "start": "19:02:18", "text": "And you.", "timing": {"end": 148.0, "start": 138.0}}
+{"backend": "whisper", "duration": 43.55, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "gilbert_shakespeare", "start": "19:00:00", "text": "Brother? Gilbert. From St Bride's, and back since Saturday.", "timing": {"end": 4.16, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "19:00:04", "text": "Brother. You are in. I am at the house.", "timing": {"end": 7.2, "start": 4.16}}
+{"sentence_id": 3, "speaker": "gilbert_shakespeare", "start": "19:00:07", "text": "I have been down on the shop's business. The buckets and the leather hooks hang filled by every well in Henley Street, as the bailiff ordered.", "timing": {"end": 14.4, "start": 7.2}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "19:00:14", "text": "Filled. That is the order kept.", "timing": {"end": 16.72, "start": 14.4}}
+{"sentence_id": 5, "speaker": "gilbert_shakespeare", "start": "19:00:17", "text": "Anne's beans are a span high. Hamnet won twopence at the butts with blunt arrows. Our mother would know whether you eat.", "timing": {"end": 23.36, "start": 16.72}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "19:00:23", "text": "I eat. Tell her so if she asks you, and not a sermon with it.", "timing": {"end": 27.48, "start": 23.36}}
+{"sentence_id": 7, "speaker": "gilbert_shakespeare", "start": "19:00:27", "text": "Hobbins is in on Thursday. I cannot leave the shop. Will you fetch what's come.", "timing": {"end": 32.0, "start": 27.48}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "19:00:32", "text": "I will fetch it. Thursday.", "timing": {"end": 33.92, "start": 32.0}}
+{"sentence_id": 9, "speaker": "gilbert_shakespeare", "start": "19:00:34", "text": "And the girl's day is the twenty-sixth.", "timing": {"end": 36.0, "start": 33.92}}
+{"sentence_id": 10, "speaker": "william_shakespeare", "start": "19:00:36", "text": "I'd forgot it.", "timing": {"end": 37.12, "start": 36.0}}
+{"sentence_id": 11, "speaker": "gilbert_shakespeare", "start": "19:00:37", "text": "So had I, till the almanac told me.", "timing": {"end": 39.44, "start": 37.12}}
+{"sentence_id": 12, "speaker": "william_shakespeare", "start": "19:00:39", "text": "Then send the almanac.", "timing": {"end": 40.96, "start": 39.44}}
+{"sentence_id": 13, "speaker": "gilbert_shakespeare", "start": "19:00:41", "text": "God keep you.", "timing": {"end": 42.08, "start": 40.96}}
+{"sentence_id": 14, "speaker": "william_shakespeare", "start": "19:00:42", "text": "And you.", "timing": {"end": 42.96, "start": 42.08}}

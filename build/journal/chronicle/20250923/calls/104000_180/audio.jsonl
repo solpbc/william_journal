@@ -1,14 +1,14 @@
-{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "henry_wriothesley_southampton", "start": "10:40:00", "text": "Master Shakespeare? Southampton. From Holborn, where I am for two nights, with Florio at my elbow frowning at me.", "timing": {"end": 18.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "10:40:18", "text": "My lord.", "timing": {"end": 22.0, "start": 18.0}}
-{"sentence_id": 3, "speaker": "henry_wriothesley_southampton", "start": "10:40:22", "text": "They tell me you've left off poems for players. Is it so? I call that a desertion.", "timing": {"end": 38.0, "start": 22.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "10:40:38", "text": "The players pay by the week, my lord. A poem is paid once, in honour, which I have had of your lordship and do not forget.", "timing": {"end": 56.0, "start": 38.0}}
-{"sentence_id": 5, "speaker": "henry_wriothesley_southampton", "start": "10:40:56", "text": "Prettily said. You see, Florio, he can still. The court is at Nonsuch. I have a horse, and a tilt on the Queen's day. I'm to run. Come and see me unhorsed.", "timing": {"end": 78.0, "start": 56.0}}
-{"sentence_id": 6, "speaker": "henry_wriothesley_southampton", "start": "10:41:18", "text": "The court is very certain I am in love. The court is always certain.", "timing": {"end": 96.0, "start": 78.0}}
-{"sentence_id": 7, "speaker": "henry_wriothesley_southampton", "start": "10:41:36", "text": "I want something of you. For a lady. Fourteen lines, such as you make, that a man might send with a pair of gloves and not be laughed at. Or be laughed at, but kindly.", "timing": {"end": 118.0, "start": 96.0}}
-{"sentence_id": 8, "speaker": "william_shakespeare", "start": "10:41:58", "text": "Is she fair, my lord?", "timing": {"end": 124.0, "start": 118.0}}
-{"sentence_id": 9, "speaker": "henry_wriothesley_southampton", "start": "10:42:04", "text": "She is\u2014 yes. And she mocks me.", "timing": {"end": 132.0, "start": 124.0}}
-{"sentence_id": 10, "speaker": "william_shakespeare", "start": "10:42:12", "text": "Then she is wise, and it must be good. My lord, I have a friar who bids his lovers love moderately. He is not much heeded.", "timing": {"end": 158.0, "start": 132.0}}
-{"sentence_id": 11, "speaker": "henry_wriothesley_southampton", "start": "10:42:38", "text": "Then he is a friar.", "timing": {"end": 172.0, "start": 158.0}}
-{"sentence_id": 12, "speaker": "henry_wriothesley_southampton", "start": "10:42:52", "text": "Make it good. God keep you, Master Shakespeare.", "timing": {"end": 182.0, "start": 172.0}}
-{"sentence_id": 13, "speaker": "william_shakespeare", "start": "10:43:02", "text": "And your good lordship.", "timing": {"end": 188.0, "start": 182.0}}
+{"backend": "whisper", "duration": 64.51, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "henry_wriothesley_southampton", "start": "10:40:00", "text": "Master Shakespeare? Southampton. From Holborn, where I am for two nights, with Florio at my elbow frowning at me.", "timing": {"end": 6.88, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "10:40:07", "text": "My lord.", "timing": {"end": 7.76, "start": 6.88}}
+{"sentence_id": 3, "speaker": "henry_wriothesley_southampton", "start": "10:40:08", "text": "They tell me you've left off poems for players. Is it so? I call that a desertion.", "timing": {"end": 12.88, "start": 7.76}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "10:40:13", "text": "The players pay by the week, my lord. A poem is paid once, in honour, which I have had of your lordship and do not forget.", "timing": {"end": 20.4, "start": 12.88}}
+{"sentence_id": 5, "speaker": "henry_wriothesley_southampton", "start": "10:40:20", "text": "Prettily said. You see, Florio, he can still. The court is at Nonsuch. I have a horse, and a tilt on the Queen's day. I'm to run. Come and see me unhorsed.", "timing": {"end": 30.64, "start": 20.4}}
+{"sentence_id": 6, "speaker": "henry_wriothesley_southampton", "start": "10:40:31", "text": "The court is very certain I am in love. The court is always certain.", "timing": {"end": 35.04, "start": 30.64}}
+{"sentence_id": 7, "speaker": "henry_wriothesley_southampton", "start": "10:40:35", "text": "I want something of you. For a lady. Fourteen lines, such as you make, that a man might send with a pair of gloves and not be laughed at. Or be laughed at, but kindly.", "timing": {"end": 45.0, "start": 35.04}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "10:40:45", "text": "Is she fair, my lord?", "timing": {"end": 46.56, "start": 45.0}}
+{"sentence_id": 9, "speaker": "henry_wriothesley_southampton", "start": "10:40:47", "text": "She is\u2014 yes. And she mocks me.", "timing": {"end": 49.92, "start": 46.56}}
+{"sentence_id": 10, "speaker": "william_shakespeare", "start": "10:40:50", "text": "Then she is wise, and it must be good. My lord, I have a friar who bids his lovers love moderately. He is not much heeded.", "timing": {"end": 58.24, "start": 49.92}}
+{"sentence_id": 11, "speaker": "henry_wriothesley_southampton", "start": "10:40:58", "text": "Then he is a friar.", "timing": {"end": 59.6, "start": 58.24}}
+{"sentence_id": 12, "speaker": "henry_wriothesley_southampton", "start": "10:41:00", "text": "Make it good. God keep you, Master Shakespeare.", "timing": {"end": 62.32, "start": 59.6}}
+{"sentence_id": 13, "speaker": "william_shakespeare", "start": "10:41:02", "text": "And your good lordship.", "timing": {"end": 63.92, "start": 62.32}}

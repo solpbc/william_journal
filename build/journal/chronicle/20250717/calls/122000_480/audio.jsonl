@@ -1,14 +1,14 @@
-{"backend": "whisper", "duration": 480.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "john_heminges", "start": "12:20:00", "text": "Will? John Heminges. From Aldermanbury, with the book open.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "12:20:12", "text": "John. I am at the Theatre. The book, then.", "timing": {"end": 22.0, "start": 12.0}}
-{"sentence_id": 3, "speaker": "john_heminges", "start": "12:20:22", "text": "Yesterday's boxes were the best since Whitsun. Bankside has found the way to Shoreditch while the Rose is dark. Saturday's share will be seventeen shillings, or near it.", "timing": {"end": 44.0, "start": 22.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "12:20:44", "text": "Seventeen, or near it. That is Saturday's figure. What is the matter?", "timing": {"end": 56.0, "start": 44.0}}
-{"sentence_id": 5, "speaker": "john_heminges", "start": "12:20:56", "text": "Item, August. Four weeks dark, and five hired men who'll eat whether we play or no. If I pay them nothing, the\u2014 the Admiral's will have two of them by Bartholomew.", "timing": {"end": 78.0, "start": 56.0}}
-{"sentence_id": 6, "speaker": "john_heminges", "start": "12:21:18", "text": "Five shillings a week each, out of the stock, to hold them. Five pound for the month.", "timing": {"end": 92.0, "start": 78.0}}
-{"sentence_id": 7, "speaker": "william_shakespeare", "start": "12:21:32", "text": "Pay it. A hired man who knows his cues is cheaper than a new one.", "timing": {"end": 106.0, "start": 92.0}}
-{"sentence_id": 8, "speaker": "john_heminges", "start": "12:21:46", "text": "And the Labour's Won, for Michaelmas?", "timing": {"end": 114.0, "start": 106.0}}
-{"sentence_id": 9, "speaker": "william_shakespeare", "start": "12:21:54", "text": "On the thirty-first of April, John. You shall have a king at Michaelmas, cut to the Master's measure.", "timing": {"end": 132.0, "start": 114.0}}
-{"sentence_id": 10, "speaker": "john_heminges", "start": "12:22:12", "text": "My knees are bad in the heat. My wife says Nick has had new shoes twice since Easter.", "timing": {"end": 148.0, "start": 132.0}}
-{"sentence_id": 11, "speaker": "william_shakespeare", "start": "12:22:28", "text": "Twice since Easter is a boy's feet. I have heard it.", "timing": {"end": 160.0, "start": 148.0}}
-{"sentence_id": 12, "speaker": "john_heminges", "start": "12:22:40", "text": "God keep you.", "timing": {"end": 166.0, "start": 160.0}}
-{"sentence_id": 13, "speaker": "william_shakespeare", "start": "12:22:46", "text": "And you.", "timing": {"end": 176.0, "start": 166.0}}
+{"backend": "whisper", "duration": 62.27, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "john_heminges", "start": "12:20:00", "text": "Will? John Heminges. From Aldermanbury, with the book open.", "timing": {"end": 4.48, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "12:20:04", "text": "John. I am at the Theatre. The book, then.", "timing": {"end": 7.84, "start": 4.48}}
+{"sentence_id": 3, "speaker": "john_heminges", "start": "12:20:08", "text": "Yesterday's boxes were the best since Whitsun. Bankside has found the way to Shoreditch while the Rose is dark. Saturday's share will be seventeen shillings, or near it.", "timing": {"end": 17.84, "start": 7.84}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "12:20:18", "text": "Seventeen, or near it. That is Saturday's figure. What is the matter?", "timing": {"end": 22.88, "start": 17.84}}
+{"sentence_id": 5, "speaker": "john_heminges", "start": "12:20:23", "text": "Item, August. Four weeks dark, and five hired men who'll eat whether we play or no. If I pay them nothing, the\u2014 the Admiral's will have two of them by Bartholomew.", "timing": {"end": 34.24, "start": 22.88}}
+{"sentence_id": 6, "speaker": "john_heminges", "start": "12:20:34", "text": "Five shillings a week each, out of the stock, to hold them. Five pound for the month.", "timing": {"end": 39.2, "start": 34.24}}
+{"sentence_id": 7, "speaker": "william_shakespeare", "start": "12:20:39", "text": "Pay it. A hired man who knows his cues is cheaper than a new one.", "timing": {"end": 43.52, "start": 39.2}}
+{"sentence_id": 8, "speaker": "john_heminges", "start": "12:20:44", "text": "And the Labour's Won, for Michaelmas?", "timing": {"end": 45.52, "start": 43.52}}
+{"sentence_id": 9, "speaker": "william_shakespeare", "start": "12:20:46", "text": "On the thirty-first of April, John. You shall have a king at Michaelmas, cut to the Master's measure.", "timing": {"end": 50.8, "start": 45.52}}
+{"sentence_id": 10, "speaker": "john_heminges", "start": "12:20:51", "text": "My knees are bad in the heat. My wife says Nick has had new shoes twice since Easter.", "timing": {"end": 56.08, "start": 50.8}}
+{"sentence_id": 11, "speaker": "william_shakespeare", "start": "12:20:56", "text": "Twice since Easter is a boy's feet. I have heard it.", "timing": {"end": 59.44, "start": 56.08}}
+{"sentence_id": 12, "speaker": "john_heminges", "start": "12:20:59", "text": "God keep you.", "timing": {"end": 60.48, "start": 59.44}}
+{"sentence_id": 13, "speaker": "william_shakespeare", "start": "12:21:00", "text": "And you.", "timing": {"end": 61.6, "start": 60.48}}

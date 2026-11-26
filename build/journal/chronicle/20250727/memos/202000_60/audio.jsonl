@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:20:00", "text": "The belt has the six. The two locks have the rest. I am not opening either again.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:20:14", "text": "Brooke is on the shelf. The list is wiped. I told her a man goes home.", "timing": {"end": 28.0, "start": 14.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:20:28", "text": "The pack is shut. I am in bed, and it is still light.", "timing": {"end": 38.0, "start": 28.0}}
+{"backend": "whisper", "duration": 15.23, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:20:00", "text": "The belt has the six. The two locks have the rest. I am not opening either again.", "timing": {"end": 5.92, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:20:06", "text": "Brooke is on the shelf. The list is wiped. I told her a man goes home.", "timing": {"end": 11.0, "start": 5.92}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:20:11", "text": "The pack is shut. I am in bed, and it is still light.", "timing": {"end": 14.64, "start": 11.0}}

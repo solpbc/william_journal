@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:20:00", "text": "Seven days. The boy is clear. The door is dark. I am not starting a king tonight.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:20:14", "text": "One answer is still two words. I am not writing the third.", "timing": {"end": 26.0, "start": 14.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:20:26", "text": "The moon can be large. Enough.", "timing": {"end": 36.0, "start": 26.0}}
+{"backend": "whisper", "duration": 14.19, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:20:00", "text": "Seven days. The boy is clear. The door is dark. I am not starting a king tonight.", "timing": {"end": 6.72, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:20:07", "text": "One answer is still two words. I am not writing the third.", "timing": {"end": 11.12, "start": 6.72}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:20:11", "text": "The moon can be large. Enough.", "timing": {"end": 13.6, "start": 11.12}}

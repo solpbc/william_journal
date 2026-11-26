@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:40:00", "text": "Write the rest. He meant the man who enjoys the mercy. That part is his.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:40:14", "text": "The farewell is not his. I will not name him tonight.", "timing": {"end": 26.0, "start": 14.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:40:26", "text": "The eggs were cold. The sheets are home. No.", "timing": {"end": 36.0, "start": 26.0}}
+{"backend": "whisper", "duration": 12.51, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:40:00", "text": "Write the rest. He meant the man who enjoys the mercy. That part is his.", "timing": {"end": 4.84, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:40:05", "text": "The farewell is not his. I will not name him tonight.", "timing": {"end": 8.48, "start": 4.84}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:40:08", "text": "The eggs were cold. The sheets are home. No.", "timing": {"end": 11.92, "start": 8.48}}

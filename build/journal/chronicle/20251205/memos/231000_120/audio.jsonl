@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "23:10:00", "text": "Then she wakes hoarse, as a girl would that had slept two days in a grave.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "23:10:14", "text": "That is the whole of the mercy. I will not give him six to make the mercy longer.", "timing": {"end": 28.0, "start": 14.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "23:10:28", "text": "Five. He has gone to sleep, or he has not. I am not writing the words beside the number. Saturday can hear them once, in a yard, which is the only place they are owed.", "timing": {"end": 38.0, "start": 28.0}}
+{"backend": "whisper", "duration": 20.43, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "23:10:00", "text": "Then she wakes hoarse, as a girl would that had slept two days in a grave.", "timing": {"end": 5.12, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "23:10:05", "text": "That is the whole of the mercy. I will not give him six to make the mercy longer.", "timing": {"end": 9.92, "start": 5.12}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "23:10:10", "text": "Five. He has gone to sleep, or he has not. I am not writing the words beside the number. Saturday can hear them once, in a yard, which is the only place they are owed.", "timing": {"end": 19.84, "start": 9.92}}

@@ -1,14 +1,14 @@
-{"backend": "whisper", "duration": 240.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "john_heminges", "start": "12:10:00", "text": "Will? John. From the mercer's, in Cheapside, and I'd as soon be out of it.", "timing": {"end": 16.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "12:10:16", "text": "What does he say, John? Have we a Princess, or does she come in what we already own?", "timing": {"end": 32.0, "start": 16.0}}
-{"sentence_id": 3, "speaker": "john_heminges", "start": "12:10:32", "text": "The Princess of France wants a gown fit for one: watchet taffeta, and copper lace that will pass for gold at ten paces.", "timing": {"end": 50.0, "start": 32.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "12:10:50", "text": "What does he name for it?", "timing": {"end": 60.0, "start": 50.0}}
-{"sentence_id": 5, "speaker": "john_heminges", "start": "12:11:00", "text": "Fifty shillings. He will take half down. The\u2014 the stock has eleven shillings in it till Saturday.", "timing": {"end": 78.0, "start": 60.0}}
-{"sentence_id": 6, "speaker": "william_shakespeare", "start": "12:11:18", "text": "Could France be poorer, and still be France?", "timing": {"end": 90.0, "start": 78.0}}
-{"sentence_id": 7, "speaker": "john_heminges", "start": "12:11:30", "text": "Not when the King of Navarre goes in his own old velvet.", "timing": {"end": 102.0, "start": 90.0}}
-{"sentence_id": 8, "speaker": "william_shakespeare", "start": "12:11:42", "text": "Then do not pay the half. Let him set the fifty against the Queen's twenty pounds, whenever that comes. Nothing from my purse, and nothing out of the eleven today.", "timing": {"end": 124.0, "start": 102.0}}
-{"sentence_id": 9, "speaker": "john_heminges", "start": "12:12:04", "text": "He will take the note. The half is not paid. I am not pretending Saturday's stock is a larger stock than it is.", "timing": {"end": 140.0, "start": 124.0}}
-{"sentence_id": 10, "speaker": "william_shakespeare", "start": "12:12:20", "text": "Where is Nick?", "timing": {"end": 148.0, "start": 140.0}}
-{"sentence_id": 11, "speaker": "john_heminges", "start": "12:12:28", "text": "Beside me, being measured, standing like a post. He bids me say the sleeves must be long. He's grown.", "timing": {"end": 166.0, "start": 148.0}}
-{"sentence_id": 12, "speaker": "william_shakespeare", "start": "12:12:46", "text": "Long sleeves, then. God keep you both.", "timing": {"end": 176.0, "start": 166.0}}
-{"sentence_id": 13, "speaker": "john_heminges", "start": "12:12:56", "text": "And you, Will. We will be back before the play.", "timing": {"end": 186.0, "start": 176.0}}
+{"backend": "whisper", "duration": 62.19, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "john_heminges", "start": "12:10:00", "text": "Will? John. From the mercer's, in Cheapside, and I'd as soon be out of it.", "timing": {"end": 5.76, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "12:10:06", "text": "What does he say, John? Have we a Princess, or does she come in what we already own?", "timing": {"end": 10.4, "start": 5.76}}
+{"sentence_id": 3, "speaker": "john_heminges", "start": "12:10:10", "text": "The Princess of France wants a gown fit for one: watchet taffeta, and copper lace that will pass for gold at ten paces.", "timing": {"end": 18.16, "start": 10.4}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "12:10:18", "text": "What does he name for it?", "timing": {"end": 19.52, "start": 18.16}}
+{"sentence_id": 5, "speaker": "john_heminges", "start": "12:10:20", "text": "Fifty shillings. He will take half down. The\u2014 the stock has eleven shillings in it till Saturday.", "timing": {"end": 25.28, "start": 19.52}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "12:10:25", "text": "Could France be poorer, and still be France?", "timing": {"end": 28.32, "start": 25.28}}
+{"sentence_id": 7, "speaker": "john_heminges", "start": "12:10:28", "text": "Not when the King of Navarre goes in his own old velvet.", "timing": {"end": 31.52, "start": 28.32}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "12:10:32", "text": "Then do not pay the half. Let him set the fifty against the Queen's twenty pounds, whenever that comes. Nothing from my purse, and nothing out of the eleven today.", "timing": {"end": 40.56, "start": 31.52}}
+{"sentence_id": 9, "speaker": "john_heminges", "start": "12:10:41", "text": "He will take the note. The half is not paid. I am not pretending Saturday's stock is a larger stock than it is.", "timing": {"end": 47.36, "start": 40.56}}
+{"sentence_id": 10, "speaker": "william_shakespeare", "start": "12:10:47", "text": "Where is Nick?", "timing": {"end": 48.4, "start": 47.36}}
+{"sentence_id": 11, "speaker": "john_heminges", "start": "12:10:48", "text": "Beside me, being measured, standing like a post. He bids me say the sleeves must be long. He's grown.", "timing": {"end": 55.76, "start": 48.4}}
+{"sentence_id": 12, "speaker": "william_shakespeare", "start": "12:10:56", "text": "Long sleeves, then. God keep you both.", "timing": {"end": 58.48, "start": 55.76}}
+{"sentence_id": 13, "speaker": "john_heminges", "start": "12:10:58", "text": "And you, Will. We will be back before the play.", "timing": {"end": 61.6, "start": 58.48}}

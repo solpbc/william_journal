@@ -1,7 +1,7 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "11:40:00", "text": "Unjust steward. Goods. Friends of his master's goods. The heads are gone.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:40:14", "text": "The unjust steward made friends of his master's goods. No. That is more than stayed.", "timing": {"end": 28.0, "start": 14.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "11:40:28", "text": "Goods not yet in his hand. That is the shard.", "timing": {"end": 40.0, "start": 28.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "11:40:40", "text": "Shoes, the small debts, a horse at Lent. Twenty pounds, not mine, not yet had. I counted those, and I lost him.", "timing": {"end": 58.0, "start": 40.0}}
-{"sentence_id": 5, "speaker": "william_shakespeare", "start": "11:40:58", "text": "Attend properly next Sunday. Sit. Hear the man. Do not spend the hour.", "timing": {"end": 72.0, "start": 58.0}}
-{"sentence_id": 6, "speaker": "william_shakespeare", "start": "11:41:12", "text": "\u2026Enough.", "timing": {"end": 82.0, "start": 72.0}}
+{"backend": "whisper", "duration": 29.39, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "11:40:00", "text": "Unjust steward. Goods. Friends of his master's goods. The heads are gone.", "timing": {"end": 5.84, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:40:06", "text": "The unjust steward made friends of his master's goods. No. That is more than stayed.", "timing": {"end": 11.44, "start": 5.84}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "11:40:11", "text": "Goods not yet in his hand. That is the shard.", "timing": {"end": 15.12, "start": 11.44}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "11:40:15", "text": "Shoes, the small debts, a horse at Lent. Twenty pounds, not mine, not yet had. I counted those, and I lost him.", "timing": {"end": 23.12, "start": 15.12}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "11:40:23", "text": "Attend properly next Sunday. Sit. Hear the man. Do not spend the hour.", "timing": {"end": 28.0, "start": 23.12}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "11:40:28", "text": "\u2026Enough.", "timing": {"end": 28.8, "start": 28.0}}

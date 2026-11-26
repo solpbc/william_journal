@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:20:00", "text": "Sunday. His table. Not the Holinshed.", "timing": {"end": 8.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:20:08", "text": "Twelve shillings. The bag is shut. The sheet is still blank.", "timing": {"end": 18.0, "start": 8.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:20:18", "text": "\u2026Enough.", "timing": {"end": 28.0, "start": 18.0}}
+{"backend": "whisper", "duration": 9.87, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:20:00", "text": "Sunday. His table. Not the Holinshed.", "timing": {"end": 3.76, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:20:04", "text": "Twelve shillings. The bag is shut. The sheet is still blank.", "timing": {"end": 8.16, "start": 3.76}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:20:08", "text": "\u2026Enough.", "timing": {"end": 9.28, "start": 8.16}}

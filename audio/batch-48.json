@@ -1,0 +1,716 @@
+{
+  "count": 48,
+  "total_chars": 71320,
+  "remaining_multi_chars": 63959,
+  "remaining_memo_chars": 4952,
+  "est_minutes": 88.6,
+  "rows": [
+    {
+      "category": "company",
+      "rel": "20250102/talk/090500_480",
+      "day": "20250102",
+      "stream": "talk",
+      "speakers": [
+        "abel_garnish",
+        "richard_burbage",
+        "will_kemp",
+        "william_shakespeare"
+      ],
+      "turns": 33,
+      "chars": 2390,
+      "note": "Errors plot on the door \u2014 opening company banter",
+      "already_synthesized": false
+    },
+    {
+      "category": "company",
+      "rel": "20250107/talk/091500_600",
+      "day": "20250107",
+      "stream": "talk",
+      "speakers": [
+        "abel_garnish",
+        "augustine_phillips",
+        "richard_burbage",
+        "will_kemp",
+        "william_shakespeare"
+      ],
+      "turns": 30,
+      "chars": 2807,
+      "note": "The third entrance \u2014 5-voice rehearsal",
+      "already_synthesized": false
+    },
+    {
+      "category": "company",
+      "rel": "20250111/talk/165000_600",
+      "day": "20250111",
+      "stream": "talk",
+      "speakers": [
+        "john_heminges",
+        "richard_burbage",
+        "will_kemp",
+        "william_shakespeare"
+      ],
+      "turns": 25,
+      "chars": 2933,
+      "note": "Holiday boxes reckoning (\u00a311 8s)",
+      "already_synthesized": false
+    },
+    {
+      "category": "company",
+      "rel": "20250203/talk/161000_720",
+      "day": "20250203",
+      "stream": "talk",
+      "speakers": [
+        "john_heminges",
+        "richard_burbage",
+        "will_kemp",
+        "william_shakespeare"
+      ],
+      "turns": 25,
+      "chars": 2761,
+      "note": "William's voice back after winter cold",
+      "already_synthesized": false
+    },
+    {
+      "category": "company",
+      "rel": "20250211/talk/090800_720",
+      "day": "20250211",
+      "stream": "talk",
+      "speakers": [
+        "abel_garnish",
+        "augustine_phillips",
+        "richard_burbage",
+        "will_kemp",
+        "william_shakespeare"
+      ],
+      "turns": 17,
+      "chars": 1912,
+      "note": "Nine of the clock \u2014 5-voice rehearsal",
+      "already_synthesized": false
+    },
+    {
+      "category": "company",
+      "rel": "20250213/talk/091000_720",
+      "day": "20250213",
+      "stream": "talk",
+      "speakers": [
+        "abel_garnish",
+        "augustine_phillips",
+        "richard_burbage",
+        "will_kemp",
+        "william_shakespeare"
+      ],
+      "turns": 13,
+      "chars": 1939,
+      "note": "The K \u2014 Garnish's tally of Kemp's interest",
+      "already_synthesized": false
+    },
+    {
+      "category": "company",
+      "rel": "20250417/talk/091000_720",
+      "day": "20250417",
+      "stream": "talk",
+      "speakers": [
+        "abel_garnish",
+        "augustine_phillips",
+        "john_heminges",
+        "richard_burbage",
+        "will_kemp",
+        "william_shakespeare"
+      ],
+      "turns": 25,
+      "chars": 2983,
+      "note": "An empty sleeve \u2014 6 company voices before Easter",
+      "already_synthesized": false
+    },
+    {
+      "category": "company",
+      "rel": "20250426/talk/172000_720",
+      "day": "20250426",
+      "stream": "talk",
+      "speakers": [
+        "john_heminges",
+        "richard_burbage",
+        "will_kemp",
+        "william_shakespeare"
+      ],
+      "turns": 25,
+      "chars": 2137,
+      "note": "William's baptism day \u2014 gingerbread & St George",
+      "already_synthesized": false
+    },
+    {
+      "category": "company",
+      "rel": "20251108/talk/165000_480",
+      "day": "20251108",
+      "stream": "talk",
+      "speakers": [
+        "abel_garnish",
+        "john_heminges",
+        "richard_burbage",
+        "will_kemp",
+        "william_shakespeare"
+      ],
+      "turns": 27,
+      "chars": 2585,
+      "note": "Thirty-four shillings by candle in November fog",
+      "already_synthesized": false
+    },
+    {
+      "category": "company",
+      "rel": "20251115/talk/165500_720",
+      "day": "20251115",
+      "stream": "talk",
+      "speakers": [
+        "augustine_phillips",
+        "john_heminges",
+        "richard_burbage",
+        "will_kemp",
+        "william_shakespeare"
+      ],
+      "turns": 28,
+      "chars": 2425,
+      "note": "No new total \u2014 next week's plays",
+      "already_synthesized": false
+    },
+    {
+      "category": "company",
+      "rel": "20251125/talk/091000_720",
+      "day": "20251125",
+      "stream": "talk",
+      "speakers": [
+        "abel_garnish",
+        "john_heminges",
+        "richard_burbage",
+        "william_shakespeare"
+      ],
+      "turns": 26,
+      "chars": 2535,
+      "note": "The cut book \u2014 Richard II & Gaunt",
+      "already_synthesized": false
+    },
+    {
+      "category": "household",
+      "rel": "20250216/talk/121500_720",
+      "day": "20250216",
+      "stream": "talk",
+      "speakers": [
+        "alse_pinder",
+        "dorcas_ansell",
+        "gillis_verbeke",
+        "william_shakespeare"
+      ],
+      "turns": 28,
+      "chars": 2279,
+      "note": "The penny loaf \u2014 Sunday table",
+      "already_synthesized": false
+    },
+    {
+      "category": "household",
+      "rel": "20250220/talk/172000_600",
+      "day": "20250220",
+      "stream": "talk",
+      "speakers": [
+        "alse_pinder",
+        "dorcas_ansell",
+        "william_shakespeare"
+      ],
+      "turns": 25,
+      "chars": 2222,
+      "note": "After Love's Labour's Lost opens (\u00a37 11s)",
+      "already_synthesized": false
+    },
+    {
+      "category": "household",
+      "rel": "20250612/talk/161000_720",
+      "day": "20250612",
+      "stream": "talk",
+      "speakers": [
+        "alse_pinder",
+        "dorcas_ansell",
+        "gillis_verbeke",
+        "william_shakespeare"
+      ],
+      "turns": 26,
+      "chars": 1789,
+      "note": "From Norwich \u2014 hiding Gillis Verbeke in the garret",
+      "already_synthesized": false
+    },
+    {
+      "category": "household",
+      "rel": "20250623/talk/213000_720",
+      "day": "20250623",
+      "stream": "talk",
+      "speakers": [
+        "alse_pinder",
+        "augustine_phillips",
+        "dorcas_ansell",
+        "gillis_verbeke",
+        "will_kemp",
+        "william_shakespeare"
+      ],
+      "turns": 29,
+      "chars": 2409,
+      "note": "Midsummer Eve bonfires \u2014 6 voices across both worlds (mock showcase)",
+      "already_synthesized": false
+    },
+    {
+      "category": "household",
+      "rel": "20250625/talk/181500_720",
+      "day": "20250625",
+      "stream": "talk",
+      "speakers": [
+        "alse_pinder",
+        "dorcas_ansell",
+        "gillis_verbeke",
+        "william_shakespeare"
+      ],
+      "turns": 29,
+      "chars": 2001,
+      "note": "Mistress Ansell's verdict on Richard II ('a bad example')",
+      "already_synthesized": false
+    },
+    {
+      "category": "household",
+      "rel": "20250627/talk/194400_480",
+      "day": "20250627",
+      "stream": "talk",
+      "speakers": [
+        "alse_pinder",
+        "dorcas_ansell",
+        "gillis_verbeke",
+        "william_shakespeare"
+      ],
+      "turns": 26,
+      "chars": 1949,
+      "note": "Gallows at Crosby Place \u2014 'That is not how you ask for bread'",
+      "already_synthesized": false
+    },
+    {
+      "category": "household",
+      "rel": "20251022/talk/121000_480",
+      "day": "20251022",
+      "stream": "talk",
+      "speakers": [
+        "alse_pinder",
+        "dorcas_ansell",
+        "william_shakespeare"
+      ],
+      "turns": 25,
+      "chars": 3034,
+      "note": "Showcase day 22 Oct \u2014 healed jaw & short loaf",
+      "already_synthesized": false
+    },
+    {
+      "category": "household",
+      "rel": "20251206/talk/084000_600",
+      "day": "20251206",
+      "stream": "talk",
+      "speakers": [
+        "alse_pinder",
+        "dorcas_ansell",
+        "gillis_verbeke",
+        "william_shakespeare"
+      ],
+      "turns": 25,
+      "chars": 3077,
+      "note": "Morning of Romeo opening \u2014 church hat & lower gallery",
+      "already_synthesized": false
+    },
+    {
+      "category": "household",
+      "rel": "20251207/talk/074500_600",
+      "day": "20251207",
+      "stream": "talk",
+      "speakers": [
+        "alse_pinder",
+        "dorcas_ansell",
+        "gillis_verbeke",
+        "william_shakespeare"
+      ],
+      "turns": 30,
+      "chars": 2331,
+      "note": "Mistress Ansell's verdict on Romeo ('She should have minded her mother')",
+      "already_synthesized": false
+    },
+    {
+      "category": "household",
+      "rel": "20251222/talk/111500_600",
+      "day": "20251222",
+      "stream": "talk",
+      "speakers": [
+        "dorcas_ansell",
+        "william_shakespeare"
+      ],
+      "turns": 19,
+      "chars": 1555,
+      "note": "Early Christmas rent & the mended latch",
+      "already_synthesized": false
+    },
+    {
+      "category": "stratford",
+      "rel": "20250405/talk/154000_840",
+      "day": "20250405",
+      "stream": "talk",
+      "speakers": [
+        "anne_shakespeare",
+        "william_shakespeare"
+      ],
+      "turns": 25,
+      "chars": 2441,
+      "note": "Shottery walk \u2014 'Is London your trade or your dwelling?'",
+      "already_synthesized": false
+    },
+    {
+      "category": "stratford",
+      "rel": "20250808/talk/160000_360",
+      "day": "20250808",
+      "stream": "talk",
+      "speakers": [
+        "anne_shakespeare",
+        "william_shakespeare"
+      ],
+      "turns": 15,
+      "chars": 802,
+      "note": "Summer money reckoning at Henley Street",
+      "already_synthesized": false
+    },
+    {
+      "category": "stratford",
+      "rel": "20250815/talk/110000_480",
+      "day": "20250815",
+      "stream": "talk",
+      "speakers": [
+        "anne_shakespeare",
+        "william_shakespeare"
+      ],
+      "turns": 11,
+      "chars": 1663,
+      "note": "The bargain \u2014 no journey unarranged, looking at a house",
+      "already_synthesized": false
+    },
+    {
+      "category": "stratford",
+      "rel": "20250816/talk/164000_600",
+      "day": "20250816",
+      "stream": "talk",
+      "speakers": [
+        "anne_shakespeare",
+        "william_shakespeare"
+      ],
+      "turns": 18,
+      "chars": 1013,
+      "note": "New Place by the chapel \u2014 'That one, then'",
+      "already_synthesized": false
+    },
+    {
+      "category": "stratford",
+      "rel": "20250817/talk/211500_360",
+      "day": "20250817",
+      "stream": "talk",
+      "speakers": [
+        "anne_shakespeare",
+        "william_shakespeare"
+      ],
+      "turns": 12,
+      "chars": 1180,
+      "note": "Last Stratford evening \u2014 Susanna's hand & twins' shoes",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "rel": "20250127/calls/191500_240",
+      "day": "20250127",
+      "stream": "calls",
+      "speakers": [
+        "john_heminges",
+        "william_shakespeare"
+      ],
+      "turns": 13,
+      "chars": 998,
+      "note": "Heminges call \u2014 the ladies & two boys at 3s",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "rel": "20250204/calls/121000_240",
+      "day": "20250204",
+      "stream": "calls",
+      "speakers": [
+        "john_heminges",
+        "william_shakespeare"
+      ],
+      "turns": 13,
+      "chars": 973,
+      "note": "Heminges call \u2014 Cheapside mercer, watchet taffeta 50s",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "rel": "20250419/calls/160000_180",
+      "day": "20250419",
+      "stream": "calls",
+      "speakers": [
+        "john_heminges",
+        "william_shakespeare"
+      ],
+      "turns": 12,
+      "chars": 856,
+      "note": "Heminges call \u2014 the owl song & no word to Sam",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "rel": "20250614/calls/073000_240",
+      "day": "20250614",
+      "stream": "calls",
+      "speakers": [
+        "john_heminges",
+        "william_shakespeare"
+      ],
+      "turns": 15,
+      "chars": 1110,
+      "note": "Heminges call \u2014 riot morning quiet in Aldermanbury",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "rel": "20250717/calls/122000_480",
+      "day": "20250717",
+      "stream": "calls",
+      "speakers": [
+        "john_heminges",
+        "william_shakespeare"
+      ],
+      "turns": 13,
+      "chars": 948,
+      "note": "Heminges call \u2014 summer shares & a king at Michaelmas",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "rel": "20250822/calls/193000_120",
+      "day": "20250822",
+      "stream": "calls",
+      "speakers": [
+        "richard_burbage",
+        "william_shakespeare"
+      ],
+      "turns": 12,
+      "chars": 889,
+      "note": "Burbage call \u2014 welcome back, Verona & the king's roll",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "rel": "20250925/calls/121000_240",
+      "day": "20250925",
+      "stream": "calls",
+      "speakers": [
+        "john_heminges",
+        "william_shakespeare"
+      ],
+      "turns": 15,
+      "chars": 955,
+      "note": "Heminges call \u2014 tailor standing by, four shillings",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "rel": "20251125/calls/073000_240",
+      "day": "20251125",
+      "stream": "calls",
+      "speakers": [
+        "john_heminges",
+        "william_shakespeare"
+      ],
+      "turns": 14,
+      "chars": 1164,
+      "note": "Heminges birthday call \u2014 joy by the item & the hose",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "rel": "20251205/calls/224000_240",
+      "day": "20251205",
+      "stream": "calls",
+      "speakers": [
+        "richard_burbage",
+        "william_shakespeare"
+      ],
+      "turns": 12,
+      "chars": 584,
+      "note": "Burbage late-night call \u2014 cannot sleep before Romeo opens",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "rel": "20251220/calls/080000_180",
+      "day": "20251220",
+      "stream": "calls",
+      "speakers": [
+        "john_heminges",
+        "william_shakespeare"
+      ],
+      "turns": 11,
+      "chars": 739,
+      "note": "Heminges call \u2014 eleven pair of hose drying before court",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "rel": "20250101/memos/161000_60",
+      "day": "20250101",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 127,
+      "note": "New Year's Day \u2014 the failed light & the Worthies",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "rel": "20250221/memos/211500_120",
+      "day": "20250221",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 13,
+      "chars": 1893,
+      "note": "Southwell hanged at Tyburn \u2014 'He made verses too'",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "rel": "20250613/memos/170000_120",
+      "day": "20250613",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 5,
+      "chars": 711,
+      "note": "Run 8 Q7 receipt \u2014 Southwark butter riot (300 apprentices, 5d/3d, 500 lb)",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "rel": "20250721/memos/191500_120",
+      "day": "20250721",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 5,
+      "chars": 232,
+      "note": "Stratford fire letter arrives \u2014 six days late",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "rel": "20250816/memos/205000_60",
+      "day": "20250816",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 170,
+      "note": "After New Place \u2014 'that one, three years, no price'",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "rel": "20251022/memos/084400_120",
+      "day": "20251022",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 401,
+      "note": "Showcase day 22 Oct \u2014 Yaxley's shop & the drawn tooth",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "rel": "20251022/memos/214000_120",
+      "day": "20251022",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 6,
+      "chars": 628,
+      "note": "Showcase day 22 Oct \u2014 Arundel in the Tower & Pomfret",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "rel": "20251024/memos/112500_60",
+      "day": "20251024",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 94,
+      "note": "Nick Sorrell's voice cracked \u2014 six weeks to opening",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "rel": "20251122/memos/080800_60",
+      "day": "20251122",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 132,
+      "note": "Bottom day morning \u2014 the laugh without sound",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "rel": "20251122/memos/205500_120",
+      "day": "20251122",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 142,
+      "note": "Bottom day night \u2014 Kemp's tally shut",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "rel": "20251228/memos/154000_120",
+      "day": "20251228",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 196,
+      "note": "Richmond court \u2014 Egeon's tale & the cups",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "rel": "20251231/memos/211200_60",
+      "day": "20251231",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 226,
+      "note": "New Year's Eve \u2014 twenty pounds not on the leaf",
+      "already_synthesized": false
+    }
+  ]
+}

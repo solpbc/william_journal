@@ -1,3 +1,3 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "17:10:00", "text": "Titus is off. An old man. I am not giving him a name tonight.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "17:10:12", "text": "The page is still one page. The letter is still missing. I am not opening either of them to make an evening.", "timing": {"end": 22.0, "start": 12.0}}
+{"backend": "whisper", "duration": 12.27, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "17:10:00", "text": "Titus is off. An old man. I am not giving him a name tonight.", "timing": {"end": 4.8, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "17:10:05", "text": "The page is still one page. The letter is still missing. I am not opening either of them to make an evening.", "timing": {"end": 11.68, "start": 4.8}}

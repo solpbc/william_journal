@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "11:48:00", "text": "A student playing a prince, and the Tower's guns answer him as if it were so.", "timing": {"end": 10.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:48:10", "text": "We do it for a penny and are rogues by statute.", "timing": {"end": 18.0, "start": 10.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "11:48:18", "text": "One thing besides. An oar lifted almost upright, to spare another boat's dignity. Dick has the elbow. Augustine has the trumpet. I have the oar. Now home, and back for two.", "timing": {"end": 28.0, "start": 18.0}}
+{"backend": "whisper", "duration": 20.51, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "11:48:00", "text": "A student playing a prince, and the Tower's guns answer him as if it were so.", "timing": {"end": 4.44, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:48:04", "text": "We do it for a penny and are rogues by statute.", "timing": {"end": 7.84, "start": 4.44}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "11:48:08", "text": "One thing besides. An oar lifted almost upright, to spare another boat's dignity. Dick has the elbow. Augustine has the trumpet. I have the oar. Now home, and back for two.", "timing": {"end": 19.84, "start": 7.84}}

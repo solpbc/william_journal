@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 600.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "14:30:20", "text": "Wise Man. The Lord Admiral his servants. I have read it. That is the whole of the errand.", "timing": {"end": 160.0, "start": 20.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "14:32:40", "text": "I am not crossing the river for another company's afternoon. The house is dark until the new year, and that is the house I belong to.", "timing": {"end": 490.0, "start": 160.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "14:38:10", "text": "The close, and the stair, and the leaf. The post can keep its nail.", "timing": {"end": 500.0, "start": 490.0}}
+{"backend": "whisper", "duration": 18.51, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "14:30:00", "text": "Wise Man. The Lord Admiral his servants. I have read it. That is the whole of the errand.", "timing": {"end": 6.24, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "14:30:06", "text": "I am not crossing the river for another company's afternoon. The house is dark until the new year, and that is the house I belong to.", "timing": {"end": 13.63, "start": 6.24}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "14:30:14", "text": "The close, and the stair, and the leaf. The post can keep its nail.", "timing": {"end": 17.92, "start": 13.63}}

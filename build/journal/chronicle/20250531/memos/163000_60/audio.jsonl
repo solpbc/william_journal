@@ -1,3 +1,3 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "16:30:00", "text": "My name on two poems and a tax. Not on a play.", "timing": {"end": 9.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:30:09", "text": "\u2026Whose are they, then? The stationer's. The clown's. The boy's who says them.", "timing": {"end": 19.0, "start": 9.0}}
+{"backend": "whisper", "duration": 9.23, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "16:30:00", "text": "My name on two poems and a tax. Not on a play.", "timing": {"end": 3.92, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:30:04", "text": "\u2026Whose are they, then? The stationer's. The clown's. The boy's who says them.", "timing": {"end": 8.64, "start": 3.92}}

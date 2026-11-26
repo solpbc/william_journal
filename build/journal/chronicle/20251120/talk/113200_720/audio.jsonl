@@ -1,27 +1,27 @@
-{"backend": "whisper", "duration": 720.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "richard_field", "start": "11:32:00", "text": "Come in out of the court. It is market day at home. I never pass a Thursday but I know it.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:32:14", "text": "They will have the stalls up. What will you sell me?", "timing": {"end": 26.0, "start": 14.0}}
-{"sentence_id": 3, "speaker": "richard_field", "start": "11:32:26", "text": "A quire of the Rochelle, if that is what you came for. Fourpence halfpenny to you, at trade.", "timing": {"end": 42.0, "start": 26.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "11:32:42", "text": "Fourpence halfpenny. I have it.", "timing": {"end": 52.0, "start": 42.0}}
-{"sentence_id": 5, "speaker": "richard_field", "start": "11:32:52", "text": "My Holinshed, Will. The second volume. I see the gap on the shelf every morning.", "timing": {"end": 66.0, "start": 52.0}}
-{"sentence_id": 6, "speaker": "william_shakespeare", "start": "11:33:06", "text": "It is under a cloth, and the cat keeps it. I have not brought it.", "timing": {"end": 80.0, "start": 66.0}}
-{"sentence_id": 7, "speaker": "richard_field", "start": "11:33:20", "text": "I did not think you had. Sit a minute. I have a thing from across the river.", "timing": {"end": 94.0, "start": 80.0}}
-{"sentence_id": 8, "speaker": "william_shakespeare", "start": "11:33:34", "text": "Say it. I am paying for the quire.", "timing": {"end": 104.0, "start": 94.0}}
-{"sentence_id": 9, "speaker": "richard_field", "start": "11:33:44", "text": "At Lambeth, this week, the Archbishop and the Cambridge divines have agreed nine articles on predestination. Some are chosen before the world was made, and some are not.", "timing": {"end": 124.0, "start": 104.0}}
-{"sentence_id": 10, "speaker": "william_shakespeare", "start": "11:34:04", "text": "Nine.", "timing": {"end": 130.0, "start": 124.0}}
-{"sentence_id": 11, "speaker": "richard_field", "start": "11:34:10", "text": "Nine. And a man cannot, by any doing of his own, move himself from the one list to the other. There is a clarity in it.", "timing": {"end": 148.0, "start": 130.0}}
-{"sentence_id": 12, "speaker": "william_shakespeare", "start": "11:34:28", "text": "Measure twice, and cut once. That is as much as I am fit for before dinner.", "timing": {"end": 162.0, "start": 148.0}}
-{"sentence_id": 13, "speaker": "richard_field", "start": "11:34:42", "text": "You are agreeing with the proverb, and not with the articles. I am not deceived.", "timing": {"end": 176.0, "start": 162.0}}
-{"sentence_id": 14, "speaker": "william_shakespeare", "start": "11:34:56", "text": "Then let it go. What is the price of crown paper?", "timing": {"end": 188.0, "start": 176.0}}
-{"sentence_id": 15, "speaker": "richard_field", "start": "11:35:08", "text": "I will not give you a price to hide behind. The quire is fourpence halfpenny. It is what you came for.", "timing": {"end": 206.0, "start": 188.0}}
-{"sentence_id": 16, "speaker": "william_shakespeare", "start": "11:35:26", "text": "Then that is what I am buying. I am not buying a ninth article.", "timing": {"end": 220.0, "start": 206.0}}
-{"sentence_id": 17, "speaker": "richard_field", "start": "11:35:40", "text": "Take it. I approve the clarity, whether you hear it or leave it. Books outlive playhouses, and never draw prentices to break heads.", "timing": {"end": 240.0, "start": 220.0}}
-{"sentence_id": 18, "speaker": "william_shakespeare", "start": "11:36:00", "text": "A sentence a man can finish is a kindness. I have paid you.", "timing": {"end": 254.0, "start": 240.0}}
-{"sentence_id": 19, "speaker": "richard_field", "start": "11:36:14", "text": "Fourpence halfpenny. I have it. You keep your counsel, as the people who raised you kept theirs.", "timing": {"end": 270.0, "start": 254.0}}
-{"sentence_id": 20, "speaker": "william_shakespeare", "start": "11:36:30", "text": "Wrap the quire. I am not writing this down.", "timing": {"end": 282.0, "start": 270.0}}
-{"sentence_id": 21, "speaker": "richard_field", "start": "11:36:42", "text": "I did not ask you to. The till is right.", "timing": {"end": 292.0, "start": 282.0}}
-{"sentence_id": 22, "speaker": "william_shakespeare", "start": "11:36:52", "text": "The paper is enough.", "timing": {"end": 302.0, "start": 292.0}}
-{"sentence_id": 23, "speaker": "richard_field", "start": "11:37:02", "text": "Feel the weight, and go home by whatever street you like.", "timing": {"end": 314.0, "start": 302.0}}
-{"sentence_id": 24, "speaker": "william_shakespeare", "start": "11:37:14", "text": "I will go.", "timing": {"end": 322.0, "start": 314.0}}
-{"sentence_id": 25, "speaker": "richard_field", "start": "11:37:22", "text": "God keep you.", "timing": {"end": 328.0, "start": 322.0}}
-{"sentence_id": 26, "speaker": "william_shakespeare", "start": "11:37:28", "text": "And you, Richard.", "timing": {"end": 338.0, "start": 328.0}}
+{"backend": "whisper", "duration": 105.61, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "richard_field", "start": "11:32:00", "text": "Come in out of the court. It is market day at home. I never pass a Thursday but I know it.", "timing": {"end": 5.32, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:32:05", "text": "They will have the stalls up. What will you sell me?", "timing": {"end": 8.08, "start": 5.32}}
+{"sentence_id": 3, "speaker": "richard_field", "start": "11:32:08", "text": "A quire of the Rochelle, if that is what you came for. Fourpence halfpenny to you, at trade.", "timing": {"end": 13.28, "start": 8.08}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "11:32:13", "text": "Fourpence halfpenny. I have it.", "timing": {"end": 15.52, "start": 13.28}}
+{"sentence_id": 5, "speaker": "richard_field", "start": "11:32:16", "text": "My Holinshed, Will. The second volume. I see the gap on the shelf every morning.", "timing": {"end": 20.28, "start": 15.52}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "11:32:20", "text": "It is under a cloth, and the cat keeps it. I have not brought it.", "timing": {"end": 23.93, "start": 20.28}}
+{"sentence_id": 7, "speaker": "richard_field", "start": "11:32:24", "text": "I did not think you had. Sit a minute. I have a thing from across the river.", "timing": {"end": 28.24, "start": 23.93}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "11:32:28", "text": "Say it. I am paying for the quire.", "timing": {"end": 30.56, "start": 28.24}}
+{"sentence_id": 9, "speaker": "richard_field", "start": "11:32:31", "text": "At Lambeth, this week, the Archbishop and the Cambridge divines have agreed nine articles on predestination. Some are chosen before the world was made, and some are not.", "timing": {"end": 41.6, "start": 30.56}}
+{"sentence_id": 10, "speaker": "william_shakespeare", "start": "11:32:42", "text": "Nine.", "timing": {"end": 42.48, "start": 41.6}}
+{"sentence_id": 11, "speaker": "richard_field", "start": "11:32:42", "text": "Nine. And a man cannot, by any doing of his own, move himself from the one list to the other. There is a clarity in it.", "timing": {"end": 50.32, "start": 42.48}}
+{"sentence_id": 12, "speaker": "william_shakespeare", "start": "11:32:50", "text": "Measure twice, and cut once. That is as much as I am fit for before dinner.", "timing": {"end": 54.88, "start": 50.32}}
+{"sentence_id": 13, "speaker": "richard_field", "start": "11:32:55", "text": "You are agreeing with the proverb, and not with the articles. I am not deceived.", "timing": {"end": 59.36, "start": 54.88}}
+{"sentence_id": 14, "speaker": "william_shakespeare", "start": "11:32:59", "text": "Then let it go. What is the price of crown paper?", "timing": {"end": 62.32, "start": 59.36}}
+{"sentence_id": 15, "speaker": "richard_field", "start": "11:33:02", "text": "I will not give you a price to hide behind. The quire is fourpence halfpenny. It is what you came for.", "timing": {"end": 68.16, "start": 62.32}}
+{"sentence_id": 16, "speaker": "william_shakespeare", "start": "11:33:08", "text": "Then that is what I am buying. I am not buying a ninth article.", "timing": {"end": 72.0, "start": 68.16}}
+{"sentence_id": 17, "speaker": "richard_field", "start": "11:33:13", "text": "Take it. I approve the clarity, whether you hear it or leave it. Books outlive playhouses, and never draw prentices to break heads.", "timing": {"end": 81.42, "start": 73.1}}
+{"sentence_id": 18, "speaker": "william_shakespeare", "start": "11:33:21", "text": "A sentence a man can finish is a kindness. I have paid you.", "timing": {"end": 85.5, "start": 81.42}}
+{"sentence_id": 19, "speaker": "richard_field", "start": "11:33:26", "text": "Fourpence halfpenny. I have it. You keep your counsel, as the people who raised you kept theirs.", "timing": {"end": 91.1, "start": 85.5}}
+{"sentence_id": 20, "speaker": "william_shakespeare", "start": "11:33:31", "text": "Wrap the quire. I am not writing this down.", "timing": {"end": 94.06, "start": 91.1}}
+{"sentence_id": 21, "speaker": "richard_field", "start": "11:33:34", "text": "I did not ask you to. The till is right.", "timing": {"end": 96.94, "start": 94.06}}
+{"sentence_id": 22, "speaker": "william_shakespeare", "start": "11:33:37", "text": "The paper is enough.", "timing": {"end": 98.46, "start": 96.94}}
+{"sentence_id": 23, "speaker": "richard_field", "start": "11:33:38", "text": "Feel the weight, and go home by whatever street you like.", "timing": {"end": 101.58, "start": 98.46}}
+{"sentence_id": 24, "speaker": "william_shakespeare", "start": "11:33:42", "text": "I will go.", "timing": {"end": 102.54, "start": 101.58}}
+{"sentence_id": 25, "speaker": "richard_field", "start": "11:33:43", "text": "God keep you.", "timing": {"end": 103.58, "start": 102.54}}
+{"sentence_id": 26, "speaker": "william_shakespeare", "start": "11:33:44", "text": "And you, Richard.", "timing": {"end": 105.02, "start": 103.58}}

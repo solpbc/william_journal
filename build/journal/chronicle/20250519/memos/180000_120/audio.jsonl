@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "18:00:00", "text": "Tomorrow the Shrew is theirs. I am not in it.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "18:00:14", "text": "Hercules, at the Rose, at two. I will go over. I will stand in the yard.", "timing": {"end": 28.0, "start": 14.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "18:00:28", "text": "A giant. I want the size of him.", "timing": {"end": 38.0, "start": 28.0}}
+{"backend": "whisper", "duration": 11.79, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "18:00:00", "text": "Tomorrow the Shrew is theirs. I am not in it.", "timing": {"end": 3.44, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "18:00:03", "text": "Hercules, at the Rose, at two. I will go over. I will stand in the yard.", "timing": {"end": 8.4, "start": 3.44}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "18:00:08", "text": "A giant. I want the size of him.", "timing": {"end": 11.2, "start": 8.4}}

@@ -1,3 +1,3 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "18:43:00", "text": "Somebody plays as I'd like to write. Twice, and the second time laughing.", "timing": {"end": 11.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "18:43:11", "text": "\u2026", "timing": {"end": 21.0, "start": 11.0}}
+{"backend": "whisper", "duration": 7.45, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "18:43:00", "text": "Somebody plays as I'd like to write. Twice, and the second time laughing.", "timing": {"end": 4.84, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "18:43:05", "text": "\u2026", "timing": {"end": 5.2, "start": 4.84}}

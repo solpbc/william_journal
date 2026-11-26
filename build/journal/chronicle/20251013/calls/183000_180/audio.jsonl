@@ -1,16 +1,16 @@
-{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "18:30:00", "text": "Gilbert? Will. From Great St Helen's, with a face like a pudding. God give you joy of the day.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "gilbert_shakespeare", "start": "18:30:14", "text": "Brother. Gilbert. From my lodging in St Bride's. Twenty-nine, if the almanac is honest.", "timing": {"end": 28.0, "start": 14.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "18:30:28", "text": "Then joy of it. I can say the word. I cannot chew a feast.", "timing": {"end": 40.0, "start": 28.0}}
-{"sentence_id": 4, "speaker": "gilbert_shakespeare", "start": "18:30:40", "text": "The money went down safe by the carrier of the second. A Stratford wool-man at the Bell on Saturday brought the word back, and a cheese with it. Mother's make. A whole one. The note says half is yours.", "timing": {"end": 60.0, "start": 40.0}}
-{"sentence_id": 5, "speaker": "william_shakespeare", "start": "18:31:00", "text": "Half is a kindness I cannot use.", "timing": {"end": 68.0, "start": 60.0}}
-{"sentence_id": 6, "speaker": "gilbert_shakespeare", "start": "18:31:08", "text": "You can't chew. I'll eat your half and call it my birthday.", "timing": {"end": 80.0, "start": 68.0}}
-{"sentence_id": 7, "speaker": "william_shakespeare", "start": "18:31:20", "text": "Eat it. I am not sending anyone for a cheese I can only look at. Keep it where it is.", "timing": {"end": 94.0, "start": 80.0}}
-{"sentence_id": 8, "speaker": "gilbert_shakespeare", "start": "18:31:34", "text": "The frame they raised in August is thatched, and it stands. Father says it's the first thing a player ever held up.", "timing": {"end": 110.0, "start": 94.0}}
-{"sentence_id": 9, "speaker": "william_shakespeare", "start": "18:31:50", "text": "Tell him I heard the sentence. I will not improve it.", "timing": {"end": 120.0, "start": 110.0}}
-{"sentence_id": 10, "speaker": "gilbert_shakespeare", "start": "18:32:00", "text": "I will not improve it either. It arrived whole. How is the pudding?", "timing": {"end": 130.0, "start": 120.0}}
-{"sentence_id": 11, "speaker": "william_shakespeare", "start": "18:32:10", "text": "The tooth comes out tomorrow at ten.", "timing": {"end": 138.0, "start": 130.0}}
-{"sentence_id": 12, "speaker": "gilbert_shakespeare", "start": "18:32:18", "text": "Good. You've others. Twelve pence?", "timing": {"end": 146.0, "start": 138.0}}
-{"sentence_id": 13, "speaker": "william_shakespeare", "start": "18:32:26", "text": "Twelve.", "timing": {"end": 150.0, "start": 146.0}}
-{"sentence_id": 14, "speaker": "gilbert_shakespeare", "start": "18:32:30", "text": "I'd have done it for six with the shop pliers. God keep you, brother.", "timing": {"end": 162.0, "start": 150.0}}
-{"sentence_id": 15, "speaker": "william_shakespeare", "start": "18:32:42", "text": "And you. Keep me the rind.", "timing": {"end": 172.0, "start": 162.0}}
+{"backend": "whisper", "duration": 61.87, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "18:30:00", "text": "Gilbert? Will. From Great St Helen's, with a face like a pudding. God give you joy of the day.", "timing": {"end": 6.72, "start": 0.0}}
+{"sentence_id": 2, "speaker": "gilbert_shakespeare", "start": "18:30:07", "text": "Brother. Gilbert. From my lodging in St Bride's. Twenty-nine, if the almanac is honest.", "timing": {"end": 12.24, "start": 6.72}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "18:30:12", "text": "Then joy of it. I can say the word. I cannot chew a feast.", "timing": {"end": 16.4, "start": 12.24}}
+{"sentence_id": 4, "speaker": "gilbert_shakespeare", "start": "18:30:16", "text": "The money went down safe by the carrier of the second. A Stratford wool-man at the Bell on Saturday brought the word back, and a cheese with it. Mother's make. A whole one. The note says half is yours.", "timing": {"end": 27.2, "start": 16.4}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "18:30:27", "text": "Half is a kindness I cannot use.", "timing": {"end": 29.52, "start": 27.2}}
+{"sentence_id": 6, "speaker": "gilbert_shakespeare", "start": "18:30:30", "text": "You can't chew. I'll eat your half and call it my birthday.", "timing": {"end": 32.8, "start": 29.52}}
+{"sentence_id": 7, "speaker": "william_shakespeare", "start": "18:30:33", "text": "Eat it. I am not sending anyone for a cheese I can only look at. Keep it where it is.", "timing": {"end": 37.84, "start": 32.8}}
+{"sentence_id": 8, "speaker": "gilbert_shakespeare", "start": "18:30:38", "text": "The frame they raised in August is thatched, and it stands. Father says it's the first thing a player ever held up.", "timing": {"end": 43.92, "start": 37.84}}
+{"sentence_id": 9, "speaker": "william_shakespeare", "start": "18:30:44", "text": "Tell him I heard the sentence. I will not improve it.", "timing": {"end": 46.92, "start": 43.92}}
+{"sentence_id": 10, "speaker": "gilbert_shakespeare", "start": "18:30:47", "text": "I will not improve it either. It arrived whole. How is the pudding?", "timing": {"end": 50.64, "start": 46.92}}
+{"sentence_id": 11, "speaker": "william_shakespeare", "start": "18:30:51", "text": "The tooth comes out tomorrow at ten.", "timing": {"end": 52.92, "start": 50.64}}
+{"sentence_id": 12, "speaker": "gilbert_shakespeare", "start": "18:30:53", "text": "Good. You've others. Twelve pence?", "timing": {"end": 54.96, "start": 52.92}}
+{"sentence_id": 13, "speaker": "william_shakespeare", "start": "18:30:55", "text": "Twelve.", "timing": {"end": 55.76, "start": 54.96}}
+{"sentence_id": 14, "speaker": "gilbert_shakespeare", "start": "18:30:56", "text": "I'd have done it for six with the shop pliers. God keep you, brother.", "timing": {"end": 59.28, "start": 55.76}}
+{"sentence_id": 15, "speaker": "william_shakespeare", "start": "18:30:59", "text": "And you. Keep me the rind.", "timing": {"end": 61.28, "start": 59.28}}

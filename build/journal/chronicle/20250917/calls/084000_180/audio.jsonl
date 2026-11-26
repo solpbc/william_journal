@@ -1,13 +1,13 @@
-{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "richard_field", "start": "08:40:00", "text": "Will? Richard Field. From my own shop, with a book open that I did not print.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:40:12", "text": "Go on. I am not yet in a gown.", "timing": {"end": 20.0, "start": 12.0}}
-{"sentence_id": 3, "speaker": "richard_field", "start": "08:40:20", "text": "It came yesterday in a parcel from Cambridge. A learned thing in quarto. A letter in it from England to her three daughters, the two universities and the Inns of Court, praising their poets by the yard. I was reading it for the workmanship, which is middling.", "timing": {"end": 44.0, "start": 20.0}}
-{"sentence_id": 4, "speaker": "richard_field", "start": "08:40:44", "text": "And on one leaf, in the margin, small, there's a name I know. I'll not tell thee what he calls thee. Come and see it with thine own eyes. Harrison has copies at the Greyhound by this. Tomorrow, ten, at Paul's.", "timing": {"end": 64.0, "start": 44.0}}
-{"sentence_id": 5, "speaker": "william_shakespeare", "start": "08:41:04", "text": "Does he abuse me?", "timing": {"end": 68.0, "start": 64.0}}
-{"sentence_id": 6, "speaker": "richard_field", "start": "08:41:08", "text": "He does not. That's why I'd have thee read it standing by an honest man.", "timing": {"end": 78.0, "start": 68.0}}
-{"sentence_id": 7, "speaker": "william_shakespeare", "start": "08:41:18", "text": "My jaw is the size of an egg, and I am not fit to be praised.", "timing": {"end": 88.0, "start": 78.0}}
-{"sentence_id": 8, "speaker": "richard_field", "start": "08:41:28", "text": "Then it will do thee good. Woburn in Bedfordshire burned on Saturday, and a stationer is already rushing a godly tract on it through the press. Tell thy Quiney to send up his town's certificate before Woburn has drunk every charitable purse in England.", "timing": {"end": 112.0, "start": 88.0}}
-{"sentence_id": 9, "speaker": "william_shakespeare", "start": "08:41:52", "text": "I'll write tonight.", "timing": {"end": 118.0, "start": 112.0}}
-{"sentence_id": 10, "speaker": "richard_field", "start": "08:41:58", "text": "And, Will: my Holinshed.", "timing": {"end": 124.0, "start": 118.0}}
-{"sentence_id": 11, "speaker": "william_shakespeare", "start": "08:42:04", "text": "God keep thee, Richard.", "timing": {"end": 130.0, "start": 124.0}}
-{"sentence_id": 12, "speaker": "richard_field", "start": "08:42:10", "text": "And mend thy face.", "timing": {"end": 140.0, "start": 130.0}}
+{"backend": "whisper", "duration": 68.83, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "richard_field", "start": "08:40:00", "text": "Will? Richard Field. From my own shop, with a book open that I did not print.", "timing": {"end": 5.2, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:40:05", "text": "Go on. I am not yet in a gown.", "timing": {"end": 7.68, "start": 5.2}}
+{"sentence_id": 3, "speaker": "richard_field", "start": "08:40:08", "text": "It came yesterday in a parcel from Cambridge. A learned thing in quarto. A letter in it from England to her three daughters, the two universities and the Inns of Court, praising their poets by the yard. I was reading it for the workmanship, which is middling.", "timing": {"end": 23.52, "start": 7.68}}
+{"sentence_id": 4, "speaker": "richard_field", "start": "08:40:24", "text": "And on one leaf, in the margin, small, there's a name I know. I'll not tell thee what he calls thee. Come and see it with thine own eyes. Harrison has copies at the Greyhound by this. Tomorrow, ten, at Paul's.", "timing": {"end": 36.56, "start": 23.52}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "08:40:37", "text": "Does he abuse me?", "timing": {"end": 37.84, "start": 36.56}}
+{"sentence_id": 6, "speaker": "richard_field", "start": "08:40:38", "text": "He does not. That's why I'd have thee read it standing by an honest man.", "timing": {"end": 42.16, "start": 37.84}}
+{"sentence_id": 7, "speaker": "william_shakespeare", "start": "08:40:42", "text": "My jaw is the size of an egg, and I am not fit to be praised.", "timing": {"end": 46.16, "start": 42.16}}
+{"sentence_id": 8, "speaker": "richard_field", "start": "08:40:46", "text": "Then it will do thee good. Woburn in Bedfordshire burned on Saturday, and a stationer is already rushing a godly tract on it through the press. Tell thy Quiney to send up his town's certificate before Woburn has drunk every charitable purse in England.", "timing": {"end": 61.36, "start": 46.16}}
+{"sentence_id": 9, "speaker": "william_shakespeare", "start": "08:41:01", "text": "I'll write tonight.", "timing": {"end": 62.56, "start": 61.36}}
+{"sentence_id": 10, "speaker": "richard_field", "start": "08:41:03", "text": "And, Will: my Holinshed.", "timing": {"end": 64.96, "start": 62.56}}
+{"sentence_id": 11, "speaker": "william_shakespeare", "start": "08:41:05", "text": "God keep thee, Richard.", "timing": {"end": 66.56, "start": 64.96}}
+{"sentence_id": 12, "speaker": "richard_field", "start": "08:41:07", "text": "And mend thy face.", "timing": {"end": 68.24, "start": 66.56}}

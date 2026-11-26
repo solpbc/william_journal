@@ -1,3 +1,3 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "18:10:00", "text": "'When it falls and not before.' She keeps my books for me at a hundred miles.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "18:10:12", "text": "Rope. A ladder of rope. Hm.", "timing": {"end": 22.0, "start": 12.0}}
+{"backend": "whisper", "duration": 9.15, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "18:10:00", "text": "'When it falls and not before.' She keeps my books for me at a hundred miles.", "timing": {"end": 5.28, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "18:10:05", "text": "Rope. A ladder of rope. Hm.", "timing": {"end": 8.56, "start": 5.28}}

@@ -1,10 +1,10 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "17:10:00", "text": "Four couples, in their colours. A pageant of Worthies falling apart. Everyone laughing. It could end there and be forgotten by Lent.", "timing": {"end": 16.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "17:10:16", "text": "A man comes in. Black. From her father's court. He says half a line and she ends it for him.", "timing": {"end": 30.0, "start": 16.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "17:10:30", "text": "A man in black. Half a line. She has the rest.", "timing": {"end": 40.0, "start": 30.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "17:10:40", "text": "Black. She ends it.", "timing": {"end": 48.0, "start": 40.0}}
-{"sentence_id": 5, "speaker": "william_shakespeare", "start": "17:10:48", "text": "And they don't marry. Not today. A twelvemonth. Let them earn it where we can't see.", "timing": {"end": 66.0, "start": 48.0}}
-{"sentence_id": 6, "speaker": "william_shakespeare", "start": "17:11:06", "text": "Heminges will say it's no ending. \u2026It's the only ending.", "timing": {"end": 78.0, "start": 66.0}}
-{"sentence_id": 7, "speaker": "william_shakespeare", "start": "17:11:18", "text": "Enter a messenger. In black, among all their colours. He needn't say much. The king your father\u2014", "timing": {"end": 94.0, "start": 78.0}}
-{"sentence_id": 8, "speaker": "william_shakespeare", "start": "17:11:34", "text": "Remember: the frost on the pump tonight, how breath hangs white in the close.", "timing": {"end": 108.0, "start": 94.0}}
-{"sentence_id": 9, "speaker": "william_shakespeare", "start": "17:11:48", "text": "\u2026", "timing": {"end": 118.0, "start": 108.0}}
+{"backend": "whisper", "duration": 44.41, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "17:10:00", "text": "Four couples, in their colours. A pageant of Worthies falling apart. Everyone laughing. It could end there and be forgotten by Lent.", "timing": {"end": 8.92, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "17:10:09", "text": "A man comes in. Black. From her father's court. He says half a line and she ends it for him.", "timing": {"end": 15.88, "start": 8.92}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "17:10:16", "text": "A man in black. Half a line. She has the rest.", "timing": {"end": 19.44, "start": 15.88}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "17:10:19", "text": "Black. She ends it.", "timing": {"end": 21.2, "start": 19.44}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "17:10:21", "text": "And they don't marry. Not today. A twelvemonth. Let them earn it where we can't see.", "timing": {"end": 26.88, "start": 21.2}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "17:10:27", "text": "Heminges will say it's no ending. \u2026It's the only ending.", "timing": {"end": 30.48, "start": 26.88}}
+{"sentence_id": 7, "speaker": "william_shakespeare", "start": "17:10:30", "text": "Enter a messenger. In black, among all their colours. He needn't say much. The king your father\u2014", "timing": {"end": 37.76, "start": 30.48}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "17:10:38", "text": "Remember: the frost on the pump tonight, how breath hangs white in the close.", "timing": {"end": 42.16, "start": 37.76}}
+{"sentence_id": 9, "speaker": "william_shakespeare", "start": "17:10:42", "text": "\u2026", "timing": {"end": 42.26, "start": 42.16}}

@@ -1,2 +1,2 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:10:00", "text": "Two idle sorts of men in a hot square, and it wants only one blade drawn.", "timing": {"end": 10.0, "start": 0.0}}
+{"backend": "whisper", "duration": 5.95, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:10:00", "text": "Two idle sorts of men in a hot square, and it wants only one blade drawn.", "timing": {"end": 5.28, "start": 0.0}}

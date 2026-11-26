@@ -1,11 +1,11 @@
-{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "richard_quiney", "start": "08:00:00", "text": "Good countryman? Quiney. From the Bell.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:00:12", "text": "Richard. I am at home. Say the errand.", "timing": {"end": 22.0, "start": 12.0}}
-{"sentence_id": 3, "speaker": "richard_quiney", "start": "08:00:22", "text": "A week of ante-rooms, and I am hopeful. The town's paper is before those who can grant it. I look for an answer Monday.", "timing": {"end": 40.0, "start": 22.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "08:00:40", "text": "Monday. And until then the paper can do its own waiting.", "timing": {"end": 52.0, "start": 40.0}}
-{"sentence_id": 5, "speaker": "richard_quiney", "start": "08:00:52", "text": "Monday, supper, at six, at the Bell, and I'll stand the wine if the answer's yea, and you shall if it's nay.", "timing": {"end": 70.0, "start": 52.0}}
-{"sentence_id": 6, "speaker": "richard_quiney", "start": "08:01:10", "text": "I would have you bring any of your fellows that have a charitable purse.", "timing": {"end": 84.0, "start": 70.0}}
-{"sentence_id": 7, "speaker": "william_shakespeare", "start": "08:01:24", "text": "Players' purses are charitable to tapsters, Richard, and to nobody else in Christendom.", "timing": {"end": 100.0, "start": 84.0}}
-{"sentence_id": 8, "speaker": "richard_quiney", "start": "08:01:40", "text": "Then come alone and bring your own.", "timing": {"end": 110.0, "start": 100.0}}
-{"sentence_id": 9, "speaker": "william_shakespeare", "start": "08:01:50", "text": "Monday at six. God keep you.", "timing": {"end": 120.0, "start": 110.0}}
-{"sentence_id": 10, "speaker": "richard_quiney", "start": "08:02:00", "text": "And you. It is not a long supper I ask.", "timing": {"end": 130.0, "start": 120.0}}
+{"backend": "whisper", "duration": 43.31, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "richard_quiney", "start": "08:00:00", "text": "Good countryman? Quiney. From the Bell.", "timing": {"end": 3.36, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:00:03", "text": "Richard. I am at home. Say the errand.", "timing": {"end": 6.16, "start": 3.36}}
+{"sentence_id": 3, "speaker": "richard_quiney", "start": "08:00:06", "text": "A week of ante-rooms, and I am hopeful. The town's paper is before those who can grant it. I look for an answer Monday.", "timing": {"end": 14.16, "start": 6.16}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "08:00:14", "text": "Monday. And until then the paper can do its own waiting.", "timing": {"end": 17.92, "start": 14.16}}
+{"sentence_id": 5, "speaker": "richard_quiney", "start": "08:00:18", "text": "Monday, supper, at six, at the Bell, and I'll stand the wine if the answer's yea, and you shall if it's nay.", "timing": {"end": 25.88, "start": 17.92}}
+{"sentence_id": 6, "speaker": "richard_quiney", "start": "08:00:26", "text": "I would have you bring any of your fellows that have a charitable purse.", "timing": {"end": 29.61, "start": 25.88}}
+{"sentence_id": 7, "speaker": "william_shakespeare", "start": "08:00:30", "text": "Players' purses are charitable to tapsters, Richard, and to nobody else in Christendom.", "timing": {"end": 34.56, "start": 29.61}}
+{"sentence_id": 8, "speaker": "richard_quiney", "start": "08:00:35", "text": "Then come alone and bring your own.", "timing": {"end": 36.88, "start": 34.56}}
+{"sentence_id": 9, "speaker": "william_shakespeare", "start": "08:00:37", "text": "Monday at six. God keep you.", "timing": {"end": 39.2, "start": 36.88}}
+{"sentence_id": 10, "speaker": "richard_quiney", "start": "08:00:39", "text": "And you. It is not a long supper I ask.", "timing": {"end": 42.32, "start": 39.2}}

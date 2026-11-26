@@ -1,13 +1,13 @@
-{"backend": "whisper", "duration": 240.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "cuthbert_burbage", "start": "08:15:00", "text": "Master Shakespeare? Cuthbert Burbage. From Holywell, before my father is up.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:15:12", "text": "You have me. Say it while the house is still a house.", "timing": {"end": 20.0, "start": 12.0}}
-{"sentence_id": 3, "speaker": "cuthbert_burbage", "start": "08:15:20", "text": "He went on Wednesday to look at a hall in the Blackfriars. Stone. Roofed. The old friars' dining-room. Dry as a bone, and out of the Lord Mayor's reach. He came home walking like a man of thirty.", "timing": {"end": 42.0, "start": 20.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "08:15:42", "text": "Wednesday. And he has a figure, or he has a walk.", "timing": {"end": 50.0, "start": 42.0}}
-{"sentence_id": 5, "speaker": "cuthbert_burbage", "start": "08:15:50", "text": "He'll not tell me what's asked. He holds up six fingers and I pray it's shillings. No one is to speak of it. There is nothing to speak of.", "timing": {"end": 66.0, "start": 50.0}}
-{"sentence_id": 6, "speaker": "william_shakespeare", "start": "08:16:06", "text": "Then I have not heard a price. I will not invent one to be helpful.", "timing": {"end": 76.0, "start": 66.0}}
-{"sentence_id": 7, "speaker": "cuthbert_burbage", "start": "08:16:16", "text": "You have a friend in that precinct. The printer. What manner of neighbours are they? I am asking as a man who may have to live beside the answer.", "timing": {"end": 92.0, "start": 76.0}}
-{"sentence_id": 8, "speaker": "william_shakespeare", "start": "08:16:32", "text": "Respectable. They like quiet, and a sermon, and to be abed by nine.", "timing": {"end": 102.0, "start": 92.0}}
-{"sentence_id": 9, "speaker": "cuthbert_burbage", "start": "08:16:42", "text": "Then we'd be as welcome as a drum in Lent.", "timing": {"end": 110.0, "start": 102.0}}
-{"sentence_id": 10, "speaker": "william_shakespeare", "start": "08:16:50", "text": "I didn't say so.", "timing": {"end": 114.0, "start": 110.0}}
-{"sentence_id": 11, "speaker": "cuthbert_burbage", "start": "08:16:54", "text": "You didn't need to. God keep you.", "timing": {"end": 122.0, "start": 114.0}}
-{"sentence_id": 12, "speaker": "william_shakespeare", "start": "08:17:02", "text": "And you. Tell him the king's at two, and to wear both cloaks.", "timing": {"end": 132.0, "start": 122.0}}
+{"backend": "whisper", "duration": 60.03, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "cuthbert_burbage", "start": "08:15:00", "text": "Master Shakespeare? Cuthbert Burbage. From Holywell, before my father is up.", "timing": {"end": 4.88, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:15:05", "text": "You have me. Say it while the house is still a house.", "timing": {"end": 8.24, "start": 4.88}}
+{"sentence_id": 3, "speaker": "cuthbert_burbage", "start": "08:15:08", "text": "He went on Wednesday to look at a hall in the Blackfriars. Stone. Roofed. The old friars' dining-room. Dry as a bone, and out of the Lord Mayor's reach. He came home walking like a man of thirty.", "timing": {"end": 21.12, "start": 8.24}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "08:15:21", "text": "Wednesday. And he has a figure, or he has a walk.", "timing": {"end": 24.72, "start": 21.12}}
+{"sentence_id": 5, "speaker": "cuthbert_burbage", "start": "08:15:25", "text": "He'll not tell me what's asked. He holds up six fingers and I pray it's shillings. No one is to speak of it. There is nothing to speak of.", "timing": {"end": 33.04, "start": 24.72}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "08:15:33", "text": "Then I have not heard a price. I will not invent one to be helpful.", "timing": {"end": 36.8, "start": 33.04}}
+{"sentence_id": 7, "speaker": "cuthbert_burbage", "start": "08:15:37", "text": "You have a friend in that precinct. The printer. What manner of neighbours are they? I am asking as a man who may have to live beside the answer.", "timing": {"end": 44.96, "start": 36.8}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "08:15:45", "text": "Respectable. They like quiet, and a sermon, and to be abed by nine.", "timing": {"end": 49.6, "start": 44.96}}
+{"sentence_id": 9, "speaker": "cuthbert_burbage", "start": "08:15:50", "text": "Then we'd be as welcome as a drum in Lent.", "timing": {"end": 51.92, "start": 49.6}}
+{"sentence_id": 10, "speaker": "william_shakespeare", "start": "08:15:52", "text": "I didn't say so.", "timing": {"end": 53.28, "start": 51.92}}
+{"sentence_id": 11, "speaker": "cuthbert_burbage", "start": "08:15:53", "text": "You didn't need to. God keep you.", "timing": {"end": 55.6, "start": 53.28}}
+{"sentence_id": 12, "speaker": "william_shakespeare", "start": "08:15:56", "text": "And you. Tell him the king's at two, and to wear both cloaks.", "timing": {"end": 59.44, "start": 55.6}}

@@ -1,15 +1,15 @@
-{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "john_florio", "start": "19:00:00", "text": "Master Shakespeare? Florio. From my lord's house in Holborn, and the house is in black.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "19:00:14", "text": "I hear you, sir. Say it plain. A long sentence is no kindness to a jaw.", "timing": {"end": 26.0, "start": 14.0}}
-{"sentence_id": 3, "speaker": "john_florio", "start": "19:00:26", "text": "Sir Thomas Heneage died this day at the Savoy. Vice-Chamberlain, Treasurer of the Chamber, and husband these eighteen months to my lord's mother.", "timing": {"end": 44.0, "start": 26.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "19:00:44", "text": "I am sorry for the house.", "timing": {"end": 52.0, "start": 44.0}}
-{"sentence_id": 5, "speaker": "john_florio", "start": "19:00:52", "text": "My lord is with her. There is a remedy for everything but death. I will not make you hold the other tongue tonight. It says the same.", "timing": {"end": 68.0, "start": 52.0}}
-{"sentence_id": 6, "speaker": "william_shakespeare", "start": "19:01:08", "text": "I send my duty to my lord, and I ask nothing.", "timing": {"end": 78.0, "start": 68.0}}
-{"sentence_id": 7, "speaker": "john_florio", "start": "19:01:18", "text": "That is proper, and it is as much as the house can carry tonight.", "timing": {"end": 90.0, "start": 78.0}}
-{"sentence_id": 8, "speaker": "william_shakespeare", "start": "19:01:30", "text": "Who signs now?", "timing": {"end": 96.0, "start": 90.0}}
-{"sentence_id": 9, "speaker": "john_florio", "start": "19:01:36", "text": "A widow must first cast up a dead man's accounts. After that, who knows? Chi vive, vedr\u00e0.", "timing": {"end": 112.0, "start": 96.0}}
-{"sentence_id": 10, "speaker": "william_shakespeare", "start": "19:01:52", "text": "Then the accounts come before any name. I will not pretend I have lost a friend. A name has gone off a paper. That is what I have lost.", "timing": {"end": 130.0, "start": 112.0}}
-{"sentence_id": 11, "speaker": "john_florio", "start": "19:02:10", "text": "Nor will anyone here pretend it. I have not forgotten the Chaucer. I will send it when the house is quieter.", "timing": {"end": 146.0, "start": 130.0}}
-{"sentence_id": 12, "speaker": "william_shakespeare", "start": "19:02:26", "text": "The book can wait on the house. The duty I have already said.", "timing": {"end": 156.0, "start": 146.0}}
-{"sentence_id": 13, "speaker": "john_florio", "start": "19:02:36", "text": "God keep you.", "timing": {"end": 160.0, "start": 156.0}}
-{"sentence_id": 14, "speaker": "william_shakespeare", "start": "19:02:40", "text": "And you, sir.", "timing": {"end": 170.0, "start": 160.0}}
+{"backend": "whisper", "duration": 63.63, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "john_florio", "start": "19:00:00", "text": "Master Shakespeare? Florio. From my lord's house in Holborn, and the house is in black.", "timing": {"end": 5.84, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "19:00:06", "text": "I hear you, sir. Say it plain. A long sentence is no kindness to a jaw.", "timing": {"end": 10.8, "start": 5.84}}
+{"sentence_id": 3, "speaker": "john_florio", "start": "19:00:11", "text": "Sir Thomas Heneage died this day at the Savoy. Vice-Chamberlain, Treasurer of the Chamber, and husband these eighteen months to my lord's mother.", "timing": {"end": 19.2, "start": 10.8}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "19:00:19", "text": "I am sorry for the house.", "timing": {"end": 20.96, "start": 19.2}}
+{"sentence_id": 5, "speaker": "john_florio", "start": "19:00:21", "text": "My lord is with her. There is a remedy for everything but death. I will not make you hold the other tongue tonight. It says the same.", "timing": {"end": 28.56, "start": 20.96}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "19:00:29", "text": "I send my duty to my lord, and I ask nothing.", "timing": {"end": 31.76, "start": 28.56}}
+{"sentence_id": 7, "speaker": "john_florio", "start": "19:00:32", "text": "That is proper, and it is as much as the house can carry tonight.", "timing": {"end": 35.36, "start": 31.76}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "19:00:35", "text": "Who signs now?", "timing": {"end": 36.56, "start": 35.36}}
+{"sentence_id": 9, "speaker": "john_florio", "start": "19:00:37", "text": "A widow must first cast up a dead man's accounts. After that, who knows? Chi vive, vedr\u00e0.", "timing": {"end": 42.72, "start": 36.56}}
+{"sentence_id": 10, "speaker": "william_shakespeare", "start": "19:00:43", "text": "Then the accounts come before any name. I will not pretend I have lost a friend. A name has gone off a paper. That is what I have lost.", "timing": {"end": 50.88, "start": 42.72}}
+{"sentence_id": 11, "speaker": "john_florio", "start": "19:00:51", "text": "Nor will anyone here pretend it. I have not forgotten the Chaucer. I will send it when the house is quieter.", "timing": {"end": 56.96, "start": 50.88}}
+{"sentence_id": 12, "speaker": "william_shakespeare", "start": "19:00:57", "text": "The book can wait on the house. The duty I have already said.", "timing": {"end": 60.72, "start": 56.96}}
+{"sentence_id": 13, "speaker": "john_florio", "start": "19:01:01", "text": "God keep you.", "timing": {"end": 61.88, "start": 60.72}}
+{"sentence_id": 14, "speaker": "william_shakespeare", "start": "19:01:02", "text": "And you, sir.", "timing": {"end": 63.04, "start": 61.88}}

@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "17:10:00", "text": "A hundred yards, and it weighed like the whole City. A lamp put out.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "17:10:12", "text": "...And the other thing. Put that out too.", "timing": {"end": 24.0, "start": 12.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "17:10:24", "text": "I am not going down to the gate.", "timing": {"end": 34.0, "start": 24.0}}
+{"backend": "whisper", "duration": 9.87, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "17:10:00", "text": "A hundred yards, and it weighed like the whole City. A lamp put out.", "timing": {"end": 4.64, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "17:10:05", "text": "...And the other thing. Put that out too.", "timing": {"end": 7.2, "start": 4.64}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "17:10:07", "text": "I am not going down to the gate.", "timing": {"end": 9.28, "start": 7.2}}

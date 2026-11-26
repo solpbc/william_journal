@@ -1,0 +1,3628 @@
+{
+  "wave": 2,
+  "description": "Complete 100% of remaining 2025 voice memos (225) and calls (24) plus 6 iconic multi-speaker talk scenes showcasing Wave 2 voices (Thomas Pope, Gilbert Shakespeare, Richard Field, Richard Quiney).",
+  "count": 255,
+  "breakdown": {
+    "memos": 225,
+    "memos_walk": 25,
+    "memos_room": 200,
+    "calls": 24,
+    "talks": 6
+  },
+  "total_chars": 91958,
+  "rows": [
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250102/memos/191000_60",
+      "day": "20250102",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 199,
+      "note": "At the lodging you put the afternoon into one decision",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250103/memos/211500_60",
+      "day": "20250103",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 133,
+      "note": "You kept her price and not the rest of the act",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250104/memos/135500_60",
+      "day": "20250104",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 156,
+      "note": "You have just come down to the Cross Keys",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250105/memos/114000_120",
+      "day": "20250105",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 6,
+      "chars": 391,
+      "note": "Upstairs, you tried to recover the sermon and could not",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250105/memos/184300_60",
+      "day": "20250105",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 74,
+      "note": "You said it in the lane and stopped",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250106/memos/220000_120",
+      "day": "20250106",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 248,
+      "note": "When you came in, Mistress Ansell had kept back a slice of her own Twelfth-cake and stood over you while you a",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250108/memos/171000_120",
+      "day": "20250108",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 9,
+      "chars": 603,
+      "note": "Walking home from the Cross Keys under a half moon, you let the play end on the laugh and then refused that en",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250109/memos/201000_60",
+      "day": "20250109",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 190,
+      "note": "At home you settled it for yourself and not for the book",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250111/memos/203000_120",
+      "day": "20250111",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 205,
+      "note": "The latch sprang when you lifted it softly",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250112/memos/221000_120",
+      "day": "20250112",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 5,
+      "chars": 264,
+      "note": "You said afterward that the sermon had reached fourteenthly while you were still on the messenger",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250113/memos/165000_120",
+      "day": "20250113",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 5,
+      "chars": 348,
+      "note": "After the afternoon you said, thick-voiced, that a small ailment had commanded the morning",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250115/memos/222000_120",
+      "day": "20250115",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 5,
+      "chars": 294,
+      "note": "You walked the close twice and came back to the door",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250118/memos/153000_120",
+      "day": "20250118",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 277,
+      "note": "While Errors played, you could not hear it, and you did not want the afternoon reported back",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250119/memos/211000_240",
+      "day": "20250119",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 435,
+      "note": "By night the fever was gone",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250120/memos/211000_240",
+      "day": "20250120",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 364,
+      "note": "The afternoon's plays went on without you",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250121/memos/211000_240",
+      "day": "20250121",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 347,
+      "note": "You kept the plain refusal",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250123/memos/115200_60",
+      "day": "20250123",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 107,
+      "note": "Walking back east by the Strand, you said the Hall sells explanations by the sheet, and so do you, with jokes ",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250124/memos/164000_240",
+      "day": "20250124",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 413,
+      "note": "You were home",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250126/memos/214000_120",
+      "day": "20250126",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 176,
+      "note": "Home, you kept the wedding as a sentence that died on the walk",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250128/memos/123000_120",
+      "day": "20250128",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 217,
+      "note": "At home between Holywell and the Keys you ate little",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250129/memos/132000_120",
+      "day": "20250129",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 208,
+      "note": "Before you went down you ate little",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250129/memos/185000_120",
+      "day": "20250129",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 218,
+      "note": "At home you washed the flour off and refused the boast",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250130/memos/201000_120",
+      "day": "20250130",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 283,
+      "note": "Home, you kept the company's stop separate from Anne's question",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250131/memos/211000_120",
+      "day": "20250131",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 223,
+      "note": "At night the two plays were over without you",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250201/memos/114800_120",
+      "day": "20250201",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 296,
+      "note": "Before you left the hill you said it",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250201/memos/124000_120",
+      "day": "20250201",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 228,
+      "note": "You stopped at the lodging between the hill and the play",
+      "already_synthesized": false
+    },
+    {
+      "category": "company",
+      "preset": "theatre_hall",
+      "rel": "20250201/talk/164500_840",
+      "day": "20250201",
+      "stream": "talk",
+      "speakers": [
+        "augustine_phillips",
+        "john_heminges",
+        "richard_burbage",
+        "thomas_pope",
+        "will_kemp",
+        "william_shakespeare"
+      ],
+      "turns": 28,
+      "chars": 3369,
+      "note": "After Errors \u2014 6-voice company schedule & accounts with Thomas Pope",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250202/memos/212000_120",
+      "day": "20250202",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 194,
+      "note": "At night the letter was still in the room",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250203/memos/171000_60",
+      "day": "20250203",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 152,
+      "note": "At home the Candlemas packet was still on the desk",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250206/memos/211500_60",
+      "day": "20250206",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 209,
+      "note": "At night you kept the word mending and did not better it",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250208/memos/021000_60",
+      "day": "20250208",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 205,
+      "note": "About two you were awake",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250208/memos/184000_60",
+      "day": "20250208",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 143,
+      "note": "At home you left the reckoning as it was written",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250209/memos/145000_60",
+      "day": "20250209",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 81,
+      "note": "At home you said the line about Fame and the hole in the hose, and you stopped",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250210/memos/110500_60",
+      "day": "20250210",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 35,
+      "note": "At the lodge gate you said the errand was done, and you told yourself to forget it",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250215/memos/190000_60",
+      "day": "20250215",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 91,
+      "note": "You said the twenty-two did not pay the fifty or the eight",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250219/memos/211000_120",
+      "day": "20250219",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 121,
+      "note": "Alone, you said Alse has never seen a play, that she heard the oath and asked who cooks, and that she had the ",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20250226/calls/113000_240",
+      "day": "20250226",
+      "stream": "calls",
+      "speakers": [
+        "richard_field",
+        "william_shakespeare"
+      ],
+      "turns": 15,
+      "chars": 1979,
+      "note": "Richard Field called from the Blackfriars",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250228/memos/213000_60",
+      "day": "20250228",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 23,
+      "note": "You said four words, and no more",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250302/memos/212500_60",
+      "day": "20250302",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 249,
+      "note": "Upstairs you said the purse had been right, and that the page would hold",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250308/memos/151500_60",
+      "day": "20250308",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 239,
+      "note": "On the second walk to Finsbury you did not try a name aloud",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250308/memos/195000_60",
+      "day": "20250308",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 199,
+      "note": "Before eight you had the shoes off",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250309/memos/164000_60",
+      "day": "20250309",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 5,
+      "chars": 337,
+      "note": "At the window you said the 14s 6d was meant to trouble you, and that you had missed it in a hurry at the Bell",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20250311/calls/184000_300",
+      "day": "20250311",
+      "stream": "calls",
+      "speakers": [
+        "gilbert_shakespeare",
+        "william_shakespeare"
+      ],
+      "turns": 26,
+      "chars": 1446,
+      "note": "Gilbert called from St Bride's with the shop shut, speaking for nothing",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250311/memos/185000_60",
+      "day": "20250311",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 398,
+      "note": "Speaking alone after Gilbert's call, you added the three debts aloud (41s, 44s 6d, and 14s 6d) to reach exactl",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250313/memos/212500_60",
+      "day": "20250313",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 251,
+      "note": "You had paper enough, already bought, and the shop-ticket still in the sleeve",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20250318/calls/110000_240",
+      "day": "20250318",
+      "stream": "calls",
+      "speakers": [
+        "john_florio",
+        "william_shakespeare"
+      ],
+      "turns": 14,
+      "chars": 1056,
+      "note": "Florio called from my lord's house in Holborn, five weeks after the lodge",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250321/memos/160500_900",
+      "day": "20250321",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 8,
+      "chars": 570,
+      "note": "On the Moorfields path, with the wind behind you, you tried the names in your mouth",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250322/memos/201000_120",
+      "day": "20250322",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 228,
+      "note": "At home you said the jacks leap to kiss the player's hand, and that a man stands envying dead wood",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250323/memos/211000_60",
+      "day": "20250323",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 138,
+      "note": "Alone, you said you would carry her opinion, and that you have been saying the rest of it to the plaster",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250326/memos/071000_60",
+      "day": "20250326",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 38,
+      "note": "You said eight words and no others",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250326/memos/193000_60",
+      "day": "20250326",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 185,
+      "note": "You listed what should have been packed where a hand could reach it",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250327/memos/141500_60",
+      "day": "20250327",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 12,
+      "note": "In the afternoon, after seven hours with nobody to talk to, you said the name twice, to hear it",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250327/memos/200500_60",
+      "day": "20250327",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 70,
+      "note": "On the dark miles past Oxford you said that sixty-odd miles were behind you, and that you had forgotten what y",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250328/memos/122000_60",
+      "day": "20250328",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 87,
+      "note": "In the rain you said the stones were off to the left, and that you were not turning aside",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250330/memos/212000_60",
+      "day": "20250330",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 271,
+      "note": "Alone, you went back over the shirts, the two fingers, and the grace you did not answer",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250402/memos/211500_60",
+      "day": "20250402",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 423,
+      "note": "Alone, you went back over the cheerful sizes and the near five pounds you did not say",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250405/memos/211000_60",
+      "day": "20250405",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 18,
+      "note": "Alone in the garden you breathed for nine seconds and said it was not well done",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250408/memos/054000_60",
+      "day": "20250408",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 220,
+      "note": "On the bridge at first light you counted fourteen arches and did not describe the water",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250408/memos/121000_60",
+      "day": "20250408",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 243,
+      "note": "At noon in Chipping Norton you said Long Compton had been dry and the stones clear on the ridge",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250408/memos/183000_60",
+      "day": "20250408",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 130,
+      "note": "You said the notes were worse than in the yard, and that you would not mend them to beat the ride",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250409/memos/071000_60",
+      "day": "20250409",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 145,
+      "note": "Leaving the Bear, you named thirty-six miles to High Wycombe and decided not to bait at Oxford",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250409/memos/112000_120",
+      "day": "20250409",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 339,
+      "note": "Passing Oxford, and not stopping, you said her question over on the rise and heard the answer you had given",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250410/memos/051500_60",
+      "day": "20250410",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 187,
+      "note": "Before half past five you chose the long way into town, the same way you had come, and you refused the straigh",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250414/memos/212000_60",
+      "day": "20250414",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 169,
+      "note": "Alone, you counted the seven days and the clear note, and you did not start a king",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250416/memos/210500_60",
+      "day": "20250416",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 106,
+      "note": "Alone, you named the note that came and the dark door",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250417/memos/055000_120",
+      "day": "20250417",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 324,
+      "note": "You said the four words several ways",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250418/memos/154000_60",
+      "day": "20250418",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 76,
+      "note": "At the window you named three things, a king, two houses, and Easter, and you told yourself to sit still",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250420/memos/211000_120",
+      "day": "20250420",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 186,
+      "note": "Alone, you refused to improve the answer you gave on the fifth",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250421/memos/202000_120",
+      "day": "20250421",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 286,
+      "note": "Alone, you kept the wide stage, the hush, and the clear note",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250423/memos/061500_240",
+      "day": "20250423",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 6,
+      "chars": 602,
+      "note": "Walking early, you said thirty-one to yourself, or Saturday if the font is believed over your mother",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250425/memos/204000_120",
+      "day": "20250425",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 169,
+      "note": "Alone, you kept the same refusal",
+      "already_synthesized": false
+    },
+    {
+      "category": "household",
+      "preset": "household_room",
+      "rel": "20250427/talk/123000_480",
+      "day": "20250427",
+      "stream": "talk",
+      "speakers": [
+        "dorcas_ansell",
+        "gilbert_shakespeare",
+        "william_shakespeare"
+      ],
+      "turns": 33,
+      "chars": 2667,
+      "note": "Gilbert brings the unopened Stratford packet after church with Dorcas",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20250428/calls/121500_180",
+      "day": "20250428",
+      "stream": "calls",
+      "speakers": [
+        "richard_field",
+        "william_shakespeare"
+      ],
+      "turns": 11,
+      "chars": 531,
+      "note": "Field called from his own shop, where the shelf has had a gap for six weeks",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250501/memos/081000_120",
+      "day": "20250501",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 197,
+      "note": "Back at the lodging you set down the scene that walked up with you",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250505/memos/052500_120",
+      "day": "20250505",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 7,
+      "chars": 408,
+      "note": "In the fields you walked an old duke's forty lines from the cue, lost the town, took the cue again, and said t",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250509/memos/051000_60",
+      "day": "20250509",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 68,
+      "note": "You said the memo and stopped",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20250510/calls/181000_180",
+      "day": "20250510",
+      "stream": "calls",
+      "speakers": [
+        "cuthbert_burbage",
+        "william_shakespeare"
+      ],
+      "turns": 14,
+      "chars": 998,
+      "note": "Cuthbert, from Holywell, said Allen rode in from Essex and named four-and-twenty pound a year where the compan",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250510/memos/211500_60",
+      "day": "20250510",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 125,
+      "note": "You set down what you will say",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20250513/calls/190000_180",
+      "day": "20250513",
+      "stream": "calls",
+      "speakers": [
+        "gilbert_shakespeare",
+        "william_shakespeare"
+      ],
+      "turns": 14,
+      "chars": 688,
+      "note": "Gilbert, from St Bride's and back since Saturday, said the buckets and leather hooks hang filled by every well",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250513/memos/192500_60",
+      "day": "20250513",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 222,
+      "note": "You said you were here, and that you heard the fire nine days after, from a carter, when it was already out an",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250518/memos/010000_60",
+      "day": "20250518",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 54,
+      "note": "At one you said you will not write better this year, and then you told yourself not to say that",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250519/memos/180000_120",
+      "day": "20250519",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 149,
+      "note": "At six you said tomorrow's Shrew is the company's and you are not in it",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250520/memos/174500_120",
+      "day": "20250520",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 81,
+      "note": "At home you said they have spent heavily, and that the money was not wasted",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250522/memos/214000_120",
+      "day": "20250522",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 32,
+      "note": "Hours later you said she knew you by your hand, and that it is not safe",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250526/memos/165500_120",
+      "day": "20250526",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 219,
+      "note": "Alone, you told yourself to ask the question and not to answer it",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250527/memos/203000_120",
+      "day": "20250527",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 268,
+      "note": "At night you said the eight lines had not mended the company",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250529/memos/175500_120",
+      "day": "20250529",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 286,
+      "note": "Home after evening prayer, you set the next page as apricocks and not a parliament",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250531/memos/163000_60",
+      "day": "20250531",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 123,
+      "note": "On the way up to the Theatre you said your name is on two poems and a tax, and not on a play",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250601/memos/110800_60",
+      "day": "20250601",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 93,
+      "note": "Just in the door, you laughed once and stopped",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250602/memos/203000_60",
+      "day": "20250602",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 83,
+      "note": "At home you said the king is about to be unkinged, and not tonight",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250603/memos/201000_60",
+      "day": "20250603",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 108,
+      "note": "At home you said the three sentences were under Prices and that you had bought nothing",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20250605/calls/125200_180",
+      "day": "20250605",
+      "stream": "calls",
+      "speakers": [
+        "richard_field",
+        "william_shakespeare"
+      ],
+      "turns": 10,
+      "chars": 541,
+      "note": "Richard Field called from the shop",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250606/memos/091800_60",
+      "day": "20250606",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 97,
+      "note": "Against the wall you said the gate was open, a cap was in the road, and backs were running north",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250607/memos/202000_60",
+      "day": "20250607",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 105,
+      "note": "At home you said Sunday is his table and not the Holinshed",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250608/memos/214000_60",
+      "day": "20250608",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 59,
+      "note": "At home, late, you said one sentence and stopped",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250609/memos/212000_120",
+      "day": "20250609",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 5,
+      "chars": 329,
+      "note": "At home you said you had not shrugged the afternoon off",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250610/memos/211000_60",
+      "day": "20250610",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 72,
+      "note": "At night the cat was on the three sheets",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250615/memos/214000_60",
+      "day": "20250615",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 81,
+      "note": "You said the line once, by the one candle",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250616/memos/211000_60",
+      "day": "20250616",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 73,
+      "note": "At the window you said the line once",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20250617/calls/081000_180",
+      "day": "20250617",
+      "stream": "calls",
+      "speakers": [
+        "cuthbert_burbage",
+        "william_shakespeare"
+      ],
+      "turns": 11,
+      "chars": 737,
+      "note": "Cuthbert Burbage called from Holywell",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250617/memos/093000_60",
+      "day": "20250617",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 57,
+      "note": "You said the one line and stopped",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250619/memos/203000_60",
+      "day": "20250619",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 397,
+      "note": "At the window you said the play at the Theatre was thin and that you were a duke in it",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250621/memos/100500_60",
+      "day": "20250621",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 63,
+      "note": "You said there is no fool in it anywhere, and that you would tell him after Midsummer",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250622/memos/211000_60",
+      "day": "20250622",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 49,
+      "note": "You said Midsummer is Tuesday, and that he has not been told",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250623/memos/224000_60",
+      "day": "20250623",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 101,
+      "note": "At home you said it was a feast with the guard set on it, that there was fire and nobody easy, and that it oug",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250627/memos/203200_60",
+      "day": "20250627",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 18,
+      "note": "You said the four words, at his door, ours, and you stopped",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250629/memos/222000_120",
+      "day": "20250629",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 9,
+      "chars": 1081,
+      "note": "You whispered the night down",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250630/memos/204000_120",
+      "day": "20250630",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 5,
+      "chars": 620,
+      "note": "You said where the leaves are, and that you will not fetch them",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250702/memos/201500_120",
+      "day": "20250702",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 301,
+      "note": "You kept one picture: a hot lane, and two men with bucklers",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250704/memos/191000_120",
+      "day": "20250704",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 5,
+      "chars": 554,
+      "note": "Alone, you said what a playhouse yard is: two thousand people gathered by a flag",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250705/memos/104000_120",
+      "day": "20250705",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 5,
+      "chars": 397,
+      "note": "You said the order: they jest first, then somebody is out",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250706/memos/142000_120",
+      "day": "20250706",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 127,
+      "note": "Walking the close after dinner, you said the people who had gone were sensible, and you said the boy you are w",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250708/memos/110500_120",
+      "day": "20250708",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 165,
+      "note": "You said the blocking back to yourself",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20250711/calls/113000_360",
+      "day": "20250711",
+      "stream": "calls",
+      "speakers": [
+        "john_florio",
+        "william_shakespeare"
+      ],
+      "turns": 10,
+      "chars": 685,
+      "note": "You asked Florio for a town",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250711/memos/211000_60",
+      "day": "20250711",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 140,
+      "note": "The moon is full",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250718/memos/082000_60",
+      "day": "20250718",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 72,
+      "note": "Standing, for less than a minute, you tried her short answer in Nick's light dry voice",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250720/memos/210500_120",
+      "day": "20250720",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 5,
+      "chars": 196,
+      "note": "At the window you said you had gone by the lane without meaning to, and that the upper shutter was up",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20250721/calls/164000_120",
+      "day": "20250721",
+      "stream": "calls",
+      "speakers": [
+        "gilbert_shakespeare",
+        "william_shakespeare"
+      ],
+      "turns": 13,
+      "chars": 671,
+      "note": "Gilbert called from the Bell",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250724/memos/214000_180",
+      "day": "20250724",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 7,
+      "chars": 531,
+      "note": "At the window, at dusk, you said you had heard the bells, and that this was all you knew and all you would say",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250727/memos/202000_60",
+      "day": "20250727",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 204,
+      "note": "You said the six were in the belt and the rest was locked, and that you would not open either",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250728/memos/035000_60",
+      "day": "20250728",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 167,
+      "note": "You were still in the house, dressed to walk",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250728/memos/074000_60",
+      "day": "20250728",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 195,
+      "note": "You had come by Ludgate, the Strand, Knightsbridge and Kensington, and then by a lane onto the Uxbridge way",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250729/memos/152000_120",
+      "day": "20250729",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 10,
+      "chars": 1117,
+      "note": "Between Aylesbury and Waddesdon you said the barley was to a man's knee, and that you would tell her the horse",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250730/memos/201000_60",
+      "day": "20250730",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 270,
+      "note": "By the fire at Banbury you said she speaks first, and then that he may think he does",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250731/memos/131000_60",
+      "day": "20250731",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 232,
+      "note": "Below Ettington you sat with both feet in the brook and shaved by feel",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250801/memos/161000_120",
+      "day": "20250801",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 182,
+      "note": "You went to evening prayer at Holy Trinity",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250803/memos/195000_60",
+      "day": "20250803",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 142,
+      "note": "In the garden at dusk you said the fire was being given a reason, as the riot had been",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250804/memos/203000_120",
+      "day": "20250804",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 319,
+      "note": "Before sleep you said the two leaves had taught you more of the house than Friday had, and that the play had s",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250805/memos/211000_120",
+      "day": "20250805",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 266,
+      "note": "After they had gone you said the question again, and the answer, which was none",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250810/memos/021000_120",
+      "day": "20250810",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 98,
+      "note": "At the last you said he never once asks her, and that she does it all",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250810/memos/051000_60",
+      "day": "20250810",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 186,
+      "note": "Before daylight you stayed upstairs",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250810/memos/051200_900",
+      "day": "20250810",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 242,
+      "note": "You stayed upstairs while the house was still quiet",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250810/memos/155500_60",
+      "day": "20250810",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 192,
+      "note": "You kept her question, and the only answer you had given, which was that the book does not say",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250810/memos/211000_60",
+      "day": "20250810",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 275,
+      "note": "At night you kept three things",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250812/memos/211500_60",
+      "day": "20250812",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 256,
+      "note": "At night, still flat, you named the snap as a lute-string",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250813/memos/204000_60",
+      "day": "20250813",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 134,
+      "note": "At dusk you spoke to the ceiling",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250814/memos/092000_60",
+      "day": "20250814",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 259,
+      "note": "You heard the market from the floor and did not go",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250815/memos/211000_60",
+      "day": "20250815",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 235,
+      "note": "At night you kept the bargain small",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250817/memos/215500_60",
+      "day": "20250817",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 251,
+      "note": "Upstairs, low, you said you keep a house in each place and live in neither, and then you took it back",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250818/memos/182000_180",
+      "day": "20250818",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 10,
+      "chars": 1358,
+      "note": "In the yard, among the horses, you let the inn's dog keep the stool",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250821/memos/164000_60",
+      "day": "20250821",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 199,
+      "note": "At St Giles, walking, under the noise of the string, you counted the journey",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250823/memos/211000_120",
+      "day": "20250823",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 6,
+      "chars": 596,
+      "note": "You started from Anne's order, that when you write you should say something",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250825/memos/173000_60",
+      "day": "20250825",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 361,
+      "note": "Home, you felt the company drop back into its six-day gear",
+      "already_synthesized": false
+    },
+    {
+      "category": "company",
+      "preset": "theatre_hall",
+      "rel": "20250827/talk/091000_720",
+      "day": "20250827",
+      "stream": "talk",
+      "speakers": [
+        "abel_garnish",
+        "augustine_phillips",
+        "john_heminges",
+        "richard_burbage",
+        "thomas_pope",
+        "will_kemp",
+        "william_shakespeare"
+      ],
+      "turns": 27,
+      "chars": 1614,
+      "note": "Richard II roll-giving \u2014 7-voice company cast with Pope & Kemp",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250828/memos/091500_120",
+      "day": "20250828",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 301,
+      "note": "A neighbour's voice came in at the casement, scolding a prentice",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250829/memos/183000_120",
+      "day": "20250829",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 296,
+      "note": "Home, you said the walk",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250830/memos/204500_60",
+      "day": "20250830",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 204,
+      "note": "Before nine you said the share again, six-and-twenty, the first since July, and you left the coffer shut at tw",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250831/memos/214000_60",
+      "day": "20250831",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 139,
+      "note": "At night you said you would not improve the letter",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20250902/calls/111000_240",
+      "day": "20250902",
+      "stream": "calls",
+      "speakers": [
+        "ambrose_kettleby",
+        "william_shakespeare"
+      ],
+      "turns": 12,
+      "chars": 1098,
+      "note": "Ambrose Kettleby called from Somerset House, sent up for his lord's linen and letters",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250905/memos/210000_60",
+      "day": "20250905",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 290,
+      "note": "The lane was noisy with people back from the other bank and the jokes still in them",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250906/memos/101500_60",
+      "day": "20250906",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 161,
+      "note": "Standing, with the pen still in your hand, you said that in July you had said they jest first and then somebod",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250907/memos/161000_180",
+      "day": "20250907",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 411,
+      "note": "You came home with the bells still going at four",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250908/memos/212000_180",
+      "day": "20250908",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 188,
+      "note": "The moon was full enough to find the latch",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250910/memos/011000_120",
+      "day": "20250910",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 132,
+      "note": "You woke at one with the left side going, and the clove was on the board",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250910/memos/032000_120",
+      "day": "20250910",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 125,
+      "note": "You woke again at three, on the same side",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250910/memos/204000_180",
+      "day": "20250910",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 277,
+      "note": "The letter of the last of August was still sealed",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250911/memos/181000_120",
+      "day": "20250911",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 104,
+      "note": "You kept her line on the Michaelmas money, when it falls and not before, and the ladder of rope",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250912/memos/204000_180",
+      "day": "20250912",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 272,
+      "note": "At home you kept the slip to the one word, whom, in Susanna's hand",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20250913/calls/121500_180",
+      "day": "20250913",
+      "stream": "calls",
+      "speakers": [
+        "cuthbert_burbage",
+        "william_shakespeare"
+      ],
+      "turns": 10,
+      "chars": 895,
+      "note": "Cuthbert called from a scrivener's in Cheapside",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20250914/memos/190000_120",
+      "day": "20250914",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 103,
+      "note": "In the close, very low, you said the three sentences",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20250916/calls/165000_240",
+      "day": "20250916",
+      "stream": "calls",
+      "speakers": [
+        "ambrose_kettleby",
+        "john_heminges",
+        "william_shakespeare"
+      ],
+      "turns": 11,
+      "chars": 1195,
+      "note": "Kettleby called from Somerset House, back from Nonsuch since Sunday",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250916/memos/203000_60",
+      "day": "20250916",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 188,
+      "note": "At home you called it a compliment to a hand, and not a licence",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20250917/calls/084000_180",
+      "day": "20250917",
+      "stream": "calls",
+      "speakers": [
+        "richard_field",
+        "william_shakespeare"
+      ],
+      "turns": 12,
+      "chars": 1061,
+      "note": "Field called from his own shop with a book he did not print",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250918/memos/124300_60",
+      "day": "20250918",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 125,
+      "note": "Going out of the churchyard into Cheapside, you tried the word: sweet, like a pippin, like a child's physic",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250919/memos/212000_60",
+      "day": "20250919",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 61,
+      "note": "You said a sonnet can lie by leaving a man out, and a letter cannot",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250921/memos/214000_60",
+      "day": "20250921",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 224,
+      "note": "The name had Sunday off for church",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250922/memos/212000_60",
+      "day": "20250922",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 247,
+      "note": "At home you kept his sentence and yours",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20250923/calls/104000_180",
+      "day": "20250923",
+      "stream": "calls",
+      "speakers": [
+        "henry_wriothesley_southampton",
+        "william_shakespeare"
+      ],
+      "turns": 13,
+      "chars": 977,
+      "note": "My lord of Southampton called from Holborn, where he is for two nights, with Florio frowning at his elbow",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250923/memos/211000_60",
+      "day": "20250923",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 255,
+      "note": "At home you said he was happy, and that you never heard him so",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250925/memos/211500_60",
+      "day": "20250925",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 262,
+      "note": "At night the jaw was hot to the hand, and it did not ease",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250928/memos/211500_120",
+      "day": "20250928",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 172,
+      "note": "Alone, you set the limit once",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20250930/memos/184000_180",
+      "day": "20250930",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 207,
+      "note": "At dusk you said two days",
+      "already_synthesized": false
+    },
+    {
+      "category": "household",
+      "preset": "household_room",
+      "rel": "20251001/talk/193000_720",
+      "day": "20251001",
+      "stream": "talk",
+      "speakers": [
+        "alse_pinder",
+        "dorcas_ansell",
+        "gilbert_shakespeare",
+        "william_shakespeare"
+      ],
+      "turns": 28,
+      "chars": 3584,
+      "note": "Gilbert takes Michaelmas money; Alse hears 'this England' at the door",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251003/memos/204000_180",
+      "day": "20251003",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 294,
+      "note": "The jaw is no better for yesterday's house",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251006/memos/054000_60",
+      "day": "20251006",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 350,
+      "note": "At the window you said two-and-twenty, and that nothing goes this year, and that it will not be missed",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251006/memos/161000_60",
+      "day": "20251006",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 134,
+      "note": "In the passage, with the yard still loud, you said you were dead in the fourth act",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251007/memos/154000_60",
+      "day": "20251007",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 276,
+      "note": "After you were done, you said Gaunt the second time, dead by the middle",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251007/memos/234000_120",
+      "day": "20251007",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 290,
+      "note": "Near midnight a third candle had gone to the socket",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251011/memos/211500_60",
+      "day": "20251011",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 167,
+      "note": "You said you had copied three leaves fair, folded them once, and put them under the account book",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20251013/calls/183000_180",
+      "day": "20251013",
+      "stream": "calls",
+      "speakers": [
+        "gilbert_shakespeare",
+        "william_shakespeare"
+      ],
+      "turns": 15,
+      "chars": 1023,
+      "note": "You spoke to Gilbert from Great St Helen's and gave him joy of the day",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251014/memos/021500_120",
+      "day": "20251014",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 6,
+      "chars": 541,
+      "note": "You paced the chamber with oil of cloves on the gum",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251014/memos/174000_60",
+      "day": "20251014",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 92,
+      "note": "At dusk you said the tyrant was gone, and no bigger than a pea",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251016/memos/142000_60",
+      "day": "20251016",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 80,
+      "note": "At twenty past two you said Thomas had the king, and that you were in a cap",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20251017/calls/190000_180",
+      "day": "20251017",
+      "stream": "calls",
+      "speakers": [
+        "john_florio",
+        "william_shakespeare"
+      ],
+      "turns": 14,
+      "chars": 1004,
+      "note": "Florio spoke from my lord's house in Holborn, and the house was in black",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20251020/calls/110000_360",
+      "day": "20251020",
+      "stream": "calls",
+      "speakers": [
+        "ambrose_kettleby",
+        "william_shakespeare"
+      ],
+      "turns": 12,
+      "chars": 1075,
+      "note": "Master Kettleby called from Somerset House, among the hampers",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251022/memos/135300_120",
+      "day": "20251022",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 151,
+      "note": "You heard St Leonard's bell on the way into Holywell and saw the white swan over the Theatre",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251026/memos/082500_60",
+      "day": "20251026",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 321,
+      "note": "Before church you spoke the crack again and left it where Friday left it",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251026/memos/173500_60",
+      "day": "20251026",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 69,
+      "note": "After the letter you said the word likely was a small word to carry a hundred miles, and better small and true",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251028/memos/204000_120",
+      "day": "20251028",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 194,
+      "note": "Before the page you said the friar's letter has miscarried on the way to Mantua",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251029/memos/171000_120",
+      "day": "20251029",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 141,
+      "note": "At the west window you said a hundred yards had weighed like the whole City, and that a lamp was put out",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251030/memos/170500_120",
+      "day": "20251030",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 236,
+      "note": "After the play you had been Gaunt",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251031/memos/171000_120",
+      "day": "20251031",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 169,
+      "note": "After the play you had been an old man in Titus, and you did not name the part",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251102/memos/201500_120",
+      "day": "20251102",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 5,
+      "chars": 610,
+      "note": "At the window, after evening prayer, you named Ovid, Marlowe, Kyd, and Greene, and said you had paid none of t",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251105/memos/112900_60",
+      "day": "20251105",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 155,
+      "note": "Setting off home by Cheapside, out of the churchyard, you said that in June it was a chronicle and in November",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20251107/calls/165000_180",
+      "day": "20251107",
+      "stream": "calls",
+      "speakers": [
+        "henry_carey_hunsdon",
+        "william_shakespeare"
+      ],
+      "turns": 24,
+      "chars": 2442,
+      "note": "Still in a duke's gown from Richard the Third, you took the call from Somerset House",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251109/memos/000000_60",
+      "day": "20251109",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 81,
+      "note": "At midnight you said he gets it wrong by a minute, and that the minute is all the villainy in it",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251109/memos/211500_60",
+      "day": "20251109",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 134,
+      "note": "At night you said someone must say it plainly to the living, and that the Friar can have the length",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251111/memos/101900_60",
+      "day": "20251111",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 14,
+      "note": "Before you left the house you said the two words",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251112/memos/204000_60",
+      "day": "20251112",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 153,
+      "note": "You said the Scythian had been in your ear through Gaunt, and that you had not crossed",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251113/memos/141000_60",
+      "day": "20251113",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 70,
+      "note": "You said you had been told and not asked",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251114/memos/171000_60",
+      "day": "20251114",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 109,
+      "note": "At home you said Nick had stayed under the note the whole way, through the sixteen bars",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20251115/calls/081000_360",
+      "day": "20251115",
+      "stream": "calls",
+      "speakers": [
+        "richard_quiney",
+        "william_shakespeare"
+      ],
+      "turns": 15,
+      "chars": 1363,
+      "note": "Richard Quiney spoke from the Bell in Carter Lane",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251115/memos/082000_60",
+      "day": "20251115",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 294,
+      "note": "You set his two hundred against the twenty you counted",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251116/memos/171500_60",
+      "day": "20251116",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 87,
+      "note": "You said the money felt freer before you counted it, and that counted it is only money, and better that way",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20251117/memos/085000_120",
+      "day": "20251117",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 134,
+      "note": "You walked past a throng at Paul's Cross",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251117/memos/204800_60",
+      "day": "20251117",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 71,
+      "note": "You had been bid to see him unhorsed",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251118/memos/171000_60",
+      "day": "20251118",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 156,
+      "note": "At home you left the October page as it was",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251119/memos/125000_60",
+      "day": "20251119",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 168,
+      "note": "You were home after the reading",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251120/memos/125500_120",
+      "day": "20251120",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 186,
+      "note": "At the lodging you thought of God locked into nine clauses like a tenant into a lease, and of a weaver who cou",
+      "already_synthesized": false
+    },
+    {
+      "category": "london",
+      "preset": "household_room",
+      "rel": "20251120/talk/113200_720",
+      "day": "20251120",
+      "stream": "talk",
+      "speakers": [
+        "richard_field",
+        "william_shakespeare"
+      ],
+      "turns": 26,
+      "chars": 1668,
+      "note": "Richard Field's Blackfriars press \u2014 Rochelle paper, Holinshed & Lambeth Articles",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20251122/calls/080000_180",
+      "day": "20251122",
+      "stream": "calls",
+      "speakers": [
+        "richard_quiney",
+        "william_shakespeare"
+      ],
+      "turns": 10,
+      "chars": 621,
+      "note": "Richard Quiney spoke from the Bell",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251124/memos/171000_60",
+      "day": "20251124",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 229,
+      "note": "At home between the play and the supper you put two pounds in the purse",
+      "already_synthesized": false
+    },
+    {
+      "category": "stratford",
+      "preset": "household_room",
+      "rel": "20251124/talk/180500_720",
+      "day": "20251124",
+      "stream": "talk",
+      "speakers": [
+        "richard_quiney",
+        "william_shakespeare"
+      ],
+      "turns": 25,
+      "chars": 2176,
+      "note": "Richard Quiney stands wine at the Bell for the Stratford fire brief",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251125/memos/073600_60",
+      "day": "20251125",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 191,
+      "note": "You said the eleven pounds are his joy, and that you are not writing them",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251125/memos/170500_60",
+      "day": "20251125",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 181,
+      "note": "At home you said Gaunt was done and the three leaves had stayed under the book",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251126/memos/194000_120",
+      "day": "20251126",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 449,
+      "note": "At home you said the three nights over",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251127/memos/203500_60",
+      "day": "20251127",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 202,
+      "note": "At home you said that tomorrow the Theatre plays Fair Em, and that you are not in it",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251128/memos/073400_120",
+      "day": "20251128",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 357,
+      "note": "You said the term over",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251129/memos/184200_60",
+      "day": "20251129",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 216,
+      "note": "You said the day was one line and two locks",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251130/memos/151000_120",
+      "day": "20251130",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 302,
+      "note": "Alone after dinner you hummed the anthem and lost it",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251201/memos/123000_120",
+      "day": "20251201",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 5,
+      "chars": 387,
+      "note": "At home you put the line in both places, Burby's entered book and your coffer, and you did not open the folder",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251203/memos/211000_120",
+      "day": "20251203",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 269,
+      "note": "At night you repeated James Burbage's sentence about a great stone hall in the Blackfriars that would hold a w",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251205/memos/231000_120",
+      "day": "20251205",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 322,
+      "note": "After the call you said again that she wakes hoarse, as a girl would that had slept two days in a grave",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20251207/calls/150000_180",
+      "day": "20251207",
+      "stream": "calls",
+      "speakers": [
+        "ambrose_kettleby",
+        "william_shakespeare"
+      ],
+      "turns": 13,
+      "chars": 877,
+      "note": "Kettleby called from Somerset House on the Sabbath and asked pardon for himself, not for his lord",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251211/memos/022000_120",
+      "day": "20251211",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 8,
+      "chars": 863,
+      "note": "In the dark hour you said his sentence over as you would a cue",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251211/memos/101500_60",
+      "day": "20251211",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 16,
+      "note": "After the talk you said three words and stopped",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20251212/calls/081500_240",
+      "day": "20251212",
+      "stream": "calls",
+      "speakers": [
+        "cuthbert_burbage",
+        "william_shakespeare"
+      ],
+      "turns": 12,
+      "chars": 942,
+      "note": "Cuthbert called from Holywell before his father was up",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251212/memos/180500_60",
+      "day": "20251212",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 331,
+      "note": "You tried the waking twice in his cadence, once as a piece that makes the room wait and once slower, and both ",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251213/memos/211000_60",
+      "day": "20251213",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 31,
+      "note": "With the lid down you said six words",
+      "already_synthesized": false
+    },
+    {
+      "category": "calls",
+      "preset": "call_room",
+      "rel": "20251215/calls/122000_180",
+      "day": "20251215",
+      "stream": "calls",
+      "speakers": [
+        "richard_field",
+        "william_shakespeare"
+      ],
+      "turns": 16,
+      "chars": 1059,
+      "note": "Field called from the shop as you came into the Theatre",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251215/memos/211500_60",
+      "day": "20251215",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 196,
+      "note": "Alone, you said you have not got a third poem",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251217/memos/212000_60",
+      "day": "20251217",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 232,
+      "note": "Alone, you named the two rolls, the seam, and the hook",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251219/memos/130500_60",
+      "day": "20251219",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 221,
+      "note": "Alone, you repeated the sum and the season, and you said neither the money nor the roof goes into the book",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251220/memos/211000_60",
+      "day": "20251220",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 201,
+      "note": "Alone, you set Monday as the condition, the following as the other, and the fourth time as done",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251222/memos/021000_60",
+      "day": "20251222",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 87,
+      "note": "Awake about two, you thought of nothing but where the Prince stands",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251224/memos/162000_60",
+      "day": "20251224",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 1,
+      "chars": 34,
+      "note": "At the inn window you set this arrival against Greenwich a year ago, and against the same cloak",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251225/memos/201000_60",
+      "day": "20251225",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 268,
+      "note": "Alone, you set another table against this one",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251229/memos/165000_60",
+      "day": "20251229",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 114,
+      "note": "In the chamber you put my lord's ten shillings behind both locks",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251230/memos/060500_60",
+      "day": "20251230",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 211,
+      "note": "Before you wrote, you said the three nights were liked, that the Queen laughed once at Pope, and that the pay ",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251230/memos/060600_840",
+      "day": "20251230",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 5,
+      "chars": 517,
+      "note": "You tried the letter out loud and cut it",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251230/memos/081500_60",
+      "day": "20251230",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 246,
+      "note": "You said the weaver's going and coming twice, the second time bigger, the way Kemp fills a yard",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251230/memos/081600_840",
+      "day": "20251230",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 5,
+      "chars": 355,
+      "note": "You said the weaver's going and coming again, bigger, as if the wall were the yard",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251230/memos/083000_600",
+      "day": "20251230",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 273,
+      "note": "You set the order: the tables, then the clean sheet, workmen first and the queen after",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251230/memos/112000_60",
+      "day": "20251230",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 129,
+      "note": "Before dinner you said the page joins the two beginnings, and that you were not counting the leaves under it",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251230/memos/134000_60",
+      "day": "20251230",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 234,
+      "note": "In the afternoon you refused a paragraph for your father and your mother",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251230/memos/134100_840",
+      "day": "20251230",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 403,
+      "note": "You counted the three children on the letter and refused a paragraph for your father and your mother",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251230/memos/143000_600",
+      "day": "20251230",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 289,
+      "note": "Back at the lodging you said you had read the bill and that you were not crossing the river for it",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_walk",
+      "rel": "20251230/memos/155000_120",
+      "day": "20251230",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 262,
+      "note": "You said it was thirty yards across the close and the light was going",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251230/memos/155200_480",
+      "day": "20251230",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 303,
+      "note": "You named the two naves and the plain chest, and you did not stay",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251230/memos/192000_180",
+      "day": "20251230",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 231,
+      "note": "You passed the shut stalls at Paul's",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251230/memos/192300_120",
+      "day": "20251230",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 2,
+      "chars": 179,
+      "note": "You were past the shut stalls and you did not turn back",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251230/memos/224000_60",
+      "day": "20251230",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 120,
+      "note": "Back at the lodging you said there were a dozen leaves and no last act, and that you had not punished the quee",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251230/memos/224100_600",
+      "day": "20251230",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 4,
+      "chars": 423,
+      "note": "You said you were not opening the fold to add an ending",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251230/memos/232500_60",
+      "day": "20251230",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 225,
+      "note": "Last, you said the letter was still on the board and that you had named no one to take it",
+      "already_synthesized": false
+    },
+    {
+      "category": "memos",
+      "preset": "memo_room",
+      "rel": "20251231/memos/155000_60",
+      "day": "20251231",
+      "stream": "memos",
+      "speakers": [
+        "william_shakespeare"
+      ],
+      "turns": 3,
+      "chars": 163,
+      "note": "Before four the light was gone",
+      "already_synthesized": false
+    }
+  ]
+}

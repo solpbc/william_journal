@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "06:05:00", "text": "Three nights. They were liked. She laughed once, at Pope. The pay is a door with nobody behind it.", "timing": {"end": 16.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "06:05:16", "text": "The brook. I answered it ill. Say it shorter than I want to.", "timing": {"end": 28.0, "start": 16.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "06:05:28", "text": "Nine pounds more. Not the total. Not a house. Enough.", "timing": {"end": 38.0, "start": 28.0}}
+{"backend": "whisper", "duration": 16.11, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "06:05:00", "text": "Three nights. They were liked. She laughed once, at Pope. The pay is a door with nobody behind it.", "timing": {"end": 7.24, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "06:05:07", "text": "The brook. I answered it ill. Say it shorter than I want to.", "timing": {"end": 11.6, "start": 7.24}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "06:05:12", "text": "Nine pounds more. Not the total. Not a house. Enough.", "timing": {"end": 15.52, "start": 11.6}}

@@ -1,5 +1,5 @@
-{"backend": "whisper", "duration": 600.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "22:41:30", "text": "Home. The fold is the fold. I am not opening it to add the sentence she told me not to add.", "timing": {"end": 200.0, "start": 30.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "22:44:20", "text": "The chronicle is on the shelf, under the cat or beside him. It is staying. I said so by the fire, and the shelf agrees.", "timing": {"end": 400.0, "start": 200.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "22:47:40", "text": "The letter is the other paper. It is not the pages. It does not go out tonight because I am tired. It does not go out because I have not named a man.", "timing": {"end": 550.0, "start": 400.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "22:50:10", "text": "Enough. The candle can do the rest of the room without a speech.", "timing": {"end": 560.0, "start": 550.0}}
+{"backend": "whisper", "duration": 27.31, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "22:41:00", "text": "Home. The fold is the fold. I am not opening it to add the sentence she told me not to add.", "timing": {"end": 6.56, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "22:41:07", "text": "The chronicle is on the shelf, under the cat or beside him. It is staying. I said so by the fire, and the shelf agrees.", "timing": {"end": 14.45, "start": 6.56}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "22:41:14", "text": "The letter is the other paper. It is not the pages. It does not go out tonight because I am tired. It does not go out because I have not named a man.", "timing": {"end": 23.2, "start": 14.45}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "22:41:23", "text": "Enough. The candle can do the rest of the room without a speech.", "timing": {"end": 26.72, "start": 23.2}}

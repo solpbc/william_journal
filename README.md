@@ -2,9 +2,9 @@
 
 One year in the journal of William Shakespeare: 1595, kept on 2025's calendar.
 
-This is a complete [solstone](https://solstone.app) journal, built for demos, screenshots and agent experiments. Every day of the year has something in it, drawn from transcripts of meetings, calls and voice memos, notes, the page on his desk, photos, steps, sleep, heart rate, places and a calendar. The summaries, entities, briefings and reflections the journal's thinking would normally write were written in with everything else, so the journal reads as fully processed. It also holds 62 faces, a record of one connected agent and its history, and the journal's own mark, `crablike · cosmos`, which shows only with its identity key (see below).
+This is a complete [solstone](https://solstone.app) journal, built for demos, screenshots and agent experiments. Every day of the year has something in it, drawn from transcripts of meetings, calls and voice memos, notes, the page on his desk, photos, steps, sleep, heart rate, places and a calendar. The summaries, entities, briefings and reflections the journal's thinking would normally write were written in with everything else, so the journal reads as fully processed. It also holds 64 faces, a record of one connected agent and its history, and the journal's own mark, `crablike · cosmos`, which shows only with its identity key (see below).
 
-It is fiction, made by language models and image models working to a researched canon. Nobody living is in it.
+It is fiction, made by language models, image models and speech synthesis working to a researched canon. Nobody living is in it.
 
 ## why it is shaped this way
 
@@ -24,7 +24,7 @@ One thing is deliberately absent. His son Hamnet is ten in 1595 and dies in Augu
 
 ## how it was made
 
-The research came from three deep-research reports, by ChatGPT, Gemini and a third that reads as Claude's, reconciled into the source book in [`research/`](research/). Three models (GPT-6 Astra, Gemini 4 Carbon and Fable 5.2) each wrote a full world bible, and those were folded into one. Every week was then written twice, once by Grok and once by Gemini, and a Grok merge took the best of each into the accepted text in `content/weeks/*/merged/`. A deterministic generator ([`tools/`](tools/)) turned that text into the journal's stored files, and validators checked the result. The photos, page images and faces were generated with Gemini's image model and checked against their captions.
+The research came from three deep-research reports, by ChatGPT, Gemini and a third that reads as Claude's, reconciled into the source book in [`research/`](research/). Three models (GPT-6 Astra, Gemini 4 Carbon and Fable 5.2) each wrote a full world bible, and those were folded into one. Every week was then written twice, once by Grok and once by Gemini, and a Grok merge took the best of each into the accepted text in `content/weeks/*/merged/`. A deterministic generator ([`tools/`](tools/)) turned that text into the journal's stored files, and validators checked the result. The photos, page images and faces were generated with Gemini's image model and checked against their captions. Speech recordings for 303 transcripts (all 237 voice memos, all 34 calls and 32 multi-speaker talks, 182.4 minutes in 16 kHz mono FLAC) were synthesized with ElevenLabs `eleven_v4` from 19 licensed stock voices, cloning nobody. Every recording was verified against solstone's WeSpeaker ResNet34-256 voiceprint pipeline ([`audio/README.md`](audio/README.md)).
 
 The journal was written by machines working to a human-reviewed plan. The alternative drafts and the merge notes are not included; this repo holds what was accepted.
 
@@ -32,16 +32,17 @@ The journal was written by machines working to a human-reviewed plan. The altern
 
 | Path | What it is |
 |---|---|
-| `build/journal/` | the finished journal: 365 days, the search index, entities, facets, reflections, photos, faces, the connected agent's record and the journal's identity (minus its key) |
-| `photos/` | the accepted images, 183 year photos, 52 page images and 62 faces, with the install file that places each one and a contact sheet in each folder (`index.html`) |
+| `build/journal/` | the finished journal: 365 days, the search index, entities, facets, reflections, 303 `audio.flac` recordings, photos, faces, the connected agent's record and the journal's identity (minus its key) |
+| `audio/` | the 19-voice cast registry (`voices.json`), extracted WeSpeaker ResNet34-256 voiceprints (`voiceprints.json`), install manifest (`install.json`), ambient beds, batch lists and generation guide ([`audio/README.md`](audio/README.md)) |
+| `photos/` | the accepted images, 183 year photos, 52 page images and 64 faces, with the install file that places each one and a contact sheet in each folder (`index.html`) |
 | `world/world.md` | the world bible, *The Weight of a Penny* |
 | `content/` | the accepted days and weeks, the day plans, the threads, the canon additions and the format and lint they follow |
 | `calendar/merged/` | the year's 795 calendar events and the script that builds them |
 | `research/` | the synthesis and the six-part source book |
-| `tools/` | the generator, the photo tooling, the read-back validator and tests ([`tools/README.md`](tools/README.md)) |
+| `tools/` | the generator, audio and photo tooling, voiceprint evaluator, read-back validator and tests ([`tools/README.md`](tools/README.md)) |
 | `build/screens/` | a few screenshots |
 
-The files come to about 225 MB. The largest is the search index, about 37 MB.
+The files come to about 428 MB. The largest is the search index, about 40 MB.
 
 ## serve it with solstone
 
@@ -72,8 +73,9 @@ A journal has an identity, and its mark is derived from it. This one's certifica
 
 ## license
 
-[CC BY-NC 4.0](LICENSE), covering the whole repository: the writing, the images, the journal and the code. You may share and adapt it for non-commercial purposes with attribution to sol pbc.
+[CC BY-NC 4.0](LICENSE), covering the whole repository: the writing, the images, the audio, the journal and the code. You may share and adapt it for non-commercial purposes with attribution to sol pbc.
 
 - **Shakespeare's own works are in the public domain**, and lines quoted from them stay so.
 - **The images are generated.** No photograph of a real scene or person was used.
+- **The voices are synthesized.** Licensed stock voices from the ElevenLabs Voice Library were used, cloning nobody.
 - **The historical people** have been dead for centuries, and everyone else is invented.

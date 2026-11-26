@@ -309,10 +309,13 @@ def _parse_mmss(mmss: str, label: str) -> int:
 
 PHOTO_INSTALL_MANIFEST = PROJECT_ROOT / "photos" / "year" / "install.json"
 PAGE_INSTALL_MANIFEST = PROJECT_ROOT / "photos" / "pages" / "install.json"
+AUDIO_INSTALL_MANIFEST = PROJECT_ROOT / "audio" / "install.json"
 PHOTO_JPEG = "original.jpg"
 LEGACY_PHOTO_JPEG = "screenshot_screen.jpg"
 PAGE_JPEG = "page_screen.jpg"
+AUDIO_FLAC = "audio.flac"
 _REAL_PHOTO_MIN_BYTES = 2000
+_REAL_AUDIO_MIN_BYTES = 1024
 # `triage.rs` RULESET_VERSION at the pinned journal. `image_default` is the
 # manual-image fallback and stores kind `photos` (`rules.rs`).
 PHOTO_IMPORT_KIND = {
@@ -386,6 +389,83 @@ def _preserved_photo_bytes(day_dir: Path, day_spec: DaySpec) -> dict[tuple[str, 
             if _is_real_photo_bytes(data, placeholder):
                 preserved[seg.stream_name, seg.segment_key] = data
                 break
+    return preserved
+
+
+def _is_real_audio_bytes(data: bytes) -> bool:
+    return data.startswith(b"fLaC") and len(data) >= _REAL_AUDIO_MIN_BYTES
+
+
+def _load_audio_install_timings(manifest_path: Path | None = None) -> dict[str, dict[str, Any]]:
+    """Map `YYYYMMDD/<stream>/<segment_key>` to aligned duration/turn timings from `audio/install.json`."""
+    path = manifest_path if manifest_path is not None else AUDIO_INSTALL_MANIFEST
+    if not path.is_file():
+        return {}
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    by_seg = payload.get("by_segment")
+    if not isinstance(by_seg, dict):
+        return {}
+    out: dict[str, dict[str, Any]] = {}
+    for key, entry in by_seg.items():
+        if isinstance(key, str) and isinstance(entry, dict) and isinstance(entry.get("turns"), list):
+            out[key] = {
+                "duration": float(entry["duration_s"]),
+                "turns": {
+                    int(t["sentence_id"]): {
+                        "start": str(t["start"]),
+                        "timing": {
+                            "start": float(t["timing"]["start"]),
+                            "end": float(t["timing"]["end"]),
+                        },
+                    }
+                    for t in entry["turns"]
+                    if isinstance(t, dict) and "sentence_id" in t and "timing" in t
+                },
+            }
+    return out
+
+
+def _read_audio_jsonl_timings(jsonl_path: Path) -> dict[str, Any] | None:
+    if not jsonl_path.is_file():
+        return None
+    lines = [json.loads(ln) for ln in jsonl_path.read_text(encoding="utf-8").splitlines() if ln.strip()]
+    if len(lines) < 2 or not isinstance(lines[0], dict) or "duration" not in lines[0]:
+        return None
+    turns: dict[int, dict[str, Any]] = {}
+    for rec in lines[1:]:
+        if isinstance(rec, dict) and "sentence_id" in rec and "timing" in rec and "start" in rec:
+            turns[int(rec["sentence_id"])] = {
+                "start": str(rec["start"]),
+                "timing": {
+                    "start": float(rec["timing"]["start"]),
+                    "end": float(rec["timing"]["end"]),
+                },
+            }
+    return {"duration": float(lines[0]["duration"]), "turns": turns}
+
+
+def _preserved_audio_state(
+    day_dir: Path, day_spec: DaySpec
+) -> dict[tuple[str, str], tuple[bytes, dict[str, Any] | None]]:
+    """Real `audio.flac` bytes and aligned `audio.jsonl` timings already on disk for this day.
+
+    A convert removes the day's stream directories before rewriting them, so real audio
+    and its aligned per-turn timings must be read first or a re-convert wipes them.
+    """
+    preserved: dict[tuple[str, str], tuple[bytes, dict[str, Any] | None]] = {}
+    for seg in day_spec.segments:
+        if seg.kind not in ("meeting", "call", "memo"):
+            continue
+        seg_dir = day_dir / seg.stream_name / seg.segment_key
+        flac_path = seg_dir / AUDIO_FLAC
+        if not flac_path.is_file():
+            continue
+        data = flac_path.read_bytes()
+        if _is_real_audio_bytes(data):
+            preserved[seg.stream_name, seg.segment_key] = (
+                data,
+                _read_audio_jsonl_timings(seg_dir / "audio.jsonl"),
+            )
     return preserved
 
 
@@ -1654,6 +1734,8 @@ def _write_segment_files(
     file_mtime_sec: float,
     receipt_ts_ms: int,
     preserved_photos: dict[tuple[str, str], bytes] | None = None,
+    preserved_audio: dict[tuple[str, str], tuple[bytes, dict[str, Any] | None]] | None = None,
+    audio_install_timings: dict[str, dict[str, Any]] | None = None,
 ) -> tuple[dict[str, Any] | None, list[dict[str, Any]], list[dict[str, Any]]]:
     """Write one segment's files, sense projections, and health receipts; return activity and entity rows.
 
@@ -1723,6 +1805,29 @@ def _write_segment_files(
                         "confidence": "high",
                     }
                 )
+        kept_audio = (preserved_audio or {}).get((seg.stream_name, seg.segment_key))
+        if kept_audio is not None:
+            audio_bytes, kept_timings = kept_audio
+            flac_path = seg_dir / AUDIO_FLAC
+            flac_path.write_bytes(audio_bytes)
+            written_paths.append(flac_path)
+            seg_rel = f"{seg.day_key}/{seg.stream_name}/{seg.segment_key}"
+            timing_overlay = kept_timings
+            if timing_overlay is None or len(timing_overlay.get("turns") or {}) != len(effective_lines):
+                cand = (audio_install_timings or {}).get(seg_rel)
+                if cand is not None and len(cand.get("turns") or {}) == len(effective_lines):
+                    timing_overlay = cand
+            if timing_overlay is not None and len(timing_overlay.get("turns") or {}) == len(effective_lines):
+                audio_lines[0]["duration"] = float(timing_overlay["duration"])
+                turns_map = timing_overlay["turns"]
+                for rec in audio_lines[1:]:
+                    ov = turns_map.get(int(rec["sentence_id"]))
+                    if ov is not None:
+                        rec["start"] = ov["start"]
+                        rec["timing"] = {
+                            "end": float(ov["timing"]["end"]),
+                            "start": float(ov["timing"]["start"]),
+                        }
         registry.validate_headered_jsonl("audio-jsonl", audio_lines, f"{seg.day_key}/{seg.segment_key}/audio.jsonl")
         audio_path = seg_dir / "audio.jsonl"
         audio_path.write_text(
@@ -2307,9 +2412,11 @@ def convert_content_to_journal(
         day_talents_dir.mkdir(parents=True, exist_ok=True)
         day_health_dir.mkdir(parents=True, exist_ok=True)
 
-        # Read real photos before the stream directories are removed. A re-convert
-        # would otherwise replace them with the 1x1 placeholder.
+        # Read real photos and audio before the stream directories are removed. A re-convert
+        # would otherwise replace photos with the 1x1 placeholder and wipe real audio/timings.
         preserved_photos = _preserved_photo_bytes(day_dir, day_spec)
+        preserved_audio = _preserved_audio_state(day_dir, day_spec)
+        audio_install_timings = _load_audio_install_timings() if preserved_audio else {}
         written_segments = _segments_to_write(day_spec, content_dir, specs_by_iso)
 
         # Clean any pre-existing content stream directories and receipt files for this day
@@ -2386,6 +2493,8 @@ def convert_content_to_journal(
                 file_mtime_sec=file_mtime_sec,
                 receipt_ts_ms=base_receipt_ts_ms + seg_idx * 10,
                 preserved_photos=preserved_photos,
+                preserved_audio=preserved_audio,
+                audio_install_timings=audio_install_timings,
             )
             runs.setdefault(id(seg.activity_head), []).append(seg)
             if act_rec is not None:

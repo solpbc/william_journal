@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "15:40:00", "text": "Egeon's tale, as it is. I am not improving it because a hall will have cups in its hands.", "timing": {"end": 16.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "15:40:16", "text": "Behind the cloth, if they laugh. Let them. The nerves can stay unsaid.", "timing": {"end": 32.0, "start": 16.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "15:40:32", "text": "That is the whole of the preparation.", "timing": {"end": 42.0, "start": 32.0}}
+{"backend": "whisper", "duration": 13.63, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "15:40:00", "text": "Egeon's tale, as it is. I am not improving it because a hall will have cups in its hands.", "timing": {"end": 6.08, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "15:40:06", "text": "Behind the cloth, if they laugh. Let them. The nerves can stay unsaid.", "timing": {"end": 11.04, "start": 6.08}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "15:40:11", "text": "That is the whole of the preparation.", "timing": {"end": 12.96, "start": 11.04}}

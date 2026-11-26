@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:10:00", "text": "There's a great stone hall in the Blackfriars would hold a winter. I only say there is one.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:10:14", "text": "That was his sentence. I am not to give it a price, and I am not to give it a second hall.", "timing": {"end": 28.0, "start": 14.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:10:28", "text": "He stood in two cloaks and went back to the yard. The yard is the house we have. Enough.", "timing": {"end": 38.0, "start": 28.0}}
+{"backend": "whisper", "duration": 16.19, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:10:00", "text": "There's a great stone hall in the Blackfriars would hold a winter. I only say there is one.", "timing": {"end": 5.2, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:10:05", "text": "That was his sentence. I am not to give it a price, and I am not to give it a second hall.", "timing": {"end": 10.4, "start": 5.2}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:10:10", "text": "He stood in two cloaks and went back to the yard. The yard is the house we have. Enough.", "timing": {"end": 15.52, "start": 10.4}}

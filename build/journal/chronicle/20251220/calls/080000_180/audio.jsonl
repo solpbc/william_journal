@@ -1,12 +1,12 @@
-{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "john_heminges", "start": "08:00:00", "text": "Will? John. From Aldermanbury, with eleven pair of hose drying before the fire.", "timing": {"end": 10.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:00:10", "text": "Eleven pair will dry. Say the rest.", "timing": {"end": 18.0, "start": 10.0}}
-{"sentence_id": 3, "speaker": "john_heminges", "start": "08:00:18", "text": "The court is at Whitehall. The Queen came up from Richmond yesterday of a sudden. My lord of Huntingdon is dead in the north, and she would break it to the Countess herself.", "timing": {"end": 36.0, "start": 18.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "08:00:36", "text": "I had it from Kettleby's boy an hour since. She goes back Monday. The players are looked for at Richmond as appointed.", "timing": {"end": 50.0, "start": 36.0}}
-{"sentence_id": 5, "speaker": "john_heminges", "start": "08:00:50", "text": "I have Davy Gannet's tilt-boat bespoken for Wednesday's flood, and a deposit down. Is Christmas still Richmond, or Whitehall, or nowhere?", "timing": {"end": 66.0, "start": 50.0}}
-{"sentence_id": 6, "speaker": "william_shakespeare", "start": "08:01:06", "text": "Richmond. She goes back Monday.", "timing": {"end": 74.0, "start": 66.0}}
-{"sentence_id": 7, "speaker": "john_heminges", "start": "08:01:14", "text": "Monday. Good. Then the tilt-boat stands.", "timing": {"end": 82.0, "start": 74.0}}
-{"sentence_id": 8, "speaker": "john_heminges", "start": "08:01:22", "text": "And if she doesn't go Monday?", "timing": {"end": 90.0, "start": 82.0}}
-{"sentence_id": 9, "speaker": "william_shakespeare", "start": "08:01:30", "text": "Then we follow the Queen, John, like everybody else.", "timing": {"end": 100.0, "start": 90.0}}
-{"sentence_id": 10, "speaker": "john_heminges", "start": "08:01:40", "text": "Item, a second deposit. God keep you.", "timing": {"end": 108.0, "start": 100.0}}
-{"sentence_id": 11, "speaker": "william_shakespeare", "start": "08:01:48", "text": "And you.", "timing": {"end": 118.0, "start": 108.0}}
+{"backend": "whisper", "duration": 47.95, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "john_heminges", "start": "08:00:00", "text": "Will? John. From Aldermanbury, with eleven pair of hose drying before the fire.", "timing": {"end": 5.28, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:00:05", "text": "Eleven pair will dry. Say the rest.", "timing": {"end": 7.84, "start": 5.28}}
+{"sentence_id": 3, "speaker": "john_heminges", "start": "08:00:08", "text": "The court is at Whitehall. The Queen came up from Richmond yesterday of a sudden. My lord of Huntingdon is dead in the north, and she would break it to the Countess herself.", "timing": {"end": 17.36, "start": 7.84}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "08:00:17", "text": "I had it from Kettleby's boy an hour since. She goes back Monday. The players are looked for at Richmond as appointed.", "timing": {"end": 23.84, "start": 17.36}}
+{"sentence_id": 5, "speaker": "john_heminges", "start": "08:00:24", "text": "I have Davy Gannet's tilt-boat bespoken for Wednesday's flood, and a deposit down. Is Christmas still Richmond, or Whitehall, or nowhere?", "timing": {"end": 32.72, "start": 23.84}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "08:00:33", "text": "Richmond. She goes back Monday.", "timing": {"end": 34.88, "start": 32.72}}
+{"sentence_id": 7, "speaker": "john_heminges", "start": "08:00:35", "text": "Monday. Good. Then the tilt-boat stands.", "timing": {"end": 38.32, "start": 34.88}}
+{"sentence_id": 8, "speaker": "john_heminges", "start": "08:00:38", "text": "And if she doesn't go Monday?", "timing": {"end": 40.24, "start": 38.32}}
+{"sentence_id": 9, "speaker": "william_shakespeare", "start": "08:00:40", "text": "Then we follow the Queen, John, like everybody else.", "timing": {"end": 43.28, "start": 40.24}}
+{"sentence_id": 10, "speaker": "john_heminges", "start": "08:00:43", "text": "Item, a second deposit. God keep you.", "timing": {"end": 46.4, "start": 43.28}}
+{"sentence_id": 11, "speaker": "william_shakespeare", "start": "08:00:46", "text": "And you.", "timing": {"end": 47.28, "start": 46.4}}

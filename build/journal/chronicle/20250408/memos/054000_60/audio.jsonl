@@ -1,5 +1,5 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "05:40:00", "text": "Fourteen arches. The tables are on the bow, and the reins are slack.", "timing": {"end": 10.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "05:40:10", "text": "She is in the door. I am not writing the picture down.", "timing": {"end": 20.0, "start": 10.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "05:40:20", "text": "Eleven days' grass, and no sweeter. Two-and-thirty miles to the Bear. Nothing on the leaf.", "timing": {"end": 32.0, "start": 20.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "05:40:32", "text": "Nothing.", "timing": {"end": 42.0, "start": 32.0}}
+{"backend": "whisper", "duration": 17.45, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "05:40:00", "text": "Fourteen arches. The tables are on the bow, and the reins are slack.", "timing": {"end": 4.96, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "05:40:05", "text": "She is in the door. I am not writing the picture down.", "timing": {"end": 8.48, "start": 4.96}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "05:40:08", "text": "Eleven days' grass, and no sweeter. Two-and-thirty miles to the Bear. Nothing on the leaf.", "timing": {"end": 14.56, "start": 8.48}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "05:40:15", "text": "Nothing.", "timing": {"end": 15.28, "start": 14.56}}

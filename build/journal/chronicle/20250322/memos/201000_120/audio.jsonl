@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:10:00", "text": "The jacks leap to kiss the hand that plays. Dead wood, and a man standing there envying it.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:10:12", "text": "I am not asking her name. There was no name in the room to ask.", "timing": {"end": 24.0, "start": 12.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:10:24", "text": "Enough of the jacks. The lines, if there are lines, can wait for a candle.", "timing": {"end": 34.0, "start": 24.0}}
+{"backend": "whisper", "duration": 16.27, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:10:00", "text": "The jacks leap to kiss the hand that plays. Dead wood, and a man standing there envying it.", "timing": {"end": 6.6, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:10:07", "text": "I am not asking her name. There was no name in the room to ask.", "timing": {"end": 11.04, "start": 6.6}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:10:11", "text": "Enough of the jacks. The lines, if there are lines, can wait for a candle.", "timing": {"end": 15.68, "start": 11.04}}

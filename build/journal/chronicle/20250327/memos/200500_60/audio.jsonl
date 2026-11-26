@@ -1,2 +1,2 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:05:06", "text": "Sixty-and-odd behind me. I've forgot what I meant to say to her. Good.", "timing": {"end": 16.0, "start": 6.0}}
+{"backend": "whisper", "duration": 7.21, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:05:00", "text": "Sixty-and-odd behind me. I've forgot what I meant to say to her. Good.", "timing": {"end": 5.04, "start": 0.0}}

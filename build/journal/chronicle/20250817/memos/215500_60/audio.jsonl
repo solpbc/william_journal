@@ -1,5 +1,5 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:55:00", "text": "Two houses. I keep one in each and live in neither.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:55:12", "text": "No. I live here. I said so. Hold to it.", "timing": {"end": 24.0, "start": 12.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:55:24", "text": "She had it picked before I had the wit. I still don't know whose, and I am not asking on the road.", "timing": {"end": 38.0, "start": 24.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "21:55:38", "text": "Sixteen shillings, and a back, and six in the morning. \u2026Enough.", "timing": {"end": 48.0, "start": 38.0}}
+{"backend": "whisper", "duration": 17.79, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:55:00", "text": "Two houses. I keep one in each and live in neither.", "timing": {"end": 3.76, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:55:04", "text": "No. I live here. I said so. Hold to it.", "timing": {"end": 7.36, "start": 3.76}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:55:07", "text": "She had it picked before I had the wit. I still don't know whose, and I am not asking on the road.", "timing": {"end": 13.32, "start": 7.36}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "21:55:13", "text": "Sixteen shillings, and a back, and six in the morning. \u2026Enough.", "timing": {"end": 17.2, "start": 13.32}}

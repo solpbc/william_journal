@@ -1,3 +1,3 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:50:00", "text": "That one. She had it picked before I'd the wit to want it.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:50:14", "text": "Three years was a tidy offer. She did not take it. I have given her a look, and I still do not know whose it is.", "timing": {"end": 24.0, "start": 14.0}}
+{"backend": "whisper", "duration": 11.31, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:50:00", "text": "That one. She had it picked before I'd the wit to want it.", "timing": {"end": 3.92, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:50:04", "text": "Three years was a tidy offer. She did not take it. I have given her a look, and I still do not know whose it is.", "timing": {"end": 10.72, "start": 3.92}}

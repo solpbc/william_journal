@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "07:40:00", "text": "Ludgate, and the Strand, and then west. Knightsbridge. Kensington.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "07:40:12", "text": "A lane after that, north, onto the Uxbridge way. It cost a mile.", "timing": {"end": 24.0, "start": 12.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "07:40:24", "text": "A strap that rubs. I have set it twice. The cheese is still shut.", "timing": {"end": 34.0, "start": 24.0}}
+{"backend": "whisper", "duration": 16.49, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "07:40:00", "text": "Ludgate, and the Strand, and then west. Knightsbridge. Kensington.", "timing": {"end": 5.36, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "07:40:05", "text": "A lane after that, north, onto the Uxbridge way. It cost a mile.", "timing": {"end": 9.88, "start": 5.36}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "07:40:10", "text": "A strap that rubs. I have set it twice. The cheese is still shut.", "timing": {"end": 14.32, "start": 9.88}}

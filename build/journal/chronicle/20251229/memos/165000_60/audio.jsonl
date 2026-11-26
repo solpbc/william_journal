@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "16:50:00", "text": "Ten shillings. My lord's, not the Chamber's. Behind both locks.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:50:14", "text": "I am not counting the rest.", "timing": {"end": 22.0, "start": 14.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "16:50:22", "text": "That is the whole of it.", "timing": {"end": 32.0, "start": 22.0}}
+{"backend": "whisper", "duration": 8.51, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "16:50:00", "text": "Ten shillings. My lord's, not the Chamber's. Behind both locks.", "timing": {"end": 4.6, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:50:05", "text": "I am not counting the rest.", "timing": {"end": 6.56, "start": 4.6}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "16:50:07", "text": "That is the whole of it.", "timing": {"end": 7.84, "start": 6.56}}

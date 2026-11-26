@@ -1,15 +1,15 @@
-{"backend": "whisper", "duration": 240.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "john_florio", "start": "11:00:00", "text": "Master Shakespeare? Florio. Resolute John Florio, from my lord's house in Holborn.", "timing": {"end": 8.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:00:08", "text": "Master Florio. Five weeks is a long quiet to break at eleven.", "timing": {"end": 16.0, "start": 8.0}}
-{"sentence_id": 3, "speaker": "john_florio", "start": "11:00:16", "text": "The paper you left at the lodge. My lord had it. He was at court for the Shrovetide running, and he has it by him still.", "timing": {"end": 28.0, "start": 16.0}}
-{"sentence_id": 4, "speaker": "john_florio", "start": "11:00:28", "text": "He bids me say he is glad you prosper. I say it as he said it.", "timing": {"end": 36.0, "start": 28.0}}
-{"sentence_id": 5, "speaker": "william_shakespeare", "start": "11:00:36", "text": "I hear it as you say it. I am not asking for the rest.", "timing": {"end": 44.0, "start": 36.0}}
-{"sentence_id": 6, "speaker": "john_florio", "start": "11:00:44", "text": "Nothing more is offered. A man who adds to that sentence is writing his own patron, and I am not that man.", "timing": {"end": 56.0, "start": 44.0}}
-{"sentence_id": 7, "speaker": "john_florio", "start": "11:00:56", "text": "Peregrinate. Perambulate. Walk. Three words for the one plain thing, and the last is the one a player will choose.", "timing": {"end": 68.0, "start": 56.0}}
-{"sentence_id": 8, "speaker": "william_shakespeare", "start": "11:01:08", "text": "I will walk, then. The other two can live in your book.", "timing": {"end": 76.0, "start": 68.0}}
-{"sentence_id": 9, "speaker": "john_florio", "start": "11:01:16", "text": "Chi va piano va sano. Who goes softly goes safely, and you go at a gallop, they tell me: a comedy, and the Inns of Court by the ears.", "timing": {"end": 90.0, "start": 76.0}}
-{"sentence_id": 10, "speaker": "william_shakespeare", "start": "11:01:30", "text": "One proverb, and I think it is wrong.", "timing": {"end": 96.0, "start": 90.0}}
-{"sentence_id": 11, "speaker": "john_florio", "start": "11:01:36", "text": "Venetia, Venetia, chi non ti vede non ti pretia. It is not wrong. It is only English.", "timing": {"end": 108.0, "start": 96.0}}
-{"sentence_id": 12, "speaker": "william_shakespeare", "start": "11:01:48", "text": "Then it may stay as it was played. I am not copying it out this afternoon.", "timing": {"end": 118.0, "start": 108.0}}
-{"sentence_id": 13, "speaker": "john_florio", "start": "11:01:58", "text": "Send it to me before you send it to a printer. God keep you.", "timing": {"end": 126.0, "start": 118.0}}
-{"sentence_id": 14, "speaker": "william_shakespeare", "start": "11:02:06", "text": "And you, sir.", "timing": {"end": 136.0, "start": 126.0}}
+{"backend": "whisper", "duration": 68.35, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "john_florio", "start": "11:00:00", "text": "Master Shakespeare? Florio. Resolute John Florio, from my lord's house in Holborn.", "timing": {"end": 6.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "11:00:06", "text": "Master Florio. Five weeks is a long quiet to break at eleven.", "timing": {"end": 10.32, "start": 6.0}}
+{"sentence_id": 3, "speaker": "john_florio", "start": "11:00:10", "text": "The paper you left at the lodge. My lord had it. He was at court for the Shrovetide running, and he has it by him still.", "timing": {"end": 17.12, "start": 10.32}}
+{"sentence_id": 4, "speaker": "john_florio", "start": "11:00:17", "text": "He bids me say he is glad you prosper. I say it as he said it.", "timing": {"end": 21.28, "start": 17.12}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "11:00:21", "text": "I hear it as you say it. I am not asking for the rest.", "timing": {"end": 24.64, "start": 21.28}}
+{"sentence_id": 6, "speaker": "john_florio", "start": "11:00:25", "text": "Nothing more is offered. A man who adds to that sentence is writing his own patron, and I am not that man.", "timing": {"end": 31.16, "start": 24.64}}
+{"sentence_id": 7, "speaker": "john_florio", "start": "11:00:31", "text": "Peregrinate. Perambulate. Walk. Three words for the one plain thing, and the last is the one a player will choose.", "timing": {"end": 38.8, "start": 31.16}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "11:00:39", "text": "I will walk, then. The other two can live in your book.", "timing": {"end": 41.76, "start": 38.8}}
+{"sentence_id": 9, "speaker": "john_florio", "start": "11:00:42", "text": "Chi va piano va sano. Who goes softly goes safely, and you go at a gallop, they tell me: a comedy, and the Inns of Court by the ears.", "timing": {"end": 50.64, "start": 41.76}}
+{"sentence_id": 10, "speaker": "william_shakespeare", "start": "11:00:51", "text": "One proverb, and I think it is wrong.", "timing": {"end": 52.88, "start": 50.64}}
+{"sentence_id": 11, "speaker": "john_florio", "start": "11:00:53", "text": "Venetia, Venetia, chi non ti vede non ti pretia. It is not wrong. It is only English.", "timing": {"end": 58.96, "start": 52.88}}
+{"sentence_id": 12, "speaker": "william_shakespeare", "start": "11:00:59", "text": "Then it may stay as it was played. I am not copying it out this afternoon.", "timing": {"end": 62.96, "start": 58.96}}
+{"sentence_id": 13, "speaker": "john_florio", "start": "11:01:03", "text": "Send it to me before you send it to a printer. God keep you.", "timing": {"end": 66.64, "start": 62.96}}
+{"sentence_id": 14, "speaker": "william_shakespeare", "start": "11:01:07", "text": "And you, sir.", "timing": {"end": 67.76, "start": 66.64}}

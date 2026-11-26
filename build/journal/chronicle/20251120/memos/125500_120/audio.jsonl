@@ -1,2 +1,2 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "12:55:00", "text": "God locked into nine clauses, like a tenant into a lease. And a weaver who could not keep the parts of a sentence in their places, and would be the happier man. I am not writing it down.", "timing": {"end": 10.0, "start": 0.0}}
+{"backend": "whisper", "duration": 12.35, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "12:55:00", "text": "God locked into nine clauses, like a tenant into a lease. And a weaver who could not keep the parts of a sentence in their places, and would be the happier man. I am not writing it down.", "timing": {"end": 11.76, "start": 0.0}}

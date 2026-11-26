@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:40:00", "text": "The letter of the last of August is still on the chest. The seal is the seal I set.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:40:12", "text": "Tomorrow is the eleventh. Hobbins will have it as it is. I am not breaking the wax to put a tooth into a letter.", "timing": {"end": 26.0, "start": 12.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:40:26", "text": "The parcel, if there is one, can wait until I have put this into his hand. Enough.", "timing": {"end": 36.0, "start": 26.0}}
+{"backend": "whisper", "duration": 17.71, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:40:00", "text": "The letter of the last of August is still on the chest. The seal is the seal I set.", "timing": {"end": 5.28, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:40:05", "text": "Tomorrow is the eleventh. Hobbins will have it as it is. I am not breaking the wax to put a tooth into a letter.", "timing": {"end": 12.0, "start": 5.28}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:40:12", "text": "The parcel, if there is one, can wait until I have put this into his hand. Enough.", "timing": {"end": 17.12, "start": 12.0}}

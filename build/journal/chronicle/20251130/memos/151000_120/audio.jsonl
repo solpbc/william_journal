@@ -1,5 +1,5 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "15:10:12", "text": "Four voices, and not one of them telling the others what it means.", "timing": {"end": 24.0, "start": 12.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "15:10:24", "text": "That's a scene. It's not a scene yet.", "timing": {"end": 36.0, "start": 24.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "15:10:36", "text": "December is coming like a cart. If I stand in the road and admire the chord, the cart does not wait.", "timing": {"end": 50.0, "start": 36.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "15:10:50", "text": "What must be done. What I would merely like to better. Strike the second. The first is long enough.", "timing": {"end": 60.0, "start": 50.0}}
+{"backend": "whisper", "duration": 20.83, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "15:10:00", "text": "Four voices, and not one of them telling the others what it means.", "timing": {"end": 4.16, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "15:10:04", "text": "That's a scene. It's not a scene yet.", "timing": {"end": 7.52, "start": 4.16}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "15:10:08", "text": "December is coming like a cart. If I stand in the road and admire the chord, the cart does not wait.", "timing": {"end": 14.24, "start": 7.52}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "15:10:14", "text": "What must be done. What I would merely like to better. Strike the second. The first is long enough.", "timing": {"end": 20.24, "start": 14.24}}

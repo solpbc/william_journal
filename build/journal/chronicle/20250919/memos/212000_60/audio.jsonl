@@ -1,3 +1,3 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:20:00", "text": "A sonnet can lie by leaving a man out. A letter can't.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:20:12", "text": "Enough.", "timing": {"end": 22.0, "start": 12.0}}
+{"backend": "whisper", "duration": 5.71, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:20:00", "text": "A sonnet can lie by leaving a man out. A letter can't.", "timing": {"end": 4.4, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:20:04", "text": "Enough.", "timing": {"end": 5.12, "start": 4.4}}

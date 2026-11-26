@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:15:00", "text": "Mending. I will not improve the word because I want a better house.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:15:14", "text": "A pan, a ladle, a turn at the well. That is a letter. I will not send them the day, because I have not got the day.", "timing": {"end": 32.0, "start": 14.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:15:32", "text": "The groats are on the road.", "timing": {"end": 42.0, "start": 32.0}}
+{"backend": "whisper", "duration": 14.99, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:15:00", "text": "Mending. I will not improve the word because I want a better house.", "timing": {"end": 4.64, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:15:05", "text": "A pan, a ladle, a turn at the well. That is a letter. I will not send them the day, because I have not got the day.", "timing": {"end": 12.96, "start": 4.64}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:15:13", "text": "The groats are on the road.", "timing": {"end": 14.4, "start": 12.96}}

@@ -1,19 +1,19 @@
-{"backend": "whisper", "duration": 600.0, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "16:40:00", "text": "Stand. The oak along here has begun to silver, where they rebuilt last year. You may have that for nothing. It is not why we stopped.", "timing": {"end": 28.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:40:28", "text": "We stopped because the back said stop, and I was going to call that kindness.", "timing": {"end": 42.0, "start": 28.0}}
-{"sentence_id": 3, "speaker": "anne_shakespeare", "start": "16:40:42", "text": "In April I asked you a thing at Shottery.", "timing": {"end": 50.0, "start": 42.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "16:40:50", "text": "Whether London is where I work or where I live.", "timing": {"end": 60.0, "start": 50.0}}
-{"sentence_id": 5, "speaker": "anne_shakespeare", "start": "16:41:00", "text": "You said both, which is neither.", "timing": {"end": 68.0, "start": 60.0}}
-{"sentence_id": 6, "speaker": "william_shakespeare", "start": "16:41:08", "text": "I work there. I don't live there. I've known it since Aylesbury.", "timing": {"end": 78.0, "start": 68.0}}
-{"sentence_id": 7, "speaker": "anne_shakespeare", "start": "16:41:18", "text": "Then where?", "timing": {"end": 84.0, "start": 78.0}}
-{"sentence_id": 8, "speaker": "william_shakespeare", "start": "16:41:24", "text": "Here. In a house with my name on the deed and not my father's.", "timing": {"end": 96.0, "start": 84.0}}
-{"sentence_id": 9, "speaker": "anne_shakespeare", "start": "16:41:36", "text": "A house.", "timing": {"end": 116.0, "start": 96.0}}
-{"sentence_id": 10, "speaker": "anne_shakespeare", "start": "16:41:56", "text": "That one, then.", "timing": {"end": 124.0, "start": 116.0}}
-{"sentence_id": 11, "speaker": "william_shakespeare", "start": "16:42:04", "text": "Anne. It's the second-largest house in the town.", "timing": {"end": 134.0, "start": 124.0}}
-{"sentence_id": 12, "speaker": "anne_shakespeare", "start": "16:42:14", "text": "It's falling down. It'll come the cheaper. I've passed it every market day these thirteen years, and I know what I'd do with that garden.", "timing": {"end": 168.0, "start": 134.0}}
-{"sentence_id": 13, "speaker": "william_shakespeare", "start": "16:42:48", "text": "Give me three years.", "timing": {"end": 176.0, "start": 168.0}}
-{"sentence_id": 14, "speaker": "anne_shakespeare", "start": "16:42:56", "text": "I'll give you till I believe you.", "timing": {"end": 186.0, "start": 176.0}}
-{"sentence_id": 15, "speaker": "william_shakespeare", "start": "16:43:06", "text": "That is not three years.", "timing": {"end": 192.0, "start": 186.0}}
-{"sentence_id": 16, "speaker": "anne_shakespeare", "start": "16:43:12", "text": "No. Three years is what a man offers when he wants the asking to be over. You have looked now. You kept Friday, and I have not told you a sum.", "timing": {"end": 208.0, "start": 192.0}}
-{"sentence_id": 17, "speaker": "william_shakespeare", "start": "16:43:28", "text": "I don't know whose it is. I am not going to know today.", "timing": {"end": 218.0, "start": 208.0}}
-{"sentence_id": 18, "speaker": "anne_shakespeare", "start": "16:43:38", "text": "Good. Home. Slower than we came. The stick on the side I put it.", "timing": {"end": 228.0, "start": 218.0}}
+{"backend": "whisper", "duration": 68.49, "model": "large-v3", "observer": "talk", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "anne_shakespeare", "start": "16:40:00", "text": "Stand. The oak along here has begun to silver, where they rebuilt last year. You may have that for nothing. It is not why we stopped.", "timing": {"end": 8.56, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:40:09", "text": "We stopped because the back said stop, and I was going to call that kindness.", "timing": {"end": 13.2, "start": 8.56}}
+{"sentence_id": 3, "speaker": "anne_shakespeare", "start": "16:40:13", "text": "In April I asked you a thing at Shottery.", "timing": {"end": 15.84, "start": 13.2}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "16:40:16", "text": "Whether London is where I work or where I live.", "timing": {"end": 18.64, "start": 15.84}}
+{"sentence_id": 5, "speaker": "anne_shakespeare", "start": "16:40:19", "text": "You said both, which is neither.", "timing": {"end": 21.04, "start": 18.64}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "16:40:21", "text": "I work there. I don't live there. I've known it since Aylesbury.", "timing": {"end": 24.88, "start": 21.04}}
+{"sentence_id": 7, "speaker": "anne_shakespeare", "start": "16:40:25", "text": "Then where?", "timing": {"end": 25.92, "start": 24.88}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "16:40:26", "text": "Here. In a house with my name on the deed and not my father's.", "timing": {"end": 30.08, "start": 25.92}}
+{"sentence_id": 9, "speaker": "anne_shakespeare", "start": "16:40:30", "text": "A house.", "timing": {"end": 31.2, "start": 30.08}}
+{"sentence_id": 10, "speaker": "anne_shakespeare", "start": "16:40:31", "text": "That one, then.", "timing": {"end": 32.08, "start": 31.2}}
+{"sentence_id": 11, "speaker": "william_shakespeare", "start": "16:40:32", "text": "Anne. It's the second-largest house in the town.", "timing": {"end": 35.04, "start": 32.08}}
+{"sentence_id": 12, "speaker": "anne_shakespeare", "start": "16:40:35", "text": "It's falling down. It'll come the cheaper. I've passed it every market day these thirteen years, and I know what I'd do with that garden.", "timing": {"end": 43.28, "start": 35.04}}
+{"sentence_id": 13, "speaker": "william_shakespeare", "start": "16:40:43", "text": "Give me three years.", "timing": {"end": 44.96, "start": 43.28}}
+{"sentence_id": 14, "speaker": "anne_shakespeare", "start": "16:40:45", "text": "I'll give you till I believe you.", "timing": {"end": 46.72, "start": 44.96}}
+{"sentence_id": 15, "speaker": "william_shakespeare", "start": "16:40:47", "text": "That is not three years.", "timing": {"end": 48.8, "start": 46.72}}
+{"sentence_id": 16, "speaker": "anne_shakespeare", "start": "16:40:49", "text": "No. Three years is what a man offers when he wants the asking to be over. You have looked now. You kept Friday, and I have not told you a sum.", "timing": {"end": 57.84, "start": 48.8}}
+{"sentence_id": 17, "speaker": "william_shakespeare", "start": "16:40:58", "text": "I don't know whose it is. I am not going to know today.", "timing": {"end": 61.28, "start": 57.84}}
+{"sentence_id": 18, "speaker": "anne_shakespeare", "start": "16:41:01", "text": "Good. Home. Slower than we came. The stick on the side I put it.", "timing": {"end": 66.32, "start": 61.28}}

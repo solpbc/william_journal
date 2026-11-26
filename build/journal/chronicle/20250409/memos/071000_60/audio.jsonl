@@ -1,3 +1,3 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "07:10:00", "text": "Out of the Bear. Six-and-thirty miles to the Catherine Wheel.", "timing": {"end": 10.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "07:10:10", "text": "I will not bait at Oxford. A bait there puts the ridge in the dark. Through, and on.", "timing": {"end": 20.0, "start": 10.0}}
+{"backend": "whisper", "duration": 11.69, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "07:10:00", "text": "Out of the Bear. Six-and-thirty miles to the Catherine Wheel.", "timing": {"end": 3.68, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "07:10:04", "text": "I will not bait at Oxford. A bait there puts the ridge in the dark. Through, and on.", "timing": {"end": 9.52, "start": 3.68}}

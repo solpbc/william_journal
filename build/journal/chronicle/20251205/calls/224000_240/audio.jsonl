@@ -1,13 +1,13 @@
-{"backend": "whisper", "duration": 240.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "richard_burbage", "start": "22:40:00", "text": "Will? Richard. From Holywell. I cannot sleep and I've woken the house trying.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "22:40:12", "text": "I hear you. Ask it.", "timing": {"end": 18.0, "start": 12.0}}
-{"sentence_id": 3, "speaker": "richard_burbage", "start": "22:40:18", "text": "The last of it. The cup, the kiss, and then five words. Five is not enough to die on. Richard had a prison, a groom and four murderers. Give me ten lines there.", "timing": {"end": 36.0, "start": 18.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "22:40:36", "text": "No.", "timing": {"end": 40.0, "start": 36.0}}
-{"sentence_id": 5, "speaker": "richard_burbage", "start": "22:40:40", "text": "Six?", "timing": {"end": 46.0, "start": 40.0}}
-{"sentence_id": 6, "speaker": "william_shakespeare", "start": "22:40:46", "text": "Thou hast had two hours of them, Dick. He's done with words. Drink, kiss her, fall.", "timing": {"end": 72.0, "start": 46.0}}
-{"sentence_id": 7, "speaker": "richard_burbage", "start": "22:41:12", "text": "And if the boy's voice goes in the vault?", "timing": {"end": 82.0, "start": 72.0}}
-{"sentence_id": 8, "speaker": "william_shakespeare", "start": "22:41:22", "text": "Then she wakes hoarse, as a girl would that had slept two days in a grave. Hold him as thou didst Wednesday. He'll follow thine eyes.", "timing": {"end": 98.0, "start": 82.0}}
-{"sentence_id": 9, "speaker": "richard_burbage", "start": "22:41:38", "text": "Five words.", "timing": {"end": 104.0, "start": 98.0}}
-{"sentence_id": 10, "speaker": "william_shakespeare", "start": "22:41:44", "text": "Five.", "timing": {"end": 108.0, "start": 104.0}}
-{"sentence_id": 11, "speaker": "richard_burbage", "start": "22:41:48", "text": "God keep thee, then, thou flint.", "timing": {"end": 116.0, "start": 108.0}}
-{"sentence_id": 12, "speaker": "william_shakespeare", "start": "22:41:56", "text": "And thee. Sleep.", "timing": {"end": 126.0, "start": 116.0}}
+{"backend": "whisper", "duration": 44.03, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "richard_burbage", "start": "22:40:00", "text": "Will? Richard. From Holywell. I cannot sleep and I've woken the house trying.", "timing": {"end": 6.08, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "22:40:06", "text": "I hear you. Ask it.", "timing": {"end": 8.0, "start": 6.08}}
+{"sentence_id": 3, "speaker": "richard_burbage", "start": "22:40:08", "text": "The last of it. The cup, the kiss, and then five words. Five is not enough to die on. Richard had a prison, a groom and four murderers. Give me ten lines there.", "timing": {"end": 19.84, "start": 8.0}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "22:40:20", "text": "No.", "timing": {"end": 20.64, "start": 19.84}}
+{"sentence_id": 5, "speaker": "richard_burbage", "start": "22:40:21", "text": "Six?", "timing": {"end": 21.36, "start": 20.64}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "22:40:21", "text": "Thou hast had two hours of them, Dick. He's done with words. Drink, kiss her, fall.", "timing": {"end": 27.28, "start": 21.36}}
+{"sentence_id": 7, "speaker": "richard_burbage", "start": "22:40:27", "text": "And if the boy's voice goes in the vault?", "timing": {"end": 29.52, "start": 27.28}}
+{"sentence_id": 8, "speaker": "william_shakespeare", "start": "22:40:30", "text": "Then she wakes hoarse, as a girl would that had slept two days in a grave. Hold him as thou didst Wednesday. He'll follow thine eyes.", "timing": {"end": 37.44, "start": 29.52}}
+{"sentence_id": 9, "speaker": "richard_burbage", "start": "22:40:37", "text": "Five words.", "timing": {"end": 38.64, "start": 37.44}}
+{"sentence_id": 10, "speaker": "william_shakespeare", "start": "22:40:39", "text": "Five.", "timing": {"end": 39.52, "start": 38.64}}
+{"sentence_id": 11, "speaker": "richard_burbage", "start": "22:40:40", "text": "God keep thee, then, thou flint.", "timing": {"end": 41.68, "start": 39.52}}
+{"sentence_id": 12, "speaker": "william_shakespeare", "start": "22:40:42", "text": "And thee. Sleep.", "timing": {"end": 43.44, "start": 41.68}}

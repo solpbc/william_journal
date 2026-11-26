@@ -1,12 +1,12 @@
-{"backend": "whisper", "duration": 180.0, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "richard_field", "start": "12:15:00", "text": "Will? Richard Field. From my own shop, where there is a gap on the shelf.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "12:15:12", "text": "Richard. Six weeks.", "timing": {"end": 20.0, "start": 12.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "12:15:20", "text": "The Holinshed is in daily use and in excellent health.", "timing": {"end": 32.0, "start": 20.0}}
-{"sentence_id": 4, "speaker": "richard_field", "start": "12:15:32", "text": "It is in a playhouse man's chamber with a cat.", "timing": {"end": 42.0, "start": 32.0}}
-{"sentence_id": 5, "speaker": "william_shakespeare", "start": "12:15:42", "text": "The cat reads only the second volume.", "timing": {"end": 54.0, "start": 42.0}}
-{"sentence_id": 6, "speaker": "richard_field", "start": "12:15:54", "text": "Sunday. Dinner. After sermon. Jacqueline has a hen.", "timing": {"end": 68.0, "start": 54.0}}
-{"sentence_id": 7, "speaker": "william_shakespeare", "start": "12:16:08", "text": "After sermon. I will come. I will not bring the chronicle.", "timing": {"end": 82.0, "start": 68.0}}
-{"sentence_id": 8, "speaker": "richard_field", "start": "12:16:22", "text": "Bring the comedy, if the book-keeper will loose it. I cannot in conscience come to hear it.", "timing": {"end": 98.0, "start": 82.0}}
-{"sentence_id": 9, "speaker": "william_shakespeare", "start": "12:16:38", "text": "I'll bring it. Thou'lt read it with the door shut.", "timing": {"end": 110.0, "start": 98.0}}
-{"sentence_id": 10, "speaker": "richard_field", "start": "12:16:50", "text": "With the door shut. God keep thee.", "timing": {"end": 120.0, "start": 110.0}}
-{"sentence_id": 11, "speaker": "william_shakespeare", "start": "12:17:00", "text": "And thee, Richard.", "timing": {"end": 130.0, "start": 120.0}}
+{"backend": "whisper", "duration": 35.79, "model": "large-v3", "observer": "calls", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "richard_field", "start": "12:15:00", "text": "Will? Richard Field. From my own shop, where there is a gap on the shelf.", "timing": {"end": 4.88, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "12:15:05", "text": "Richard. Six weeks.", "timing": {"end": 6.48, "start": 4.88}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "12:15:06", "text": "The Holinshed is in daily use and in excellent health.", "timing": {"end": 9.68, "start": 6.48}}
+{"sentence_id": 4, "speaker": "richard_field", "start": "12:15:10", "text": "It is in a playhouse man's chamber with a cat.", "timing": {"end": 12.64, "start": 9.68}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "12:15:13", "text": "The cat reads only the second volume.", "timing": {"end": 15.12, "start": 12.64}}
+{"sentence_id": 6, "speaker": "richard_field", "start": "12:15:15", "text": "Sunday. Dinner. After sermon. Jacqueline has a hen.", "timing": {"end": 19.36, "start": 15.12}}
+{"sentence_id": 7, "speaker": "william_shakespeare", "start": "12:15:19", "text": "After sermon. I will come. I will not bring the chronicle.", "timing": {"end": 23.2, "start": 19.36}}
+{"sentence_id": 8, "speaker": "richard_field", "start": "12:15:23", "text": "Bring the comedy, if the book-keeper will loose it. I cannot in conscience come to hear it.", "timing": {"end": 28.24, "start": 23.2}}
+{"sentence_id": 9, "speaker": "william_shakespeare", "start": "12:15:28", "text": "I'll bring it. Thou'lt read it with the door shut.", "timing": {"end": 30.96, "start": 28.24}}
+{"sentence_id": 10, "speaker": "richard_field", "start": "12:15:31", "text": "With the door shut. God keep thee.", "timing": {"end": 33.84, "start": 30.96}}
+{"sentence_id": 11, "speaker": "william_shakespeare", "start": "12:15:34", "text": "And thee, Richard.", "timing": {"end": 35.2, "start": 33.84}}

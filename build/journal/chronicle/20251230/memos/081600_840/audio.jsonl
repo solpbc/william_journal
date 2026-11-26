@@ -1,6 +1,6 @@
-{"backend": "whisper", "duration": 840.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "08:16:20", "text": "He goes off a man. He comes back not. The room is too small for it. Say it as if the wall were the yard.", "timing": {"end": 160.0, "start": 20.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:18:40", "text": "He goes off a man.", "timing": {"end": 190.0, "start": 160.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "08:19:10", "text": "He comes back not.", "timing": {"end": 390.0, "start": 190.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "08:22:30", "text": "The feet will be ahead of the words. She will have the plot from the floor before I give it to her at a table. Let her.", "timing": {"end": 700.0, "start": 390.0}}
-{"sentence_id": 5, "speaker": "william_shakespeare", "start": "08:27:40", "text": "The girl's line stays out of the mouth until it is on a leaf. I am not spending it on a ceiling.", "timing": {"end": 710.0, "start": 700.0}}
+{"backend": "whisper", "duration": 22.83, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "08:16:00", "text": "He goes off a man. He comes back not. The room is too small for it. Say it as if the wall were the yard.", "timing": {"end": 6.96, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:16:07", "text": "He goes off a man.", "timing": {"end": 8.44, "start": 6.96}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "08:16:08", "text": "He comes back not.", "timing": {"end": 9.84, "start": 8.44}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "08:16:10", "text": "The feet will be ahead of the words. She will have the plot from the floor before I give it to her at a table. Let her.", "timing": {"end": 16.72, "start": 9.84}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "08:16:17", "text": "The girl's line stays out of the mouth until it is on a leaf. I am not spending it on a ceiling.", "timing": {"end": 22.24, "start": 16.72}}

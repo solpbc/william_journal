@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:30:00", "text": "He's about to be unkinged. Not tonight.", "timing": {"end": 8.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:30:08", "text": "The parliament sheet is still blank.", "timing": {"end": 16.0, "start": 8.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:30:16", "text": "\u2026Enough.", "timing": {"end": 26.0, "start": 16.0}}
+{"backend": "whisper", "duration": 7.07, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:30:00", "text": "He's about to be unkinged. Not tonight.", "timing": {"end": 3.36, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:30:03", "text": "The parliament sheet is still blank.", "timing": {"end": 5.68, "start": 3.36}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "20:30:06", "text": "\u2026Enough.", "timing": {"end": 6.48, "start": 5.68}}

@@ -1,2 +1,2 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "10:15:00", "text": "A late entrance.", "timing": {"end": 10.0, "start": 0.0}}
+{"backend": "whisper", "duration": 2.27, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "10:15:00", "text": "A late entrance.", "timing": {"end": 1.6, "start": 0.0}}

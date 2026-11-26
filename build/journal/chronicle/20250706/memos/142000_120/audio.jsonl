@@ -1,2 +1,2 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "14:20:00", "text": "Gone into the country. Good. Sensible. \u2026I am writing a boy who's sick for a woman who never comes on the stage. Let that serve.", "timing": {"end": 10.0, "start": 0.0}}
+{"backend": "whisper", "duration": 10.97, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "14:20:00", "text": "Gone into the country. Good. Sensible. \u2026I am writing a boy who's sick for a woman who never comes on the stage. Let that serve.", "timing": {"end": 8.8, "start": 0.0}}

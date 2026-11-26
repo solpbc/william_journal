@@ -1,3 +1,3 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:10:00", "text": "Shrove Tuesday is the company's stop. It is not my answer. I do not yet know the day. I will not write a yes to be rid of the question.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:10:14", "text": "Tomorrow's Shrew is not mine. On the way out of the Keys the Rose's Friday was up. Grecian Comedy. I am not going. The packet is not this. ...Sleep.", "timing": {"end": 24.0, "start": 14.0}}
+{"backend": "whisper", "duration": 19.79, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "20:10:00", "text": "Shrove Tuesday is the company's stop. It is not my answer. I do not yet know the day. I will not write a yes to be rid of the question.", "timing": {"end": 8.52, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "20:10:09", "text": "Tomorrow's Shrew is not mine. On the way out of the Keys the Rose's Friday was up. Grecian Comedy. I am not going. The packet is not this. ...Sleep.", "timing": {"end": 19.2, "start": 8.52}}

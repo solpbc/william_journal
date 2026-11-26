@@ -1,7 +1,7 @@
-{"backend": "whisper", "duration": 240.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "06:15:00", "text": "Thirty-one. Or on Saturday, if the font's to be believed over my mother. She says St George. She was there.", "timing": {"end": 16.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "06:15:16", "text": "At thirty-one my father was a chamberlain of the borough and had a house. I have a chamber with a cat in it and a king half-made.", "timing": {"end": 34.0, "start": 16.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "06:15:34", "text": "Enough. He banishes them in the next scene. Six years. No, ten, and then he gives four back, like a man tipping a waiter.", "timing": {"end": 52.0, "start": 34.0}}
-{"sentence_id": 4, "speaker": "william_shakespeare", "start": "06:15:52", "text": "The Garter knights feast at Whitehall. I have heard of the trumpets. I am not near them.", "timing": {"end": 66.0, "start": 52.0}}
-{"sentence_id": 5, "speaker": "william_shakespeare", "start": "06:16:06", "text": "Marlowe was twenty-nine. Southwell thirty-three. I have three children, two poems in print and half a king.", "timing": {"end": 82.0, "start": 66.0}}
-{"sentence_id": 6, "speaker": "william_shakespeare", "start": "06:16:22", "text": "Nobody has remembered the day. I have told nobody.", "timing": {"end": 92.0, "start": 82.0}}
+{"backend": "whisper", "duration": 40.49, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "06:15:00", "text": "Thirty-one. Or on Saturday, if the font's to be believed over my mother. She says St George. She was there.", "timing": {"end": 7.68, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "06:15:08", "text": "At thirty-one my father was a chamberlain of the borough and had a house. I have a chamber with a cat in it and a king half-made.", "timing": {"end": 14.88, "start": 7.68}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "06:15:15", "text": "Enough. He banishes them in the next scene. Six years. No, ten, and then he gives four back, like a man tipping a waiter.", "timing": {"end": 22.64, "start": 14.88}}
+{"sentence_id": 4, "speaker": "william_shakespeare", "start": "06:15:23", "text": "The Garter knights feast at Whitehall. I have heard of the trumpets. I am not near them.", "timing": {"end": 27.76, "start": 22.64}}
+{"sentence_id": 5, "speaker": "william_shakespeare", "start": "06:15:28", "text": "Marlowe was twenty-nine. Southwell thirty-three. I have three children, two poems in print and half a king.", "timing": {"end": 35.12, "start": 27.76}}
+{"sentence_id": 6, "speaker": "william_shakespeare", "start": "06:15:35", "text": "Nobody has remembered the day. I have told nobody.", "timing": {"end": 38.32, "start": 35.12}}

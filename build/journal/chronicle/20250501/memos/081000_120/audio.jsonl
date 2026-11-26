@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 120.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "08:10:00", "text": "Walking up, the old woman asks the old man for revenge, and she gets patience. I will play the old man.", "timing": {"end": 16.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:10:16", "text": "On the tables: God's is the quarrel.", "timing": {"end": 28.0, "start": 16.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "08:10:28", "text": "That is the line. I am not writing the scene out under it.", "timing": {"end": 38.0, "start": 28.0}}
+{"backend": "whisper", "duration": 13.63, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "08:10:00", "text": "Walking up, the old woman asks the old man for revenge, and she gets patience. I will play the old man.", "timing": {"end": 7.32, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "08:10:07", "text": "On the tables: God's is the quarrel.", "timing": {"end": 9.88, "start": 7.32}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "08:10:10", "text": "That is the line. I am not writing the scene out under it.", "timing": {"end": 12.96, "start": 9.88}}

@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "16:40:00", "text": "Twenty-four days. I wrote one scene. One.", "timing": {"end": 12.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:40:12", "text": "It's the one the rest hangs from.", "timing": {"end": 20.0, "start": 12.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "16:40:20", "text": "And a house. I went for a fire and came back with a house I can't pay for. That's her arithmetic. I like it better than mine.", "timing": {"end": 30.0, "start": 20.0}}
+{"backend": "whisper", "duration": 15.77, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "16:40:00", "text": "Twenty-four days. I wrote one scene. One.", "timing": {"end": 3.92, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "16:40:04", "text": "It's the one the rest hangs from.", "timing": {"end": 5.84, "start": 3.92}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "16:40:06", "text": "And a house. I went for a fire and came back with a house I can't pay for. That's her arithmetic. I like it better than mine.", "timing": {"end": 13.6, "start": 5.84}}

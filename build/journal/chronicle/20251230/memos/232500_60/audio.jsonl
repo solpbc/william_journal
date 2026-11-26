@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "23:25:00", "text": "The sheet is still on the board. I did not name a man for it. Not in the dark either.", "timing": {"end": 14.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "23:25:14", "text": "I am not opening the coffer. A difference is not a sum until it is counted, and I am not counting.", "timing": {"end": 28.0, "start": 14.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "23:25:28", "text": "The cat is moved. The sheet stays. Enough.", "timing": {"end": 38.0, "start": 28.0}}
+{"backend": "whisper", "duration": 16.19, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "23:25:00", "text": "The sheet is still on the board. I did not name a man for it. Not in the dark either.", "timing": {"end": 5.76, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "23:25:06", "text": "I am not opening the coffer. A difference is not a sum until it is counted, and I am not counting.", "timing": {"end": 12.48, "start": 5.76}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "23:25:12", "text": "The cat is moved. The sheet stays. Enough.", "timing": {"end": 15.52, "start": 12.48}}

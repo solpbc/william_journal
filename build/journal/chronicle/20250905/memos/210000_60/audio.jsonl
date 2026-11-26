@@ -1,4 +1,4 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:00:00", "text": "The lane is full of them, back from the other bank, the jokes still in them. I am not going over to learn the jokes.", "timing": {"end": 16.0, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:00:16", "text": "Casement shut. The street in the play can be as loud as it likes. This one can wait till morning.", "timing": {"end": 32.0, "start": 16.0}}
-{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:00:32", "text": "The talker is still talking. I don't know the how. Early to bed. First light.", "timing": {"end": 42.0, "start": 32.0}}
+{"backend": "whisper", "duration": 18.83, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:00:00", "text": "The lane is full of them, back from the other bank, the jokes still in them. I am not going over to learn the jokes.", "timing": {"end": 7.04, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "21:00:07", "text": "Casement shut. The street in the play can be as loud as it likes. This one can wait till morning.", "timing": {"end": 12.8, "start": 7.04}}
+{"sentence_id": 3, "speaker": "william_shakespeare", "start": "21:00:13", "text": "The talker is still talking. I don't know the how. Early to bed. First light.", "timing": {"end": 18.24, "start": 12.8}}

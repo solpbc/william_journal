@@ -1,2 +1,2 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "17:10:00", "text": "Gaunt is played. The house had the king. I am not adding to last month's line. Tomorrow is a reading. It is not a playing. There is nothing to copy tonight.", "timing": {"end": 10.0, "start": 0.0}}
+{"backend": "whisper", "duration": 10.91, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "17:10:00", "text": "Gaunt is played. The house had the king. I am not adding to last month's line. Tomorrow is a reading. It is not a playing. There is nothing to copy tonight.", "timing": {"end": 10.32, "start": 0.0}}

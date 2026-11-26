@@ -1,2 +1,2 @@
-{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:40:00", "text": "Whitsun. She looked, or she looked at the window. Leave it.", "timing": {"end": 10.0, "start": 0.0}}
+{"backend": "whisper", "duration": 5.79, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "21:40:00", "text": "Whitsun. She looked, or she looked at the window. Leave it.", "timing": {"end": 5.2, "start": 0.0}}
