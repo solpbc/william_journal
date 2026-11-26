@@ -40,6 +40,7 @@ The journal was written by machines working to a human-reviewed plan. The altern
 | `calendar/merged/` | the year's 795 calendar events and the script that builds them |
 | `research/` | the synthesis and the six-part source book |
 | `tools/` | the generator, audio and photo tooling, voiceprint evaluator, read-back validator and tests ([`tools/README.md`](tools/README.md)) |
+| `desktop/` | William's desktop: an imagined 1595 computer that his desk frames can be shot from, with the scripts that build it from the journal and take the screenshots ([`desktop/README.md`](desktop/README.md)) |
 | `build/screens/` | a few screenshots |
 
 The files come to about 428 MB. The largest is the search index, about 40 MB.
