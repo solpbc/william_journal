@@ -1,11 +1,17 @@
 {
-  "narrative": "The writing-tables open on one small leaf, wiped. Candlelight now. The hand has left four short lines. There is no sum and no name. The rest of the leaf is blank. He does not write a house or a figure.",
+  "narrative": "On the tables. The writing-tables open on one small leaf, wiped. Candlelight now. The hand has left four short lines. There is no sum and no name. On the tables. The rest of the leaf is blank. He does not write a house or a figure.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Wrote the four lines and did not add a fifth."
+    },
+    {
+      "type": "Tool",
+      "name": "tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Wrote that the packet goes and the letter stays"
     }
   ]
 }

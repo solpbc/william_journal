@@ -1,6 +1,8 @@
 ## 00:00 · Gaunt's roll
 
 Gaunt. Entrance on the cut word.
+York. Entrance on the cut word.
+Three. The weight.
 
 ## 01:00 · York's roll
 

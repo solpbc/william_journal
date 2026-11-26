@@ -1,0 +1,89 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Field called from the shop as you came into the Theatre. He has seen Burby's entry himself. He counts two of yours in other men's hands inside a twelvemonth, and he wants a third poem for his idle Fridays. You said they are not yours to print, and that you have a duke, four lovers, and a weaver. You agreed to dinner on Sunday, St Thomas's, and Jacqueline's goose. He asked for the second volume because the king is played. You said there is more in it than one king, and you did not promise the book back.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Refused the poem, accepted the goose, and kept the book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Named the Hall book, the idle Fridays, the Sunday dinner, and the volume.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Edward III",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the glass with Field",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the glass with Field",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the glass with Field",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Spoke in the glass with Field",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Burby's entry",
+    "a third poem",
+    "Sunday's goose",
+    "the second volume"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_field",
+      "text": "That's two of thine gone to press by other men's hands inside a twelvemonth."
+    },
+    {
+      "speaker": "richard_field",
+      "text": "And thou'lt tell me again they're not thine to print."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "They're not."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "There's more in it than one king, Richard."
+    },
+    {
+      "speaker": "richard_field",
+      "text": "Jacqueline will have a goose."
+    }
+  ]
+}

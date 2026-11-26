@@ -1,0 +1,35 @@
+{
+  "narrative": "In the glass. Heminges looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Said pay it, and gave the date."
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "context": "Opened the book, and asked for Michaelmas."
+    },
+    {
+      "type": "Company",
+      "name": "the Admiral's men",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Heminges"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Won",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Heminges"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Heminges"
+    }
+  ]
+}

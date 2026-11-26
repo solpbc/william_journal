@@ -1,0 +1,66 @@
+{
+  "overview": "John Heminges called from Aldermanbury with the tailor standing by. Tomorrow is the full rehearsal in the apparel. The crown from Harry the Sixth is new gilt at four shillings. The Master has saved the company a looking-glass broke every time. Nick has grown two fingers since Candlemas, and the gown is let down for eighteenpence, with no more cloth. He eats like two, and he sings in the yard of a morning. John heard the thick voice and said to have the tooth out before Thursday, because Gaunt must be heard at the back. You said after Thursday. Asked for Love's Labour's Won, you said when this king is buried.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Asked after Nick, and gave the two answers."
+    },
+    {
+      "name": "John Heminges",
+      "role": "attendee",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Named himself and Aldermanbury, priced the gilt and the hem, and asked after the tooth and the play."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "four shillings",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "eighteenpence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "after Thursday",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "when this king is buried",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "four shillings",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Heminges"
+    },
+    {
+      "name": "eighteenpence",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Heminges"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Heminges"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-25",
+      "meaning": "In the glass with Heminges"
+    }
+  ],
+  "summary": "Spoke in the glass with Heminges"
+}

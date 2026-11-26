@@ -1,0 +1,35 @@
+{
+  "narrative": "In the glass. Field looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Refused the poem, accepted the goose, and kept the book."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "context": "Named the Hall book, the idle Fridays, the Sunday dinner, and the volume."
+    },
+    {
+      "type": "Project",
+      "name": "Edward III",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Field"
+    },
+    {
+      "type": "Project",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Field"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Field"
+    }
+  ]
+}

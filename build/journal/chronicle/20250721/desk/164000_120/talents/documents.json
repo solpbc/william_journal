@@ -1,0 +1,61 @@
+{
+  "overview": "Gilbert called from the Bell. He had run from the shop. The fire was last week, and the accounts did not agree: half the High Street, Henley Street, forty houses, and then Hobbins's twenty at the north end. There was a letter in Anne's hand, and Hobbins would give it to nobody else. You said you were coming. The call stopped before the commendation was finished.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Said he was coming, and did not get an answer about the house."
+    },
+    {
+      "name": "Gilbert Shakespeare",
+      "role": "heard",
+      "formal_term": "Gilbert Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Brought the yard's versions, and stopped before the commendation."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "a second fire",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "three streets",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Anne's seal",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Bell",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Bell",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Shakespeare"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Shakespeare"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-21",
+      "meaning": "In the glass with Shakespeare"
+    }
+  ],
+  "summary": "Spoke in the glass with Shakespeare"
+}

@@ -1,0 +1,29 @@
+{
+  "narrative": "In the glass. Heminges looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Agreed to play and to the Shrew, and answered Norwich."
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "context": "Called from Aldermanbury, chose to play, and took the Norwich sentence without a second question."
+    },
+    {
+      "type": "Project",
+      "name": "the Shrew",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Heminges"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Heminges"
+    }
+  ]
+}

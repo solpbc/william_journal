@@ -1,11 +1,17 @@
 {
-  "narrative": "The leaf held at the top corner. Daylight. The first sentence is dry now. The candle is out. The verse, read, not rewritten. A thumb at the margin. No mark in the margin. The foot. The last sentence, then bare paper. The pen stays in the rest.",
+  "narrative": "On the board. The leaf held at the top corner. Daylight. The first sentence is dry now. The candle is out. On the board. The verse, read, not rewritten. A thumb at the margin. No mark in the margin. On the board. The foot. The last sentence, then bare paper. The pen stays in the rest.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Visible/present in Read the leaf back and left the margin clear"
+    },
+    {
+      "type": "Tool",
+      "name": "draft",
+      "role": "mentioned",
+      "context": "Shown on draft in Read the leaf back and left the margin clear"
     }
   ]
 }

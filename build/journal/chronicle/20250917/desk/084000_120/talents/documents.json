@@ -1,0 +1,61 @@
+{
+  "overview": "Field called from his own shop with a book he did not print. It came from Cambridge yesterday. He will not tell you the word in the margin. Harrison has copies at the Greyhound. Tomorrow at ten, at Paul's. Your jaw is the size of an egg. Woburn burned on Saturday, and a tract is already in the press. You said you would write to Quiney tonight. He asked for his Holinshed, and you ended on God keep thee.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Asked if the margin abused him, promised the letter, and did not answer the book."
+    },
+    {
+      "name": "Richard Field",
+      "role": "attendee",
+      "formal_term": "Richard Field",
+      "appointment_tier": "not_applicable",
+      "context": "Named himself and his shop, withheld the word, and asked for the Holinshed."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the margin",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "tomorrow at ten",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the egg",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the certificate",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Greyhound",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Field"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Field"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-17",
+      "meaning": "In the glass with Field"
+    }
+  ],
+  "summary": "Spoke in the glass with Field"
+}

@@ -1,0 +1,66 @@
+{
+  "overview": "Richard Field called from the shop. He had Millington's little book in his hand, and he had heard you saw it. He called it honest presswork on a dishonest copy, and he asked you to be angry at his table on Sunday and not in Paul's. You said you had been curious whose it was, not angry. He said the man who entered it. You said the plays are not yours to print. They are the company's. He asked for Sunday and for the Holinshed. You said Sunday, and not the Holinshed.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Said the plays are the company's, and said Sunday, not the Holinshed."
+    },
+    {
+      "name": "Richard Field",
+      "role": "attendee",
+      "formal_term": "Richard Field",
+      "appointment_tier": "not_applicable",
+      "context": "Called from the shop, named the copy dishonest, and asked for Sunday and the book."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Millington's book",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Sunday's table",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the company's plays",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Holinshed stays",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Millington's octavo",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Field"
+    },
+    {
+      "name": "the Holinshed",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Field"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Field"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-05",
+      "meaning": "In the glass with Field"
+    }
+  ],
+  "summary": "Spoke in the glass with Field"
+}

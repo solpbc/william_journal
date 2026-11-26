@@ -1,0 +1,77 @@
+{
+  "density": "low_change",
+  "content_type": "productivity",
+  "activity_summary": "Field called from his own shop with a book he did not print. It came from Cambridge yesterday. He will not tell you the word in the margin. Harrison has copies at the Greyhound. Tomorrow at ten, at Paul's. Your jaw is the size of an egg. Woburn burned on Saturday, and a tract is already in the press. You said you would write to Quiney tonight. He asked for his Holinshed, and you ended on God keep thee.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Asked if the margin abused him, promised the letter, and did not answer the book.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Named himself and his shop, withheld the word, and asked for the Holinshed.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "the Greyhound",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the glass with Field",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the glass with Field",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Spoke in the glass with Field",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the margin",
+    "tomorrow at ten",
+    "the egg",
+    "the certificate"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_field",
+      "text": "I'll not tell thee what he calls thee."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "My jaw is the size of an egg, and I am not fit to be praised."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I'll write tonight."
+    },
+    {
+      "speaker": "richard_field",
+      "text": "And mend thy face."
+    }
+  ]
+}

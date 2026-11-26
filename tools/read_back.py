@@ -734,8 +734,10 @@ def run_read_back(
             f"Expected visible body rows on 20250315 in /app/body/api/day/20250315: {body_day}"
         )
         body_md_0315 = (scratch_journal / "chronicle" / "20250315" / "body.md").read_text(encoding="utf-8")
-        assert "to 05:45" in body_md_0315, (
-            f"Expected Lent 05:45 wake in chronicle/20250315/body.md, got:\n{body_md_0315}"
+        # Ordinary wakes are the seasonal center plus backdrop wake jitter.
+        # Measured 2026-11-25 from import.apple_health experience end, local clock.
+        assert "to 05:31" in body_md_0315, (
+            f"Expected jittered Lent wake 05:31 in chronicle/20250315/body.md, got:\n{body_md_0315}"
         )
         if is_full_year:
             body_aug13 = _http_get_json(port, "/app/body/api/day/20250813")
@@ -748,13 +750,14 @@ def run_read_back(
             assert "1:20 AM" in body_dec10_str or "01:20" in body_dec10_str, (
                 f"Expected 1:20 AM bedtime carried from S112b on 20251210, got: {body_dec10}"
             )
+            # Same measurement. 20251109 and 20251210 name their own wake, so jitter is 0.
             for day_check, expected_wake in (
-                ("20250117", "to 06:45"),
-                ("20250315", "to 05:45"),
-                ("20250629", "to 04:20"),
-                ("20250813", "to 04:45"),
+                ("20250117", "to 06:33"),
+                ("20250315", "to 05:31"),
+                ("20250629", "to 04:33"),
+                ("20250813", "to 04:34"),
                 ("20251109", "00:30 to 05:50"),
-                ("20251206", "to 07:00"),
+                ("20251206", "to 06:47"),
                 ("20251210", "01:20 to 06:25"),
             ):
                 b_md = (scratch_journal / "chronicle" / day_check / "body.md").read_text(encoding="utf-8")

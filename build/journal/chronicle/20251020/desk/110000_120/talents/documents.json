@@ -1,0 +1,66 @@
+{
+  "overview": "Master Kettleby called from Somerset House, among the hampers. The court removes to Richmond today, and my lord with it. Sir Thomas's place is not filled. His lady must render the accounts before anyone signs, and the Chamber pays nobody till then. You will be sent for. Pay is another office's question. My lord has heard of the king from four persons and disliked none of the reports. He told you to mend your hose.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Asked who signs, asked about the players' eating, and asked about the king."
+    },
+    {
+      "name": "Ambrose Kettleby",
+      "role": "attendee",
+      "formal_term": "Ambrose Kettleby",
+      "appointment_tier": "not_applicable",
+      "context": "Named himself and Somerset House, gave the five facts, and told him to mend his hose."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Somerset House",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the unfilled place",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "being sent for",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the king play",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Chamber",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Kettleby"
+    },
+    {
+      "name": "the king play",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Kettleby"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Kettleby"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-20",
+      "meaning": "In the glass with Kettleby"
+    }
+  ],
+  "summary": "Spoke in the glass with Kettleby"
+}

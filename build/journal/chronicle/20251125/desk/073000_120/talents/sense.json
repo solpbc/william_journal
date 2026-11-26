@@ -1,0 +1,89 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "You called John Heminges from Great St Helen's and gave him joy of his day. He is at Aldermanbury. He took the joy by the item: a wife, a full cradle, a house that does not smoke, a company eleven pound richer of a Thursday. You did not call to write the company into your book. The court wants seven sharers' hose and the hired men's looked to before the old lord looks. Mistress Pope has let Arthur's hems down twice since Michaelmas and there is no more hem. Nick's doublet wants easing at the chest, which Nick will not discuss. The voice holds if he is not startled, and nobody is to startle him. Tomorrow they choose the three plays. You said he will have no surprise from you. He reminded you that you said that in June, with a deposed king under your arm.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Opened with the joy, refused to write the eleven pounds, and promised no surprise.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Took the joy by the item, named the hose and the boy, and held him to June.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "eleven pounds",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the glass with Heminges",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Arthur's hems",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the glass with Heminges",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Nick's doublet",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the glass with Heminges",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the glass with Heminges",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Spoke in the glass with Heminges",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "joy by the item",
+    "the hose",
+    "nobody startles the boy",
+    "no surprise"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "A company eleven pound richer of a Thursday."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "You'll have none from me."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Phillips says it holds if he's not startled."
+    }
+  ]
+}

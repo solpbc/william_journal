@@ -1,11 +1,17 @@
 {
-  "narrative": "The morning's leaf on the knee, the fire on the ink. The verse is clear. The cups are still on the oak. No pen in the hand. Mid-leaf. The sentence about the brake. Nothing added in the margin. A damp sleeve at the edge of the settle. The foot. The question, the last sentence, then bare paper that the fire makes look almost written on, and is not.",
+  "narrative": "On the board. The morning's leaf on the knee, the fire on the ink. The verse is clear. The cups are still on the oak. No pen in the hand. On the board. Mid-leaf. The sentence about the brake. Nothing added in the margin. A damp sleeve at the edge of the settle. On the board. The foot. The question, the last sentence, then bare paper that the fire makes look almost written on, and is not.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Visible/present in The line in the firelight"
+    },
+    {
+      "type": "Tool",
+      "name": "draft",
+      "role": "mentioned",
+      "context": "Shown on draft in The line in the firelight"
     }
   ]
 }

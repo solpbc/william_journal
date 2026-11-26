@@ -1,0 +1,47 @@
+{
+  "narrative": "In the glass. Burbage looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Said the house should not hide, and named Heminges as the first of the three."
+    },
+    {
+      "type": "Person",
+      "name": "Cuthbert Burbage",
+      "role": "attendee",
+      "context": "Called from Holywell, set the two men at sixpence and the chain after the play, and yielded on the flag."
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "mentioned",
+      "context": "Walked the playhouse with a lantern. He was not on the call. His son reported him."
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "mentioned",
+      "context": "Not on the call. You said the flag had been his opinion first."
+    },
+    {
+      "type": "Project",
+      "name": "the Theatre",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Burbage"
+    },
+    {
+      "type": "Project",
+      "name": "sixpence",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Burbage"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Burbage"
+    }
+  ]
+}

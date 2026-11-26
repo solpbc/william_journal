@@ -68,8 +68,6 @@ def main():
         day = seg.parts[-3]
         s = seg.name
         texts = sections(seg)
-        if not texts:
-            continue
         try:
             assets = [a["name"] for a in json.load(open(seg / "talents/documents.json")).get("assets", [])]
         except Exception:
@@ -86,7 +84,7 @@ def main():
         frames.append({
             "day": f"{day[:4]}-{day[4:6]}-{day[6:]}", "seg": s, "t": f"{s[:2]}:{s[2:4]}",
             "surface": surface(seg), "kind": ctype, "work": assets[0] if assets else None,
-            "people": ppl, "text": texts, "activity": act.strip(), "photo": (seg / "page_screen.jpg").exists()})
+            "people": ppl, "text": texts, "activity": act.strip(), "photo": (seg / "screenshot_screen.jpg").exists() or (seg / "page_screen.jpg").exists()})
 
     # an untagged frame takes its surface from what the journal's own activity line says it was
     for f in frames:

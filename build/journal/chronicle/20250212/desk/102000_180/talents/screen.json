@@ -1,5 +1,5 @@
 {
-  "narrative": "The book open on Garnish's stool. At the head of a blank margin, one letter. No digits anywhere beneath it. No face. The same margin. The pen hovers and does not come down. The K stands alone. The book shut, a thumb on the cover. The stable door is open in the background. No figure has been written on the cover.",
+  "narrative": "On the bookwheel. The book open on Garnish's stool. At the head of a blank margin, one letter. No digits anywhere beneath it. On the bookwheel. The same margin. The pen hovers and does not come down. The K stands alone. On the bookwheel. The book shut, a thumb on the cover. The stable door is open in the background. No figure has been written on the cover.",
   "entities": [
     {
       "type": "Person",
@@ -12,6 +12,12 @@
       "name": "Abel Garnish",
       "role": "attendee",
       "context": "Had written the K, and did not write under it."
+    },
+    {
+      "type": "Tool",
+      "name": "book",
+      "role": "mentioned",
+      "context": "Shown on book in A K, and nothing under it"
     }
   ]
 }

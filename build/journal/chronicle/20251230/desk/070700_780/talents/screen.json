@@ -1,11 +1,17 @@
 {
-  "narrative": "The whole sheet, flat. The hand is off it. The ink at the foot is drying darker than the heading. The corner of the sheet where a wafer would go. Bare paper. The thread box is shut. The pen is in the rest. The sheet stays flat as the chair is pushed back. The coffer is shut. No cloak is on the arm.",
+  "narrative": "The letter, open. The whole sheet, flat. The hand is off it. The ink at the foot is drying darker than the heading. The letter, open. The corner of the sheet where a wafer would go. Bare paper. The thread box is shut. The pen is in the rest. The letter, open. The sheet stays flat as the chair is pushed back. The coffer is shut. No cloak is on the arm.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Visible/present in Read the letter back and left it flat"
+    },
+    {
+      "type": "Tool",
+      "name": "letter",
+      "role": "mentioned",
+      "context": "Shown on letter in Read the letter back and left it flat"
     }
   ]
 }

@@ -1,11 +1,17 @@
 {
-  "narrative": "The same foot of the leaf. The ink is dry. The blank is the same size it was. The letter is still flat at the back of the desk, separate from this leaf. No wafer has appeared on it. The leaf lies flat as the chair moves. The pen is in the rest. The pile is unopened.",
+  "narrative": "On the board. The same foot of the leaf. The ink is dry. The blank is the same size it was. On the board. The letter is still flat at the back of the desk, separate from this leaf. No wafer has appeared on it. On the board. The leaf lies flat as the chair moves. The pen is in the rest. The pile is unopened.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Visible/present in Got up from the finished leaf"
+    },
+    {
+      "type": "Tool",
+      "name": "draft",
+      "role": "mentioned",
+      "context": "Shown on draft in Got up from the finished leaf"
     }
   ]
 }

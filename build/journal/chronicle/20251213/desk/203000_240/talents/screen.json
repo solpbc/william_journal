@@ -1,11 +1,17 @@
 {
-  "narrative": "The account book is open on the desk. Both locks of the coffer are open behind it. Two lines are written. Nothing is ruled underneath them. The expected and the received are not blended into a third figure. The rest of the coffer is not counted onto the leaf. The pen stops. There is room under the twelve and six for a sum, and the room stays empty. The glass is not given a line. Last Saturday is not copied forward. He does not cast the coffer.",
+  "narrative": "In the account book. The account book is open on the desk. Both locks of the coffer are open behind it. Two lines are written. Nothing is ruled underneath them. The expected and the received are not blended into a third figure. The rest of the coffer is not counted onto the leaf. In the account book. The pen stops. There is room under the twelve and six for a sum, and the room stays empty. The glass is not given a line. Last Saturday is not copied forward. He does not cast the coffer.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Wrote the two lines, and did not cast a total."
+    },
+    {
+      "type": "Tool",
+      "name": "ledger",
+      "role": "mentioned",
+      "context": "Shown on ledger in Two lines, and no underneath"
     }
   ]
 }

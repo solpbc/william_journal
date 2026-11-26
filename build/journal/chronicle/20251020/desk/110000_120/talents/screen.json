@@ -1,0 +1,35 @@
+{
+  "narrative": "In the glass. Kettleby looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Asked who signs, asked about the players' eating, and asked about the king."
+    },
+    {
+      "type": "Person",
+      "name": "Ambrose Kettleby",
+      "role": "attendee",
+      "context": "Named himself and Somerset House, gave the five facts, and told him to mend his hose."
+    },
+    {
+      "type": "Company",
+      "name": "the Chamber",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Kettleby"
+    },
+    {
+      "type": "Project",
+      "name": "the king play",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Kettleby"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Kettleby"
+    }
+  ]
+}

@@ -1,11 +1,17 @@
 {
-  "narrative": "Both locks are off. The coffer is open in the last of the dark, and a small stack of coin sits apart on the board. The candle is close to the page. One line is written under the nine. The nine are not added back into it.",
+  "narrative": "In the account book. Both locks are off. The coffer is open in the last of the dark, and a small stack of coin sits apart on the board. In the account book. The candle is close to the page. One line is written under the nine. The nine are not added back into it.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Kept nine shillings out and did not fold them back into the total."
+    },
+    {
+      "type": "Tool",
+      "name": "ledger",
+      "role": "mentioned",
+      "context": "Shown on ledger in Nine shillings out"
     }
   ]
 }

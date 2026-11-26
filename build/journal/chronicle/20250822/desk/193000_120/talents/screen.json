@@ -1,0 +1,41 @@
+{
+  "narrative": "In the glass. Burbage looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Named Sunday, and would not unpack the leaves tonight."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "context": "Brought the gates, the Monday opening, the hunger for Verona, and the hole."
+    },
+    {
+      "type": "Tool",
+      "name": "the king's roll",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Burbage"
+    },
+    {
+      "type": "Company",
+      "name": "the Rose",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Burbage"
+    },
+    {
+      "type": "Project",
+      "name": "Verona",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Burbage"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Burbage"
+    }
+  ]
+}

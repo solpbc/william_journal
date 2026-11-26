@@ -1,4 +1,4 @@
 {"observer": "desk", "qualified_count": 3, "raw": "screen.mp4"}
-{"analysis": {"primary": "writing", "visual_description": "The tables, a short fact, and a rule under it. No face."}, "content": {}, "frame_id": 1, "timestamp": 0.0}
-{"analysis": {"primary": "writing", "visual_description": "Three reasons written under the rule, none of them marked. No face."}, "content": {}, "frame_id": 2, "timestamp": 100.0}
-{"analysis": {"primary": "writing", "visual_description": "A last line, apart from the reasons. The canvas is not in the room. No face."}, "content": {}, "frame_id": 3, "timestamp": 180.0}
+{"analysis": {"primary": "writing", "visual_description": "On the tables. The tables, a short fact, and a rule under it."}, "content": {}, "frame_id": 1, "raw": "screenshot_screen.jpg", "timestamp": 0.0}
+{"analysis": {"primary": "writing", "visual_description": "On the tables. Three reasons written under the rule, none of them marked."}, "content": {}, "frame_id": 2, "timestamp": 100.0}
+{"analysis": {"primary": "writing", "visual_description": "On the tables. A last line, apart from the reasons. The canvas is not in the room."}, "content": {}, "frame_id": 3, "timestamp": 180.0}

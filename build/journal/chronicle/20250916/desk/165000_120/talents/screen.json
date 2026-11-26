@@ -1,0 +1,41 @@
+{
+  "narrative": "In the glass. Kettleby looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Asked if it was in writing, and kept the horse in the answer."
+    },
+    {
+      "type": "Person",
+      "name": "Ambrose Kettleby",
+      "role": "attendee",
+      "context": "Named himself and Somerset House, gave the sense, and would not give a writing."
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "context": "At your ear. Told you to ask."
+    },
+    {
+      "type": "Person",
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "mentioned",
+      "context": "Three of them still red from Titus. They did not speak."
+    },
+    {
+      "type": "Tool",
+      "name": "six weeks",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Kettleby"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Kettleby"
+    }
+  ]
+}

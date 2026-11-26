@@ -1,8 +1,8 @@
 # William's desktop
 
-This folder imagines the computer William might have had on his board in 1595, and takes screenshots of it at any moment of his year. A screenshot can be installed as the picture of one of the journal's desk frames: what was in front of him while he wrote, read, reckoned or talked.
+This folder imagines the computer William might have had on his board in 1595, and takes screenshots of it at any moment of his year. A screenshot is the picture of a desk frame: what was on his screen while he wrote, read, reckoned or talked.
 
-What changes from moment to moment is assembled from the journal: the frame's legible text, his calendar, his letters, his account lines and his calls. The period furniture (the almanack's weather and physick, the carrier days, the stalls of Paul's) is fixed in `data.js`, along with his commonplace notes, which are shown up to that day. A screenshot holds only what William would have seen and used. Labels, captions and staging stay outside the picture.
+What changes from moment to moment is assembled from the journal: the frame's legible text, his letters, his account lines, his calls, and his marks in the almanack. The period furniture (the almanack's weather and physick, the carrier days, the stalls of Paul's) is fixed in `data.js`, along with his commonplace notes, which are shown up to that day. The year's calendar sits on the almanack whole. A frame with `surface: glass` opens The Glass on the call he was in. A frame with `surface: commonplace` opens the Commonplace Book on that frame's lines. A proof opens on the bookwheel. A frame with nothing legible still opens its cabinet. A screenshot holds only what William would have seen and used. Labels, captions and staging stay outside the picture.
 
 ## The desktop
 
@@ -40,7 +40,7 @@ uv run --with playwright python desktop/shoot.py check                       # r
 
 A frame or call is named `<day>/<segment>`, after its folder: `build/journal/chronicle/<YYYYMMDD>/desk/<segment>/` or `.../calls/<segment>/`. Screenshots go to `desktop/out/`, at 1440 × 900.
 
-**Installing a screenshot as the frame's picture:** add `--install`. It writes a JPEG to `photos/pages/images/screen_<day>_<segment>.jpg` and its `by_segment` entry to `photos/pages/install.json`, so a re-convert (`tools/converter.py`) keeps it. It also writes the segment's `page_screen.jpg` in `build/journal`.
+**Installing a screenshot as the frame's picture:** add `--install`. It writes a JPEG to `photos/pages/images/screen_<day>_<segment>.jpg` and its `by_segment` entry to `photos/pages/install.json`, so a re-convert (`tools/converter.py`) keeps it. It also writes the segment's `screenshot_screen.jpg` in `build/journal`.
 
 To see a moment in the browser, open `index.html?frame=<day>/<segment>` or `index.html?call=<day>/<segment>`. If you have used the desktop in that browser, add `&reset=1` so its saved state does not carry in (it clears that state).
 
@@ -48,20 +48,22 @@ To see a moment in the browser, open `index.html?frame=<day>/<segment>` or `inde
 
 `feed.py` reads the journal into `feed.js`, and `stage.js` uses the feed to set the desktop for one moment:
 
-- **The frame's surface** decides which cabinet is in front. The surface comes from the frame's `talents/screen.json` ("Shown on …"); where that is missing, it comes from the segment's own activity line. The mapping:
+- **The frame's surface** decides which cabinet is in front. The surface comes from the frame's `talents/screen.json` ("Shown on …"). The mapping:
   - `draft`, `tables`, `part` and `plot` → Foul Papers
   - `ledger` → Account Book
   - `letter` → Letters
-  - `book`, `bill` and `pamphlet` → Bookwheel
+  - `book`, `bill`, `pamphlet` and `proof` → Bookwheel
   - `almanac` → Almanack
+  - `commonplace` → Commonplace Book
   - `glass` → The Glass, showing the call he was on at that time
+  - Where that line is missing, the activity line sets letter, almanac, bill or playbill, ledger (also account, coffer or reckon), tables, plot, part or roll, and book when it names Chaucer, Holinshed, Plutarch, Ovid or reading. A miss opens as Foul Papers.
 - **The frame's legible text** (`talents/screen_text.md`) is what the front cabinet shows.
 - **The rest of the desk** comes from the journal up to that moment:
   - the board holds the latest state of his most recent works
   - the account book holds his most recent lines
   - letters are grouped by correspondent, and when the frame is a letter he is writing, that day's sheets of it sit in the compose box
-  - the almanack holds the journal's calendar and his own marks
-  - the cabinet he had out just before is open behind the front one
+  - the almanack holds the year's calendar whole, and his own marks up to that moment
+  - when a different cabinet was out earlier that day, it stays open behind the front one
 - **The time and sky** come from the frame's segment.
 
 To make a screen richer, make the journal richer: write more of what was legible into the frame in `content/` (see `content/FORMAT.md`), re-convert it into `build/journal` with `tools/converter.py` (see `tools/README.md`), run `feed.py`, and shoot again. Faces in the Glass are each person's `build/journal/entities/<id>/photo.jpg`.

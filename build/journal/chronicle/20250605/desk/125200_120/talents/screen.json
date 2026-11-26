@@ -1,0 +1,35 @@
+{
+  "narrative": "In the glass. Field looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Said the plays are the company's, and said Sunday, not the Holinshed."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "context": "Called from the shop, named the copy dishonest, and asked for Sunday and the book."
+    },
+    {
+      "type": "Project",
+      "name": "Millington's octavo",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Field"
+    },
+    {
+      "type": "Project",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Field"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Field"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "density": "low_change",
+  "content_type": "productivity",
+  "activity_summary": "Kettleby called from Somerset House, back from Nonsuch since Sunday. The sense of my lord's answer is play on. No letter has gone to any justice. If a justice of Middlesex comes, he is to be sent on. Heminges told you to ask if it was in writing. Nothing my lord says is in writing. The paint of Titus was still red on three of the hired men. You had not come off that stage.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Asked if it was in writing, and kept the horse in the answer.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Ambrose Kettleby",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Named himself and Somerset House, gave the sense, and would not give a writing.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "screen",
+      "context": "At your ear. Told you to ask.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Three of them still red from Titus. They did not speak.",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "six weeks",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the glass with Kettleby",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the glass with Kettleby",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Spoke in the glass with Kettleby",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "play on",
+    "nothing in writing",
+    "six weeks",
+    "the paint"
+  ],
+  "quotes": [
+    {
+      "speaker": "ambrose_kettleby",
+      "text": "Play on. No letter has gone out to any justice."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "Ask if that is in writing."
+    },
+    {
+      "speaker": "ambrose_kettleby",
+      "text": "Nothing my lord says is in writing, sir."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "And you, sir, and your horse."
+    }
+  ]
+}

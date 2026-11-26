@@ -1,0 +1,66 @@
+{
+  "overview": "Richard called from Holywell because he could not sleep. He asked for ten lines at the death, and you said no. He asked for six, and you told him the man was done with words. He asked what happens if the boy's voice goes in the vault. You told him she wakes hoarse, and that he should hold Nick as he did on Wednesday. The end stays five words. You did not say what the five words are.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Refused the extra lines, and did not print the five words."
+    },
+    {
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "formal_term": "Richard Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Called from Holywell, asked twice, and took the refusal."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the call from Holywell",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "ten lines refused",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "six refused",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "five kept",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the voice in the vault",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Romeo and Juliet",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Burbage"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Burbage"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-05",
+      "meaning": "In the glass with Burbage"
+    }
+  ],
+  "summary": "Spoke in the glass with Burbage"
+}

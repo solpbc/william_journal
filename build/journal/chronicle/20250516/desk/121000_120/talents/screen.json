@@ -1,11 +1,17 @@
 {
-  "narrative": "North's Plutarch, unbound, flat under a board. Daniel's book beside it, closed, for tomorrow. The Holinshed is not in the row. The board stays on the sheets. Daniel is left closed. The commonplace book is shut beside them.",
+  "narrative": "On the bookwheel. North's Plutarch, unbound, flat under a board. Daniel's book beside it, closed, for tomorrow. The Holinshed is not in the row. On the bookwheel. The board stays on the sheets. Daniel is left closed. The commonplace book is shut beside them.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Left the Plutarch flat, and did not open a sentence out of it."
+    },
+    {
+      "type": "Tool",
+      "name": "book",
+      "role": "mentioned",
+      "context": "Shown on book in Unbound, and still out"
     }
   ]
 }

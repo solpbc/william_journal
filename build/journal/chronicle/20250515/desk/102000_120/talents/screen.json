@@ -1,5 +1,5 @@
 {
-  "narrative": "A damp forme on the line, two pages side by side, the ink still bright. The running title only is plain. A turned letter is ringed in brown ink. The rest of the type is texture. The sheet stays on the line. No foul paper is under it. The ringed letter is still the place the eye stopped.",
+  "narrative": "The proof, on the bookwheel. A damp forme on the line, two pages side by side, the ink still bright. The running title only is plain. A turned letter is ringed in brown ink. The rest of the type is texture. The proof, on the bookwheel. The sheet stays on the line. No foul paper is under it. The ringed letter is still the place the eye stopped.",
   "entities": [
     {
       "type": "Person",
@@ -12,6 +12,12 @@
       "name": "Richard Field",
       "role": "mentioned",
       "context": "Was at the sheet. He had not yet spoken."
+    },
+    {
+      "type": "Tool",
+      "name": "proof",
+      "role": "mentioned",
+      "context": "Shown on proof in A letter turned"
     }
   ]
 }

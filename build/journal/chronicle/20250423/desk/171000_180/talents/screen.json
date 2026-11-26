@@ -1,11 +1,17 @@
 {
-  "narrative": "Evening prayer in the south aisle. A small book lies on the ledge. No line is copied from it. Rosemary is still in the cracks of the stone. No face.",
+  "narrative": "On the bookwheel. Evening prayer in the south aisle. A small book lies on the ledge. No line is copied from it. Rosemary is still in the cracks of the stone.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Looked at the book and copied nothing."
+    },
+    {
+      "type": "Tool",
+      "name": "book",
+      "role": "mentioned",
+      "context": "Shown on book in A book on the ledge"
     }
   ]
 }

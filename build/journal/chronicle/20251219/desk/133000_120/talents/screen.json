@@ -1,11 +1,17 @@
 {
-  "narrative": "The account book open at the week's leaf. He writes one small line for the paper and leaves a space under it. He does not rule a line for a hall. The coffer is not opened. His pen hovers and does not come down. No six hundred. No hall. No name of an owner. He shuts the book.",
+  "narrative": "In the account book. The account book open at the week's leaf. He writes one small line for the paper and leaves a space under it. He does not rule a line for a hall. The coffer is not opened. In the account book. His pen hovers and does not come down. No six hundred. No hall. No name of an owner. He shuts the book.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Wrote the quire and shut the book on the sum."
+    },
+    {
+      "type": "Tool",
+      "name": "ledger",
+      "role": "mentioned",
+      "context": "Shown on ledger in The book without the hall"
     }
   ]
 }

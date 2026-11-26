@@ -1,11 +1,17 @@
 {
-  "narrative": "The account book open on the desk. The head of the leaf is the old year. No new columns ruled. No total written. No face. Lower on the same leaf, one old line, unstruck. Empty paper under it. The pen is capped.",
+  "narrative": "In the account book. The account book open on the desk. The head of the leaf is the old year. No new columns ruled. No total written. In the account book. Lower on the same leaf, one old line, unstruck. Empty paper under it. The pen is capped.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Looked at the open leaf and did not bring the year forward."
+    },
+    {
+      "type": "Tool",
+      "name": "ledger",
+      "role": "mentioned",
+      "context": "Shown on ledger in The head still says 1594"
     }
   ]
 }

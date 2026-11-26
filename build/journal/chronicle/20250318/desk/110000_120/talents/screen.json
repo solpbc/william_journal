@@ -1,0 +1,29 @@
+{
+  "narrative": "In the glass. Florio looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Heard the message, refused the further question, and did not sit down to a copy."
+    },
+    {
+      "type": "Person",
+      "name": "John Florio",
+      "role": "attendee",
+      "context": "Delivered the sentence as he was given it, filled the rest with words, and asked for the proverb before a printer."
+    },
+    {
+      "type": "Project",
+      "name": "the paper left at the lodge",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Florio"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Florio"
+    }
+  ]
+}

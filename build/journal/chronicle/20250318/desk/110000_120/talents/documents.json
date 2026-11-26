@@ -1,0 +1,61 @@
+{
+  "overview": "Florio called from my lord's house in Holborn, five weeks after the lodge. My lord had the paper. He was at court for the Shrovetide running, and he has it by him still. Florio said he is glad you prosper, and that he said it as it was said. Nothing more was offered, and you did not ask. He gave you peregrinate, perambulate, and walk, and the proverb. You said you thought one proverb wrong. He said it is not wrong, it is only English, and he asked you to send it to him before a printer. You did not copy it out.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Heard the message, refused the further question, and did not sit down to a copy."
+    },
+    {
+      "name": "John Florio",
+      "role": "caller",
+      "formal_term": "John Florio",
+      "appointment_tier": "not_applicable",
+      "context": "Delivered the sentence as he was given it, filled the rest with words, and asked for the proverb before a printer."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the paper received",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nothing more",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the proverb only English",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no printer today",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the paper left at the lodge",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Florio"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Florio"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-18",
+      "meaning": "In the glass with Florio"
+    }
+  ],
+  "summary": "Spoke in the glass with Florio"
+}

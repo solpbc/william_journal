@@ -1,0 +1,81 @@
+{
+  "density": "low_change",
+  "content_type": "productivity",
+  "activity_summary": "Cuthbert called from a scrivener's in Cheapside. The Mayor's letter to the Council, against plays, came as hearsay from a Guildhall clerk. It names the Bankside and also Middlesex, which is his father's house and two miles of fields. His man could not swear the Theatre was named. You were to say nothing until the play was done.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Asked about James, and said nothing further until after the play.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Cuthbert Burbage",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Named himself and Cheapside, gave the hearsay, and said he would come by five.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Not told yet. Cuthbert would rather he heard it after he had eaten.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "the Bankside",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the glass with Burbage",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the glass with Burbage",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Spoke in the glass with Burbage",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "hearsay",
+    "the Bankside",
+    "Middlesex",
+    "the justices"
+  ],
+  "quotes": [
+    {
+      "speaker": "cuthbert_burbage",
+      "text": "Will? Cuthbert Burbage. From a scrivener's in Cheapside, and I'll be short."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "Middlesex is not the Bankside."
+    },
+    {
+      "speaker": "cuthbert_burbage",
+      "text": "And all of us. Play well. You may be doing it for the justices."
+    }
+  ]
+}

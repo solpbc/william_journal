@@ -1,0 +1,47 @@
+{
+  "narrative": "In the glass. Heminges looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Answered the owl, agreed the order, and said the king is talking."
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "context": "Called from Aldermanbury, reported the boys, and asked after the king."
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "mentioned",
+      "context": "Mentioned. He was by the fire, dumb, and not told."
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "mentioned",
+      "context": "Mentioned. He was learning the owl too well, and not on the call."
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "mentioned",
+      "context": "Mentioned. He had Sam by the fire with honey."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Heminges"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Heminges"
+    }
+  ]
+}

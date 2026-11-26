@@ -1,0 +1,29 @@
+{
+  "narrative": "In the commonplace book, under Prices.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the line under Prices."
+    },
+    {
+      "type": "Person",
+      "name": "Mistress Dorcas Ansell",
+      "role": "mentioned",
+      "context": "Visible/present in Under Prices"
+    },
+    {
+      "type": "Project",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "context": "Shown on commonplace in Under Prices"
+    },
+    {
+      "type": "Project",
+      "name": "blue starch",
+      "role": "mentioned",
+      "context": "Shown on commonplace in Under Prices"
+    }
+  ]
+}

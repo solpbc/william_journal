@@ -1,0 +1,101 @@
+{
+  "overview": "John called from Aldermanbury after going through the book with Garnish. You have written four ladies and a dairymaid, and he has three boys, and one of the three is the page. You offered to cut the dairymaid. Kemp has already seen her, so she stays. Two boys out of Pope's parish at three shillings the week each stand as Maria and Katharine, and are not paid tonight. Sincler, in black, is the messenger, since he needs no padding to look like bad news. John takes the schoolmaster. His wife says Nick is growing through his sleeves. He said the Princess wants a gown, and he is not buying it tonight.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Offered to cut the dairymaid, accepted the hiring, and left the gown."
+    },
+    {
+      "name": "John Heminges",
+      "role": "attendee",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Counted the ladies, set the boys and the messenger and the schoolmaster, and said the Princess wants a gown."
+    },
+    {
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "formal_term": "Abel Garnish",
+      "appointment_tier": "not_applicable",
+      "context": "Spoke in the glass with Heminges"
+    },
+    {
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "formal_term": "Will Kemp",
+      "appointment_tier": "not_applicable",
+      "context": "Spoke in the glass with Heminges"
+    },
+    {
+      "name": "Thomas Pope",
+      "role": "mentioned",
+      "formal_term": "Thomas Pope",
+      "appointment_tier": "not_applicable",
+      "context": "Spoke in the glass with Heminges"
+    },
+    {
+      "name": "John Sincler",
+      "role": "mentioned",
+      "formal_term": "John Sincler",
+      "appointment_tier": "not_applicable",
+      "context": "Spoke in the glass with Heminges"
+    },
+    {
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "formal_term": "Nick Sorrell",
+      "appointment_tier": "not_applicable",
+      "context": "Spoke in the glass with Heminges"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the ladies",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the dairymaid",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the two boys at three shillings",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Sincler",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the schoolmaster",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Heminges"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Heminges"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-01-27",
+      "meaning": "In the glass with Heminges"
+    }
+  ],
+  "summary": "Spoke in the glass with Heminges"
+}

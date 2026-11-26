@@ -1,11 +1,17 @@
 {
-  "narrative": "The middle of the leaf. New prose under the verse. The hand does not go back to change the line. The next sentence. Daylight is stronger. The candle is a stump. The question is the new last line. Under it, blank paper, enough for another sentence, and he has not used it.",
+  "narrative": "On the board. The middle of the leaf. New prose under the verse. The hand does not go back to change the line. On the board. The next sentence. Daylight is stronger. The candle is a stump. On the board. The question is the new last line. Under it, blank paper, enough for another sentence, and he has not used it.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Visible/present in Wrote the brake, and the queen waking"
+    },
+    {
+      "type": "Tool",
+      "name": "draft",
+      "role": "mentioned",
+      "context": "Shown on draft in Wrote the brake, and the queen waking"
     }
   ]
 }

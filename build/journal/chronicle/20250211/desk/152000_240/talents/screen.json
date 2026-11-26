@@ -1,5 +1,5 @@
 {
-  "narrative": "The unsent letter of Sunday, still on the desk. Three new lines at the foot, in the same hand, not struck. The date above is still the 9th. No face. The space under those lines is blank. No second number. The pen is set down beside the leaf, not on it. The leaf is not folded for a carrier. Sunday's barges and the long account of the comedy are still above the new lines. Nothing is wrapped.",
+  "narrative": "On the board. The unsent letter of Sunday, still on the desk. Three new lines at the foot, in the same hand, not struck. The date above is still the 9th. On the board. The space under those lines is blank. No second number. The pen is set down beside the leaf, not on it. On the board. The leaf is not folded for a carrier. Sunday's barges and the long account of the comedy are still above the new lines. Nothing is wrapped.",
   "entities": [
     {
       "type": "Person",
@@ -12,6 +12,12 @@
       "name": "Anne Shakespeare",
       "role": "mentioned",
       "context": "Is still the person the leaf addresses, and is not in the room."
+    },
+    {
+      "type": "Tool",
+      "name": "draft",
+      "role": "mentioned",
+      "context": "Shown on draft in Forty sail, under Sunday's date"
     }
   ]
 }

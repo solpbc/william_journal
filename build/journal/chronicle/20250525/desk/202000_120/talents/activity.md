@@ -1,0 +1,1 @@
+At home you wrote the three marks and wrote that the glass was promised yesterday and struck off today's sheet. You noted that blue starch had been spoken of and that no paper had come. You did not start another scene.

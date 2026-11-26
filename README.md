@@ -12,11 +12,11 @@ It is fiction, made by language models, image models and speech synthesis workin
 
 **1595 on a 2025 calendar.** In England 1595 ran on the Julian calendar, which in that year lines up exactly with 2025's: both begin on a Wednesday, neither is a leap year, and Easter falls on 20 April in both. So every date keeps its real weekday, and Lent, Shrove Tuesday and the feasts land where they did. 2025 is the most recent year that does this, and it is already over, so the whole journal sits in the past.
 
-**Modern sources, period causation.** The world is 1595 in every material, social and linguistic respect. Only the way his days reach the journal is modern: a meeting is any gathered talk he is part of, a call is a voice at a distance, the screen is the page in front of him, and something counts his steps on the road to Stratford. The sources never change what happens. News still comes by carrier, letters still take days, and nobody remarks on the devices. That lets a period life use everything a journal can hold without turning into a costume drama about technology.
+**Modern sources, period causation.** The world is 1595 in every material, social and linguistic respect. Only the way his days reach the journal is modern: a meeting is any gathered talk he is part of, a call shows the other person's face in the glass, the screen is the Theatre of Memory on his board, and something counts his steps on the road to Stratford. The sources never change what happens. News still comes by carrier, letters still take days, and nobody remarks on the devices. That lets a period life use everything a journal can hold without turning into a costume drama about technology.
 
 **A quiet year with three packed days.** Most days are ordinary: rehearsals, the bill, debts, a letter home. Three are filled wall to wall, 10 August in Stratford, 22 October and 30 December, so there is somewhere to look closely as well as a year to look across.
 
-**Photos that never show him.** Each photo is what his eye held, from his own eye level, in the light that was there: sun, fog, candle or fire. He never appears in one: no face, mirror or shadow, only his hands at the desk. People are caught mid-task and nobody poses. The look is a good phone camera of today pointed at 1595, not an old print.
+**Photos that never show him.** Each photo is what his eye held, from his own eye level, in the light that was there: sun, fog, candle or fire. He never turns his face to the picture: no portrait and no mirror. Where he is in the frame, it is his hands, or the back of him seen from the yard or the door. Other people are caught mid-task and nobody poses. The look is a good phone camera of today pointed at 1595, not an old print. The sixty-four faces are a different set. Each is someone else, head and shoulders, looking into the camera. He has none.
 
 **One canon every day is held to.** Before any day was written there was a world bible ([`world/world.md`](world/world.md)): the cast, the places with coordinates, the dated events of the year and the rules above. Each week was written to it, and anything new a week invented went into [`content/canon-additions.md`](content/canon-additions.md) for every later week to honour. A calendar ([`calendar/merged/`](calendar/merged/)) and a set of running threads ([`content/threads/merged/`](content/threads/merged/)) keep the plays, debts, journeys and people consistent from January to December.
 
@@ -24,7 +24,7 @@ One thing is deliberately absent. His son Hamnet is ten in 1595 and dies in Augu
 
 ## how it was made
 
-The research came from three deep-research reports, by ChatGPT, Gemini and a third that reads as Claude's, reconciled into the source book in [`research/`](research/). Three models (GPT-6 Astra, Gemini 4 Carbon and Fable 5.2) each wrote a full world bible, and those were folded into one. Every week was then written twice, once by Grok and once by Gemini, and a Grok merge took the best of each into the accepted text in `content/weeks/*/merged/`. A deterministic generator ([`tools/`](tools/)) turned that text into the journal's stored files, and validators checked the result. The photos, page images and faces were generated with Gemini's image model and checked against their captions. Speech recordings for 303 transcripts (all 237 voice memos, all 34 calls and 32 multi-speaker talks, 182.4 minutes in 16 kHz mono FLAC) were synthesized with ElevenLabs `eleven_v4` from 19 licensed stock voices, cloning nobody. Every recording was verified against solstone's WeSpeaker ResNet34-256 voiceprint pipeline ([`audio/README.md`](audio/README.md)).
+The research came from three deep-research reports, by ChatGPT, Gemini and a third that reads as Claude's, reconciled into the source book in [`research/`](research/). Three models (GPT-6 Astra, Gemini 4 Carbon and Fable 5.2) each wrote a full world bible, and those were folded into one. Every week was then written twice, once by Grok and once by Gemini, and a Grok merge took the best of each into the accepted text in `content/weeks/*/merged/`. A deterministic generator ([`tools/`](tools/)) turned that text into the journal's stored files, and validators checked the result. The year photos and the faces were made with Gemini's image model. Each desk frame's picture is a screenshot of his desktop. Speech recordings for 299 transcripts (233 of 237 voice memos, all 34 calls and 32 multi-speaker talks, about 182 minutes in 16 kHz mono FLAC) were synthesized with ElevenLabs `eleven_v4` from 19 licensed stock voices, cloning nobody. Every recording was verified against solstone's WeSpeaker ResNet34-256 voiceprint pipeline ([`audio/README.md`](audio/README.md)).
 
 The journal was written by machines working to a human-reviewed plan. The alternative drafts and the merge notes are not included; this repo holds what was accepted.
 
@@ -32,18 +32,18 @@ The journal was written by machines working to a human-reviewed plan. The altern
 
 | Path | What it is |
 |---|---|
-| `build/journal/` | the finished journal: 365 days, the search index, entities, facets, reflections, 303 `audio.flac` recordings, photos, faces, the connected agent's record and the journal's identity (minus its key) |
+| `build/journal/` | the finished journal: 365 days, the search index, entities, facets, reflections, 299 `audio.flac` recordings, photos, faces, the connected agent's record and the journal's identity (minus its key) |
 | `audio/` | the 19-voice cast registry (`voices.json`), extracted WeSpeaker ResNet34-256 voiceprints (`voiceprints.json`), install manifest (`install.json`), ambient beds, batch lists and generation guide ([`audio/README.md`](audio/README.md)) |
-| `photos/` | the accepted images, 183 year photos, 52 page images and 64 faces, with the install file that places each one and a contact sheet in each folder (`index.html`) |
+| `photos/` | the accepted images, 237 year photos, 606 page images and 64 faces, with the install file that places each one and a contact sheet in each folder (`index.html`) |
 | `world/world.md` | the world bible, *The Weight of a Penny* |
 | `content/` | the accepted days and weeks, the day plans, the threads, the canon additions and the format and lint they follow |
 | `calendar/merged/` | the year's 795 calendar events and the script that builds them |
 | `research/` | the synthesis and the six-part source book |
 | `tools/` | the generator, audio and photo tooling, voiceprint evaluator, read-back validator and tests ([`tools/README.md`](tools/README.md)) |
-| `desktop/` | William's desktop: an imagined 1595 computer that his desk frames can be shot from, with the scripts that build it from the journal and take the screenshots ([`desktop/README.md`](desktop/README.md)) |
+| `desktop/` | William's desktop, the Theatre of Memory. The pictures of his desk frames are screenshots taken from it, and a call opens in the glass ([`desktop/README.md`](desktop/README.md)) |
 | `build/screens/` | a few screenshots |
 
-The files come to about 428 MB. The largest is the search index, about 40 MB.
+The files come to about 590 MB. The largest is the search index, about 40 MB.
 
 ## serve it with solstone
 

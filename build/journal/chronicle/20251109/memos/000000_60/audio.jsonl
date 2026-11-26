@@ -1,2 +1,2 @@
-{"backend": "whisper", "duration": 6.43, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "00:00:00", "text": "He gets it wrong by a minute. One minute. That's all the villainy there is in it.", "timing": {"end": 5.76, "start": 0.0}}
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "00:00:00", "text": "He gets it wrong by a minute. One minute. That's all the villainy there is in it.", "timing": {"end": 10.0, "start": 0.0}}

@@ -22,3 +22,7 @@
 {"day": "20250822", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "193000_120", "stream": "calls", "ts": 1755903300060}
 {"change_class": "substantive", "day": "20250822", "event": "sense.change_detect", "mode": "segment", "segment": "193000_120", "stream": "calls", "ts": 1755903300061}
 {"day": "20250822", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "193000_120", "stream": "calls", "ts": 1755903300062}
+{"day": "20250822", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "193000_120", "stream": "desk", "ts": 1755903300070}
+{"change_class": "substantive", "day": "20250822", "event": "sense.change_detect", "mode": "segment", "segment": "193000_120", "stream": "desk", "ts": 1755903300071}
+{"day": "20250822", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "193000_120", "stream": "desk", "ts": 1755903300072}
+{"day": "20250822", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "193000_120", "stream": "desk", "ts": 1755903300073}

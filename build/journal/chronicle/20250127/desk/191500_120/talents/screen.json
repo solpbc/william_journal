@@ -1,0 +1,59 @@
+{
+  "narrative": "In the glass. Heminges looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Offered to cut the dairymaid, accepted the hiring, and left the gown."
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "context": "Counted the ladies, set the boys and the messenger and the schoolmaster, and said the Princess wants a gown."
+    },
+    {
+      "type": "Person",
+      "name": "Abel Garnish",
+      "role": "mentioned",
+      "context": "Visible/present in In the glass with Heminges"
+    },
+    {
+      "type": "Person",
+      "name": "Will Kemp",
+      "role": "mentioned",
+      "context": "Visible/present in In the glass with Heminges"
+    },
+    {
+      "type": "Person",
+      "name": "Thomas Pope",
+      "role": "mentioned",
+      "context": "Visible/present in In the glass with Heminges"
+    },
+    {
+      "type": "Person",
+      "name": "John Sincler",
+      "role": "mentioned",
+      "context": "Visible/present in In the glass with Heminges"
+    },
+    {
+      "type": "Person",
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "context": "Visible/present in In the glass with Heminges"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Heminges"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Heminges"
+    }
+  ]
+}

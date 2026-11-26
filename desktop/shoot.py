@@ -16,7 +16,7 @@ check   render one frame and one call and fail on any page error
 Output goes to desktop/out/<kind>-<day>-<segment>.png unless --out names a file.
 --install also writes the render as the frame's picture: a JPEG in photos/pages/images/,
 its by_segment entry in photos/pages/install.json (so a re-convert keeps it), and the
-segment's page_screen.jpg in build/journal. Run desktop/feed.py first if the journal changed.
+segment's screenshot_screen.jpg in build/journal. Run desktop/feed.py first if the journal changed.
 Chrome: /usr/bin/google-chrome when present, otherwise Playwright's own Chromium
 (`uv run --with playwright playwright install chromium`).
 """
@@ -58,7 +58,8 @@ async def render(targets, out=None, install=False):
                 (PAGES / "install.json").write_text(json.dumps(inst, indent=2, ensure_ascii=False) + "\n")
                 seg_dir = ROOT / "build/journal/chronicle" / day.replace("-", "") / "desk" / seg
                 if seg_dir.exists():
-                    (seg_dir / "page_screen.jpg").write_bytes((ROOT / rel).read_bytes())
+                    (seg_dir / "page_screen.jpg").unlink(missing_ok=True)
+                    (seg_dir / "screenshot_screen.jpg").write_bytes((ROOT / rel).read_bytes())
             errors += bool(errs)
             print(name, "page errors: " + "; ".join(errs) if errs else "ok", dest)
             await p.context.close()

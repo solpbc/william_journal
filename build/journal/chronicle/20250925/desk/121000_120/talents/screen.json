@@ -1,0 +1,35 @@
+{
+  "narrative": "In the glass. Heminges looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Asked after Nick, and gave the two answers."
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "context": "Named himself and Aldermanbury, priced the gilt and the hem, and asked after the tooth and the play."
+    },
+    {
+      "type": "Tool",
+      "name": "four shillings",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Heminges"
+    },
+    {
+      "type": "Tool",
+      "name": "eighteenpence",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Heminges"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Heminges"
+    }
+  ]
+}

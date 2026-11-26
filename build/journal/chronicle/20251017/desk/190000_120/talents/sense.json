@@ -1,0 +1,85 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Florio spoke from my lord's house in Holborn, and the house was in black. Sir Thomas Heneage died this day at the Savoy. He was Vice-Chamberlain and Treasurer of the Chamber, and husband these eighteen months to my lord's mother. My lord is with her. There is a remedy for everything but death. You sent your duty and asked nothing. Then you asked who signs. A widow must first cast up the dead man's accounts. After that, who knows. He has not forgotten the Chaucer, and he will send it when the house is quieter. You did not pretend to have lost a friend. Nor did he.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Sent his duty, asked nothing, then asked who signs, and did not pretend to a friendship he did not have.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Florio",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Named the death, the widow's accounts, and the Chaucer still to come. He ended on the commendation.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the Chaucer",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the glass with Florio",
+      "level": "medium"
+    },
+    {
+      "type": "Company",
+      "name": "the Chamber",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the glass with Florio",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the glass with Florio",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Spoke in the glass with Florio",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the house in black",
+    "the Savoy",
+    "who signs",
+    "the Chaucer waiting"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_florio",
+      "text": "Master Shakespeare? Florio. From my lord's house in Holborn, and the house is in black."
+    },
+    {
+      "speaker": "john_florio",
+      "text": "A widow must first cast up a dead man's accounts."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I send my duty to my lord, and I ask nothing."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "And you, sir."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "narrative": "In the glass. Florio looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Asked for the town, and asked after the earl."
+    },
+    {
+      "type": "Person",
+      "name": "John Florio",
+      "role": "attendee",
+      "context": "Told the town, and stopped at the court."
+    },
+    {
+      "type": "Tool",
+      "name": "Verona",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Florio"
+    },
+    {
+      "type": "Tool",
+      "name": "Mantua",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Florio"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Florio"
+    }
+  ]
+}

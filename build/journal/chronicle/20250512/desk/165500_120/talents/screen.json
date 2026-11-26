@@ -1,11 +1,17 @@
 {
-  "narrative": "The small book open at a fresh line. A silver thimble sits by the ink, still in paper, with no day written on the paper. The line stands alone. The chest is not opened. No second sum under the thimble.",
+  "narrative": "In the account book. The small book open at a fresh line. A silver thimble sits by the ink, still in paper, with no day written on the paper. In the account book. The line stands alone. The chest is not opened. No second sum under the thimble.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Wrote the one line, and did not open the chest."
+    },
+    {
+      "type": "Tool",
+      "name": "ledger",
+      "role": "mentioned",
+      "context": "Shown on ledger in Two shillings and sixpence, and no name"
     }
   ]
 }

@@ -1,0 +1,41 @@
+{
+  "narrative": "In the glass. Shakespeare looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Asked for the list twice, asked about the porch, and named a fortnight."
+    },
+    {
+      "type": "Person",
+      "name": "Gilbert Shakespeare",
+      "role": "attendee",
+      "context": "Read the ticket, called it near five pound, and did not ask to be paid."
+    },
+    {
+      "type": "Tool",
+      "name": "41s, the other baker",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Shakespeare"
+    },
+    {
+      "type": "Tool",
+      "name": "44s 6d, the shoemaker",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Shakespeare"
+    },
+    {
+      "type": "Tool",
+      "name": "14s 6d, the whittawer",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Shakespeare"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Shakespeare"
+    }
+  ]
+}

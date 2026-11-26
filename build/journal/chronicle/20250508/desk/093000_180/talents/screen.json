@@ -1,11 +1,17 @@
 {
-  "narrative": "A narrow roll under the right thumb. The cue sits in the margin. The foot of the roll is the part's own cue, and no second speech.",
+  "narrative": "On the part. A narrow roll under the right thumb. The cue sits in the margin. On the part. The foot of the roll is the part's own cue, and no second speech.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Held the part, and did not transcribe it."
+    },
+    {
+      "type": "Tool",
+      "name": "part",
+      "role": "mentioned",
+      "context": "Shown on part in Cue, my lord"
     }
   ]
 }

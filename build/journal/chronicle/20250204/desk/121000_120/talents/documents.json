@@ -1,0 +1,73 @@
+{
+  "overview": "John called from the mercer's in Cheapside. The Princess's gown is watchet taffeta and copper lace that will pass for gold at ten paces. The mercer named fifty shillings and will take half down. The stock has eleven shillings in it till Saturday. You asked whether France could be poorer. John said not when the King of Navarre goes in his own old velvet. You took the fifty on credit against the Queen's twenty pounds, whenever that comes. The half was not paid. Nothing came from your purse, and nothing came out of the stock today. Nick was beside John, being measured. The sleeves must be long, because he has grown. You said God keep you both.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Asked whether France could be poorer, refused the half down, and bade God keep them both."
+    },
+    {
+      "name": "John Heminges",
+      "role": "attendee",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Called from Cheapside, named the fifty and the eleven, and took the credit."
+    },
+    {
+      "name": "Nick Sorrell",
+      "role": "mentioned",
+      "formal_term": "Nick Sorrell",
+      "appointment_tier": "not_applicable",
+      "context": "Stood to be measured and sent word that the sleeves must be long. He was not on your end of the call."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "watchet taffeta",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "fifty shillings",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "eleven shillings",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the long sleeves",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Princess's gown",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Heminges"
+    },
+    {
+      "name": "the Queen's twenty pounds",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Heminges"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Heminges"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-02-04",
+      "meaning": "In the glass with Heminges"
+    }
+  ],
+  "summary": "Spoke in the glass with Heminges"
+}

@@ -1,3 +1,3 @@
-{"backend": "whisper", "duration": 4.83, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
-{"sentence_id": 1, "speaker": "william_shakespeare", "start": "01:00:00", "text": "I'll not write better this year.", "timing": {"end": 2.08, "start": 0.0}}
-{"sentence_id": 2, "speaker": "william_shakespeare", "start": "01:00:02", "text": "Don't say that. Sleep.", "timing": {"end": 4.24, "start": 2.08}}
+{"backend": "whisper", "duration": 60.0, "model": "large-v3", "observer": "memos", "raw": "audio.flac"}
+{"sentence_id": 1, "speaker": "william_shakespeare", "start": "01:00:00", "text": "I'll not write better this year.", "timing": {"end": 8.0, "start": 0.0}}
+{"sentence_id": 2, "speaker": "william_shakespeare", "start": "01:00:08", "text": "Don't say that. Sleep.", "timing": {"end": 18.0, "start": 8.0}}

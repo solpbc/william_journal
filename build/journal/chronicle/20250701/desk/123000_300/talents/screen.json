@@ -1,5 +1,5 @@
 {
-  "narrative": "One sheet on the board, your hand at the foot of it, the horn set by and not newly filled. The last line is the date. Nothing on the sheet answers a question from April.",
+  "narrative": "The letter, open. One sheet on the board, your hand at the foot of it, the horn set by and not newly filled. The last line is the date. Nothing on the sheet answers a question from April.",
   "entities": [
     {
       "type": "Person",
@@ -12,6 +12,12 @@
       "name": "Anne Shakespeare",
       "role": "mentioned",
       "context": "Is the person addressed, and is not sent this sheet."
+    },
+    {
+      "type": "Tool",
+      "name": "letter",
+      "role": "mentioned",
+      "context": "Shown on letter in No day in it"
     }
   ]
 }

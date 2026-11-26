@@ -1,5 +1,5 @@
 {
-  "narrative": "Anne's letter, open in the yard, the pack already corded beside his boot. His Christmas letter is inside the pack and is not unfolded. He has a thumb on her last line. He does not cut the cord. The Sunday letter stays where Hobbins put it. The margin of her sheet gets no answer about a sword, a porch, or two faults. He has read it again. The laugh is still only in the shoulders. He folds her sheet once and puts it inside his book, not into the pack.",
+  "narrative": "The letter, open. Anne's letter, open in the yard, the pack already corded beside his boot. His Christmas letter is inside the pack and is not unfolded. He has a thumb on her last line. The letter, open. He does not cut the cord. The Sunday letter stays where Hobbins put it. The margin of her sheet gets no answer about a sword, a porch, or two faults. The letter, open. He has read it again. The laugh is still only in the shoulders. He folds her sheet once and puts it inside his book, not into the pack.",
   "entities": [
     {
       "type": "Person",
@@ -12,6 +12,12 @@
       "name": "Anne Shakespeare",
       "role": "mentioned",
       "context": "Her sentence was on the sheet. She was not in the yard."
+    },
+    {
+      "type": "Tool",
+      "name": "letter",
+      "role": "mentioned",
+      "context": "Shown on letter in Getting cheaper"
     }
   ]
 }

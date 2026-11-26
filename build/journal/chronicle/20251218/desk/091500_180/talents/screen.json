@@ -1,5 +1,5 @@
 {
-  "narrative": "The plot on its peg in the tiring-house, the morning's order already pricked. He does not move a pin. The boy's name is on the plot where it was yesterday. He checks the bottom of the sheet for a fresh entrance and does not write one. The peg takes the plot back.",
+  "narrative": "On the plot. The plot on its peg in the tiring-house, the morning's order already pricked. He does not move a pin. The boy's name is on the plot where it was yesterday. On the plot. He checks the bottom of the sheet for a fresh entrance and does not write one. The peg takes the plot back.",
   "entities": [
     {
       "type": "Person",
@@ -12,6 +12,12 @@
       "name": "Nick Sorrell",
       "role": "mentioned",
       "context": "Named on the plot, and not given a higher note."
+    },
+    {
+      "type": "Tool",
+      "name": "plot",
+      "role": "mentioned",
+      "context": "Shown on plot in The same note"
     }
   ]
 }

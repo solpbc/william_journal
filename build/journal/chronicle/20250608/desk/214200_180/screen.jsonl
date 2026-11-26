@@ -1,4 +1,4 @@
 {"observer": "desk", "qualified_count": 3, "raw": "screen.mp4"}
-{"analysis": {"primary": "writing", "visual_description": "The almanac open at the day, a small cross beside it, the rest of the line blank. No face."}, "content": {}, "frame_id": 1, "timestamp": 0.0}
-{"analysis": {"primary": "writing", "visual_description": "The cross is the only mark. No name is on the page, and no place, and no account of the hour."}, "content": {}, "frame_id": 2, "timestamp": 70.0}
-{"analysis": {"primary": "writing", "visual_description": "The almanac closed on the blotter. The pen is set down. The cross is not added to."}, "content": {}, "frame_id": 3, "timestamp": 120.0}
+{"analysis": {"primary": "writing", "visual_description": "On the almanack. The almanac open at the day, a small cross beside it, the rest of the line blank."}, "content": {}, "frame_id": 1, "raw": "screenshot_screen.jpg", "timestamp": 0.0}
+{"analysis": {"primary": "writing", "visual_description": "On the almanack. The cross is the only mark. No name is on the page, and no place, and no account of the hour."}, "content": {}, "frame_id": 2, "timestamp": 70.0}
+{"analysis": {"primary": "writing", "visual_description": "On the almanack. The almanac closed on the blotter. The pen is set down. The cross is not added to."}, "content": {}, "frame_id": 3, "timestamp": 120.0}

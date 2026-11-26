@@ -1,0 +1,47 @@
+{
+  "narrative": "In the glass. Field looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "context": "Named himself and the shop, let the cat stand, set the dinner, and asked for the comedy."
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Kept the chronicle, promised the comedy, and matched his goodbye."
+    },
+    {
+      "type": "Person",
+      "name": "Jacqueline Field",
+      "role": "mentioned",
+      "context": "Was named as the one with the hen, and was not on the call."
+    },
+    {
+      "type": "Person",
+      "name": "Gib",
+      "role": "mentioned",
+      "context": "Was the reader of the second volume, and was not present."
+    },
+    {
+      "type": "Project",
+      "name": "the Holinshed",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Field"
+    },
+    {
+      "type": "Project",
+      "name": "Love's Labour's Lost",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Field"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Field"
+    }
+  ]
+}

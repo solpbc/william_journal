@@ -1,0 +1,66 @@
+{
+  "overview": "Burbage called from Holywell, and named himself and the place. The marshal's men are off the gates. The Rose opens Monday, and so does the company, the same afternoon, and the town may choose. He wanted every leaf of Verona tonight. You said Sunday, after church, and when he asked what orchard you said Sunday again. He has had the king's roll five days and worn a hole where the crown goes. Garnish will not write him another. You told him to con it by the hole. You did not describe a yard, a heaven, or a coat of paint.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Named Sunday, and would not unpack the leaves tonight."
+    },
+    {
+      "name": "Richard Burbage",
+      "role": "attendee",
+      "formal_term": "Richard Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Brought the gates, the Monday opening, the hunger for Verona, and the hole."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Monday both houses",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Verona on Sunday",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the hole in the king's roll",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the king's roll",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Burbage"
+    },
+    {
+      "name": "the Rose",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Burbage"
+    },
+    {
+      "name": "Verona",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Burbage"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Burbage"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-08-22",
+      "meaning": "In the glass with Burbage"
+    }
+  ],
+  "summary": "Spoke in the glass with Burbage"
+}

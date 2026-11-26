@@ -4,10 +4,9 @@
 {"day": "20250501", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "063200_0", "stream": "import.image", "ts": 1746140100010}
 {"change_class": "substantive", "day": "20250501", "event": "sense.change_detect", "mode": "segment", "segment": "063200_0", "stream": "import.image", "ts": 1746140100011}
 {"day": "20250501", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "063200_0", "stream": "import.image", "ts": 1746140100012}
-{"day": "20250501", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "063800_120", "stream": "desk", "ts": 1746140100020}
-{"change_class": "substantive", "day": "20250501", "event": "sense.change_detect", "mode": "segment", "segment": "063800_120", "stream": "desk", "ts": 1746140100021}
-{"day": "20250501", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "063800_120", "stream": "desk", "ts": 1746140100022}
-{"day": "20250501", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "063800_120", "stream": "desk", "ts": 1746140100023}
+{"day": "20250501", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "063800_0", "stream": "import.image", "ts": 1746140100020}
+{"change_class": "substantive", "day": "20250501", "event": "sense.change_detect", "mode": "segment", "segment": "063800_0", "stream": "import.image", "ts": 1746140100021}
+{"day": "20250501", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "063800_0", "stream": "import.image", "ts": 1746140100022}
 {"day": "20250501", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "064400_0", "stream": "import.image", "ts": 1746140100030}
 {"change_class": "substantive", "day": "20250501", "event": "sense.change_detect", "mode": "segment", "segment": "064400_0", "stream": "import.image", "ts": 1746140100031}
 {"day": "20250501", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "064400_0", "stream": "import.image", "ts": 1746140100032}

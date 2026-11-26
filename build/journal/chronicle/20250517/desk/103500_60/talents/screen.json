@@ -1,11 +1,17 @@
 {
-  "narrative": "The stallman's elbow has moved him aside. A coin on the board. The thin book going into the doublet. His mouth is shut.",
+  "narrative": "On the bookwheel. The stallman's elbow has moved him aside. A coin on the board. The thin book going into the doublet. His mouth is shut.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Paid, and did not speak."
+    },
+    {
+      "type": "Tool",
+      "name": "book",
+      "role": "mentioned",
+      "context": "Shown on book in Sixpence, and no word"
     }
   ]
 }

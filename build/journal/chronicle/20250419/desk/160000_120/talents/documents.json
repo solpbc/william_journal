@@ -1,0 +1,82 @@
+{
+  "overview": "Heminges called from Aldermanbury with a house full of boys. Sam had a cold and was being kept dumb by the fire with honey. Arthur was learning the owl too well, as if it were a judgment. You said the owl may be a judgment and the cuckoo cannot. You agreed: Sam if he can, Arthur if he must, and no word to Sam. Asked whether the king goes forward, you said he is talking. He wished you Easter joy.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Answered the owl, agreed the order, and said the king is talking."
+    },
+    {
+      "name": "John Heminges",
+      "role": "attendee",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Called from Aldermanbury, reported the boys, and asked after the king."
+    },
+    {
+      "name": "Sam Latchet",
+      "role": "mentioned",
+      "formal_term": "Sam Latchet",
+      "appointment_tier": "not_applicable",
+      "context": "Mentioned. He was by the fire, dumb, and not told."
+    },
+    {
+      "name": "Arthur Meeks",
+      "role": "mentioned",
+      "formal_term": "Arthur Meeks",
+      "appointment_tier": "not_applicable",
+      "context": "Mentioned. He was learning the owl too well, and not on the call."
+    },
+    {
+      "name": "Augustine Phillips",
+      "role": "mentioned",
+      "formal_term": "Augustine Phillips",
+      "appointment_tier": "not_applicable",
+      "context": "Mentioned. He had Sam by the fire with honey."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the croak",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the owl as a judgment",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no word to Sam",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the king talking",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Heminges"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Heminges"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-19",
+      "meaning": "In the glass with Heminges"
+    }
+  ],
+  "summary": "Spoke in the glass with Heminges"
+}

@@ -4,10 +4,9 @@
 {"day": "20250214", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "140500_0", "stream": "import.image", "ts": 1739577300010}
 {"change_class": "substantive", "day": "20250214", "event": "sense.change_detect", "mode": "segment", "segment": "140500_0", "stream": "import.image", "ts": 1739577300011}
 {"day": "20250214", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "140500_0", "stream": "import.image", "ts": 1739577300012}
-{"day": "20250214", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "143500_360", "stream": "desk", "ts": 1739577300020}
-{"change_class": "substantive", "day": "20250214", "event": "sense.change_detect", "mode": "segment", "segment": "143500_360", "stream": "desk", "ts": 1739577300021}
-{"day": "20250214", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "143500_360", "stream": "desk", "ts": 1739577300022}
-{"day": "20250214", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "143500_360", "stream": "desk", "ts": 1739577300023}
+{"day": "20250214", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "143500_0", "stream": "import.image", "ts": 1739577300020}
+{"change_class": "substantive", "day": "20250214", "event": "sense.change_detect", "mode": "segment", "segment": "143500_0", "stream": "import.image", "ts": 1739577300021}
+{"day": "20250214", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "143500_0", "stream": "import.image", "ts": 1739577300022}
 {"day": "20250214", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "154000_0", "stream": "import.image", "ts": 1739577300030}
 {"change_class": "substantive", "day": "20250214", "event": "sense.change_detect", "mode": "segment", "segment": "154000_0", "stream": "import.image", "ts": 1739577300031}
 {"day": "20250214", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "154000_0", "stream": "import.image", "ts": 1739577300032}

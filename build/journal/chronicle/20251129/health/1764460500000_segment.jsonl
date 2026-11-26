@@ -1,10 +1,9 @@
 {"day": "20251129", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "083000_240", "stream": "talk", "ts": 1764460500000}
 {"change_class": "substantive", "day": "20251129", "event": "sense.change_detect", "mode": "segment", "segment": "083000_240", "stream": "talk", "ts": 1764460500001}
 {"day": "20251129", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "083000_240", "stream": "talk", "ts": 1764460500002}
-{"day": "20251129", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "140500_120", "stream": "desk", "ts": 1764460500010}
-{"change_class": "substantive", "day": "20251129", "event": "sense.change_detect", "mode": "segment", "segment": "140500_120", "stream": "desk", "ts": 1764460500011}
-{"day": "20251129", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "140500_120", "stream": "desk", "ts": 1764460500012}
-{"day": "20251129", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "140500_120", "stream": "desk", "ts": 1764460500013}
+{"day": "20251129", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "140500_0", "stream": "import.image", "ts": 1764460500010}
+{"change_class": "substantive", "day": "20251129", "event": "sense.change_detect", "mode": "segment", "segment": "140500_0", "stream": "import.image", "ts": 1764460500011}
+{"day": "20251129", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "140500_0", "stream": "import.image", "ts": 1764460500012}
 {"day": "20251129", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "165000_720", "stream": "talk", "ts": 1764460500020}
 {"change_class": "substantive", "day": "20251129", "event": "sense.change_detect", "mode": "segment", "segment": "165000_720", "stream": "talk", "ts": 1764460500021}
 {"day": "20251129", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "165000_720", "stream": "talk", "ts": 1764460500022}

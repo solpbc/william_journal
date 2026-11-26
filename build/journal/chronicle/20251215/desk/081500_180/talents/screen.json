@@ -1,11 +1,17 @@
 {
-  "narrative": "Morning light on the table. The Christmas letter is where he left it, folded once and not sealed. The ink horn holds one corner. He does not take up the pen. He reads the close and does not write a postscript. The coffer stays shut. He puts the sheet inside his book so the stair will not take it, still unsealed.",
+  "narrative": "The letter, open. Morning light on the table. The Christmas letter is where he left it, folded once and not sealed. The ink horn holds one corner. He does not take up the pen. The letter, open. He reads the close and does not write a postscript. The coffer stays shut. He puts the sheet inside his book so the stair will not take it, still unsealed.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Put the open letter away without adding to it."
+    },
+    {
+      "type": "Tool",
+      "name": "letter",
+      "role": "mentioned",
+      "context": "Shown on letter in Still open"
     }
   ]
 }

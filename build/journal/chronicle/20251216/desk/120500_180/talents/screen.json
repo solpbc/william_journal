@@ -1,11 +1,17 @@
 {
-  "narrative": "The writing-tables, open on a bench under the window of the long room. One line, in his hand, smaller than the speeches. The chair at the end of the room is empty. He does not add a flourish. He looks at the blank under the line and leaves it blank. No title of a king. No count of lines. He shuts the tables.",
+  "narrative": "On the tables. The writing-tables, open on a bench under the window of the long room. One line, in his hand, smaller than the speeches. The chair at the end of the room is empty. He does not add a flourish. On the tables. He looks at the blank under the line and leaves it blank. No title of a king. No count of lines. He shuts the tables.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Wrote the line and did not annotate it."
+    },
+    {
+      "type": "Tool",
+      "name": "tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Nine, after supper"
     }
   ]
 }

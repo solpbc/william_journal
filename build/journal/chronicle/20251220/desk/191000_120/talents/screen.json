@@ -1,11 +1,17 @@
 {
-  "narrative": "The penny almanac, open at the day. The new moon is printed in the margin of the date and nowhere else. He does not write an hour beside it. The book of accounts stays shut. He does not carry the moon down into a money column. The leaf below is the one he left open at the Theatre, and he does not rule it now.",
+  "narrative": "On the almanack. The penny almanac, open at the day. The new moon is printed in the margin of the date and nowhere else. He does not write an hour beside it. The book of accounts stays shut. On the almanack. He does not carry the moon down into a money column. The leaf below is the one he left open at the Theatre, and he does not rule it now.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Read the moon and did not annotate it."
+    },
+    {
+      "type": "Tool",
+      "name": "almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in No hour on it"
     }
   ]
 }

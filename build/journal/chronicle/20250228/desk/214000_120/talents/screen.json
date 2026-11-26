@@ -1,11 +1,17 @@
 {
-  "narrative": "The almanac open at the day, one candle, a small cross in the margin. No name beside it. The night's leaf is not on this page. No face. Blank paper under the mark. The pen is set down.",
+  "narrative": "On the almanack. The almanac open at the day, one candle, a small cross in the margin. No name beside it. The night's leaf is not on this page. On the almanack. Blank paper under the mark. The pen is set down.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Set a small cross in the margin and left the rest of the page empty."
+    },
+    {
+      "type": "Tool",
+      "name": "almanac",
+      "role": "mentioned",
+      "context": "Shown on almanac in A cross, and no word"
     }
   ]
 }

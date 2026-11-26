@@ -1,0 +1,66 @@
+{
+  "overview": "Richard Quiney spoke from the Bell. He is hopeful. The town's paper is before those who can grant it, and he looks for an answer on Monday. Supper is Monday at six at the Bell. He will stand the wine if the answer is yes, and you if it is no. He asked for fellows with a charitable purse. You said players' purses are charitable to tapsters and to nobody else. He told you to come alone and bring your own. You did not ask him for money, and you did not pay the brief.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Named the tapsters, refused the fellows, and set Monday at six."
+    },
+    {
+      "name": "Richard Quiney",
+      "role": "attendee",
+      "formal_term": "Richard Quiney",
+      "appointment_tier": "not_applicable",
+      "context": "Named the Bell, set the supper, and stood the wine on a yes."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Monday at six",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the wine",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no charitable purse",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nothing paid",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Bell",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Quiney"
+    },
+    {
+      "name": "the town's paper",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Quiney"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Quiney"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-22",
+      "meaning": "In the glass with Quiney"
+    }
+  ],
+  "summary": "Spoke in the glass with Quiney"
+}

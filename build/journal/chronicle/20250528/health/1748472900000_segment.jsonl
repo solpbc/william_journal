@@ -14,3 +14,7 @@
 {"day": "20250528", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "191000_360", "stream": "obsidian", "ts": 1748472900040}
 {"change_class": "substantive", "day": "20250528", "event": "sense.change_detect", "mode": "segment", "segment": "191000_360", "stream": "obsidian", "ts": 1748472900041}
 {"day": "20250528", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "191000_360", "stream": "obsidian", "ts": 1748472900042}
+{"day": "20250528", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "191000_120", "stream": "desk", "ts": 1748472900050}
+{"change_class": "substantive", "day": "20250528", "event": "sense.change_detect", "mode": "segment", "segment": "191000_120", "stream": "desk", "ts": 1748472900051}
+{"day": "20250528", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "191000_120", "stream": "desk", "ts": 1748472900052}
+{"day": "20250528", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "191000_120", "stream": "desk", "ts": 1748472900053}

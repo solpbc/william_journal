@@ -1,0 +1,23 @@
+{
+  "narrative": "In the glass. Shakespeare looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Gilbert Shakespeare",
+      "role": "attendee",
+      "context": "Named himself and St Bride's, brought the Stratford news, and named the twenty-sixth."
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Said you eat, agreed to fetch, and admitted you had forgot the day."
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Shakespeare"
+    }
+  ]
+}

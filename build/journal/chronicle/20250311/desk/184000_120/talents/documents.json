@@ -1,0 +1,76 @@
+{
+  "overview": "Gilbert called from St Bride's with the shop shut, speaking for nothing. Richard is twenty-one and neither of you has sent. He read three shops twice: the other baker forty-one shillings, the shoemaker forty-four and six, the whittawer fourteen and six. He called it near five pound and did not ask you to pay. You asked which baker stands at the church porch. He did not know. You said you are for home in a fortnight.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Asked for the list twice, asked about the porch, and named a fortnight."
+    },
+    {
+      "name": "Gilbert Shakespeare",
+      "role": "caller",
+      "formal_term": "Gilbert Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Read the ticket, called it near five pound, and did not ask to be paid."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Richard's birthday",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "three shops",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "near five pound",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the church-porch baker",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a fortnight",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "41s, the other baker",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Shakespeare"
+    },
+    {
+      "name": "44s 6d, the shoemaker",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Shakespeare"
+    },
+    {
+      "name": "14s 6d, the whittawer",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Shakespeare"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Shakespeare"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-03-11",
+      "meaning": "In the glass with Shakespeare"
+    }
+  ],
+  "summary": "Spoke in the glass with Shakespeare"
+}

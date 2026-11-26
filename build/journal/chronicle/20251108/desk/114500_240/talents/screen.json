@@ -1,5 +1,5 @@
 {
-  "narrative": "The commonplace book open at the March page, a short note of a link-boy in a doorway. The pen is not on the line. No face.",
+  "narrative": "In the commonplace book. The commonplace book open at the March page, a short note of a link-boy in a doorway. The pen is not on the line.",
   "entities": [
     {
       "type": "Person",
@@ -11,7 +11,7 @@
       "type": "Project",
       "name": "the lovers' play",
       "role": "mentioned",
-      "context": "Shown on book in The March slip"
+      "context": "Shown on commonplace in The March slip"
     }
   ]
 }

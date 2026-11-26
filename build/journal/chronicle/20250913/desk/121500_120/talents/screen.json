@@ -1,0 +1,35 @@
+{
+  "narrative": "In the glass. Burbage looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Asked about James, and said nothing further until after the play."
+    },
+    {
+      "type": "Person",
+      "name": "Cuthbert Burbage",
+      "role": "attendee",
+      "context": "Named himself and Cheapside, gave the hearsay, and said he would come by five."
+    },
+    {
+      "type": "Person",
+      "name": "James Burbage",
+      "role": "mentioned",
+      "context": "Not told yet. Cuthbert would rather he heard it after he had eaten."
+    },
+    {
+      "type": "Project",
+      "name": "the Bankside",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Burbage"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Burbage"
+    }
+  ]
+}

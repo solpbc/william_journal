@@ -558,7 +558,7 @@ def test_desk_page_is_installed_and_preserved_on_reconvert(
     journal = tmp_path / "journal"
     segment = journal / "chronicle" / day.day_key / frame.stream_name / frame.segment_key
     extract = segment / "screen.jsonl"
-    jpeg_path = segment / "page_screen.jpg"
+    jpeg_path = segment / converter.PAGE_JPEG
 
     def convert() -> list[str]:
         converter.convert_content_to_journal(FIXTURES_DIR, journal, SOLSTONE_REPO)
@@ -972,11 +972,10 @@ def test_committed_tree_checkout_mtime_and_read_back() -> None:
     assert report["year_backdrop_check"]["body_days_verified"] == 365
     assert report["year_backdrop_check"]["placed_location_days_verified"] == 365
     assert report["year_backdrop_check"]["river_ban_violations"] == 0
-    # Measured 2026-11-21 by read_back.py on the full-year tree with the 18
-    # contextual imported segments installed (tools/imports.py):
-    # 20290 prior + 15 non-transcript imports x 8 talents files + 3 transcript
-    # imports x 9 talents files (adds speakers.json) = 20437.
-    assert report["talents_files_verified_unchanged"] == 20437
+    # Measured 2026-11-25 by read_back.py on the full-year tree after the
+    # desk-frame pass, with imports.py and lived_in.py reinstalled.
+    # talents files on disk: 20739, and the report's unchanged count matched.
+    assert report["talents_files_verified_unchanged"] == 20739
     assert report["william_speaker_labels_verified"] == 796
     assert report["search_hits_twenty_pound"] >= 1
     assert report["search_hits_whitehall"] >= 1
@@ -984,7 +983,9 @@ def test_committed_tree_checkout_mtime_and_read_back() -> None:
     assert cov["import.text"] == {"stored": 10, "indexed": 10}
     assert cov["import.document"] == {"stored": 3, "indexed": 3}
     assert cov["import.evernote"] == {"stored": 2, "indexed": 2}
-    assert cov["import.image"] == {"stored": 186, "indexed": 186}
+    # 183 year photos + 54 desk frames that are now photos + 3 import
+    # screenshots = 240. Measured 2026-11-25, stored and indexed.
+    assert cov["import.image"] == {"stored": 240, "indexed": 240}
 
 
 # --- Continuing an activity (FORMAT.md, "continues:") -------------------------

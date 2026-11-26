@@ -1,0 +1,75 @@
+{
+  "overview": "Kettleby called from Somerset House, back from Nonsuch since Sunday. The sense of my lord's answer is play on. No letter has gone to any justice. If a justice of Middlesex comes, he is to be sent on. Heminges told you to ask if it was in writing. Nothing my lord says is in writing. The paint of Titus was still red on three of the hired men. You had not come off that stage.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Asked if it was in writing, and kept the horse in the answer."
+    },
+    {
+      "name": "Ambrose Kettleby",
+      "role": "attendee",
+      "formal_term": "Ambrose Kettleby",
+      "appointment_tier": "not_applicable",
+      "context": "Named himself and Somerset House, gave the sense, and would not give a writing."
+    },
+    {
+      "name": "John Heminges",
+      "role": "attendee",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "At your ear. Told you to ask."
+    },
+    {
+      "name": "William Blackwage, Ralph Raye, Richard Hoope",
+      "role": "visible",
+      "formal_term": "William Blackwage, Ralph Raye, Richard Hoope",
+      "appointment_tier": "not_applicable",
+      "context": "Three of them still red from Titus. They did not speak."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "play on",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "nothing in writing",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "six weeks",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the paint",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "six weeks",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Kettleby"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Kettleby"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-16",
+      "meaning": "In the glass with Kettleby"
+    }
+  ],
+  "summary": "Spoke in the glass with Kettleby"
+}

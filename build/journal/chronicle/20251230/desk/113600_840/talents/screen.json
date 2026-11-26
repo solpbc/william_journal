@@ -1,11 +1,17 @@
 {
-  "narrative": "The pile, the letter, the shut Chaucer. The pen is in the rest. No new line anywhere. The desk from a step away. Everything is as it was at the last look. The cloak is still on the peg. The chamber door, from inside, opening onto the stair. The desk is behind. The sheet on it is not in the hand.",
+  "narrative": "On the board. The pile, the letter, the shut Chaucer. The pen is in the rest. No new line anywhere. On the board. The desk from a step away. Everything is as it was at the last look. The cloak is still on the peg. On the board. The chamber door, from inside, opening onto the stair. The desk is behind. The sheet on it is not in the hand.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Visible/present in Left the desk and went down to dinner"
+    },
+    {
+      "type": "Tool",
+      "name": "draft",
+      "role": "mentioned",
+      "context": "Shown on draft in Left the desk and went down to dinner"
     }
   ]
 }

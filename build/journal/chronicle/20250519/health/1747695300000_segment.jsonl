@@ -5,10 +5,9 @@
 {"day": "20250519", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "121000_720", "stream": "talk", "ts": 1747695300010}
 {"change_class": "substantive", "day": "20250519", "event": "sense.change_detect", "mode": "segment", "segment": "121000_720", "stream": "talk", "ts": 1747695300011}
 {"day": "20250519", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "121000_720", "stream": "talk", "ts": 1747695300012}
-{"day": "20250519", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "141000_480", "stream": "desk", "ts": 1747695300020}
-{"change_class": "substantive", "day": "20250519", "event": "sense.change_detect", "mode": "segment", "segment": "141000_480", "stream": "desk", "ts": 1747695300021}
-{"day": "20250519", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "141000_480", "stream": "desk", "ts": 1747695300022}
-{"day": "20250519", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "141000_480", "stream": "desk", "ts": 1747695300023}
+{"day": "20250519", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "141000_0", "stream": "import.image", "ts": 1747695300020}
+{"change_class": "substantive", "day": "20250519", "event": "sense.change_detect", "mode": "segment", "segment": "141000_0", "stream": "import.image", "ts": 1747695300021}
+{"day": "20250519", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "141000_0", "stream": "import.image", "ts": 1747695300022}
 {"day": "20250519", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "152500_360", "stream": "talk", "ts": 1747695300030}
 {"change_class": "substantive", "day": "20250519", "event": "sense.change_detect", "mode": "segment", "segment": "152500_360", "stream": "talk", "ts": 1747695300031}
 {"day": "20250519", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "152500_360", "stream": "talk", "ts": 1747695300032}

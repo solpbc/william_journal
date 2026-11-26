@@ -1,7 +1,6 @@
-{"day": "20250930", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "081500_240", "stream": "desk", "ts": 1759272900000}
-{"change_class": "substantive", "day": "20250930", "event": "sense.change_detect", "mode": "segment", "segment": "081500_240", "stream": "desk", "ts": 1759272900001}
-{"day": "20250930", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "081500_240", "stream": "desk", "ts": 1759272900002}
-{"day": "20250930", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "081500_240", "stream": "desk", "ts": 1759272900003}
+{"day": "20250930", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "081500_0", "stream": "import.image", "ts": 1759272900000}
+{"change_class": "substantive", "day": "20250930", "event": "sense.change_detect", "mode": "segment", "segment": "081500_0", "stream": "import.image", "ts": 1759272900001}
+{"day": "20250930", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "081500_0", "stream": "import.image", "ts": 1759272900002}
 {"day": "20250930", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "082000_180", "stream": "talk", "ts": 1759272900010}
 {"change_class": "substantive", "day": "20250930", "event": "sense.change_detect", "mode": "segment", "segment": "082000_180", "stream": "talk", "ts": 1759272900011}
 {"day": "20250930", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "082000_180", "stream": "talk", "ts": 1759272900012}

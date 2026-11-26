@@ -9,10 +9,9 @@
 {"change_class": "substantive", "day": "20250508", "event": "sense.change_detect", "mode": "segment", "segment": "093000_180", "stream": "desk", "ts": 1746744900021}
 {"day": "20250508", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "093000_180", "stream": "desk", "ts": 1746744900022}
 {"day": "20250508", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "093000_180", "stream": "desk", "ts": 1746744900023}
-{"day": "20250508", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "164500_240", "stream": "desk", "ts": 1746744900030}
-{"change_class": "substantive", "day": "20250508", "event": "sense.change_detect", "mode": "segment", "segment": "164500_240", "stream": "desk", "ts": 1746744900031}
-{"day": "20250508", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "164500_240", "stream": "desk", "ts": 1746744900032}
-{"day": "20250508", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "164500_240", "stream": "desk", "ts": 1746744900033}
+{"day": "20250508", "density": "active", "event": "sense.complete", "mode": "segment", "segment": "164500_0", "stream": "import.image", "ts": 1746744900030}
+{"change_class": "substantive", "day": "20250508", "event": "sense.change_detect", "mode": "segment", "segment": "164500_0", "stream": "import.image", "ts": 1746744900031}
+{"day": "20250508", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "164500_0", "stream": "import.image", "ts": 1746744900032}
 {"day": "20250508", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "170500_0", "stream": "import.image", "ts": 1746744900040}
 {"change_class": "substantive", "day": "20250508", "event": "sense.change_detect", "mode": "segment", "segment": "170500_0", "stream": "import.image", "ts": 1746744900041}
 {"day": "20250508", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "170500_0", "stream": "import.image", "ts": 1746744900042}

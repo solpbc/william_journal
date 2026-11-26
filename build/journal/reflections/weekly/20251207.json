@@ -55,7 +55,7 @@
         "refs": [
           "sol://facets/household/activities/20251207#meeting_074500_600",
           "sol://facets/company/activities/20251207#call_150000_180",
-          "sol://facets/company/activities/20251207#meeting_152000_120"
+          "sol://facets/company/activities/20251207#frame_150000_120"
         ]
       }
     },
@@ -103,7 +103,7 @@
         "refs": [
           "sol://facets/household/activities/20251210#meeting_123000_180",
           "sol://facets/company/activities/20251210#frame_140000_120",
-          "sol://facets/company/activities/20251210#frame_141200_360"
+          "sol://facets/company/activities/20251210#photo_141200_0"
         ]
       }
     },
@@ -134,8 +134,8 @@
         "briefing_day": "20251212",
         "refs": [
           "sol://facets/company/activities/20251212#call_081500_240",
-          "sol://facets/company/activities/20251212#frame_140000_120",
-          "sol://facets/company/activities/20251212#frame_141500_300"
+          "sol://facets/company/activities/20251212#frame_081500_120",
+          "sol://facets/company/activities/20251212#frame_140000_120"
         ]
       }
     },

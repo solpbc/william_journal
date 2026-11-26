@@ -1,0 +1,80 @@
+{
+  "overview": "Cuthbert Burbage called from Holywell. His father had walked the playhouse half the night with a lantern. Two hired men are to sleep in the tiring-house from tonight at sixpence each, and the yard gates are to be chained after the play. Cuthbert would have had the flag down on a trouble day, since a white swan is a thing to throw at. You said keep it up, because a house that hides looks guilty. He said that was his father's opinion. You said it was Heminges's first. He called it three to one.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Said the house should not hide, and named Heminges as the first of the three."
+    },
+    {
+      "name": "Cuthbert Burbage",
+      "role": "attendee",
+      "formal_term": "Cuthbert Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Called from Holywell, set the two men at sixpence and the chain after the play, and yielded on the flag."
+    },
+    {
+      "name": "James Burbage",
+      "role": "mentioned",
+      "formal_term": "James Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Walked the playhouse with a lantern. He was not on the call. His son reported him."
+    },
+    {
+      "name": "John Heminges",
+      "role": "mentioned",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Not on the call. You said the flag had been his opinion first."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the timber house",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "sixpence",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the flag",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "three to one",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Theatre",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Burbage"
+    },
+    {
+      "name": "sixpence",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Burbage"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Burbage"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-06-17",
+      "meaning": "In the glass with Burbage"
+    }
+  ],
+  "summary": "Spoke in the glass with Burbage"
+}

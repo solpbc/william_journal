@@ -1,0 +1,29 @@
+{
+  "narrative": "In the glass. Shakespeare looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Said he was coming, and did not get an answer about the house."
+    },
+    {
+      "type": "Person",
+      "name": "Gilbert Shakespeare",
+      "role": "mentioned",
+      "context": "Brought the yard's versions, and stopped before the commendation."
+    },
+    {
+      "type": "Project",
+      "name": "the Bell",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Shakespeare"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Shakespeare"
+    }
+  ]
+}

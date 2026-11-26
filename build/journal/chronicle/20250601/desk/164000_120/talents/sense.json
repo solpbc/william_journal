@@ -1,0 +1,52 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "You added the precept under Prices and did not measure the loaf again. You left the garden open. You left Saturday's parliament sheet blank. Susanna's letter is still on the chest.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Wrote the four short blocks and stopped.",
+      "level": "high"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Under Prices",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "Susanna's letter",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in Under Prices",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Wrote under Prices in the commonplace book",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Prices",
+    "the open garden",
+    "the blank parliament",
+    "Susanna's letter"
+  ],
+  "quotes": []
+}

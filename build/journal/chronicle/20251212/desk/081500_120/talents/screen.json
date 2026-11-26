@@ -1,0 +1,29 @@
+{
+  "narrative": "In the glass. Burbage looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Refused a price, described the neighbours, and did not make a verdict."
+    },
+    {
+      "type": "Person",
+      "name": "Cuthbert Burbage",
+      "role": "attendee",
+      "context": "Called before his father was up, prayed the fingers were shillings, and kept the sum unsaid."
+    },
+    {
+      "type": "Company",
+      "name": "the Blackfriars hall",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Burbage"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Burbage"
+    }
+  ]
+}

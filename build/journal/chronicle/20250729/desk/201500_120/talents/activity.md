@@ -1,0 +1,1 @@
+You wrote six words the constable had said, and under them the line that a constable keeps the peace by not understanding it. You also wrote the four words from the road, so you would not lose them before morning.

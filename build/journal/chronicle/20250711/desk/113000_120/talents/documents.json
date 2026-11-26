@@ -1,0 +1,61 @@
+{
+  "overview": "You asked Florio for a town. He gave you Verona with a warning about a sea-coast, then the river, the stone playing-place, the tombs in the street, Mantua a day off, and the swords in the heat. Of the earl he said only that he is with the court. He offered you a map. The earl did not speak.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Asked for the town, and asked after the earl."
+    },
+    {
+      "name": "John Florio",
+      "role": "attendee",
+      "formal_term": "John Florio",
+      "appointment_tier": "not_applicable",
+      "context": "Told the town, and stopped at the court."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Verona",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "tombs in the street",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the earl with the court",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Verona",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Florio"
+    },
+    {
+      "name": "Mantua",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Florio"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Florio"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-07-11",
+      "meaning": "In the glass with Florio"
+    }
+  ],
+  "summary": "Spoke in the glass with Florio"
+}

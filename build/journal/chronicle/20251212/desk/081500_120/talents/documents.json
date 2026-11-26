@@ -1,0 +1,66 @@
+{
+  "overview": "Cuthbert called from Holywell before his father was up. James had gone on Wednesday to a hall in the Blackfriars, the old friars' dining-room, stone, roofed, dry, and out of the Lord Mayor's reach. He came home walking like a man of thirty. He will not say what is asked. He holds up six fingers, and Cuthbert prays they are shillings. There is nothing to speak of. You did not name a price. He asked what manner of neighbours your printer keeps. You said respectable people, who like quiet, a sermon, and to be in bed by nine. He said you would be as welcome as a drum in Lent. You had not said so. You told him to tell his father that the king is at two, and to wear both cloaks.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Refused a price, described the neighbours, and did not make a verdict."
+    },
+    {
+      "name": "Cuthbert Burbage",
+      "role": "attendee",
+      "formal_term": "Cuthbert Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Called before his father was up, prayed the fingers were shillings, and kept the sum unsaid."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the hall",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "six fingers",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "no price",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "quiet neighbours",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "both cloaks",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Blackfriars hall",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Burbage"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Burbage"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-12",
+      "meaning": "In the glass with Burbage"
+    }
+  ],
+  "summary": "Spoke in the glass with Burbage"
+}

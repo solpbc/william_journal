@@ -13,3 +13,7 @@
 {"day": "20250729", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "201500_240", "stream": "obsidian", "ts": 1753829700040}
 {"change_class": "substantive", "day": "20250729", "event": "sense.change_detect", "mode": "segment", "segment": "201500_240", "stream": "obsidian", "ts": 1753829700041}
 {"day": "20250729", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "201500_240", "stream": "obsidian", "ts": 1753829700042}
+{"day": "20250729", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "201500_120", "stream": "desk", "ts": 1753829700050}
+{"change_class": "substantive", "day": "20250729", "event": "sense.change_detect", "mode": "segment", "segment": "201500_120", "stream": "desk", "ts": 1753829700051}
+{"day": "20250729", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "201500_120", "stream": "desk", "ts": 1753829700052}
+{"day": "20250729", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "201500_120", "stream": "desk", "ts": 1753829700053}

@@ -1,11 +1,17 @@
 {
-  "narrative": "One candle. The sheet lies flat, the ink still dark, no wafer and no thread through it. The coffer is shut. He does not lift the canvas where the private leaves are. His finger is on the last of Anne's paragraph. The line under it is blank. He does not write the kerchief, the sugar, the ballad, the holland, the book, the tune, or the thing for the yard. He sands the last line, folds the sheet once, and leaves the fold open on the table. The candle is pinched. He goes back to bed.",
+  "narrative": "The letter, open. One candle. The sheet lies flat, the ink still dark, no wafer and no thread through it. The coffer is shut. He does not lift the canvas where the private leaves are. The letter, open. His finger is on the last of Anne's paragraph. The line under it is blank. He does not write the kerchief, the sugar, the ballad, the holland, the book, the tune, or the thing for the yard. The letter, open. He sands the last line, folds the sheet once, and leaves the fold open on the table. The candle is pinched. He goes back to bed.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Left the letter open and went back to bed."
+    },
+    {
+      "type": "Tool",
+      "name": "letter",
+      "role": "mentioned",
+      "context": "Shown on letter in Not sealed"
     }
   ]
 }

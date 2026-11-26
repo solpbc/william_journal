@@ -1,11 +1,17 @@
 {
-  "narrative": "One candle. A fresh leaf, two lines only, no heading. The folder with Friday's fair copy and the two older leaves sits shut beside it. No face. The leaf is still flat on the desk. Under the two lines, a short order in the same hand. The pen is down. No face.",
+  "narrative": "On the board. One candle. A fresh leaf, two lines only, no heading. The folder with Friday's fair copy and the two older leaves sits shut beside it. On the board. The leaf is still flat on the desk. Under the two lines, a short order in the same hand. The pen is down.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Wrote the two lines, named nobody, and stopped."
+    },
+    {
+      "type": "Tool",
+      "name": "draft",
+      "role": "mentioned",
+      "context": "Shown on draft in No name on the leaf"
     }
   ]
 }

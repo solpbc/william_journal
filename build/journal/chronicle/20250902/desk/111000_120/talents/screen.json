@@ -1,0 +1,41 @@
+{
+  "narrative": "In the glass. Kettleby looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Gave Thursday the second of October, and answered for Middlesex."
+    },
+    {
+      "type": "Person",
+      "name": "Ambrose Kettleby",
+      "role": "attendee",
+      "context": "Brought the linen-errand, the unlooked-for visit, and the gout, and wrote the day down."
+    },
+    {
+      "type": "Person",
+      "name": "Henry Carey, 1st Lord Hunsdon",
+      "role": "mentioned",
+      "context": "Is the lord in Surrey. He is not on the call."
+    },
+    {
+      "type": "Project",
+      "name": "Somerset House",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Kettleby"
+    },
+    {
+      "type": "Tool",
+      "name": "the second of October",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Kettleby"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Kettleby"
+    }
+  ]
+}

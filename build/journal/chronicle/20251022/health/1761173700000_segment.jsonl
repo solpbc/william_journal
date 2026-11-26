@@ -105,10 +105,9 @@
 {"day": "20251022", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "101600_840", "stream": "talk", "ts": 1761173700310}
 {"change_class": "substantive", "day": "20251022", "event": "sense.change_detect", "mode": "segment", "segment": "101600_840", "stream": "talk", "ts": 1761173700311}
 {"day": "20251022", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "101600_840", "stream": "talk", "ts": 1761173700312}
-{"day": "20251022", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "103300_120", "stream": "desk", "ts": 1761173700320}
-{"change_class": "substantive", "day": "20251022", "event": "sense.change_detect", "mode": "segment", "segment": "103300_120", "stream": "desk", "ts": 1761173700321}
-{"day": "20251022", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "103300_120", "stream": "desk", "ts": 1761173700322}
-{"day": "20251022", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "103300_120", "stream": "desk", "ts": 1761173700323}
+{"day": "20251022", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "103300_0", "stream": "import.image", "ts": 1761173700320}
+{"change_class": "substantive", "day": "20251022", "event": "sense.change_detect", "mode": "segment", "segment": "103300_0", "stream": "import.image", "ts": 1761173700321}
+{"day": "20251022", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "103300_0", "stream": "import.image", "ts": 1761173700322}
 {"day": "20251022", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "104100_180", "stream": "talk", "ts": 1761173700330}
 {"change_class": "substantive", "day": "20251022", "event": "sense.change_detect", "mode": "segment", "segment": "104100_180", "stream": "talk", "ts": 1761173700331}
 {"day": "20251022", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "104100_180", "stream": "talk", "ts": 1761173700332}
@@ -172,10 +171,9 @@
 {"day": "20251022", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "140500_180", "stream": "talk", "ts": 1761173700510}
 {"change_class": "substantive", "day": "20251022", "event": "sense.change_detect", "mode": "segment", "segment": "140500_180", "stream": "talk", "ts": 1761173700511}
 {"day": "20251022", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "140500_180", "stream": "talk", "ts": 1761173700512}
-{"day": "20251022", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "140800_120", "stream": "desk", "ts": 1761173700520}
-{"change_class": "substantive", "day": "20251022", "event": "sense.change_detect", "mode": "segment", "segment": "140800_120", "stream": "desk", "ts": 1761173700521}
-{"day": "20251022", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "140800_120", "stream": "desk", "ts": 1761173700522}
-{"day": "20251022", "event": "talent.complete", "mode": "segment", "name": "screen", "segment": "140800_120", "stream": "desk", "ts": 1761173700523}
+{"day": "20251022", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "140800_0", "stream": "import.image", "ts": 1761173700520}
+{"change_class": "substantive", "day": "20251022", "event": "sense.change_detect", "mode": "segment", "segment": "140800_0", "stream": "import.image", "ts": 1761173700521}
+{"day": "20251022", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "140800_0", "stream": "import.image", "ts": 1761173700522}
 {"day": "20251022", "density": "low_change", "event": "sense.complete", "mode": "segment", "segment": "141200_0", "stream": "import.image", "ts": 1761173700530}
 {"change_class": "substantive", "day": "20251022", "event": "sense.change_detect", "mode": "segment", "segment": "141200_0", "stream": "import.image", "ts": 1761173700531}
 {"day": "20251022", "event": "talent.complete", "mode": "segment", "name": "documents", "segment": "141200_0", "stream": "import.image", "ts": 1761173700532}

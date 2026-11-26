@@ -2,6 +2,19 @@
 
 *The inventions merged scopes have made that the world does not already hold. Every later scope reads this file and honours it. The editor folds each accepted scope's `canon-delta.md` in here; see the content plan.*
 
+## The Theatre of Memory (2026-11-25)
+
+*Editor, 2026-11-25. This entry supersedes `world/world.md` § 2.1, § 2.4 and § 2.7 for screens and for calls only. The world file is assembled from the fold files and is left as written. § 2.14 still holds: other people do not remark on the devices.*
+
+His words, for the desk frames: *"go through all the current screenshots in the williams journal and decide first if it should be a photo instead of a screenshot and update it's segment accordingly, and then convert the rest of the screenshots, and ask it to take full liberty and read the setting of the day and surrounding segments to embellish and make the screenshot and it's data more rich, and also to go look for a bunch more places where we could add screenshots using other apps like The Glass, and generate actual face-forward profile pics like people would be looking at the camera, it has creative license to add anything it thinks is appropriate and adds depth to the areas it's picked."* The same day, on what a screenshot is: *"it's a screenshot meant to represent an idea of what his might have looked like in an alt-history kind of way where he had a computer"*. On The Glass: *"a video conferencing app with some of the faces he meets with"*.
+
+What that governs:
+
+- A desk frame is his computer, the Theatre of Memory, unless the segment was made a photo because the thing is a physical scene: a bill nailed up out of doors, a packet in the room, a stage seen from the yard or the door.
+- The cabinets are the board (foul papers, the tables, parts and plots), the bookwheel (books, bills, pamphlets and proofs), the almanack, the account book, letters, the commonplace book, and the glass.
+- `glass` is a desk surface. A call can show the other person's face, looking out of the glass. His own place on it is an empty oval. He still has no face. Nobody in the world remarks on the glass.
+- A frame's visual line may name those cabinets. It describes what is on the cabinet. It does not say computer, screenshot, window or cursor.
+- Profile pictures look into the camera, one manner for the whole year. William still has no picture.
 
 ## Week of 9 Mar 2025
 

@@ -1,0 +1,75 @@
+{
+  "overview": "Heminges called from Aldermanbury. The court is at Whitehall because the Queen came up yesterday. My lord of Huntingdon is dead in the north, and she would tell the Countess herself. You had already heard from Kettleby's boy that she goes back Monday and that the players are looked for at Richmond. His tilt-boat is Davy Gannet's, for Wednesday's flood, with a deposit down and no sum spoken. If she does not go Monday, you follow her, and he named a second deposit without a figure.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Confirmed Monday, and said you would follow if she stays."
+    },
+    {
+      "name": "John Heminges",
+      "role": "attendee",
+      "formal_term": "John Heminges",
+      "appointment_tier": "not_applicable",
+      "context": "Named Whitehall, the death, the boat, and a second deposit with no figure."
+    },
+    {
+      "name": "Ambrose Kettleby",
+      "role": "mentioned",
+      "formal_term": "Ambrose Kettleby",
+      "appointment_tier": "not_applicable",
+      "context": "Not on the line. His boy had already brought the Monday word."
+    },
+    {
+      "name": "Davy Gannet",
+      "role": "mentioned",
+      "formal_term": "Davy Gannet",
+      "appointment_tier": "not_applicable",
+      "context": "Not on the line. The tilt-boat is his, and the deposit was not spoken as a number."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Whitehall",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Huntingdon",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Monday",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the tilt-boat",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "a second deposit",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Heminges"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-12-20",
+      "meaning": "In the glass with Heminges"
+    }
+  ],
+  "summary": "Spoke in the glass with Heminges"
+}

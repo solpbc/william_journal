@@ -1,0 +1,80 @@
+{
+  "overview": "Field called from his own shop, where the shelf has had a gap for six weeks. You said the Holinshed is in daily use and in excellent health, and that the cat reads only the second volume. He let that go. Sunday is dinner, after sermon, and Jacqueline has a hen. You are to bring the comedy if the book-keeper will loose it. He will read it with the door shut, and he cannot come to hear it. The chronicle stays.",
+  "parties": [
+    {
+      "name": "Richard Field",
+      "role": "attendee",
+      "formal_term": "Richard Field",
+      "appointment_tier": "not_applicable",
+      "context": "Named himself and the shop, let the cat stand, set the dinner, and asked for the comedy."
+    },
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Kept the chronicle, promised the comedy, and matched his goodbye."
+    },
+    {
+      "name": "Jacqueline Field",
+      "role": "mentioned",
+      "formal_term": "Jacqueline Field",
+      "appointment_tier": "not_applicable",
+      "context": "Was named as the one with the hen, and was not on the call."
+    },
+    {
+      "name": "Gib",
+      "role": "mentioned",
+      "formal_term": "Gib",
+      "appointment_tier": "not_applicable",
+      "context": "Was the reader of the second volume, and was not present."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "six weeks",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the second volume",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Sunday's hen",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the door shut",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Holinshed",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Field"
+    },
+    {
+      "name": "Love's Labour's Lost",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Field"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Field"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-04-28",
+      "meaning": "In the glass with Field"
+    }
+  ],
+  "summary": "Spoke in the glass with Field"
+}

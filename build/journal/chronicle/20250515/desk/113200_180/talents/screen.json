@@ -1,5 +1,5 @@
 {
-  "narrative": "Hobbins at the horse. Two letters, and a parcel in paper. The pen is on the wrapper. Anne's short letter is in the other hand, not yet opened on this leaf. The coin, and no second sum. Edmund's letter goes sealed, as it was. Gilbert's parcel is set aside to come back.",
+  "narrative": "The letter, open. Hobbins at the horse. Two letters, and a parcel in paper. The pen is on the wrapper. Anne's short letter is in the other hand, not yet opened on this leaf. The letter, open. The coin, and no second sum. Edmund's letter goes sealed, as it was. Gilbert's parcel is set aside to come back.",
   "entities": [
     {
       "type": "Person",
@@ -12,6 +12,12 @@
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Paid tenpence, marked the thimble, and kept Edmund's letter as it was."
+    },
+    {
+      "type": "Tool",
+      "name": "letter",
+      "role": "mentioned",
+      "context": "Shown on letter in Tenpence, and the mark"
     }
   ]
 }

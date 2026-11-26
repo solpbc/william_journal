@@ -1,0 +1,17 @@
+{
+  "narrative": "In the commonplace book, under Words.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote both, and left them."
+    },
+    {
+      "type": "Tool",
+      "name": "commonplace",
+      "role": "mentioned",
+      "context": "Shown on commonplace in Under Words"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "narrative": "In the glass. Southampton looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Stood, answered, and did not promise a line."
+    },
+    {
+      "type": "Person",
+      "name": "Henry Wriothesley, 3rd Earl of Southampton",
+      "role": "attendee",
+      "context": "Named himself and Holborn, asked for the fourteen lines, and commended him."
+    },
+    {
+      "type": "Person",
+      "name": "John Florio",
+      "role": "mentioned",
+      "context": "At his elbow, frowning, and then a horse off the stair. He was not a third voice in the talk."
+    },
+    {
+      "type": "Tool",
+      "name": "fourteen lines",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Southampton"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Southampton"
+    }
+  ]
+}

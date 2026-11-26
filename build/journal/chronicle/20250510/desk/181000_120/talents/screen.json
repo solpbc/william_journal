@@ -1,0 +1,23 @@
+{
+  "narrative": "In the glass. Burbage looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Cuthbert Burbage",
+      "role": "attendee",
+      "context": "Named himself and Holywell, brought the figure and the clause, and asked you to keep his father from the curse."
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Asked the play's worth, offered a king, and agreed nothing."
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Burbage"
+    }
+  ]
+}

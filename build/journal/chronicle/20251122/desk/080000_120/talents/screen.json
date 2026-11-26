@@ -1,0 +1,35 @@
+{
+  "narrative": "In the glass. Quiney looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Named the tapsters, refused the fellows, and set Monday at six."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Quiney",
+      "role": "attendee",
+      "context": "Named the Bell, set the supper, and stood the wine on a yes."
+    },
+    {
+      "type": "Project",
+      "name": "the Bell",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Quiney"
+    },
+    {
+      "type": "Project",
+      "name": "the town's paper",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Quiney"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Quiney"
+    }
+  ]
+}

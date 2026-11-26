@@ -1,11 +1,17 @@
 {
-  "narrative": "One candle. The sheet lies flat. The ink is still dark. There is no wafer and no thread. Your hand is off the leaf. The middle of the sheet. The line is left as written. Nothing is struck through. The coffer is shut at the edge of the table. The line does not give a sum in pounds and shillings. The pen is set down.",
+  "narrative": "The letter, open. One candle. The sheet lies flat. The ink is still dark. There is no wafer and no thread. Your hand is off the leaf. The letter, open. The middle of the sheet. The line is left as written. Nothing is struck through. The letter, open. The coffer is shut at the edge of the table. The line does not give a sum in pounds and shillings. The pen is set down.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Visible/present in Left the letter open on the desk"
+    },
+    {
+      "type": "Tool",
+      "name": "letter",
+      "role": "mentioned",
+      "context": "Shown on letter in Left the letter open on the desk"
     }
   ]
 }

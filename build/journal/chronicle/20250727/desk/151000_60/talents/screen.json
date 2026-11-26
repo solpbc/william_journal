@@ -1,11 +1,17 @@
 {
-  "narrative": "The account book is open at today's count. The linen belt is coiled on the page. The locked sum is not on the page.",
+  "narrative": "In the account book. The account book is open at today's count. The linen belt is coiled on the page. The locked sum is not on the page.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Looked, and did not count again."
+    },
+    {
+      "type": "Tool",
+      "name": "ledger",
+      "role": "mentioned",
+      "context": "Shown on ledger in The Sunday count"
     }
   ]
 }

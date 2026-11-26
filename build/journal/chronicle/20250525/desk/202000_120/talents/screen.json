@@ -1,0 +1,23 @@
+{
+  "narrative": "In the commonplace book, under Of Kings.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the page and did not start another sheet."
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on commonplace in Under Of Kings"
+    },
+    {
+      "type": "Project",
+      "name": "blue starch",
+      "role": "mentioned",
+      "context": "Shown on commonplace in Under Of Kings"
+    }
+  ]
+}

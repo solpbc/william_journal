@@ -1,5 +1,5 @@
 {
-  "narrative": "The commonplace is open at the Verona page. The Lent blank is still a blank. Friday's three notes sit under it and do not fill it. The letter to Anne is on the board, unfolded, with no day in it. Gib is on the Golding, off the page.",
+  "narrative": "In the commonplace book. The commonplace is open at the Verona page. The Lent blank is still a blank. Friday's three notes sit under it and do not fill it. The letter to Anne is on the board, unfolded, with no day in it. Gib is on the Golding, off the page.",
   "entities": [
     {
       "type": "Person",
@@ -17,7 +17,7 @@
       "type": "Tool",
       "name": "the commonplace",
       "role": "mentioned",
-      "context": "Shown on book in The dash, still a dash"
+      "context": "Shown on commonplace in The dash, still a dash"
     }
   ]
 }

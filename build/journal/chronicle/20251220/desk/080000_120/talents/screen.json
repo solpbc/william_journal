@@ -1,0 +1,35 @@
+{
+  "narrative": "In the glass. Heminges looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Confirmed Monday, and said you would follow if she stays."
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "context": "Named Whitehall, the death, the boat, and a second deposit with no figure."
+    },
+    {
+      "type": "Person",
+      "name": "Ambrose Kettleby",
+      "role": "mentioned",
+      "context": "Not on the line. His boy had already brought the Monday word."
+    },
+    {
+      "type": "Person",
+      "name": "Davy Gannet",
+      "role": "mentioned",
+      "context": "Not on the line. The tilt-boat is his, and the deposit was not spoken as a number."
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Heminges"
+    }
+  ]
+}

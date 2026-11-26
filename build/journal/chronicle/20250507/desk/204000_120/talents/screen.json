@@ -1,0 +1,23 @@
+{
+  "narrative": "In the commonplace book, under Of Kings.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the sentence under Of Kings."
+    },
+    {
+      "type": "Project",
+      "name": "1 Hercules",
+      "role": "mentioned",
+      "context": "Shown on commonplace in Under Of Kings"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "context": "Shown on commonplace in Under Of Kings"
+    }
+  ]
+}

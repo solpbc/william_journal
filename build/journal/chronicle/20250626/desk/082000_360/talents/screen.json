@@ -1,11 +1,17 @@
 {
-  "narrative": "A short letter, the canvas of silver beside it, not yet tied. No face. The same sheet, three names, and a commendation. Nothing about the price of butter. Nothing about a prison. No face. The foot of the sheet. The date. No second paragraph. No face.",
+  "narrative": "The letter, open. A short letter, the canvas of silver beside it, not yet tied. The letter, open. The same sheet, three names, and a commendation. Nothing about the price of butter. Nothing about a prison. The letter, open. The foot of the sheet. The date. No second paragraph.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Wrote the short letter and dated it the twenty-sixth."
+    },
+    {
+      "type": "Tool",
+      "name": "letter",
+      "role": "mentioned",
+      "context": "Shown on letter in The line, and the canvas"
     }
   ]
 }

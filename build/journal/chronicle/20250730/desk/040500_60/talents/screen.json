@@ -1,11 +1,17 @@
 {
-  "narrative": "The writing-tables are open in the grey light at the settle. Yesterday's four words are still on the leaf, and the six words above them. Nothing has been wiped.",
+  "narrative": "On the tables. The writing-tables are open in the grey light at the settle. Yesterday's four words are still on the leaf, and the six words above them. Nothing has been wiped.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Read the leaf and did not wipe it."
+    },
+    {
+      "type": "Tool",
+      "name": "tables",
+      "role": "mentioned",
+      "context": "Shown on tables in Four words at first light"
     }
   ]
 }

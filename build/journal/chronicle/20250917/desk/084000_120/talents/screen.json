@@ -1,0 +1,29 @@
+{
+  "narrative": "In the glass. Field looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Asked if the margin abused him, promised the letter, and did not answer the book."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "context": "Named himself and his shop, withheld the word, and asked for the Holinshed."
+    },
+    {
+      "type": "Project",
+      "name": "the Greyhound",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Field"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Field"
+    }
+  ]
+}

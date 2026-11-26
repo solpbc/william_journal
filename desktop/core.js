@@ -422,7 +422,7 @@
     id: "commonplace", title: "Commonplace Book", sub: "Of Kings · Of Love · Of Time · Words · Faces · Prices", size: [600, 500],
     render(body) {
       const heads = ["Of Kings", "Of Love", "Of Time", "Words", "Faces", "Prices"];
-      let cur = "Of Kings", q = "";
+      let cur = (D.scene && D.scene.cpHead) || "Of Kings", q = "";
       const nav = h("nav", { class: "cp-heads" }), list = h("div", { class: "cp-list" });
       const search = h("input", { class: "cp-q", placeholder: "Seek a word…" });
       const txt = h("textarea", { rows: 2, placeholder: "Copy it out…" }), src = h("input", { placeholder: "whence" });

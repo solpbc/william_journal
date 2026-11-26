@@ -1,11 +1,17 @@
 {
-  "narrative": "The book open on the table, a fresh line, the belt lighter, no sum at the foot. The next line, a space beneath, the pen set down before any adding.",
+  "narrative": "In the account book. The book open on the table, a fresh line, the belt lighter, no sum at the foot. In the account book. The next line, a space beneath, the pen set down before any adding.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Wrote the two lines, and did not add them."
+    },
+    {
+      "type": "Tool",
+      "name": "ledger",
+      "role": "mentioned",
+      "context": "Shown on ledger in Two lines, and no total"
     }
   ]
 }

@@ -1,11 +1,17 @@
 {
-  "narrative": "A short bill on the shop counter, the quire already under his arm. Field is at the type and is not in this line of sight. No play-title is on the paper. He turns the bill over. The back is blank. He does not write a hall, a sum, or a name.",
+  "narrative": "The bill, on the bookwheel. A short bill on the shop counter, the quire already under his arm. Field is at the type and is not in this line of sight. No play-title is on the paper. The bill, on the bookwheel. He turns the bill over. The back is blank. He does not write a hall, a sum, or a name.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Took the quire and did not write a second line."
+    },
+    {
+      "type": "Tool",
+      "name": "bill",
+      "role": "mentioned",
+      "context": "Shown on bill in One quire, the old trade"
     }
   ]
 }

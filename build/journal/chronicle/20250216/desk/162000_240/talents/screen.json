@@ -1,11 +1,17 @@
 {
-  "narrative": "A leaf from the Sunday before lies beside today's letter. Three lines are struck through with one pen-stroke. The fair letter does not contain them. No hand is in the frame. The same leaf. Under the stroke, nothing is copied onto today's sheet. The inflated number stays on the old paper. Today's sheet, folded once, the direction outward. The struck leaf is still beside it and is not inside the fold.",
+  "narrative": "On the board. A leaf from the Sunday before lies beside today's letter. Three lines are struck through with one pen-stroke. The fair letter does not contain them. No hand is in the frame. On the board. The same leaf. Under the stroke, nothing is copied onto today's sheet. The inflated number stays on the old paper. On the board. Today's sheet, folded once, the direction outward. The struck leaf is still beside it and is not inside the fold.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Cut the story and left the letter for the twenty-seventh."
+    },
+    {
+      "type": "Tool",
+      "name": "draft",
+      "role": "mentioned",
+      "context": "Shown on draft in The London story, struck"
     }
   ]
 }

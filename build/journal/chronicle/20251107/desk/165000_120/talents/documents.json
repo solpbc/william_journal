@@ -1,0 +1,81 @@
+{
+  "overview": "Still in a duke's gown from Richard the Third, you took the call from Somerset House. You are sent for three nights at Richmond: St Stephen's, St John's, and Innocents'. He wants the Navarre comedy, the tragedy of two lovers, and something old to laugh at with a cup. He refused the king, because a book has come out of Antwerp with Essex's name on it. He stood at the back of yesterday's house like a carter, and Burbage made him weep. Heneage's office is not filled. You will be paid slow. Nothing was paid. He wants clean hose, and he did not say whose heel. You did not choose the old play.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Answered, and kept the old play unchosen."
+    },
+    {
+      "name": "Henry Carey, 1st Lord Hunsdon",
+      "role": "heard",
+      "formal_term": "Henry Carey, 1st Lord Hunsdon",
+      "appointment_tier": "not_applicable",
+      "context": "Commanded the three nights from Somerset House, and refused the king."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "three nights",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Antwerp",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "not the king",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "paid slow",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "clean hose",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Richard III",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Hunsdon"
+    },
+    {
+      "name": "Richard II",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Hunsdon"
+    },
+    {
+      "name": "the Navarre comedy",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Hunsdon"
+    },
+    {
+      "name": "the lovers' play",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Hunsdon"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Hunsdon"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-11-07",
+      "meaning": "In the glass with Hunsdon"
+    }
+  ],
+  "summary": "Spoke in the glass with Hunsdon"
+}

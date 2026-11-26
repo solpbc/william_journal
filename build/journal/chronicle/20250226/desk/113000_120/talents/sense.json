@@ -1,0 +1,71 @@
+{
+  "density": "low_change",
+  "content_type": "writing",
+  "activity_summary": "Richard Field called from the Blackfriars. Harrison will print Venus again, small, in octavo, and not a penny in it for you. You said you were glad to be thought portable. He asked for a third poem and said the press stands idle on Fridays. He does not hold with the comedy, and he asked to borrow the book when Garnish can spare it. He will lay by two quires of Rochelle crown at fourpence halfpenny. You did not pay. He asked after your father. You said the last word was mending, and that tomorrow's carrier is the next news. You ended on God keep thee, and he answered and thee.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Called the small book a good fate, left the quires unpaid, and kept his father at mending until Thursday.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Richard Field",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Offered the octavo, the idle Friday press, the loan of the comedy, and two quires at fourpence halfpenny, and asked after Henley Street.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "Venus and Adonis \u00b7 Project; the glass",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the glass with Field",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "writing",
+      "activity": "Spoke in the glass with Field",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "octavo Venus",
+    "not a penny",
+    "two quires",
+    "fourpence halfpenny",
+    "mending",
+    "tomorrow's carrier"
+  ],
+  "quotes": [
+    {
+      "speaker": "richard_field",
+      "text": "And not a penny in it for thee, as thou knowest."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I am glad to be thought portable."
+    },
+    {
+      "speaker": "richard_field",
+      "text": "I don't hold with it."
+    },
+    {
+      "speaker": "richard_field",
+      "text": "And thee."
+    }
+  ]
+}

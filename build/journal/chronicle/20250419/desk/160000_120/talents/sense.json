@@ -1,0 +1,101 @@
+{
+  "density": "low_change",
+  "content_type": "meeting",
+  "activity_summary": "Heminges called from Aldermanbury with a house full of boys. Sam had a cold and was being kept dumb by the fire with honey. Arthur was learning the owl too well, as if it were a judgment. You said the owl may be a judgment and the cuckoo cannot. You agreed: Sam if he can, Arthur if he must, and no word to Sam. Asked whether the king goes forward, you said he is talking. He wished you Easter joy.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Answered the owl, agreed the order, and said the king is talking.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "John Heminges",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Called from Aldermanbury, reported the boys, and asked after the king.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "Sam Latchet",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned. He was by the fire, dumb, and not told.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Arthur Meeks",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned. He was learning the owl too well, and not on the call.",
+      "level": "medium"
+    },
+    {
+      "type": "Person",
+      "name": "Augustine Phillips",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned. He had Sam by the fire with honey.",
+      "level": "medium"
+    },
+    {
+      "type": "Project",
+      "name": "Richard II",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the glass with Heminges",
+      "level": "medium"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the glass with Heminges",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "company",
+      "activity": "Spoke in the glass with Heminges",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "the croak",
+    "the owl as a judgment",
+    "no word to Sam",
+    "the king talking"
+  ],
+  "quotes": [
+    {
+      "speaker": "john_heminges",
+      "text": "From Aldermanbury, with a house full of boys."
+    },
+    {
+      "speaker": "john_heminges",
+      "text": "He sings it as if it were a judgment."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "The owl may be a judgment and the cuckoo cannot."
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "He's talking."
+    }
+  ]
+}

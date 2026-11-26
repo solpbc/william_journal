@@ -1,0 +1,68 @@
+{
+  "overview": "Cuthbert called from a scrivener's in Cheapside. The Mayor's letter to the Council, against plays, came as hearsay from a Guildhall clerk. It names the Bankside and also Middlesex, which is his father's house and two miles of fields. His man could not swear the Theatre was named. You were to say nothing until the play was done.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Asked about James, and said nothing further until after the play."
+    },
+    {
+      "name": "Cuthbert Burbage",
+      "role": "attendee",
+      "formal_term": "Cuthbert Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Named himself and Cheapside, gave the hearsay, and said he would come by five."
+    },
+    {
+      "name": "James Burbage",
+      "role": "mentioned",
+      "formal_term": "James Burbage",
+      "appointment_tier": "not_applicable",
+      "context": "Not told yet. Cuthbert would rather he heard it after he had eaten."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "hearsay",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Bankside",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "Middlesex",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the justices",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Bankside",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Burbage"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Burbage"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-09-13",
+      "meaning": "In the glass with Burbage"
+    }
+  ],
+  "summary": "Spoke in the glass with Burbage"
+}

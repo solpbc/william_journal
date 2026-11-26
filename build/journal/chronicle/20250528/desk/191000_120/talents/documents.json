@@ -1,0 +1,56 @@
+{
+  "overview": "Under Prices in the commonplace book you wrote \"blew starch: forbid. the loaf: ij fingers.\"",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote the line under Prices."
+    },
+    {
+      "name": "Mistress Dorcas Ansell",
+      "role": "mentioned",
+      "formal_term": "Mistress Dorcas Ansell",
+      "appointment_tier": "not_applicable",
+      "context": "Wrote under Prices in the commonplace book"
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "Prices",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "blue starch",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the loaf",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the penny loaf",
+      "asset_type": "other",
+      "disposition": "Wrote under Prices in the commonplace book"
+    },
+    {
+      "name": "blue starch",
+      "asset_type": "other",
+      "disposition": "Wrote under Prices in the commonplace book"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-05-28",
+      "meaning": "Under Prices"
+    }
+  ],
+  "summary": "Wrote under Prices in the commonplace book"
+}

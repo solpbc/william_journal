@@ -1,11 +1,17 @@
 {
-  "narrative": "The letter on the board, one candle, no wafer, no thread. The ink is dry. The packet is set down beside it, still folded, writing in. The middle of the sheet. Nothing struck through since morning. The coffer at the bed's foot is shut. The signature. The pen is not in the hand. The packet's edge is in the candlelight and is not opened.",
+  "narrative": "The letter, open. The letter on the board, one candle, no wafer, no thread. The ink is dry. The packet is set down beside it, still folded, writing in. The letter, open. The middle of the sheet. Nothing struck through since morning. The coffer at the bed's foot is shut. The letter, open. The signature. The pen is not in the hand. The packet's edge is in the candlelight and is not opened.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Set the fold down and left the sheet."
+    },
+    {
+      "type": "Tool",
+      "name": "letter",
+      "role": "mentioned",
+      "context": "Shown on letter in Found the letter open on the board"
     }
   ]
 }

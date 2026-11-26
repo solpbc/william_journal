@@ -28,7 +28,7 @@
   const short = d => { const x = new Date(d + "T12:00"); return `${WD[x.getDay()]} ${x.getDate() > 30 ? "xxxj" : ROMAN(x.getDate())} ${MON[x.getMonth()]}`; };
   const html = f => f.text.map(t => `<p>${esc(t).replace(/\n/g, "<br>")}</p>`).join("");
   const isPaper = s => ["draft", "tables", "part", "plot", null].includes(s);
-  const appFor = f => f.surface === "glass" ? "glass" : isPaper(f.surface) ? "papers" : f.surface === "ledger" ? "accounts" : f.surface === "letter" ? "letters" : ["book", "bill", "pamphlet"].includes(f.surface) ? "wheel" : f.surface === "almanac" ? "almanac" : null;
+  const appFor = f => f.surface === "glass" ? "glass" : f.surface === "commonplace" ? "commonplace" : isPaper(f.surface) ? "papers" : f.surface === "ledger" ? "accounts" : f.surface === "letter" ? "letters" : ["book", "bill", "pamphlet", "proof"].includes(f.surface) ? "wheel" : f.surface === "almanac" ? "almanac" : null;
 
   /* the papers on the board: the latest state of each work, newest first */
   const key = f => f.surface === "tables" ? "tables" : `${f.surface || "leaf"}:${f.work || "loose"}`;
@@ -78,17 +78,27 @@
   D.marks = {}; upto.filter(f => f.surface === "almanac").forEach(f => { D.marks[f.day] = f.text.join("\n").split("\n").filter(Boolean); });
 
   /* the bookwheel: what he has read, the current page last */
-  const pages = upto.filter(f => ["book", "bill", "pamphlet"].includes(f.surface)).slice(-3);
-  if (cur && ["book", "bill", "pamphlet"].includes(cur.surface) && !pages.includes(cur)) pages.push(cur);
+  const onWheel = f => ["book", "bill", "pamphlet", "proof"].includes(f.surface);
+  const pages = upto.filter(onWheel).slice(-3);
+  if (cur && onWheel(cur) && !pages.includes(cur)) pages.push(cur);
   const pid = f => `j-${f.day}-${f.seg}`;
   pages.forEach(f => {
     const lines = f.text.join("\n").split("\n").filter(Boolean);
     D.pages[pid(f)] = f.surface === "bill"
       ? { sign: "the post", title: "On the post", body: [["bill1", lines[0], lines.slice(1).join(" ")]] }
-      : { sign: f.surface === "pamphlet" ? "the stall in Paul's" : (f.work || "a booke"), title: cap(f.work) || lines[0], body: [["verse", lines.join("\n")]] };
+      : { sign: f.surface === "pamphlet" ? "the stall in Paul's" : (f.work || "a booke"), title: cap(f.work) || lines[0] || "A booke", body: [["verse", lines.join("\n") || " "]] };
   });
 
   D.commonplace = D.commonplace.filter(e => !e.day || e.day <= day);
+  const HEADS = ["Of Kings", "Of Love", "Of Time", "Words", "Faces", "Prices"];
+  let cpHead = null;
+  upto.filter(f => f.surface === "commonplace").forEach(f => {
+    const blob = f.text.join("\n");
+    const head = HEADS.find(h => blob.includes(h)) || "Words";
+    const text = blob.split("\n").filter(l => l.trim() && !HEADS.includes(l.trim())).join("\n");
+    if (text) D.commonplace.push({ day: f.day, head, text, src: "the book" });
+    if (cur && f === cur) cpHead = head;
+  });
 
   /* which cabinets are open: the frame's own, and the last other thing he had out today */
   const open = [];
@@ -104,7 +114,7 @@
   } else { front = "glass"; open.push("glass"); }
 
   D.scene = {
-    id: fr || cl, frame: cur, call, open, focus: front, front, behind,
+    id: fr || cl, frame: cur, call, open, focus: front, front, behind, cpHead,
     after(os) {
       if (compose) { const ta = document.querySelector(".win[data-app=letters] textarea"); if (ta) { ta.value = compose; ta.style.height = "200px"; } }
     }

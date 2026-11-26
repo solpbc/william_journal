@@ -1,11 +1,17 @@
 {
-  "narrative": "The narrow book, open at the payments. One new line, in the same hand as the lines above it.",
+  "narrative": "In the account book. The narrow book, open at the payments. One new line, in the same hand as the lines above it.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Wrote the one line."
+    },
+    {
+      "type": "Tool",
+      "name": "ledger",
+      "role": "mentioned",
+      "context": "Shown on ledger in Candles, fourpence"
     }
   ]
 }

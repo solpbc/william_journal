@@ -1,0 +1,35 @@
+{
+  "narrative": "In the glass. Shakespeare looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Opened from Great St Helen's, left the cheese where it was, and named ten o'clock and twelve pence."
+    },
+    {
+      "type": "Person",
+      "name": "Gilbert Shakespeare",
+      "role": "attendee",
+      "context": "Gave the carrier's word, the cheese, the father's sentence, and the offer of the shop pliers. He kept the rind."
+    },
+    {
+      "type": "Tool",
+      "name": "the cheese",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Shakespeare"
+    },
+    {
+      "type": "Tool",
+      "name": "the August frame",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Shakespeare"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Shakespeare"
+    }
+  ]
+}

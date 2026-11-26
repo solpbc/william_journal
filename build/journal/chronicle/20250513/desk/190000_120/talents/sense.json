@@ -1,0 +1,65 @@
+{
+  "density": "low_change",
+  "content_type": "social",
+  "activity_summary": "Gilbert, from St Bride's and back since Saturday, said the buckets and leather hooks hang filled by every well in Henley Street as the bailiff ordered. Anne's beans are a span high. Hamnet won twopence at the butts with blunt arrows. Your mother would know whether you eat. You said you eat. Hobbins is in on Thursday, Gilbert cannot leave the shop, and you will fetch what has come. The girl's day is the twenty-sixth. You had forgot it. So had he, until the almanac. He will send the almanac.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Gilbert Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Named himself and St Bride's, brought the Stratford news, and named the twenty-sixth.",
+      "level": "high"
+    },
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "source": "screen",
+      "context": "Said you eat, agreed to fetch, and admitted you had forgot the day.",
+      "level": "high"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "source": "screen",
+      "context": "Mentioned in In the glass with Shakespeare",
+      "level": "medium"
+    }
+  ],
+  "facets": [
+    {
+      "facet": "stratford",
+      "activity": "Spoke in the glass with Shakespeare",
+      "level": "medium"
+    }
+  ],
+  "speculative_facet": null,
+  "meeting_detected": false,
+  "speakers": [],
+  "recommend": {
+    "screen_record": false,
+    "speaker_attribution": false
+  },
+  "topics": [
+    "Henley Street wells",
+    "twopence",
+    "the twenty-sixth",
+    "Thursday's fetch"
+  ],
+  "quotes": [
+    {
+      "speaker": "gilbert_shakespeare",
+      "text": "Brother? Gilbert. From St Bride's, and back since Saturday"
+    },
+    {
+      "speaker": "gilbert_shakespeare",
+      "text": "So had I, till the almanac told me"
+    },
+    {
+      "speaker": "william_shakespeare",
+      "text": "I'd forgot it"
+    }
+  ]
+}

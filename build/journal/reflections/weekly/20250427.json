@@ -70,8 +70,8 @@
         "briefing_day": "20250428",
         "refs": [
           "sol://facets/writing/activities/20250428#call_121500_180",
-          "sol://facets/company/activities/20250428#meeting_122200_240",
-          "sol://facets/writing/activities/20250428#note_151000_480"
+          "sol://facets/writing/activities/20250428#frame_121500_120",
+          "sol://facets/company/activities/20250428#meeting_122200_240"
         ]
       }
     },
@@ -119,7 +119,7 @@
         "refs": [
           "sol://facets/household/activities/20250501#meeting_060500_600",
           "sol://facets/household/activities/20250501#photo_063200_0",
-          "sol://facets/company/activities/20250501#frame_063800_120"
+          "sol://facets/company/activities/20250501#photo_063800_0"
         ]
       }
     },

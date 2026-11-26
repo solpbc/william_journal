@@ -1,11 +1,17 @@
 {
-  "narrative": "The folio sheet, folded once, daylight and the last of the candle. The older leaves are face down at the left, not turned. The pen is poised. One sentence at the top, the ink wet. Nothing under it yet. The pile is still face down. The sentence has grown by one clause. The hand is still on the line. No verse yet.",
+  "narrative": "On the board. The folio sheet, folded once, daylight and the last of the candle. The older leaves are face down at the left, not turned. The pen is poised. On the board. One sentence at the top, the ink wet. Nothing under it yet. The pile is still face down. On the board. The sentence has grown by one clause. The hand is still on the line. No verse yet.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Wrote the page, read it back, and left the blank."
+    },
+    {
+      "type": "Tool",
+      "name": "draft",
+      "role": "mentioned",
+      "context": "Shown on draft in Started the sheet with the workmen in the wood"
     }
   ]
 }

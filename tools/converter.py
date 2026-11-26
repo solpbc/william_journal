@@ -312,7 +312,10 @@ PAGE_INSTALL_MANIFEST = PROJECT_ROOT / "photos" / "pages" / "install.json"
 AUDIO_INSTALL_MANIFEST = PROJECT_ROOT / "audio" / "install.json"
 PHOTO_JPEG = "original.jpg"
 LEGACY_PHOTO_JPEG = "screenshot_screen.jpg"
-PAGE_JPEG = "page_screen.jpg"
+# The journal reads `screenshot_screen.jpg` as a screenshot. `page_screen.jpg`
+# is an unclaimed photo, so the segment never badges thought.
+PAGE_JPEG = "screenshot_screen.jpg"
+PRIOR_PAGE_JPEG = "page_screen.jpg"
 AUDIO_FLAC = "audio.flac"
 _REAL_PHOTO_MIN_BYTES = 2000
 _REAL_AUDIO_MIN_BYTES = 1024
@@ -367,7 +370,10 @@ def _photo_byte_candidates(day_dir: Path, seg: SegmentSpec) -> list[Path]:
             day_dir / "import.image" / seg.segment_key / PHOTO_JPEG,
             day_dir / "screenshots" / seg.legacy_screenshot_key / LEGACY_PHOTO_JPEG,
         ]
-    return [day_dir / seg.stream_name / seg.segment_key / PAGE_JPEG]
+    return [
+        day_dir / seg.stream_name / seg.segment_key / PAGE_JPEG,
+        day_dir / seg.stream_name / seg.segment_key / PRIOR_PAGE_JPEG,
+    ]
 
 
 def _preserved_photo_bytes(day_dir: Path, day_spec: DaySpec) -> dict[tuple[str, str], bytes]:
@@ -1913,6 +1919,17 @@ def _write_segment_files(
                 {
                     "type": m_item.entity_type,
                     "name": m_item.name,
+                    "role": "mentioned",
+                    "context": f"Shown on {seg.surface or 'surface'} in {seg.heading_title}",
+                }
+            )
+        # feed.py reads the surface only from this phrase. A frame with nobody
+        # else mentioned still has a cabinet, and the phrase stays out of screen_text.md.
+        if not any("Shown on " in e.get("context", "") for e in screen_entities):
+            screen_entities.append(
+                {
+                    "type": "Tool",
+                    "name": "the glass" if seg.surface == "glass" else (seg.surface or "the leaf"),
                     "role": "mentioned",
                     "context": f"Shown on {seg.surface or 'surface'} in {seg.heading_title}",
                 }

@@ -1,0 +1,35 @@
+{
+  "narrative": "In the glass. Quiney looks straight out of it. His own place is an empty oval, marked W. S.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Counted his twenty against the two hundred, and ended the call."
+    },
+    {
+      "type": "Person",
+      "name": "Richard Quiney",
+      "role": "attendee",
+      "context": "Named himself and the Bell, asked the supper, and gave the taste of home."
+    },
+    {
+      "type": "Project",
+      "name": "the Stratford brief",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Quiney"
+    },
+    {
+      "type": "Tool",
+      "name": "ten quarters of barley",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Quiney"
+    },
+    {
+      "type": "Tool",
+      "name": "the glass",
+      "role": "mentioned",
+      "context": "Shown on glass in In the glass with Quiney"
+    }
+  ]
+}

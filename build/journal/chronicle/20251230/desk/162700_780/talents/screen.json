@@ -1,11 +1,17 @@
 {
-  "narrative": "The small leaf has not grown. The light is poorer. No candle yet. The packet, edges only. No leaf pulled out of it. Ink on the forefinger from the morning, dry. The desk from a step back. Note, packet, letter. The cloak is on the peg again. Nothing is in the hand.",
+  "narrative": "On the board. The small leaf has not grown. The light is poorer. No candle yet. On the board. The packet, edges only. No leaf pulled out of it. Ink on the forefinger from the morning, dry. On the board. The desk from a step back. Note, packet, letter. The cloak is on the peg again. Nothing is in the hand.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Visible/present in Left the note at two sentences"
+    },
+    {
+      "type": "Tool",
+      "name": "draft",
+      "role": "mentioned",
+      "context": "Shown on draft in Left the note at two sentences"
     }
   ]
 }

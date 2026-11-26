@@ -1,0 +1,17 @@
+{
+  "narrative": "In the commonplace book, under Prices.",
+  "entities": [
+    {
+      "type": "Person",
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "context": "Wrote the page at the sacks and stopped."
+    },
+    {
+      "type": "Project",
+      "name": "the penny loaf",
+      "role": "mentioned",
+      "context": "Shown on commonplace in Under Prices"
+    }
+  ]
+}

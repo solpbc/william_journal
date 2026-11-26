@@ -3,6 +3,7 @@
 St Lawrence.
 Church, Holy Trinity, forenoon.
 Dinner, the Sadlers, after.
+August.
 
 ## 01:20 · The line he does not add
 

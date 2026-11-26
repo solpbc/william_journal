@@ -1,0 +1,1 @@
+You opened a heading, Of Kings, and wrote that it is not a play. The folded sheet has five lines: lists, a banishment, a death, a landing, a crown handed across. You copied the heralds at Coventry onto the sheet and did not speak them. Verona is shut. There is no speech.

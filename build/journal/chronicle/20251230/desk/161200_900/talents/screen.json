@@ -1,11 +1,17 @@
 {
-  "narrative": "A small leaf, separate from the folded pile. Two sentences and no third. Grey light. The pen is down. The lower line. Nothing written beneath it. The folded pile is at the left, the writing turned in. Behind the note, the morning's letter, no wafer. The hand does not draw it forward.",
+  "narrative": "On the board. A small leaf, separate from the folded pile. Two sentences and no third. Grey light. The pen is down. On the board. The lower line. Nothing written beneath it. The folded pile is at the left, the writing turned in. On the board. Behind the note, the morning's letter, no wafer. The hand does not draw it forward.",
   "entities": [
     {
       "type": "Person",
       "name": "William Shakespeare",
       "role": "attendee",
       "context": "Read the two sentences and left the pen down."
+    },
+    {
+      "type": "Tool",
+      "name": "draft",
+      "role": "mentioned",
+      "context": "Shown on draft in Read those two sentences and left the pile folded"
     }
   ]
 }

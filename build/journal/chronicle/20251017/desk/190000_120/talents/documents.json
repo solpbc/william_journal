@@ -1,0 +1,66 @@
+{
+  "overview": "Florio spoke from my lord's house in Holborn, and the house was in black. Sir Thomas Heneage died this day at the Savoy. He was Vice-Chamberlain and Treasurer of the Chamber, and husband these eighteen months to my lord's mother. My lord is with her. There is a remedy for everything but death. You sent your duty and asked nothing. Then you asked who signs. A widow must first cast up the dead man's accounts. After that, who knows. He has not forgotten the Chaucer, and he will send it when the house is quieter. You did not pretend to have lost a friend. Nor did he.",
+  "parties": [
+    {
+      "name": "William Shakespeare",
+      "role": "attendee",
+      "formal_term": "William Shakespeare",
+      "appointment_tier": "not_applicable",
+      "context": "Sent his duty, asked nothing, then asked who signs, and did not pretend to a friendship he did not have."
+    },
+    {
+      "name": "John Florio",
+      "role": "attendee",
+      "formal_term": "John Florio",
+      "appointment_tier": "not_applicable",
+      "context": "Named the death, the widow's accounts, and the Chaucer still to come. He ended on the commendation."
+    }
+  ],
+  "key_provisions": [
+    {
+      "type": "other",
+      "text": "the house in black",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Savoy",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "who signs",
+      "applies_to": "William Shakespeare"
+    },
+    {
+      "type": "other",
+      "text": "the Chaucer waiting",
+      "applies_to": "William Shakespeare"
+    }
+  ],
+  "assets": [
+    {
+      "name": "the Chaucer",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Florio"
+    },
+    {
+      "name": "the Chamber",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Florio"
+    },
+    {
+      "name": "the glass",
+      "asset_type": "other",
+      "disposition": "Spoke in the glass with Florio"
+    }
+  ],
+  "conditions": [],
+  "important_dates": [
+    {
+      "date": "2025-10-17",
+      "meaning": "In the glass with Florio"
+    }
+  ],
+  "summary": "Spoke in the glass with Florio"
+}
